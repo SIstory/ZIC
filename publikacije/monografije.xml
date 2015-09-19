@@ -3,6 +3,7 @@
  xsi:noNamespaceSchemaLocation="monografije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="BG">Barbara Györfi</docAuthor>
       <docTitle>Citiranost monografij</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC By 4.0</docRights>
@@ -10,6 +11,7 @@
       <docNote corresp="#andrejp" when="2015-09-15">Sem preveril, da so monografije, ki imajo prepisane vse citate.</docNote>
       <docNote corresp="#andrejp" when="2015-09-13">V tem dokumentu so združene vse publikacije (monografije),
          v katerih so bili citati v celoti izpisani</docNote>
+      <docNote corresp="#BG" when="2015-09-19">Začetek urejanja monografij</docNote>
    </docMetadata>
    <publication did="2825" zalozba="Mohorjeva založba">
       <title>Prizadevanja koroških Slovencev za narodnostni obstoj po drugi svetovni vojni</title>
