@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="docMetadata"/>
+        <xs:element maxOccurs="unbounded" ref="publication"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="docMetadata">
+    <xs:annotation>
+      <xs:documentation>Metapodatki o XML dokumentu.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="docAuthor"/>
+        <xs:element ref="docTitle"/>
+        <xs:element maxOccurs="unbounded" minOccurs="0" ref="dataSource"/>
+        <xs:element ref="docRights"/>
+        <xs:element ref="docDate"/>
+        <xs:element maxOccurs="unbounded" minOccurs="0" ref="docNote"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="docAuthor">
+    <xs:annotation>
+      <xs:documentation>Avtor XML dokumenta.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" use="required" type="xs:NCName">
+        <xs:annotation>
+          <xs:documentation>Obvezno se doda unikatno identifikacijsko oznako avtorja.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="docTitle" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Naslov XML dokumenta.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="dataSource" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Vir podatkov, na podlagi katerih je nastal XML dokument (npr. Zgodovinarski indeks citiranosti).</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="docRights" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Avtorska pravica XML dokumenta (npr. CC By 4.0).</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="docDate" type="xs:date">
+    <xs:annotation>
+      <xs:documentation>Datum nastanka XML dokumenta.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="docNote">
+    <xs:annotation>
+      <xs:documentation>Opomba avtorja k urejanju XML dokumenta.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType mixed="true">
+      <xs:attribute name="corresp" use="required">
+        <xs:annotation>
+          <xs:documentation>Povezava na id avtorja. Začne z #id.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="when" use="required" type="xs:date">
+        <xs:annotation>
+          <xs:documentation>Dan, ko je avtor dodal opombo.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="publication">
+    <xs:annotation>
+      <xs:documentation>Publikacija (delo), iz katere se je v Zgodovinarskem indeksu citiranosti (ZIC) izpisovalo citate.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="pubTitle"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubAddTitle"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubPlace"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="publisher"/>
+        <xs:element ref="pubCobiss"/>
+        <xs:element ref="issn"/>
+        <xs:element maxOccurs="unbounded" ref="year"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:NCName">
+        <xs:annotation>
+          <xs:documentation>Identifikacijska oznaka publikacija. Se vpiše v primerih, ko je ista publikacija tudi med citiranimi deli.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pubAddTitle" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Prevod naslova revije.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="pubPlace" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Kraj izdaje revije.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="publisher" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Izdajatelj revije.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="pubCobiss" type="xs:integer">
+    <xs:annotation>
+      <xs:documentation>COBISS identifikator revije (NE članka revije).</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="issn" type="xs:NMTOKEN">
+    <xs:annotation>
+      <xs:documentation>ISSN identifikator revije.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="year">
+    <xs:annotation>
+      <xs:documentation>Leto izida revije.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="volume"/>
+        <xs:element maxOccurs="unbounded" ref="issue"/>
+      </xs:sequence>
+      <xs:attribute name="n" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Vpiši letnico izida revije.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="volume" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Letnik izida revije.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="issue">
+    <xs:annotation>
+      <xs:documentation>Številka revije</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="pubTitle"/>
+        <xs:element maxOccurs="unbounded" ref="pubPart"/>
+      </xs:sequence>
+      <xs:attribute name="n" type="xs:NMTOKEN">
+        <xs:annotation>
+          <xs:documentation>Vpiši številko revije.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pubPart">
+    <xs:annotation>
+      <xs:documentation>Članek v reviji.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="addTitle"/>
+          <xs:element ref="author"/>
+          <xs:element ref="title"/>
+        </xs:choice>
+        <xs:element minOccurs="0" ref="page"/>
+        <xs:element minOccurs="0" ref="cobiss"/>
+        <xs:element minOccurs="0" ref="citations"/>
+      </xs:sequence>
+      <xs:attribute name="did" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Unikatna identifikacijska oznaka dela (članka) v ZIC.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="addTitle" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Prevod naslova članka.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="author" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Avtor članka.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="title" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Naslov članka.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="page" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Od katere do katere strani je članek v reviji.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="cobiss" type="xs:NMTOKEN">
+    <xs:annotation>
+      <xs:documentation>COBISS identifikator članka.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="citations">
+    <xs:annotation>
+      <xs:documentation>Identifikacijske oznake citatov članka.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="cit"/>
+      </xs:sequence>
+      <xs:attribute name="count" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Število citatov članka.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cit">
+    <xs:annotation>
+      <xs:documentation>Citat v članku.</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="cid" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Identifikacijska oznaka citata v delu (članku).</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="did" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Identifikacijska oznaka dela (članka).</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pubTitle" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Naslov revije (kot serije) ali naslov revije (kot številke).</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+</xs:schema>
