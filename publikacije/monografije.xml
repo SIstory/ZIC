@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="monografije.xsd">
+   xsi:noNamespaceSchemaLocation="monografije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
       <docAuthor id="BG">Barbara Györfi</docAuthor>
@@ -8,19 +8,21 @@
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC By 4.0</docRights>
       <docDate>2015-09-15</docDate>
-      <docNote corresp="#andrejp" when="2015-09-15">Sem preveril, da so monografije, ki imajo prepisane vse citate.</docNote>
-      <docNote corresp="#andrejp" when="2015-09-13">V tem dokumentu so združene vse publikacije (monografije),
-         v katerih so bili citati v celoti izpisani</docNote>
+      <docNote corresp="#andrejp" when="2015-09-15">Sem preveril, da so monografije, ki imajo
+         prepisane vse citate.</docNote>
+      <docNote corresp="#andrejp" when="2015-09-13">V tem dokumentu so združene vse publikacije
+         (monografije), v katerih so bili citati v celoti izpisani</docNote>
       <docNote corresp="#BG" when="2015-09-19">Začetek urejanja monografij</docNote>
    </docMetadata>
    <publication did="2825" zalozba="Mohorjeva založba">
       <title>Prizadevanja koroških Slovencev za narodnostni obstoj po drugi svetovni vojni</title>
-      <author>Klemenčič Matjaž</author>
-      <author>Klemenčič Vladimir</author>
-      <pubPlace>Celovec - Ljubljana - Dunaj</pubPlace>
+      <author>Klemenčič, Matjaž</author>
+      <author>Klemenčič, Vladimir</author>
+      <pubPlace>Celovec</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <pubPlace>Dunaj</pubPlace>
       <publisher>Mohorjeva založba</publisher>
       <year>2006</year>
-      <cobiss>230459648</cobiss>
       <cobiss>230459648</cobiss>
       <isbn>978-3-7086-0278-3</isbn>
       <citations count="125">
@@ -153,9 +155,9 @@
    </publication>
    <publication did="2843" zalozba="ARS">
       <title>Arhivska veda v 20. stoletju</title>
-      <author>Žontar Jože</author>
+      <author>Žontar, Jože</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ARS</publisher>
+      <publisher>Arhiv Republike Slovenije</publisher>
       <year>2003</year>
       <cobiss>127105536</cobiss>
       <isbn>961-6137-70-0</isbn>
@@ -331,7 +333,7 @@
    <publication did="1882" zalozba="ARS">
       <title>Slovenke na prehodu v socializem</title>
       <title>(vloga in položaj ženske v Sloveniji 1945-1953)</title>
-      <author>Jeraj Mateja</author>
+      <author>Jeraj, Mateja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Arhiv Republike Slovenije</publisher>
       <year>2005</year>
@@ -406,14 +408,15 @@
       </citations>
    </publication>
    <publication did="3241" zalozba="Celje">
-      <title>En gros &amp; en detail : trgovina v Sloveniji do druge svetovne vojne : trendi, strukture, prakse</title>
-      <author>Počivavšek Marija</author>
+      <title>En gros &amp; en detail</title>
+      <title>trgovina v Sloveniji do druge svetovne vojne</title>
+      <title>trendi, strukture, prakse</title>
+      <author>Počivavšek, Marija</author>
       <pubPlace>Celje</pubPlace>
-      <publisher>Zgodovinsko društvo</publisher>
+      <publisher>Zgodovinsko društvo Celje</publisher>
       <year>2012</year>
       <cobiss>263525888</cobiss>
-      <cobiss>230751488</cobiss>
-      <isbn>1854-7591</isbn>
+      <isbn>978-961-6845-03-8</isbn>
       <citations count="359">
          <cit did="3241" cid="1"/>
          <cit did="3241" cid="2"/>
@@ -777,8 +780,9 @@
       </citations>
    </publication>
    <publication did="1626" zalozba="Celje">
-      <title>Med Tatrami in Triglavom : primerjave narodnega razvoja Slovencev in Slovakov in njihovi kulturno-politični stiki</title>
-      <author>Kregar Tone</author>
+      <title>Med Tatrami in Triglavom</title>
+      <title>primerjave narodnega razvoja Slovencev in Slovakov in njihovi kulturno-politični stiki</title>
+      <author>Kregar, Tone</author>
       <pubPlace>Celje</pubPlace>
       <publisher>Zgodovinsko društvo Celje</publisher>
       <year>2007</year>
@@ -1047,7 +1051,7 @@
    <publication did="1783" zalozba="Celje">
       <title>Uspehi spodnještajerskih Slovencev v Taaffejevi dobi</title>
       <title>gospodarske, socialne, kulturne in politične razmere na Spodnjem Štajerskem v času Taaffejeve vlade (1879-1893)</title>
-      <author>Čuček Filip</author>
+      <author>Čuček, Filip</author>
       <publisher>Zgodovinsko društvo Celje</publisher>
       <year>2008</year>
       <page>340 str.</page>
@@ -1282,9 +1286,9 @@
    <publication did="247" zalozba="FF">
       <title>Banski svet Dravske banovine 1930-1935</title>
       <title>Prizadevanjaa banskega sveta za omilitev gospodarsko-socialne krize in razvoj prosvetno-kulturnih dejavnosti ter ta razširitev samoupravavnih in upravnih pristojnosti banovine</title>
-      <author>Stiplovšek Miroslav</author>
+      <author>Stiplovšek, Miroslav</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Znanstvenoraziskovalni inštitut Filozofske faakultete</publisher>
+      <publisher>Znanstvenoraziskovalni inštitut Filozofske fakultete</publisher>
       <year>2006</year>
       <collection>Razprave Filozofske fakultete</collection>
       <cobiss>227192320</cobiss>
@@ -1399,8 +1403,8 @@
    <publication did="1911" zalozba="FF">
       <title>Kriza: svet in Slovenci od prve svetovne vojne do sredine tridesetih let</title>
       <title>svet in Slovenci od prve svetovne vojne do sredine tridesetih let</title>
-      <author>Nećak Dušan</author>
-      <author>Repe Božo</author>
+      <author>Nećak, Dušan</author>
+      <author>Repe, Božo</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvenoraziskovalni inštitut Filozofske fakultete</publisher>
       <year>2008</year>
@@ -1576,12 +1580,12 @@
       </citations>
    </publication>
    <publication did="2853" zalozba="FF">
-      <title>Po sledovih korenin : transnacionalne migracije med Argentino in Evropo</title>
-      <author>Repič Jaka</author>
+      <title>Po sledovih korenin</title>
+      <title>transnacionalne migracije med Argentino in Evropo</title>
+      <author>Repič, Jaka</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Oddelek za etnologijo in kulturno antropologijo</publisher>
       <year>2006</year>
-      <cobiss>231398912</cobiss>
       <cobiss>231398912</cobiss>
       <isbn>978-961-237-190-6</isbn>
       <citations count="236">
@@ -1825,7 +1829,7 @@
    </publication>
    <publication did="3439" zalozba="FF">
       <title>Podoba Celjskih grofov v narativnih virih</title>
-      <author>Mlinar Janez</author>
+      <author>Mlinar, Janez</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
       <year>2005</year>
@@ -2098,7 +2102,7 @@
    <publication did="629" zalozba="FF">
       <title>Slovenci in vojska, 1867-1914</title>
       <title>Slovenski odnos do vojaških vprašanj od uvedbe dualizma do začetka 1. svetovne vojne</title>
-      <author>Stergar Rok</author>
+      <author>Stergar, Rok</author>
       <pubPlace>Ljubljana</pubPlace>
       <year>2004</year>
       <cobiss>217605120</cobiss>
@@ -2497,10 +2501,12 @@
       </citations>
    </publication>
    <publication did="2638" zalozba="FF">
-      <title>Zgodovinski spomin Kranjske : življenje in delo Petra Pavla pl. Radicsa (1836-1912)</title>
-      <author>Žigon Tanja</author>
+      <title>Zgodovinski spomin Kranjske</title>
+      <title>življenje in delo Petra Pavla pl. Radicsa (1836-1912)</title>
+      <author>Žigon, Tanja</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zveza zgodovinskih društev Slovenije : Znanstvena založba Filozofske fakultete</publisher>
+      <publisher>Zveza zgodovinskih društev Slovenije</publisher>
+      <publisher>Znanstvena založba Filozofske fakultete</publisher>
       <year>2009</year>
       <cobiss>246641664</cobiss>
       <isbn>978-961-6777-03-2 (Zveza zgodovinskih društev Slovenije) : 20 EU</isbn>
@@ -2694,10 +2700,9 @@
    <publication did="169" zalozba="FF">
       <title>Razvoj ustavnosti in parlamentarizma v Habsburški monarhiji</title>
       <title>Dunajski državni zbor in Slovenci (1848-1918)</title>
-      <author>Janez Cvirn</author>
+      <author>Janez, Cvirn</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Filozofska fakulteta, Oddelek za
-Filozofska fakulteta, Oddelek za zgodovino</publisher>
+      <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
       <year>2006</year>
       <cobiss>229253632</cobiss>
       <isbn>961-237-167-9</isbn>
@@ -2913,10 +2918,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2933" zalozba="INV">
-      <title>A shared vision : intercultural dialogue - a global paradigm to promote linguistic and cultural diversity</title>
-      <editor>Novak Lukanovič Sonja</editor>
+      <title>A shared vision</title>
+      <title>intercultural dialogue - a global paradigm to promote linguistic and cultural diversity</title>
+      <editor>Novak Lukanovič, Sonja</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2010</year>
       <collection>Ethnicity</collection>
       <issue>7</issue>
@@ -3073,9 +3079,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2994" zalozba="INV">
       <title>Avstrija in njeni Slovenci : 1945-1976</title>
-      <author>Pleterski Janko</author>
+      <author>Pleterski, Janko</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2000</year>
       <collection>Ethnicity</collection>
       <issue>4</issue>
@@ -3121,10 +3127,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2968" zalozba="INV">
-      <title>Blizu polnega kroga tega sveta : ameriški Indijanci med preteklostjo in sedanjostjo</title>
-      <author>Šumi Irena</author>
+      <title>Blizu polnega kroga tega sveta</title>
+      <title>ameriški Indijanci med preteklostjo in sedanjostjo</title>
+      <author>Šumi, Irena</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>1999</year>
       <collection>Ethnicity</collection>
       <issue>3</issue>
@@ -3294,12 +3301,17 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2940" zalozba="INV">
-      <title>Ethnos und politik</title>
-      <author>Jesih Boris</author>
-      <pubPlace>Celovec, Dunaj, Ljubljana</pubPlace>
-      <publisher>Drava, INV</publisher>
+      <title>Ethnos und Politik</title>
+      <title> was wollen die Kärntner Slowenen?</title>
+      <author>Jesih, Boris</author>
+      <pubPlace>Celovec</pubPlace>
+      <pubPlace>Dunaj</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Drava</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2010</year>
-      <collection>Ethnicity; Drava Diskurs</collection>
+      <collection>Ethnicity</collection>
+      <collection>Drava Diskurs</collection>
       <issue>8</issue>
       <cobiss>250824448</cobiss>
       <isbn>978-3-85435-591-5</isbn>
@@ -3509,8 +3521,8 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2937" zalozba="INV">
       <title>Jim Pugel and other Slovenian pioneers of Pueblo, Colorado</title>
-      <author>Klemenčič Matjaž</author>
-      <author>Pugelj Karl</author>
+      <author>Klemenčič, Matjaž</author>
+      <author>Pugelj, Karl</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Ethnicity</publisher>
       <year>2009</year>
@@ -3569,10 +3581,13 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3036" zalozba="INV">
-      <title>Med narodom in politiko : politična participacija koroških Slovencev</title>
-      <author>Jesih Boris</author>
-      <pubPlace>Ljubljana, Celovec</pubPlace>
-      <publisher>INV, Drava</publisher>
+      <title>Med narodom in politiko</title>
+      <title>politična participacija koroških Slovencev</title>
+      <author>Jesih, Boris</author>
+      <pubPlace>Ljubljana</pubPlace>
+      <pubPlace>Celovec</pubPlace>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
+      <publisher>Drava</publisher>
       <year>2007</year>
       <cobiss>232793344</cobiss>
       <isbn>978-3-85435-492-5 (Drava)</isbn>
@@ -3765,9 +3780,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3071" zalozba="INV">
       <title>Mednarodnopravne razsežnosti pravnega varstva manjšin v Sloveniji</title>
-      <author>Klopčič Vera</author>
+      <author>Klopčič, Vera</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2006</year>
       <cobiss>231115776</cobiss>
       <isbn>978-961-6159-28-9</isbn>
@@ -3872,10 +3887,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3038" zalozba="INV">
-      <title>Položaj Romov v Sloveniji : Romi in Gadže</title>
-      <author>Klopčič Vera</author>
+      <title>Položaj Romov v Sloveniji</title>
+      <title>Romi in Gadže</title>
+      <author>Klopčič, Vera</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2007</year>
       <cobiss>236657664</cobiss>
       <isbn>978-961-6159-31-9</isbn>
@@ -3899,11 +3915,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3072" zalozba="INV">
-      <title>Slovensko-hrvaški obmejni prostor : etnične vzporednice med popisi prebivalstva po letu 1991</title>
-      <author>Josipovič Damir</author>
-      <author>Kržišnik Bukić Vera</author>
+      <title>Slovensko-hrvaški obmejni prostor</title>
+      <title>etnične vzporednice med popisi prebivalstva po letu 1991</title>
+      <author>Josipovič, Damir</author>
+      <author>Kržišnik Bukić, Vera</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2010</year>
       <cobiss>254083584</cobiss>
       <isbn>978-961-6159-37-1 : 25 EUR</isbn>
@@ -4239,11 +4256,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2972" zalozba="INV">
-      <title>The participation of parents, schools and the social surrounding in the implementation of the concept of bilingual education : (case study)</title>
-      <author>Mejak Renata</author>
-      <author>Novak Lukanovič Sonja</author>
+      <title>The participation of parents, schools and the social surrounding in the implementation of the concept of bilingual education</title>
+      <title>(case study)</title>
+      <author>Mejak, Renata</author>
+      <author>Novak Lukanovič, Sonja</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>1991</year>
       <collection>Ethnicity</collection>
       <issue>1</issue>
@@ -4278,9 +4296,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2920" zalozba="INV">
       <title>Zgodovina skupnosti slovenskih Američanov v Pueblu, Kolorado</title>
-      <author>Klemenčič Matjaž</author>
-      <pubPlace>Maribor, Ljubljana</pubPlace>
-      <publisher>Univerza v MB, FF; INV</publisher>
+      <author>Klemenčič, Matjaž</author>
+      <pubPlace>Maribor</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Univerza v Mariboru, Filozofska fakulteta</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <year>2011</year>
       <collection>Zora; Ethnicity</collection>
       <cobiss>67840001</cobiss>
@@ -4475,7 +4495,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3289" zalozba="INZ">
       <title>"Modni pêle mêle" slovenske družbe med svetovnima vojnama</title>
-      <author>Gombač Maja</author>
+      <author>Gombač, Maja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2011</year>
@@ -4715,9 +4735,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2274" zalozba="INZ">
-      <title>"V zaželjeni deželi" : slovenska izkušnja s Kraljevino SHS/Jugoslavijo : 1918-1941</title>
-      <title>slovenska izkušnja s Kraljevino SHS/Jugoslavijo</title>
-      <author>Perovšek Jurij</author>
+      <title>"V zaželjeni deželi"</title>
+      <title>slovenska izkušnja s Kraljevino SHS/Jugoslavijo : 1918-1941</title>
+      <author>Perovšek, Jurij</author>
       <pubPlace>Ljubljana</pubPlace>
       <year>2009</year>
       <page>314 str.</page>
@@ -4924,8 +4944,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2872" zalozba="INZ">
-      <title>Boj za Albanijo : propad jugoslovanske širitve na Balkan</title>
-      <author>Hadalin Jurij</author>
+      <title>Boj za Albanijo</title>
+      <title>propad jugoslovanske širitve na Balkan</title>
+      <author>Hadalin, Jurij</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2011</year>
@@ -5096,7 +5117,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="854" zalozba="INZ">
       <title>Družba, gospodarstvo, prebivalstvo</title>
       <title>družbenain poklicna struktura prebivalstva na slovenskem ozemlju od druge polovice19. stoletja do razpada habsburške monarhije</title>
-      <author>Fischer Jasna</author>
+      <author>Fischer, Jasna</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2005</year>
@@ -5206,7 +5227,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       <title>Državni zbor 1992-2012</title>
       <title>O slovenskem parlamentarizmu</title>
       <addTitle>National Assembly of the Republic of Slovenia 1992-2012</addTitle>
-      <author>Gašparič Jure</author>
+      <author>Gašparič, Jure</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2012</year>
@@ -5364,9 +5385,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1510" zalozba="INZ">
       <title>Komunistična partija Slovenije in revolucionarno gibanje 1941-1943</title>
-      <author>Vida Deželak Barič</author>
+      <author>Vida Deželak, Barič</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
+      <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2007</year>
       <cobiss>236870656</cobiss>
       <isbn>978-961-6386-13-5</isbn>
@@ -5587,7 +5608,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3292" zalozba="INZ">
       <title>Med kulturo in politiko</title>
       <title>Kulturnopolitična razhajanja v Sloveniji med svetovnima vojnama</title>
-      <author>Dolenc Ervin</author>
+      <author>Dolenc, Ervin</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2010</year>
@@ -5860,10 +5881,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2618" zalozba="INZ">
-      <title>Na poti v moderno : poglavja iz zgodovine evropskega in slovenskega liberalizma 19. in 20. stoletja</title>
-      <author>Perovšek Jurij</author>
+      <title>Na poti v moderno</title>
+      <title>poglavja iz zgodovine evropskega in slovenskega liberalizma 19. in 20. stoletja</title>
+      <author>Perovšek, Jurij</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
+      <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2005</year>
       <cobiss>223543808</cobiss>
       <isbn>961-6386-06-9</isbn>
@@ -6128,7 +6150,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2871" zalozba="INZ">
       <title>O gospodarskih in socialnih nazorih na Slovenskem v 19. stoletju</title>
-      <author>Vodopivec Peter</author>
+      <author>Vodopivec, Peter</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2006</year>
@@ -6241,7 +6263,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="73" zalozba="INZ">
       <title>Od Pohlinove slovnice do samostojne države</title>
       <title>Slovenska zgodovina od konca 18. stoletja do konca 20. stoletja</title>
-      <author>Vodopivec Peter</author>
+      <author>Vodopivec, Peter</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>2006</year>
@@ -6400,7 +6422,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3290" zalozba="INZ">
       <title>Plasti prostora in časa</title>
       <title>Iz gospodarske zgodovine Slovenije prve polovice 20. stoletja</title>
-      <author>Lazarević Žarko</author>
+      <author>Lazarević, Žarko</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2009</year>
@@ -6643,8 +6665,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3286" zalozba="INZ">
       <title>Prelom s starim in začetek novega</title>
       <title>Tranzicija slovenskega gospodarstva iz socializma v kapitalizem (1990-2004)</title>
-      <addTitle>A break with the old and the beginning of something new: Slovenian economic transiton form socialism to capitalism (1990-2004)</addTitle>
-      <author>Lorenčič Aleksander</author>
+      <addTitle>A break with the old and the beginning of something new</addTitle>
+      <addTitle>Slovenian economic transiton form socialism to capitalism (1990-2004)</addTitle>
+      <author>Lorenčič, Aleksander</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2012</year>
@@ -6907,8 +6930,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3288" zalozba="INZ">
       <title>Samoodločba in federacija</title>
       <title>Slovenski komunisti in nacionalno vprašanje 1920-1941</title>
-      <addTitle>Self Determination and Federation : Slovenian Communists and the National Question 1920-1941</addTitle>
-      <author>Perovšek Jurij</author>
+      <addTitle>Self Determination and Federation</addTitle>
+      <addTitle>Slovenian Communists and the National Question 1920-1941</addTitle>
+      <author>Perovšek, Jurij</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2012</year>
@@ -7169,7 +7193,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3285" zalozba="INZ">
       <title>Slovenski odpor</title>
       <title>Osvobodilna fronta slovenskega naroda od 1941-1945</title>
-      <author>Mally Eva</author>
+      <author>Mally, Eva</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2011</year>
@@ -7401,7 +7425,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="71" zalozba="INZ">
       <title>Slovensko nacionalno vprašanje med drugo svetovno vojno</title>
-      <author>Godeša Bojan</author>
+      <author>Godeša, Bojan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2006</year>
@@ -7664,13 +7688,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="16" zalozba="INZ">
       <title>Za zapahi</title>
       <title>Prebivalstvo Slovenije v okupatorjevih zaporih 1941 - 1945</title>
-      <author>Guštin Damijan</author>
+      <author>Guštin, Damijan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2006</year>
       <collection>Razpoznavanja</collection>
       <cobiss>230457856</cobiss>
-      <isbn>961-6386-10-7, 978-961-6386-10-4 (ISBN 13)</isbn>
+      <isbn>961-6386-10-7</isbn>
+      <isbn>978-961-6386-10-4 (ISBN 13)</isbn>
       <citations count="146">
          <cit did="16" cid="1"/>
          <cit did="16" cid="2"/>
@@ -7821,13 +7846,13 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3133" zalozba="INZ">
-      <title>Čas odločitev : katoliški tabor in začetek okupacije</title>
-      <author>Godeša Bojan</author>
+      <title>Čas odločitev</title>
+      <title>katoliški tabor in začetek okupacije</title>
+      <author>Godeša, Bojan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Mladinska knjiga</publisher>
       <year>2011</year>
       <collection>Zbirka Premiki</collection>
-      <cobiss>257164544</cobiss>
       <cobiss>257164544</cobiss>
       <isbn>978-961-01-1844-2</isbn>
       <citations count="189">
@@ -8025,14 +8050,15 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="15" zalozba="INZ">
       <title>Šolska reforma</title>
       <title>1953 -1963</title>
-      <author>Gabrič Aleš</author>
+      <author>Gabrič, Aleš</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2006</year>
       <collection>Razpoznavanja</collection>
       <page>304</page>
       <cobiss>230003968</cobiss>
-      <isbn>961-6386-09-3, 978-961-6386-09-8</isbn>
+      <isbn>961-6386-09-3</isbn>
+      <isbn>978-961-6386-09-8</isbn>
       <citations count="98">
          <cit did="15" cid="1"/>
          <cit did="15" cid="2"/>
@@ -8136,9 +8162,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1509" zalozba="INZ">
       <title>Življenje Ljubljančanov med drugo svetovno vojno</title>
-      <author>Šorn Mojca</author>
+      <author>Šorn, Mojca</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
+      <publisher>Inštitut za novejšo zgodovino</publisher>
       <year>2007</year>
       <cobiss>236081920</cobiss>
       <isbn>978-961-6386-12-8</isbn>
@@ -8347,10 +8373,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3506" zalozba="Koper">
-      <title>Ameriška luč nad Trstom : o veleposlanici ZDA v Rimu Clare Boothe Luce in njeni vlogi pri reševanju tržaškega vprašanja med letoma 1953 in 1954</title>
-      <author>Mljač Tanja</author>
+      <title>Ameriška luč nad Trstom</title>
+      <title>o veleposlanici ZDA v Rimu Clare Boothe Luce in njeni vlogi pri reševanju tržaškega vprašanja med letoma 1953 in 1954</title>
+      <author>Mljač, Tanja</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2008</year>
       <collection>Knjižnica Annales Majora</collection>
       <cobiss>241964032</cobiss>
@@ -8430,9 +8458,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="72" zalozba="Koper">
       <title>Arabija Feliks</title>
-      <author>Brus Marija</author>
+      <author>Brus, Marija</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Annales</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2006</year>
       <collection>Knjižnica Annales</collection>
       <cobiss>230691072</cobiss>
@@ -8491,11 +8520,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2636" zalozba="Koper">
-      <title>Barko v Trst</title>
-      <addTitle>Z barko v Trst : pomorstvo v Piranu, Izoli in Kopru ter gospodarska vloga severozahodne Istre v odnosu do Trsta : (1850-1918)</addTitle>
-      <author>Terčon Nadja</author>
+      <title>Z barko v Trst</title>
+      <title>pomorstvo v Piranu, Izoli in Kopru ter gospodarska vloga severozahodne Istre v odnosu do Trsta : (1850-1918)</title>
+      <author>Terčon, Nadja</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
+      <pubPlace>Piran</pubPlace>
+      <publisher>Pomorski muzej Sergej Mašera</publisher>
       <year>2004</year>
       <cobiss>215941120</cobiss>
       <isbn>961-6033-49-2</isbn>
@@ -8664,9 +8696,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3539" zalozba="Koper">
       <title>Davki nam pijejo kri: gospodarstvo severozahodne Istre v novem veku v luči beneške davčne politike</title>
-      <author>Darovec Darko</author>
+      <author>Darovec, Darko</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2004</year>
       <cobiss>128152320</cobiss>
       <isbn>961-6033-45-X</isbn>
@@ -8825,7 +8858,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2628" zalozba="Koper">
       <title>Hazard</title>
-      <author>Mihelič  Darja</author>
+      <author>Mihelič, Darja</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>1993</year>
@@ -8865,7 +8898,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="2018" zalozba="Koper">
       <title>Historiografska divergenca</title>
       <title>razsvetljenska in historična paradigma</title>
-      <author>Kramberger Taja</author>
+      <author>Kramberger, Taja</author>
       <pubPlace>Koper</pubPlace>
       <year>2007</year>
       <collection>Knjižnica Annales Majora</collection>
@@ -9253,7 +9286,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2873" zalozba="Koper">
       <title>Kratka zgodovina Istre</title>
-      <author>Darovec Darko</author>
+      <author>Darovec, Darko</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
       <year>2008</year>
@@ -9612,9 +9645,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="106" zalozba="Koper">
       <title>Manjkajoče rebro</title>
       <title>Ženska, religija in spolni stereotipi</title>
-      <author>Furlan Nadja</author>
+      <author>Furlan, Nadja</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Annales</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
       <year>2006</year>
       <cobiss>228865280</cobiss>
       <isbn>961-6033-71-9</isbn>
@@ -9972,10 +10005,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2632" zalozba="Koper">
-      <title>O melanholiji, karierizmu, nasilju in žrtvah : tržaška afera Gallenberg 1740</title>
-      <author>Kos Dušan</author>
+      <title>O melanholiji, karierizmu, nasilju in žrtvah</title>
+      <title>tržaška afera Gallenberg 1740</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2004</year>
       <cobiss>214070272</cobiss>
       <isbn>961-6033-47-6</isbn>
@@ -10130,10 +10165,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3505" zalozba="Koper">
-      <title>Odbiranje iz preteklosti : okviri, mreže, orientirji, časi kulturnega življenja v dolgem 19. stoletju</title>
-      <author>Rotar Drago Braco</author>
+      <title>Odbiranje iz preteklosti</title>
+      <title>okviri, mreže, orientirji, časi kulturnega življenja v dolgem 19. stoletju</title>
+      <author>Rotar, Drago Braco</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče : Zgodovinsko društvo za južno Primorsko, Založba Annales,</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2007</year>
       <cobiss>234096640</cobiss>
       <isbn>978-961-6033-95-4</isbn>
@@ -10282,15 +10319,35 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="303" zalozba="Koper">
       <title>Osimska meja</title>
       <title>jugoslovansko-italijanska pogajanja in razmejitev leta 1975</title>
-      <author>Pirjevec Jože, Vratuša Anton, Buvoli Alberto, Pleterski Janko, Repe Božo, Meneguzzi Rostagni Carla, Degan Vladimir, Ferraris Luigi Vittorio, Škorjanec Viljenka, Conetti Giorgio, Nevenka Troha</author>
-      <author>Crnić Grotić Vesna, Klopčič Vera, Klabjan Borut,  Bajc Gorazd, Purini Piero, Volk Sandi</author>
-      <author>Rogoznica Deborah, Kosin Marko, Lusa Stefano, Vogrin Marjan, Šušmelj Jože</author>
+      <author>Pirjevec, Jože</author>
+      <author>Vratuša, Anton</author>
+      <author>Buvoli, Alberto</author>
+      <author>Pleterski, Janko</author>
+      <author>Repe, Božo</author>
+      <author>Meneguzzi Rostagni, Carla</author>
+      <author>Degan, Vladimir</author>
+      <author>Ferraris, Luigi Vittorio</author>
+      <author>Škorjanec, Viljenka</author>
+      <author>Conetti, Giorgio</author>
+      <author>Troha, Nevenka</author>
+      <author>Crnić Grotić, Vesna</author>
+      <author>Klopčič, Vera</author>
+      <author>Klabjan, Borut</author>
+      <author>Bajc, Gorazd</author>
+      <author>Purini, Piero</author>
+      <author>Volk, Sandi</author>
+      <author>Rogoznica, Deborah</author>
+      <author>Kosin, Marko</author>
+      <author>Lusa, Stefano</author>
+      <author>Vogrin, Marjan</author>
+      <author>Šušmelj, Jože</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Annales: Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2006</year>
       <page>1-368</page>
       <cobiss>228994816</cobiss>
-      <isbn>10-961-6033-77-8, 13 978-961-6033-77-0</isbn>
+      <isbn>961-6033-77-8</isbn>
+      <isbn>978-961-6033-77-0</isbn>
       <citations count="216">
          <cit did="303" cid="1"/>
          <cit did="303" cid="2"/>
@@ -10511,10 +10568,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1624" zalozba="Koper">
-      <title>Ribič, kje zdaj tvoja barka plava? : piransko ribolovno območje skozi čas</title>
-      <author>Mihelič Darja</author>
+      <title>Ribič, kje zdaj tvoja barka plava?</title>
+      <title>piransko ribolovno območje skozi čas</title>
+      <author>Mihelič, Darja</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Založba Annales</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2007</year>
       <collection>Knjižnica Annales</collection>
       <cobiss>234096128</cobiss>
@@ -10647,7 +10706,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1766" zalozba="Koper">
       <title>Tisti z vzhoda</title>
       <addTitle>Those from the east</addTitle>
-      <author>Guštin Mitja</author>
+      <author>Guštin, Mitja</author>
       <pubPlace>Koper</pubPlace>
       <year>2003</year>
       <page>71</page>
@@ -10680,8 +10739,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3459" zalozba="Koper">
-      <title>Tržaško prebivalstvo v 18. stoletju : priseljevanje kot gibalo demografske rasti in družbenih sprememb</title>
-      <author>Kalc Aleksej</author>
+      <title>Tržaško prebivalstvo v 18. stoletju</title>
+      <title>priseljevanje kot gibalo demografske rasti in družbenih sprememb</title>
+      <author>Kalc, Aleksej</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
       <year>2008</year>
@@ -10920,7 +10980,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1762" zalozba="Koper">
       <title>Zrno soli za imperij Piran 1579-1609</title>
-      <author>Brglez Alja</author>
+      <author>Brglez, Alja</author>
       <pubPlace>Koper</pubPlace>
       <year>2005</year>
       <cobiss>223223552</cobiss>
@@ -11105,7 +11165,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="86" zalozba="Koper">
       <title>Človek, zemlja, kamen in burja</title>
       <title>Zgodovina kulturne krajine Krasa (oris od 16. do 20. stoletja)kulturne krajine Krasa (oris od 16. do 20. stoletja)</title>
-      <author>Panjek Aleksander</author>
+      <author>Panjek, Aleksander</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Annales</publisher>
       <year>2006</year>
@@ -11205,8 +11265,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3452" zalozba="Koper">
-      <title>Tržaška obnova : ekonomske in migracijske politike na Svobodnem tržaškem ozemlju</title>
-      <author>Panjek Aleksander</author>
+      <title>Tržaška obnova</title>
+      <title>ekonomske in migracijske politike na Svobodnem tržaškem ozemlju</title>
+      <author>Panjek, Aleksander</author>
       <pubPlace>Koper</pubPlace>
       <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Univerzitetna založba Annales</publisher>
       <year>2011</year>
@@ -11323,9 +11384,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1782" zalozba="Koper">
       <title>Operacija Julijska krajina: severovzhodna meja Italije in zavezniške obveščevalne službe (1943-1945)</title>
-      <author>Bajc Gorazd</author>
+      <author>Bajc, Gorazd</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2006</year>
       <collection>Knjižnica Annales Majora</collection>
       <cobiss>228910336</cobiss>
@@ -11706,12 +11768,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1324" zalozba="Koper">
-      <title>Vojna in mir na Primorskem : od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</title>
-      <author>Pirjevec Jože</author>
-      <author>Bajc Gorazd</author>
-      <author>Klabjan Borut</author>
+      <title>Vojna in mir na Primorskem</title>
+      <title>od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</title>
+      <author>Pirjevec, Jože</author>
+      <author>Bajc, Gorazd</author>
+      <author>Klabjan, Borut</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2005</year>
       <collection>Knjižnica Annales Majora</collection>
       <cobiss>223759104</cobiss>
@@ -11867,10 +11931,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="274" zalozba="Koper">
       <title>Statut piranskega komuna iz leta 1384</title>
-      <author>Darovec Darko</author>
-      <author>Šumrada Janez</author>
+      <author>Darovec, Darko</author>
+      <author>Šumrada, Janez</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Annales</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
       <year>2006</year>
       <cobiss>229090048</cobiss>
       <isbn>961-6033-82-4</isbn>
@@ -11895,9 +11959,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2844" zalozba="Koper">
       <title>Prispevki k primorski biografiki</title>
-      <author>Marušič Branko</author>
+      <author>Marušič, Branko</author>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <year>2006</year>
       <cobiss>228998144</cobiss>
       <isbn>961-6033-78-6</isbn>
@@ -11965,7 +12030,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="142" zalozba="Maribor">
       <title>Azija: Med preteklostjo in sedanjostjo</title>
       <title>Med preteklostjo in sedanjostjo</title>
-      <author>Potočnik Dragan</author>
+      <author>Potočnik, Dragan</author>
       <pubPlace>Maribor</pubPlace>
       <publisher>Pivec</publisher>
       <year>2006</year>
@@ -12180,7 +12245,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="844" zalozba="Modrijan">
       <title>Kočevska : pusta in prazna</title>
       <title>nemško jezikovno območje na Kočevskem po odselitvi Nemcev</title>
-      <author>Ferenc Mitja</author>
+      <author>Ferenc, Mitja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>2005</year>
@@ -12412,12 +12477,13 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="29" zalozba="Modrijan">
       <title>Kje se slovensko neha in hrvaško začne</title>
       <title>Slovensko-hrvaška meja v 19. in na začetku 20.stoletja</title>
-      <author>Zajc Marko</author>
+      <author>Zajc, Marko</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>2006</year>
       <cobiss>230250240</cobiss>
-      <isbn>961-241-142-5, 978-961-241-142-8</isbn>
+      <isbn>961-241-142-5</isbn>
+      <isbn>978-961-241-142-8</isbn>
       <citations count="418">
          <cit did="29" cid="1"/>
          <cit did="29" cid="2"/>
@@ -12840,8 +12906,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="826" zalozba="Modrijan">
-      <title>Med resničnostjo in iluzijo : slovenska in jugoslovanska politika v desetletju po sporu z Informbirojem : (1948-1958)</title>
-      <author>Režek Mateja</author>
+      <title>Med resničnostjo in iluzijo</title>
+      <title>slovenska in jugoslovanska politika v desetletju po sporu z Informbirojem : (1948-1958)</title>
+      <author>Režek, Mateja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>2005</year>
@@ -13018,8 +13085,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1512" zalozba="Modrijan">
-      <title>SLS pod kraljevo diktaturo : diktatura kralja Aleksandra in politika Slovenske ljudske stranke v letih 1929-1935</title>
-      <author>Gašparič Jure</author>
+      <title>SLS pod kraljevo diktaturo</title>
+      <title>diktatura kralja Aleksandra in politika Slovenske ljudske stranke v letih 1929-1935</title>
+      <author>Gašparič, Jure</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>2007</year>
@@ -13220,8 +13288,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1511" zalozba="Nova revija">
-      <title>"Trst je naš"! : boj Slovencev za morje</title>
-      <author>Pirjevec Jože</author>
+      <title>"Trst je naš"!</title>
+      <title>boj Slovencev za morje</title>
+      <author>Pirjevec, Jože</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>2007</year>
@@ -13702,7 +13771,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="370" zalozba="Nova revija">
       <title>Ljubljanska filharmonična družba 1794-1919</title>
       <title>Kronika ljubljanskega glasbenega življenja v stoletju meščanov in revolucij</title>
-      <author>Kuret Primož</author>
+      <author>Kuret, Primož</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>2006</year>
@@ -13779,7 +13848,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2712" zalozba="Nova revija">
       <title>Osamosvojitev Slovenije</title>
-      <author>Pesek Rosvita</author>
+      <author>Pesek, Rosvita</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>2007</year>
@@ -13970,8 +14039,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2624" zalozba="Nova revija">
-      <title>Soča, sveta reka : italijanska zasedba slovenskega ozemlja (1915-1917)</title>
-      <author>Svoljšak Petra</author>
+      <title>Soča, sveta reka</title>
+      <title>italijanska zasedba slovenskega ozemlja (1915-1917)</title>
+      <author>Svoljšak, Petra</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>2003</year>
@@ -14051,7 +14121,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1760" zalozba="Nova revija">
       <title>Zavezništva in delitve: razvoj slovensko-hrvaških političnih odnosov v habsburški monarhiji 1848-1918</title>
-      <author>Rahten Andrej</author>
+      <author>Rahten, Andrej</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>2005</year>
@@ -14287,7 +14357,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="2288" zalozba="Slovenska matica">
       <title>Besede, ravnanja in stvari</title>
       <title>plemstvo na Kranjskem v prvi polovici 18. stoletja</title>
-      <author>Štuhec Marko</author>
+      <author>Štuhec, Marko</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2009</year>
@@ -14484,10 +14554,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2612" zalozba="Slovenska matica">
-      <title>Ko še nismo bili Slovenci in Slovenke : novoveške etnične identitete pred slovensko narodno zavestjo</title>
-      <author>Makarovič Gorazd</author>
+      <title>Ko še nismo bili Slovenci in Slovenke</title>
+      <title>novoveške etnične identitete pred slovensko narodno zavestjo</title>
+      <author>Makarovič, Gorazd</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Društvo Slovenska matica</publisher>
+      <publisher>Slovenska matica</publisher>
       <year>2008</year>
       <cobiss>239883008</cobiss>
       <isbn>978-961-213-173-9</isbn>
@@ -14666,8 +14737,8 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1914" zalozba="Slovenska matica">
       <title>Primorski upor fašizmu</title>
       <title>1920-1941</title>
-      <author>Kacin Wohinz Milica</author>
-      <author>Verginella Marta</author>
+      <author>Kacin Wohinz, Milica</author>
+      <author>Verginella, Marta</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2008</year>
@@ -14857,8 +14928,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="452" zalozba="Slovenska matica">
-      <title>Partija in tigrovci : (medvojna in povojna usoda nekaterih vodilnih tigrovcev)</title>
-      <author>Srebot-Rejec Tatjana</author>
+      <title>Partija in tigrovci</title>
+      <title>(medvojna in povojna usoda nekaterih vodilnih tigrovcev)</title>
+      <author>Srebot Rejec, Tatjana</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2006</year>
@@ -14894,8 +14966,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2623" zalozba="ZRC">
-      <title>Auerspergi : po sledeh mogočnega tura</title>
-      <author>Preinfalk Miha</author>
+      <title>Auerspergi</title>
+      <title>po sledeh mogočnega tura</title>
+      <author>Preinfalk, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zgodovinski inštitut Milka Kosa ZRC SAZU</publisher>
       <year>2005</year>
@@ -15192,8 +15265,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2631" zalozba="ZRC">
-      <title>Blesk zlate krone : gospodje Svibenski - kratka zgodovina plemenitih nasilnikov</title>
-      <author>Kos Dušan</author>
+      <title>Blesk zlate krone</title>
+      <title>gospodje Svibenski - kratka zgodovina plemenitih nasilnikov</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2003</year>
@@ -15601,8 +15675,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2630" zalozba="ZRC">
-      <title>Celjska knjiga listin I : listine svobodnih gospodov Žovneških do leta 1341</title>
-      <author>Kos Dušan</author>
+      <title>Celjska knjiga listin I</title>
+      <title>listine svobodnih gospodov Žovneških do leta 1341</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Celje</pubPlace>
       <publisher>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti</publisher>
       <year>1996</year>
@@ -15621,7 +15696,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3511" zalozba="ZRC">
       <title>Gradivo za slovensko zgodovino v srednjem veku</title>
-      <author>Preinfalk Miha</author>
+      <author>Preinfalk, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2007</year>
@@ -15638,8 +15713,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2607" zalozba="ZRC">
-      <title>Imago iustitiae : historični sprehod skozi preiskovanje, sojenje in pravo pri plemstvu v poznem srednjem veku</title>
-      <author>Kos Dušan</author>
+      <title>Imago iustitiae</title>
+      <title>historični sprehod skozi preiskovanje, sojenje in pravo pri plemstvu v poznem srednjem veku</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvenoraziskovalni center SAZU</publisher>
       <year>1994</year>
@@ -15686,13 +15762,17 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3164" zalozba="ZRC">
-      <title>Izidor Cankar : diplomat dveh Jugoslavij</title>
-      <author>Rahten Andrej</author>
-      <pubPlace>Mengeš - Ljubljana</pubPlace>
-      <publisher>Center za evropsko prihodnost, Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti</publisher>
+      <title>Izidor Cankar</title>
+      <title>diplomat dveh Jugoslavij</title>
+      <author>Rahten, Andrej</author>
+      <pubPlace>Mengeš</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Center za evropsko prihodnost</publisher>
+      <publisher>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti</publisher>
       <year>2009</year>
       <cobiss>245618176</cobiss>
-      <isbn>978-961-92173-8-2 (CEP), 978-961-254-133-0 (ZRC SAZU)</isbn>
+      <isbn>978-961-92173-8-2 (CEP)</isbn>
+      <isbn>978-961-254-133-0 (ZRC SAZU)</isbn>
       <citations count="64">
          <cit did="3164" cid="1"/>
          <cit did="3164" cid="2"/>
@@ -15763,7 +15843,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="333" zalozba="ZRC">
       <title>Na drugi strani</title>
       <title>Odbor staršev za varstvo in vrnitev slovenskih vojakov ob slovenski osamosvojitvi leta 1991</title>
-      <author>Gombač M. Boris</author>
+      <author>Gombač, Boris M.</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2005</year>
@@ -15862,15 +15942,15 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2838" zalozba="ZRC">
-      <title>Med dolžnostjo spomina in razkošjem pozabe : kulturnozgodovinske študije</title>
-      <author>Grdina Igor</author>
+      <title>Med dolžnostjo spomina in razkošjem pozabe</title>
+      <title>kulturnozgodovinske študije</title>
+      <author>Grdina, Igor</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2006</year>
       <collection>Življenja in dela. Biografske in bibliografske študije</collection>
       <cobiss>227900672</cobiss>
-      <cobiss>111956992</cobiss>
-      <isbn>1580-6057</isbn>
+      <isbn>961-6568-54-X</isbn>
       <citations count="276">
          <cit did="2838" cid="1"/>
          <cit did="2838" cid="2"/>
@@ -16153,9 +16233,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1288" zalozba="ZRC">
       <title>Ormož v stoletjih mestne avtonomije</title>
       <title>Posestna, demografska, gospodarska, socialna, etnična in jezikovna podoba mesta ob Dravi 1331-1849</title>
-      <author>Golec Boris</author>
+      <author>Golec, Boris</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC SAZU</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2005</year>
       <cobiss>220035840</cobiss>
       <isbn>961-6500-77-5</isbn>
@@ -16235,7 +16315,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2620" zalozba="ZRC">
       <title>Piranska notarska knjiga (1289 -1292)</title>
-      <author>Mihelič Darja</author>
+      <author>Mihelič, Darja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2002</year>
@@ -16254,14 +16334,15 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       <title>Piranska notarska knjiga (1298-1317)</title>
       <title>Četrti zvezek/ Fourth Volume</title>
       <addTitle>The notary book from Piran</addTitle>
-      <author>Mihelič Darja</author>
+      <author>Mihelič, Darja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, Zgodovinski inštitut Milka Kosa</publisher>
       <year>2006</year>
       <collection>Thesaurus memoriae, Fontes 4</collection>
       <page>240</page>
       <cobiss>229215744</cobiss>
-      <isbn>10 961-6568-71X, 13 978-961-6568-71-5</isbn>
+      <isbn>961-6568-71X</isbn>
+      <isbn>978-961-6568-71-5</isbn>
       <citations count="18">
          <cit did="412" cid="1"/>
          <cit did="412" cid="2"/>
@@ -16285,9 +16366,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2621" zalozba="ZRC">
       <title>Piranske notarske knjige - fragmenti. Zv. 5, (1289-1305)</title>
-      <author>Mihelič Darja</author>
+      <author>Mihelič, Darja</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba ZRC = ZRC Publishing</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2009</year>
       <cobiss>245652736</cobiss>
       <isbn>978-961-254-132-3</isbn>
@@ -16300,10 +16381,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2640" zalozba="ZRC">
-      <title>Potujoči srednji vek : cesta, popotnik in promet na Slovenskem med antiko in 16. stoletjem</title>
-      <author>Kosi Miha</author>
+      <title>Potujoči srednji vek</title>
+      <title>cesta, popotnik in promet na Slovenskem med antiko in 16. stoletjem</title>
+      <author>Kosi, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC SAZU, Založba ZRC</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>1998</year>
       <cobiss>79566080</cobiss>
       <isbn>961-6182-66-8</isbn>
@@ -16441,8 +16523,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2583" zalozba="ZRC">
-      <title>Ratio facta est : gospodarska struktura in poslovanje poznosrednjeveških gospostev na Slovenskem</title>
-      <author>Bizjak Matjaž</author>
+      <title>Ratio facta est</title>
+      <title>gospodarska struktura in poslovanje poznosrednjeveških gospostev na Slovenskem</title>
+      <author>Bizjak, Matjaž</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2003</year>
@@ -16686,9 +16769,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       <title>Srednjeveški urbarji za Slovenijo</title>
       <title>Urbarji briksenske škofije 1253-1464</title>
       <addTitle>Die Urbare des Hochstifts Brixen 1253-1464</addTitle>
-      <author>Bizjak Matjaž</author>
+      <author>Bizjak, Matjaž</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba ZRC, Zgodovinski inštitut Milka KosaZaložba ZRC, Zgodovinski inštitut Milka Kosa</publisher>
+      <publisher>Založba ZRC, Zgodovinski inštitut Milka Kosa</publisher>
       <year>2006</year>
       <collection>Thesaurus memoriae, Fontes 3</collection>
       <page>266</page>
@@ -16774,7 +16857,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3291" zalozba="ZRC">
       <title>Trtna uš, ta strašno drobna pošast</title>
-      <author>Seručnik Miha</author>
+      <author>Seručnik, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2011</year>
@@ -16840,10 +16923,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2622" zalozba="ZRC">
       <title>Turjaška knjiga listin 1: listine zasebnih arhivov Kranjske grofovske in knežje linije Turjaških</title>
-      <author>Preinfalk Miha</author>
-      <author>Bizjak Matjaž</author>
+      <author>Preinfalk, Miha</author>
+      <author>Bizjak, Matjaž</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba ZRC</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2008</year>
       <cobiss>239625984</cobiss>
       <isbn>978-961-254-075-3</isbn>
@@ -16921,10 +17004,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2581" zalozba="ZRC">
       <title>Turjaška knjiga listin. 2: Dokumenti 15. stoletja</title>
-      <author>Bizjak Matjaž</author>
-      <author>Preinfalk Miha</author>
+      <author>Bizjak, Matjaž</author>
+      <author>Preinfalk, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC Založba</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2009</year>
       <cobiss>248791040</cobiss>
       <isbn>978-961-254-168-2</isbn>
@@ -16962,8 +17045,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2608" zalozba="ZRC">
-      <title>Urbarji za Belo krajino in Žumberk : (15.-18. stoletje) = Die Urbaren für Bela krajina und Sichelberg : (15.-18. Jahrhundert)</title>
-      <author>Kos Dušan</author>
+      <title>Urbarji za Belo krajino in Žumberk : (15.-18. stoletje)</title>
+      <addTitle>Die Urbaren für Bela krajina und Sichelberg : (15.-18. Jahrhundert)</addTitle>
+      <author>Kos, Dušan</author>
       <year>1991</year>
       <cobiss>22967296</cobiss>
       <isbn>86-7131-044-2</isbn>
@@ -17014,13 +17098,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2639" zalozba="ZRC">
-      <title>Zgodnja zgodovina srednjeveških mest na Slovenskem : primerjalna študija o neagrarnih naselbinskih središčih od zgodnjega srednjega veka do 13. stoletja</title>
-      <author>Kosi Miha</author>
+      <title>Zgodnja zgodovina srednjeveških mest na Slovenskem</title>
+      <title>primerjalna študija o neagrarnih naselbinskih središčih od zgodnjega srednjega veka do 13. stoletja</title>
+      <author>Kosi, Miha</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2009</year>
       <cobiss>244148736</cobiss>
-      <isbn>978-961-254-115-6 : 13,50 EUR</isbn>
+      <isbn>978-961-254-115-6</isbn>
       <citations count="352">
          <cit did="2639" cid="1"/>
          <cit did="2639" cid="2"/>
@@ -17379,11 +17464,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="272" zalozba="ZRC">
       <title>Zgodovina hiostorične misli</title>
       <title>Od Homerja do začetka 21. stoletja</title>
-      <author>Oto Luthar</author>
-      <author>Šašel Kos Marjeta</author>
-      <author>Grošelj Nada, Pobežin Gregor, Bunta Aleš, Grdina Igor</author>
+      <author>Luthar, Oto</author>
+      <author>Šašel Kos, Marjeta</author>
+      <author>Grošelj, Nada</author>
+      <author>Pobežin, Gregor</author>
+      <author>Bunta, Aleš</author>
+      <author>Grdina, Igor</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC SAZU, Založba ZRC</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2006</year>
       <cobiss>223431424</cobiss>
       <isbn>961-6568-12-4</isbn>
@@ -17767,8 +17855,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2610" zalozba="ZRC">
-      <title>Čas kolere : epidemije kolere na Kranjskem v 19. stoletju</title>
-      <author>Keber Katarina</author>
+      <title>Čas kolere</title>
+      <title>epidemije kolere na Kranjskem v 19. stoletju</title>
+      <author>Keber, Katarina</author>
       <pubPlace>Ljubljana</pubPlace>
       <year>2007</year>
       <cobiss>234399744</cobiss>
@@ -17906,8 +17995,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3465" zalozba="ZRC">
-      <title>Nedokončana kroatizacija delov vzhodne Slovenije med 16. in 19. stoletjem : po sledeh hrvaškega lingvonima in etnonima v Beli krajini, Kostelu, Prekmurju in Prlekiji</title>
-      <author>Golec Boris</author>
+      <title>Nedokončana kroatizacija delov vzhodne Slovenije med 16. in 19. stoletjem</title>
+      <title>po sledeh hrvaškega lingvonima in etnonima v Beli krajini, Kostelu, Prekmurju in Prlekiji</title>
+      <author>Golec, Boris</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2012</year>
@@ -18055,9 +18145,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="775" zalozba="ZRC">
       <title>Vitez in grad</title>
       <title>Vloga gradov v življenju plemstva na Kranjskem, slovenskem Štajerskem in slovenskem Koroškem do začetka 15. stoletja</title>
-      <author>Kos Dušan</author>
+      <author>Kos, Dušan</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2005</year>
       <cobiss>219524608</cobiss>
       <isbn>961-6500-82-1</isbn>
@@ -18332,8 +18422,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2606" zalozba="ZZDS">
-      <title>O kmečkih dolgovih nekoliko drugače : problem servitutnih pravic na posestvu Snežnik</title>
-      <author>Kačičnik Gabrič Alenka</author>
+      <title>O kmečkih dolgovih nekoliko drugače</title>
+      <title>problem servitutnih pravic na posestvu Snežnik</title>
+      <author>Kačičnik Gabrič, Alenka</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
       <year>2004</year>
@@ -18395,7 +18486,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1545" zalozba="">
       <title>Kranjsko okrožje med nemško okupacijo in narodno osvobodilnim bojem 1941-1945</title>
-      <author>Ivan Križnar</author>
+      <author>Križnar, Ivan</author>
       <pubPlace>Kranj</pubPlace>
       <year>2007</year>
       <cobiss>232431616</cobiss>
@@ -18445,7 +18536,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       <title>Utrdbe na Slovenskem</title>
       <title>vodnik po utrdbah v Sloveniji in bližnji okolici</title>
       <addTitle>Slovenian fortifications</addTitle>
-      <author>Jankovič Potočnik  Aleksander</author>
+      <author>Jankovič Potočnik, Aleksander</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Ad pirum</publisher>
       <year>2008</year>
@@ -18498,7 +18589,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="3210" zalozba="Cankrajeva založba">
       <title>Tito in tovariši</title>
-      <author>Pirjevec Jože</author>
+      <author>Pirjevec, Jože</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Cankarjeva založba</publisher>
       <year>2011</year>
@@ -18746,9 +18837,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="812" zalozba="cf">
       <title>Evropske revolucije : 1492-1992</title>
-      <author>Tilly Charles</author>
+      <author>Tilly, Charles</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>cf</publisher>
+      <publisher>*cf.</publisher>
       <year>2005</year>
       <collection>Modra zbirka</collection>
       <cobiss>222980608</cobiss>
@@ -18879,14 +18970,13 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="226" zalozba="Delta">
       <title>Ženska obrobja</title>
       <title>Vpis žensk v zgodovino Slovencev</title>
-      <author>Verginella Marta</author>
-      <editor>Bahovec D. Eva</editor>
+      <author>Verginella, Marta</author>
+      <editor>Bahovec D., Eva</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Delta</publisher>
       <year>2006</year>
       <collection>Zbirka za ženske študije in feministično teorijo</collection>
       <page>204 strani</page>
-      <cobiss>1160147</cobiss>
       <cobiss>225170176</cobiss>
       <isbn>961-90867-8-3</isbn>
       <citations count="234">
@@ -19128,9 +19218,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2579" zalozba="Dolenjska založba">
       <title>Dolenjska v revolucionarnem letu 1848/49: Unterkrain im Revolutionsjahr 1848/49</title>
-      <author>Granda Stane</author>
+      <author>Granda, Stane</author>
       <pubPlace>Novo mesto</pubPlace>
-      <publisher>Tiskarna Novo mesto, Dolenjska založba</publisher>
+      <publisher>Dolenjska založba</publisher>
       <year>1995</year>
       <cobiss>59575808</cobiss>
       <isbn>961-6000-53-5</isbn>
@@ -19180,8 +19270,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3022" zalozba="Drava">
-      <title>Prežihov Voranc : pisatelj in politik</title>
-      <author>Druškovič Drago</author>
+      <title>Prežihov Voranc</title>
+      <title>pisatelj in politik</title>
+      <author>Druškovič, Drago</author>
       <pubPlace>Celovec</pubPlace>
       <publisher>Drava</publisher>
       <year>2005</year>
@@ -19547,7 +19638,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="334" zalozba="Društvo 2000">
       <title>Meje in misije</title>
       <title>Dileme slovensko-hrvaške razmejitve v Istri v vojaškem, političnem, diplomatskem in obveščevalnem metežu II.svetovne vojne</title>
-      <author>Kristen Samo</author>
+      <author>Kristen, Samo</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Društvo 2000</publisher>
       <year>2006</year>
@@ -19925,7 +20016,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1913" zalozba="Celjska Mohorjeva družba">
       <title>Kranjski verski sklad</title>
       <title>organizacijski, gospodarski in premoženjskopravni posegi državnih organov in Kranjskega verskega sklada v cerkvene strukture na Kranjskem in v Avstrijski Istri od 1782 do 1809</title>
-      <author>Maček Jože</author>
+      <author>Maček, Jože</author>
       <pubPlace>Celje</pubPlace>
       <publisher>Celjska Mohorjeva družba</publisher>
       <year>2006</year>
@@ -19997,7 +20088,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="60" zalozba="Defensor">
       <title>Slovenska partizanska in domobranska vojska</title>
       <title>Od ustanovitve do konca 2. svetovne vojne</title>
-      <author>Kladnik Tomaž</author>
+      <author>Kladnik, Tomaž</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Defensor</publisher>
       <year>2006</year>
@@ -20073,8 +20164,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2635" zalozba="Družina">
-      <title>Frančišek Lampe : zmerno, z ljubeznijo</title>
-      <author>Tominšek Perovšek Mateja</author>
+      <title>Frančišek Lampe</title>
+      <title>zmerno, z ljubeznijo</title>
+      <author>Tominšek Perovšek, Mateja</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Družina</publisher>
       <year>2006</year>
@@ -20182,15 +20274,18 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1298" zalozba="Družina">
       <title>Škofija Novo mesto</title>
       <title>Onim pri Bogu, sebi in zanamcem</title>
-      <author>Dolinar France M., Granda Stane</author>
-      <author>Pelko Zvone, Peskar Robert</author>
-      <editor>Pelko Zvone</editor>
+      <author>Dolinar, France M.</author>
+      <author>Granda, Stane</author>
+      <author>Pelko, Zvone</author>
+      <author>Peskar, Robert</author>
+      <editor>Pelko, Zvone</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Družina</publisher>
       <year>2006</year>
       <page>1-309</page>
       <cobiss>229758208</cobiss>
-      <isbn>10 961-222-646-6, 13 978-961-222-646-6</isbn>
+      <isbn>961-222-646-6</isbn>
+      <isbn>978-961-222-646-6</isbn>
       <citations count="129">
          <cit did="1298" cid="1"/>
          <cit did="1298" cid="2"/>
@@ -20324,10 +20419,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2823" zalozba="FDV">
-      <title>Homo europeus : nacionalni stereotipi in kulturna identiteta Evrope</title>
-      <author>Šabec Ksenija</author>
+      <title>Homo europeus</title>
+      <title>nacionalni stereotipi in kulturna identiteta Evrope</title>
+      <author>Šabec, Ksenija</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>FDV</publisher>
+      <publisher>Fakulteta za družbene vede</publisher>
       <year>2006</year>
       <cobiss>230582272</cobiss>
       <isbn>961-235-260-7</isbn>
@@ -20506,12 +20602,13 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3039" zalozba="FDV">
-      <title>Pa mi vi povejte, kaj sem!!!? : študija o etnični raznolikosti v Mestni občini Ljubljana</title>
-      <author>Komac Miran</author>
-      <author>Medvešek Mojca</author>
-      <author>Roter Petra</author>
+      <title>Pa mi vi povejte, kaj sem!!!?</title>
+      <title>študija o etnični raznolikosti v Mestni občini Ljubljana</title>
+      <author>Komac, Miran</author>
+      <author>Medvešek, Mojca</author>
+      <author>Roter, Petra</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>FDV</publisher>
+      <publisher>Fakulteta za družbene vede</publisher>
       <year>2007</year>
       <cobiss>231499008</cobiss>
       <isbn>978-961-235-267-7</isbn>
@@ -20688,13 +20785,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="21" zalozba="FDV">
       <title>Parlamentarna izkušnja Slovencev</title>
-      <author>Prunk Janko</author>
-      <author>Toplak Cirila</author>
+      <author>Prunk, Janko</author>
+      <author>Toplak, Cirila</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Fakulteta za družbene vede</publisher>
       <year>2005</year>
       <collection>Politični procesi in institucije</collection>
-      <isbn>961-235-256-9, 978-961-235-256-1</isbn>
+      <isbn>961-235-223-2</isbn>
+      <cobiss>223281664</cobiss>
       <citations count="80">
          <cit did="21" cid="1"/>
          <cit did="21" cid="2"/>
@@ -20781,11 +20879,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="3093" zalozba="FDV">
       <title>Slovensko časopisno izročilo 1</title>
       <title>Od začetka do 1918</title>
-      <author>Amon Smilja</author>
-      <author>Erjavec Karmen</author>
-      <editor>Poler Kovačič Melita</editor>
+      <author>Amon, Smilja</author>
+      <author>Erjavec, Karmen</author>
+      <editor>Poler Kovačič, Melita</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba FDV</publisher>
+      <publisher>Fakulteta za družbene vede</publisher>
       <year>2011</year>
       <collection>MEDIA</collection>
       <page>200</page>
@@ -21049,7 +21147,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1317" zalozba="Goriški muzej">
       <title>Pregled politične zgodovine Slovencev na Goriškem : 1848-1899</title>
-      <author>Marušič Branko</author>
+      <author>Marušič, Branko</author>
       <pubPlace>Nova Gorica</pubPlace>
       <publisher>Goriški muzej</publisher>
       <year>2005</year>
@@ -21403,10 +21501,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1639" zalozba="ICK">
       <title>Ruski profesorji na Univerzi v Ljubljani</title>
-      <author>Brglez Alja</author>
-      <author>Seljak Matej</author>
+      <author>Brglez, Alja</author>
+      <author>Seljak, Matej</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ICK</publisher>
+      <publisher>Inštitut za civilizacijo in kulturo</publisher>
       <year>2007</year>
       <cobiss>1345933</cobiss>
       <isbn>1854-6838</isbn>
@@ -21426,8 +21524,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1513" zalozba="Institutum Studiorum Humanitatis">
-      <title>Labirinti postsocializma : socialni spomin tekstilnih delavk in delavcev</title>
-      <author>Vodopivec Nina</author>
+      <title>Labirinti postsocializma</title>
+      <title>socialni spomin tekstilnih delavk in delavcev</title>
+      <author>Vodopivec, Nina</author>
       <pubPlace>Ljubljana</pubPlace>
       <year>2007</year>
       <collection>Knjižna zbirka Documenta / ISH</collection>
@@ -21627,7 +21726,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="2196" zalozba="Litera">
       <title>Emerik Beran</title>
       <title>(1868-1940)</title>
-      <author>Weiss Jernej</author>
+      <author>Weiss, Jernej</author>
       <pubPlace>Maribor</pubPlace>
       <publisher>Litera</publisher>
       <year>2008</year>
@@ -21732,9 +21831,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="860" zalozba="Mladinska knjiga">
-      <title>Razdvojeni narod : Slovenija 1941-1945</title>
+      <title>Razdvojeni narod</title>
+      <title>Slovenija 1941-1945</title>
       <title>Okupacija, kolaboracija, državljanska vojna, revolucija</title>
-      <author>Griesser Pečar Tamara</author>
+      <author>Griesser Pečar, Tamara</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Mladinska knjiga</publisher>
       <year>2005</year>
@@ -21934,7 +22034,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="1301" zalozba="Muzej novejše zgodovine Celje">
       <title>Prikrito in očem zakrito</title>
       <title>Prikrita grobišča 60 let po koncu druge svetovne vojne</title>
-      <author>Ferenc Mitja</author>
+      <author>Ferenc, Mitja</author>
       <pubPlace>Celje</pubPlace>
       <publisher>Muzej novejše zgodovine</publisher>
       <year>2005</year>
@@ -21998,8 +22098,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1661" zalozba="Muzeji radovljiške občine">
-      <title>Tovarna vijakov Plamen Kropa : od konca druge svetovne vojne do stečaja in novega začetka (1945-1997)</title>
-      <author>Prinčič Jože</author>
+      <title>Tovarna vijakov Plamen Kropa</title>
+      <title>od konca druge svetovne vojne do stečaja in novega začetka (1945-1997)</title>
+      <author>Prinčič, Jože</author>
       <pubPlace>Kropa</pubPlace>
       <publisher>Muzeji radovljiške občine</publisher>
       <year>2007</year>
@@ -22026,7 +22127,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1748" zalozba="Narodni muzej">
       <title>Appian and Illyricum</title>
-      <author>Šašel Kos Marjeta</author>
+      <author>Šašel Kos, Marjeta</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Narodni muzej Slovenije</publisher>
       <year>2005</year>
@@ -23195,7 +23296,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1912" zalozba="Obzorja">
       <title>Glasbilarstvo na Slovenskem</title>
-      <author>Koter Darja</author>
+      <author>Koter, Darja</author>
       <pubPlace>Maribor</pubPlace>
       <publisher>Obzorja</publisher>
       <year>2004</year>
@@ -23402,8 +23503,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2647" zalozba="Oldenbourg">
-      <title>In Burg und Stadt : spätmittelalterlicher Adel in Krain und Untersteiermark</title>
-      <author>Kos Dušan</author>
+      <title>In Burg und Stadt</title>
+      <title>spätmittelalterlicher Adel in Krain und Untersteiermark</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Wien</pubPlace>
       <publisher>R. Oldenbourg</publisher>
       <year>2006</year>
@@ -23849,7 +23951,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="97" zalozba="Salve">
       <title>Srednja verska šola v Želimljem pri Ljubljani 1967-1991</title>
-      <author>Kolar Bogdan</author>
+      <author>Kolar, Bogdan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Salve</publisher>
       <year>2006</year>
@@ -23878,9 +23980,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1662" zalozba="Sophia">
-      <title>Prelom: 1914-1918 : svet in Slovenci v 1. svetovni vojni</title>
-      <author>Nećak Dušan</author>
-      <author>Repe Božo</author>
+      <title>Prelom: 1914-1918</title>
+      <title>svet in Slovenci v 1. svetovni vojni</title>
+      <author>Nećak, Dušan</author>
+      <author>Repe, Božo</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Sophia</publisher>
       <year>2005</year>
@@ -24075,8 +24178,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1663" zalozba="Studia humanitatis">
-      <title>Mit narodov : srednjeveški izvori Evrope</title>
-      <author>Geary Patrick J.</author>
+      <title>Mit narodov</title>
+      <title>srednjeveški izvori Evrope</title>
+      <author>Geary, Patrick J.</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Studia humanitatis</publisher>
       <year>2005</year>
@@ -24183,7 +24287,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2619" zalozba="Studio">
       <title>Grad Mirna</title>
-      <author>Sapač Igor</author>
+      <author>Sapač, Igor</author>
       <publisher>Studio 5</publisher>
       <year>2004</year>
       <cobiss>217192192</cobiss>
@@ -24255,7 +24359,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="2287" zalozba="Študijski center za narodno spravo">
       <title>Pohorska afera</title>
       <title>krvavi izpadi štajerskih partizanov med jesenjo 1943 in pomladjo 1944</title>
-      <author>Štesl Jurij</author>
+      <author>Štesl, Jurij</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Študijski center za narodno spravo</publisher>
       <year>2009</year>
@@ -24370,10 +24474,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1318" zalozba="Tolminski muzej">
       <title>Tolminsko mostičje II</title>
-      <author>Svoljšak Petra, Pirih Darja</author>
-      <author>Galić Lovro</author>
-      <author>Fortunat Černilogar Damjana</author>
-      <editor>Fortunat Černilogar Damjana</editor>
+      <author>Svoljšak, Petra</author>
+      <author>Pirih, Darja</author>
+      <author>Galić, Lovro</author>
+      <author>Fortunat Černilogar, Damjana</author>
+      <editor>Fortunat Černilogar, Damjana</editor>
       <pubPlace>Tolmin</pubPlace>
       <publisher>Tolminski muzej</publisher>
       <year>2005</year>
@@ -24407,13 +24512,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1315" zalozba="Tolminski muzej">
       <title>Tolminsko mostišče I</title>
-      <author>Galić Lovro</author>
-      <author>Marušič Branko</author>
+      <author>Galić, Lovro</author>
+      <author>Marušič, Branko</author>
       <pubPlace>Tolmin</pubPlace>
       <publisher>Tolminski muzej</publisher>
       <year>2005</year>
       <page>1-364</page>
-      <cobiss>223383296</cobiss>
       <cobiss>223383296</cobiss>
       <isbn>961-90844-7-0</isbn>
       <citations count="115">
@@ -24535,10 +24639,12 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2848" zalozba="Turistično gostinska zbornica Slovenije">
-      <title>Sto let organiziranega delovanja turističnega gospodarstva na Slovenskem : od Deželne zveze gostilničarskih zadrug na Kranjskem do Turistično gostinske zbornice</title>
-      <author>Repe Božo</author>
+      <title>Sto let organiziranega delovanja turističnega gospodarstva na Slovenskem</title>
+      <title>od Deželne zveze gostilničarskih zadrug na Kranjskem do Turistično gostinske zbornice</title>
+      <author>Repe, Božo</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>GZS, Turistično gostinska zbornica Slovenije</publisher>
+      <publisher>Gospodarska zbornica Slovenije</publisher>
+      <publisher>Turistično gostinska zbornica Slovenije</publisher>
       <year>2008</year>
       <cobiss>241323264</cobiss>
       <isbn>978-961-6666-14-5</isbn>
@@ -24563,13 +24669,14 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="51" zalozba="Uradni list Republike Slovenije">
       <title>Izgradnja Evrope</title>
       <title>Od razvoja ideje Evrope do njene ustavne prihodnosti</title>
-      <author>Accetto Matej</author>
+      <author>Accetto, Matej</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Uradni list Republike Slovenije</publisher>
       <year>2006</year>
       <collection>Scientia iustitia</collection>
       <cobiss>229212672</cobiss>
-      <isbn>961-204-373-6, 978-961-204-373-5</isbn>
+      <isbn>961-204-373-6 (ISBN-10)</isbn>
+      <isbn>978-961-204-373-5 (ISBN-13)</isbn>
       <citations count="321">
          <cit did="51" cid="1"/>
          <cit did="51" cid="2"/>
@@ -24897,7 +25004,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="375" zalozba="Viharnik">
       <title>Grajske stavbe v osrednji Sloveniji</title>
       <title>III. Notranjska, Tretja knjiga Porečje Reke z Brkini</title>
-      <author>Sapač Igor</author>
+      <author>Sapač, Igor</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Viharnik</publisher>
       <year>2007</year>
@@ -25091,7 +25198,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2609" zalozba="Viharnik">
       <title>Turnirska knjiga Gašperja Lambergerja</title>
-      <author>Kos dušan</author>
+      <author>Kos, Dušan</author>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Viharnik</publisher>
       <year>1997</year>
@@ -25136,8 +25243,9 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3507" zalozba="Zadruga Goriška Mohorjeva">
-      <title>Državni in deželni poslanec Anton Černe (1813-1891) : ob dvestoletnici rojstva</title>
-      <author>Marušič Branko</author>
+      <title>Državni in deželni poslanec Anton Černe (1813-1891)</title>
+      <title>ob dvestoletnici rojstva</title>
+      <author>Marušič, Branko</author>
       <pubPlace>Gorica</pubPlace>
       <publisher>Zadruga Goriška Mohorjeva</publisher>
       <year>2013</year>
@@ -25166,7 +25274,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    <publication did="2017" zalozba="Zgodovinski arhiv Celje">
       <title>Pike, špekulanti in Trumanova jajca</title>
       <title>preskrba prebivalstva Slovenije z blagom široke potrošnje v letih 1945-1953</title>
-      <author>Himmelreich  Bojan</author>
+      <author>Himmelreich, Bojan</author>
       <publisher>Zgodovinski arhiv Celje</publisher>
       <year>2008</year>
       <page>367 str.</page>
@@ -25262,7 +25370,7 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="1540" zalozba="Zgodovinski arhiv Celje">
       <title>Sejmi na Celjskem v 19. in prvi polovici 20. stoletja</title>
-      <author>Zdovc Hedvika</author>
+      <author>Zdovc, Hedvika</author>
       <pubPlace>Celje</pubPlace>
       <year>2007</year>
       <cobiss>228229888</cobiss>
@@ -25292,11 +25400,10 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2590" zalozba="Zgodovinski arhiv Ljubljana">
       <title>Klarise na Kranjskem</title>
-      <author>Hančič Damjan</author>
+      <author>Hančič, Damjan</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zgodovinski arhiv</publisher>
+      <publisher>Zgodovinski arhiv Ljubljana</publisher>
       <year>2005</year>
-      <cobiss>219277824</cobiss>
       <cobiss>219277824</cobiss>
       <isbn>961-6247-13-1</isbn>
       <citations count="73">
@@ -25376,10 +25483,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="2629" zalozba="Zgodovinski arhiv Ljubljana">
-      <title>Pismo, pisava, pisar : prispevek k zgodovini kranjskih listin do leta 1300</title>
-      <author>Kos Dušan</author>
+      <title>Pismo, pisava, pisar</title>
+      <title>prispevek k zgodovini kranjskih listin do leta 1300</title>
+      <author>Kos, Dušan</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zgodovinski arhiv</publisher>
+      <publisher>Zgodovinski arhiv Ljubljana</publisher>
       <year>1994</year>
       <cobiss>48503808</cobiss>
       <isbn>961-90054-5-7</isbn>
@@ -25451,8 +25559,8 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
    </publication>
    <publication did="2616" zalozba="Zgodovinski arhiv Ptuj">
       <title>Statut mesta Ptuja 1513</title>
-      <author>Masten Marija Hernja</author>
-      <author>Kos Dušan</author>
+      <author>Masten Hernja, Marija</author>
+      <author>Kos, Dušan</author>
       <pubPlace>Ptuj</pubPlace>
       <year>1999</year>
       <cobiss>44442881</cobiss>
@@ -25482,10 +25590,11 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="1664" zalozba="Zgodovinsko društvo Ljubljana">
-      <title>Na svidenje prihodnjo sredo : ženske demonstracije v Ljubljani 1943</title>
-      <author>Deželak Barič Vida</author>
+      <title>Na svidenje prihodnjo sredo</title>
+      <title>ženske demonstracije v Ljubljani 1943</title>
+      <author>Deželak Barič, Vida</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zgodovinsko društvo</publisher>
+      <publisher>Zgodovinsko društvo Ljubljana</publisher>
       <year>2005</year>
       <cobiss>217986560</cobiss>
       <isbn>961-91523-0-1</isbn>
@@ -25524,14 +25633,16 @@ Filozofska fakulteta, Oddelek za zgodovino</publisher>
       </citations>
    </publication>
    <publication did="3161" zalozba="">
-      <title>"Patriae ac humanitati" : zdravstvena organizacija v zaledju soške fronte</title>
-      <author>Šimac Miha, Keber Katarina</author>
+      <title>"Patriae ac humanitati"</title>
+      <title>zdravstvena organizacija v zaledju soške fronte</title>
+      <author>Šimac, Miha</author>
+      <author>Keber, Katarina</author>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zgodovinski inštitut Milka Kosa ZRC SAZU : Založba ZRC, ZRC SAZU</publisher>
+      <publisher>Zgodovinski inštitut Milka Kosa ZRC SAZU</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
       <year>2011</year>
       <collection>Thesaurus memoriae. Opuscula</collection>
       <cobiss>259259648</cobiss>
-      <cobiss>2232-3430</cobiss>
       <isbn>978-961-254-344-0 : 20 EUR</isbn>
       <citations count="117">
          <cit did="3161" cid="1"/>
