@@ -10,7 +10,7 @@
         <TipBiblEnote>knjiga</TipBiblEnote>
         <PvLeto leto="1999" did="1763"/>
     </publikacija>
-    <publikacija did="2578">
+    <publikacija did="2578"><!-- štima -->
         <OpNaslov>Prva odločitev Slovencev za Slovenijo : dokumenti z uvodno študijo in osnovnimi pojasnili</OpNaslov>
         <OpAvtor0>Granda Stane</OpAvtor0>
         <PvISSN>961-6017-84-5</PvISSN>
@@ -40,7 +40,7 @@
         <TipBiblEnote>članek</TipBiblEnote>
         <PvLeto leto="2004" did="2360"/>
     </publikacija>
-    <publikacija did="83">
+    <publikacija did="83"><!-- štima -->
         <OpNaslov>Slovenska vojska v službi domovine</OpNaslov>
         <OpAvtor0>Kladnik Tomaž</OpAvtor0>
         <PvISSN>961-6177-07-9</PvISSN>
@@ -69,7 +69,7 @@
     </publikacija>
     
     <!-- spodnje publikacije izločene iz monografije.xml. Nujno jih preveri ročno. -->
-    <publikacija did="367" zalozba="ARS">
+    <publikacija did="367" zalozba="ARS"><!-- štima -->
         <OpNaslov>Osimski pogajalski proces</OpNaslov>
         <OpAvtor0>Škorjanec Viljenka</OpAvtor0>
         <PvISSN>978-961-6143-24-0</PvISSN>
