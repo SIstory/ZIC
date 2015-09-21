@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="zborniki.xsd">
+   xsi:noNamespaceSchemaLocation="zborniki.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="BG">Barbara Györfi</docAuthor>
       <docTitle>Citiranost poglavij v zbornikih</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC By 4.0</docRights>
       <docDate>2015-09-15</docDate>
       <docNote corresp="#andrejp" when="2015-09-15">Sem pregledal in izločil dvojnike ipd.</docNote>
-      <docNote corresp="#andrejp" when="2015-09-15">V tem dokumentu so združene vse publikacije (poglavja v zbornikih),
-         v katerih so bili citati v celoti izpisani</docNote>
+      <docNote corresp="#andrejp" when="2015-09-15">V tem dokumentu so združene vse publikacije
+         (poglavja v zbornikih), v katerih so bili citati v celoti izpisani</docNote>
+      <docNote corresp="#BG" when="2015-09-21">Začetek vnašanja popravkov</docNote>
    </docMetadata>
    <publication>
       <pubTitle>1945 - a break with the past</pubTitle>
       <pubTitle>a history of central European countries at the end of World War II</pubTitle>
-      <pubAddTitle>1945 - prelom s preteklostjo : zgodovina srednjeevropskih držav ob koncu druge svetovne vojne</pubAddTitle>
+      <pubAddTitle>1945 - prelom s preteklostjo</pubAddTitle>
+      <pubAddTitle>zgodovina srednjeevropskih držav ob koncu druge svetovne vojne</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>239512832</pubCobiss>
@@ -548,7 +551,7 @@
    <publication>
       <pubTitle>Adam Bohorič, Jurij Dalmatin in Krško</pubTitle>
       <pubAddTitle>Adam Bohorič, Jurij Dalmatin and Krško</pubAddTitle>
-      <editor>Černelič Krošelj Alenka</editor>
+      <editor>Černelič Krošelj, Alenka</editor>
       <pubPlace>Krško</pubPlace>
       <publisher>Valvasorjev raziskovalni center Krško</publisher>
       <collection>Zbirka K mestu K. = Series To the town K. ; št. 4</collection>
@@ -844,8 +847,8 @@
    <publication>
       <pubTitle>Avstrijski in jugoslovanski državni problem</pubTitle>
       <pubTitle>tri razprave Janka Brejca iz prelomnega obdobja narodne zgodovine</pubTitle>
-      <author>Brejc Janko</author>
-      <editor>Rahten Andrej</editor>
+      <author>Brejc, Janko</author>
+      <editor>Rahten, Andrej</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
       <pubCobiss>264270336</pubCobiss>
@@ -962,7 +965,7 @@
       <pubPlace>Celovec</pubPlace>
       <pubPlace>Ljubljana</pubPlace>
       <pubPlace>Dunaj</pubPlace>
-      <publisher>Mohorjeva</publisher>
+      <publisher>Mohorjeva družba</publisher>
       <pubCobiss>514025356</pubCobiss>
       <issn>3-7086-0163-7</issn>
       <year>2006</year>
@@ -1433,7 +1436,6 @@
       <editor>Dolgan, Marjan</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
-      <publisher>Društvo Mohorjeva družba</publisher>
       <pubCobiss>225625088</pubCobiss>
       <issn>961-218-595-6</issn>
       <year>2006</year>
@@ -2092,7 +2094,7 @@
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvena založba Filozofske fakultete</publisher>
       <pubCobiss>258662400</pubCobiss>
-      <issn>978-961-237-462-4</issn>
+      <isbn>978-961-237-462-4</isbn>
       <year>2011</year>
       <chapters>
          <pubPart did="3248">
@@ -2921,7 +2923,6 @@
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Cankarjeva založba</publisher>
       <pubCobiss>259725312</pubCobiss>
-      <pubCobiss>Dukovski Darko</pubCobiss>
       <issn>978-961-231-872-7</issn>
       <year>2012</year>
       <chapters>
@@ -3745,12 +3746,10 @@
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Historični seminar 5</pubTitle>
-      <pubTitle>Historični seminar 5 : zbornik izbranih</pubTitle>
-      <pubTitle>Historični seminar 5 : zbornik izbranih
-            predavanj 2004-2006</pubTitle>
+      <pubTitle>Historični seminar</pubTitle>
+      <pubTitle>zbornik izbranih predavanj 2004-2006</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba ZRC</publisher>
+      <publisher>Založba ZRC SAZU</publisher>
       <pubCobiss>231780608</pubCobiss>
       <issn>978-961-6568-95-1</issn>
       <chapters>
@@ -4101,7 +4100,8 @@ glasbi Marenzia in Monteverdija</title>
       <pubPlace>Celje</pubPlace>
       <publisher>Zgodovinski arhiv Celje</publisher>
       <pubCobiss>230302720</pubCobiss>
-      <issn>961-6448-15-3</issn>
+      <isbn>961-6448-15-3</isbn>
+      <issn>978-961-6448-15-4</issn>
       <year>2006</year>
       <chapters>
          <pubPart did="90">
@@ -4272,7 +4272,8 @@ glasbi Marenzia in Monteverdija</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Istra kroz vrijeme : pregled povijesti Istre sa osvrtom na grad Rijeku</pubTitle>
+      <pubTitle>Istra kroz vrijeme</pubTitle>
+      <pubTitle>pregled povijesti Istre sa osvrtom na grad Rijeku</pubTitle>
       <pubPlace>Rovinj</pubPlace>
       <pubCobiss>2641012</pubCobiss>
       <issn>0353-3301</issn>
@@ -4558,8 +4559,6 @@ glasbi Marenzia in Monteverdija</title>
       <pubPlace>Celje</pubPlace>
       <publisher>Muzej novejše zgodovine Celje</publisher>
       <pubCobiss>64387072</pubCobiss>
-      <issn>961-6339-14-1, 978-961-6339-14-8</issn>
-      <issn>961-90173-6-678-961-6339-14-8</issn>
       <year>2006</year>
       <chapters>
          <pubPart did="98">
@@ -5384,13 +5383,11 @@ glasbi Marenzia in Monteverdija</title>
       </chapters>
    </publication>
    <publication id="Juruj_baron_Vega_in_njegov_cas">
-      <pubTitle>Juruj baron Vega in njegov čas</pubTitle>
       <pubTitle>Jurij baron Vega in njegov čas</pubTitle>
-      <pubTitle>Zbornik ob 250-letnici  rojstva/Celebrating 250 Years</pubTitle>
-      <pubTitle>zbornik ob 250-letnici rojstva</pubTitle>
-      <pubAddTitle>Baron Jurij Vega and His Times</pubAddTitle>
+      <pubTitle>Zbornik ob 250-letnici  rojstva</pubTitle>
       <pubAddTitle>Baron Jurij Vega and His Time</pubAddTitle>
-      <editor>Pisanski Tomaž</editor>
+      <pubAddTitle>Celebrating 250 Years</pubAddTitle>
+      <editor>Pisanski, Tomaž</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Arhiv republike Slovenije</publisher>
       <collection>Celebrating 250</collection>
@@ -5497,7 +5494,8 @@ glasbi Marenzia in Monteverdija</title>
          <pubPart did="341">
             <author>Pisanski Tomaž</author>
             <author>Boben Marko</author>
-            <author>Obranić Alen, Horvat Boris</author>
+            <author>Obranić Alen</author>
+            <author>Horvat Boris</author>
             <title>Vega, Primes, Cryptography and the Fields Medal</title>
             <addTitle>Vega, praštevila, kriptologija in Fieldsova medalja</addTitle>
             <page>308-318</page>
@@ -5800,8 +5798,9 @@ glasbi Marenzia in Monteverdija</title>
       </chapters>
    </publication>
    <publication id="Jugoslavija_v_casu">
-      <pubTitle>Jugoslavija v času : devetdeset let od nastanka prve jugoslovanske države</pubTitle>
-      <publisher>Historia : znanstvena zbirka Oddelka za zgodovino Filozofske fakultete Univerze v Ljubljani</publisher>
+      <pubTitle>Jugoslavija v času</pubTitle>
+      <pubTitle>devetdeset let od nastanka prve jugoslovanske države</pubTitle>
+      <publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani</publisher>
       <collection>Historia : znanstvena zbirka Oddelka za zgodovino Filozofske fakultete Univerze v Ljubljani</collection>
       <pubCobiss>246100992</pubCobiss>
       <issn>978-961-237-295-8</issn>
@@ -6266,15 +6265,11 @@ glasbi Marenzia in Monteverdija</title>
       </chapters>
    </publication>
    <publication id="Maleficne_svoboscine_Ljubljancanov">
-      <pubTitle>Malefične svoboščine Ljubljančanov = Deren vonLaibach Malefitzfreyhaittn : ljubljanski kazenski sodni red</pubTitle>
-      <pubTitle>Malefične svoboščine Ljubljančanov = Deren von
-            Laibach Malefitzfreyhaittn : ljubljanski kazenski sodni red</pubTitle>
-      <editor>Nataša Budna Kodrič</editor>
+      <pubTitle>Malefične svoboščine Ljubljančanov = Deren von Laibach Malefitzfreyhaittn</pubTitle>
+      <pubTitle>ljubljanski kazenski sodni red</pubTitle>
+      <editor>Budna Kodrič, Nataša</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <collection>Gradivo in razprave / Zgodovinski arhivLjubljana</collection>
-      <collection>Gradivo in razprave / Zgodovinski arhiv</collection>
-      <collection>Gradivo in razprave / Zgodovinski arhiv
-Ljubljana</collection>
+      <collection>Gradivo in razprave / Zgodovinski arhiv Ljubljana</collection>
       <pubCobiss>220774656</pubCobiss>
       <issn>961-6247-14-X</issn>
       <year>2004</year>
@@ -6442,9 +6437,11 @@ Ljubljana</collection>
    <publication id="Med_Srednjo_Evropo_in_Sredozemljem">
       <pubTitle>Med Srednjo Evropo in Sredozemljem</pubTitle>
       <pubTitle>Vojetov zbornik</pubTitle>
-      <editor>Jerše Saša, Štih Peter, Mihelič Darja</editor>
+      <editor>Jerše, Saša</editor>
+      <editor>Štih, Peter</editor>
+      <editor>Mihelič, Darja</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Založba ZRC SAZU, ZRC SAZU</publisher>
+      <publisher>Založba ZRC SAZU</publisher>
       <pubCobiss>230752256</pubCobiss>
       <issn>978-961-6568-88-3</issn>
       <year>2006</year>
@@ -7956,10 +7953,11 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Med_politiko_in_zgodovino">
-      <pubTitle>Med politiko in zgodovino : življenje in delo dr. Dušana Kermavnerja (1903-1975)</pubTitle>
+      <pubTitle>Med politiko in zgodovino</pubTitle>
+      <pubTitle>življenje in delo dr. Dušana Kermavnerja (1903-1975)</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Slovenska akademija znanosti in umetnosti: : Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Slovenska akademija znanosti in umetnosti</publisher>
+      <publisher>ZRC SAZU</publisher>
+      <publisher>Zveza zgodovinskih društev Slovenije</publisher>
       <pubCobiss>222622720</pubCobiss>
       <issn>961-91431-2-4</issn>
       <year>2005</year>
@@ -8203,8 +8201,9 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Meje v jugovzhodni Evropi : kultura in politika od XVIII. do XXI. stoletja = Borders in Southeastern Europe : culture and politics between the 18th and 21st century</pubTitle>
       <pubTitle>Meje v jugovzhodni Evropi</pubTitle>
+      <pubTitle>kultura in politika od XVIII. do XXI. stoletja = Borders in Southeastern Europe</pubTitle>
+      <pubTitle>culture and politics between the 18th and 21st century</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
       <pubCobiss>214220032</pubCobiss>
@@ -8274,7 +8273,8 @@ II. iz leta 1427</title>
             </citations>
          </pubPart>
          <pubPart did="3476">
-            <author>Gosar Anton, Darovec Darko</author>
+            <author>Gosar Anton</author>
+            <author>Darovec Darko</author>
             <title>Borders in Istria</title>
             <page>21-40</page>
             <cobiss>709075</cobiss>
@@ -8309,19 +8309,19 @@ II. iz leta 1427</title>
    </publication>
    <publication id="Migracije_in_slovenski_prostor">
       <pubTitle>Migracije in slovenski prostor od antike do danes</pubTitle>
+      <editor>Štih, Peter</editor>
+      <editor>Balkovec, Bojan</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>ljubljana</pubPlace>
-      <pubPlace>Ljublajna</pubPlace>
-      <pubPlace>2010</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
       <collection>(Zbirka Zgodovinskega časopisa, ISSN 1408-3531); 39</collection>
-      <pubCobiss>252587520</pubCobiss>
-      <pubCobiss>1892051</pubCobiss>
+      <pubCobiss>253331456</pubCobiss>
       <issn>978-961-6777-05-6</issn>
       <year>2010</year>
       <chapters>
          <pubPart did="2577">
-            <author>Valič Andreja Globočnik Janez, Filipčič Vincenc</author>
+            <author>Valič Andreja</author>
+            <author>Globočnik Janez</author>
+            <author>Filipčič Vincenc</author>
             <title>Kvalitativna in kvantitativna analiza učbenikov zgodovine</title>
             <cobiss>31794221</cobiss>
             <citations count="7">
@@ -9159,7 +9159,8 @@ II. iz leta 1427</title>
             </citations>
          </pubPart>
          <pubPart did="2540">
-            <author>Fajić Meliha, Darovec Darko</author>
+            <author>Fajić Meliha</author>
+            <author>Darovec Darko</author>
             <title>Demografski trendi v koprskem komunu v 18. stoletju</title>
             <page>126-137</page>
             <cobiss>1882067</cobiss>
@@ -9538,8 +9539,8 @@ II. iz leta 1427</title>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
       <collection>Zbirka Zgodovinskega časopisa ; 32</collection>
       <pubCobiss>229308928</pubCobiss>
-      <issn>10 961-91431-6-7, 13 978-961-91431-6-2</issn>
-      <year>2006</year>
+      <isbn>978-961-91431-6-2</isbn>
+      <year>2008</year>
       <chapters>
          <pubPart did="644">
             <author>Griesser-Pečar Tamara</author>
@@ -10698,20 +10699,17 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Napoleon_na_Jadranu">
-      <pubTitle>Napoleon na Jadranu = Napoléon dans l'Adriatique</pubTitle>
       <pubTitle>Napoleon na Jadranu</pubTitle>
+      <pubAddTitle>Napoléon dans l'Adriatique</pubAddTitle>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko ; u Zadru : Sveučilište</publisher>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko ; u Zadru : Sveučilište,</publisher>
-      <publisher>Koper : Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko ; u Zadru : Sveučilište</publisher>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko,</publisher>
+      <pubPlace>Zadar</pubPlace>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Sveučilište</publisher>
       <collection>Knjižnica Annales Majora</collection>
-      <pubCobiss>230782208</pubCobiss>
-      <pubCobiss>94(497.4-15)"1805/1814"(082)</pubCobiss>
-      <issn>961-6033-85-9</issn>
-      <issn>978-961-6033-85-5, 961-6033-85-9</issn>
-      <year>2006</year>
+      <pubCobiss>229913344</pubCobiss>
+      <issn>1318-9131</issn>
+      <year>2005</year>
       <chapters>
          <pubPart did="3527">
             <author>Granda Stane</author>
@@ -10995,8 +10993,7 @@ II. iz leta 1427</title>
    <publication>
       <pubTitle>Nasilje vojnih in povojnih dni</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
-      <publisher>Inz</publisher>
+      <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>272249600</pubCobiss>
       <issn>978-961-6386-46-3</issn>
       <year>2014</year>
@@ -11215,7 +11212,8 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Osamosvojitev_1991">
-      <pubTitle>Osamosvojitev 1991 : država in demokracija na Slovenskem v zgodovinskih razsežnostih</pubTitle>
+      <pubTitle>Osamosvojitev 1991</pubTitle>
+      <pubTitle>država in demokracija na Slovenskem v zgodovinskih razsežnostih</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvena založba Filozofske fakultete</publisher>
       <pubCobiss>258985472</pubCobiss>
@@ -11858,10 +11856,11 @@ II. iz leta 1427</title>
    </publication>
    <publication>
       <pubTitle>Pirjevčev zbornik</pubTitle>
-      <pubTitle>poti zgodovine med severnim Jadranom, srednjo in vzhodno Evropo : ob 70. obletnici akad. prof. dr. Jožeta Pirjevca</pubTitle>
-      <pubTitle>Poti zgodovine med severnim Jadranom, srednjo in vzhodno Evropo : ob 70. obletnici akad. prof. dr. Jožeta Pirjevca</pubTitle>
+      <pubTitle>poti zgodovine med severnim Jadranom, srednjo in vzhodno Evropo</pubTitle>
+      <pubTitle>ob 70. obletnici akad. prof. dr. Jožeta Pirjevca</pubTitle>
       <pubPlace>Koper</pubPlace>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Univerzitetna založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
       <pubCobiss>258832384</pubCobiss>
       <issn>978-961-6732-30-7</issn>
       <year>2011</year>
@@ -12945,7 +12944,8 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Podobe_modernizacije">
-      <pubTitle>Podobe modernizacije : poglavja iz gospodarske in socialne modernizacije Slovenije v 19. in 20. stoletju</pubTitle>
+      <pubTitle>Podobe modernizacije</pubTitle>
+      <pubTitle>poglavja iz gospodarske in socialne modernizacije Slovenije v 19. in 20. stoletju</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>247438592</pubCobiss>
@@ -13401,9 +13401,9 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Pomisli na jutri : o zgodovini (samo)odgovornosti</pubTitle>
+      <pubTitle>Pomisli na jutri</pubTitle>
+      <pubTitle>o zgodovini (samo)odgovornosti</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>264729344</pubCobiss>
       <issn>978-961-6386-40-1</issn>
@@ -14234,14 +14234,14 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Slovenska_novejsa_zgodovina">
-      <pubTitle>Slovenska novejša zgodovina 2</pubTitle>
       <pubTitle>Slovenska novejša zgodovina</pubTitle>
       <pubTitle>od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije : 1848-1992</pubTitle>
-      <pubAddTitle>Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije: 1848-1992</pubAddTitle>
-      <editor>Fischer Jasna, Čepič Zdenko, Gabrič Aleš</editor>
+      <editor>Fischer, Jasna</editor>
+      <editor>Čepič, Zdenko</editor>
+      <editor>Gabrič, Aleš</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Mladinska knjiga, Inštitut za novejšo zgodovino</publisher>
-      <publisher>Mladinska knjiga : Inštitut za novejšo zgodovino</publisher>
+      <publisher>Mladinska knjiga</publisher>
+      <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>221408256</pubCobiss>
       <issn>86-11-16897-6</issn>
       <year>2005</year>
@@ -19091,7 +19091,7 @@ II. iz leta 1427</title>
       <pubTitle>Slovenstvo na Ptujskem v 20. stoletju</pubTitle>
       <pubPlace>Ptuj</pubPlace>
       <pubCobiss>54729985</pubCobiss>
-      <issn>961-91141-9-1</issn>
+      <isbn>961-91141-9-1</isbn>
       <year>2005</year>
       <chapters>
          <pubPart did="1905">
@@ -19294,7 +19294,7 @@ II. iz leta 1427</title>
    </publication>
    <publication id="Stiplovskov_zbornik">
       <pubTitle>Stiplovškov zbornik</pubTitle>
-      <editor>Nećak Dušan</editor>
+      <editor>Nećak, Dušan</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
       <collection>Historia : znanstvena zbirka Oddelka za zgodovino Filozofske fakultete v Ljubljani ; 10</collection>
@@ -20070,9 +20070,10 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>The constitutional and political regulation of ethnic relations and conflicts : [selected papers]</pubTitle>
+      <pubTitle>The constitutional and political regulation of ethnic relations and conflicts</pubTitle>
+      <pubTitle>[selected papers]</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <collection>Ethnicity</collection>
       <collection>Ehnicity</collection>
       <pubCobiss>97931008</pubCobiss>
@@ -20471,10 +20472,9 @@ II. iz leta 1427</title>
    <publication>
       <pubTitle>Trojarjev zbornik</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljublajna</pubPlace>
       <publisher>Znanstvena založba Filozofske fakultete</publisher>
       <pubCobiss>256448512</pubCobiss>
-      <issn>978-961-237-433-4</issn>
+      <isbn>978-961-237-433-4</isbn>
       <year>2011</year>
       <chapters>
          <pubPart did="3199">
@@ -21282,7 +21282,8 @@ II. iz leta 1427</title>
    <publication id="Ukmarjev_simpozij_v_Rimu">
       <pubTitle>Ukmarjev simpozij v Rimu</pubTitle>
       <pubPlace>Celje</pubPlace>
-      <publisher>Celjska Mohorjeva družba,Slovenska teološka akademija v Rimu</publisher>
+      <publisher>Celjska Mohorjeva družba</publisher>
+      <publisher>Slovenska teološka akademija v Rimu</publisher>
       <pubCobiss>227361024</pubCobiss>
       <issn>1408-4015</issn>
       <year>2006</year>
@@ -21680,8 +21681,8 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Usnjarstvo v gospodarstvu trgov in mest na Slovenskem : zbornik referatov, Šoštanj, 26. september 2011</pubTitle>
-      <pubTitle>Usnjarstvo v gospodarstvu trgov in mest na Slovenskem : zbornik referatov</pubTitle>
+      <pubTitle>Usnjarstvo v gospodarstvu trgov in mest na Slovenskem</pubTitle>
+      <pubTitle>zbornik referatov, Šoštanj, 26. september 2011</pubTitle>
       <pubPlace>Šoštanj</pubPlace>
       <publisher>Muzej Velenje, Muzej usnjarstva na Slovenskem</publisher>
       <pubCobiss>257599232</pubCobiss>
@@ -22451,12 +22452,12 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Vera_in_hotenja">
-      <pubTitle>Vera in hotenja : študije o Primožu Trubarju in njegovem času</pubTitle>
+      <pubTitle>Vera in hotenja</pubTitle>
+      <pubTitle>študije o Primožu Trubarju in njegovem času</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <pubCobiss>247406336</pubCobiss>
       <issn>978-961-213-191-3</issn>
-      <issn>978-961-213-191-3 :</issn>
       <year>2009</year>
       <chapters>
          <pubPart did="2821">
@@ -22879,8 +22880,6 @@ II. iz leta 1427</title>
       <pubTitle>Vojaška obramba Slovenije : 1990-1991</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Defensor</publisher>
-      <publisher>258271232</publisher>
-      <publisher>Defen</publisher>
       <pubCobiss>258271232</pubCobiss>
       <issn>978-961-6177-38-2</issn>
       <year>2011</year>
@@ -23091,8 +23090,8 @@ II. iz leta 1427</title>
    <publication>
       <pubTitle>Vovkov simpozij v Rimu</pubTitle>
       <pubPlace>Celje</pubPlace>
-      <publisher>Društvo Mohorjeva družba</publisher>
-      <publisher>Društvo Mohorjeva družba : Celjska Mohorjeva družba</publisher>
+      <publisher>Mohorjeva družba</publisher>
+      <publisher>Celjska Mohorjeva družba</publisher>
       <pubCobiss>220838144</pubCobiss>
       <issn>961-218-567-0</issn>
       <year>2005</year>
@@ -23490,13 +23489,11 @@ II. iz leta 1427</title>
    <publication id="Zgodovina_socialnega_dela">
       <pubTitle>Zgodovina socialnega dela v Sloveniji</pubTitle>
       <pubTitle>med družbenimi gibanji in političnimi sistemi</pubTitle>
-      <pubTitle>Med družbenimi gibanji in političnimi sistemi</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Fakulteta za socialno delo</publisher>
-      <pubCobiss>230293760</pubCobiss>
-      <pubCobiss>2302393760</pubCobiss>
-      <issn>961-6569-06-6, 978-961-6569-06-4</issn>
-      <year>2006</year>
+      <pubCobiss>	219234816</pubCobiss>
+      <isbn>961-91026-5-7</isbn>
+      <year>2005</year>
       <chapters>
          <pubPart did="171">
             <author>Mešl Nina</author>
@@ -23940,7 +23937,8 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication>
-      <pubTitle>Zgodovinopisje v zrcalu zgodovine : 50 let Inštituta za novejšo zgodovino</pubTitle>
+      <pubTitle>Zgodovinopisje v zrcalu zgodovine</pubTitle>
+      <pubTitle>50 let Inštituta za novejšo zgodovino</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <pubCobiss>247525376</pubCobiss>
@@ -24251,9 +24249,10 @@ II. iz leta 1427</title>
    <publication id="Zwittrov_zbornik">
       <pubTitle>Zwittrov zbornik</pubTitle>
       <pubTitle>Ob stoletnici rojstva zgodovinarja dr. Frana Zwittra</pubTitle>
-      <editor>Štih Peter</editor>
+      <editor>Štih, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zveza zgodovinski društev Slovenije; Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani</publisher>
+      <publisher>Zveza zgodovinski društev Slovenije</publisher>
+      <publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani</publisher>
       <collection>Zbirka Zgodovinskega časopisa; 31</collection>
       <pubCobiss>229142784</pubCobiss>
       <issn>10 961-91431-5-9. 13 978-961-91431-5-5</issn>
@@ -24503,9 +24502,9 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Crnomaljski_zbornik">
-      <pubTitle>Črnomaljski zbornik : zbornik historičnih razprav ob 780-letnici prve omembe naselja in 600-letnici prve omembe Črnomlja kot mesta</pubTitle>
+      <pubTitle>Črnomaljski zbornik</pubTitle>
+      <pubTitle>zbornik historičnih razprav ob 780-letnici prve omembe naselja in 600-letnici prve omembe Črnomlja kot mesta</pubTitle>
       <pubPlace>Črnomelj</pubPlace>
-      <pubPlace>Črnomalj</pubPlace>
       <pubCobiss>243436800</pubCobiss>
       <issn>978-961-90233-5-8 : 25 EUR</issn>
       <year>2008</year>
@@ -24836,7 +24835,7 @@ II. iz leta 1427</title>
    <publication id="Stefan_Kocevar">
       <pubTitle>Štefan Kočevar - rodoljub slovenski</pubTitle>
       <pubPlace>Celje</pubPlace>
-      <publisher>Zgodovinsko društvo</publisher>
+      <publisher>Zgodovinsko društvo Celje</publisher>
       <collection>Zgodovini.ce ; 4</collection>
       <pubCobiss>229522176</pubCobiss>
       <issn>961-91222-3-2, 978-961-91222-3-5</issn>
@@ -24975,10 +24974,11 @@ II. iz leta 1427</title>
       </chapters>
    </publication>
    <publication id="Ziveti_z_mejo.Panonski_prostor">
-      <pubTitle>Živeti z mejo. Panonski prostor in ljudje ob dveh tromejah : zbornik referatov na znanstvenem posvetu v Murski Soboti, 9.-11. novembra 2007</pubTitle>
+      <pubTitle>Živeti z mejo. Panonski prostor in ljudje ob dveh tromejah</pubTitle>
+      <pubTitle>zbornik referatov na znanstvenem posvetu v Murski Soboti, 9.-11. novembra 2007</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>SAZU, INV</publisher>
-      <publisher>INV, SAZU</publisher>
+      <publisher>Založba ZRC SAZU</publisher>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
       <collection>Narodne manjšine</collection>
       <pubCobiss>243050752</pubCobiss>
       <issn>978-961-6159-33-3 (Inštitut za narodnostna vprašanja)</issn>
@@ -25330,7 +25330,6 @@ II. iz leta 1427</title>
    </publication>
    <publication>
       <pubTitle>Žrtve vojne in revolucije</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije : zbornik</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Državni svet Republike Slovenije</publisher>
       <pubCobiss>219759104</pubCobiss>
@@ -25579,5 +25578,5 @@ II. iz leta 1427</title>
             </citations>
          </pubPart>
       </chapters>
-   </publication>  
+   </publication>
 </root>
