@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <napacno>
+        <!-- Napačen avtor: Pravilno Iva Mikl Curk;
+             Manjka leto: 1997
+             Iz zgodovinskega časopisa, št. 4
+        -->
+        <citirano did="2069" cid="34" avtor0="Makjanić R." naslov0="Nekaj drobcev o poznorimskem obdobju"/>
+    </napacno>
+    <napacno>
+        <!-- Napačno navajano, da je iz Zgodovinskega časopisa -->
+        <citirano did="1244" cid="45" avtor0="Valenčič Vlado" naslov0="Ljubljanska trgovina od začetka 18. do srede 19. stoletja"/>
+    </napacno>
+    <!-- kot vir navajana Acta Histriae  -->
+    <napacno>
+        <pravilno kje="Acta historiae artium Academiae Scientiarum Hungaricae Bd. 2, 1954">
+            <citirano did="1588" cid="57" avtor0="Gerevich Laszló" naslov0="Prager Einflüsse auf die Bildhauerkunst der Ofner Burg"/>
+        </pravilno>
+        <pravilno kje="Acta historiae artis Slovenica ISSN: 1408-0419.- 5 (2000), str. 151-166">
+            <citirano did="1584" cid="14" avtor0="Lavrič Ana" naslov0="Načrt graškega arhitekta Josepha Hüberja za škofovsko cerkev v Gornjem Gradu"/>
+        </pravilno>
+        <citirano did="2553" cid="4" avtor0="Pelikan Egon" naslov0="Organizacije, komemoracije in druge prireditve slovenskih emigrantov v luči prizadevanj za priključitev Julijske krajine h Kraljevini Jugoslaviji v tridesetih letih"/>
+    </napacno>
+    <!-- Kot vir navajani Annales -->
+    <napacno>
+        <pravilno kje="Slovensko-hrvaško sosedstvo = Hrvatsko-slovensko susjedstvo / zbrala in uredila Darko Darovec in Petar Strčić, 2011">
+            <citirano did="3072" cid="135" avtor0="Josipovič Damir" naslov0="Slovensko-hrvaška meja: izbrane problematizacije političnega in etničnega razmejevanja"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2008">
+            <citirano did="2658" cid="16" avtor0="Bufon Milan" naslov0="Na obrobju ali v osredju? Slovenska obmejna območja pred izzivi evropskega povezovanja"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2006">
+            <citirano did="1803" cid="1" avtor0="Vinkler Jonatan" naslov0="Posnemovalci, zavezniki in tekmeci: češko-slovenski in slovensko-češki kulturni stiki v 19. stoletju"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2004">
+            <citirano did="2658" cid="12" avtor0="Bufon Milan" naslov0="Med teritorialnostjo in globalnostjo"/>
+            <citirano did="400" cid="7" avtor0="Bufon Milan" naslov0="Med teritorialnostjo in globalnostjo : sodobni problemi območij družbenega in kulturnega stika"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2004">
+            <citirano did="400" cid="17" avtor0="Tunjić Filip" naslov0="Vmesna Evropa : konfliktnost državnih teritorialnih meja"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2003">
+            <citirano did="1763" cid="3" avtor0="Volk Sandi" naslov0="Istra v Trstu : naselitev istrskih in dalmatinskih ezulov in nacionalna bonifikacija na Tržaškem"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 2002">
+            <citirano did="3023" cid="3" avtor0="Bajc Gorazd" naslov0="Iz nevidnega na plan. Slovenski primorski liberalni narodnjaki v emigraciji med drugo svetovno vojno in ozadje britanskih misij v Sloveniji"/>
+        </pravilno>
+        <pravilno kje="strokovna monografija, 2002">
+            <citirano did="547" cid="10" avtor0="Kalc Aleksej" naslov0="Poti in usode. Selitvene izkušnje Slovencev z zahodne meje"/>
+        </pravilno>
+        <pravilno kje="knjiga, 1996">
+            <citirano did="673" cid="6" avtor0="Bufon Milan" naslov0="Naravne, kulturne in družbene meje"/>
+        </pravilno>
+        <pravilno kje="znanstvena monografija, 1995">
+            <citirano did="292" cid="2" avtor0="Verginella Marta" naslov0="Ljudje v vojni (Druga svetovna vojna v Trstu in na Primorskem)"/>
+        </pravilno>
+    </napacno>
+    <!-- Kot vir navajan časopis za zgodovino in narodopisje -->
+    <napacno>
+        <pravilno kje="Časopis za kritiko znanosti, domišljijo in novo antropologijo ISSN: 0351-4285.- 21, št. 158/159 (1993), str.179-193">
+            <citirano did="2536" cid="12" avtor0="Darovec Darko" naslov0="Migracije in (etnična) dihotomija mesto-podeželje v Istri do konca 18. stoletja"/>
+        </pravilno>
+    </napacno>
+    <!-- Kot vir navajana Kronika -->
+    <napacno>
+        <pravilno kje="Slovenska kronika XIX. stoletja">
+            <citirano did="1512" cid="19" avtor0="Gašparič Jure" naslov0="Slovenska krščansko socialna delavska zveza"/>
+        </pravilno>
+        <pravilno kje="Ormož skozi stoletja III., Ormož 1988">
+            <citirano did="1288" cid="43" avtor0="Curk Jože" naslov0="Oris Ormoža in Središča v fasijskem popisu izleta 1754"/>
+        </pravilno>
+        <pravilno kje="Zgodovina Ljubljane : prispevki za monografijo : gradivo s Posvetovanja o zgodovini Ljubljane, 16. in 17. novembra 1983 v Ljubljani, 1984">
+            <citirano did="886" cid="2" avtor0="Drnovšek Marjan" naslov0="Oris odnosa ljubljanskega občinskega sveta do mestnega razvoja 1850-1914 s posebnim poudarkom na Hribarjevi dobi"/>
+        </pravilno>
+        <pravilno kje="Zgodovinski časopis, 1978, št. 1-2">
+            <citirano did="2614" cid="137" avtor0="Gestrin Ferdo" naslov0="Migracije Slovanov v Italijo, Rezultati jugoslovanske historiografije"/>
+        </pravilno>
+        <citirano did="2604" cid="143" avtor0="Žabota Barbara" naslov0="Grb družine Khisl in njegove izboljšave"/>
+        <citirano did="1512" cid="30" avtor0="Marušič Branko" naslov0="Konec slogaštva na Goriškem"/>
+        <citirano did="1593" cid="55" avtor0="Prelovšek Damjan" naslov0="Ljubljanska arhitektura 18. stoletja"/>
+        <citirano did="2614" cid="87" avtor0="Gašperšič J." naslov0="Vigenjc, Vodnik po zgodovinskih žebljarskih kovačnicah v Kamni gorici. Kropi in Železnikih, Vodniki Tehniškega muzeja Slovenije 7. Ljubljana 1956; idem. Gorenjsko železarstvo v XIV. in XV. stoletju"/>
+    </napacno>
+    <!-- Kot vir navajani Prispevki za novejšo zgodovino -->
+    <napacno>
+        <pravilno kje="Kronika, 2007, št. 3">
+            <citirano did="3241" cid="300" avtor0="Drnovšek Marjan" naslov0="Podoba kočevskih in belokranjskih krošnjarjev v očeh javnosti do začetka 20. stoletja"/>
+        </pravilno>
+        <pravilno kje="Traven, Novomeška partizanska četa, Prispevki za zgodovino delavskega gibanja in NOB na Dolenjskem in v Beli krajini, Novo mesto 1989">
+            <citirano did="1510" cid="57" avtor0="Traven Terezija" naslov0="Novomeška partizanska četa"/>
+            <citirano did="1510" cid="72" avtor0="Traven Terezija" naslov0="Novomeška partizanska četa"/>
+        </pravilno>
+    </napacno>
+    <!-- Kot vir navajani Razprave in gradivo -->
+    <napacno>
+        <pravilno kje="Primorski dnevnik ISSN: Y500-4586 ; 1124-6669.- Letn. 55, 56, št. 273 (1999) - 53 (2000) (20. nov. 1999 - 4. mar. 2000), str. 18">
+            <citirano did="679" cid="16" avtor0="Komac Miran" naslov0="Varstvo narodnih skupnosti v Republiki Sloveniji"/>
+        </pravilno>
+    </napacno>
+    
+</root>

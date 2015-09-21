@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <publikacija did="248 216 215 214 213 212 211 210 209 208 207 206 205" zalozba="INV">
+        <PvNaslov>Prizadevanja koroških Slovencev za narodnostni obstoj po drugi svetovni vojni</PvNaslov>
+        <!-- Skupna monografija dveh avtorjev (Vladimir in Matjaž Klemenčič), 
+             kjer je vsako poglavje vpisano posebej. Dvojniki publikacije z id 2825 -->
+        <PvISSN>10-3-7086-0278-1, 13 978-3-7086-0278-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>248</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="248 216 215 214 213 212 211 210 209 208 207 206 205"/>
+    </publikacija>
+    <publikacija did="1406" zalozba="Celje">
+        <OpNaslov>Med Tatrami in Triglavom : primerjave narodnega razvoja Slovencev in Slovakov in
+            njihovi kulturno-politični stiki</OpNaslov>
+        <OpNaslov>Med Tatrami in Triglavom</OpNaslov>
+        <OpAvtor0>Kregar Tone</OpAvtor0>
+        <PvISSN>978-961-91222-5-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1626</BazaINZ>
+        <BazaINZ>1406</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1406"/>
+        <!-- Publikacija 1406 je dvojnik (s samo Perovškovimi citati) publikacije z id 1626 -->
+    </publikacija>
+    <publikacija did="1778" zalozba="Celje">
+        <OpNaslov>Uspehi spodnještajerskih Slovencev v Taaffejevi dobi</OpNaslov>
+        <OpAvtor0>Čuček Filip</OpAvtor0>
+        <OpAvtor0>Filip Čuček</OpAvtor0>
+        <PvISSN>978-961-91222-7-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1783</BazaINZ>
+        <BazaINZ>1778</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1778"/>
+        <!-- dvojnik (z manj citati) zgornje publikacije z id 1783 -->
+    </publikacija>
+    <publikacija did="1761" zalozba="FF">
+        <OpNaslov>Podoba Celjskih grofov v narativnih virih</OpNaslov>
+        <OpAvtor0>Mlinar Janez</OpAvtor0>
+        <PvISSN>961-237-135-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3439</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1761"/>
+        <!-- Publikaciji z id 3439 in 1761 sta dvojnika. Obdržal sem 3439, ki ima v primerjavi z drugo nekoliko več citatov  -->
+    </publikacija>
+    <publikacija did="1414" zalozba="INZ">
+        <OpNaslov>Komunistična partija Slovenije in revolucionarno gibanje 1941-1943</OpNaslov>
+        <OpAvtor0>Vida Deželak Barič</OpAvtor0>
+        <OpAvtor0>Deželak Barič Vida</OpAvtor0>
+        <PvISSN>978-961-6386-13-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1510</BazaINZ>
+        <BazaINZ>1414</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1414">
+            <PvStID leto="2007" st="7">1414</PvStID>
+        </PvLeto>
+        <!-- dvojnik (s citati samo sodelavcev INZ) publikacije z id 1510 -->
+    </publikacija>
+    <publikacija did="32 31 30 28 27 26 25 24 23 22 20 19 18 17" zalozba="INZ">
+        <PvNaslov>O gospodarskih in socialnih nazorih na Slovenskem v 19. stoletju</PvNaslov>
+        <PvNaslov>O gopodarskih in socialnih nazorih na Slovenskem v 19. stoletju</PvNaslov>
+        <!-- Monografija Petra Vodopivca, kjer je bilo vsako poglavje vpisano kot posebna enota.
+             Kasneje (glej zgoraj id 2871) je bila knjiga vpisana še enkrat.
+        -->
+        <PvISSN>961-6386-11-5, 978-961-6386-11-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>32</BazaINZ>
+        <BazaINZ>27</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="32 31 30 28 27 26 25 24 23 22 20 19 18 17"/>
+    </publikacija>
+    <publikacija did="610" zalozba="Koper">
+        <OpNaslov>Barko v Trst</OpNaslov>
+        <OpNaslov>Z barko v Trst : pomorstvo v Piranu, Izoli in Kopru ter gospodarska vloga
+            severozahodne Istre v odnosu do Trsta : (1850-1918)</OpNaslov>
+        <OpAvtor0>Terčon Nadja</OpAvtor0>
+        <PvISSN>961-6033-49-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2636</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="610"/>
+        <!-- publikacija z id 610 je dvojnik publikacije z id 2636 -->
+    </publikacija>
+    <publikacija did="50 49 48 47 46 45 44 43 42 41 40 39 38 37" zalozba="Koper">
+        <PvNaslov>Prispevki k primorski biografiki</PvNaslov>
+        <!-- monografija Branka Marušiča, kjer je vsako poglavje vpisano kot posebna enota -->
+        <!-- dvojnik publikacije 2844 -->
+        <PvISSN>961-6033-78-6, 978-961-6033-78-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>50</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvNaslov>Prispevki k primorski biografiki</PvNaslov>
+        <PvISSN>961-6033-78-6, 978-961-6033-78-7</PvISSN>
+        <PvTip>elektronski vir</PvTip>
+        <BazaINZ>40</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="50 49 48 47 46 45 44 43 42 41 40 39 38 37"/>
+    </publikacija>
+    <publikacija did="3508" zalozba="Koper">
+        <OpNaslov>Prispevki k primorski biografiki</OpNaslov>
+        <PvISSN>961-6033-78-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3508</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="3508"/>
+        <!-- dvojnik publikacije z id 2844 -->
+    </publikacija>
+    <publikacija did="1417" zalozba="Modrijan">
+        <OpNaslov>SLS pod kraljevo diktaturo : diktatura kralja Aleksandra in politika Slovenske
+            ljudske stranke v letih 1929-1935</OpNaslov>
+        <OpNaslov>SLS pod kraljevo diktaturo</OpNaslov>
+        <OpAvtor0>Gašparič Jure</OpAvtor0>
+        <PvISSN>978-961-241-191-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1512</BazaINZ>
+        <BazaINZ>1417</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1417"/>
+        <!-- dvojnik (z manj citati) zgornje publikacije z id 1512 -->
+    </publikacija>
+    <publikacija did="246 245 244 243 242 241 240 239 238 237 236 235 234 233 232 231 230 229 228"
+        zalozba="ZRC">
+        <PvNaslov>Med dolžnostjo spomina in razkošjem pozabe</PvNaslov>
+        <!-- monografija od Grdine, kjer je vsako poglavje vpisano posebej
+             Je dvojnik od zgornje publikacije z id 2838
+        -->
+        <PvISSN>961-6568-54-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>246</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006"
+            did="246 245 244 243 242 241 240 239 238 237 236 235 234 233 232 231 230 229 228"/>
+    </publikacija>
+    <publikacija did="414 74" zalozba="ZRC">
+        <OpNaslov>Srednjeveški urbarji za Slovenijo</OpNaslov>
+        <OpNaslov>Srednjeveški urbarji za Slovenijo. 5</OpNaslov>
+        <OpAvtor0>Bizjak Matjaž</OpAvtor0>
+        <PvISSN>961-6568-43-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>414</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2006" did="74"/>
+        <!-- Dvojnik (z le nekaj citati) zgornje publikacije z id 414 -->
+    </publikacija>
+    <publikacija did="1708" zalozba="Družina">
+        <OpNaslov>Frančišek Lampe : zmerno, z ljubeznijo</OpNaslov>
+        <OpAvtor0>Tominšek Perovšek Mateja</OpAvtor0>
+        <PvISSN>978-961-222-655-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2635</BazaINZ>
+        <BazaINZ>1708</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1708"/>
+        <!-- publikacija z id 1708 je dvojnik (z nepopolnimi citati) publikacije 2635 -->
+    </publikacija>
+    <publikacija did="1891" zalozba="Zgodovinski arhiv Celje">
+        <OpNaslov>Pike, špekulanti in Trumanova jajca</OpNaslov>
+        <OpAvtor0>Himmelreich Bojan</OpAvtor0>
+        <OpAvtor0>Himmelreich Bojan</OpAvtor0>
+        <PvISSN>978-961-6448-20-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2017</BazaINZ>
+        <BazaINZ>1891</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1891"/>
+        <!-- dvojnik (ima samo Prinčičeve citate) zgornjega dela z id 2017 -->
+    </publikacija>
+    <!--  iz arhivske datoteke ../../ZIC(arhiv)/publikacije/VSE-monografije-V2.xml -->
+    <publikacija did="1363">
+        <!-- napačen vpis -->
+        <OpNaslov>Hahaha</OpNaslov>
+        <OpAvtor0>Miki Gagi</OpAvtor0>
+        <PvISSN>11122233344</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1363</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+    </publikacija>
+    <publikacija did="2088">
+        <!-- duplikat publikacije id 2089 (obe publikacije imata isto število citatov) -->
+        <OpAvtor0>Claudio Povolo</OpAvtor0>
+        <OpNaslov>Interpreti di culture</OpNaslov>
+        <OpVzpNaslov>Interpreti kultur</OpVzpNaslov>
+        <OpPodnaslov>culture dominanti e culture subordinate a confronto</OpPodnaslov>
+        <PvStran>425-476</PvStran>
+        <OpCobId>1620947</OpCobId>
+    </publikacija>
+    <publikacija did="1328">
+        <!-- Duplikat publikacije z id 558 (nima nobenega citata) -->
+        <OpAvtor0>Pleterski Janko</OpAvtor0>
+        <OpNaslov>Zgodovinski pluralizem motivov za osamosvojitev Slovenije 1</OpNaslov>
+        <PvStran>209-220</PvStran>
+        <OpCobId>626131</OpCobId>
+    </publikacija>
+    <publikacija did="1991">
+        <!-- Dvojnik publikacije z id 2154, pri čemer ima ta samo en citat -->
+        <OpAvtor0>Hodnik Mira</OpAvtor0>
+        <OpNaslov>Idrija v letih 1918-1922 - obdobje treh držav</OpNaslov>
+        <PvStran>59-72</PvStran>
+        <OpCobId>254405120</OpCobId>
+    </publikacija>
+    <publikacija did="1379">
+        <!-- Dvojnik publikacije z ID 1380. Nima nobenega citata -->
+        <OpAvtor0>Polajnar Janez</OpAvtor0>
+        <OpNaslov>sramežljivost kot branik pred "nečistim" v družbi 19. stoletja</OpNaslov>
+        <OpPodnaslov>"Dolgo časa naj bi menda prenašali viktorijanski način življenja in še danes ga prenašamo. kot da je v grbu naše seksualnosti sramežljiva kraljica , zadržana, nema, licemerska."</OpPodnaslov>
+        <PvStran>10</PvStran>
+        <OpCobId>236930048</OpCobId>
+    </publikacija>
+    <publikacija did="1376">
+        <!-- Dvojnik publikacije z ID 1607 -->
+        <OpAvtor0>Cvirn Janez</OpAvtor0>
+        <OpNaslov>Kdor te sreča naj te sune, če ti more v zobe plune</OpNaslov>
+        <OpPodnaslov>Dragotin Dežman in slovenstvo</OpPodnaslov>
+        <PvStran>38-56</PvStran>
+        <OpCobId>236936192</OpCobId>
+    </publikacija>
+    <publikacija did="1638">
+        <!-- Duplikat publikacije z ID 2254 (samo Perovškovi citati) -->
+        <OpAvtor0>Stiplovšek Miroslav</OpAvtor0>
+        <OpNaslov>Anton Korošec in prizadevanja Slovenske ljudske stranke za uresničenje narodne avtonomije</OpNaslov>
+        <PvStran>122-137</PvStran>
+        <OpCobId>58073857</OpCobId>
+    </publikacija>
+    <publikacija did="1637">
+        <!-- Duplikat publikacije z ID 2250 (ima samo eden citat) -->
+        <OpAvtor0>Prunk Janko</OpAvtor0>
+        <OpNaslov>Anton Korošec v opoziciji 1930-1934</OpNaslov>
+        <PvStran>83-91</PvStran>
+        <OpCobId>58068481</OpCobId>
+    </publikacija>
+    <publikacija did="2151">
+        <!-- Dvojnik publikacije z id 2152 (brez enega citata) -->
+        <OpAvtor0>Kačičnik Gabrič Alenka</OpAvtor0>
+        <OpNaslov>Jezersko - pozabljeni delček Koroške</OpNaslov>
+        <PvStran>29-46</PvStran>
+        <OpCobId>1082485</OpCobId>
+    </publikacija>
+    <publikacija did="1679">
+        <!-- Dvojnik publikacije z id 1692 (samo Perovškovi citati) -->
+        <OpAvtor0>Lazarević Žarko</OpAvtor0>
+        <OpNaslov>Gospodarski koncepti slovenskega liberalizma</OpNaslov>
+        <PvStran>21-28</PvStran>
+        <OpCobId>2466420</OpCobId>
+    </publikacija>
+    <publikacija did="2013">
+        <!-- Duplikat publikacije 2701 (samo Guštinov citat) -->
+        <OpAvtor0>Jurić Pahor Marija</OpAvtor0>
+        <OpNaslov>O nuji pripovedovati o Auschwitzu. Narativnost spominjanja in geno-tekst simbolizacije</OpNaslov>
+        <PvStran>6-33</PvStran>
+        <OpCobId>11205965</OpCobId>
+    </publikacija>
+    <publikacija did="2832">
+        <!-- Duplikat publikacije 2833 (brez citatov) -->
+        <OpAvtor0>Rizman Rudi</OpAvtor0>
+        <OpNaslov>Perspektive raziskovanja etničnosti in manjšin v 21. stoletju : (sklepno predavanje na konferenci ob 80-letnici Inštituta za narodnostna vprašanja)</OpNaslov>
+        <OpVzpNaslov>Perspectives on the Research of Ethnicity and Minorities in the 21st Century</OpVzpNaslov>
+        <PvStran>328-347</PvStran>
+        <OpCobId>10682957</OpCobId>
+    </publikacija>
+    <publikacija did="2864">
+        <!-- Dvojnik publikacije 2887 (isto vsi citati) -->
+        <OpAvtor0>Komac Miran</OpAvtor0>
+        <OpAvtor1>Medvešek Mojca</OpAvtor1>
+        <OpNaslov>Kakšna naj bi bila integracijska politika? : o rezultatih projekta Percepcije slovenske integracijske politike</OpNaslov>
+        <OpVzpNaslov>WHAT SHOULD INTEGRATION POLICY BE LIKE? RESULTS OF THE PROJECT PERCEPTIONS OF SLOVENE INTEGRATION POLICY</OpVzpNaslov>
+        <PvStran>6-47</PvStran>
+        <OpCobId>9666893</OpCobId>
+    </publikacija>
+    <publikacija did="1909">
+        <!-- Dvojnik publikacije 2085 -->
+        <OpAvtor0>Rebeschini Monica</OpAvtor0>
+        <OpNaslov>La guerra del binario. Il partito comunista sloveno (jugoslavo) e la programmazione della rete ferroviaria negli anni ciquanta e sessanta</OpNaslov>
+        <PvStran>359-368</PvStran>
+        <OpCobId>1570003</OpCobId>
+        <citati count="1">
+            <citat did="1909" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1908">
+        <!-- Dvojnik publikacije 2084 -->
+        <OpAvtor0>Bajc Gorazd</OpAvtor0>
+        <OpNaslov>Anglo-Američani in sabotaže slovenskih partizanov na južni železnici</OpNaslov>
+        <PvStran>343-357</PvStran>
+        <OpCobId>1501395</OpCobId>
+        <citati count="1">
+            <citat did="1908" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1907">
+        <!-- Dvojnik publikacije 2083 -->
+        <OpAvtor0>Guštin Damijan</OpAvtor0>
+        <OpNaslov>Južna železnica kot cilj vojaških operacij slovenskega odporniškega gibanja (1941-1945)</OpNaslov>
+        <PvStran>325-342</PvStran>
+        <OpCobId>2561652</OpCobId>
+        <citati count="1">
+            <citat did="1907" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1906">
+        <!-- Dvojnik publikacije 2082 -->
+        <OpAvtor0>Rutar Sabine</OpAvtor0>
+        <OpNaslov>Vloga železnice pri gospodarskem izkoriščanju Slovenije med drugo svetovno vojno</OpNaslov>
+        <OpPodnaslov>prispevek k odprtim raziskovalnim vprašanjem</OpPodnaslov>
+        <PvStran>315-324</PvStran>
+        <OpCobId>1618899</OpCobId>
+        <citati count="2">
+            <citat did="1906" cid="1"/>
+            <citat did="1906" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1964">
+        <!-- Dvojnik publikacije 1977 -->
+        <OpAvtor0>Železnik Urška</OpAvtor0>
+        <OpNaslov>Zdravje in bolezen v de Albertisovi knjigi o kugi</OpNaslov>
+        <PvStran>29-46</PvStran>
+        <OpCobId>1248723</OpCobId>
+        <citati count="1">
+            <citat did="1964" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2520">
+        <!-- Dvojnik publikacije 3179 -->
+        <OpAvtor0>Uršič Ivanka</OpAvtor0>
+        <OpNaslov>Arhivska zapuščina profesorja Huberta Berganta</OpNaslov>
+        <PvStran>379-386</PvStran>
+        <OpCobId>1165429</OpCobId>
+        <citati count="6">
+            <citat did="2520" cid="1"/>
+            <citat did="2520" cid="2"/>
+            <citat did="2520" cid="3"/>
+            <citat did="2520" cid="4"/>
+            <citat did="2520" cid="5"/>
+            <citat did="2520" cid="6"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2519">
+        <!-- Dvojnik publikacije 3163 -->
+        <OpAvtor0>Šimac Miha</OpAvtor0>
+        <OpNaslov>Zapiski vojaka Albina Peterlina (1895-1916): iz župnijske kronike župnije Homec</OpNaslov>
+        <PvStran>355-378</PvStran>
+        <OpCobId>1165173</OpCobId>
+        <citati count="4">
+            <citat did="2519" cid="1"/>
+            <citat did="2519" cid="2"/>
+            <citat did="2519" cid="3"/>
+            <citat did="2519" cid="4"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2518">
+        <!-- Dvojnik publikacije 3162 -->
+        <OpAvtor0>Zajc Cizelj Ivanka</OpAvtor0>
+        <OpNaslov>Celjski Sokol in nemški nacionalizem, Celje</OpNaslov>
+        <PvStran>339-354</PvStran>
+        <OpCobId>1164917</OpCobId>
+        <citati count="1">
+            <citat did="2518" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2517">
+        <!-- Dvojnik publikacije 3159 -->
+        <OpAvtor0>Golec Boris</OpAvtor0>
+        <OpNaslov>Zemljiški katastri 18. in 19. stoletja kot vir za stavbno, gradbeno in urbanistično zgodovino slovenskega ozemlja. Del 1</OpNaslov>
+        <PvStran>283-338</PvStran>
+        <OpCobId>1164661</OpCobId>
+        <citati count="45">
+            <citat did="2517" cid="1"/>
+            <citat did="2517" cid="2"/>
+            <citat did="2517" cid="3"/>
+            <citat did="2517" cid="4"/>
+            <citat did="2517" cid="5"/>
+            <citat did="2517" cid="6"/>
+            <citat did="2517" cid="7"/>
+            <citat did="2517" cid="8"/>
+            <citat did="2517" cid="9"/>
+            <citat did="2517" cid="10"/>
+            <citat did="2517" cid="11"/>
+            <citat did="2517" cid="12"/>
+            <citat did="2517" cid="13"/>
+            <citat did="2517" cid="14"/>
+            <citat did="2517" cid="15"/>
+            <citat did="2517" cid="16"/>
+            <citat did="2517" cid="17"/>
+            <citat did="2517" cid="18"/>
+            <citat did="2517" cid="19"/>
+            <citat did="2517" cid="20"/>
+            <citat did="2517" cid="21"/>
+            <citat did="2517" cid="22"/>
+            <citat did="2517" cid="23"/>
+            <citat did="2517" cid="24"/>
+            <citat did="2517" cid="25"/>
+            <citat did="2517" cid="26"/>
+            <citat did="2517" cid="27"/>
+            <citat did="2517" cid="28"/>
+            <citat did="2517" cid="29"/>
+            <citat did="2517" cid="30"/>
+            <citat did="2517" cid="31"/>
+            <citat did="2517" cid="32"/>
+            <citat did="2517" cid="33"/>
+            <citat did="2517" cid="34"/>
+            <citat did="2517" cid="35"/>
+            <citat did="2517" cid="36"/>
+            <citat did="2517" cid="37"/>
+            <citat did="2517" cid="38"/>
+            <citat did="2517" cid="39"/>
+            <citat did="2517" cid="40"/>
+            <citat did="2517" cid="41"/>
+            <citat did="2517" cid="42"/>
+            <citat did="2517" cid="43"/>
+            <citat did="2517" cid="44"/>
+            <citat did="2517" cid="45"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2514">
+        <!-- Dvojnik publikacije 3147 -->
+        <OpAvtor0>Nared Andrej</OpAvtor0>
+        <OpNaslov>Najstarejše instrukcije za kranjske deželnozborske komisarje</OpNaslov>
+        <PvStran>266-267</PvStran>
+        <OpCobId>1164149</OpCobId>
+        <citati count="32">
+            <citat did="2514" cid="1"/>
+            <citat did="2514" cid="2"/>
+            <citat did="2514" cid="3"/>
+            <citat did="2514" cid="4"/>
+            <citat did="2514" cid="5"/>
+            <citat did="2514" cid="6"/>
+            <citat did="2514" cid="7"/>
+            <citat did="2514" cid="8"/>
+            <citat did="2514" cid="9"/>
+            <citat did="2514" cid="10"/>
+            <citat did="2514" cid="11"/>
+            <citat did="2514" cid="12"/>
+            <citat did="2514" cid="13"/>
+            <citat did="2514" cid="14"/>
+            <citat did="2514" cid="15"/>
+            <citat did="2514" cid="16"/>
+            <citat did="2514" cid="17"/>
+            <citat did="2514" cid="18"/>
+            <citat did="2514" cid="19"/>
+            <citat did="2514" cid="20"/>
+            <citat did="2514" cid="21"/>
+            <citat did="2514" cid="22"/>
+            <citat did="2514" cid="23"/>
+            <citat did="2514" cid="24"/>
+            <citat did="2514" cid="25"/>
+            <citat did="2514" cid="26"/>
+            <citat did="2514" cid="27"/>
+            <citat did="2514" cid="28"/>
+            <citat did="2514" cid="29"/>
+            <citat did="2514" cid="30"/>
+            <citat did="2514" cid="31"/>
+            <citat did="2514" cid="32"/>
+        </citati>
+    </publikacija>
+    <publikacija did="3146">
+        <!-- Dvojnik publikacije 2513 -->
+        <OpAvtor0>Škofljanec Jože</OpAvtor0>
+        <OpNaslov>Prevzem in uporaba arhivskega gradiva v elektronski obliki v skladu s standardom OAIS</OpNaslov>
+        <PvStran>223-232</PvStran>
+        <OpCobId>1163381</OpCobId>
+        <citati count="0"/>
+    </publikacija>
+    <publikacija did="3145">
+        <!-- Dvojnik publikacije 2512 -->
+        <OpAvtor0>Dornik Šubelj  Ljuba</OpAvtor0>
+        <OpNaslov>Dokumenti obveščevalnih služb - vir zgodovinskega znanja</OpNaslov>
+        <PvStran>215-221</PvStran>
+        <OpCobId>1163125</OpCobId>
+        <citati count="5">
+            <citat did="3145" cid="1"/>
+            <citat did="3145" cid="2"/>
+            <citat did="3145" cid="3"/>
+            <citat did="3145" cid="4"/>
+            <citat did="3145" cid="5"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2511">
+        <!-- Dvojnik publikacije 3140 -->
+        <OpAvtor0>Juričić Čargo Danijela</OpAvtor0>
+        <OpNaslov>Urejanje občinskih zadev na območju tržaškega gubernija pred letom 1849</OpNaslov>
+        <PvStran>181-214</PvStran>
+        <OpCobId>1162869</OpCobId>
+        <citati count="14">
+            <citat did="2511" cid="1"/>
+            <citat did="2511" cid="2"/>
+            <citat did="2511" cid="3"/>
+            <citat did="2511" cid="4"/>
+            <citat did="2511" cid="5"/>
+            <citat did="2511" cid="6"/>
+            <citat did="2511" cid="7"/>
+            <citat did="2511" cid="8"/>
+            <citat did="2511" cid="9"/>
+            <citat did="2511" cid="10"/>
+            <citat did="2511" cid="11"/>
+            <citat did="2511" cid="12"/>
+            <citat did="2511" cid="13"/>
+            <citat did="2511" cid="14"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2642">
+        <!-- Dvojnik publikacije 3453 -->
+        <OpAvtor0>Tominšek Čehulić Tadeja</OpAvtor0>
+        <OpNaslov>Druga svetovna vojna in njene posledice za Belokranjce (1941-1945)</OpNaslov>
+        <PvStran>859-874</PvStran>
+        <OpCobId>2814580</OpCobId>
+        <citati count="2">
+            <citat did="2642" cid="1"/>
+            <citat did="2642" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="3160">
+        <!-- Dvojnik publikacije 2806 -->
+        <OpAvtor0>Čepič Zdenko</OpAvtor0>
+        <OpNaslov>Načela in počela socialistične demokracije</OpNaslov>
+        <PvStran>271-296</PvStran>
+        <OpCobId>2889076</OpCobId>
+        <citati count="16">
+            <citat did="3160" cid="1"/>
+            <citat did="3160" cid="2"/>
+            <citat did="3160" cid="3"/>
+            <citat did="3160" cid="4"/>
+            <citat did="3160" cid="5"/>
+            <citat did="3160" cid="6"/>
+            <citat did="3160" cid="7"/>
+            <citat did="3160" cid="8"/>
+            <citat did="3160" cid="9"/>
+            <citat did="3160" cid="10"/>
+            <citat did="3160" cid="11"/>
+            <citat did="3160" cid="12"/>
+            <citat did="3160" cid="13"/>
+            <citat did="3160" cid="14"/>
+            <citat did="3160" cid="15"/>
+            <citat did="3160" cid="16"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1739">
+        <!-- Dvojnik publikacije 3034 -->
+        <OpAvtor0>Kristen Samo</OpAvtor0>
+        <OpNaslov>Volá Londýn: Slovenija in Slovenci v londonskih govorih Jana Masaryka</OpNaslov>
+        <PvStran>208-221</PvStran>
+        <OpCobId>8920141</OpCobId>
+        <citati count="1">
+            <citat did="1739" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2003">
+        <!-- Dvojnik publikacije 2027 -->
+        <OpAvtor0>Žuraj Marko</OpAvtor0>
+        <OpNaslov>Views of Liberal Camp in Styria regarding the division of Slovenia into two authorities in years 1921 - 1922</OpNaslov>
+        <PvStran>171-200</PvStran>
+        <OpCobId>940421</OpCobId>
+        <citati count="2">
+            <citat did="2003" cid="1"/>
+            <citat did="2003" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1384">
+        <!-- Dvojnik publikacije 1611 -->
+        <OpAvtor0>Gašparič jure</OpAvtor0>
+        <OpNaslov>Habsburg ali Hitler</OpNaslov>
+        <OpPodnaslov>Soočenje Kraljevine Jugoslavije in Češkoslovaške republike z možnostjo restavracije Habsburžanov na Dunaju</OpPodnaslov>
+        <PvStran>106</PvStran>
+        <OpCobId>2356596</OpCobId>
+        <citati count="3">
+            <citat did="1384" cid="1"/>
+            <citat did="1384" cid="2"/>
+            <citat did="1384" cid="3"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1383">
+        <!-- Dvojnik publikacije 1610 -->
+        <OpAvtor0>Slabe Janja</OpAvtor0>
+        <OpNaslov>Proč s šmarnico</OpNaslov>
+        <PvStran>89</PvStran>
+        <OpCobId>2356084</OpCobId>
+        <citati count="2">
+            <citat did="1383" cid="1"/>
+            <citat did="1383" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1382">
+        <!-- Dvojnik publikacije 1609 -->
+        <OpAvtor0>Černigoj Meta</OpAvtor0>
+        <OpNaslov>Boj za dvojezične napise v istri v letu 1894</OpNaslov>
+        <PvStran>57</PvStran>
+        <OpCobId>236945920</OpCobId>
+        <citati count="1">
+            <citat did="1382" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1381">
+        <!-- Dvojnik publikacije 1608 -->
+        <OpAvtor0>Čuček Filip</OpAvtor0>
+        <OpNaslov>Vpisal se je med Nemce, dasiravno komaj za silo nemško tolče</OpNaslov>
+        <OpPodnaslov>Občevalni jezik kot element manipulacije v popisih prebivalstva 1880-1910 na Spodnjem Štajerskem</OpPodnaslov>
+        <PvStran>57</PvStran>
+        <OpCobId>236945408</OpCobId>
+        <citati count="2">
+            <citat did="1381" cid="1"/>
+            <citat did="1381" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1380">
+        <!-- Dvojnik publikacije 1604 -->
+        <OpAvtor0>Polajnar Janez</OpAvtor0>
+        <OpNaslov>Sramežljivost kot branik pred "nečistim" v družbi 19. stoletja</OpNaslov>
+        <OpPodnaslov>"Dolgo časa naj bi menda prenašali viktorijanski način življenja in še danes ga prenašamo. kot da je v grbu naše seksualnosti sramežljiva kraljica , zadržana, nema, licemerska."</OpPodnaslov>
+        <PvStran>5-23</PvStran>
+        <OpCobId>236930048</OpCobId>
+        <citati count="1">
+            <citat did="1380" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1678">
+        <!-- Dvojnik publikacije 2202 -->
+        <OpAvtor0>Stiplovšek Miroslav</OpAvtor0>
+        <OpNaslov>Prizadevanja ljubljanske in mariborske oblastne skupščine ter banskega sveta Dravske banovine za udejanjenje slovenskega parlamentarizma v prvi Jugoslaviji</OpNaslov>
+        <PvStran>151-176</PvStran>
+        <OpCobId>6283806</OpCobId>
+        <citati count="3">
+            <citat did="1678" cid="1"/>
+            <citat did="1678" cid="2"/>
+            <citat did="1678" cid="3"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1677">
+        <!-- dvojnik publikacije 2201 -->
+        <OpAvtor0>Lukan Walter</OpAvtor0>
+        <OpNaslov>Habsburška monarhija in Slovenci v prvi svetovni vojni</OpNaslov>
+        <PvStran>91-149</PvStran>
+        <OpCobId>37155170</OpCobId>
+        <citati count="2">
+            <citat did="1677" cid="1"/>
+            <citat did="1677" cid="2"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2105">
+        <!-- dvojnik publikacije 2159 -->
+        <OpAvtor0>Lazarević Žarko</OpAvtor0>
+        <OpNaslov>Sočasnost slovenskega gospodarskega razvoja</OpNaslov>
+        <PvStran>393-410</PvStran>
+        <OpCobId>2394996</OpCobId>
+        <citati count="3">
+            <citat did="2105" cid="1"/>
+            <citat did="2105" cid="2"/>
+            <citat did="2105" cid="3"/>
+        </citati>
+    </publikacija>
+    <publikacija did="3284">
+        <!-- duplikat publikacije 3340 -->
+        <OpAvtor0>Verbič Maruša</OpAvtor0>
+        <OpNaslov>Pregled zgodovine Zapadne slovanske zveze (Western Slavonic Association) v letih 1908-1950</OpNaslov>
+        <PvStran>129-159</PvStran>
+        <OpCobId>68342529</OpCobId>
+        <citati count="1">
+            <citat did="3284" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="2019">
+        <!-- duplikat publikacije 2074 -->
+        <OpAvtor0>Gašparič Jure</OpAvtor0>
+        <OpNaslov>Menjava političnih elit na Slovenskem po drugi svetovni vojni</OpNaslov>
+        <PvStran>114-127</PvStran>
+        <OpCobId>62758657</OpCobId>
+        <citati count="1">
+            <citat did="2019" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="639" zalozba="Mladinska knjiga">
+        <!-- dvojnik publikacije 860 -->
+        <OpNaslov>Razdvojeni narod : Slovenija 1941-1945</OpNaslov>
+        <OpNaslov>Razdvojeni narod : Slovenija 1941-1945 : okupacija, kolaboracija, državljanska vojna, revolucija</OpNaslov>
+        <OpAvtor0>Griesser Pečar Tamara</OpAvtor0>
+        <OpAvtor0>Griesser-Pečar Tamara</OpAvtor0>
+        <PvISSN>86-11-16799-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>860</BazaINZ>
+        <BazaINZ>639</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="639"/>
+    </publikacija>
+    <publikacija did="1781">
+        <!-- dvojnik publikacije 1814 -->
+        <OpAvtor0>Deželak-Barič Vida</OpAvtor0>
+        <OpNaslov>Slovensko odporništvo med drugo svetovno vojno v evropskih primerjavah</OpNaslov>
+        <PvStran>383-</PvStran>
+        <citati count="1">
+            <citat did="1781" cid="1"/>
+        </citati>
+    </publikacija>
+    <publikacija did="1362">
+        <!-- dvojnik publikacije 1364 -->
+        <OpAvtor0>Balkovec Bojan</OpAvtor0>
+        <OpNaslov>Naše prve</OpNaslov>
+        <PvStran>267-276</PvStran>
+        <OpCobId>30269794</OpCobId>
+        <citati count="0"/>
+    </publikacija>
+    <publikacija did="1370">
+        <!-- dvojnik publikacije 1371 -->
+        <OpAvtor0>Melik Vasilij</OpAvtor0>
+        <OpNaslov>Nekaj iz slovenske volilne preteklosti</OpNaslov>
+        <PvStran>321-323</PvStran>
+        <OpCobId>24519725</OpCobId>
+        <citati count="0"/>
+    </publikacija>
+    <publikacija did="2952">
+        <!-- dvojnik publikacije 2953 -->
+        <OpAvtor0>Lorenčič Aleksander</OpAvtor0>
+        <OpNaslov>Agonija usnjarsko predelovalne industrije med tranzicijo (1990-2004)</OpNaslov>
+        <PvStran>73-89</PvStran>
+        <OpCobId>2904180</OpCobId>
+        <citati count="0"/>
+    </publikacija>
+    
+</root>

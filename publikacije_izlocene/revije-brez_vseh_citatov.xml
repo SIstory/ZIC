@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <!-- Sem pregledal natančno, da so to članki v revijah, ki nimajo prepisanih vseh citatov
+         (v glavnem samo zaposlene na INZ, Darko Darovec, Kambič) -->
+    <publikacija did="1696">
+        <PvNaslov>#The #South Slav journal</PvNaslov>
+        <PvISSN>0305-9022</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1696</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="1696">
+            <PvStID leto="2008" st="1/2">1696</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1737">
+        <PvNaslov>2000</PvNaslov>
+        <PvISSN>0350-8935</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1737</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="1988" did="1737">
+            <PvStID leto="1988" st="44/45">1737</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="565">
+        <PvNaslov>Ampak</PvNaslov>
+        <PvISSN>1580-304X</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>565</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2002" did="565">
+            <PvStID leto="2002" st="6/7">565</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="464">
+        <PvNaslov>Bogoslovni vestnik</PvNaslov>
+        <PvISSN>0006-5722</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>464</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2003" did="464">
+            <PvStID leto="2003" st="2">464</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1750 1749">
+        <PvNaslov>Borec</PvNaslov>
+        <PvISSN>0006-7725</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1750</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="1750 1749">
+            <PvStID leto="2008" st="648/651">1750 1749</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="534">
+        <PvNaslov>Delo</PvNaslov>
+        <PvISSN>0350-7521</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1466</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="1996" did="534">
+            <PvStID leto="1996" st="90">534</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1962">
+        <PvNaslov>Ethnologia Balkanica : journal for Southeast European anthropology : Zeitschrift für die Anthropologie Südosteuropas : journal d'anthropologie du sudest européen</PvNaslov>
+        <PvISSN>Y504-3387</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1962</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2005" did="1962">
+            <PvStID leto="2005" st="9">1962</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="625">
+        <PvNaslov>Glasnik Slovenskega etnološkega društva</PvNaslov>
+        <PvISSN>0351-2908.</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>625</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2001" did="625">
+            <PvStID leto="2001" st="3-4">625</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="539">
+        <PvNaslov>Gorenjski glas</PvNaslov>
+        <PvISSN>0352-6666</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>539</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2003" did="539">
+            <PvStID leto="2003" st="52">539</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1960">
+        <PvNaslov>Histoire des Alpes: Storia delle Alpi: Geschichte der Alpen</PvNaslov>
+        <PvISSN>1660-8070</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1960</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2005" did="1960">
+            <PvStID leto="2005" st="10">1960</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2106">
+        <PvNaslov>Istoričeskij vestnik Universitetov Ljubljany i Permi</PvNaslov>
+        <PvISSN>1855-5764</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2106</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="2106">
+            <PvStID leto="2008" st="2">2106</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2413">
+        <PvNaslov>Italia contemporanea</PvNaslov>
+        <PvISSN>0392-3568</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2413</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2009" did="2413">
+            <PvStID leto="2009" st="255">2413</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1779">
+        <PvNaslov>Klió</PvNaslov>
+        <PvISSN>1216-2965</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1779</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="1995" did="1779">
+            <PvStID leto="1995" st="2">1779</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2552">
+        <PvNaslov>Megatrend review</PvNaslov>
+        <PvISSN>1820-4570</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2552</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="2552">
+            <PvStID leto="2008" st="2">2552</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2359">
+        <PvNaslov>Lex localis : revija za lokalno samoupravo</PvNaslov>
+        <PvISSN>1581-5374</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2359</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2009" did="2359">
+            <PvStID leto="2009" st="4">2359</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1355">
+        <PvNaslov>Memoria e Ricerca</PvNaslov>
+        <PvISSN>1127-0195</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1355</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="1355">
+            <PvStID leto="2004" st="15">1355</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1658">
+        <PvNaslov>Nova revija</PvNaslov>
+        <PvISSN>0351-9805</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1658</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2007" did="1658">
+            <PvStID leto="2007" st="307/308">1658</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1765">
+        <PvNaslov>Storia contemporanea in Friuli</PvNaslov>
+        <PvISSN>1127-0977</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1765</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2003" did="1765">
+            <PvStID leto="2003" st="34">1765</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1975 1841">
+        <PvNaslov>Quaderni Giuliani di storia</PvNaslov>
+        <PvNaslov>Quaderni giuliani di storia</PvNaslov>
+        <PvISSN>1124-0970</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1975</BazaINZ>
+        <BazaINZ>1841</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="1975">
+            <PvStID leto="2006" st="2">1975</PvStID>
+        </PvLeto>
+        <PvLeto leto="1997" did="1841">
+            <PvStID leto="1997" st="2">1841</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1839 621">
+        <PvNaslov>Slovene studies</PvNaslov>
+        <PvISSN>0193-1075</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1839</BazaINZ>
+        <BazaINZ>621</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="1839">
+            <PvStID leto="2008" st="2">1839</PvStID>
+        </PvLeto>
+        <PvLeto leto="2003" did="621">
+            <PvStID leto="2003" st="1-2">621</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1968">
+        <PvNaslov>Slovenian law review</PvNaslov>
+        <PvISSN>1581-9531</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1968</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2005" did="1968">
+            <PvStID leto="2005" st="1/2">1968</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2541">
+        <PvNaslov>Tretji dan</PvNaslov>
+        <PvISSN>1318-1238</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2541</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2010" did="2541">
+            <PvStID leto="2010" st="9/10">2541</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1736 1704">
+        <PvNaslov>Österreichische Osthefte</PvNaslov>
+        <PvISSN>0029-9375</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1736</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2002" did="1736">
+            <PvStID leto="2002" st="1/2">1736</PvStID>
+        </PvLeto>
+        <PvLeto leto="1997" did="1704">
+            <PvStID leto="1997" st="1">1704</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="536">
+        <PvNaslov>Šolska kronika</PvNaslov>
+        <PvISSN>1318-6728</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>536</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="536">
+            <PvStID leto="2004" st="2">536</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1338">
+        <PvNaslov>Zaveza</PvNaslov>
+        <PvISSN>1580-2132</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>1338</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="1338">
+            <PvStID leto="2004" st="54">1338</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2369">
+        <PvNaslov>Zbornik znanstvenih razprav</PvNaslov>
+        <PvISSN>1854-3839</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2369</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2001" did="2369"/>
+    </publikacija>
+    <publikacija did="3376 3375 1963 1764 1353 1348">
+        <PvNaslov>Qualestoria</PvNaslov>
+        <PvNaslov>Qualestoria : bollettino dell'istituto regionale per la storia del movimento di liberazione nel Friuli-Venezia Giulia</PvNaslov>
+        <PvISSN>0393-6082</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>3376</BazaINZ>
+        <BazaINZ>1764</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2012" did="3376 3375">
+            <PvStID leto="2012" st="1">3376 3375</PvStID>
+        </PvLeto>
+        <PvLeto leto="2007" did="1963">
+            <PvStID leto="2007" st="1">1963</PvStID>
+        </PvLeto>
+        <PvLeto leto="2003" did="1764">
+            <PvStID leto="2003" st="2">1764</PvStID>
+        </PvLeto>
+        <PvLeto leto="1999" did="1353">
+            <PvStID leto="1999" st="1">1353</PvStID>
+        </PvLeto>
+        <PvLeto leto="1997" did="1348">
+            <PvStID leto="1997" st="3">1348</PvStID>
+        </PvLeto>
+    </publikacija>
+</root>

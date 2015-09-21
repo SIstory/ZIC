@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- so spodnje publikacije dvakrat preverjene (zato jih brez problema izločim iz nadaljnega procesiranja) -->
+<!-- Vse publikacije imajo element BazaINZ. Citirano samo zaposleni na INZ ali samo Kambič ali samo Darovec.. -->
+<!-- Kopija arhivskega dokumenta ../../ZIC(arhiv)/publikacije/monografije-brez_vseh_citatov.xml -->
+<root>
+    <publikacija did="518">
+        <OpNaslov>"Nemci" v Sloveniji 1938-1948</OpNaslov>
+        <OpAvtor0>Nećak Dušan</OpAvtor0>
+        <PvISSN>961-237-099-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>518</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="518"/>
+    </publikacija>
+    <publikacija did="612">
+        <OpNaslov>50 leta : [katalog]</OpNaslov>
+        <OpAvtor0>Urbanc  Nataša</OpAvtor0>
+        <OpAvtor1>Šparovec Jožefa</OpAvtor1>
+        <PvISSN>961-90232-7-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>612</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="612"/>
+    </publikacija>
+    <publikacija did="538">
+        <OpNaslov>Adel und BÃ¼rgertum in der Habsburgermonarchie 18. bis 20. Jahrhundert</OpNaslov>
+        <OpAvtor0>Stekl Hannes</OpAvtor0>
+        <PvISSN>3-7028-0412-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>538</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="538"/>
+    </publikacija>
+    <publikacija did="554">
+        <OpNaslov>Aleš Stanovnik in njegov čas</OpNaslov>
+        <OpAvtor0>Stanovnik Janez</OpAvtor0>
+        <PvISSN>961-91141-0-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>554</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="554"/>
+    </publikacija>
+    <publikacija did="646">
+        <OpNaslov>Američki komunistički saveznik : Hrvati, Titova Jugoslavija i Sjedinjene američke države : 1945-1955</OpNaslov>
+        <OpAvtor0>Jakovina Tvrtko</OpAvtor0>
+        <PvISSN>953-200-647-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>646</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="646"/>
+    </publikacija>
+    <publikacija did="649">
+        <OpNaslov>Ave Wilson : ZDA in prekrajanje Slovenije v Versaillesu 1919-1920</OpNaslov>
+        <OpAvtor0>Lipušček Uroš</OpAvtor0>
+        <PvISSN>961-6294-46-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>649</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="649"/>
+    </publikacija>
+    <publikacija did="2516">
+        <OpNaslov>Bančništvo kot hrbtenica samostojne Slovenije</OpNaslov>
+        <OpAvtor0>Štiblar Franjo</OpAvtor0>
+        <PvISSN>978-961-254-227-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2516</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2010" did="2516"/>
+    </publikacija>
+    <publikacija did="1404">
+        <OpNaslov>Biotehniška fakulteta skozi čas in prostor</OpNaslov>
+        <OpAvtor0>Ciperle Jože</OpAvtor0>
+        <OpAvtor1>Dekleva Tatjana</OpAvtor1>
+        <PvISSN>978-961-6410-16-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1404</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1404"/>
+    </publikacija>
+    <publikacija did="2615">
+        <OpNaslov>Bleiburg i križni put 1945</OpNaslov>
+        <OpAvtor0>Grahek Ravančić Martina</OpAvtor0>
+        <PvISSN>978-953-6324-79-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2615</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2009" did="2615"/>
+    </publikacija>
+    <publikacija did="1971">
+        <OpNaslov>Buzetski govori</OpNaslov>
+        <OpAvtor0>Vivoda Nataša</OpAvtor0>
+        <PvISSN>961-6033-65-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1971</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1971"/>
+    </publikacija>
+    <publikacija did="1385">
+        <OpNaslov>Cerkev in oblast na Primorskem v letih 1945-1953</OpNaslov>
+        <OpAvtor0>Čipić Rehar Marija</OpAvtor0>
+        <!-- 16 citatov različnih avtorjev iz INZ -->
+        <PvISSN>978-961-222-688-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1385</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1385"/>
+    </publikacija>
+    <publikacija did="3206">
+        <OpNaslov>Confini e missioni</OpNaslov>
+        <OpAvtor0>Kristen Samo</OpAvtor0>
+        <PvISSN>978-88-7342-169-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3206</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2012" did="3206"/>
+    </publikacija>
+    <publikacija did="638">
+        <OpNaslov>Das zerrissene Volk Slowenien 1941-1946 : Okkupation, Kollaboration, BÃ¼rgerkrieg, Revolution</OpNaslov>
+        <OpAvtor0>Griesser-Pečar Tamara</OpAvtor0>
+        <PvISSN>3-205-77062-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>638</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="638"/>
+    </publikacija>
+    <publikacija did="597">
+        <OpNaslov>Demokracija v klasični slovenski politični misli</OpNaslov>
+        <OpAvtor0>Zver Milan</OpAvtor0>
+        <PvISSN>961-6372-20-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>597</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="597"/>
+    </publikacija>
+    <publikacija did="1326">
+        <OpNaslov>Deutsche Geschichte im Osten Europas : zwischen Adria und Karawanken</OpNaslov>
+        <OpAvtor0>Suppan Arnold</OpAvtor0>
+        <PvISSN>3-88680-218-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1326</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1998" did="1326"/>
+    </publikacija>
+    <publikacija did="3187">
+        <OpNaslov>Die humanistische Rezeption des Römischen Rechts am Beispiel "Deren von Laibach Malefitz Freyhayttn"</OpNaslov>
+        <OpAvtor0>Holcman Borut</OpAvtor0>
+        <PvISSN>978-961-254-354-9 (ZRC SAZU)</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3187</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2011" did="3187"/>
+    </publikacija>
+    <publikacija did="2643">
+        <OpNaslov>Dnevniški zapisi</OpNaslov>
+        <OpAvtor0>Klinec Rudolf</OpAvtor0>
+        <PvISSN>978-88-96632-05-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2643</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2010" did="2643"/>
+    </publikacija>
+    <publikacija did="1956">
+        <OpNaslov>Do koder seže spomin</OpNaslov>
+        <OpAvtor0>Rožac Darovec Vida</OpAvtor0>
+        <PvISSN>961-6033-57-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1956</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1956"/>
+    </publikacija>
+    <publikacija did="590">
+        <OpNaslov>Do pekla in nazaj : nacistična okupacija in narodnoosvobodilni boj v Mariboru 1941-1945</OpNaslov>
+        <OpAvtor0>Žnidarič Marjan</OpAvtor0>
+        <PvISSN>961-90502-0-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>590</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1997" did="590"/>
+    </publikacija>
+    <publikacija did="556">
+        <OpNaslov>Dr. Ivan Šušteršič, 1863-1925 : pot prvaka slovenskega političnega katolicizma</OpNaslov>
+        <OpAvtor0>Pleterski Janko</OpAvtor0>
+        <PvISSN>961-6182-48-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>556</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1998" did="556"/>
+    </publikacija>
+    <publikacija did="614">
+        <OpNaslov>Ekonomski vidiki delovanja in razpada Jugoslavije</OpNaslov>
+        <OpAvtor0>Borak  Neven</OpAvtor0>
+        <PvISSN>961-6294-41-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>614</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="614"/>
+    </publikacija>
+    <publikacija did="524">
+        <OpNaslov>Evropski izziv</OpNaslov>
+        <OpAvtor0>Holz Eva</OpAvtor0>
+        <PvISSN>0351-9805</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>524</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="524"/>
+    </publikacija>
+    <publikacija did="1331">
+        <OpNaslov>Ezulski skrbniki : vloga in pomen begunskih organizacij ter urejanje vprašanja istrskih beguncev v Italiji v luči begunskega časopisja 1945-1963</OpNaslov>
+        <OpAvtor0>Volk Sandi</OpAvtor0>
+        <PvISSN>961-6033-21-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1331</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1999" did="1331"/>
+    </publikacija>
+    <publikacija did="653">
+        <OpNaslov>Fanfare nasilja</OpNaslov>
+        <OpAvtor0>Simoniti Vasko</OpAvtor0>
+        <PvISSN>961-213-105-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>653</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="653"/>
+    </publikacija>
+    <publikacija did="1465">
+        <OpNaslov>Foibe</OpNaslov>
+        <OpAvtor0>Scalfaro Oscar Luigi</OpAvtor0>
+        <!-- 18 citatov samo sodelovcev INZ -->
+        <PvISSN>978-88-359-6008-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1465</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1465"/>
+    </publikacija>
+    <publikacija did="1354">
+        <OpNaslov>Friuli e Venezia Giulia : storia del '900</OpNaslov>
+        <OpAvtor0>Valdevit Giampaolo</OpAvtor0>
+        <PvISSN>88-86928-15-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1354</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1997" did="1354"/>
+    </publikacija>
+    <publikacija did="1784">
+        <OpNaslov>General Miodrag Damjanović 1893-1956</OpNaslov>
+        <OpAvtor0>Kosta Nikolić</OpAvtor0>
+        <PvISSN>978-0-9558002-0-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1784</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1784"/>
+        <!-- 12 citatov samo slovenskih avtorjev -->
+    </publikacija>
+    <publikacija did="1359 1358">
+        <OpNaslov>Histoire et pouvoir en Europe médiane</OpNaslov>
+        <OpAvtor0>Marés Antoine</OpAvtor0>
+        <PvISSN>2-7384-4587-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1359</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1996" did="1359 1358"/>
+        <!-- 1358 je prazna (dvojnik knjige 1359, v kateri samo Vodopivčev citat) -->
+    </publikacija>
+    <publikacija did="1538">
+        <OpNaslov>Hitler's new disorder</OpNaslov>
+        <OpAvtor0>Pavlović Stevan K.</OpAvtor0>
+        <PvISSN>978-1-85065-895-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1538</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1538"/>
+    </publikacija>
+    <publikacija did="584">
+        <OpNaslov>I percorsi della sopravvivenza : storia e memoria della deportazione dall'"Adriatisches KÃ¼stenland"</OpNaslov>
+        <OpAvtor0>Coslovich  Marco</OpAvtor0>
+        <PvISSN>88-425-1711-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>584</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1994" did="584"/>
+    </publikacija>
+    <publikacija did="3142">
+        <OpNaslov>Idejni spopad 2</OpNaslov>
+        <OpAvtor0>Juhant Janez</OpAvtor0>
+        <PvISSN>978-961-92694-8-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3142</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2010" did="3142"/>
+    </publikacija>
+    <publikacija did="651">
+        <OpNaslov>Il dilemma Trieste : guerra e dopoguerra in uno scenario europeo</OpNaslov>
+        <OpAvtor0>Valdevit Giampaolo</OpAvtor0>
+        <PvISSN>88-86928-06-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>651</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1999" did="651"/>
+    </publikacija>
+    <publikacija did="1396">
+        <OpNaslov>Il vescovo lavantino Ivan Jožef Tomažič</OpNaslov>
+        <OpAvtor0>Montanar Ilaria</OpAvtor0>
+        <PvISSN>978-88-7367-059-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1396</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+    </publikacija>
+    <publikacija did="540">
+        <OpNaslov>Ipavci : zgodovina slovenske meščanske dinastije</OpNaslov>
+        <OpAvtor0>Grdina Igor</OpAvtor0>
+        <PvISSN>961-6358-55-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>540</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="540"/>
+    </publikacija>
+    <publikacija did="462">
+        <OpNaslov>Iskalci grala</OpNaslov>
+        <OpAvtor0>Auersperger Alenka</OpAvtor0>
+        <PvISSN>961-6465-83-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>462</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="462"/>
+    </publikacija>
+    <publikacija did="1332">
+        <OpNaslov>Istra v Trstu : naselitev istrskih in dalmatinskih ezulov in nacionalna bonifikacija na Tržaškem 1945-1966</OpNaslov>
+        <OpAvtor0>Volk Sandi</OpAvtor0>
+        <PvISSN>961-6033-42-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1332</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="1332"/>
+    </publikacija>
+    <publikacija did="632">
+        <OpNaslov>Istrsko vprašanje : iz zgodovine slovensko-hrvaške razmejitve v Istri</OpNaslov>
+        <OpAvtor0>Kristen Samo</OpAvtor0>
+        <PvISSN>961-90649-9-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>632</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="632"/>
+    </publikacija>
+    <publikacija did="492">
+        <OpNaslov>Iz primorske epopeje: Mirko Brovč in narodna vstaja organizacije TIGR v letih 1938-1941</OpNaslov>
+        <OpAvtor0>Rutar Borut</OpAvtor0>
+        <PvISSN>0350-8935</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>492</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="492"/>
+    </publikacija>
+    <publikacija did="480">
+        <OpNaslov>Izgubljeni spomin na Antona Korošca : iz zapuščine Ivana Ahčina</OpNaslov>
+        <OpAvtor0>Ačin Ivan</OpAvtor0>
+        <PvISSN>961-6017-77-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>480</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1999" did="480"/>
+    </publikacija>
+    <publikacija did="648">
+        <OpNaslov>Jaroslav Kikelj : pričevalec vere in veselja</OpNaslov>
+        <OpAvtor0>Škafar Vinko</OpAvtor0>
+        <PvISSN>961-6227-56-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>648</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="648"/>
+    </publikacija>
+    <publikacija did="543">
+        <OpNaslov>Jeseniško okrožje med nacistično okupacijo in narodnoosvobodilnim bojem</OpNaslov>
+        <OpAvtor0>Križnar Ivan</OpAvtor0>
+        <PvISSN>961-6049-25-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>543</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="543"/>
+    </publikacija>
+    <publikacija did="494">
+        <OpNaslov>Jutri je nov dan : Slovenci in razpad Jugoslavije</OpNaslov>
+        <OpAvtor0>Repe Božo</OpAvtor0>
+        <PvISSN>961-6357-76-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>494</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="494"/>
+    </publikacija>
+    <publikacija did="481">
+        <OpNaslov>Kdor ni z nami, je proti nam : slovenski izobraženci med okupatorji, Osvobodilno fronto in protirevolucionarnim taborom</OpNaslov>
+        <OpAvtor0>Godeša Bojan</OpAvtor0>
+        <PvISSN>86-361-0913-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>481</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1995" did="481"/>
+    </publikacija>
+    <publikacija did="581">
+        <OpNaslov>Knjiga gostov Zdravilišča Rogaška Slatina : 1823-1850</OpNaslov>
+        <OpAvtor0>Cvelfar Bojan</OpAvtor0>
+        <PvISSN>961-6448-03-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>581</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="581"/>
+    </publikacija>
+    <publikacija did="2420">
+        <OpNaslov>Koroški partizani</OpNaslov>
+        <OpAvtor0>Linasi Marjan</OpAvtor0>
+        <PvISSN>978-3-7086-0420-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2420</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2010" did="2420"/>
+    </publikacija>
+    <publikacija did="506">
+        <OpNaslov>Ko vihar dirjajo hlaponi" : k socialni in kulturni zgodovini železnice v 19. stoletju</OpNaslov>
+        <OpAvtor0>Studen Andrej</OpAvtor0>
+        <OpAvtor1>Cvirn Janez</OpAvtor1>
+        <PvISSN>0353-4804</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>506</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="506"/>
+    </publikacija>
+    <publikacija did="2637">
+        <OpNaslov>Kraji in ljudje pod Poreznom</OpNaslov>
+        <OpAvtor0>Štucin Ana</OpAvtor0>
+        <PvISSN>978-961-6563-21-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2637</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2011" did="2637"/>
+    </publikacija>
+    <publikacija did="664">
+        <OpNaslov>Kranjska med dvema Ivanoma : idejno-politično soočenje slovenskega političnega katolicizma in liberalizma na prehodu iz 19. v 20. stoletje</OpNaslov>
+        <OpAvtor0>Bergant Zvonko</OpAvtor0>
+        <PvISSN>961-91485-0-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>664</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="664"/>
+    </publikacija>
+    <publikacija did="2364">
+        <OpNaslov>Kranjski deželni privilegiji (ročini) : 1338-1736</OpNaslov>
+        <OpAvtor0>Nared Andrej</OpAvtor0>
+        <PvISSN>978-961-6638-05-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2364</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="2364"/>
+    </publikacija>
+    <publikacija did="550">
+        <OpNaslov>Kratek pregled dosedanjih raziskav zgodovine obravnavanih mest v slovenskem zgodovinopisju</OpNaslov>
+        <OpAvtor0>Cvirn Janez</OpAvtor0>
+        <OpAvtor1>Friš Darko</OpAvtor1>
+        <PvISSN>86-80693-35-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>550</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1997" did="550"/>
+    </publikacija>
+    <publikacija did="657">
+        <OpNaslov>Krisenherd Adria : 1915-1955</OpNaslov>
+        <OpAvtor0>Wörsdörfer Rolf</OpAvtor0>
+        <PvISSN>3-506-70144-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>657</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="657"/>
+    </publikacija>
+    <publikacija did="631">
+        <OpNaslov>Kultur - Nation - Milieu : Sozialdemokratie in Triest vor dem Ersten Weltkrieg</OpNaslov>
+        <OpAvtor0>Rutar Sabine</OpAvtor0>
+        <PvISSN>3-89861-116-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>631</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="631"/>
+    </publikacija>
+    <publikacija did="1534">
+        <OpNaslov>Kulturni boj</OpNaslov>
+        <OpAvtor0>Dolenc Ervin</OpAvtor0>
+        <PvISSN>86-361-0984-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1534</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1996" did="1534"/>
+    </publikacija>
+    <publikacija did="582">
+        <OpNaslov>La diocesi di Gorizia : 1750-1947</OpNaslov>
+        <OpAvtor0>Tavano Luigi</OpAvtor0>
+        <PvISSN>88-8345-169-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>582</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="582"/>
+    </publikacija>
+    <publikacija did="2368">
+        <OpNaslov>Lokalna samouprava na Slovenskem : teritorialno-organizacijske strukture</OpNaslov>
+        <OpAvtor0>Grafenauer Božo</OpAvtor0>
+        <PvISSN>961-6009-90-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2368</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="2368"/>
+    </publikacija>
+    <publikacija did="617">
+        <OpNaslov>Makedonija 1945-1991 : državnost i nezavisnost</OpNaslov>
+        <OpAvtor0>Veljanovski Novica</OpAvtor0>
+        <PvISSN>9989-624-69-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>617</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="617"/>
+    </publikacija>
+    <publikacija did="1869">
+        <OpNaslov>Mala zgodovina Slovenije</OpNaslov>
+        <OpAvtor0>Granda Stane</OpAvtor0>
+        <PvISSN>978-961-218-777-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1869</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1869"/>
+        <!-- 10 citatov samo sodelovcev INZ -->
+    </publikacija>
+    <publikacija did="563">
+        <OpNaslov>Mariborska dvorišča : etnološki oris</OpNaslov>
+        <OpAvtor0>Ferlež Jerneja</OpAvtor0>
+        <PvISSN>961-6154-04-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>563</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="563"/>
+    </publikacija>
+    <publikacija did="465">
+        <OpNaslov>Nacionalno vprašanje v Jugoslaviji v prvem povojnem obdobju : Jugoslavija v hladni vojni</OpNaslov>
+        <OpAvtor0>Gabrič Aleš</OpAvtor0>
+        <PvISSN>ISBN 961-6386-03-4.</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>465</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="465"/>
+    </publikacija>
+    <publikacija did="2537">
+        <OpNaslov>Na krilih junaštva in tovarištva</OpNaslov>
+        <OpAvtor0>Žnidarič Marjan</OpAvtor0>
+        <PvISSN>978-961-6049-42-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2537</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2009" did="2537"/>
+    </publikacija>
+    <publikacija did="587">
+        <OpNaslov>Na rovašu življenja : povestnica o podmelški fari</OpNaslov>
+        <OpAvtor0>Slabe Marijan</OpAvtor0>
+        <PvISSN>961-238-359-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>587</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="587"/>
+    </publikacija>
+    <publikacija did="3203">
+        <OpNaslov>Nacistična Avstrija na zatožni klopi</OpNaslov>
+        <OpAvtor0>Elste Alfred</OpAvtor0>
+        <OpAvtor1>Koschat Michael</OpAvtor1>
+        <PvISSN>3-85013-844-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3203</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="3203"/>
+        <!-- brez vsakršnega citata -->
+    </publikacija>
+    <publikacija did="1548">
+        <OpNaslov>Narodi, Jugoslavija, revolucija</OpNaslov>
+        <OpAvtor0>Pleterski Janko</OpAvtor0>
+        <PvISSN>86-7045-012-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1548</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1986" did="1548"/>
+    </publikacija>
+    <publikacija did="596">
+        <OpNaslov>Nationalsozialistische Besatzungs- und Annexionspolitik in Norditalien 1943 bis 1945 : die Operationszonen "Alpenvorland" und "Adriatisches KÃ¼stenland"</OpNaslov>
+        <OpAvtor0>Wedekind Michael</OpAvtor0>
+        <PvISSN>3-486-56650-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>596</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="596"/>
+    </publikacija>
+    <publikacija did="1672">
+        <OpNaslov>Naše varnostne sile</OpNaslov>
+        <OpAvtor0>Čelik Pavle</OpAvtor0>
+        <PvISSN>978-961-6143-27-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1672</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1672"/>
+    </publikacija>
+    <publikacija did="507">
+        <OpNaslov>Notranjski odredi : I. april 1942 - julij 1942, II. september 1942 - december 1942, III. december 1942 - maj 1943, IV. november 1943 - maj 1945</OpNaslov>
+        <OpAvtor0>Guštin Damijan</OpAvtor0>
+        <OpAvtor1>Premk Martin</OpAvtor1>
+        <PvISSN>961-238-323-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>507</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="507"/>
+    </publikacija>
+    <publikacija did="549">
+        <OpNaslov>Novi vek</OpNaslov>
+        <OpAvtor0>Cvirn Janez</OpAvtor0>
+        <OpAvtor1>Hriberšek Balkovec Elizabeta</OpAvtor1>
+        <PvISSN>86-341-2592-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>549</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="549"/>
+    </publikacija>
+    <publikacija did="1753">
+        <OpNaslov>Novomeška trgovina in trgovci</OpNaslov>
+        <OpAvtor0>Matijevič Meta</OpAvtor0>
+        <OpAvtor1>Skrabl Zorka</OpAvtor1>
+        <PvISSN>961-6247-15-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1753</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1753"/>
+    </publikacija>
+    <publikacija did="616">
+        <OpNaslov>Oblike organiziranja gospodarstva na Slovenskem od 1918 do 1941</OpNaslov>
+        <OpAvtor0>Zupančič Pušavec Nina</OpAvtor0>
+        <PvISSN>961-6137-72-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>616</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="616"/>
+        <!-- samo 14 citatov sodelavcev INZ -->
+    </publikacija>
+    <publikacija did="1410">
+        <OpNaslov>Od držav na Slovenskem do slovenske države</OpNaslov>
+        <OpAvtor0>Granda Stane</OpAvtor0>
+        <PvISSN>961-6517-01-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1410</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="1410"/>
+    </publikacija>
+    <publikacija did="567">
+        <OpNaslov>Od zibeli do groba</OpNaslov>
+        <OpAvtor0>Ehmer Josef</OpAvtor0>
+        <PvISSN>0006-7725</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>567</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1997" did="567"/>
+    </publikacija>
+    <publikacija did="3383">
+        <OpNaslov>Omrežje moči</OpNaslov>
+        <OpAvtor0>Žerdin Ali</OpAvtor0>
+        <PvISSN>978-961-01-2290-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3383</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2012" did="3383"/>
+    </publikacija>
+    <publikacija did="1840">
+        <OpNaslov>Parlamentarne stranke u kraljevini SHS - Jugoslaviji</OpNaslov>
+        <OpAvtor0>Maliković Dragi</OpAvtor0>
+        <OpAvtor1>Rastović Aleksandar</OpAvtor1>
+        <PvISSN>978-86-84029-15-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1840</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1840"/>
+    </publikacija>
+    <publikacija did="1535">
+        <OpNaslov>Pozabljeni slovenski premier</OpNaslov>
+        <OpAvtor0>Rahten Andrej</OpAvtor0>
+        <PvISSN>3-85013-839-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1535</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="1535"/>
+    </publikacija>
+    <publikacija did="1673">
+        <OpNaslov>Pravica in moč za samoodločbo</OpNaslov>
+        <OpAvtor0>Pleterski Janko</OpAvtor0>
+        <PvISSN>978-961-241-261-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1673</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1673"/>
+        <!-- 12 citatov sodelavcev iz INZ -->
+    </publikacija>
+    <publikacija did="2388">
+        <OpNaslov>Preživele smo in spominjamo se</OpNaslov>
+        <OpAvtor0>Kavčič Silvija</OpAvtor0>
+        <PvISSN>978-961-6747-01-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2388</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="2388"/>
+    </publikacija>
+    <publikacija did="1987">
+        <OpNaslov>Prihod žensk na oder slovenske politike</OpNaslov>
+        <OpAvtor0>Selišnik Irena</OpAvtor0>
+        <PvISSN>978-961-6768-01-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1987</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1987"/>
+    </publikacija>
+    <publikacija did="580">
+        <OpNaslov>Promenada v Ljubljani</OpNaslov>
+        <OpAvtor0>Jerman Katja</OpAvtor0>
+        <PvISSN>961-6057-38-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>580</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="580"/>
+    </publikacija>
+    <publikacija did="1553">
+        <OpNaslov>Prva slovenska vlada 1918-1921</OpNaslov>
+        <OpAvtor0>Balkovec Bojan</OpAvtor0>
+        <PvISSN>961-6014-02-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1553</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1992" did="1553"/>
+    </publikacija>
+    <publikacija did="498">
+        <OpNaslov>Rdeča Slovenija : tokovi in obrazi iz obdobja socializma</OpNaslov>
+        <OpAvtor0>Repe Božo</OpAvtor0>
+        <PvISSN>961-6294-53-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>498</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="498"/>
+    </publikacija>
+    <publikacija did="1797">
+        <OpNaslov>Religija, Cerkev in šola v dokumentih občinskih komitejev ZKS Zgodovinskega arhiva Celje</OpNaslov>
+        <PvISSN>961-236-464-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1797</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="1797"/>
+    </publikacija>
+    <publikacija did="500">
+        <OpNaslov>Republiški upravni organi v LRS od 1945 do 1953</OpNaslov>
+        <OpAvtor0>Kozina Brane</OpAvtor0>
+        <PvISSN>961-6137-16-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>500</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1996" did="500"/>
+    </publikacija>
+    <publikacija did="2355">
+        <OpNaslov>Rimsko pravo</OpNaslov>
+        <OpAvtor0>Kranjc Janez</OpAvtor0>
+        <PvISSN>978-961-247-070-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2355</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+    </publikacija>
+    <publikacija did="2366">
+        <OpNaslov>Ritus gentis Slovanov v vzhodnih Alpah : model rekonstrukcije pravnih razmerij na podlagi najstarejšega jezikovnega gradiva</OpNaslov>
+        <OpAvtor0>Škrubej Katja</OpAvtor0>
+        <PvISSN>961-6358-69-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2366</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="2366"/>
+    </publikacija>
+    <publikacija did="630">
+        <OpNaslov>Rožmanov simpozij v Rimu</OpNaslov>
+        <OpAvtor0>Škulj Edo</OpAvtor0>
+        <PvISSN>961-218-355-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>630</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="630"/>
+    </publikacija>
+    <publikacija did="635">
+        <OpNaslov>Skrb za uboge v deželi Kranjski : socialna politika na Kranjskem od srede 18. stoletja do leta 1918</OpNaslov>
+        <OpAvtor0>Anžič Sonja</OpAvtor0>
+        <PvISSN>961-6247-07-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>635</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="635"/>
+    </publikacija>
+    <publikacija did="472">
+        <OpNaslov>Skriti spomin</OpNaslov>
+        <OpAvtor0>Vode Angela</OpAvtor0>
+        <PvISSN>961-6352-70-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>472</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="472"/>
+    </publikacija>
+    <publikacija did="1690">
+        <OpNaslov>Slovenci 1848-1918</OpNaslov>
+        <OpAvtor0>Melik Vasilij</OpAvtor0>
+        <PvISSN>961-6422-17-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1690</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="1690"/>
+    </publikacija>
+    <publikacija did="541">
+        <OpNaslov>Slovenci med tradicijo in perspektivo : politični mozaik 1860-1918</OpNaslov>
+        <OpAvtor0>Grdina Igor</OpAvtor0>
+        <PvISSN>961-6446-52-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>541</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="541"/>
+    </publikacija>
+    <publikacija did="2582">
+        <OpNaslov>Slovenija v gody okkupacii</OpNaslov>
+        <OpAvtor0>Pil´ko Nadežda Sergeevna</OpAvtor0>
+        <PvISSN>978-5-91419-203-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2582</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2009" did="2582"/>
+    </publikacija>
+    <publikacija did="486">
+        <OpNaslov>Slovenija, Italija, Od preziranja do priznanja</OpNaslov>
+        <OpAvtor0>Gombač Boris M.</OpAvtor0>
+        <PvISSN>961-6122-08-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>486</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2006" did="486"/>
+    </publikacija>
+    <publikacija did="1628">
+        <OpNaslov>Slovenska ljudska stranka v beograjski skupščini</OpNaslov>
+        <OpAvtor0>Rahten Andrej</OpAvtor0>
+        <PvISSN>961-6358-53-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1628</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="1628"/>
+    </publikacija>
+    <publikacija did="1400">
+        <OpNaslov>Slovenski begunci v Avstriji</OpNaslov>
+        <OpAvtor0>Švent Rozina</OpAvtor0>
+        <PvISSN>978-961-254-025-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1400</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1400"/>
+    </publikacija>
+    <publikacija did="1401 1389">
+        <OpNaslov>Slovenski eksodus leta 1945</OpNaslov>
+        <OpAvtor0>Rant Jože</OpAvtor0>
+        <PvISSN>987-05-3071-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1401</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1401 1389"/>
+        <!-- 1401 je brez vsakršnega citata -->
+    </publikacija>
+    <publikacija did="1605">
+        <OpNaslov>Slovenski klasični liberalizem</OpNaslov>
+        <OpAvtor0>Bergant Zvonko</OpAvtor0>
+        <OpAvtor1>Juhant Janez</OpAvtor1>
+        <PvISSN>961-6352-05-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1605</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="1605"/>
+    </publikacija>
+    <publikacija did="1546">
+        <OpNaslov>Slovenski narodni vzpon</OpNaslov>
+        <OpAvtor0>Prunk Janko</OpAvtor0>
+        <PvISSN>86-341-0846-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1546</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1992" did="1546"/>
+    </publikacija>
+    <publikacija did="604">
+        <OpNaslov>Slovenski parlamentarizem : 1927-1929 : avtonomistična prizadevanja skupščin ljubljanske in mariborske oblasti za ekonomsko-socialni in prosvetno-kulturni razvoj Slovenije ter za udejanjenje parlamentarizma</OpNaslov>
+        <OpAvtor0>Stiplovšek  Miroslav</OpAvtor0>
+        <PvISSN>86-7207-117-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>604</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="604"/>
+    </publikacija>
+    <publikacija did="487">
+        <OpNaslov>Slovensko domobranstvo : 1943-1945 : ustanovitev, organizacija, idejno ozadje</OpNaslov>
+        <OpAvtor0>Mlakar Boris</OpAvtor0>
+        <PvISSN>961-213-114-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>487</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="487"/>
+    </publikacija>
+    <publikacija did="1972">
+        <OpNaslov>Slovenščina in njeni uporabniki v luči evropske integracije</OpNaslov>
+        <OpAvtor0>Mikolič Vesna</OpAvtor0>
+        <OpAvtor1>Marc Bratina Karin</OpAvtor1>
+        <PvISSN>961-6033-66-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1972</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1972"/>
+    </publikacija>
+    <publikacija did="1418">
+        <OpNaslov>Slowenische geschichte</OpNaslov>
+        <OpAvtor0>Štih Peter</OpAvtor0>
+        <OpAvtor1>Simoniti Vasko</OpAvtor1>
+        <PvISSN>978-3-7011-0101-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1418</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1418"/>
+        <!-- 21 citatov samo sodelavcev iz INZ -->
+    </publikacija>
+    <publikacija did="628">
+        <OpNaslov>Socialna zgodovina družine</OpNaslov>
+        <OpAvtor0>Sieder Reinhard</OpAvtor0>
+        <PvISSN>961-6262-05-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>628</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1988" did="628"/>
+    </publikacija>
+    <publikacija did="2367">
+        <OpNaslov>Spolnost in kazensko pravo : od prazgodovine do t. i. modernega spolnega kazenskega prava</OpNaslov>
+        <OpAvtor0>Korošec Damjan</OpAvtor0>
+        <PvISSN>978-961-204-397-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2367</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="2367"/>
+    </publikacija>
+    <publikacija did="564">
+        <OpNaslov>Spomini</OpNaslov>
+        <OpAvtor0>Sernec Josip</OpAvtor0>
+        <OpAvtor1>Cvirn Janez</OpAvtor1>
+        <PvISSN>961-91139-5-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>564</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="564"/>
+    </publikacija>
+    <publikacija did="1961">
+        <OpNaslov>Statut izolskega komuna od 14. do 18. stoletja</OpNaslov>
+        <OpAvtor0>Kos Dušan</OpAvtor0>
+        <PvISSN>961-6033-70-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1961</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2006" did="1961"/>
+    </publikacija>
+    <publikacija did="502">
+        <OpNaslov>Stoletje v Celju : 1900-2000</OpNaslov>
+        <OpAvtor0>Goropevšek Branko</OpAvtor0>
+        <PvISSN>961-6283-09-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>502</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="502"/>
+    </publikacija>
+    <publikacija did="577">
+        <OpNaslov>Storia degli sloveni in Italia : 1866-1998</OpNaslov>
+        <OpAvtor0>Kacin Wohinz Milica</OpAvtor0>
+        <OpAvtor1>Pirjevec Jože</OpAvtor1>
+        <PvISSN>88-317-7107-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>577</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1998" did="577"/>
+    </publikacija>
+    <publikacija did="2357">
+        <OpNaslov>Struktura uprave in sodstva na Slovenskem od srede 18. stoletja do leta 1848</OpNaslov>
+        <OpAvtor0>Žontar Jože</OpAvtor0>
+        <PvISSN>961-6137-24-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2357</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1998" did="2357"/>
+    </publikacija>
+    <publikacija did="642">
+        <OpNaslov>Suhi Dol in Suhodovci : od prvih sledi do sedanjosti</OpNaslov>
+        <OpAvtor0>Košir Tone</OpAvtor0>
+        <PvISSN>961-236-568-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>642</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="642"/>
+    </publikacija>
+    <publikacija did="620">
+        <OpNaslov>Tajno delovanje primorske duhovščine pod fašizmom : primorski krščanski socialci med Vatikanom, fašistično Italijo in slovensko katoliško desnico</OpNaslov>
+        <OpAvtor0>Pelikan Egon</OpAvtor0>
+        <PvISSN>961-6352-35-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>620</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="620"/>
+    </publikacija>
+    <publikacija did="537">
+        <OpNaslov>Tamara Griesser-Pečar: Das zerrissene Volk Slowenien 1941-1946. Okkupation, Kollaboration, BÃ¼rgerkrieg, Revolution, Studien zu Politik und Vewaltung</OpNaslov>
+        <OpAvtor0>Thöndl Michael</OpAvtor0>
+        <PvISSN>0079-9068</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>537</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="537"/>
+    </publikacija>
+    <publikacija did="1774 1773">
+        <OpNaslov>The land between</OpNaslov>
+        <PvISSN>978-3-631-57011-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1774</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1774 1773"/>
+    </publikacija>
+    <publikacija did="633">
+        <OpNaslov>The problem of Trieste and the Italo-Yugoslav border : difference, identity, and sovereignty in twentieth-century Europe</OpNaslov>
+        <OpAvtor0>Sluga Glenda</OpAvtor0>
+        <PvISSN>0-7914-4824-X</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>633</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="633"/>
+    </publikacija>
+    <publikacija did="3247">
+        <OpNaslov>To Walk with the Devil</OpNaslov>
+        <OpAvtor0>Kranjc Gregor Joseph</OpAvtor0>
+        <PvISSN>ISBN 978-1-4426-1330-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3247</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2013" did="3247"/>
+    </publikacija>
+    <publikacija did="1717">
+        <OpNaslov>Točka nacionalnega nesporazuma</OpNaslov>
+        <OpAvtor0>Markeš Janez</OpAvtor0>
+        <PvISSN>961-6220-03-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1717</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2001" did="1717"/>
+    </publikacija>
+    <publikacija did="488">
+        <OpNaslov>Tragedija v Cerknem pozimi 1944</OpNaslov>
+        <OpAvtor0>Mlakar Boris</OpAvtor0>
+        <PvISSN>88-87407-21-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>488</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="488"/>
+    </publikacija>
+    <publikacija did="532">
+        <OpNaslov>Uprava Dravske banovine : 1929-1941</OpNaslov>
+        <OpAvtor0>Šmid Gašper</OpAvtor0>
+        <PvISSN>961-6137-67-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>532</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2006" did="532"/>
+    </publikacija>
+    <publikacija did="3266">
+        <OpNaslov>Ustaše na Jadranu</OpNaslov>
+        <OpAvtor0>Barić Nikica</OpAvtor0>
+        <PvISSN>ISBN 978-953-7840-11-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3266</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2012" did="3266"/>
+    </publikacija>
+    <publikacija did="1780">
+        <OpNaslov>Utišani in pozabljeni dr. Janko Kralj (1898-1944), slovenski politik</OpNaslov>
+        <OpAvtor0>Lučka Kralj Jerman</OpAvtor0>
+        <PvISSN>978-961-222-736-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1780</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2008" did="1780"/>
+    </publikacija>
+    <publikacija did="1409">
+        <OpNaslov>Viri o demokratizaciji in osamosvojitvi Slovenije</OpNaslov>
+        <OpAvtor0>Repe Božo</OpAvtor0>
+        <PvISSN>961-6143-19-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1409</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="1409"/>
+    </publikacija>
+    <publikacija did="467">
+        <OpNaslov>Vpliv dunajske univerze na oblikovanje slovenskega izobraženstva: statistična slika študentov s Kranjske na dunajski univerzi med leti 1804 in 1917</OpNaslov>
+        <OpAvtor0>Cindrič Alojz</OpAvtor0>
+        <PvISSN>961-237-008-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>467</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="467"/>
+    </publikacija>
+    <publikacija did="519">
+        <OpNaslov>Wahlrechtsreformen und Wahlen in Triest 1905-1909</OpNaslov>
+        <OpAvtor0>Winkler Eduard</OpAvtor0>
+        <PvISSN>3-486-56486-2</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>519</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="519"/>
+    </publikacija>
+    <publikacija did="527">
+        <OpNaslov>Za čast dežele</OpNaslov>
+        <OpAvtor0>Rode Franc</OpAvtor0>
+        <PvISSN>961-222-108-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>527</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1997" did="527"/>
+    </publikacija>
+    <publikacija did="1544">
+        <OpNaslov>Zagrebški Slovenci 2005-2007</OpNaslov>
+        <PvISSN>978-961-245-294-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1544</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1544"/>
+    </publikacija>
+    <publikacija did="511">
+        <OpNaslov>Zapisniki politbiroja CK KPS/ZKS 1945-1954</OpNaslov>
+        <OpAvtor0>Drnovšek  Darinka</OpAvtor0>
+        <PvISSN>961-6143-11-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>511</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="511"/>
+    </publikacija>
+    <publikacija did="1296">
+        <OpNaslov>Zgodnja zgodovina Slovanov v luči njihovega jezika</OpNaslov>
+        <OpAvtor0>Popowska Taborska Hanna</OpAvtor0>
+        <PvISSN>961-6568-18-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1296</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1296"/>
+    </publikacija>
+    <publikacija did="578">
+        <OpNaslov>Zgodovina Slovencev v Italiji 1866-2000</OpNaslov>
+        <OpAvtor0>Kacin Wohinz  Milica</OpAvtor0>
+        <OpAvtor1>Pirjevec Jože</OpAvtor1>
+        <PvISSN>961-6352-11-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>578</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2000" did="578"/>
+    </publikacija>
+    <publikacija did="583">
+        <OpNaslov>Zgodovina celjske industrije</OpNaslov>
+        <OpAvtor0>Mikola  Milko</OpAvtor0>
+        <PvISSN>961-6448-09-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>583</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="583"/>
+    </publikacija>
+    <publikacija did="1458">
+        <OpNaslov>Überleben und Erinnern</OpNaslov>
+        <OpAvtor0>Kavčič Silvija</OpAvtor0>
+        <PvISSN>978-3-938690-15-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1458</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1458"/>
+        <!-- 17 citatov samo sodelavcev iz INZ -->
+    </publikacija>
+    <publikacija did="1356">
+        <OpNaslov>Čez rob sveta</OpNaslov>
+        <OpAvtor0>Petan Žarko</OpAvtor0>
+        <PvISSN>978-961-226-832-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1356</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1356"/>
+    </publikacija>
+    <publikacija did="1636">
+        <OpNaslov>Štajerski Slovenci, kaj hočemo!</OpNaslov>
+        <OpAvtor0>Goropevšek Branko</OpAvtor0>
+        <PvISSN>961-91222-2-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1636</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1636"/>
+    </publikacija>
+    <publikacija did="463">
+        <OpNaslov>Železničarji in železnice pod nemško okupacijo v nekdanji Ljubljanski pokraini 1943-1945</OpNaslov>
+        <OpAvtor0>Nedog-Urbančič  Alenka</OpAvtor0>
+        <PvISSN>961-90354-1-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>463</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1996" did="463"/>
+    </publikacija>
+    
+    <publikacija did="542">
+        <OpNaslov>Peč se je podrla! : kultura rojstva na slovenskem podeželju v 20. stoletju</OpNaslov>
+        <OpAvtor0>Rožman Irena</OpAvtor0>
+        <PvISSN>961-91031-3-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>542</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="542"/>
+    </publikacija>
+    <publikacija did="546">
+        <OpNaslov>Proti</OpNaslov>
+        <OpAvtor0>Stanič Ive A.</OpAvtor0>
+        <PvISSN>961-236-650-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>546</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="546"/>
+    </publikacija>
+    <publikacija did="517">
+        <OpNaslov>Rat i mir istarski : model povijesne prijelomnice : (1943.-1955.)</OpNaslov>
+        <OpAvtor0>Dukovski Darko</OpAvtor0>
+        <PvISSN>953-6250-38-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>517</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2001" did="517"/>
+    </publikacija>
+    <publikacija did="474" zalozba="Družina">
+        <OpNaslov>V spomin in opomin : osebni zapiski škofa Antona Vovka od 1945 do 1953</OpNaslov>
+        <OpAvtor0>Vovk Anton</OpAvtor0>
+        <PvISSN>961-222-476-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>474</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2003" did="474"/>
+    </publikacija>
+    
+</root>

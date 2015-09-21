@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Vse izloči. Izločene pošljem Mojci. Najbolj očitne bodo do konca vnesene naknadno. -->
+<!-- Kopija arhivskega članka ../../ZIC(arhiv)/publikacije/zborniki-brez_vseh_clankov.xml -->
+<root>
+    <publikacija did="2935 2934">
+        <!-- Od 8 poglavij samo dve poglavji slovenskih avtorjev (ostalo so tuji avtorji). Citati so prepisani v celoti. -->
+        <PvNaslov>A shared vision : intercultural dialogue - a global paradigm to promote linguistic and cultural diversity</PvNaslov>
+        <PvISSN>978-961-6159-35-7</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2935</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvNaslov>A shared vision : intercultural dialogue - a global paradigm to promote linguistic and cultural diversity</PvNaslov>
+        <PvISSN>978-961-6159-35-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2934</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2010" did="2935 2934">
+            <PvStID leto="2010" st="7">2935 2934</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="2030">
+        <!-- Samo eno poglavje iz publikacije VODOPIVEC, Peter: Die Presse der Deutschen in der Untersteiermark und in Krain 1861–1941. Andrei Corbea-Hoişie; Ion Lihaciu; Alexander Rubel (ur.): Deutschsprachige Öffentlichkeit und Presse in Mittelost und Südosteuropa Iaşi: Editura Universitǎţii »Al. Cuza«, 2008, str. 135–146. -->
+        <PvNaslov>Deutschsprachige Öffentlichkeit und Presse in Mittelost und Südosteuropa : (1848-1948)</PvNaslov>
+        <PvISSN>978-3-86628-189-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2030</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2008" did="2030"/>
+    </publikacija>
+    <publikacija did="2546">
+        <!-- Samo poglavje Branka Šuštarja: Poklicne migracije slovenskega učiteljstva od habsburških do jugoslovanskih časov -->
+        <PvNaslov>Migracije in slovenski prostor od antike do danes</PvNaslov>
+        <PvISSN>978-961-6777-05-6</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>2546</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+    </publikacija>
+    <publikacija did="3502">
+        <!-- Samo poglavje Rijavec Andreja: Življenje za stroko : sto let pozneje -->
+        <PvNaslov>Nacionalna glasbena zgodovina : preobrazbe v drugi polovici 20. stoletja</PvNaslov>
+        <PvISSN>978-961-254-377-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3502</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2012" did="3502"/>
+    </publikacija>
+    <publikacija did="2390 2389 2387 2374 2373">
+        <!-- Samo 5 od 20 poglavij -->
+        <PvNaslov>Slovenija - Jugoslavija, krize in reforme 1968/1988</PvNaslov>
+        <PvNaslov>Slovenija - Jugoslavija, krize in reforme 1968/1988 /</PvNaslov>
+        <PvISSN>978-961-6386-24-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2387</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvNaslov>Slovenija in Jugoslavija : krize in reforme 1968/1988</PvNaslov>
+        <PvISSN>978-961-6386-15-9</PvISSN>
+        <BazaINZ>2390</BazaINZ>
+        <PvLeto leto="2010" did="2390 2389 2387 2374 2373"/>
+    </publikacija>
+    <publikacija did="3070 3069 3068">
+        <!-- Od skupno 19 poglavij samo 3 poglavja slovenskih avtorjov (ostalo so tuji avtorji) -->
+        <PvNaslov>Social inclusion of Roma : stories from Finland, Slovakia, Slovenia and Portugal</PvNaslov>
+        <PvISSN>978-961-6159-29-6 (Inštitut za narodnostna vprašanja)</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3070</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2007" did="3070 3069 3068"/>
+    </publikacija>
+    <publikacija did="2870 2869 2868 2867 2866">
+        <!-- Od 40 avtorjev vpisana samo citati iz poglavij petih avtorjev. -->
+        <PvNaslov>Sto let Zavoda sv. Stanislava</PvNaslov>
+        <PvISSN>961-222-581-8</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2870</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2005" did="2870 2869 2868 2867 2866"/>
+    </publikacija>
+    <publikacija did="3510 3509">
+        <!-- Od velikega števila poglavij prepisani citati samo dveh poglavij slovenskih zgodovinarjev http://csg.zrs.upr.si/media/uploads/files/Zahodni_balkan.pdf -->
+        <PvNaslov>The western Balkans : a European challenge : on the decennial of the Dayton peace agreement: Zahodni Balkan : evropski izziv : ob desetletnici Daytonskega mirovnega sporazuma</PvNaslov>
+        <PvNaslov>The western Balkans : a European challenge : on the decennial of the Dayton peace agreement = Zahodni Balkan : evropski izziv : ob desetletnici Daytonskega mirovnega sporazuma</PvNaslov>
+        <PvISSN>961-6033-79-4</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3510</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2006" did="3510 3509"/>
+    </publikacija>
+    <publikacija did="3195 3184 3181 514">
+        <!-- Od 41 avtorjev poglavij samo citati prvih treh poglavij in ena publikacija (id 514) s citaton sodelavca INZ -->
+        <PvNaslov>Ženske skozi zgodovino : zbornik referatov 32. zborovanja slovenskih</PvNaslov>
+        <PvNaslov>Ženske skozi zgodovino : zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje, 30. september - 2. oktober 2004</PvNaslov>
+        <PvNaslov>Ženske skozi zgodovino</PvNaslov>
+        <PvISSN>961-91431-1-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>3184</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvNaslov>Ženske skozi zgodovino : zbornik referatov 32. zborovanja slovenskih zgodovinarjev,</PvNaslov>
+        <PvISSN>961-91431-1-6</PvISSN>
+        <PvTip>serijska publikacija</PvTip>
+        <BazaINZ>3195</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="3195 3184 3181 514"/>
+    </publikacija>
+    
+</root>

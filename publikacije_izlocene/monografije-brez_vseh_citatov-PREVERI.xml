@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Preveri tako, da pogledaš v knjigo, ali so navajani vsi citati! -->
+<root>
+    <publikacija did="1763">
+        <OpNaslov>Komu Trst : Slovenci in Italijani med dvema</OpNaslov>
+        <OpAvtor0>Troha Nevenka</OpAvtor0>
+        <PvISSN>961-6183-69-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1763</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1999" did="1763"/>
+    </publikacija>
+    <publikacija did="2578">
+        <OpNaslov>Prva odločitev Slovencev za Slovenijo : dokumenti z uvodno študijo in osnovnimi pojasnili</OpNaslov>
+        <OpAvtor0>Granda Stane</OpAvtor0>
+        <PvISSN>961-6017-84-5</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2578</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="1999" did="2578"/>
+        <!-- 33 citatov -->
+    </publikacija>
+    <publikacija did="469">
+        <OpNaslov>Rabljev zamah : k zgodovini kriminala in kaznovanja na Slovenskem od 16. do začetka 21. stoletja</OpNaslov>
+        <OpAvtor0>Studen Andrej</OpAvtor0>
+        <!-- premalo citatov -->
+        <PvISSN>961-213-131-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>469</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2004" did="469"/>
+    </publikacija>
+    <publikacija did="2360">
+        <OpNaslov>Rabljev zamah : k zgodovini kriminala in kaznovanja na Slovenskem od 16. do začetka 21. stoletja</OpNaslov>
+        <OpAvtor0>Studen Andrej</OpAvtor0>
+        <!-- Premalo citatov. Dvojnik dela z id 469 -->
+        <PvISSN>961-213-131-7</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>2360</BazaINZ>
+        <TipBiblEnote>članek</TipBiblEnote>
+        <PvLeto leto="2004" did="2360"/>
+    </publikacija>
+    <publikacija did="83">
+        <OpNaslov>Slovenska vojska v službi domovine</OpNaslov>
+        <OpAvtor0>Kladnik Tomaž</OpAvtor0>
+        <PvISSN>961-6177-07-9</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>83</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2006" did="83"/>
+    </publikacija>
+    <publikacija did="1550">
+        <OpNaslov>Spomini in pisma</OpNaslov>
+        <OpAvtor0>Schwegel Josef</OpAvtor0>
+        <PvISSN>978-961-92173-0-6</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1550</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="1550"/>
+    </publikacija>
+    <publikacija did="1296">
+        <OpNaslov>Zgodnja zgodovina Slovanov v luči njihovega jezika</OpNaslov>
+        <OpAvtor0>Popowska Taborska Hanna</OpAvtor0>
+        <PvISSN>961-6568-18-3</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1296</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2005" did="1296"/>
+    </publikacija>
+    
+    <!-- spodnje publikacije izločene iz monografije.xml. Nujno jih preveri ročno. -->
+    <publikacija did="367" zalozba="ARS">
+        <OpNaslov>Osimski pogajalski proces</OpNaslov>
+        <OpAvtor0>Škorjanec Viljenka</OpAvtor0>
+        <PvISSN>978-961-6143-24-0</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>367</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2007" did="367">
+            <PvStID leto="2007" st="24">367</PvStID>
+        </PvLeto>
+    </publikacija>
+    <publikacija did="1568" zalozba="ARS">
+        <OpNaslov>Sejni zapisniki Narodne vlade Slovencev, Hrvatov in Srbov v Ljubljani in Deželnih vlad za Slovenijo : 1918-1921</OpNaslov>
+        <PvISSN>961-6137-27-1</PvISSN>
+        <PvTip>monografija</PvTip>
+        <BazaINZ>1568</BazaINZ>
+        <TipBiblEnote>knjiga</TipBiblEnote>
+        <PvLeto leto="2002" did="1568"/>
+    </publikacija>
+    
+</root>

@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- izločeno iz revije.xml -->
+<!-- članki, ki citirajo samo sodelavce INZ, Darka Darovca ali Kambiča -->
+<root>
+    <publication id="Acta_Histriae">
+        <year n="2012" did="3239">
+            <volume>20</volume>
+            <issue n="4">
+                <pubPart did="3239">
+                    <author>Jakomin Kocjančič Tanja</author>
+                    <title>Reprezentacija drugih v domobranskem tisku v slovenskem Primorju 1944-1945</title>
+                    <addTitle>La rappresentazione degli altri nella stampa dei domobranci nel Litorale sloveno 1944-1945</addTitle>
+                    <page>647-668</page>
+                    <cobiss>2332115</cobiss>
+                    <citati count="4">
+                        <citat did="3239" cid="1"/>
+                        <citat did="3239" cid="2"/>
+                        <citat did="3239" cid="3"/>
+                        <citat did="3239" cid="4"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2010" did="2426 2425">
+            <volume>18</volume>
+            <issue n="3">
+                <pubPart did="2426">
+                    <author>Železnik Urška</author>
+                    <title>Umazane ulice, nezrelo sadje in kužni hlapi</title>
+                    <title>kaj imajo skupnega policija, zdravje in zdravstvena policija</title>
+                    <page>627-650</page>
+                    <cobiss>1878483</cobiss>
+                    <citati count="1">
+                        <citat did="2426" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="2425">
+                    <author>Dato Gaetano</author>
+                    <title>Le celebrazioni per gli eroi di Bazovica (1945-1948): Alcuni risultati di una ricerca in corso</title>
+                    <page>471-498</page>
+                    <cobiss>253365248</cobiss>
+                    <citati count="1">
+                        <citat did="2425" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2004" did="1955 551">
+            <volume>12</volume>
+            <issue n="1">
+                <pubPart did="551">
+                    <author>Cvirn Janez</author>
+                    <title>K zgodovini homoseksualnosti na Slovenskem ob koncu 19. in na začetku 20. stoletja</title>
+                    <page>231-239</page>
+                    <cobiss>29353058</cobiss>
+                    <citati count="1">
+                        <citat did="551" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="1955">
+                    <author>Panjek Aleksander</author>
+                    <title>Fevdalna renta in agrarno gospodarstvo na Krasu na podlagi cenitev gospostev (1615-1637)</title>
+                    <page>1-72</page>
+                    <cobiss>777683</cobiss>
+                    <citati count="1">
+                        <citat did="1955" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="2350 1333 1328 636 558">
+            <volume>11</volume>
+            <issue n="1">
+                <pubPart did="2350">
+                    <author>Pelikan Egon</author>
+                    <title>Katoliška cerkev v Sloveniji in leto 1991</title>
+                    <page>221-232</page>
+                    <cobiss>608723</cobiss>
+                    <citati count="1">
+                        <citat did="2350" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="558">
+                    <author>Pleterski Janko</author>
+                    <title>Zgodovinski pluralizem motivov za osamosvojitev Slovenije</title>
+                    <page>209-220</page>
+                    <cobiss>626131</cobiss>
+                    <citati count="2">
+                        <citat did="558" cid="1"/>
+                        <citat did="558" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="1333">
+                    <author>Volk Sandi</author>
+                    <title>Zavezniška zakonodaja in vprašanje naselitve istrskih beguncev na ozemlju tržaških Slovencev</title>
+                    <page>129-150</page>
+                    <cobiss>660435</cobiss>
+                    <citati count="1">
+                        <citat did="1333" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="636">
+                    <author>Stergar Janez</author>
+                    <title>Republika Slovenija in zamejstvo 1945-2002</title>
+                    <page>99-128</page>
+                    <cobiss>660179</cobiss>
+                    <citati count="3">
+                        <citat did="636" cid="1"/>
+                        <citat did="636" cid="2"/>
+                        <citat did="636" cid="3"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1998" did="505">
+            <volume>6</volume>
+            <issue n="6">
+                <pubPart did="505">
+                    <author>Colja Katja</author>
+                    <title>Odnos tržaškega slovenskega prebivalstva do Ljudske oblasti in zaveznikov</title>
+                    <page>233-238</page>
+                    <cobiss>174803</cobiss>
+                    <citati count="1">
+                        <citat did="505" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Annales">
+        <year n="2000" did="595 475">
+            <volume>10</volume>
+            <issue n="1">
+                <pubPart did="595">
+                    <author>Merku  Pietro</author>
+                    <title>Primerjava med eksodusoma iz Istre in Sudetov po drugi svetovni vojni</title>
+                    <page>241-252</page>
+                    <cobiss>321491</cobiss>
+                    <citati count="1">
+                        <citat did="595" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="475">
+                    <author>Argenti Tremul Alessandra</author>
+                    <title>Analisi dell'esodo dall'Istria nord-occidentale da parte della stampa ufficiale dell'epoca</title>
+                    <page>393-410</page>
+                    <cobiss>339155</cobiss>
+                    <citati count="1">
+                        <citat did="475" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1996" did="535 533">
+            <volume>6</volume>
+            <issue n="8">
+                <pubPart did="535">
+                    <author>Gombač Metka</author>
+                    <title>Autonomia e decentramento della politica jugoslava alla fine dal secondo conflitto mondiale. Un caso specifico: il Comitato regionale di liberazione nazionale per il Litorale sloveno e Trieste</title>
+                    <page>87-110</page>
+                    <cobiss>333428</cobiss>
+                    <citati count="2">
+                        <citat did="535" cid="1"/>
+                        <citat did="535" cid="2"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="533">
+                    <author>Gombač  Boris M.</author>
+                    <title>Osvoboditev Trsta maja 1945</title>
+                    <page>141-150</page>
+                    <cobiss>5539405</cobiss>
+                    <citati count="1">
+                        <citat did="533" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Arhivi">
+        <year n="2004" did="3244">
+            <volume>27</volume>
+            <issue n="1">
+                <pubPart did="3244">
+                    <author>Bonin Zdenka</author>
+                    <title>Pokopavanje v samostanski cerkvi manjših bratov konventualcev sv. Frančiška v Kopru med leti 1719 in 1806 ter razpustitev samostana</title>
+                    <page>109-120</page>
+                    <cobiss>216765696</cobiss>
+                    <citati count="1">
+                        <citat did="3244" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="1577 592">
+            <volume>26</volume>
+            <issue n="1">
+                <pubPart did="1577">
+                    <author>Ribnikar Peter</author>
+                    <title>Naredba o prehodni upravi v Sloveniji iz leta 1918 in njen pomen za Slovenijo</title>
+                    <page>119-128</page>
+                    <cobiss>462453</cobiss>
+                    <citati count="5">
+                        <citat did="1577" cid="1"/>
+                        <citat did="1577" cid="2"/>
+                        <citat did="1577" cid="3"/>
+                        <citat did="1577" cid="4"/>
+                        <citat did="1577" cid="5"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="592">
+                    <author>Jeraj Mateja</author>
+                    <title>Komunistična partija, Antifašistična fronta žensk in uresničevanje ženske enakopravnosti v Sloveniji : (1943-1953)</title>
+                    <page>161-178</page>
+                    <cobiss>463989</cobiss>
+                    <citati count="1">
+                        <citat did="592" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2000" did="3073">
+            <volume>23</volume>
+            <issue n="2">
+                <pubPart did="3073">
+                    <author>Radulovič Branko</author>
+                    <title>Arhivsko gradivo o koroškem plebiscitu v slovenskih arhivih</title>
+                    <page>294</page>
+                    <cobiss>165237</cobiss>
+                    <citati count="5">
+                        <citat did="3073" cid="2"/>
+                        <citat did="3073" cid="3"/>
+                        <citat did="3073" cid="4"/>
+                        <citat did="3073" cid="5"/>
+                        <citat did="3073" cid="6"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1998" did="1796">
+            <volume>21</volume>
+            <issue n="1-2">
+                <pubPart did="1796">
+                    <author>Jeraj Mateja</author>
+                    <title>Arhivsko gradivo republiške organizacije Socialistične zveze delovnega ljudstva Slovenije 1945-1990</title>
+                    <page>67-72</page>
+                    <cobiss>28021</cobiss>
+                    <citati count="1">
+                        <citat did="1796" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Kronika">
+        <year n="2004" did="613 579">
+            <volume>52</volume>
+            <issue n="1">
+                <pubPart did="613">
+                    <author>Vršič Nataša</author>
+                    <title>Kulturno približevanje Prekmurja Sloveniji 1919-1941</title>
+                    <page>73-90</page>
+                    <cobiss>512676991</cobiss>
+                    <citati count="1">
+                        <citat did="613" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="579">
+                    <author>Keber Katarina</author>
+                    <title>Ljubljanski zdravnik Fran Viljem Lipič in preteča epidemija kolere leta 1831</title>
+                    <page>35-44</page>
+                    <cobiss>535157</cobiss>
+                    <citati count="1">
+                        <citat did="579" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2002" did="560">
+            <volume>50</volume>
+            <issue n="1">
+                <pubPart did="560">
+                    <author>Piškurić Jelka</author>
+                    <title>Prebivalstvo na Ižanskem skozi matične knjige</title>
+                    <title>Žrtve vojne in revolucije</title>
+                    <page>1-16</page>
+                    <cobiss>118676224</cobiss>
+                    <citati count="1">
+                        <citat did="560" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Prispevki">
+        <year n="2005" did="1795 1729 1537">
+            <volume>45</volume>
+            <issue n="1">
+                <pubPart did="1537">
+                    <author>Friš Darko</author>
+                    <title>Turneja Petra Živkovića in vodstva Jugoslovanske nacionalne stranke po slovenskih krajih leta 1937</title>
+                    <page>61-78</page>
+                    <cobiss>725381</cobiss>
+                    <citati count="1">
+                        <citat did="1537" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="1795">
+                    <author>Gabrič Aleš</author>
+                    <title>Opozicija v Sloveniji po letu 1945</title>
+                    <page>97-120</page>
+                    <cobiss>2069108</cobiss>
+                    <citati count="1">
+                        <citat did="1795" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="1729">
+                    <author>Ratej Mateja</author>
+                    <title>Politika Slovenske ljudske stranke pred sklenitvijo blejskega sporazuma leta 1927</title>
+                    <page>43-58</page>
+                    <cobiss>24804141</cobiss>
+                    <citati count="4">
+                        <citat did="1729" cid="1"/>
+                        <citat did="1729" cid="2"/>
+                        <citat did="1729" cid="3"/>
+                        <citat did="1729" cid="4"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2004" did="512 496 493 490">
+            <volume>44</volume>
+            <issue n="1">
+                <pubPart did="496">
+                    <author>Repe Božo</author>
+                    <title>Politična represija v socialistični Sloveniji (Jugoslaviji)</title>
+                    <page>83-94</page>
+                    <cobiss>26345314</cobiss>
+                    <citati count="4">
+                        <citat did="496" cid="1"/>
+                        <citat did="496" cid="2"/>
+                        <citat did="496" cid="3"/>
+                        <citat did="496" cid="4"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="493">
+                    <author>Jezernik Božidar</author>
+                    <title>Italijanska koncentracijska taborišča kot
+                        državni terorizem in njihove posledice</title>
+                    <page>62-82</page>
+                    <cobiss>217336832</cobiss>
+                    <citati count="1">
+                        <citat did="493" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="490">
+                    <author>Mlakar Boris</author>
+                    <title>Ženska kot objekt in subjekt v okviru protirevolucionarnega tabora na Slovenskem med drugo svetovno vojno</title>
+                    <page>39-48</page>
+                    <cobiss>1678452</cobiss>
+                    <citati count="2">
+                        <citat did="490" cid="1"/>
+                        <citat did="490" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="512">
+                    <author>Dolenc Ervin</author>
+                    <title>Slovensko zgodovinopisje o obdobju 1918-1991 po razpadu Jugoslavije</title>
+                    <page>113-129</page>
+                    <cobiss>1779572</cobiss>
+                    <citati count="12">
+                        <citat did="512" cid="1"/>
+                        <citat did="512" cid="2"/>
+                        <citat did="512" cid="3"/>
+                        <citat did="512" cid="4"/>
+                        <citat did="512" cid="5"/>
+                        <citat did="512" cid="6"/>
+                        <citat did="512" cid="7"/>
+                        <citat did="512" cid="8"/>
+                        <citat did="512" cid="9"/>
+                        <citat did="512" cid="10"/>
+                        <citat did="512" cid="11"/>
+                        <citat did="512" cid="12"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="666 637 615 607 576 572 570 557 484 478">
+            <volume>43</volume>
+            <issue n="1">
+                <pubPart did="607">
+                    <author>Šorn Mojca</author>
+                    <title>Idejni in politični nazori Rupnikovega kroga</title>
+                    <page>65-74</page>
+                    <cobiss>1517428</cobiss>
+                    <citati count="3">
+                        <citat did="607" cid="1"/>
+                        <citat did="607" cid="2"/>
+                        <citat did="607" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="570">
+                    <author>Gašparič Jure</author>
+                    <title>Vključevanje ozemlja Slovaške in Slovenije v gospodarski prostor novih držav leta 1918</title>
+                    <page>13-24</page>
+                    <cobiss>1516660</cobiss>
+                    <citati count="6">
+                        <citat did="570" cid="1"/>
+                        <citat did="570" cid="2"/>
+                        <citat did="570" cid="3"/>
+                        <citat did="570" cid="4"/>
+                        <citat did="570" cid="5"/>
+                        <citat did="570" cid="6"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="557">
+                    <author>Pleterski Janko</author>
+                    <title>O soslednosti novejše zgodovine Slovencev : nekaj pripomb ob in k posvetu "Slovenski in leto 1941"</title>
+                    <page>103-124</page>
+                    <cobiss>128027136</cobiss>
+                    <citati count="2">
+                        <citat did="557" cid="1"/>
+                        <citat did="557" cid="2"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="478">
+                    <author>Vurnik Blaž</author>
+                    <title>Soočenje liberalnega in katoliškega tabora na volitvah v Narodno skupščino v Kraljevini SHS</title>
+                    <page>51-64</page>
+                    <cobiss>128023040</cobiss>
+                    <citati count="3">
+                        <citat did="478" cid="1"/>
+                        <citat did="478" cid="2"/>
+                        <citat did="478" cid="3"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="666">
+                    <author>Lazarević Žarko</author>
+                    <title>Srednjeevropski gospodarski prostor do druge svetovne vojne</title>
+                    <page>33-42</page>
+                    <cobiss>1590132</cobiss>
+                    <citati count="3">
+                        <citat did="666" cid="1"/>
+                        <citat did="666" cid="2"/>
+                        <citat did="666" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="637">
+                    <author>Tominšek Rihtar Tadeja</author>
+                    <title>Smrtne žrtve druge svetovne vojne med Slovenci v zaledju Gorice in Trsta</title>
+                    <page>73-90</page>
+                    <cobiss>1590388</cobiss>
+                    <citati count="3">
+                        <citat did="637" cid="1"/>
+                        <citat did="637" cid="2"/>
+                        <citat did="637" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="615">
+                    <author>Troha Nevenka</author>
+                    <title>Epuracija v coni B Slovenskega primorja in koprskem okraju cone B Svobodnega tržaškega ozemlja (1945-1950)</title>
+                    <page>91-104</page>
+                    <cobiss>1590644</cobiss>
+                    <citati count="2">
+                        <citat did="615" cid="1"/>
+                        <citat did="615" cid="2"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="576">
+                    <author>Perovšek Jurij</author>
+                    <title>V spomin na prof. dr. Toneta Ferenca</title>
+                    <page>129-132</page>
+                    <cobiss>1591156</cobiss>
+                    <citati count="1">
+                        <citat did="576" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="572">
+                    <author>Perovšek Jurij</author>
+                    <title>Lambert Ehrlich: Pariška mirovna konferenca in Slovenci 1919/1920</title>
+                    <page>139-150</page>
+                    <cobiss>1591668</cobiss>
+                    <citati count="1">
+                        <citat did="572" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="484">
+                    <author>Godeša Bojan</author>
+                    <title>Srednjeevropski integracijski načrti med letoma 1918-1945 in Slovenci</title>
+                    <page>19-32</page>
+                    <cobiss>1588596</cobiss>
+                    <citati count="3">
+                        <citat did="484" cid="1"/>
+                        <citat did="484" cid="2"/>
+                        <citat did="484" cid="3"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2002" did="661 585 568">
+            <volume>42</volume>
+            <issue n="3">
+                <pubPart did="661">
+                    <author>Bergant Zvonko</author>
+                    <title>Ivan Tavčar in narodno vprašanje : od slovenstva k jugoslovanstvu</title>
+                    <page>5-19</page>
+                    <cobiss>544467</cobiss>
+                    <citati count="3">
+                        <citat did="661" cid="1"/>
+                        <citat did="661" cid="2"/>
+                        <citat did="661" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="585">
+                    <author>Čipić Rehar Marija</author>
+                    <title>Priprava, sprejem in pomen protokola med SFRJ in Svetim sedežem</title>
+                    <page>75-90</page>
+                    <cobiss>128007168</cobiss>
+                    <citati count="1">
+                        <citat did="585" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="568">
+                    <author>Gašparič Jure</author>
+                    <title>Finis Austriae et Hungariae</title>
+                    <title>Razpad Habsburške monarhije in oblikovanje nasledstvenih držav - Republike Češkoslovaške in Kraljevine SHS</title>
+                    <page>37-47</page>
+                    <cobiss>1387636</cobiss>
+                    <citati count="4">
+                        <citat did="568" cid="1"/>
+                        <citat did="568" cid="2"/>
+                        <citat did="568" cid="3"/>
+                        <citat did="568" cid="4"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2001" did="544 509 489">
+            <volume>41</volume>
+            <issue n="1">
+                <pubPart did="544">
+                    <author>Križnar Ivan</author>
+                    <title>Okupacija in narodnoosvobodilni boj na zgornjem Gorenjskem</title>
+                    <page>71-86</page>
+                    <cobiss>125907200</cobiss>
+                    <citati count="2">
+                        <citat did="544" cid="1"/>
+                        <citat did="544" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="509">
+                    <author>Guštin Damijan</author>
+                    <title>Vprašanja oboroženega odpora 1941</title>
+                    <page>123-141</page>
+                    <cobiss>1199732</cobiss>
+                    <citati count="1">
+                        <citat did="509" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="489">
+                    <author>Mlakar Boris</author>
+                    <title>Upor ali kolaboracija - resnična dilema?</title>
+                    <page>113-122</page>
+                    <cobiss>1199476</cobiss>
+                    <citati count="1">
+                        <citat did="489" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1998" did="1985 658">
+            <volume>38</volume>
+            <issue n="1-2">
+                <pubPart did="1985">
+                    <author>Dolenc Ervin</author>
+                    <title>Slovensko zgodovinopisje o času med obema vojnama in kulturna zgodovina</title>
+                    <page>43-57</page>
+                    <cobiss>581236</cobiss>
+                    <citati count="1">
+                        <citat did="1985" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="658">
+                    <author>Čepič Zdenko</author>
+                    <title>Nekaj stopinj revolucije v pluralni dobi Osvobodilne fronte</title>
+                    <page>89-110</page>
+                    <cobiss>582004</cobiss>
+                    <citati count="1">
+                        <citat did="658" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1997" did="1576 559">
+            <volume>37</volume>
+            <issue n="2">
+                <pubPart did="1576">
+                    <author>Stiplovšek Miroslav</author>
+                    <title>Ukinitev oblastnih samouprav in oblikovanje banske uprave Dravske banovine leta 1929</title>
+                    <page>93-104</page>
+                    <cobiss>73705472</cobiss>
+                    <citati count="1">
+                        <citat did="1576" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="559">
+                    <author>Prunk Janko</author>
+                    <title>Idejnopolitični nazor Edvarda Kardelja v okviru evropskega socializma</title>
+                    <page>105-116</page>
+                    <cobiss>73705984</cobiss>
+                    <citati count="1">
+                        <citat did="559" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1995" did="1569">
+            <volume>35</volume>
+            <issue n="1-2">
+                <pubPart did="1569">
+                    <author>Stiplovšek Miroslav</author>
+                    <title>Slovenska ljudska stranka in uvedba oblastnih samouprav leta 1927</title>
+                    <page>35-48</page>
+                    <cobiss>59080704</cobiss>
+                    <citati count="2">
+                        <citat did="1569" cid="1"/>
+                        <citat did="1569" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1992" did="655">
+            <volume>32</volume>
+            <issue n="1-2">
+                <pubPart did="655">
+                    <author>Deželak Barič Vida</author>
+                    <title>Vloga, metode in mesto Komunistične partije Slovenije v organiziranju oboroženega upora 1941</title>
+                    <page>93-108</page>
+                    <cobiss>47625984</cobiss>
+                    <citati count="1">
+                        <citat did="655" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="RiG">
+        
+    </publication>
+    <publication id="SHS">
+        <year n="2010" did="2580 2429">
+            <volume>10</volume>
+            <issue n="1">
+                <pubPart did="2580">
+                    <author>Gaspari Andrej</author>
+                    <title>The Rozumek case: Helmuth Rozumek, kriminalrat, SS Capitan and head of the Gestapo in Bled (IV Dept. of the Kds Veldes)</title>
+                    <title>characteristics of his intelligence operations and postwar analysis by Yugoslav security bodies</title>
+                    <page>75-108</page>
+                    <cobiss>1067653</cobiss>
+                    <citati count="2">
+                        <citat did="2580" cid="1"/>
+                        <citat did="2580" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2-3">
+                <pubPart did="2429">
+                    <author>Nećak Dušan</author>
+                    <title>Svet v prvi svetovni vojni</title>
+                    <page>267-296</page>
+                    <cobiss>41337954</cobiss>
+                    <citati count="10">
+                        <citat did="2429" cid="1"/>
+                        <citat did="2429" cid="2"/>
+                        <citat did="2429" cid="3"/>
+                        <citat did="2429" cid="4"/>
+                        <citat did="2429" cid="5"/>
+                        <citat did="2429" cid="6"/>
+                        <citat did="2429" cid="7"/>
+                        <citat did="2429" cid="8"/>
+                        <citat did="2429" cid="9"/>
+                        <citat did="2429" cid="10"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2008">
+            <issue n="2-3">
+                <pubPart did="2004">
+                    <author>Prunk Janko</author>
+                    <title>Slovensko-hrvaški odnosi v 20. stoletju - eden temeljnih elementov slovenske narodne politike</title>
+                    <page>375-396</page>
+                    <cobiss>953221</cobiss>
+                    <citati count="1">
+                        <citat did="2004" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2006">
+            <issue n="2-3">
+                <pubPart did="1625">
+                    <author>Ratej Mateja</author>
+                    <title>Kraji na slovenskem Štajerskem in Maribor v letih 1918-1941</title>
+                    <title>politični položaj nemške narodne manjšine v mestnih občinah Maribor, Celje in Ptuj</title>
+                    <page>445-466</page>
+                    <cobiss>856965</cobiss>
+                    <citati count="1">
+                        <citat did="1625" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="1539">
+                    <author>Čoh Mateja</author>
+                    <title>Maribor v času druge svetovne vojne</title>
+                    <page>495-530</page>
+                    <cobiss>857477</cobiss>
+                    <citati count="1">
+                        <citat did="1539" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2004" did="626 473">
+            <volume>4</volume>
+            <issue n="1">
+                <pubPart did="626">
+                    <author>Potočnik Dragan</author>
+                    <title>Teaching history on the basis research into local history  : the example of social and economic conditions in Maribor in the period from 1918 to 1941</title>
+                    <page>149-164</page>
+                    <cobiss>678021</cobiss>
+                    <citati count="1">
+                        <citat did="626" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2-3">
+                <pubPart did="473">
+                    <author>Vidovič-Miklavčič Anka</author>
+                    <title>Društvo Slovenska straža</title>
+                    <page>439-476</page>
+                    <cobiss>1923188</cobiss>
+                    <citati count="1">
+                        <citat did="473" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="1693">
+            <volume>3</volume>
+            <issue n="1">
+                <pubPart did="1693">
+                    <author>Ratej Mateja</author>
+                    <title>Development of political catholicism in Styria in 1918-1923</title>
+                    <page>85-120</page>
+                    <cobiss>13205256</cobiss>
+                    <citati count="5">
+                        <citat did="1693" cid="1"/>
+                        <citat did="1693" cid="2"/>
+                        <citat did="1693" cid="3"/>
+                        <citat did="1693" cid="4"/>
+                        <citat did="1693" cid="5"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Zgodovina_v_soli">
+        <year n="2003" did="600 566 510">
+            <volume>12</volume>
+            <issue n="3-4">
+                <pubPart did="600">
+                    <author>Mikola  Milko</author>
+                    <title>Nekatere oblike represije komunističnega režima v Sloveniji v letih od 1945-1952</title>
+                    <page>5-8</page>
+                    <cobiss>10772021</cobiss>
+                    <citati count="3">
+                        <citat did="600" cid="1"/>
+                        <citat did="600" cid="2"/>
+                        <citat did="600" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="566">
+                    <author>Dežman  Jože</author>
+                    <title>Meje revolucije</title>
+                    <page>40-47</page>
+                    <cobiss>127339264</cobiss>
+                    <citati count="1">
+                        <citat did="566" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="510">
+                    <author>Trškan  Danijela</author>
+                    <title>Preverjanje in ocenjevanje znanja : z avtentičnimi nalogami pri pouku zgodovine</title>
+                    <page>31-37</page>
+                    <cobiss>22187618</cobiss>
+                    <citati count="1">
+                        <citat did="510" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="Zgodovina_za_vse">
+        <year n="2004" did="611 562 491">
+            <volume>11</volume>
+            <issue n="1">
+                <pubPart did="562">
+                    <author>Kosi Jernej</author>
+                    <title>Jedel je prav malo, kakor je bila njeogva navada. Pil je več.</title>
+                    <title>Ivan Cankar, slovenski bohem</title>
+                    <page>44-58</page>
+                    <cobiss>216995584</cobiss>
+                    <citati count="1">
+                        <citat did="562" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="611">
+                    <author>Vittorelli Natascha</author>
+                    <title>"Slovenka" : o "prvem slovenskem ženskem časopisu"</title>
+                    <page>12-21</page>
+                    <cobiss>217019136</cobiss>
+                    <citati count="1">
+                        <citat did="611" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="491">
+                    <author>Batagelj Borut</author>
+                    <title>"Ali naj dame kolesarijo?" : kolesarke in žensko telo na prehodu iz 19. v 20. stoletje</title>
+                    <page>40-53</page>
+                    <cobiss>217023488</cobiss>
+                    <citati count="2">
+                        <citat did="491" cid="1"/>
+                        <citat did="491" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="586 525">
+            <volume>10</volume>
+            <issue n="1">
+                <pubPart did="525">
+                    <author>Čuček Filip</author>
+                    <title>Slovenci, Slovaki in bosansko-hercegovske peripetije v letih 1875-1878</title>
+                    <page>5-31</page>
+                    <cobiss>10613557</cobiss>
+                    <citati count="1">
+                        <citat did="525" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="2">
+                <pubPart did="586">
+                    <author>Počivavšek Marija</author>
+                    <title>Vi mamca, po čem pa krompir daste? : ljubljanska tržnica v Hribarjevi dobi</title>
+                    <page>[42]-54</page>
+                    <cobiss>10616373</cobiss>
+                    <citati count="1">
+                        <citat did="586" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2002" did="553">
+            <volume>9</volume>
+            <issue n="2">
+                <pubPart did="553">
+                    <author>Polajnar Janez</author>
+                    <title>Jegličeva skrb za narod in njegovo nravnost</title>
+                    <page>69-76</page>
+                    <cobiss>10623797</cobiss>
+                    <citati count="1">
+                        <citat did="553" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2001" did="1570 516">
+            <volume>8</volume>
+            <issue n="1">
+                <pubPart did="1570">
+                    <author>Gašparič Jure</author>
+                    <title>Knez Eulenburg na ljubljanskem dvoru</title>
+                    <title>afera nesojenega ljubljanskega župana Antona Peska</title>
+                    <page>59-69</page>
+                    <cobiss>1215348</cobiss>
+                    <citati count="1">
+                        <citat did="1570" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="516">
+                    <author>Čeč Dragica</author>
+                    <title>Zakaj je Postojna hotela postati mesto?</title>
+                    <page>36-51</page>
+                    <cobiss>121156096</cobiss>
+                    <citati count="1">
+                        <citat did="516" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1996" did="1586">
+            <volume>3</volume>
+            <issue n="2">
+                <pubPart did="1586">
+                    <author>Grdina Igor</author>
+                    <title>Med jugoslavenarstvom in slovenstvom</title>
+                    <page>81-82</page>
+                    <cobiss>2895714</cobiss>
+                    <citati count="1">
+                        <citat did="1586" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="ZC">
+        <year n="2005" did="1957 1728 1727">
+            <volume>59</volume>
+            <issue n="1-2">
+                <pubPart did="1957">
+                    <author>Mihelič Darja</author>
+                    <title>Revizija kronologije cerkvenih dostojanstvenikov na Primorskem</title>
+                    <page>23-44</page>
+                    <cobiss>24143149</cobiss>
+                    <citati count="1">
+                        <citat did="1957" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="1728">
+                    <author>Ratej Mateja</author>
+                    <title>Slovenska ljudska stranka v vladi Antona Korošca - ratifikacija Nettunskih konvencij</title>
+                    <page>111-127</page>
+                    <cobiss>14186248</cobiss>
+                    <citati count="1">
+                        <citat did="1728" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="1727">
+                    <author>Kregar Tone</author>
+                    <title>Slovaški politični tisk o Slovencih med obema vojnama</title>
+                    <page>69-99</page>
+                    <cobiss>5174814</cobiss>
+                    <citati count="6">
+                        <citat did="1727" cid="1"/>
+                        <citat did="1727" cid="2"/>
+                        <citat did="1727" cid="3"/>
+                        <citat did="1727" cid="4"/>
+                        <citat did="1727" cid="5"/>
+                        <citat did="1727" cid="6"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2004" did="668 485 461">
+            <volume>58</volume>
+            <issue n="1-2">
+                <pubPart did="668">
+                    <author>Lazarević Žarko</author>
+                    <title>Zavarovalništvo v Sloveniji med drugo svetovno vojno</title>
+                    <page>81-98</page>
+                    <cobiss>4737822</cobiss>
+                    <citati count="2">
+                        <citat did="668" cid="1"/>
+                        <citat did="668" cid="2"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="485">
+                    <author>Godeša Bojan</author>
+                    <title>Tisova Slovaška - "priljubljeni sen slovenskega klerofašizma"?</title>
+                    <page>69-80</page>
+                    <cobiss>215444992</cobiss>
+                    <citati count="7">
+                        <citat did="485" cid="1"/>
+                        <citat did="485" cid="2"/>
+                        <citat did="485" cid="3"/>
+                        <citat did="485" cid="4"/>
+                        <citat did="485" cid="5"/>
+                        <citat did="485" cid="6"/>
+                        <citat did="485" cid="7"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="3-4">
+                <pubPart did="461">
+                    <author>Berberih-Slana Aleksandra</author>
+                    <title>Stjepan Radić in republikansko gibanje v Sloveniji : od volitev v Narodno skupščino leta 1923 do volitev v Narodno skupščino leta 1925</title>
+                    <cobiss>13761800</cobiss>
+                    <citati count="4">
+                        <citat did="461" cid="1"/>
+                        <citat did="461" cid="2"/>
+                        <citat did="461" cid="3"/>
+                        <citat did="461" cid="4"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2003" did="647 593 574 573 495">
+            <volume>57</volume>
+            <issue n="1-2">
+                <pubPart did="574">
+                    <author>Perovšek Jurij</author>
+                    <title>Slovenska osamosvojitev 1991: pričevanja in analize</title>
+                    <page>241-243</page>
+                    <cobiss>1576564</cobiss>
+                    <citati count="1">
+                        <citat did="574" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="573">
+                    <author>Perovšek Jurij</author>
+                    <title>Prof. dr. Janko Prunk - šestdesetletnik</title>
+                    <page>221-226</page>
+                    <cobiss>1575796</cobiss>
+                    <citati count="1">
+                        <citat did="573" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+            <issue n="3-4">
+                <pubPart did="647">
+                    <author>Brunnbauer Ulf</author>
+                    <title>Kontinuitete in spremembe. Aktualni trendi v zgodovinopisju Jugovzhodne Evrope</title>
+                    <page>431-450</page>
+                    <cobiss>8974669</cobiss>
+                    <citati count="1">
+                        <citat did="647" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="593">
+                    <author>Ratej  Mateja</author>
+                    <title>Mestna hranilnica v Mariboru v dvajsetih letih 20. stoletja - predmet sporov občinske politike</title>
+                    <page>363-377</page>
+                    <cobiss>4616990</cobiss>
+                    <citati count="3">
+                        <citat did="593" cid="1"/>
+                        <citat did="593" cid="2"/>
+                        <citat did="593" cid="3"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="495">
+                    <author>Repe Božo</author>
+                    <title>Od deželana do državljana : regionalni razvoj Slovencev v letih 1918-1991</title>
+                    <page>269-278</page>
+                    <cobiss>23950434</cobiss>
+                    <citati count="1">
+                        <citat did="495" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2001" did="1718">
+            <volume>55</volume>
+            <issue n="2">
+                <pubPart did="1718">
+                    <author>Stiplovšek Miroslav</author>
+                    <title>Prizadevanja banskega sveta Dravske banovine za udejanjenje banovinske samouprave in decentralizacije uprave ter za razširitev svojih pristojnosti leta 1933</title>
+                    <page>231-253</page>
+                    <cobiss>18671970</cobiss>
+                    <citati count="2">
+                        <citat did="1718" cid="1"/>
+                        <citat did="1718" cid="2"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="1989" did="1619">
+            <volume>43</volume>
+            <issue n="1">
+                <pubPart did="1619">
+                    <author>Grdina Igor</author>
+                    <title>Kratka zgodovina Slovenske zemljoradniške in Slovenske republikanske stranke Antona Novačana</title>
+                    <page>77-95</page>
+                    <cobiss>14587136</cobiss>
+                    <citati count="1">
+                        <citat did="1619" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+    <publication id="CZN">
+        <year n="2004" did="645 601 575 548">
+            <volume>75 (40)</volume>
+            <issue n="2-3">
+                <pubPart did="645">
+                    <author>Kregar Tone</author>
+                    <title>Nekatere primerjave slovenskega in slovaškega narodnega razvoja ter slovenski pogled na Slovake v drugi polovici 19. stoletja</title>
+                    <page>333-363</page>
+                    <cobiss>513150079</cobiss>
+                    <citati count="1">
+                        <citat did="645" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="601">
+                    <author>Stiplovšek  Miroslav</author>
+                    <title>Razširitev delovanja banskega sveta Dravske banovine na uredbodajno področje leta 1933 in njegova stališča do občinskih volitev</title>
+                    <page>443-455</page>
+                    <cobiss>27599714</cobiss>
+                    <citati count="1">
+                        <citat did="601" cid="1"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="575">
+                    <author>Perovšek Jurij</author>
+                    <title>Srbi vladajo, Hrvati razpravljajo, Slovenci plačujejo : (Mit in resničnost prve Jugoslavije)</title>
+                    <page>405-427</page>
+                    <cobiss>1773172</cobiss>
+                    <citati count="12">
+                        <citat did="575" cid="1"/>
+                        <citat did="575" cid="2"/>
+                        <citat did="575" cid="3"/>
+                        <citat did="575" cid="4"/>
+                        <citat did="575" cid="5"/>
+                        <citat did="575" cid="6"/>
+                        <citat did="575" cid="7"/>
+                        <citat did="575" cid="8"/>
+                        <citat did="575" cid="9"/>
+                        <citat did="575" cid="10"/>
+                        <citat did="575" cid="11"/>
+                        <citat did="575" cid="12"/>
+                    </citati>
+                </pubPart>
+                <pubPart did="548">
+                    <author>Cvirn Janez</author>
+                    <author>Gašparič Jure</author>
+                    <title>Odmevi na Naumannov koncept Mitteleurope v habsburški monarhiji</title>
+                    <page>365-374</page>
+                    <cobiss>27544674</cobiss>
+                    <citati count="1">
+                        <citat did="548" cid="1"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+        <year n="2000" did="1618">
+            <volume>71 (36)</volume>
+            <issue n="3">
+                <pubPart did="1618">
+                    <author>Čepič Zdenko</author>
+                    <author>Perovšek Jurij</author>
+                    <title>Slovenska narodnopolitična in državna misel ter dejanja v letih 1848 in 1991</title>
+                    <page>49-74</page>
+                    <cobiss>1075060</cobiss>
+                    <citati count="9">
+                        <citat did="1618" cid="1"/>
+                        <citat did="1618" cid="2"/>
+                        <citat did="1618" cid="3"/>
+                        <citat did="1618" cid="4"/>
+                        <citat did="1618" cid="5"/>
+                        <citat did="1618" cid="6"/>
+                        <citat did="1618" cid="7"/>
+                        <citat did="1618" cid="8"/>
+                        <citat did="1618" cid="9"/>
+                    </citati>
+                </pubPart>
+            </issue>
+        </year>
+    </publication>
+</root>
