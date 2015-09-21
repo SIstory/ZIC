@@ -150,7 +150,7 @@
         <xs:element minOccurs="0" ref="pubTitle"/>
         <xs:element maxOccurs="unbounded" ref="pubPart"/>
       </xs:sequence>
-      <xs:attribute name="n" type="xs:NMTOKEN">
+      <xs:attribute name="n" type="xs:string">
         <xs:annotation>
           <xs:documentation>Vpiši številko revije.</xs:documentation>
         </xs:annotation>
@@ -232,6 +232,66 @@
       <xs:attribute name="did" use="required" type="xs:integer">
         <xs:annotation>
           <xs:documentation>Identifikacijska oznaka citata v delu, v katerem je bil članek citiran.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="avtor0" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Prvi avtor.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="avtor1" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Drugi avtor.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="naslov0" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Naslov.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="naslov1" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Podnaslov.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="cobiss" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: COBISS unikatni identifikator.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="source" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Vir.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="pubPlace" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Kraj izdaje.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="publisher" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Založnik.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="year" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Leto izdaje.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="volume" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Letnik izdaje.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="issue" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Številka izdaje.</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="page" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Originalni ZIC zapis citiranega dela: Strani.</xs:documentation>
         </xs:annotation>
       </xs:attribute>
     </xs:complexType>
