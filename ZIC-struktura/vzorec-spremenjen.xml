@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- V primerjavi z vzorec-original.xml sem tukaj racionaliziram imena citatov,
+     tako da so vsi elementi <field name="ime"> postali <ime>. -->
+<root>
+    <!-- ID publikacije, iz katere se vnaša citate -->
+    <field name="ID">3203</field>
+    
+    <!-- SPLOŠNI PODATKI -->
+    <!-- Tip bibliografske enote, npr. članek -->
+    <field name="OpTipBiblEnote">2</field>
+    <!-- Tipologija, npr. 1.01 Izvirni znanstveni članek -->
+    <field name="OpTipologija">22</field>
+    <!-- Zvrst, npr. tisk -->
+    <field name="OpZvrst">1</field>
+    <!-- Jezik, npr. slv - slovenski -->
+    <field name="OpJezik">21</field>
+    <!-- Država, npr. Svn - Slovenija -->
+    <field name="OpDrzava">17</field>
+    <!-- Št. Avtorjev -->
+    <field name="OpStAvtorjev">3</field>
+    <!-- COBISS ID -->
+    <field name="OpCobId">48094977</field>
+    <!-- SIstory ID -->
+    <field name="OpSistoryUrnId">0</field>
+    <!-- Avtor, 1. polje -->
+    <field name="OpAvtor0">Elste Alfred</field>
+    <!-- Avtor, 2. polje -->
+    <field name="OpAvtor1">Koschat Michael</field>
+    <!-- Avtor, 3. polje -->
+    <field name="OpAvtor2">Filipič Hanzi</field>
+    <!-- Urednik -->
+    <field name="OpUrednik">Ferenc Mitja</field>
+    <!-- *Naslov -->
+    <field name="OpNaslov">Nacistična Avstrija na zatožni klopi</field>
+    <!-- Vzporedni naslov -->
+    <field name="OpVzpNaslov"></field>
+    <!-- Podnaslov -->
+    <field name="OpPodnaslov">anatomija političnega spektakularnega procesa v komunistični Sloveniji</field>
+    <!-- Baza citatov INZ -->
+    <field name="BazaINZ">1</field>
+    
+    <!-- PODATKI O VIRU -->
+    <!-- COBISS ID vira -->
+    <field name="PvCobId">259493632</field>
+    <!-- ISSN/ISBN -->
+    <field name="PvISSN">3-85013-844-5</field>
+    <!-- Tip vira, npr. serijska publikacija -->
+    <field name="PvTip">2</field>
+    <!-- Avtor vira -->
+    <field name="PvAvtor">Smole Dominik</field>
+    <!-- Naslov vira -->
+    <field name="PvNaslov">Zbrano delo</field>
+    <!-- Podnaslov vira -->
+    <field name="PvPodnaslov">druga knjiga</field>
+    <!-- Vzporedni naslov vira -->
+    <field name="PvVzporedniNaslov">#an #administrative and economic center</field>
+    <!-- Kratki naslov vira -->
+    <field name="PvNaslovKratki">Kronika</field>
+    <!-- Kraj izdaje -->
+    <field name="PvKraj">Celovec ; Ljubljana ; Dunaj</field>
+    <!-- Letnik -->
+    <field name="PvLetnik">n. v. 48</field>
+    <!-- Zbirka -->
+    <field name="PvZbirka">Knjižnica Annales ; 39</field>
+    <!-- Založba -->
+    <field name="PvZalozba">Mohorjeva</field>
+    <!-- Leto -->
+    <field name="PvLeto">2002</field>
+    <!-- Številka -->
+    <field name="PvSt">2-3</field>
+    <!-- Stran -->
+    <field name="PvStran">26-68</field>
+    
+    <!-- VSEBINSKA OBDELAVA -->
+    <!-- Deskriptor 1 -->
+    <field name="KwDeskriptor1">nacizem, Avstrija, vojni zločinci, povojni procesi</field>
+    <!-- Deskriptor 2 -->
+    <field name="KwDeskriptor2">zgodovina športa / šport / transport / rekreacija / prosti čas / telesna vadba</field>
+    <!-- Deskriptor 3 -->
+    <field name="KwDeskriptor3">kazensko pravosodje / krvno sodstvo / sodni red / 16.st. / Ljubljana (Slovenija) / humanizem / criminal justice / blood justice / court rules / 16th cent. / Ljubljana (Slovenia) / humanism</field>
+    <!-- Opombe -->
+    <field name="KwOpombe">Prevod dela: NS-Österreich auf der Anklagebank</field>
+    <!-- Opombe o bibliografiji/ kazalu -->
+    <field name="KwOpombeOBibl">Bibliografija: str. 191-214
+        Kazalo</field>
+    <!-- UDK -->
+    <field name="KwUDK">34.096(497.1):929 Rainer F.</field>
+    <!-- UDK za iskanje -->
+    <field name="KwUDKZaIskanje">27</field>
+    
+    <!-- CITATI -->
+    <!-- citat -->
+    <citat>
+        <!-- Ne vem zakaj, ampak vse publikacije v bazi imajo (verjetno boolean) oznako, da so slovenske.
+             V adminu namreč ni mogoče spremeniti te vrednosti. -->
+        <slo>1</slo>
+        <!-- Identifikacija številka citata -->
+        <cid>1</cid>
+        <!-- COBISS ID citata -->
+        <COBISSid/>
+        <!-- Citat na strani -->
+        <cnastrani>22</cnastrani>
+        <!-- Avtor citata, 1. polje -->
+        <avtor0>Glažar Natalija</avtor0>
+        <!-- Avtor citata, 2. polje -->
+        <avtor1/>
+        <!-- Naslov citata, 1. polje -->
+        <naslov0>Tuji časopisi in revije</naslov0>
+        <!-- Naslov citata, 2. polje -->
+        <naslov1/>
+        <!-- Vir citata -->
+        <vir>Arhivi</vir>
+        <!-- Kraj izdaje -->
+        <kraj>Ljubljana</kraj>
+        <!-- Založba -->
+        <zalozba>Arhivsko društvo Slovenije</zalozba>
+        <!-- Letnik -->
+        <letnik>25</letnik>
+        <!-- Leto -->
+        <leto>2002</leto>
+        <!-- Številka -->
+        <stevilka>2</stevilka>
+        <!-- Stran -->
+        <str>181-185</str>
+    </citat>
+    
+</root>
