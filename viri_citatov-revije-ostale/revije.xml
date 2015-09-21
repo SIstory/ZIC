@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
+   <docMetadata>
+      <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docTitle>Citiranost člankov v ostalih slovenskih revijah</docTitle>
+      <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
+      <docRights>CC BY 4.0</docRights>
+      <docDate>2015-09-17</docDate>
+      <docNote corresp="#andrejp" when="2015-09-21">V tem dokumentu so podatki o citiranosti člankov
+         v slovenskih revijah, ki v zgodovinopisju niso pogosto citirani.</docNote>
+   </docMetadata>
    <source>
       <pubTitle>Acta ecclesiastica Sloveniae</pubTitle>
       <pubTitle>Acta ecclesiastica Sloveniae, 17</pubTitle>
@@ -2050,7 +2060,7 @@
       <pubPlace>Ljubljana</pubPlace>
       <year n="2007">
          <volume>39</volume>
-         <issue n="3/4">
+         <issue n="3-4">
             <pubPart>
                <author>Kržišnik Bukić Vera</author>
                <title>Terminološke dileme ob vsebinski aplikaciji atributov narodni in nacionalni v povezavi s sintagmo slovenska identiteta</title>
@@ -6135,7 +6145,7 @@
       </year>
       <year n="1998">
          <volume>47</volume>
-         <issue n="1/2">
+         <issue n="1-2">
             <pubPart>
                <author>Ribnikar Ivan</author>
                <title>Odprava družbene lastnine podjetij, privatizacija</title>
@@ -6289,7 +6299,7 @@
          </issue>
       </year>
       <year n="1984">
-         <issue n="7, 9">
+         <issue n="7-9">
             <pubPart>
                <author>Hočevar Toussaint</author>
                <title>Slovensko poslovno bančništvo 1913–1941</title>
@@ -23836,7 +23846,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
       <year n="1993">
          <volume>39</volume>
-         <issue n="7/8">
+         <issue n="7-8">
             <pubPart>
                <author>Jan Zoltan</author>
                <title>Italijanska študija Lojzke Bratuž o slovenskih pridigah goriškega nadškofa</title>
@@ -28386,7 +28396,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          </issue>
       </year>
       <year n="1999">
-         <issue n="12. maj 1999">
+         <issue>
             <pubPart>
                <author>Medved Felicita</author>
                <title>Begunci med nasiljem in birokracijo</title>
@@ -36402,7 +36412,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="7/8">
+         <issue n="7-8">
             <pubPart>
                <author>Godec Ivan</author>
                <title>850 let Litije</title>

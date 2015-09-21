@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/zborniki.xsd">
+   <docMetadata>
+      <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docTitle>Citiranost poglavij v zbornikih</docTitle>
+      <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
+      <docRights>CC BY 4.0</docRights>
+      <docDate>2015-09-17</docDate>
+      <docNote corresp="#andrejp" when="2015-09-21">V tem dokumentu so podatki o citiranosti poglavij
+         v zbornikih.</docNote>
+   </docMetadata>
    <source>
       <pubTitle>130 let visokega šolstva. Zbornik simpozija (Maribor — Celje 1991)</pubTitle>
       <pubTitle>130 let visokega šolstva v Mariboru</pubTitle>

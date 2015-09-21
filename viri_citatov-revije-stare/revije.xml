@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
+   <docMetadata>
+      <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docTitle>Citiranost člankov v starejših slovenskih revijah</docTitle>
+      <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
+      <docRights>CC BY 4.0</docRights>
+      <docDate>2015-09-17</docDate>
+      <docNote corresp="#andrejp" when="2015-09-21">V tem dokumentu so podatki o citiranosti člankov
+         v starejših slovenskih revijah.</docNote>
+   </docMetadata>
    <source>
       <pubTitle>Časopis za slovenski jezik, književnost in zgodovino</pubTitle>
       <pubTitle>Časopis za slovenski jezik, književnost in literaturo</pubTitle>
@@ -6058,7 +6068,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="1908"/>
          <issue>
             <pubPart>
                <author>Apih Josip</author>
@@ -10307,7 +10316,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="9"/>
          <issue>
             <pubPart>
                <author>Kaspert Anton</author>
@@ -13190,7 +13198,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <author>Dolenc Metod</author>
                <title>Vprašanje omilitve in poostritve kazni po novem kazenskem zakoniku</title>
                <page>267-282</page>
-               <cobiss>Znanstvenoraziskovalni center Sl</cobiss>
                <citedIn count="1">
                   <cit did="3099"
                        cid="11"

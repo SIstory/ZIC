@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
+   <docMetadata>
+      <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docTitle>Citiranost člankov v tujih revijah</docTitle>
+      <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
+      <docRights>CC BY 4.0</docRights>
+      <docDate>2015-09-17</docDate>
+      <docNote corresp="#andrejp" when="2015-09-21">V tem dokumentu so podatki o citiranosti člankov
+         v tujih revijah.</docNote>
+   </docMetadata>
    <source>
       <pubTitle>American Sociological Review</pubTitle>
       <pubTitle>American sociological review</pubTitle>
