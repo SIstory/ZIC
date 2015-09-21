@@ -78,7 +78,20 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:group minOccurs="0" maxOccurs="unbounded" ref="monogr"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="title"/>
+          <xs:element ref="addTitle"/>
+          <xs:element ref="author"/>
+          <xs:element ref="editor"/>
+          <xs:element ref="pubPlace"/>
+          <xs:element ref="publisher"/>
+          <xs:element ref="year"/>
+          <xs:element ref="collection"/>
+          <xs:element ref="issue"/>
+          <xs:element ref="page"/>
+          <xs:element ref="cobiss"/>
+          <xs:element ref="isbn"/>
+        </xs:choice>
         <xs:element minOccurs="0" ref="citations"/>
       </xs:sequence>
       <xs:attribute name="did" use="required" type="xs:integer">
@@ -93,22 +106,6 @@
       </xs:attribute>
     </xs:complexType>
   </xs:element>
-  <xs:group name="monogr">
-    <xs:choice>
-      <xs:element maxOccurs="unbounded" ref="title"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="addTitle"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="author"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="editor"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubPlace"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="publisher"/>
-      <xs:element minOccurs="0" ref="year"/>
-      <xs:element minOccurs="0" ref="collection"/>
-      <xs:element minOccurs="0" ref="issue"/>
-      <xs:element minOccurs="0" ref="page"/>
-      <xs:element minOccurs="0" maxOccurs="unbounded" ref="cobiss"/>
-      <xs:element minOccurs="0" ref="isbn"/>
-    </xs:choice>
-  </xs:group>
   <xs:element name="title" type="xs:string">
     <xs:annotation>
       <xs:documentation>Naslov monografije.</xs:documentation>
@@ -116,7 +113,7 @@
   </xs:element>
   <xs:element name="addTitle" type="xs:string">
     <xs:annotation>
-      <xs:documentation>Prevod naslova monografije.</xs:documentation>
+      <xs:documentation>Additional Title: Prevod naslova monografije.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="author" type="xs:string">

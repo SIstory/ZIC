@@ -78,17 +78,19 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubTitle"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubAddTitle"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="author"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="editor"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubPlace"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="publisher"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="collection"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubCobiss"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="issn"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="isbn"/>
-        <xs:element minOccurs="0" ref="year"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="pubTitle"/>
+          <xs:element ref="pubAddTitle"/>
+          <xs:element ref="author"/>
+          <xs:element ref="editor"/>
+          <xs:element ref="pubPlace"/>
+          <xs:element ref="publisher"/>
+          <xs:element ref="collection"/>
+          <xs:element ref="pubCobiss"/>
+          <xs:element ref="issn"/>
+          <xs:element ref="isbn"/>
+          <xs:element ref="year"/>
+        </xs:choice>
         <xs:element ref="chapters"/>
       </xs:sequence>
       <xs:attribute name="id" type="xs:NCName">
@@ -100,12 +102,12 @@
   </xs:element>
   <xs:element name="pubTitle" type="xs:string">
     <xs:annotation>
-      <xs:documentation>Naslov zbornika.</xs:documentation>
+      <xs:documentation>Publication Title: Naslov zbornika.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="pubAddTitle" type="xs:string">
     <xs:annotation>
-      <xs:documentation>Prevod naslova zbornika.</xs:documentation>
+      <xs:documentation>Publication Additional Title: Prevod naslova zbornika.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="editor" type="xs:string">
@@ -154,21 +156,23 @@
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="pubPart"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubPart"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="pubPart">
     <xs:annotation>
-      <xs:documentation>Poglavje.</xs:documentation>
+      <xs:documentation>Publication Part: Poglavje.</xs:documentation>
     </xs:annotation>
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="author"/>
-        <xs:element maxOccurs="unbounded" ref="title"/>
-        <xs:element minOccurs="0" maxOccurs="unbounded" ref="addTitle"/>
-        <xs:element minOccurs="0" ref="page"/>
-        <xs:element minOccurs="0" ref="cobiss"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="author"/>
+          <xs:element ref="title"/>
+          <xs:element ref="addTitle"/>
+          <xs:element ref="page"/>
+          <xs:element ref="cobiss"/>
+        </xs:choice>
         <xs:element minOccurs="0" ref="citations"/>
       </xs:sequence>
       <xs:attribute name="did" use="required" type="xs:integer">
@@ -185,7 +189,7 @@
   </xs:element>
   <xs:element name="addTitle" type="xs:string">
     <xs:annotation>
-      <xs:documentation>Prevod naslova poglavja.</xs:documentation>
+      <xs:documentation>Additional Title: Prevod naslova poglavja.</xs:documentation>
     </xs:annotation>
   </xs:element>
   <xs:element name="page" type="xs:string">
