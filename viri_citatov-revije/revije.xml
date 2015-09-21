@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
+   <docMetadata>
+      <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docTitle>Citiranost člankov v glavnih slovenskih revijah</docTitle>
+      <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
+      <docRights>CC BY 4.0</docRights>
+      <docDate>2015-09-17</docDate>
+      <docNote corresp="#andrejp" when="2015-09-21">V tem dokumentu so podatki o citiranosti člankov
+         v poglavitnih slovenskih zgodovinskih revijah.</docNote>
+   </docMetadata>
    <source id="Acta_Histriae">
       <pubTitle>Acta Histriae</pubTitle>
       <publisher>Zgodovinsko društvo za Južno Primorsko</publisher>
@@ -7312,7 +7322,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1969">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>Prispevek h gospodarski zgodovini Ptuja v prvi polovici 16. stoletja</title>
@@ -7368,7 +7378,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1968">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Hočevar Tussaint</author>
                <title>Slovenski protestatnti v kolonialni Georgiji</title>
@@ -7398,7 +7408,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1967">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Baš Franjo</author>
                <title>Maribor v avstrijski dobi</title>
@@ -7444,7 +7454,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1966">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Blaznik Pavle</author>
                <title>Topografija vitanjskega urada v luči urbarja iz 1404</title>
@@ -7794,7 +7804,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1928">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Mal Josip</author>
                <title>Kratka navodila za ohranitev arhivov</title>
@@ -7824,7 +7834,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1927">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Stele Fr.</author>
                <title>Gradivo za prekmursko zgodovino</title>
@@ -7836,7 +7846,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1926">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kovačič Fran</author>
                <author>Kovačič Franc</author>
@@ -7860,7 +7870,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1925">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Ljubša Matija</author>
                <title>PreuredItev župnijskih mej in ustanovitev novih župnij na levem bregu ob času Jožefa II.</title>
@@ -7888,7 +7898,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1924">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Druzovič Hinko</author>
                <title>Zgodovina slovenskega petja v Mariboru</title>
@@ -7900,7 +7910,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1922">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kovačič Fran</author>
                <title>Historični portreti na oltarni podobi župne cerkve na Črni ali Ptujski gori</title>
@@ -7937,7 +7947,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1921">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kos Milko</author>
                <title>Doneski za krajevne kronike</title>
@@ -7949,7 +7959,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1920">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kovačič Fran</author>
                <title>Mariborsko vprašanje</title>
@@ -7970,7 +7980,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1919">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kovačič Fran</author>
                <title>Mariborsko vprašanje</title>
@@ -8008,7 +8018,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1918">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Štrekelj M.</author>
                <author>Štrekljeva Manica</author>
@@ -8024,7 +8034,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1917">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kos Milko</author>
                <title>Oglejski patriarhi in slovenske pokrajine do srede 13. stoletja s posebnim ozirom na vlado patriarha Bertolda iz rodovine Andechs</title>
@@ -8047,7 +8057,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1916">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Stegenšek Avguštin, Ljubša Matija</author>
                <title>Die Stadtpfarrkirche zum Heiligen Blut in Graz von ihrem Entstehen bis zur Gegenwart</title>
@@ -8059,7 +8069,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1914">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Košič Jožef</author>
                <title>"Starine železnih in salajskih Slovenov" : fragment iz zgodovine ogrskih Slovencev</title>
@@ -8072,7 +8082,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1913">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kovačič Fran</author>
                <title>Književna poročila</title>
@@ -8100,7 +8110,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1912">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Dolenc Metod</author>
                <title>Postanek in pomen inštrukcij za krvna sodišča na Štajerskem, Kranjskem in Koroškem</title>
@@ -8122,7 +8132,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1911">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Stegenšek Avguštin</author>
                <title>O početkih jurklošterske kartuzije</title>
@@ -8135,7 +8145,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1910">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kidrič Franc</author>
                <title>Paberki o Vrazu</title>
@@ -8176,7 +8186,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1909">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Glonar Joža</author>
                <title>Umetniški spomeniki Lavantinske škofije</title>
@@ -8214,7 +8224,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1908">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Glonar Jože</author>
                <title>Literarni odnošaji med Štajerskimi Slovenci in Nemci</title>
@@ -8250,7 +8260,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1907">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Stegenšek Avguštin</author>
                <title>Zur Geschichte der volkstümlichen Häuser bei den Südslaven</title>
@@ -8262,7 +8272,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1906">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Ilešič Fran</author>
                <title>Početki štajersko-slovenske književnosti v 18. stoletju</title>
@@ -8291,7 +8301,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1905">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Ilešič Fran</author>
                <title>Iz bojev med "ilirsko" in madžarofilsko stranko leta 1848/1849</title>
@@ -8345,7 +8355,7 @@ zgodovinarjev v Mariboru)</title>
          </issue>
       </year>
       <year n="1904">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Ilešič Fran</author>
                <title>O slovenskem Štajerju  v jožefinski katekizem</title>
@@ -8569,7 +8579,7 @@ zgodovinarjev v Mariboru)</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="">
+         <issue>
             <pubPart correspPubId="2040">
                <author>Čeč dragica</author>
                <author>Čeč Dragica</author>
@@ -27045,7 +27055,7 @@ Slovenskem</title>
          </issue>
       </year>
       <year n="1967">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>O nameravani trgovski poti iz Ancone in Pesara v Italiji na Nizozemsko prek Ljubljane za Ferdinanda I.</title>
@@ -27115,7 +27125,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1965-1966">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Blaznik Pavle</author>
                <title>K problemu nastanka Škofje Loke in njenega notranjega razvoja v srednjem veku</title>
@@ -27292,7 +27302,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1964">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Slovanski naselitveni valovi na Balkanski polotok</title>
@@ -27380,7 +27390,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1963">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Biber Dušan</author>
                <title>Kočevski Nemci med obema gljnama</title>
@@ -27450,7 +27460,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1962">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Deset let proučevanja ustoličevanja koroških vojvod, kosezov in države karantanskih Slovencev</title>
@@ -27526,7 +27536,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1961">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Gottbert Moro, Die Kärntner Chronik des Paracelsus.....</title>
@@ -27572,7 +27582,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1960">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kermavner Dušan</author>
                <title>Nekaj kritičnih pripomb k razpravljanju dr. Koste Milutinovića v tem časopisu</title>
@@ -27596,7 +27606,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1958">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Britovšek Marjan</author>
                <title>Uvajanje novih kultur na Kranjskem v drugi polovici 18. in v prvi polovici 19. stoletja</title>
@@ -27668,7 +27678,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1957">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Pleterski Janko</author>
                <title>Politični profil koroškega časopisa Mir</title>
@@ -27680,7 +27690,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1956">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Kos Milko</author>
                <title>O izvoru prebivalcev Ljubljane v srednjem veku</title>
@@ -27749,7 +27759,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1955">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Bićanić Rudolf</author>
                <title>Još jedna riječ o ekonomskoj povijesti in Fran Zwitter</title>
@@ -27830,7 +27840,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1954">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Metod Mikuž</author>
                <title>Recenzija knjige Svetozarja Pribićevića</title>
@@ -27909,7 +27919,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1953">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>Gospodarska in socialna struktura gornjegrajske posesti po urbarju leta 1426</title>
@@ -27922,7 +27932,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1952">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Bićanić Rudolf</author>
                <title>Ekonomska povijest medju ekonomskim in historijskim naukama</title>
@@ -28100,7 +28110,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1951">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>Doneski k zgodovini Ljubljane v srednjem veku</title>
@@ -28155,7 +28165,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1950">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Nekaj vprašanj iz dobe naseljevanja južnih Slovanov</title>
@@ -28201,7 +28211,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1948">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Problemi in naloge slovenskega zgodovinopisja v našem času</title>
@@ -28282,7 +28292,7 @@ fronte v letu 1941</title>
          </issue>
       </year>
       <year n="1947">
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Problemi in naloge slovenskega zgodovinopisja v našem času</title>
@@ -29722,7 +29732,8 @@ fronte v letu 1941</title>
    <source>
       <pubTitle>Kronika slovenskih mest</pubTitle>
       <pubAddTitle>Kronika Mestne občine ljubljanske</pubAddTitle>
-      <issn>C501-1426. - 1580-9765</issn>
+      <issn>0501-1426</issn>
+      <issn>1580-9765</issn>
       <pubCobiss>4689155</pubCobiss>
       <year n="1940">
          <issue n="1">
@@ -29798,7 +29809,6 @@ fronte v letu 1941</title>
             <pubPart>
                <author>Pivec Stele Melita</author>
                <author>Pivec-Stele M.</author>
-               <title>Starejiši ženski samostani v Sloveniji</title>
                <title>Starejši ženski samostani v Sloveniji</title>
                <page>151-157</page>
                <citedIn count="3">
@@ -29816,7 +29826,6 @@ fronte v letu 1941</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="4"/>
       </year>
       <year n="1939">
          <issue n="1">
@@ -30292,7 +30301,7 @@ fronte v letu 1941</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Novak Ludvik</author>
                <title>Kopališče na Mariborskem otoku</title>
@@ -30418,7 +30427,7 @@ Orožen J.</author>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="">
+         <issue>
             <pubPart>
                <author>Baš Franjo</author>
                <title>Mariborski otok</title>
