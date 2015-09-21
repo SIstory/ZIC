@@ -87,7 +87,7 @@
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="collection"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="pubCobiss"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" ref="issn"/>
-        <xs:element minOccurs="0" ref="isbn"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="isbn"/>
         <xs:element minOccurs="0" ref="year"/>
         <xs:element ref="chapters"/>
       </xs:sequence>
