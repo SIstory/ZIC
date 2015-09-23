@@ -458,7 +458,7 @@
             <pubPart>
                <author>Massetto G. P.</author>
                <title>Il suicidio nella dottrina dell'eta di mezzo</title>
-               <addTitle>Suicide in 16th cenutry criminal science</addTitle>
+               <addTitle>Suicide in 16th Century criminal science</addTitle>
                <page>139-176</page>
                <citedIn count="1">
                   <cit did="1474" cid="14"/>
@@ -574,6 +574,7 @@
                <title>The United States and Slovenia</title>
                <title>1990-1992</title>
                <page>53-72</page>
+               <cobiss>620499</cobiss>
                <citedIn count="2">
                   <cit did="1297" cid="3"/>
                   <cit did="1289" cid="5"/>
@@ -610,6 +611,8 @@
             <pubPart>
                <author>Volk Sandi</author>
                <title>Zavezniška zakonodaja in vprašanje naselitve istrskih beguncev na ozemlju tržaških Slovencev</title>
+               <page>129-150</page>
+               <cobiss>660435</cobiss>
                <citedIn count="1">
                   <cit did="1763" cid="5"/>
                </citedIn>
@@ -618,6 +621,7 @@
                <author>Vratuša Anton</author>
                <title>Manifest Narodnoosvobodilnega odbora za severno Italijo (CLNAI) italijanskemu ljudstvu Julijske Benečije</title>
                <page>77-90</page>
+               <cobiss>659667</cobiss>
                <citedIn count="1">
                   <cit did="1782" cid="359"/>
                </citedIn>
@@ -628,8 +632,10 @@
          <issue n="1">
             <pubPart>
                <author>Bertoša Slaven</author>
-               <title>Ubojstva i smaknuda u Pulì (17.-19. stoljeće)</title>
+               <title>Ubojstva i smaknuda u Pulì</title>
+               <title>(17.-19. stoljeće)</title>
                <page>63-80</page>
+               <cobiss>614867</cobiss>
                <citedIn count="1">
                   <cit did="2873" cid="162"/>
                </citedIn>
@@ -637,15 +643,20 @@
             <pubPart>
                <author>Povolo C.</author>
                <title>Uvod</title>
+               <addTitle>Introduzione</addTitle>
+               <addTitle>Introduction</addTitle>
+               <page>I-LII</page>
+               <cobiss>611795</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="87"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Inscenirane usmrtitve : spreminjanje
-kaznovanja s smrtjo od 16. do 20. stoletja</title>
+               <title>Inscenirane usmrtitve</title>
+               <title>spreminjanje kaznovanja s smrtjo od 16. do 20. stoletja</title>
                <page>223-226</page>
+               <cobiss>616659</cobiss>
                <citedIn count="1">
                   <cit did="104" cid="45"/>
                </citedIn>
