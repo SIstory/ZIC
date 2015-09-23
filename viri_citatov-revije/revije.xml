@@ -3,6 +3,7 @@
  xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="NBH">Neja Blaj Hribar</docAuthor>
       <docTitle>Citiranost člankov v glavnih slovenskih revijah</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC BY 4.0</docRights>
@@ -44,6 +45,7 @@
                <author>Rožac Darovec Vida</author>
                <title>Narod, država in identitete v obmejnih prostorih</title>
                <page>217-228</page>
+               <cobiss>1821651</cobiss>
                <citedIn count="2">
                   <cit did="3077" cid="23"/>
                   <cit did="3268" cid="19"/>
@@ -75,6 +77,7 @@
                <author>Čeč Dragica, Kalc Aleksej</author>
                <title>Vzpostavitev modernega policijskega sistema v prostopristaniškem Trstu sredi 18. stoletja</title>
                <page>515-538</page>
+               <cobiss>1878227</cobiss>
                <citedIn count="1">
                   <cit did="3413" cid="8"/>
                </citedIn>
@@ -105,7 +108,9 @@
          <issue n="1-2">
             <pubPart correspPubId="2323">
                <author>Cvirn Janez</author>
-               <title>"To so dvonoge, kričeče in smrdljive bestije": Oblakovo potovanje v makedonijo (1891-1892)</title>
+               <title>"To so dvonogate, kričeče in smrdljive bestije" : Oblakovo potovanje v makedonijo (1891/92)</title>
+               <page>113-126</page>
+               <cobiss>39814498</cobiss>
                <citedIn count="1">
                   <cit did="2276" cid="12"/>
                </citedIn>
@@ -148,8 +153,10 @@
          <issue n="3">
             <pubPart>
                <author>Guštin Damijan</author>
-               <title>Južna železnica kot cilj operacij slovenskega odporniškega gibanja (1941-1945)</title>
                <title>Južna železnica kot cilj vojaških operacij slovenskega odporniškega gibanja (1941-1945)</title>
+               <addTitle>The southern railway line as the object of military operations by the Slovene resistance (1941-1945)</addTitle>
+               <page>325-342</page>
+               <cobiss>2561652</cobiss>
                <citedIn count="2">
                   <cit did="1908" cid="1"/>
                   <cit did="1906" cid="1"/>
@@ -430,8 +437,9 @@
          <issue n="1">
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>K zgodovini homoseksualnosti na Slovenskem ob koncu 19. in na začetku 20. stoletja</title>
                <title>K zgodovini homoseksualnosti na Slovenskem ob koncu 19. stoletja in na začetku 20. stoletja</title>
+               <page>231-239</page>
+               <cobiss>29353058</cobiss>
                <citedIn count="2">
                   <cit did="1735" cid="14"/>
                   <cit did="2016" cid="18"/>
@@ -440,7 +448,9 @@
             <pubPart>
                <author>Da Passano M.</author>
                <title>Il vagabondaggio nell'Italia dell'Ottocento</title>
+               <addTitle>Potepuštvo v Italiji 19. stoletja</addTitle>
                <page>51-92</page>
+               <cobiss>229009152</cobiss>
                <citedIn count="1">
                   <cit did="1499" cid="4"/>
                </citedIn>
@@ -448,6 +458,7 @@
             <pubPart>
                <author>Massetto G. P.</author>
                <title>Il suicidio nella dottrina dell'eta di mezzo</title>
+               <addTitle>Suicide in 16th cenutry criminal science</addTitle>
                <page>139-176</page>
                <citedIn count="1">
                   <cit did="1474" cid="14"/>
@@ -456,7 +467,8 @@
             <pubPart>
                <author>Pančur Andrej</author>
                <title>Ponarejanje denarja</title>
-               <page>12, 20-21</page>
+               <page>11-26</page>
+               <cobiss>1787508</cobiss>
                <citedIn count="1">
                   <cit did="298" cid="33"/>
                </citedIn>
@@ -467,6 +479,7 @@
                <author>Bajc Gorazd</author>
                <title>Italijanske misije v Furlaniji (1944-1945) v dokumentih Special Operations Executive</title>
                <page>147-168</page>
+               <cobiss>778451</cobiss>
                <citedIn count="2">
                   <cit did="1782" cid="20"/>
                   <cit did="1324" cid="16"/>
@@ -474,11 +487,10 @@
             </pubPart>
             <pubPart>
                <author>Kalc Aleksej</author>
-               <title>Prispevek za zgodovino slovenskega šolstva na Tržaškem: primer šole na Katinari od ustanovitve 1791 do prvih let 19. stoletja</title>
                <title>Prispevki za zgodovino slovenskega šolstva na Tržaškem</title>
                <title>Primer šole na Katinari od ustanovitve 1791 do prvih let 19. stoletja</title>
                <page>73–106</page>
-               <page>73-106</page>
+               <cobiss>777939</cobiss>
                <citedIn count="2">
                   <cit did="2763" cid="101"/>
                   <cit did="699" cid="2"/>
@@ -488,6 +500,7 @@
                <author>Klabjan Borut</author>
                <title>Italija in srednjeevropske povezave v polovici tridesetih let dvajsetega stoletja</title>
                <page>107-134</page>
+               <cobiss>778195</cobiss>
                <citedIn count="1">
                   <cit did="1782" cid="190"/>
                </citedIn>
@@ -496,8 +509,8 @@
                <author>Panjek A.</author>
                <author>Panjek Aleksander</author>
                <title>Fevdalna renta in agrarno gospodarstvo na Krasu na podlagi cenitev gospostev (1615-1637)</title>
-               <title>Fevdalna renta in agrarno gospodarstvo na
-Krasu na podlagi cenitev gospostev (1615-1637)</title>
+               <page>1-72</page>
+               <cobiss>777683</cobiss>
                <citedIn count="3">
                   <cit did="1938" cid="14"/>
                   <cit did="86" cid="69"/>
@@ -507,9 +520,9 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
             <pubPart>
                <author>Troha Nevenka</author>
                <title>Fojbe - zločin ali upravičeno kaznovanje</title>
-               <title>Fojbe - zločin ali upravičeno kaznovanje : odmevi aretacij, deportacij in usmrtitev med lokalnim prebivalstvom v Julijski krajini</title>
                <title>Odmevi aretacij, deportacij in usmrtitev med lokalnim prebivalstvom v Julijski krajini</title>
                <page>203-217</page>
+               <cobiss>1781108</cobiss>
                <citedIn count="2">
                   <cit did="1301" cid="6"/>
                   <cit did="2299" cid="184"/>
@@ -523,6 +536,7 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
                <author>Ferraris Luigi Vittorio</author>
                <title>Alcune considerazioni sulle relazioni italo-slovene</title>
                <page>81-102</page>
+               <cobiss>621011</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="58"/>
                </citedIn>
@@ -538,7 +552,10 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
             </pubPart>
             <pubPart>
                <author>Juri Aurelio</author>
-               <title>Z mirom na vojno - kontoverzno "vmešavanje" koprskih občinskih oblasti</title>
+               <title>Z mirom na vojno</title>
+               <title>kontoverzno "vmešavanje" koprskih občinskih oblasti</title>
+               <page>147-154</page>
+               <cobiss>624595</cobiss>
                <citedIn count="1">
                   <cit did="3240" cid="18"/>
                </citedIn>
@@ -546,15 +563,17 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
             <pubPart>
                <author>Pelikan Egon</author>
                <title>Katoliška cerkev v Sloveniji in leto 1991</title>
+               <page>221-232</page>
+               <cobiss>608723</cobiss>
                <citedIn count="1">
                   <cit did="1297" cid="8"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Ramet Sabrina Petra</author>
-               <title>The United States and Slovenia, 1990-1992</title>
-               <page>62, 63</page>
-               <page>54-57</page>
+               <title>The United States and Slovenia</title>
+               <title>1990-1992</title>
+               <page>53-72</page>
                <citedIn count="2">
                   <cit did="1297" cid="3"/>
                   <cit did="1289" cid="5"/>
@@ -566,6 +585,7 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
                <author>Bajc Gorazd</author>
                <title>Fašistična zakonodaja in Slovenci med obema vojnama</title>
                <page>19-40</page>
+               <cobiss>657875</cobiss>
                <citedIn count="1">
                   <cit did="1782" cid="19"/>
                </citedIn>
@@ -573,9 +593,9 @@ Krasu na podlagi cenitev gospostev (1615-1637)</title>
             <pubPart>
                <author>Stergar Janez</author>
                <author>Stergar janez</author>
-               <title>Republika Slovenija in zamejstvo</title>
                <title>Republika Slovenija in zamejstvo 1945-2002</title>
-               <title>Republika Slovenija in zamejstvo 1945–2002</title>
+               <page>99-128</page>
+               <cobiss>660179</cobiss>
                <citedIn count="8">
                   <cit did="2739" cid="4"/>
                   <cit did="3004" cid="12"/>
@@ -28349,6 +28369,10 @@ fronte v letu 1941</title>
    </source>
    <source>
       <pubTitle>Prispevki za zgodovino delavskega gibanja</pubTitle>
+      <pubAddTitle>Contributions to the history of worker's movement</pubAddTitle>
+      <pubAddTitle>Contributions á l'histoire du mouvement ouvrier</pubAddTitle>
+      <pubAddTitle>Beiträge zur Geschichte der Arbeiterbewegung</pubAddTitle>
+      <pubAddTitle>Soobščenija po istorii rabočego dviženija</pubAddTitle>
       <publisher>Inštitut za zgodovino delavskega gibanja</publisher>
       <issn>0555-1838</issn>
       <pubCobiss>16179458</pubCobiss>
@@ -29732,6 +29756,7 @@ fronte v letu 1941</title>
    <source>
       <pubTitle>Kronika slovenskih mest</pubTitle>
       <pubAddTitle>Kronika Mestne občine ljubljanske</pubAddTitle>
+      <publisher>Mestna občina Ljubljana</publisher>
       <issn>0501-1426</issn>
       <issn>1580-9765</issn>
       <pubCobiss>4689155</pubCobiss>
