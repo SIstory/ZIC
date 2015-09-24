@@ -665,16 +665,20 @@
          <issue n="2">
             <pubPart>
                <author>Faggion L.</author>
-               <title>Disordini in una famiglia dll'aristocrazia vicentina: i Trissino nella seconda meta del '500</title>
+               <title>Disordini in una famiglia dll'aristocrazia vicentina</title>
+               <title>i Trissino nella seconda meta del '500</title>
                <page>285-304</page>
+               <cobiss>617427</cobiss>
                <citedIn count="1">
                   <cit did="1920" cid="20"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kos Dušan</author>
-               <title>Vitez in ugrabljenka: nasilnik in njegova žrtev</title>
+               <title>Vitez in ugrabljenka</title>
+               <title>nasilnik in njegova žrtev</title>
                <page>517-548</page>
+               <cobiss>21452589</cobiss>
                <citedIn count="1">
                   <cit did="2647" cid="166"/>
                </citedIn>
@@ -690,8 +694,10 @@
             </pubPart>
             <pubPart>
                <author>Čoralić L.</author>
-               <title>Zločin ili junaštvo? - Kandijski rat u Dalmaciji prema kronici šibenskog povjesničara Franje Divniča</title>
+               <title>Zločin ili junaštvo?</title>
+               <title>Kandijski rat u Dalmaciji prema kronici šibenskog povjesničara Franje Divniča</title>
                <page>549-570</page>
+               <cobiss>619475</cobiss>
                <citedIn count="1">
                   <cit did="1482" cid="22"/>
                </citedIn>
@@ -703,6 +709,7 @@
             <pubPart>
                <author>Bratož Rajko</author>
                <title>Koprska škofija od prve omembe (599) do srede 8. stoletja</title>
+               <cobiss>20104034</cobiss>
                <citedIn count="1">
                   <cit did="2419" cid="11"/>
                </citedIn>
@@ -710,7 +717,6 @@
             <pubPart>
                <author>Darovec Darko</author>
                <title>Koprska škofija in Slovani od srednjega do novega veka</title>
-               <title>Koprska škofija in slovani od srednjega do novega veka</title>
                <page>73-120</page>
                <page>73-110</page>
                <cobiss>511443</cobiss>
@@ -725,6 +731,7 @@
                <author>Gombač Boris M.</author>
                <title>Tržaško-koprska škofija in Slovenci v času škofa Antona Santina (1938-1975)</title>
                <page>257-270</page>
+               <cobiss>511955</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="73"/>
                </citedIn>
@@ -732,8 +739,8 @@
             <pubPart>
                <author>Krahwinkler Harald</author>
                <title>The Church(es) of Aquileia, Friuli and Istria at the time of the Riziano placitum</title>
-               <title>The Church(es) of Aquileia, Friuli and Istria at the Time of the Riziano Placitum</title>
                <page>65-72</page>
+               <cobiss>124843776</cobiss>
                <citedIn count="2">
                   <cit did="745" cid="35"/>
                   <cit did="747" cid="18"/>
@@ -743,6 +750,7 @@
                <author>Mader B.</author>
                <title>Die glagolitischen Denkmaler im osterreichischen Kustenland aus  der Sicht der k.k. Zentralkommission fur Kunst- und historische Denkmale in Wien</title>
                <page>121-142</page>
+               <cobiss>124885760</cobiss>
                <citedIn count="1">
                   <cit did="1916" cid="19"/>
                </citedIn>
@@ -751,6 +759,7 @@
                <author>Vogrin Marjan</author>
                <title>Koprska škofija po letu 1945</title>
                <page>272-274</page>
+               <cobiss>124894208</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="199"/>
                </citedIn>
@@ -759,10 +768,8 @@
                <author>Štih P.</author>
                <author>Štih Peter</author>
                <title>Istra v času ustanovitve koprske škofije</title>
-               <title>Istra v času nastanka koprske škofije</title>
                <page>1-36</page>
-               <page>19</page>
-               <page>1-37</page>
+               <cobiss>20102754</cobiss>
                <citedIn count="5">
                   <cit did="1998" cid="35"/>
                   <cit did="2165" cid="17"/>
@@ -787,16 +794,20 @@
             </pubPart>
             <pubPart>
                <author>Bonin Zdenka</author>
-               <title>Oris razvoja koprskih bratovščin v času Beneške republike s posebnim poudarkom na Bratovščini svetega Antona opata puščavnika</title>
+               <title>Oris razvoja koprskih bratovščin v času Beneške republike, s posebnim poudarkom na Bratovščini svetega Antona opata puščavnika</title>
                <page>357-388</page>
+               <cobiss>124910848</cobiss>
                <citedIn count="1">
                   <cit did="2504" cid="1"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Piransko olje in koprska škofija: (začetek 13. stoletja)</title>
+               <title>Piransko olje in koprska škofija</title>
+               <title>(začetek 13. stoletja)</title>
+               <addTitle>The oil of Piran and the diocese of Koper (early 13th century)</addTitle>
                <page>311-320</page>
+               <cobiss>20343085</cobiss>
                <citedIn count="1">
                   <cit did="2796" cid="9"/>
                </citedIn>
@@ -819,21 +830,27 @@
                <author>Ferraro J. M.</author>
                <title>Honor and marriage wars of late renaissance Venice</title>
                <page>41-48</page>
+               <cobiss>328403</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="34"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Holz Eva</author>
-               <title>Uradniška čast v 18. stoletju. Razmere v avstrijski Istri v času vlade Marije Terezije</title>
+               <title>Uradniška čast v 18. stoletju.</title>
+               <title>Razmere v avstrijski Istri v času vlade Marije Terezije</title>
                <page>207-224</page>
+               <cobiss>17015597</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="49"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Lombardi D.</author>
-               <title>Scelta individuale e onore familiäre: conflitti matrimoni^ nella diocesi fiorentina tra '500 e '700</title>
+               <title>Scelta individuale e onore familiare</title>
+               <title>conflitti matrimoni^ nella diocesi fiorentina tra '500 e '700</title>
+               <page>111-128</page>
+               <cobiss>329939</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="69"/>
                </citedIn>
@@ -841,8 +858,9 @@
             <pubPart>
                <author>Mihelič Darja</author>
                <title>Ženska čast v istrskih mestih</title>
-               <title>Ženska čast v istrskih mestih (Trst, Koper. Izola, Piran, 14.-15. stoletje)</title>
+               <title>(Trst, Koper. Izola, Piran, 14.-15. stoletje)</title>
                <page>29-40</page>
+               <cobiss>17012525</cobiss>
                <citedIn count="2">
                   <cit did="2450" cid="28"/>
                   <cit did="2631" cid="215"/>
@@ -860,7 +878,7 @@
                <author>Povolo Claudio</author>
                <title>Uvod</title>
                <title>Introduzione</title>
-               <page>IV</page>
+               <page>I-XXXVII</page>
                <citedIn count="2">
                   <cit did="226" cid="164"/>
                   <cit did="1494" cid="26"/>
@@ -870,6 +888,7 @@
                <author>Stewart H. Frank</author>
                <title>Kaj je čast?</title>
                <page>1-12</page>
+               <cobiss>328147</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="185"/>
                </citedIn>
@@ -887,8 +906,11 @@
          <issue n="2">
             <pubPart>
                <author>Cargnegltitti L.</author>
-               <title>Matrimonio e onore di ceto: Una causa Udinese di fine settecento</title>
+               <title>Matrimonio e onore di ceto</title>
+               <title>Una causa Udinese di fine settecento</title>
+               <addTitle>Zakonska zveza in vprašanje časti v razredni družbi: proces v Vidmu s konca 18. stoletja</addTitle>
                <page>457-478</page>
+               <cobiss>120218112</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="11"/>
                </citedIn>
@@ -907,8 +929,10 @@
             </pubPart>
             <pubPart>
                <author>De Benedictis A.</author>
-               <title>L'onore delle magistrature: per un'individuazione della 'cultura politica' delle istituzioni in eta moderna - note su alcuni libri recenti</title>
+               <title>L'onore delle magistrature</title>
+               <title>per un'individuazione della 'cultura politica' delle istituzioni in eta moderna - note su alcuni libri recenti</title>
                <page>19-58</page>
+               <cobiss>178131</cobiss>
                <citedIn count="1">
                   <cit did="1995" cid="30"/>
                </citedIn>
@@ -917,8 +941,9 @@
          <issue n="2">
             <pubPart>
                <author>Trebbi G.</author>
-               <title>II concilio provinciale Aquileiese 1596 e la liturgia slava nell'lstria</title>
-               <page>199</page>
+               <title>Il concilio provinciale Aquileiese 1596 e la liturgia slava nell'lstria</title>
+               <page>191-200</page>
+               <cobiss>326867</cobiss>
                <citedIn count="1">
                   <cit did="1921" cid="19"/>
                </citedIn>
@@ -929,6 +954,7 @@
                <author>Melik Vasilij</author>
                <title>Istrski deželni zbor</title>
                <page>633-638</page>
+               <cobiss>7001677</cobiss>
                <citedIn count="2">
                   <cit did="2636" cid="94"/>
                   <cit did="1760" cid="118"/>
@@ -937,25 +963,30 @@
             <pubPart>
                <author>Mihelič Darja</author>
                <title>Odnos oblastnih ustanov do žensk in otrok v srednjeveških mestih severnozahodne Istre</title>
-               <title>Odnos oblastnih ustanov do žensk in otrok v sednejveških mestih severozahodne</title>
                <page>329-348</page>
+               <cobiss>178643</cobiss>
                <citedIn count="2">
                   <cit did="226" cid="136"/>
                   <cit did="3195" cid="8"/>
+                  <cit did="2631" cid="214"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Povolo C.</author>
-               <title>Ob rob raziskavam s področja poročne tematike (Beneška republika, 17.-18. stol.)</title>
+               <title>Ob rob raziskavam s področja poročne tematike</title>
+               <title>(Beneška republika, 17.-18. stol.)</title>
                <page>305-328</page>
+               <cobiss>119785216</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="84"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Ravegnani G.</author>
-               <title>L'Istria bizantina : le istituzioni militari ai confini dell'esarcato ravennate</title>
-               <page>77-83</page>
+               <title>L'Istria bizantina</title>
+               <title>istituzioni militari ai confini dell'esarcato ravennate</title>
+               <page>77-84</page>
+               <cobiss>5852465</cobiss>
                <citedIn count="1">
                   <cit did="759" cid="45"/>
                </citedIn>
@@ -964,8 +995,8 @@
                <author>Tato G.</author>
                <author>Tato Grazia</author>
                <title>Prestigio e influenza politica del potere economico a Trieste nelle carte della Deputazione di Borsa poi Camera di commercio</title>
-               <title>Prestigio c influenza politica del potere economico a Trieste nelle carte della Depu-tazionc di Borsa poi Camcra di commercio</title>
                <page>609-618</page>
+               <cobiss>242131</cobiss>
                <citedIn count="2">
                   <cit did="2636" cid="128"/>
                   <cit did="2397" cid="15"/>
@@ -1001,6 +1032,7 @@
                <author>Gabrič Aleš</author>
                <title>Slovenske kulturne ustanove na Primorskem med kulturnim in političnim poslanstvom</title>
                <page>347-368</page>
+               <cobiss>176595</cobiss>
                <citedIn count="1">
                   <cit did="733" cid="6"/>
                </citedIn>
@@ -1023,6 +1055,7 @@
                <author>Komac Miran</author>
                <title>Povojno nasilje v Beneški Sloveniji</title>
                <page>285-298</page>
+               <cobiss>6895949</cobiss>
                <citedIn count="2">
                   <cit did="786" cid="2"/>
                   <cit did="1782" cid="195"/>
@@ -1081,9 +1114,9 @@
             <pubPart>
                <author>Pahor M.</author>
                <author>Pahor Milan</author>
-               <title>Obujanje kulturno-prosvetnega delovanja v Trstu v letih 1945.- 1947.</title>
                <title>Obujanje kulturno-prosvetnega delovanja v Trstu v letih 1945-1947</title>
                <page>215-232</page>
+               <cobiss>174547</cobiss>
                <citedIn count="2">
                   <cit did="733" cid="13"/>
                   <cit did="814" cid="3"/>
@@ -1093,6 +1126,7 @@
                <author>Pirjevec Jože</author>
                <title>Pariška mirovna konferenca</title>
                <page>7-14</page>
+               <cobiss>171219</cobiss>
                <citedIn count="2">
                   <cit did="1511" cid="296"/>
                   <cit did="1434" cid="16"/>
@@ -1126,8 +1160,10 @@
             </pubPart>
             <pubPart>
                <author>Stuhlpfarrer K.</author>
-               <title>Trieste e Austria. Il primo lustro del secondo dopoguerra</title>
+               <title>Trieste e Austria</title>
+               <title>Il primo lustro del secondo dopoguerra</title>
                <page>253-260</page>
+               <cobiss>175059</cobiss>
                <citedIn count="1">
                   <cit did="3013" cid="48"/>
                </citedIn>
@@ -1174,7 +1210,8 @@
             <pubPart>
                <author>Zagradnik Maruša</author>
                <title>Odseljevanje in optiranje za italijansko državljanstvo iz dela Primorske, ki je bil z mirovno pogodbo priključen k LR Sloveniji</title>
-               <page>200, 201</page>
+               <page>187-202</page>
+               <cobiss>174035</cobiss>
                <citedIn count="1">
                   <cit did="722" cid="4"/>
                </citedIn>
@@ -1185,9 +1222,10 @@
          <issue n="5">
             <pubPart>
                <author>Darovec Darko</author>
-               <title>Merkantilistični poskus Gian Rinalda Carlija: predilnica v Cereju pri Kopru</title>
-               <title>»Merkantilistični poskus Gian Rinaldija Carlija - Predilnica v Cereju pri Kopru«</title>
+               <title>Merkantilistični poskus Gian Rinalda Carlija</title>
+               <title>predilnica v Cereju pri Kopru</title>
                <page>91-102</page>
+               <cobiss>2771</cobiss>
                <citedIn count="2">
                   <cit did="3539" cid="73"/>
                   <cit did="2018" cid="67"/>
@@ -1198,23 +1236,17 @@
                <author>Del negro P.</author>
                <title>Alcune note su Gian Rinaldo Carli tra Padova e Venezia</title>
                <page>135-156</page>
+               <cobiss>3768113</cobiss>
                <citedIn count="2">
                   <cit did="387" cid="25"/>
                   <cit did="387" cid="29"/>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Mihelič Darja</author>
-               <title>Odnos oblastnih ustanov do zensk in otrok v srednjeveških mestih severozahodne Istre</title>
-               <page>329-348</page>
-               <citedIn count="1">
-                  <cit did="2631" cid="214"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Stele France</author>
                <title>Moje življenje</title>
                <page>161-174</page>
+               <cobiss>6699565</cobiss>
                <citedIn count="1">
                   <cit did="1591" cid="9"/>
                </citedIn>
@@ -1234,6 +1266,7 @@
                <author>Žitko Salvatore</author>
                <title>Sistemi oblasti v Istri v prehodnem obdobju (1797-1815)</title>
                <page>577-598</page>
+               <cobiss>179923</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="159"/>
                </citedIn>
@@ -1244,9 +1277,10 @@
          <issue n="4">
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Kaznovanje prestopkov v srednjeveških
-severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
-               <page>5</page>
+               <title>Kaznovanje prestopkov v srednjeveških severozahodnoistrskih mestih</title>
+               <title>Kdo izgubi roko, nogo, oko, glavo?</title>
+               <page>5-24</page>
+               <cobiss>4351533</cobiss>
                <citedIn count="1">
                   <cit did="104" cid="37"/>
                </citedIn>
@@ -1269,8 +1303,10 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
             </pubPart>
             <pubPart>
                <author>Filipi Goran</author>
-               <title>Elementi linguistic! slavi e preromanzi nella carta del Placito di Risano</title>
+               <title>Elementi linguistici slavi e preromanzi nella carta del Placito di Risano</title>
+               <title>ovvero tentativo mancato di stabilirli</title>
                <page>31-36</page>
+               <cobiss>1541169</cobiss>
                <citedIn count="1">
                   <cit did="765" cid="12"/>
                </citedIn>
@@ -1278,9 +1314,9 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
             <pubPart>
                <author>Margetić Lujo</author>
                <title>Neka pitanja prijelaza vlasti nad Istrom od Bizanta na Franke</title>
-               <title>Neka pitanja prijelaza vlasti nad Istrom od Bizanta na Franke/ Sul passaggio del potere sull'Istria da Bisanzio ai Franchi</title>
+               <addTitle>Sul passaggio del potere sull'Istria da Bisanzio ai Franchi</addTitle>
                <page>5-14</page>
-               <page>5-24</page>
+               <cobiss>1540401</cobiss>
                <citedIn count="2">
                   <cit did="749" cid="10"/>
                   <cit did="745" cid="39"/>
@@ -1290,6 +1326,7 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
                <author>Šribar Vinko</author>
                <title>Prispevek arheologije k interpretaciji listine o rižanskem placitu</title>
                <page>103-114</page>
+               <cobiss>1560625</cobiss>
                <citedIn count="1">
                   <cit did="768" cid="27"/>
                </citedIn>
@@ -1299,12 +1336,11 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
             <pubPart>
                <author>Bratož Rajko</author>
                <title>Istrska cerkev v 7. in 8. stoletju</title>
-               <title>Istrska cerkev v 7. in 8. stoletju (od smrti Gregorija Velikega do Rižanskega placita)</title>
-               <title>Istrska cerkev v 7. in 8. stoletju (od smrti Gregorija Velikega do Rižanskega placita)/La chiesa istriana nel VII e nell'VIII secolo (dalla morte di Gregorio Magno al placito del Risano)</title>
-               <title>Istrska cerkev v 7. in 8. stoletju (od smrti Gregorja Velikega do Rižanskega placita)</title>
+               <title>(od smrti Gregorija Velikega do Rižanskega placita)</title>
+               <addTitle>La chiesa istriana nel VII e nell'VIII secolo (dalla morte di Gregorio Magno al placito del Risano)</addTitle>
                <page>53-78</page>
-               <page>53-77</page>
                <page>53-64</page>
+               <cobiss>1559601</cobiss> 
                <citedIn count="4">
                   <cit did="2408" cid="22"/>
                   <cit did="749" cid="2"/>
@@ -1314,9 +1350,9 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
             </pubPart>
             <pubPart>
                <author>Cova U.</author>
-               <title>La prima annesione dell'Istria ex veneziana al Litorale austriaco nel 1804 e l'ufficio circolare dell' Istria in Capodistria</title>
-               <title>La prima annessione dell' Istra ex veneziana al Litorale austriaco nel 1804 e l'Ufficio circolare dell' Istria in Capodistria</title>
+               <title>La prima annessione dell'Istria ex veneziana al Litorale austriaco nel 1804 e l'Ufficio circolare dell'Istria in Capodistria</title>
                <page>201-208</page>
+               <cobiss>1605169</cobiss>
                <citedIn count="2">
                   <cit did="2636" cid="27"/>
                   <cit did="3513" cid="4"/>
@@ -1325,7 +1361,8 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
             <pubPart>
                <author>Darovec Darko</author>
                <title>Vicedomini, notarji in kancelarji med poklicem in oblastjo v severni Istri</title>
-               <page>39</page>
+               <page>37-54</page>
+               <cobiss>1564465</cobiss>
                <citedIn count="1">
                   <cit did="255" cid="16"/>
                </citedIn>
@@ -1334,14 +1371,16 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
                <author>Dorsi P.</author>
                <title>La prima fase di ripristino dell' ordinamento austriaco nell' lstria gia veneziana: i decreti Nugent del settembre 1813</title>
                <page>209-230</page>
+               <cobiss>1605425</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="36"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Vsakdanje življenje istrskih prebivalcev...</title>
+               <title>Vsakdanje življenje istrskih prebivalcev, kot ga odsevajo nekateri objavljeni mestni statuti</title>
                <page>173-181</page>
+               <cobiss>1581105</cobiss>
                <citedIn count="1">
                   <cit did="2950" cid="13"/>
                </citedIn>
@@ -1350,6 +1389,7 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
                <author>Zamperetti S.</author>
                <title>Investiture feudali e conflitti locali nell'Istria del '700: il caso dei conti Becich e della città di Parenzo</title>
                <page>71-82</page>
+               <cobiss>1566001</cobiss>
                <citedIn count="1">
                   <cit did="1483" cid="20"/>
                </citedIn>
@@ -1401,6 +1441,7 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
                <author>Jurčič Čargo Daniela</author>
                <title>Pregled upravnega razvoja Pazinske grofije v letih od 1374-1809</title>
                <page>61-70</page>
+               <cobiss>500017</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="41"/>
                </citedIn>
@@ -1409,6 +1450,7 @@ severozahodnoistrskih mestih : Kdo izgubi roko, nogo, oko, glavo?</title>
                <author>Žitko Salvatore</author>
                <title>Slovenska Istra v 19. stoletju s političnega, upravnega in nacionalnega vidika</title>
                <page>109-116</page>
+               <cobiss>506161</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="158"/>
                </citedIn>
