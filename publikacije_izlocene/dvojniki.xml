@@ -723,6 +723,17 @@
         <cobiss>9667149</cobiss>
         <citations count="0"/>
     </pubPart>
-    
+   
+    <pubPart did="1990">
+        <!-- dvojnik 2214, kjer niso bili prepisani vsi citati -->
+        <author>Ratej, Mateja</author>
+        <title>(Nevralgična) stičišča političnega sodelovanja Slovenske ljudske in Narodne radikalne stranke med obema svetovnima vojnama</title>
+        <page>409-426</page>
+        <cobiss>29260845</cobiss>
+        <citations count="2">
+            <cit did="1990" cid="1"/>
+            <cit did="1990" cid="2"/>
+        </citations>
+    </pubPart>
     
 </root>

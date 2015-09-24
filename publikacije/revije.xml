@@ -41727,70 +41727,6 @@
                   <cit did="2412" cid="84"/>
                </citations>
             </pubPart>
-            <!-- preveri pravilnost spodnjega vpisa -->
-            <pubPart did="2214">
-               <author>Ratej, Mateja</author>
-               <title>(Nevralgična) stičišča političnega sodelovanja Slovenske ljudske in Narodne radikalne stranke med obema svetovnima vojnama</title>
-               <page>409-426</page>
-               <cobiss>29260845</cobiss>
-               <citations count="55">
-                  <cit did="2214" cid="1"/>
-                  <cit did="2214" cid="2"/>
-                  <cit did="2214" cid="3"/>
-                  <cit did="2214" cid="4"/>
-                  <cit did="2214" cid="5"/>
-                  <cit did="2214" cid="6"/>
-                  <cit did="2214" cid="7"/>
-                  <cit did="2214" cid="8"/>
-                  <cit did="2214" cid="9"/>
-                  <cit did="2214" cid="10"/>
-                  <cit did="2214" cid="11"/>
-                  <cit did="2214" cid="12"/>
-                  <cit did="2214" cid="13"/>
-                  <cit did="2214" cid="14"/>
-                  <cit did="2214" cid="15"/>
-                  <cit did="2214" cid="16"/>
-                  <cit did="2214" cid="17"/>
-                  <cit did="2214" cid="18"/>
-                  <cit did="2214" cid="19"/>
-                  <cit did="2214" cid="20"/>
-                  <cit did="2214" cid="21"/>
-                  <cit did="2214" cid="22"/>
-                  <cit did="2214" cid="23"/>
-                  <cit did="2214" cid="24"/>
-                  <cit did="2214" cid="25"/>
-                  <cit did="2214" cid="26"/>
-                  <cit did="2214" cid="27"/>
-                  <cit did="2214" cid="28"/>
-                  <cit did="2214" cid="29"/>
-                  <cit did="2214" cid="30"/>
-                  <cit did="2214" cid="31"/>
-                  <cit did="2214" cid="32"/>
-                  <cit did="2214" cid="33"/>
-                  <cit did="2214" cid="34"/>
-                  <cit did="2214" cid="35"/>
-                  <cit did="2214" cid="36"/>
-                  <cit did="2214" cid="37"/>
-                  <cit did="2214" cid="38"/>
-                  <cit did="2214" cid="39"/>
-                  <cit did="2214" cid="40"/>
-                  <cit did="2214" cid="41"/>
-                  <cit did="2214" cid="42"/>
-                  <cit did="2214" cid="43"/>
-                  <cit did="2214" cid="44"/>
-                  <cit did="2214" cid="45"/>
-                  <cit did="2214" cid="46"/>
-                  <cit did="2214" cid="47"/>
-                  <cit did="2214" cid="48"/>
-                  <cit did="2214" cid="49"/>
-                  <cit did="2214" cid="50"/>
-                  <cit did="2214" cid="51"/>
-                  <cit did="2214" cid="52"/>
-                  <cit did="2214" cid="53"/>
-                  <cit did="2214" cid="54"/>
-                  <cit did="2214" cid="55"/>
-               </citations>
-            </pubPart>
          </issue>
       </year>
       <year n="2008">
@@ -42419,15 +42355,67 @@
                   <cit did="2207" cid="94"/>
                </citations>
             </pubPart>
-            <!-- preveri pravilnost spodnjega vpisa -->
-            <pubPart did="1990">
+            <pubPart did="2214">
                <author>Ratej, Mateja</author>
                <title>(Nevralgična) stičišča političnega sodelovanja Slovenske ljudske in Narodne radikalne stranke med obema svetovnima vojnama</title>
                <page>409-426</page>
                <cobiss>29260845</cobiss>
-               <citations count="2">
-                  <cit did="1990" cid="1"/>
-                  <cit did="1990" cid="2"/>
+               <citations count="55">
+                  <cit did="2214" cid="1"/>
+                  <cit did="2214" cid="2"/>
+                  <cit did="2214" cid="3"/>
+                  <cit did="2214" cid="4"/>
+                  <cit did="2214" cid="5"/>
+                  <cit did="2214" cid="6"/>
+                  <cit did="2214" cid="7"/>
+                  <cit did="2214" cid="8"/>
+                  <cit did="2214" cid="9"/>
+                  <cit did="2214" cid="10"/>
+                  <cit did="2214" cid="11"/>
+                  <cit did="2214" cid="12"/>
+                  <cit did="2214" cid="13"/>
+                  <cit did="2214" cid="14"/>
+                  <cit did="2214" cid="15"/>
+                  <cit did="2214" cid="16"/>
+                  <cit did="2214" cid="17"/>
+                  <cit did="2214" cid="18"/>
+                  <cit did="2214" cid="19"/>
+                  <cit did="2214" cid="20"/>
+                  <cit did="2214" cid="21"/>
+                  <cit did="2214" cid="22"/>
+                  <cit did="2214" cid="23"/>
+                  <cit did="2214" cid="24"/>
+                  <cit did="2214" cid="25"/>
+                  <cit did="2214" cid="26"/>
+                  <cit did="2214" cid="27"/>
+                  <cit did="2214" cid="28"/>
+                  <cit did="2214" cid="29"/>
+                  <cit did="2214" cid="30"/>
+                  <cit did="2214" cid="31"/>
+                  <cit did="2214" cid="32"/>
+                  <cit did="2214" cid="33"/>
+                  <cit did="2214" cid="34"/>
+                  <cit did="2214" cid="35"/>
+                  <cit did="2214" cid="36"/>
+                  <cit did="2214" cid="37"/>
+                  <cit did="2214" cid="38"/>
+                  <cit did="2214" cid="39"/>
+                  <cit did="2214" cid="40"/>
+                  <cit did="2214" cid="41"/>
+                  <cit did="2214" cid="42"/>
+                  <cit did="2214" cid="43"/>
+                  <cit did="2214" cid="44"/>
+                  <cit did="2214" cid="45"/>
+                  <cit did="2214" cid="46"/>
+                  <cit did="2214" cid="47"/>
+                  <cit did="2214" cid="48"/>
+                  <cit did="2214" cid="49"/>
+                  <cit did="2214" cid="50"/>
+                  <cit did="2214" cid="51"/>
+                  <cit did="2214" cid="52"/>
+                  <cit did="2214" cid="53"/>
+                  <cit did="2214" cid="54"/>
+                  <cit did="2214" cid="55"/>
                </citations>
             </pubPart>
          </issue>
