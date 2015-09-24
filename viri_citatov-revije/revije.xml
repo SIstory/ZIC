@@ -1469,7 +1469,9 @@
          <issue n="2">
             <pubPart correspPubId="3047">
                <author>Ali S.</author>
-               <title>Mixed »Race« Policy</title>
+               <title>Mixed Race Policy</title>
+               <page>237-248</page>
+               <cobiss>2136787</cobiss>
                <citedIn count="1">
                   <cit did="3049" cid="1"/>
                </citedIn>
@@ -1480,8 +1482,10 @@
          <issue n="2">
             <pubPart>
                <author>Erjavec K., Poler Kovačič M.</author>
-               <title>Nevv Divisions - Nevv Exclusions? Slovenian and Croatian Nevvs Discourses about the Schengen Border</title>
+               <title>New Divisions - new Exclusions?</title>
+               <title>Slovenian and Croatian Nevvs Discourses about the Schengen Border</title>
                <page>495-506</page>
+               <cobiss>30127453</cobiss>
                <citedIn count="1">
                   <cit did="3077" cid="10"/>
                </citedIn>
@@ -1493,10 +1497,9 @@
             <pubPart>
                <author>Kalc A.</author>
                <author>Kalc Aleksej</author>
-               <title>Tržaški teritorij v luči konskripcije iz let 1777/1778: prvi izsledki</title>
-               <title>Tržaški teritorij v luči konskripcije 1777/78. Prvi izsledki</title>
+               <title>Tržaški teritorij v luči konskripcije iz let 1777/1778</title>
+               <title>prvi izsledki</title>
                <page>59-88</page>
-               <page>1-30</page>
                <citedIn count="3">
                   <cit did="2362" cid="10"/>
                   <cit did="2040" cid="14"/>
@@ -1522,8 +1525,8 @@
             <pubPart>
                <author>Sedmak Mateja</author>
                <title>Manjšine in skupinske (etnične) identitete: primerjalna študija slovenske in italijanske manjšine</title>
-               <title>Manjšinske in skupinske (etnične) identitete: primerjalna študija slovenske in italijanske manjšine</title>
                <page>205-220</page>
+               <cobiss>1638611</cobiss>
                <citedIn count="2">
                   <cit did="3056" cid="31"/>
                   <cit did="2672" cid="28"/>
@@ -1725,9 +1728,9 @@
          <issue n="1">
             <pubPart>
                <author>Bufon Milan</author>
-               <title>Central-eastern and South-eastern Europe : an area of geopolitical and geocultural contact</title>
                <title>Central-eastern and south-eastern Europe : an area of geopolitical and geocultural contact</title>
                <page>97-108</page>
+               <cobiss>732627</cobiss>
                <citedIn count="3">
                   <cit did="673" cid="15"/>
                   <cit did="400" cid="6"/>
@@ -1736,8 +1739,9 @@
             </pubPart>
             <pubPart>
                <author>Pavlin Vojko</author>
-               <title>Goriška in habsburško-beneški odnosi v luči Dnevnikov Marina Sanuda</title>
+               <title>Goriška in habsburško-beneški odnosi v luči dnevnikov Marina Sanuda</title>
                <page>17-34</page>
+               <cobiss>731091</cobiss>
                <citedIn count="1">
                   <cit did="2424" cid="11"/>
                </citedIn>
@@ -1745,9 +1749,9 @@
             <pubPart>
                <author>Rajh B.</author>
                <author>Rajh Bernard</author>
-               <title>Besedno prevzemanje iz nemščine v severovzhodnoprleški govor</title>
                <title>Besedno prevzemanje iz nemščine v severozahodnoprleški govor</title>
                <page>195-202</page>
+               <cobiss>734419</cobiss>
                <citedIn count="2">
                   <cit did="394" cid="13"/>
                   <cit did="2076" cid="16"/>
@@ -1766,8 +1770,10 @@
          <issue n="2">
             <pubPart>
                <author>Breznik M.</author>
-               <title>»Some theses for social history of culture during italian renaissance: culture as "gift exchange"«</title>
+               <title>Some theses for social history of culture during italian renaissance</title>
+               <title>culture as "gift exchange"«</title>
                <page>257-268</page>
+               <cobiss>807891</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="37"/>
                </citedIn>
@@ -1775,15 +1781,19 @@
             <pubPart>
                <author>Flego S.</author>
                <title>Pejca v Lascu: zakaj in čemu?</title>
+               <title>diskusija k članku T. Fabca)</title>
                <page>431-432</page>
+               <cobiss>813011</cobiss>
                <citedIn count="1">
                   <cit did="1916" cid="14"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Sedmak Mateja</author>
-               <title>Dinamika medetničnih odnosov v slovenski Istri: avtohtoni versus priseljeni</title>
+               <title>Dinamika medetničnih odnosov v slovenski Istri</title>
+               <title>avtohtoni versus priseljeni</title>
                <page>291-302</page>
+               <cobiss>805075</cobiss>
                <citedIn count="1">
                   <cit did="2808" cid="15"/>
                </citedIn>
@@ -1792,6 +1802,7 @@
                <author>Skubic M.</author>
                <title>Prevzete besede in kalki na zahodnem slovenskem jezikovnem območju</title>
                <page>315-322</page>
+               <cobiss>808147</cobiss>
                <citedIn count="1">
                   <cit did="1984" cid="15"/>
                </citedIn>
@@ -1800,6 +1811,7 @@
                <author>Stramljič Breznik Irena</author>
                <title>Germanizmi v zahodnem slovenskogoriškem podnarečju</title>
                <page>331-336</page>
+               <cobiss>811475</cobiss>               
                <citedIn count="1">
                   <cit did="2076" cid="21"/>
                </citedIn>
@@ -1811,9 +1823,10 @@
             <pubPart>
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
-               <title>Minorities, regional transformation and integration in borderlands: a case study</title>
-               <title>Minorities, Regional Transformation and Integration in Borderlands: A Case Study</title>
+               <title>Minorities, regional transformation and integration in borderlands</title>
+               <title>a case study</title>
                <page>1-8</page>
+               <cobiss>574163</cobiss>
                <citedIn count="2">
                   <cit did="1922" cid="12"/>
                   <cit did="2658" cid="11"/>
@@ -1836,16 +1849,20 @@
             </pubPart>
             <pubPart>
                <author>Klabjan Borut</author>
-               <title>Fašistična Italija na Slovaškem: odnosi med Italijo in Slovaško od Mussolinijevega vzpona na oblast do njegove kapitulacije</title>
+               <title>Fašistična Italija na Slovaškem</title>
+               <title>odnosi med Italijo in Slovaško od Mussolinijevega vzpona na oblast do njegove kapitulacije</title>
                <page>149-162</page>
+               <cobiss>581075</cobiss>
                <citedIn count="1">
                   <cit did="1782" cid="189"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Plazar Mlakar M.</author>
-               <title>Določitev sinergetskih učinkov razvojnih potencialov mesta - primer mesta Koper</title>
+               <title>Določitev sinergetskih učinkov razvojnih potencialov mesta</title>
+               <title>primer mesta Koper</title>
                <page>163-180</page>
+               <cobiss>575187</cobiss>
                <citedIn count="1">
                   <cit did="415" cid="23"/>
                </citedIn>
@@ -1854,6 +1871,7 @@
                <author>Santoro Stefano</author>
                <title>La diplomazia culturale italiana in Jugoslavia durante il fascismo</title>
                <page>125-148</page>
+               <cobiss>581331</cobiss>
                <citedIn count="1">
                   <cit did="1782" cid="290"/>
                </citedIn>
@@ -1880,9 +1898,10 @@
             </pubPart>
             <pubPart>
                <author>Kovačič Mojca</author>
-               <title>Meretrix publica in putana v istrskih in osrednjih slovenskih mestih</title>
-               <title>'Meretrix puhlica' in 'putana' v istrskih in osrednjih slovenskih mestih: o prostituciji v srednjem veku</title>
+               <title>'Meretrix puhlica' in 'putana' v istrskih in osrednjih slovenskih mestih</title>
+               <title>o prostituciji v srednjem veku</title>
                <page>311-326</page>
+               <cobiss>652243</cobiss>
                <citedIn count="2">
                   <cit did="2450" cid="29"/>
                   <cit did="1762" cid="82"/>
@@ -1890,8 +1909,10 @@
             </pubPart>
             <pubPart>
                <author>Lusa S.</author>
-               <title>Diego de Castro (1907-2003)</title>
+               <title>Diego de Castro</title>
+               <title>(1907-2003)</title>
                <page>447-465</page>
+               <cobiss>655827</cobiss>
                <citedIn count="1">
                   <cit did="426" cid="10"/>
                </citedIn>
@@ -1907,9 +1928,9 @@
             <pubPart>
                <author>Sedmak M.</author>
                <author>Sedmak Mateja</author>
-               <title>Stališča mladih slovenske Istre do kulturnuh fenomenov okolja bivanja</title>
                <title>Stališča mladih slovenske Istre do (med)kulturnih fenomenov okolja bivanja</title>
                <page>405-424</page>
+               <cobiss>651475</cobiss>
                <citedIn count="2">
                   <cit did="415" cid="24"/>
                   <cit did="3056" cid="29"/>
@@ -1919,6 +1940,7 @@
                <author>Župančič Matej</author>
                <title>Kamnita zgodnjesrednjeveška ornamentirana fragmenta iz okolice Kopra</title>
                <page>247-256</page>
+               <cobiss>650195</cobiss>
                <citedIn count="1">
                   <cit did="765" cid="25"/>
                </citedIn>
@@ -1952,7 +1974,7 @@
                <author>Matković Stjepan</author>
                <title>Obrisi hrvatsko-slovenskih odnosa u politici krajem 19. i početkom 20. stoljeća</title>
                <page>11-20</page>
-               <page>15</page>
+               <cobiss>533459</cobiss>
                <citedIn count="2">
                   <cit did="1760" cid="115"/>
                   <cit did="29" cid="278"/>
@@ -2007,10 +2029,10 @@
             <pubPart>
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
-               <title>Slovenia - a European contact and border area</title>
-               <title>Slovenia - a European Contact and Border Area</title>
-               <title>Slovenia : a European contact and border area</title>
+               <title>Slovenia</title>
+               <title>- a European contact and border area</title>
                <page>445-472</page>
+               <cobiss>525523</cobiss>
                <citedIn count="3">
                   <cit did="1922" cid="10"/>
                   <cit did="2658" cid="9"/>
@@ -2019,16 +2041,18 @@
             </pubPart>
             <pubPart>
                <author>Darovec Darko</author>
-               <title>Fiscal policy and economy in Venetian Istria.</title>
+               <title>Fiscal policy and economy in Venetian Istria</title>
                <page>285-306</page>
+               <cobiss>523731</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="83"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Horvat Jasna</author>
-               <title>Pictorial Sources for Objects belonging to residental Interiors on Medieval...</title>
-               <page>270</page>
+               <title>Pictorial sources for objects belonging to residential interiors on medieval wall paintings in Slovenia</title>
+               <page>269-284</page>
+               <cobiss>8843569</cobiss>
                <citedIn count="1">
                   <cit did="2211" cid="42"/>
                </citedIn>
@@ -2036,8 +2060,8 @@
             <pubPart>
                <author>Mihelič Darja</author>
                <title>Crafts and Trades practised by Women in Urban Settlements in the Territory of Slovenia during the Middle and Early Modern Ages</title>
-               <title>Crafts and Trades practised by women</title>
                <page>307-320</page>
+               <cobiss>8844337</cobiss>
                <citedIn count="2">
                   <cit did="2211" cid="44"/>
                   <cit did="2450" cid="26"/>
@@ -2046,7 +2070,8 @@
             <pubPart>
                <author>Mikolič V.</author>
                <title>Slovene and Italian languages in contact in the ethnically mixed area of Slovene Istria</title>
-               <page>421-435</page>
+               <page>421-436</page>
+               <cobiss>525011</cobiss>
                <citedIn count="1">
                   <cit did="1984" cid="10"/>
                </citedIn>
@@ -2055,6 +2080,7 @@
                <author>Schefer J. L.</author>
                <title>A propos des fresques de Hrastovlje - notes sur le programme iconographique</title>
                <page>255-268</page>
+               <cobiss>8843057</cobiss>
                <citedIn count="1">
                   <cit did="712" cid="21"/>
                </citedIn>
@@ -2085,8 +2111,9 @@
             </pubPart>
             <pubPart>
                <author>Flego Stanko, Rupel L., Župančič M.</author>
-               <title>Contributo alia conoscenza dei siti archeologici sul declivio tra Sistiana e Grignano</title>
+               <title>Contributo alla conoscenza dei siti archeologici sul declivio tra Sistiana e Grignano</title>
                <page>157-180</page>
+               <cobiss>453075</cobiss>
                <citedIn count="1">
                   <cit did="751" cid="11"/>
                </citedIn>
@@ -2095,7 +2122,8 @@
                <author>Holz Eva</author>
                <title>Sol kot državni monopol</title>
                <title>Od cesarice Marije Terezije do marčne revolucije leta 1848</title>
-               <page>339-348</page>
+               <page>105-120</page>
+               <cobiss>452051</cobiss>
                <citedIn count="1">
                   <cit did="919" cid="11"/>
                </citedIn>
@@ -2142,6 +2170,7 @@
                <author>Kerma S., Plesec T.</author>
                <title>Slovenska Istra - laboratorij za preučevanje regionalne identitete</title>
                <page>309-318</page>
+               <cobiss>457683</cobiss>
                <citedIn count="1">
                   <cit did="731" cid="3"/>
                </citedIn>
@@ -2159,8 +2188,10 @@
             </pubPart>
             <pubPart>
                <author>Stokin M.</author>
-               <title>Simonov zaliv: Antična vila</title>
+               <title>Simonov zaliv</title>
+               <title>antična vila</title>
                <page>405-412</page>
+               <cobiss>483795</cobiss>
                <citedIn count="1">
                   <cit did="1946" cid="25"/>
                </citedIn>
@@ -2173,6 +2204,7 @@
                <author>Bajc Gorazd</author>
                <title>Slovenski Primorec in razhajanja s Primorskim dnevnikom</title>
                <page>139-152</page>
+               <cobiss>319443</cobiss>
                <citedIn count="3">
                   <cit did="2558" cid="5"/>
                   <cit did="1432" cid="2"/>
@@ -2213,25 +2245,26 @@
                <author>Pletikosič I.</author>
                <title>Migracije v Piranu med drugo svetovno vojno in neposredno po njej</title>
                <page>217-230</page>
+               <cobiss>320979</cobiss>
                <citedIn count="1">
                   <cit did="734" cid="15"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Pupo R.</author>
-               <title>Orientamenti della piü recente storiografia Italiana sull'esodo istriano</title>
+               <title>Orientamenti della più recente storiografia italiana sull'esodo Istriano</title>
                <page>165-170</page>
+               <cobiss>319955</cobiss>
                <citedIn count="1">
                   <cit did="734" cid="18"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Troha Nevenka</author>
-               <title>Provvedimenti delle autorità jugoslave nelle Zone B della Venezia Giulia e del Territorio libera di Trieste e gli italiani nel capodistriano</title>
-               <title>Ukrepi jugoslovanskih oblasti v conah B Julijske krajine in Svobodnega trÅ¾aÅ¡kega ozemlja in Italijani na Koprskem</title>
                <title>Ukrepi jugoslovanskih oblasti v conah B Julijske krajine in Svobodnega tržaškega ozemlja in Italijani na Koprskem</title>
+               <addTitle>Provvedimenti delle autorità jugoslave nelle Zone B della Venezia Giulia e del Territorio libera di Trieste e gli italiani nel capodistriano</addTitle>
                <page>203-216</page>
-               <page>203</page>
+               <cobiss>320723</cobiss>
                <citedIn count="5">
                   <cit did="720" cid="80"/>
                   <cit did="476" cid="5"/>
@@ -2244,6 +2277,7 @@
                <author>Zupančič M., Cunja R.</author>
                <title>K lončarski delavnici Kopru</title>
                <page>77-82</page>
+               <cobiss>318419</cobiss>
                <citedIn count="1">
                   <cit did="1952" cid="20"/>
                </citedIn>
@@ -2252,8 +2286,9 @@
          <issue n="2">
             <pubPart>
                <author>Argenti Tremul A.</author>
-               <title>Analisi dell'esodo dall'Istria nord-occidentale da parte della  stampa ufficiale dell'epoca</title>
+               <title>Analisi dell'esodo dall'Istria nord-occidentale da parte della stampa ufficiale dell'epoca</title>
                <page>393-410</page>
+               <cobiss>339155</cobiss>
                <citedIn count="1">
                   <cit did="1324" cid="11"/>
                </citedIn>
@@ -2282,6 +2317,7 @@
                <author>Krmac Dean</author>
                <title>Analisi dei movimenti migratori istriani nei censimenti asburgici (1857-1910)</title>
                <page>357-370</page>
+               <cobiss>338387</cobiss>
                <citedIn count="1">
                   <cit did="1624" cid="62"/>
                </citedIn>
@@ -2290,6 +2326,7 @@
                <author>Mahnič Andrej</author>
                <title>Nekaj drobcev iz zgodovine vinarstva</title>
                <page>565-568</page>
+               <cobiss>341971</cobiss>
                <citedIn count="1">
                   <cit did="1610" cid="7"/>
                </citedIn>
@@ -2307,6 +2344,7 @@
                <author>Vidrih Perko Verena</author>
                <title>Amfore v Sloveniji</title>
                <page>421-456</page>
+               <cobiss>339667</cobiss>
                <citedIn count="1">
                   <cit did="2787" cid="44"/>
                </citedIn>
@@ -2319,8 +2357,8 @@
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
                <title>Evropski manjsinski jeziki med standardizacijo in novimi razvojnimi perspektivami</title>
-               <title>Evropski manjšinski jeziki med standardizacijo in novimi razvojnimi perspektivami</title>
                <page>133-142</page>
+               <cobiss>254931</cobiss>
                <citedIn count="2">
                   <cit did="1922" cid="8"/>
                   <cit did="2658" cid="7"/>
@@ -2329,7 +2367,8 @@
             <pubPart>
                <author>Marušič Branko</author>
                <title>Pregled društvene dejavnosti v Avstrijskem primorju (1848-1918)</title>
-               <page>164</page>
+               <page>163-192</page>
+               <cobiss>256211</cobiss>
                <citedIn count="1">
                   <cit did="1317" cid="318"/>
                </citedIn>
@@ -2348,6 +2387,7 @@
                <author>Šav Vlado</author>
                <title>Obred in gledališče</title>
                <page>231-242</page>
+               <cobiss>256723</cobiss>
                <citedIn count="1">
                   <cit did="3084" cid="19"/>
                </citedIn>
@@ -2374,7 +2414,8 @@
             <pubPart>
                <author>Rossi Marino</author>
                <title>Prigioneri della pace</title>
-               <page>421</page>
+               <page>409-422</page>
+               <cobiss>267731</cobiss>
                <citedIn count="1">
                   <cit did="2433" cid="14"/>
                </citedIn>
@@ -2391,8 +2432,8 @@
             <pubPart>
                <author>Svoljšak Petra</author>
                <title>Od strateških načrtov do raznarodovalne politike italijanskega okupanta na zasedenih slovenskih ozemljih med prvo svetovno vojno</title>
-               <title>Od strateških načrtov do raznarodovalne politike italijanskega okupatorja na zasedenih slovenskih ozemljih med prvo svetovno vojno</title>
                <page>393-408</page>
+               <cobiss>267475</cobiss>
                <citedIn count="2">
                   <cit did="2624" cid="57"/>
                   <cit did="1428" cid="40"/>
@@ -2400,8 +2441,10 @@
             </pubPart>
             <pubPart>
                <author>Svoljšak Petra</author>
-               <title>Priprave na leto 1918. Nekateri vidiki italijanske uprave zasedenih slovenskih ozemelj med prvo svetovno vojno</title>
+               <title>Priprave na leto 1918</title>
+               <title>Nekateri vidiki italijanske uprave zasedenih slovenskih ozemelj med prvo svetovno vojno</title>
                <page>361-370</page>
+               <cobiss>266963</cobiss>
                <citedIn count="1">
                   <cit did="2624" cid="58"/>
                </citedIn>
@@ -2410,6 +2453,7 @@
                <author>Tomšič Danijela</author>
                <title>Razvoj cerkvene arhitekture župnije sv. Mavra v Izoli</title>
                <page>459-478</page>
+               <cobiss>269011</cobiss>
                <citedIn count="1">
                   <cit did="251" cid="24"/>
                </citedIn>
@@ -2425,9 +2469,9 @@
             </pubPart>
             <pubPart>
                <author>Žitko Salvator</author>
-               <title>Leto 1848 in proces formiranja nacionalne
-zavesti pri tržaških in istrskih Slovencih</title>
+               <title>Leto 1848 in proces formiranja nacionalne zavesti pri tržaških in istrskih Slovencih</title>
                <page>291-300</page>
+               <cobiss>265939</cobiss>
                <citedIn count="1">
                   <cit did="167" cid="85"/>
                </citedIn>
@@ -2439,12 +2483,10 @@ zavesti pri tržaških in istrskih Slovencih</title>
             <pubPart>
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
-               <title>Nationalism and globalization: a Central European perspective</title>
-               <title>Nationalism and Globalization: A Central European perspective</title>
-               <title>Nationalism and globalization : a Central European perspective</title>
-               <title>Nationalism ali globalization : a Central European perspective</title>
-               <page>7-94</page>
+               <title>Nationalism and globalization</title>
+               <title>a Central European perspective</title>
                <page>7-14</page>
+               <cobiss>5369137</cobiss>
                <citedIn count="4">
                   <cit did="1922" cid="5"/>
                   <cit did="2658" cid="4"/>
@@ -2458,6 +2500,7 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Lisac Josip</author>
                <title>Podoba narečij ob slovensko-hrvaški meji</title>
                <page>53-58</page>
+               <cobiss>5372209</cobiss>
                <citedIn count="1">
                   <cit did="2428" cid="23"/>
                </citedIn>
@@ -2476,8 +2519,10 @@ zavesti pri tržaških in istrskih Slovencih</title>
             </pubPart>
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Piranski zaliv: K tradiciji ribolova in ribolovnih pravic.</title>
+               <title>Piranski zaliv</title>
+               <title>K tradiciji ribolova in ribolovnih pravic</title>
                <page>7-18</page>
+               <cobiss>5335857</cobiss>
                <citedIn count="1">
                   <cit did="1624" cid="79"/>
                </citedIn>
@@ -2488,10 +2533,10 @@ zavesti pri tržaških in istrskih Slovencih</title>
          <issue n="10">
             <pubPart>
                <author>Brglez Uranjek A.</author>
-               <title>Nepremična posest v Piranu ob koncu 16. stoletja - Primerjalna ocena urbane podobe Pirana ob koncu srednjega in v začetku novega veka</title>
-               <title>Nepremična posest v Piranu ob koncu 16. stoletja. Primerjalna ocena urbane podobe Pirana ob koncu srednjega in v začetku novega veka</title>
-               <title>»Nepremična posest v Piranu ob koncu 16. stoletja«</title>
+               <title>Nepremična posest v Piranu ob koncu 16. stoletja</title>
+               <title>Primerjalna ocena urbane podobe Pirana ob koncu srednjega in v začetku novega veka</title>
                <page>139-152</page>
+               <cobiss>91603</cobiss>
                <citedIn count="3">
                   <cit did="1997" cid="8"/>
                   <cit did="3539" cid="46"/>
@@ -2500,9 +2545,10 @@ zavesti pri tržaških in istrskih Slovencih</title>
             </pubPart>
             <pubPart>
                <author>Darovec Darko</author>
-               <title>Istra od srede 13. do začetka 19. stoletja v luči gospodarskozgodovinske literature : rezultati in perspektive</title>
-               <title>Istra od srede 13. do začetka 19. stoletja v luči gospodarskozgodovinske literature, rezultati in perspektive</title>
+               <title>Istra od srede 13. do začetka 19. stoletja v luči gospodarskozgodovinske literature</title>
+               <title>rezultati in perspektive</title>
                <page>107-116</page>
+               <cobiss>90835</cobiss>
                <citedIn count="2">
                   <cit did="610" cid="7"/>
                   <cit did="2636" cid="29"/>
@@ -2512,6 +2558,7 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Filipi G.</author>
                <title>Nekoliko termina iz Betinske brodogradevne terminologije</title>
                <page>319-334</page>
+               <cobiss>92371</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="43"/>
                </citedIn>
@@ -2520,6 +2567,7 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Gestrin Ferdo</author>
                <title>Slovani v Italiji v zgodnjem srednjem veku</title>
                <page>177-184</page>
+               <cobiss>6392141</cobiss>
                <citedIn count="2">
                   <cit did="3539" cid="121"/>
                   <cit did="2536" cid="21"/>
@@ -2550,14 +2598,17 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Mihelič Darja</author>
                <title>Cene obrtnih storitev v mestih slovenskega prostora pred sredo 14. stoletja</title>
                <page>117-124</page>
+               <cobiss>91091</cobiss>
                <citedIn count="1">
                   <cit did="2950" cid="12"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Panjek Aleksander</author>
-               <title>Kmetrijstvo in trgovina na Goriškemv novem veku: kmečki upor leta 1713 iz gospodarkozgodovinske perspektive</title>
+               <title>Kmetijstvo in trgovina na goriškem v novem veku</title>
+               <title>kmečki upor leta 1713 iz gospodarskozgodovinske perspektive</title>
                <page>153-162</page>
+               <cobiss>4679985</cobiss>
                <citedIn count="1">
                   <cit did="2793" cid="37"/>
                </citedIn>
@@ -2565,10 +2616,10 @@ zavesti pri tržaških in istrskih Slovencih</title>
             <pubPart>
                <author>Volpi Lisjak B.</author>
                <author>Volpi Lisjak Bruno</author>
-               <title>Uporaba vukanske zemlje z otoka Santorina za pomorske gradnje na vzhodnem in severnem Jadranu v času avstrijske oblasti</title>
-               <title>Uporaba vulkanske zemlje z otoka Santorina za pomorske gradnje na vzhodnem in severnem Jadranu v času avstrijske oblasti (Iz Državnega arhiva v Trstu)</title>
+               <title>Uporaba vulkanske zemlje z otoka Santorina za pomorske gradnje na vzhodnem in severnem Jadranu v času avstrijske oblasti</title>
+               <title>iz Državnega arhiva v Trstu</title>
                <page>163-174</page>
-               <page>163-176</page>
+               <cobiss>4680241</cobiss>
                <citedIn count="2">
                   <cit did="419" cid="43"/>
                   <cit did="2636" cid="145"/>
@@ -2578,6 +2629,7 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Williams Colin H.</author>
                <title>European regionalism and the search for new representational spaces</title>
                <page>265-274</page>
+               <cobiss>6397773</cobiss>
                <citedIn count="1">
                   <cit did="673" cid="39"/>
                </citedIn>
@@ -2614,13 +2666,18 @@ zavesti pri tržaških in istrskih Slovencih</title>
             <pubPart>
                <author>Gombač Boris M.</author>
                <title>Osvoboditev Trsta maja 1945</title>
+               <page>141-150</page>
+               <cobiss>5539405</cobiss>
                <citedIn count="1">
                   <cit did="3378" cid="130"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Gombač M.</author>
-               <title>Autonomia e decentramento della politica jugoslava alia fine del secondo conflitto mondiale : Un caso specifico : II Comitate regionale di liberazione nazionale per il Litorale sloveno e Trieste</title>
+               <title>Autonomia e decentramento della politica jugoslava alla fine dal secondo conflitto mondiale</title>
+               <title>Un caso specifico: il Comitato regionale di liberazione nazionale per il Litorale sloveno e Trieste</title>
+               <page>87-110</page>
+               <cobiss>333428</cobiss>
                <citedIn count="1">
                   <cit did="736" cid="9"/>
                </citedIn>
@@ -2662,8 +2719,9 @@ zavesti pri tržaških in istrskih Slovencih</title>
             </pubPart>
             <pubPart>
                <author>Markovič I.</author>
-               <title>Cio che si sa e rimane della biblio-teca appartenuta alia famiglia Besenghi di Isola</title>
+               <title>Ciò che si sa e rimane della biblioteca appartenuta alla famiglia Besenghi di Isola</title>
                <page>325-330</page>
+               <cobiss>3318577</cobiss>
                <citedIn count="1">
                   <cit did="726" cid="32"/>
                </citedIn>
@@ -2683,6 +2741,7 @@ zavesti pri tržaških in istrskih Slovencih</title>
                <author>Milošević A.</author>
                <title>La cartografia veneziana come fonte della topografia archeologica della Dalmazia</title>
                <page>333-338</page>
+               <cobiss>3901233</cobiss>
                <citedIn count="1">
                   <cit did="423" cid="6"/>
                </citedIn>
@@ -2690,7 +2749,8 @@ zavesti pri tržaških in istrskih Slovencih</title>
             <pubPart>
                <author>Pirjevec Jože</author>
                <title>Slovensko-italijanski odnosi od leta 1915 do danes</title>
-               <page>9</page>
+               <page>9-14</page>
+               <cobiss>5419341</cobiss>
                <citedIn count="1">
                   <cit did="294" cid="2"/>
                </citedIn>
