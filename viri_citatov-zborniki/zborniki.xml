@@ -137,6 +137,7 @@
       <pubPlace>Novo mesto</pubPlace>
       <publisher>Tiskarna Novo mesto</publisher>
       <publisher>Dolenjska založba</publisher>
+      <collection>Dolenjski zbornik, 1996</collection>
       <year>1997</year>
       <pubCobiss>1269082</pubCobiss>
       <chapters>
@@ -795,6 +796,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <editor>Nećak, Dušan</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
+      <collection>Historia</collection>
       <year>1997</year>
       <pubCobiss>65752320</pubCobiss>
       <chapters>
@@ -1005,6 +1007,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Celovec</pubPlace>
       <publisher>Cankarjeva založba</publisher>
       <publisher>Wieser</publisher>
+      <collection>Pravo &amp; politika</collection>
       <year>2002</year>
       <pubCobiss>116369152</pubCobiss>
       <chapters>
@@ -1117,6 +1120,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Muzejsko društvo</publisher>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
+      <collection>Zbirka Loški razgledi. Doneski ; 11</collection>
       <year>2005</year>
       <pubCobiss>219194112</pubCobiss>
       <chapters>
@@ -1309,6 +1313,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Didakta</publisher>
       <publisher> Mladinska knjiga</publisher>
+      <collection>Gorenjski kraji in ljudje / Gorenjski muzej Kranj ; 25</collection>
       <year>2004</year>
       <pubCobiss>128547584</pubCobiss>
       <chapters>
@@ -2550,7 +2555,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       </chapters>
    </source>
    <source>
-      <pubTitle>Država in cerkev: izbrani zgodovinski in pravni vidiki</pubTitle>
+      <pubTitle>Država in cerkev</pubTitle>
+      <pubTitle>izbrani zgodovinski in pravni vidiki</pubTitle>
       <pubTitle>mednarodni posvet, 21. in 22. junija 2001</pubTitle>
       <pubAddTitle>State and church : selected historical and legal issues : international conference, June 21 and 22, 2001</pubAddTitle>
       <editor>Pleterski, Janko</editor>
@@ -2558,6 +2564,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
       <publisher> Založba ZRC SAZU</publisher>
+      <collection>Razprave ; Razred za zgodovinske in družbene vede ; 18</collection>
       <year>2002</year>
       <pubCobiss>120582144</pubCobiss>
       <chapters>
@@ -2661,6 +2668,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <editor>Škulj, Edo</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
+      <collection>Simpoziji v Rimu ; 19</collection>
       <year>2002</year>
       <pubCobiss>116793088</pubCobiss>
       <chapters>
@@ -2863,7 +2871,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Wien/Dunaj</pubPlace>
       <pubPlace>Laibach/Ljubljana</pubPlace>
       <publisher>Hermagoras</publisher>
-      <publisher>Mohorjeva založba</publisher>
+      <publisher>Mohorjeva</publisher>
+      <collection>Unbegrenzte Geschichte : Historische Reihe der Abteilung für Geschichte Ost- und Südosteuropas an der Universität Klagenfurt und des Bildungsheimes Sodalitas in Tainach/Tinje = Zgodovina brez meja : Zgodovinska serija Oddelka za zgodovino vzhodne in jugovzhodne Evrope na Univerzi v Celovcu in Doma prosvete Sodalitas v Tinjah/Tainach ; Bd. = zv. 10</collection>
       <year>2003</year>
       <pubCobiss>8745037</pubCobiss>
       <chapters>
@@ -2972,6 +2981,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <pubPlace>Wien</pubPlace>
       <publisher>R. Oldenbourg</publisher>
       <publisher>Verlag für Geschichte und Politik</publisher>
+      <collection>Schriftenreihe des Österreichischen Ost- und Südosteuropa- Instituts ; Bd. 13</collection>
       <year>1988</year>
       <pubCobiss>15063552</pubCobiss>
       <chapters>
@@ -3211,6 +3221,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
       <publisher>Zveza ekonomistov Slovenije</publisher>
+      <collection>Zbirka Ekonomska knjižnica / Inštitut za novejšo zgodovino in Zveza ekonomistov Slovenije</collection>
       <year>1999</year>
       <pubCobiss>98022144</pubCobiss>
       <chapters>
@@ -4267,6 +4278,7 @@ veliko godpodarsko krizo tridesetih let</title>
       <editor>Škulj, Edo</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
+      <collection>Simpoziji v Rimu ; 8</collection>
       <year>1991</year>
       <pubCobiss>27297280</pubCobiss>
       <chapters>
@@ -4802,6 +4814,7 @@ veliko godpodarsko krizo tridesetih let</title>
       <pubPlace>Rim</pubPlace>
       <publisher>Mohorjeva družba</publisher>
       <publisher>Slovenska teološka akademija v Rimu</publisher>
+      <collection>Simpoziji v Rimu ; 13</collection>
       <year>1996</year>
       <pubCobiss>5573891</pubCobiss>
       <chapters>
@@ -4927,6 +4940,8 @@ veliko godpodarsko krizo tridesetih let</title>
       <pubPlace>Ljubljana</pubPlace>
       <publisher> Zveza zgodovinskih društev Slovenije</publisher>
       <publisher>Inštitut za narodnostna vprašanja</publisher>
+      <collection>Zbirka Zgodovinskega časopisa ; 27</collection>
+      <collection>Ethnicity ; 5</collection>
       <year>2003</year>
       <pubCobiss>127234816</pubCobiss>
       <chapters>
@@ -6659,6 +6674,7 @@ veliko godpodarsko krizo tridesetih let</title>
       <editor>Kavrečič, Petra</editor>
       <pubPlace>Koper</pubPlace>
       <publisher>Znanstveno-raziskovalno središče</publisher>
+      <collection>Glasnik ZRS Koper ; vol. 14, št. 5</collection>
       <year>2009</year>
       <pubCobiss>29968941</pubCobiss>
       <chapters>
@@ -10499,11 +10515,12 @@ ozemlju po drugi svetovni vojni (1945-1955)</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Pogled v zgodovino slovenskega podjetništva. Vrhnika : Razum</pubTitle>
       <pubTitle>Pogled v zgodovino slovenskega podjetništva</pubTitle>
+      <editor>Krašovec, Tone</editor>
       <pubPlace>Vrhnika</pubPlace>
       <publisher>Razum</publisher>
       <year>1998</year>
+      <pubCobiss>78343936</pubCobiss>
       <chapters>
          <pubPart>
             <author>Fischer J.</author>
@@ -10624,12 +10641,15 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Posavju v letih 1989-1991</pubTitle>
       <pubTitle>Posavje v letih 1989-1991</pubTitle>
+      <pubTitle>spominski zbornik</pubTitle>
+      <editor>Teropšič, Tomaž</editor>
+      <editor>Teropšič, Mitja</editor>
       <pubPlace>Brežice</pubPlace>
       <publisher>Posavski muzej</publisher>
-      <publisher>Posavski muzej, Zveza veteranov vojne za Slovenijo</publisher>
+      <publisher>Zveza veteranov vojne za Slovenijo</publisher>
       <year>2001</year>
+      <pubCobiss>114327552</pubCobiss>
       <chapters>
          <pubPart>
             <author>Angeli Borut</author>
@@ -10764,20 +10784,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Pravo-zgodovina-arhivi 1, Prispevki za zgodovino pravosodja</pubTitle>
-      <pubTitle>Pravo-zgodovina-arhivi</pubTitle>
-      <pubTitle>Pravo, zgodovina, arhivi. 1, Prispevki za
-            zgodovino pravosodja</pubTitle>
-      <pubTitle>Pravo, zgodovina, arhivi : 1 -Prispevki za zgodovino pravosodja</pubTitle>
-      <pubTitle>Pravo, zgodovina, arhivi</pubTitle>
-      <pubTitle>Pravo - zgodovina-arhivi</pubTitle>
-      <pubTitle>Pravo - zgodovina - arhivi : Prispevki za zgodovino pravosodja</pubTitle>
+      <pubTitle>Pravo, zgodovina, arhivi 1</pubTitle>
       <pubTitle>Pravo - zgodovina - arhivi</pubTitle>
+      <pubTitle>prispevki za zgodovino pravosodja</pubTitle>
+      <editor>Žontar, Jože</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ARS</publisher>
       <publisher>Arhiv Republike Slovenije</publisher>
-      <publisher>Arhiv republike Slovenije</publisher>
       <year>2000</year>
+      <pubCobiss>109738496</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bizjak Žarko</author>
@@ -10881,12 +10895,14 @@ Sloveniji do druge svetovne vojne</title>
    </source>
    <source>
       <pubTitle>Preddvor v času in prostoru</pubTitle>
-      <pubTitle>Preddvor v  času in prostoru. Zbornik Občine Preddvor</pubTitle>
-      <pubTitle>Preddvor  v času in prostoru. Zbornik občine Preddvor</pubTitle>
+      <pubTitle>zbornik Občine Preddvor</pubTitle>
+      <editor>Roblek, Tone</editor>
       <pubPlace>Preddvor</pubPlace>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Občina</publisher>
       <publisher>Mladinska knjiga</publisher>
       <year>1999</year>
+      <pubCobiss>100245504</pubCobiss>
       <chapters>
          <pubPart>
             <author>Baraga France</author>
@@ -11010,18 +11026,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij: zbornik referatov z znanstvene konference ob 80. obletnici priključitve Prekmurja k Sloveniji, Murska Sobota, 9. do 11. september 1999</pubTitle>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij: zbornik referatov z znanstvene konference ob 80. obletnici priključitve Prekmurja k Sloveniji</pubTitle>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij, Zbornik soboškega muzeja</pubTitle>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij : zbornik referatov z znanstvene konference ob 80. letnici priključitve Prekmurja k Sloveniji, Murska Sobota, 9. do 11. september 1999</pubTitle>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij : zbornik referatov z znanstvene konference ob 80. letnici priključitve Prekmurja k Sloveniji</pubTitle>
-      <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij : zbornik referatov z znanstvene  konference ob 80. letnici priključitve Prekmurja k Sloveniji</pubTitle>
       <pubTitle>Prekmurje na obrobju ali v stičišču evropskih komunikacij</pubTitle>
+      <pubTitle>zbornik referatov z Znanstvene konference ob 80. obletnici priključitve Prekmurja k Sloveniji, Murska Sobota, 9. do 11. september 1999</pubTitle>
+      <editor>Balažic, Janez</editor>
+      <editor>Fujs, Metka</editor>
       <pubPlace>Murska Sobota</pubPlace>
       <publisher>Pokrajinski muzej</publisher>
       <year>2000</year>
-      <year>2009</year>
-      <year>1999</year>
+      <pubCobiss>45332225</pubCobiss>
       <chapters>
          <pubPart>
             <author>Fujs Metka</author>
@@ -11116,20 +11128,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovensitični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovenistična in primerjalna vedam slovenist v razredu, mladinska književnost = Zbornik Slavističnega društva Slovenij</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovensitična in primerjalna literarna veda, slovensit v razredu, mladinska književnost = Zbornik Slavističnega društv</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovensitična in primerjalna literarna veda, slovenist v razredu, mladinska književnost = Zbornik Slavističnega društv</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovenistična in primerjalna veda, slovenist v razredu, mladinska književnost = Zbornik Slavističnega društva Slovenij</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovenistična in primerjalna literarna veda, slovensit v razredu, mladinska književnost = Zbornik Slavističnega društv</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske književnosti, slovenistična in primerjalna literarna veda, slovenist v razredu, mladinska književnost = Zbornik Slavističnega društv</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenistični Zagreb, ilirizem, slovenske literature in slovenske  književnosti, slovenistična in primerjalna literarna veda, slovenist v razredu, mladinska književnost = Zbornik Slavističnega društ</pubTitle>
-      <pubTitle>Preseganje meje: izdajanje slovenske leposlovne klasike, slovenisitični Zagreb, ilirizem, slovanske literature in slovenska književnost, slovenistična in primerjalna literarna veda, slovenist v razredu, mladinska književnost = Zbornik Slavističnega društv</pubTitle>
-      <pubTitle>Preseganje meje: Izdajanje slovenske leposlovne klasike. Slovenistični Zagreb. Ilirizem. Slovanske literature in slovenska književnost. Slovenistična in primerjalna literarna veda. Slovenist v razredu. Mladinska književnost = Zbornik Slavističnega društva</pubTitle>
+      <pubTitle>Preseganje meje</pubTitle>
+      <pubTitle>izdajanje slovenske leposlovne klasike. Slovenski slavistični kongres, Zagreb, 5. do 7. oktober 2006</pubTitle>
+      <editor>Hladnik, Miran</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slavistično društvo Slovenije</publisher>
-      <publisher>Slavistično drzštvo Slovenije</publisher>
+      <collection>Zbornik Slavističnega društva Slovenije; 17</collection>
       <year>2006</year>
-      <issue>17</issue>
+      <pubCobiss>228833280</pubCobiss>
       <chapters>
          <pubPart>
             <author>Benjak Mirjana</author>
@@ -11321,21 +11327,15 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Preteklost sodobnosti, izbrana poglavja slovenske novejše zgodovine</pubTitle>
-      <pubTitle>Preteklost sodobnosti : izbrana poglavja slovenske novejše zgodovine</pubTitle>
-      <pubTitle>Preteklost sodobnosti : Izbrana poglavja slovenske novejše zgodovine</pubTitle>
-      <pubTitle>Preteklost sodobnosti (izbrana poglavja slovenske novejše zgodovine), zbornik</pubTitle>
       <pubTitle>Preteklost sodobnosti</pubTitle>
+      <pubTitle>izbrana poglavja slovenske novejše zgodovine</pubTitle>
+      <editor>Čepič, Zdenko</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Pijava Gorica, Ljubljana</pubPlace>
       <pubPlace>Pijava Gorica</pubPlace>
-      <pubPlace>Pijava Gorica - Ljubljana</pubPlace>
-      <pubPlace>Pijava Gorica / Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
-      <publisher>Aristoteles Žlahtič, Inštitut za novejšo zgodovino</publisher>
-      <publisher>Aristoteles Žlahtič - Inštitut za novejšo zgodovino</publisher>
-      <publisher>Aristoteles Žlahtič / Inštitut za novejšo zgodovino</publisher>
+      <publisher>Aristoteles Žlahtič</publisher>
       <year>1999</year>
+      <pubCobiss>80243200</pubCobiss>
       <chapters>
          <pubPart>
             <author>Deželak Barič Vida</author>
@@ -11555,22 +11555,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Prevrati in slovensko gospodarstvov XX. stoletju</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v XX. stoletju: 1918-1945-1991</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v XX. stoletju, 1918-1945-1991</pubTitle>
       <pubTitle>Prevrati in slovensko gospodarstvo v XX. stoletju : 1918-1945-1991</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v XX. stoletju 1918-1945-1991</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v XX. stoletju</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v XX. Stoletju</pubTitle>
-      <pubTitle>Prevrati in slovensko gospodarstvo v 20. stoletju</pubTitle>
-      <pubTitle>Prevrati in Slovensko gospodarstvo v XX. stoletju 1918−1945−1991</pubTitle>
+      <editor>Borak, Neven</editor>
+      <editor>Lazarević, Žarko</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Cankarjeva založba</publisher>
-      <publisher>Cankarjeva založba - Zbirka Ekonomska knjižnica</publisher>
-      <publisher>CZ</publisher>
-      <publisher>Ekonomska knjižnica</publisher>
+      <collection>Zbirka Ekonomska knjižnica</collection>
       <year>1996</year>
-      <year>0</year>
+      <pubCobiss>59469312</pubCobiss>
       <chapters>
          <pubPart>
             <author>Borak Neven</author>
@@ -11749,12 +11741,15 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Prihodnost parlamentarne demokracije: Zbornik strokovnega srečanja ob 20. obletnici prvih večstrankarskih volitev</pubTitle>
-      <pubTitle>Prihodnost parlamentarne demokracije. Zbornik strokovnega srečanja ob 20. obletnici prvih večstrankarskih volitev</pubTitle>
-      <pubTitle>Prihodnost parlamentarne demokracije : zbornik strokovnega srečanja ob 20. obletnici prvih večstrankarskih volitev, november 2010</pubTitle>
+      <pubTitle>Prihodnost parlamentarne demokracije</pubTitle>
+      <pubTitle>zbornik strokovnega srečanja ob 20. obletnici prvih večstrankarskih volitev, november 2010</pubTitle>
+      <editor>Krašovec, Tatjana</editor>
+      <editor>Pristavec Đogić Mojca</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Državni zbor</publisher>
+      <collection>Knjižna zbirka Državnega zbora Republike Slovenije</collection>
       <year>2010</year>
+      <pubCobiss>253376768</pubCobiss>
       <chapters>
          <pubPart>
             <author>Babič Blaž</author>
@@ -11907,18 +11902,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Priseljenci: študije o priseljevanju in vključevanju v slovensko družbo</pubTitle>
-      <pubTitle>Priseljencu</pubTitle>
-      <pubTitle>Priseljenci: Študije o priseljevanju in vključevanju v slovensko državo</pubTitle>
-      <pubTitle>Priseljenci: Študije o priseljevanju in vključevanju v slovensko družbo</pubTitle>
-      <pubTitle>Priseljenci: Študije o  priseljevanju in vključevanju v slovensko družbo, 1. naris</pubTitle>
-      <pubTitle>Priseljenci. Študije o priseljevanju in vključevanju v slovensko družbo</pubTitle>
-      <pubTitle>Priseljenci : študije o priseljevanju in vključevanju v slovensko družbo</pubTitle>
       <pubTitle>Priseljenci</pubTitle>
+      <pubTitle>študije o priseljevanju in vključevanju v slovensko družbo</pubTitle>
+      <editor>Komac, Miran</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za narodnostna vprašanja</publisher>
       <publisher>INV</publisher>
       <year>2007</year>
+      <pubCobiss>236819200</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bester R.</author>
@@ -12212,19 +12203,15 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Problemi demokracije na Slovenskem v letih 1918-1941: zbornik prispevkov na simpoziju 7. in 8. decembra 2006</pubTitle>
-      <pubTitle>Problemi demokracije na Wsiovenskem v letih 1918-1941: zbornik prispevkov na simpoziju 7. in 8. decembra I 2006</pubTitle>
-      <pubTitle>Problemi demokracije na Slovesnkem: Zbornik prispevkov na simpoziju 7, in 8. december 2006</pubTitle>
-      <pubTitle>Problemi demokracije na Slovenskem v letih 1918—1941:  zbornik prispevkov na simpoziju 7. in 8. decembra 2006. Ljubljana: Slovenska akademija znanosti in umetnosti</pubTitle>
-      <pubTitle>Problemi demokracije na Slovenskem v letih 1918–1941</pubTitle>
-      <pubTitle>Problemi demokracije na Slovenskem v letih 1918-1941 : zbornik prispevkov na simpoziju 7. in 8. decembra 2006</pubTitle>
       <pubTitle>Problemi demokracije na Slovenskem v letih 1918-1941</pubTitle>
-      <pubTitle>Problemi demokracije na Slovenskem</pubTitle>
+      <pubTitle>zbornik prispevkov na simpoziju 7. in 8. decembra 2006</pubTitle>
+      <editor>Pirjevec, Jože</editor>
+      <editor>Pleterski, Janko</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>LJubljana</pubPlace>
-      <publisher>SAZU</publisher>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
+      <collection>Razprave; Razred za zgodovinske in družbene vede ; 23</collection>
       <year>2007</year>
+      <pubCobiss>235234048</pubCobiss>
       <chapters>
          <pubPart>
             <author>Gašparič Jure</author>
@@ -12402,26 +12389,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>razvoj turizma v Sloveniji...</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji....</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji. Zbornik referatov z 28. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji. Zbornik referatov</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, zbornik referatov, 28. zborovanje slovenskih zgodovinarjev na Bledu, 26.-28.9. 1996</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, zbornik referatov, 28. zborovanje slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, zbornik referatov 28. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, zbornik referatov</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, Zbornik referatov 28. zborovanje slovenskih zgodovinarjev, Bled 26. - 28. 9. 1996</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, Zbornik referatov</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji, 28. zborovanje slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji : zbornik referatov</pubTitle>
-      <pubTitle>Razvoj turizma v Sloveniji (Zbornik referatov 28. zborovanja slovenskih zgodovinarjev)</pubTitle>
       <pubTitle>Razvoj turizma v Sloveniji</pubTitle>
+      <pubTitle>zbornik referatov. 28. zborovanje slovenskih zgodovinarjev, Bled, 26. - 28. 9. 1996</pubTitle>
+      <editor>Rožman, Franc</editor>
+      <editor>Lazarević, Žarko</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Bled</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>ZZDS</publisher>
       <year>1996</year>
-      <year>1966</year>
+      <pubCobiss>61619968</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
@@ -12645,19 +12620,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918–1920 : zbornik razprav s simpozija v Radencih od 27. do 29. maja 1979. Murska Sobota 1981</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918–1920 : zbornik razprav s simpozija v Radencih od 27. do 29. maja 1979</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918–1920 : zbornik razprav s simpozija v Radencih</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918-1920 : zbornik razprav s simpozija v Radencih od 27. do 29. maja 1979.</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918-1920 : zbornik razprav s simpozija v Radencih od 27. do 29. maja 1979</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918-1920 (zbornik razprav s simpozija v Radencih)</pubTitle>
-      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918-1920</pubTitle>
-      <pubPlace>Ljubljana</pubPlace>
+      <pubTitle>Revolucionarno vrenje v Pomurju v letih 1918–1920</pubTitle>
+      <pubTitle>zbornik razprav s simpozija v Radencih od 27. do 29. maja 1979</pubTitle>
+      <editor>Liška, Janko</editor>
+      <editor>Ravbar, Miroslav</editor>
       <pubPlace>Murska Sobota</pubPlace>
-      <publisher>Jože Moškrič</publisher>
-      <publisher>Pomurska založba, 1981, str. 53-205.</publisher>
       <publisher>Pomurska založba</publisher>
       <year>1981</year>
+      <pubCobiss>20189952</pubCobiss>
       <chapters>
          <pubPart>
             <author>Kokolj Miroslav</author>
@@ -12749,13 +12719,12 @@ Sloveniji do druge svetovne vojne</title>
    </source>
    <source>
       <pubTitle>Rožmanov simpozij v Rimu</pubTitle>
-      <pubTitle>Rožmanov simpozij (v Rimu)</pubTitle>
+      <editor>Škulj, Edo</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
-      <publisher>Mohorjeva založba</publisher>
+      <collection>Simpoziji v Rimu ; 18</collection>
       <year>2001</year>
-      <year>0</year>
-      <issue>18</issue>
+      <pubCobiss>112521472</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
@@ -12852,26 +12821,15 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru: sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije, Zbornik razširjenih razprav mednarodne konference; Migracije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru; Migracije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru: sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije; Migracije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru: sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije: zbornik razširjenih razprav mednarodne konference</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru: sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru: Sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru : sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru (sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije)</pubTitle>
       <pubTitle>Sezonstvo in izseljenstvo v panonskem prostoru</pubTitle>
-      <pubTitle>Sezonstvo in izseljenstvo v Panonskem prostoru. Sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije, Migracije</pubTitle>
-      <pubTitle>Sezonsfvo in izseljenstvo v panonskem prostoru. Sosedstvo Avstrije. Hrvaške, Madžarske in Slovenije</pubTitle>
+      <pubTitle>sosedstvo Avstrije, Hrvaške, Madžarske in Slovenije</pubTitle>
+      <pubTitle>zbornik razširjenih razprav mednarodne konference</pubTitle>
+      <pubAddTitle>Seasonal work and emigration in the Panonia space: the neighbourghood of Austria, Croatia, Hungary and Slovenia</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Radenci, Slovenia; Ljubljana</pubPlace>
-      <pubPlace>Ljubljana, Radenci</pubPlace>
-      <publisher>ZRC SAZU</publisher>
-      <publisher>ZRC, ZRC SAZU</publisher>
-      <publisher>Inštitut za slovensko izseljenstvo ZRC SAZU</publisher>
-      <publisher>Inštitut za slovensko izseljeništvo ZRC SAZU</publisher>
+      <publisher>Založba ZRC SAZU, Inštitut za slovensko izseljenstvo</publisher>
+      <collection>Migracije ; 4</collection>
       <year>2003</year>
-      <year>2002</year>
+      <pubCobiss>124792320</pubCobiss>
       <issue>4</issue>
       <chapters>
          <pubPart>
@@ -13003,43 +12961,14 @@ Sloveniji do druge svetovne vojne</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovensci in država</pubTitle>
-      <pubTitle>Slovenci in državi: zbornik prispevkov znanstvenega posveta</pubTitle>
-      <pubTitle>Slovenci in država: zbornik prispevkov z znanstvenega posveta na SAZU (od 9. do 11. novembra 1994)</pubTitle>
-      <pubTitle>Slovenci in država: zbornik prispevkov z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država: Zbornik prispevkov z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država: Zbornik prispevkov z znanstvenega posveta SAZU</pubTitle>
-      <pubTitle>Slovenci in država. Zbornik prispevkov. Razprave SAZU, I/17</pubTitle>
-      <pubTitle>Slovenci in država. Zbornik prispevkov z znanstvenega posveta na SAZU (od 9. do 11. novembra 1994)</pubTitle>
-      <pubTitle>Slovenci in država. Zbornik prispevkov z znanstvenega posveta na SAZU (od 9. do 11. novembra 1994</pubTitle>
-      <pubTitle>Slovenci in država. Zbornik prispevkov z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država- zbornik prispevkov znanstvenega posveta SAZU od 9. do 11. nomebra 1994</pubTitle>
-      <pubTitle>Slovenci in država, zbornik prispevkov z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država, Razprave SAZU I/17</pubTitle>
-      <pubTitle>Slovenci in država, Razprave SAZU 1. razred 17</pubTitle>
-      <pubTitle>Slovenci in država Zbornik z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država : zbornik prispevkov z znanstvenega posveta na SAZU (od 9. do 11. novembra 1994)</pubTitle>
-      <pubTitle>Slovenci in država : zbornik prispevkov z znanstvenega posveta na SAZU</pubTitle>
-      <pubTitle>Slovenci in država : zbornik prispevkov iz znanstvenega posveta na SAZU (od 9. do 11. novembra 1994)</pubTitle>
-      <pubTitle>Slovenci in država - zbornik prispevkov z znanstvenega posveta SAZU od 9. do 11. novembra 1994 (=Razprave/Dissertationes 17)</pubTitle>
-      <pubTitle>Slovenci in država - zbornik prispevkov z znanstvenega posveta SAZU od 9. do 11. novembra 1994</pubTitle>
       <pubTitle>Slovenci in država</pubTitle>
-      <pubTitle>Slovenci in drzava - zbornik prispevkov z znanstvenega posveta SAZU od 9. do 11. novembra 1994</pubTitle>
+      <pubTitle>zbornik prispevkov z znanstvenega posveta na SAZU od 9. do 11. novembra 1994</pubTitle>
+      <editor>Grafenauer, Bogo</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubjana</pubPlace>
-      <publisher>SAZU</publisher>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Zbornik prispevkov z znanstvenega posveta na SAZU</publisher>
+      <collection>Razprave ; Razred za zgodovinske in družbene vede ; 17</collection>
       <year>1995</year>
-      <year>1990</year>
-      <year>1994</year>
-      <volume>17</volume>
-      <volume>1995</volume>
-      <volume>1</volume>
-      <issue>1995</issue>
-      <issue>17</issue>
-      <issue>Razprave ; 17)</issue>
-      <issue>(Razprave ; 17)</issue>
+      <pubCobiss>55255808</pubCobiss>
       <chapters>
          <pubPart>
             <author>Biber Dušan</author>
@@ -13661,29 +13590,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenci v desetletju 1918–1928: Zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918–1928 : zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918–1928 : Zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
       <pubTitle>Slovenci v desetletju 1918–1928</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928: zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928: Zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928. Zbornik razprav iz kulturne, gospodarske in politične zgodovine, Leonova družba</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928. Zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928, zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928 : zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928 : Zbronik razprav za kulturno, gospodarsko in politično zgodovino</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1928</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918-1918 : zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
-      <pubTitle>Slovenci v desetletju 1918- 1928</pubTitle>
-      <pubTitle>Slovenci v desetletju</pubTitle>
-      <pubTitle>Slovenci  v desetletju</pubTitle>
+      <pubTitle>zbornik razprav iz kulturne, gospodarske in politične zgodovine</pubTitle>
+      <editor>Mal, Josip</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubljana 1928</pubPlace>
       <publisher>Leonova družba</publisher>
+      <collection>Znanstvena izdanja "Leonove družbe" v Ljubljani ; zv. 1</collection>
       <year>1928</year>
-      <year>1918</year>
-      <year>1929</year>
-      <year>1925</year>
+      <pubCobiss>331528</pubCobiss>
       <chapters>
          <pubPart>
             <author>Andrejka Viktor</author>
@@ -14095,17 +14009,16 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenci na Hrvaškem: dediščina in sedanjost.</pubTitle>
-      <pubTitle>Slovenci na Hrvaškem: dediščina in sedanjost = Knjižnica Slovenskega etnološkega društva</pubTitle>
-      <pubTitle>Slovenci na Hrvaškem: dediščina in sedanjost = Knjižnica Glasnika Slovenskega etnološkega društva</pubTitle>
-      <pubTitle>Slovenci na Hrvaškem: dediščina in sedanjost</pubTitle>
+      <pubTitle>Slovenci na Hrvaškem</pubTitle>
+      <pubTitle>dediščina in sedanjost</pubTitle>
+      <pubTitle>zbornik referatov s posveta "Etnološka dediščina in kulturna podoba Slovencev na Hrvaškem"</pubTitle>
+      <editor>Munda Hirnök, Katalin</editor>
+      <editor>Ravnik, Mojca</editor>
       <pubPlace>Ljubljana</pubPlace>
       <pubPlace>Slovensko etnološko društvo</pubPlace>
-      <publisher>Slovensko etnološko društvo</publisher>
-      <publisher>SLovensko etnološko društvo</publisher>
+      <collection>Knjižnica Glasnika Slovenskega etnološkega društva ; 39</collection>
       <year>2006</year>
-      <year>2005</year>
-      <issue>39</issue>
+      <pubCobiss>230494720</pubCobiss>
       <chapters>
          <pubPart>
             <author>Gantar Godina Irena</author>
@@ -14337,17 +14250,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenci v Evropi : O nekaterih vidikih slovenske povezanosti s sosedi in Evropo</pubTitle>
-      <pubTitle>Slovenci v Evropi: (o nekaterih vidikih slovenske povezanosti s sosedi in Evropo)</pubTitle>
-      <pubTitle>Slovenci v Evropi. O nekaterih vidikih slovenske povezanosti s sosedi in Evropo</pubTitle>
-      <pubTitle>Slovenci v Evropi : o nekaterih vidikih slovenske povezanosti s sosedi in Evropo, Historia 5</pubTitle>
-      <pubTitle>Slovenci v Evropi : (o nekaterih vidikih slovenske povezanosti s sosedi in Evropo)</pubTitle>
       <pubTitle>Slovenci v Evropi</pubTitle>
+      <pubTitle>o nekaterih vidikih slovenske povezanosti s sosedi in Evropo</pubTitle>
+      <editor>Vodopivec, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Historia - Znanstvena zbirka Oddelka za zgodovino FF UL</publisher>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
-      <publisher>Filozofska fakulteta</publisher>
+      <collection>Historia ; 5</collection>
       <year>2002</year>
+      <pubCobiss>117515776</pubCobiss>
       <chapters>
          <pubPart>
             <author>Pelikan Egon</author>
@@ -14430,14 +14340,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenci v Hrvaški: zbornik skupine avtorjev (=Projekt Slovenci v prostoru nekdanje Jugoslavije izven Slovenije, knj. 1)</pubTitle>
-      <pubTitle>Slovenci v Hrvaški : zbornik skupine avtorjev</pubTitle>
       <pubTitle>Slovenci v Hrvaški</pubTitle>
+      <pubTitle>zbornik skupine avtorjev</pubTitle>
+      <editor>Kržišnik-Bukić, Vera</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INZ</publisher>
       <publisher>Inštitut za narodnostna vprašanja</publisher>
-      <publisher>INV</publisher>
+      <collection>Projekt Slovenci v prostoru nekdanje Jugoslavije izven Slovenije ; knj. 1</collection>
       <year>1995</year>
+      <pubCobiss>47520000</pubCobiss>
       <chapters>
          <pubPart>
             <author>Darovec Darko</author>
@@ -14648,14 +14558,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenci v XX. stoletju : simpozij</pubTitle>
-      <pubTitle>Slovenci v XX. stoletju (ur. Drago Jančar in Peter Vodopivec)</pubTitle>
       <pubTitle>Slovenci v XX. stoletju</pubTitle>
-      <pubTitle>Slovenci v XX. Stoletju</pubTitle>
+      <pubTitle>simpozij Slovenske matice, 4. in 5. decembra 2001</pubTitle>
+      <editor>Jančar, Drago</editor>
+      <editor>Vodopivec, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2001</year>
-      <year>1995</year>
+      <pubCobiss>115951360</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolinar France M.</author>
@@ -14728,6 +14638,7 @@ jugoslovanske krize</title>
    </source>
    <source>
       <pubTitle>Slovenj Gradec in Mislinjska dolina II.</pubTitle>
+      <!-- razdruži -->
       <pubTitle>Slovenj Gradec in Mislinjska dolina I.</pubTitle>
       <pubTitle>Slovenj Gradec in Mislinjska dolina I</pubTitle>
       <pubTitle>Slovenj Gradec in Mislinjska dolina 1.</pubTitle>
@@ -14814,53 +14725,17 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo: začetki slovenske etnogeneze / Slowenien und die Nachbarlander zwischen Antike und karolingiseher Epoche: Anfange der slowenischen Ethnogenese</pubTitle>
-      <pubTitle>Slovenija in sosednje med antiko in karolinško dobo. Začetki slovenske etnogeneze l. Situla 39.</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele.....</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo: začetki slovenske etnogeneze / Slowenien und die Nachbarlandcr zvvischen Antike und karolingiseher Epoche: Anfänge der slowenischen Ethnogenese</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo: začetki slovenske etnogeneze</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo...</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogenezel. Situla 39</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese 2, Situla 39, Razprave, I/18 SAZU</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese 2, Situla 39, Razprave SAZU, I/18</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese 2</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese 1</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/ Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze. Situla, 39</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze I. Situla 39.</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze 1</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche : Anfänge der slowenischen Ethnogenese. Situla 39 - Razprave SAZU I/20</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche : Anfänge der slowenischen Ethnogenese 2. Situla 39 - Razprave SAZU I/18</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze = Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche : Anfänge der slowenischen Ethnogenese : I-II</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze : Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche / Situla</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze / Situla</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo : Začetki slovenske etnogeneze</pubTitle>
       <pubTitle>Slovenija in sosednje dežele med antiko in karolinško dobo</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele med antiko in karolinško  dobo</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele 2</pubTitle>
-      <pubTitle>Slovenija in sosednje dežele</pubTitle>
-      <pubTitle>Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche</pubTitle>
+      <pubTitle>začetki slovenske etnogeneze</pubTitle>
+      <pubAddTitle>Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche : Anfänge der slowenischen Ethnogenese</pubAddTitle>
+      <editor>Bratož, Rajko</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Narodni muzej Slovenije, SAZU</publisher>
-      <publisher>Narodni muzej Slovenije : Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Narodni muzej Slovenije, Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>SAZU</publisher>
-      <publisher>Narodni muzej</publisher>
-      <publisher>Slovenske akademije znanosti in umetnosti</publisher>
       <publisher>Narodni muzej Slovenije</publisher>
-      <publisher>Narodni muzej Slovenije - Slovenska akademija znanosti in umetnosti</publisher>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Narodni muzej Slovenije : SAZU</publisher>
-      <year>2002</year>
+      <collection>Situla ; 39</collection>
+      <collection>Razprave ;  Razred za zgodovinske in družbene vede ; 18</collection>
       <year>2000</year>
-      <volume>2</volume>
-      <volume>1</volume>
-      <volume>39</volume>
-      <volume>18</volume>
-      <issue>18</issue>
-      <issue>1/18</issue>
+      <pubCobiss>2091360</pubCobiss>
       <chapters>
          <pubPart>
             <author>Kahl Hans Dietrich</author>
@@ -15310,13 +15185,13 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenija - Jugoslavija, krize in reforme 1968/1988. Ljubljana, Inštitut za novejšo zgodovino</pubTitle>
-      <pubTitle>Slovenija - Jugoslavija, krize in reforme 1968/1988, Inštitut za novejšo zgodovino</pubTitle>
       <pubTitle>Slovenija - Jugoslavija, krize in reforme 1968/1988</pubTitle>
+      <pubTitle>povzetki, znanstvena konferenca, Ljubljana, 22.-23. januar 2009</pubTitle>
+      <editor>Čepič, Zdenko</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za novejšo zgodovino</publisher>
-      <publisher>INZ</publisher>
-      <year>2010</year>
+      <year>2009</year>
+      <pubCobiss>243408640</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bjelajac Mile</author>
@@ -15514,17 +15389,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenske zamisli o prihodnosti okrog leta 1918: narodna vlada, država SHS in slovenske zamisli o prihodnosti pred letom 1918 in po njem</pubTitle>
-      <pubTitle>Slovenske zamisli o prihodnosti okrog leta 1918: Narodna vlada, Država SHS in slovenske zamisli o prihodnosti pred letom 1918 in po njem (simpozij 1998)</pubTitle>
-      <pubTitle>Slovenske zamisli o prihodnosti okrog leta 1918 : narodna vlada, Država SHS in slovenske zamisli o prihodnosti pred letom 1918 in po njem : (simpozij 1998)</pubTitle>
       <pubTitle>Slovenske zamisli o prihodnosti okrog leta 1918</pubTitle>
-      <pubTitle>Slovenske zamisli o prihodnosti okrog leta
-         1918</pubTitle>
-      <pubTitle>Slovenske zamisli o prihodnosti okoli 1918</pubTitle>
+      <pubTitle>narodna vlada, država SHS in slovenske zamisli o prihodnosti pred letom 1918 in po njem</pubTitle>
+      <pubTitle>simpozij 1998</pubTitle>
+      <editor>Vodopivec, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2000</year>
-      <year>2002</year>
+      <pubCobiss>106271488</pubCobiss>
       <chapters>
          <pubPart>
             <author>Grdina Igor</author>
@@ -15727,11 +15599,14 @@ jugoslovanske krize</title>
    </source>
    <source>
       <pubTitle>Slovenke v narodnoosvobodilnem boju</pubTitle>
-      <pubTitle>Slovenke v nardnoosvobodilnem boju</pubTitle>
-      <pubTitle>Slovenke v NOB I</pubTitle>
-      <pubTitle>Slovenke v NOB</pubTitle>
+      <pubTitle>zbornik dokumentov, člankov in spominov</pubTitle>
+      <editor>Gerk, Stana</editor>
+      <editor>Križnar, Ivka</editor>
+      <editor>Ravnikar-Podbevšek, Štefanija</editor>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Borec</publisher>
       <year>1970</year>
+      <pubCobiss>6394625</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bele Meta</author>
@@ -15828,19 +15703,17 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenska izseljenska književnost 2: Severna Amerika.</pubTitle>
-      <pubTitle>Slovenska izseljenska književnost 2: Severna Amerika</pubTitle>
-      <pubTitle>Slovenska izseljenska književnost 2</pubTitle>
-      <pubTitle>Slovenska izseljenska književnost 1. Evropa, Azija, Avstralija</pubTitle>
       <pubTitle>Slovenska izseljenska književnost</pubTitle>
+      <pubTitle>1. zvezek: Evropa, Avstralija, Azija</pubTitle>
+      <pubTitle>2. zvezek: Severna Amerika</pubTitle>
+      <pubTitle>3. zvezek: Južna Amerika</pubTitle>
+      <editor>Žitnik, Janja</editor>
+      <editor>Glušič, Helga</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>ZRC SAZU</publisher>
-      <publisher>ZRC SAZU, Rokus</publisher>
-      <publisher>ZRC</publisher>
-      <publisher>Založba ZRC, Rokus</publisher>
+      <publisher>Rokus</publisher>
       <year>1999</year>
-      <issue>359-362</issue>
-      <issue>2</issue>
+      <pubCobiss>97453568</pubCobiss>
       <chapters>
          <pubPart>
             <author>Drnovšek Marjan</author>
@@ -15963,25 +15836,16 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenska osamosvojitev 1991: pričevanja in analize</pubTitle>
-      <pubTitle>Slovenska osamovojitev 1991: pričevanja in analize</pubTitle>
-      <pubTitle>Slovenska osamosvojitev leta 1991 : pričevanja in analize</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991. Pričevanja in analize. Simpozij Brežice, 21 -22.junij 2001</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991. Pričevanja in analize. Simpozij Brežice 2001</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991,</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991 : pričevanja in analize : zbornik</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991 : pričevanja in analize : simpozij, Brežice, 21. in 22. junij 2001 : zbornik</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991 : pričevanja in analize : simpozij Brežice 21. in 22. Junij 2001, zbornik. Ljubljana: Državni zbor RS, ZZDS, 2002, str. 191-214.</pubTitle>
-      <pubTitle>Slovenska osamosvojitev 1991 : pričevanja in analize</pubTitle>
       <pubTitle>Slovenska osamosvojitev 1991</pubTitle>
-      <pubTitle>Slovenska osamosvojitev</pubTitle>
+      <pubTitle>pričevanja in analize</pubTitle>
+      <pubTitle>zbornik - simpozij, Brežice, 21. in 22. junij 2001</pubTitle>
+      <editor>Perovšek, Jurij</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Državni zbor Republike Slovenije : Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Državni zbor RS, ZZDS</publisher>
+      <publisher>Državni zbor Republike Slovenije</publisher>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Državni zbor Republike Slovenije, Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Državni zbor RS, Zveza zgodovinskih društev Slovenije</publisher>
+      <collection>Knjižna zbirka Državnega zbora Republike Slovenije</collection>
       <year>2002</year>
+      <pubCobiss>117917952</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bučar France</author>
@@ -16236,14 +16100,12 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenski pravniki v narodnoosvobodilni fronti</pubTitle>
       <pubTitle>Slovenski pravniki v narodnoosvobodilni borbi</pubTitle>
-      <pubTitle>Slovenski pravniki v narodno-osvobodilni borbi</pubTitle>
-      <pubTitle>Slovenski pravniki v NOB</pubTitle>
-      <pubTitle>Slovenski pravniki med NOB</pubTitle>
+      <editor>Pavličič, Jože</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza društev pravnikov Slovenije</publisher>
       <year>1985</year>
+      <pubCobiss>58155</pubCobiss>
       <chapters>
          <pubPart>
             <author>Damijan Viktor</author>
@@ -16360,16 +16222,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovensko izseljenstvo: zbornik ob 5O-letnici Slovenske izseljenske matice</pubTitle>
-      <pubTitle>Slovensko izseljenstvo: zbornik ob 50-letnici Slovenske izseljenske matice</pubTitle>
-      <pubTitle>Slovensko izseljenstvo: Zbornik ob 50-letnici Slovenske izseljenske matice</pubTitle>
-      <pubTitle>Slovensko izseljenstvo. Zbornik ob 50-letnici Slovenske izseljenske matice</pubTitle>
-      <pubTitle>Slovensko izseljenstvo : zbornik ob 50-letnici Slovenske izseljenske matice</pubTitle>
+      <pubTitle>Slovensko izseljenstvo</pubTitle>
+      <pubTitle>zbornik ob 5O-letnici Slovenske izseljenske matice</pubTitle>
+      <editor>Trebše-Štolfa, Milica</editor>
+      <editor>Klemenčič, Matjaž</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Združenje Slovenska izseljenska matica</publisher>
-      <publisher>Slovenska izseljenska matica</publisher>
       <year>2001</year>
-      <year>2002</year>
+      <pubCobiss>115722752</pubCobiss>
       <chapters>
          <pubPart>
             <author>Cevc Franc</author>
@@ -16623,35 +16483,14 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletu / Slowenisch-österreichische Beziehungen im 20. Jahrhunder</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju: slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju: Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju/Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju. Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju, Historia 8</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju = Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju = Slowenisch-dsterreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju /Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju / Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubTitle>
       <pubTitle>Slovensko-avstrijski odnosi v 20. stoletju</pubTitle>
-      <pubTitle>Slovensko-avstrijski odnosi v 20 stoletju/ Sloiuenisch-osterreichische Beziehungen im 20. Jahrhundert , Historia 8,</pubTitle>
-      <pubTitle>Slovensko avstrijski odnosi v 20. stoletju</pubTitle>
+      <pubAddTitle>Slowenisch-österreichische Beziehungen im 20. Jahrhundert</pubAddTitle>
+      <editor>Nećak Dušan</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>ljubljana</pubPlace>
-      <publisher>Historija</publisher>
       <publisher>Oddelek za zgodovino Filozofske fakultete</publisher>
-      <publisher>Historia</publisher>
-      <publisher>Historia 8, Znanstvena zbirka Oddelka za zgodovino Filozofske fakultete v Ljubljani</publisher>
-      <publisher>Oddelek za zgodovino Filozofske fakultete Univerze v Ljubljani</publisher>
-      <publisher>Oddelek za zgodovino FF V Ljubljani</publisher>
-      <publisher>Oddelek za zgdovino Filozoska fakultete Univerze v Ljubljani</publisher>
-      <publisher>Oddelek za zgodovino FF</publisher>
-      <publisher>Znanstvena zbirka Oddelka za zgodovino Filozofske fakultete Univerze v Ljubljani, Historia 8</publisher>
+      <collection>Historia ; 8</collection>
       <year>2004</year>
-      <volume>8</volume>
-      <issue>81-94</issue>
-      <issue>Historia ; 8</issue>
-      <issue>8</issue>
+      <pubCobiss>215785472</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
@@ -16985,31 +16824,16 @@ jugoslovanske krize</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenski upor. Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
-      <pubTitle>Slovenski upor : slovenski upor pred pol stoletja: Zbornik referatov na znanstvenem posvetu v dneh 23. in 24.</pubTitle>
-      <pubTitle>Slovenski upor 1941: Osvobodilna fronta slovenskega naroda pred pol stoletja: zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljani</pubTitle>
-      <pubTitle>Slovenski upor 1941: Osvobodilna fronta slovenskega naroda pred pol stoletja, Zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljani</pubTitle>
-      <pubTitle>Slovenski upor 1941: Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
-      <pubTitle>Slovenski upor 1941. Osvobodilna fronta slovenskega naroda pred pol stoletja.</pubTitle>
-      <pubTitle>Slovenski upor 1941. Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
-      <pubTitle>Slovenski upor 1941, SAZU</pubTitle>
-      <pubTitle>Slovenski upor 1941, Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
-      <pubTitle>Slovenski upor 1941 : Osvobodilna fronta slovenskega naroda pred pol stoletja, zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljani</pubTitle>
-      <pubTitle>Slovenski upor 1941 : Osvobodilna fronta slovenskega naroda pred pol stoletja : zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljani</pubTitle>
-      <pubTitle>Slovenski upor 1941 : Osvobodilna fronta slovenskega naroda pred pol stoletja : zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljan</pubTitle>
-      <pubTitle>Slovenski upor 1941 : Osvobodilna fronta slovenskega naroda pred pol stoletja : zbornik referatov</pubTitle>
-      <pubTitle>Slovenski upor 1941 : Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
       <pubTitle>Slovenski upor 1941</pubTitle>
-      <pubTitle>Slovenski upor</pubTitle>
+      <pubTitle>Osvobodilna fronta slovenskega naroda pred pol stoletja</pubTitle>
+      <pubTitle>zbornik referatov na znanstvenem posvetu v dneh 23. in 24. maja 1991 v Ljubljani</pubTitle>
+      <editor>Gestrin, Ferdo</editor>
+      <editor>Grafenauer, Bogo</editor>
+      <editor>Pleterski, Janko</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubljana - Washington</pubPlace>
-      <publisher>SAZU</publisher>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Slovenska akademija</publisher>
-      <publisher>Slovenska akademija znanosti in umetnost</publisher>
       <year>1991</year>
-      <year>1996</year>
-      <year>1941</year>
+      <pubCobiss>28126464</pubCobiss>
       <chapters>
          <pubPart>
             <author>Biber Dušan</author>
@@ -17413,36 +17237,15 @@ odmevi 1941-42</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenija 1848–1998: iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848–1998 : iskanje lastne poti</pubTitle>
       <pubTitle>Slovenija 1848–1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998: iskanje lastne poti : znanstveno posvetovanje, Maribor, 16.-17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998: iskanje lastne poti : mednarodni znanstveni simpozij, Maribor, Narodni dom - Pokrajinski muzej, 16. - 17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998: iskanje lastne poti : mednarodni znanstveni simpozij</pubTitle>
-      <pubTitle>Slovenija 1848-1998: iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848-1998: Iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848-1998, iskanje lastne poti, mednarodni znanstveni simpozij</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti, mednarodni znanstveni simpozij</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti : znanstveno posvetovanje, Maribor, 16.- 17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti : mednarodni znanstveni simpozij, Maribor, Narodni dom - Pokrajinski muzej, 16.- 17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti : mednarodni znanstveni simpozij, Maribor, Narodni dom - Pokrajinski muzej, 16. - 17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti : mednarodni znanstveni simpozij, Maribor, Narodni dom - Pokrajinski muzej 16. - 17. april 1998</pubTitle>
-      <pubTitle>Slovenija 1848-1998 : iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848-1991: iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848-1948 : iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848--1998: Iskanje lastne poti</pubTitle>
-      <pubTitle>Slovenija 1848- 1998: iskanje lastne poti</pubTitle>
-      <pubPlace>Ljbuljana</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
+      <pubTitle>iskanje lastne poti</pubTitle>
+      <pubTitle>znanstveno posvetovanje, Maribor, 16.-17. april 1998</pubTitle>
+      <editor>Melik, Vasilij</editor>
       <pubPlace>Maribor</pubPlace>
-      <publisher>Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Narodni dom : Pokrajinski muzej</publisher>
-      <publisher>ZZDS</publisher>
-      <publisher>Zveza zgodovinskih društev</publisher>
-      <publisher>Univerza v Mariboru in Zveza zgodovinskih društev Slovenije</publisher>
+      <publisher>Narodni dom</publisher>
+      <publisher>Pokrajinski muzej</publisher>
       <year>1998</year>
-      <year>1988</year>
-      <issue>15-20</issue>
+      <pubCobiss>7367981</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bergant Zvonko</author>
@@ -17963,15 +17766,13 @@ odmevi 1941-42</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenija v letu 1945: zbornik referatov z mednarodnega znanstvenega posveta Slovenija v letu 1945, 27. in 28. septembra 1995 v Ljubljani</pubTitle>
-      <pubTitle>Slovenija v letu 1945, zbornik referatov</pubTitle>
-      <pubTitle>Slovenija v letu 1945 : zbornik referatov [z mednarodnega znanstvenega posveta Slovenija v letu 1945, 27. in 28. septembra 1995 v Ljubljani]</pubTitle>
-      <pubTitle>Slovenija v letu 1945 : zbornik referatov</pubTitle>
       <pubTitle>Slovenija v letu 1945</pubTitle>
+      <pubTitle>zbornik referatov z mednarodnega znanstvenega posveta Slovenija v letu 1945, 27. in 28. septembra 1995 v Ljubljani</pubTitle>
+      <editor>Gabrič, Aleš</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
       <year>1996</year>
-      <year>1995</year>
+      <pubCobiss>57087744</pubCobiss>
       <chapters>
          <pubPart>
             <author>Ferenc Tone</author>
@@ -18160,19 +17961,14 @@ cerkev</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenska trideseta leta: simpozij 1995</pubTitle>
-      <pubTitle>Slovenska trideseta leta, zbornik</pubTitle>
-      <pubTitle>Slovenska trideseta leta, simpozij</pubTitle>
-      <pubTitle>Slovenska trideseta leta, Simpozij 1995</pubTitle>
-      <pubTitle>Slovenska trideseta leta : simpozij 1995.</pubTitle>
-      <pubTitle>Slovenska trideseta leta : simpozij 1995</pubTitle>
       <pubTitle>Slovenska trideseta leta</pubTitle>
+      <pubTitle>simpozij 1995</pubTitle>
+      <editor>Vodopivec, Peter</editor>
+      <editor>Mahnič, Joža</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
-      <publisher>Slovenska matica v Ljubljani</publisher>
-      <publisher>Slovenska Matica</publisher>
       <year>1997</year>
-      <year>1995</year>
+      <pubCobiss>66474240</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
@@ -18600,19 +18396,14 @@ Slovencih v tridesetih letih</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave</pubTitle>
-      <pubTitle>Slovensko-hrvaški obmejni prostor: življenje ob meji.</pubTitle>
-      <pubTitle>Slovensko-hrvaški obmejni prostor: življenje ob meji : predstavitev rezultatov terenske raziskave</pubTitle>
       <pubTitle>Slovensko-hrvaški obmejni prostor: življenje ob meji</pubTitle>
-      <pubTitle>Slovensko-hrvaški obmejni prostor: Življenje ob meji</pubTitle>
-      <pubTitle>Slovensko-hrvaški obmejni prostor. Življenje ob meji. Predstavitev rezultatov terenske raziskave</pubTitle>
-      <pubTitle>Slovensko-hrvaški obmejni prostor</pubTitle>
-      <pubTitle>Slovensko-hrvaski obmejni prostor: življenje ob meji</pubTitle>
+      <pubTitle>Predstavitev rezultatov terenske raziskave</pubTitle>
+      <editor>Kržišnik-Bukić, Vera</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
       <publisher>Inštitut za narodnostna vprašanja</publisher>
+      <collection>Projekt Medetnični odnosi v obmejnem prostoru med Slovenijo in Hrvaško ; zv. 2</collection>
       <year>1999</year>
-      <year>0</year>
+      <pubCobiss>98253568</pubCobiss>
       <chapters>
          <pubPart>
             <author>Kržišnik Bukić Vera</author>
@@ -18800,13 +18591,14 @@ Slovencih v tridesetih letih</title>
    </source>
    <source>
       <pubTitle>Soški protokol</pubTitle>
-      <pubPlace>Celovec - Ljubljana - Dunaj</pubPlace>
-      <pubPlace>Celovec , Ljubljana , Dunaj</pubPlace>
-      <pubPlace>Celovec, Ljubljana, Dunaj</pubPlace>
-      <pubPlace>Celovec-Ljubljana-Dunaj</pubPlace>
-      <pubPlace>Celovec - Ljubljana - dunaj</pubPlace>
+      <editor>Krahwinkler, Harald</editor>
+      <pubPlace>Celovec</pubPlace>
+      <pubPlace>Dunaj</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Mohorjeva družba</publisher>
       <publisher>Mohorjeva založba</publisher>
       <year>1994</year>
+      <pubCobiss>34164</pubCobiss>
       <chapters>
          <pubPart>
             <author>Celso Macor</author>
@@ -18940,19 +18732,14 @@ Slovencih v tridesetih letih</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Splošno žensko društvo : 1901-1945 : od dobrih deklet do feministk</pubTitle>
-      <pubTitle>Splošno žensko društvo : 1901-1945 : Od dobrih deklet do feministk</pubTitle>
       <pubTitle>Splošno žensko društvo : 1901-1945</pubTitle>
-      <pubTitle>Splošno žensko društvo 1901-1945</pubTitle>
-      <pubTitle>Splošno žensko društvo</pubTitle>
+      <pubTitle>od dobrih deklet do feministk</pubTitle>
+      <editor>Budna Kodrič, Nataša</editor>
+      <editor>Serše, Aleksandra</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Arhiv republike Slovenije</publisher>
-      <publisher>ARS</publisher>
       <publisher>Arhiv Republike Slovenije</publisher>
-      <publisher>Arhiv RS</publisher>
-      <publisher>Arhiv Republike Slovenije.</publisher>
       <year>2003</year>
-      <year>1993</year>
+      <pubCobiss>122836224</pubCobiss>
       <chapters>
          <pubPart>
             <author>Budna Kodrič A.</author>
@@ -19188,29 +18975,13 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Spominski zbornik Slovenije; Ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije: ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije. Ob 20-letnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije, ob dvajsetletnici Kraljevine Jugoslavije : Kulturne ustanove</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije, ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : ob dvajsetletnici kraljevine Jugoslavije : jubilej</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : ob dvajsetletnici kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : ob dvajsetletnici Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : ob
-            dvajsetletnici kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : Ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenije : Ob
-            dvajsetletnici kraljevine Jugoslavije</pubTitle>
       <pubTitle>Spominski zbornik Slovenije</pubTitle>
-      <pubTitle>Spominski zbornik Slovenija</pubTitle>
+      <pubTitle>ob dvajsetletnici Kraljevine Jugoslavije</pubTitle>
+      <editor>Lavrič, Jože</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Jubilej</publisher>
-      <publisher>Založba Jubilej</publisher>
-      <publisher>Jublej</publisher>
       <year>1939</year>
-      <year>1938</year>
+      <pubCobiss>17619201</pubCobiss>
       <chapters>
          <pubPart>
             <author>Baš Franjo</author>
@@ -19803,22 +19574,13 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Srednjeveška kulturna. družbena in politična zgodovina Slovencev</pubTitle>
-      <pubTitle>Srednjeveška kulturna. Družbena in politična zgodovina Slovencev. Izbrane razprave</pubTitle>
-      <pubTitle>Srednjeveška kulturna, družbena in poltična zgodovina Slovencev</pubTitle>
-      <pubTitle>Srednjeveška kulturna, družbena in politična zgodovina Slovencev. Izbrane razprave</pubTitle>
-      <pubTitle>Srednjeveška kulturna, družbena in politična zgodovina Slovencev, Izbrane razprave</pubTitle>
       <pubTitle>Srednjeveška kulturna, družbena in politična zgodovina Slovencev</pubTitle>
-      <pubTitle>Srednjeveška kulturna, družbena in politična zgodovina Slovence</pubTitle>
-      <pubTitle>Srednjeveška kulturna,
-            družbena in politična zgodovina Slovencev</pubTitle>
-      <pubTitle>Srednjeveška kulturna družbena in politična zgodovina Slovencev</pubTitle>
+      <pubTitle>izbrane razprave</pubTitle>
+      <editor>Grafenauer, Bogo</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
-      <publisher>Izbrane razprave</publisher>
-      <publisher>Slovenska matica Ljubljana</publisher>
       <year>1985</year>
-      <volume>1985</volume>
+      <pubCobiss>15687681</pubCobiss>
       <chapters>
          <pubPart>
             <author>Kos Milko</author>
@@ -19942,20 +19704,13 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Svet med Muro in dravo</pubTitle>
-      <pubTitle>Svet med Muro in Rabo</pubTitle>
-      <pubTitle>Svet med Muro in Dravo: ob stoletnici 1. slovenskega tabora v Ljutomeru 1868-1968</pubTitle>
-      <pubTitle>Svet med Muro in Dravo. Ob 100-letnici 1. slovenskega tabora v Ljutomeru</pubTitle>
-      <pubTitle>Svet med Muro in Dravo, Ob stoletnici 1. slovenskega tabora v Ljutomeru 1868-1968</pubTitle>
       <pubTitle>Svet med Muro in Dravo</pubTitle>
-      <pubTitle>Svet med Dravo in Muro, ob stoletnici 1. slovenskega tabora v Ljutomeru 1868-1968</pubTitle>
+      <pubTitle>ob stoletnici 1. slovenskega tabora v Ljutomeru 1868-1968</pubTitle>
+      <editor>Vrbnjak, Viktor</editor>
       <pubPlace>Maribor</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
       <publisher>Obzorja</publisher>
-      <publisher>Založba Obzorja</publisher>
-      <publisher>Založba obzorja</publisher>
-      <publisher>Založba Obzorja Maribor</publisher>
       <year>1968</year>
+      <pubCobiss>18901760</pubCobiss>
       <chapters>
          <pubPart>
             <author>Ftičar Jože</author>
@@ -20076,19 +19831,15 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Temeljne prelomnice preteklih tisočletij: zbornik referatov</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih tisočletj : 30. zborovanje slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih tisočletij.Zbornik referatov. 30. zborovanje slovenskih zgodovinarjev, Rogla, 28.-30.9.2000</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih tisočletij. 30. zborovanje slovenskih zgodovinarjev, Rogla, 28.-30. 9. 2000</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih tisočletij : zbornik referatov</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih tisočletij : 30. zborovanje slovenskih zgodovinarjev</pubTitle>
       <pubTitle>Temeljne prelomnice preteklih tisočletij</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih stoletij, zbornik referatov</pubTitle>
-      <pubTitle>Temeljne prelomnice preteklih stoletij</pubTitle>
+      <pubTitle>zbornik referatov</pubTitle>
+      <pubTitle>30. zborovanje slovenskih zgodovinarjev, Rogla, 28.-30. september 2000</pubTitle>
+      <editor>Granda, Stane</editor>
+      <editor>Šatej, Barbara</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>Zveza zgodovinskih društv Slovenije</publisher>
       <year>2001</year>
+      <pubCobiss>111832576</pubCobiss>
       <chapters>
          <pubPart>
             <author>Brodnik Vilma</author>
@@ -20218,25 +19969,14 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Temna stran meseca: kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
-      <pubTitle>Temna stran meseca: Kratka zgodovina totalitarizma v Sloveniji 1945-1990, Nova revija</pubTitle>
-      <pubTitle>Temna stran meseca...</pubTitle>
-      <pubTitle>Temna stran meseca. Kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
-      <pubTitle>Temna stran meseca, Kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945–1990 : zbornik člankov in dokumentov</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945–1990</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945-1990 : zbornik člankov in dokumentov</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945-1990 : zbornik dokumentov in člankov</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945-1990 (ur. Drago Jančar)</pubTitle>
-      <pubTitle>Temna stran meseca : kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
-      <pubTitle>Temna stran meseca : Kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
-      <pubTitle>Temna stran meseca - Kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
       <pubTitle>Temna stran meseca</pubTitle>
+      <pubTitle>kratka zgodovina totalitarizma v Sloveniji 1945-1990</pubTitle>
+      <pubTitle>zbornik člankov in dokumentov</pubTitle>
+      <editor>Jančar, Drago</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nova revija</publisher>
       <year>1998</year>
-      <year>1999</year>
-      <issue>20</issue>
+      <pubCobiss>79178240</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolinar F. M.</author>
@@ -20465,14 +20205,16 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>The constitutional and political regulation of ethnic relations and conflicts: Selected papers ; Ethnicity</pubTitle>
-      <pubTitle>The constitutional and political regulation of ethnic relations and conflicts, Ethnicity</pubTitle>
-      <pubTitle>The Constitutional and Political Regulations of Ethnic Relations and Conflicts</pubTitle>
-      <pubTitle>The Constitutional and Political Regulation of Ethnic Relations and Conflicts</pubTitle>
+      <pubTitle>The constitutional and political regulation of ethnic relations and conflicts</pubTitle>
+      <pubTitle>selected papers</pubTitle>
+      <editor>Žagar, Mitja</editor>
+      <editor>Jesih, Boris</editor>
+      <editor>Bešter, Romana</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <publisher>Institute for Ethnic Studies</publisher>
+      <collection>Ethnicity ; 2</collection>
       <year>1999</year>
-      <issue>2</issue>
+      <pubCobiss>97931008</pubCobiss>
       <chapters>
          <pubPart>
             <author>Loone Eero</author>
@@ -20510,15 +20252,14 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>To in ono, o meščanstvu v provinci, katalog razstave</pubTitle>
-      <pubTitle>To in ono o meščanstvu v provinci</pubTitle>
-      <pubTitle>To in ono o meščanstvu</pubTitle>
-      <pubTitle>To in ono meščanstvo v provinci</pubTitle>
+      <pubTitle>To in ono, o meščanstvu v provinci</pubTitle>
+      <pubTitle>iz življenja celjskega meščanstva v 19. stoletju</pubTitle>
+      <editor>Badovinac, Tatjana</editor>
+      <editor>Fugger Germadnik, Rolanda</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Pokrajinski muzej</publisher>
-      <publisher>Pokrajinski muzej Celje</publisher>
       <year>1995</year>
-      <year>1999</year>
+      <pubCobiss>47978496</pubCobiss>
       <chapters>
          <pubPart>
             <author>Cvirn Janez</author>
@@ -20635,18 +20376,13 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Usoda slovenskih demokratičnih izobražencev : Angela Vode in Boris Furlan, žrtvi Nagodetovega procesa</pubTitle>
-      <pubTitle>Usoda slovenskih demokratičnih izobražencev: Angela Vode in Boris Furlan žrtvi Nagodetovega procesa</pubTitle>
-      <pubTitle>Usoda slovenskih demokratičnih izobražencev: Angela Vode in Boris Furlan - žrtvi Nagodeto-vega procesa</pubTitle>
-      <pubTitle>Usoda slovenskih demokratičnih izobražencev...</pubTitle>
-      <pubTitle>Usoda slovenskih demokratičnih izobražencev : Angela Vode in Boris Furlan - žrtvi Nagodetovega procesa</pubTitle>
       <pubTitle>Usoda slovenskih demokratičnih izobražencev</pubTitle>
-      <pubTitle>Usoda slovel skih demokratičnih izobražencev : Angela Vode in Boris Furizr - žrtvi Nagodetovega procesa</pubTitle>
+      <pubTitle>Angela Vode in Boris Furlan, žrtvi Nagodetovega procesa</pubTitle>
+      <editor>Vodopivec, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
       <year>2001</year>
-      <year>1992</year>
-      <volume>2001</volume>
+      <pubCobiss>115111680</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
@@ -20851,23 +20587,14 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Valvasorjev zbornik, Ob 300 letnici izida Slave Vojvodine Kranjske, Referati s simpozija v Ljubljani</pubTitle>
-      <pubTitle>Valvasorjev zbornik, Ob 300 letnici izida Slave Vojvodine Kranjske - referati s simpozija v Ljubljani 1989</pubTitle>
-      <pubTitle>Valvasorjev zbornik ob 300 letnici izida Slave vojvodine Kranjske. Referati s simpozija v Ljubljani 1989</pubTitle>
-      <pubTitle>Valvasorjev zbornik ob 300 letnici izida Slave vojvodine Kranjske</pubTitle>
-      <pubTitle>Valvasorjev zbornik ob 300 letnici izida Slave Vojvodine Kranjske, Referati s simpozija v Ljubljani 1989</pubTitle>
-      <pubTitle>Valvasorjev zbornik : ob 300 letnici izida Slave vojvodine Kranjske : referati s simpozija v Ljubljani 1989</pubTitle>
       <pubTitle>Valvasorjev zbornik</pubTitle>
+      <pubTitle>ob 300-letnici izida Slave Vojvodine Kranjske</pubTitle>
+      <pubTitle>referati s simpozija v Ljubljani 1989</pubTitle>
+      <editor>Vovko, Andrej</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Slovenska akademija znanosti in umetnosti, Odbor za proslavo 300 letnice izida Valvasorjeve Slave</publisher>
-      <publisher>Založila SAZU in Odbor za proslavo 300 letnice izida Valvasorjeve Slave</publisher>
-      <publisher>SAZU in Odbor za proslavo 300 letnice izida Valvasorjeve Slave</publisher>
-      <publisher>SAZU</publisher>
-      <publisher>Slovenska akademija znanosti in umetnosti : Odbor za proslavo 300 letnice izida Valvasorjeve Slave</publisher>
+      <publisher>SAZU, Odbor za proslavo 300-letnice izida Valvasorjeve Slave</publisher>
       <year>1990</year>
-      <volume>1990</volume>
-      <issue>1990</issue>
+      <pubCobiss>23632384</pubCobiss>
       <chapters>
          <pubPart>
             <author>Baraga France</author>
@@ -21006,29 +20733,14 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Vekov tek: Kostanjevica na Krki 1252-2002. Zbornik ob 750. obletnici prve listinske omembe mesta. Kostanjevica na Krki, Krajevna skupnost</pubTitle>
-      <pubTitle>Vekov vek</pubTitle>
-      <pubTitle>Vekov tek: Kostanjevica na Krki 1252-2002 - zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek. Zbornik ob 750. obletnici prve listinske omembe mesta. Kostanjevica na Krki 1252 -2002</pubTitle>
-      <pubTitle>Vekov tek. Krajevna skupnost. Organizacijski odbor za praznovanje 750. obletnice prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek. Kostanjevica na Krki 1252—2002. Zbornik ob 750. letnici prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek. Kostanjevica na Krki 1252-2002. Zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek. Kostanjevica na Krki 1252-2002. Zbornik ob 750. obletnici prve listinske omembe mesia</pubTitle>
-      <pubTitle>Vekov tek. Kostanjevica na Krki 1252-2002</pubTitle>
-      <pubTitle>Vekov tek. Kostanjevica na Krki 1252 2002. Zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek : Zbornik ob 750. obletnici prve listinske omembe mesta : Kostanjevica na Krki 1252-2002</pubTitle>
-      <pubTitle>Vekov tek : Zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
-      <pubTitle>Vekov tek : Kostanjevica na Krki 1252-2002 : zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
       <pubTitle>Vekov tek</pubTitle>
-      <pubTitle>Vekov Tek. Zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
+      <pubTitle>Kostanjevica na Krki 1252-2002</pubTitle>
+      <pubTitle>zbornik ob 750. obletnici prve listinske omembe mesta</pubTitle>
+      <editor>Smrekar, Andrej</editor>
       <pubPlace>Kostanjevica na Krki</pubPlace>
-      <pubPlace>Kostanjevica na Krki :</pubPlace>
-      <pubPlace>Kostanjevica</pubPlace>
-      <pubPlace>Kostanjevica na Krki, Krajevna skupnost</pubPlace>
-      <publisher>Krajevna skupnost : Organizacijski odbor za praznovanje 750. obletnice prve listinske omembe mesta</publisher>
-      <publisher>Krajevna skupnost, Organizacijski odbor za praznovanje 750. obletnice prve listinske omembe mesta, Kostanjevica na Krki</publisher>
+      <publisher>Krajevna skupnost: Organizacijski odbor za praznovanje 750. obletnice prve listinske omembe mesta</publisher>
       <year>2003</year>
-      <volume>2003</volume>
+      <pubCobiss>122322432</pubCobiss>
       <chapters>
          <pubPart>
             <author>Golec Boris</author>
@@ -21179,26 +20891,15 @@ mladine</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Vilfanov zbornik: Pravo - zgodovina - narod</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo-zgodovina -narod</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo - zgodovina — narod. Recht - Geschichte — Nation</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo - zgodovina narod/ Recht - Geschichte - Nation. In memoriam Sergij Vilfan</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo - zgodovina - narod. Recht - Geschichte - Nation</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo - zgodovina - narod, Recht - Geschichte - Nation</pubTitle>
-      <pubTitle>Vilfanov zbornik. Pravo - zgodovina - narod</pubTitle>
-      <pubTitle>Vilfanov zbornik, Pravo - zgodovina - narod</pubTitle>
-      <pubTitle>Vilfanov zbornik : pravo, zgodovina, narod = Recht, Geschichte, Nation</pubTitle>
-      <pubTitle>Vilfanov zbornik : pravo, zgodovina, narod</pubTitle>
-      <pubTitle>Vilfanov zbornik : pravo - zgodovina - narod</pubTitle>
       <pubTitle>Vilfanov zbornik</pubTitle>
+      <pubTitle>pravo, zgodovina, narod</pubTitle>
+      <pubAddTitle>Recht, Geschichte, Nation</pubAddTitle>
+      <editor>Rajšp, Vincenc</editor>
+      <editor>Bruckmüller, Ernst</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC</publisher>
-      <publisher>Založba ZRC (ZRC SAZU)</publisher>
-      <publisher>ZRC SAZU</publisher>
-      <publisher>Založba ZRC</publisher>
+      <publisher>Založba ZRC, ZRC SAZU, Zgodovinski inštitut Milka Kosa</publisher>
       <year>1999</year>
-      <year>1990</year>
-      <volume>1998</volume>
+      <pubCobiss>99742976</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bernhard Günther</author>
@@ -21510,19 +21211,15 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Viri, Viri o demokratizaciji in osamosvojitvi Slovenije. (Del 4, Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije),</pubTitle>
-      <pubTitle>Viri, Viri o demokratizaciji in osamosvojitvi Slovenije. (Del 4, Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije)</pubTitle>
-      <pubTitle>Viri, Viri o demokratizaciji in osamosvojitvi Slovenije, (Del 4, Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije)</pubTitle>
-      <pubTitle>Viri o demokratizaciji in osamosvojitvi Slovenije. IV. del: Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije</pubTitle>
-      <pubTitle>Viri o demokratizaciji in osamosvojitvi Slovenije. Del 4: Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije (=Viri)</pubTitle>
-      <pubTitle>Viri o demokratizaciji in osamosvojitvi Slovenije. Del 4: Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije</pubTitle>
-      <pubTitle>Viri o demokratizaciji in osamosvojitvi Slovenije : IV del : Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije</pubTitle>
-      <pubTitle>Viri : Viri o demokratizaciji in osamosvojitvi Slovenije : IV. del: Slovenci v zamejstvu in po svetu</pubTitle>
+      <pubTitle>Viri o demokratizaciji in osamosvojitvi Slovenije</pubTitle>
+      <pubTitle>del 4, Slovenci v zamejstvu in po svetu ter mednarodno priznanje Slovenije)</pubTitle>
+      <editor>Klemenčič, Matjaž</editor>
+      <editor>Trebše Štolfa, Milica</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Arhivsko društvo Slovenije</publisher>
+      <collection>Viri ; 20</collection>
       <year>2005</year>
-      <volume>20</volume>
-      <issue>20</issue>
+      <pubCobiss>219905024</pubCobiss>
       <chapters>
          <pubPart>
             <author>Klemenčič Matjaž</author>
@@ -21616,22 +21313,17 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Vojna in mir na Primorskem: od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na primorskem: od kapitulacije Italije leta 1943 do Londonskega memuranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem: Od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem. Od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem. Knjižnica Annales Majora</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem, Od kapitulacije Italije leta 1953 do londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem, Od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem, Od kapitulacije Italije " leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
-      <pubTitle>Vojna in mir na Primorskem : od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
       <pubTitle>Vojna in mir na Primorskem</pubTitle>
+      <pubTitle>od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</pubTitle>
+      <editor>Pirjevec, Jože</editor>
+      <editor>Bajc, Gorazd</editor>
+      <editor>Klabjan, Borut</editor>
       <pubPlace>Koper</pubPlace>
-      <publisher>Založba Annales</publisher>
-      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales : Zgodovinsko društvo za južno Primorsko</publisher>
-      <publisher>Annales</publisher>
-      <publisher>UP</publisher>
+      <publisher>Univerza na Primorskem, Znanstveno-raziskovalno središče, Založba Annales</publisher>
+      <publisher>Zgodovinsko društvo za južno Primorsko</publisher>
+      <collection>Knjižnica Annales Majora</collection>
       <year>2005</year>
+      <pubCobiss>223759104</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bajc Gorazd</author>
@@ -21838,16 +21530,13 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zakladi tisočletij: Zgodovina Slovenije od neandertalcev do Slovanov</pubTitle>
-      <pubTitle>Zakladi tisočletij. Zgodovina Slovenije odneandertalcev do Slovanov</pubTitle>
-      <pubTitle>Zakladi tisočletij. Zgodovina Slovenije od neandertalcev do Slovanov</pubTitle>
-      <pubTitle>Zakladi tisočletij : zgodovina Slovenije od neandertalcev do Slovanov</pubTitle>
-      <pubTitle>Zakladi tisočletij - Zgodovina Slovenije od neandertalcev do Slovanov</pubTitle>
       <pubTitle>Zakladi tisočletij</pubTitle>
-      <pubTitle>Zakladi lisočletij</pubTitle>
+      <pubTitle>zgodovina Slovenije od neandertalcev do Slovanov</pubTitle>
+      <editor>Aubelj, Bronislava</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Modrijan</publisher>
       <year>1999</year>
+      <pubCobiss>98501632</pubCobiss>
       <chapters>
          <pubPart>
             <author>Božič D.</author>
@@ -22027,18 +21716,14 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega gepgrafskega društva = Vodniki Ljubljanskega geografskega društva, Evropa</pubTitle>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega geopgrafskega društva = Vodniki Ljubljanskega geografskega društva, Evropa</pubTitle>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva, Evropa</pubTitle>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva = Vodniki Ljubljanskega gepgrafskega društva, Evropa</pubTitle>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva = Vodniki Ljubljanskega geografskega društva, Evropa</pubTitle>
-      <pubTitle>Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva = Vodniki Ljubljanskega geografskega društva</pubTitle>
-      <pubTitle>Zamejsk Hrvaška: ekskurzije Ljubljanskega geografskega društva = Vodniki Ljubljanskega geografskega društva, Evropa</pubTitle>
+      <pubTitle>Zamejska Hrvaška</pubTitle>
+      <pubTitle>ekskurzije Ljubljanskega geografskega društva</pubTitle>
+      <editor>Kladnik, Drago</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZRC, ZRC SAZU</publisher>
+      <publisher>Založba ZRC, ZRC SAZU</publisher>
+      <collection>Vodniki Ljubljanskega geografskega društva. Evropa ; 7</collection>
       <year>2008</year>
-      <issue>7</issue>
-      <issue>1</issue>
+      <pubCobiss>239274240</pubCobiss>
       <chapters>
          <pubPart>
             <author>Biruš Marijan</author>
@@ -22183,16 +21868,13 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zaščita narodnoosvobodilnega boja: gradivo s posvetovanja v Ljubljani, 23. in 24. 11. 1976</pubTitle>
-      <pubTitle>Zaščita narodnoosvobodilnega boja: gradivo s posvetovanja v Ljubljani</pubTitle>
-      <pubTitle>Zaščita narodnoosvobodilnega boja, Republiški sekretariat Socialistične republike Slovenije za notranje zadeve</pubTitle>
       <pubTitle>Zaščita narodnoosvobodilnega boja</pubTitle>
-      <pubTitle>Zaščita Narodnoosvobodilnega boja</pubTitle>
-      <pubTitle>Zaščita NOB boja</pubTitle>
+      <pubTitle>gradivo s posvetovanja v Ljubljani, 23. in 24. 11. 1976</pubTitle>
+      <editor>Kidrič, Zdenka Marjeta</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Republiški sekretariat za notranje zadeve SR Slovenije</publisher>
       <year>1979</year>
-      <year>1976</year>
+      <pubCobiss>1146228</pubCobiss>
       <chapters>
          <pubPart>
             <author>Biber Dušan</author>
@@ -22279,11 +21961,11 @@ Furlaniji in v Karniji : 1943-1945</title>
    </source>
    <source>
       <pubTitle>Zbornik občine Domžale</pubTitle>
+      <editor>Gedrih, Janko</editor>
       <pubPlace>Domžale</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
       <publisher>Kulturna skupnost</publisher>
-      <publisher>Kulturna skupnost Domžale</publisher>
       <year>1979</year>
+      <pubCobiss>29775105</pubCobiss>
       <chapters>
          <pubPart>
             <author>Ferenc Tone</author>
@@ -22388,15 +22070,12 @@ Furlaniji in v Karniji : 1943-1945</title>
    </source>
    <source>
       <pubTitle>Zbornik Janka Pleterskega</pubTitle>
-      <pubTitle>Zbornik Janka Pleterskega, založba ZRC, ZRC SAZU</pubTitle>
+      <editor>Luthar, Oto</editor>
+      <editor>Perovšek, Jurij</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zgodovinski inštitut Milka Kosa ZRC SAZU</publisher>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
-      <publisher>ZRC, ZRC SAZU</publisher>
-      <publisher>ZRC SAZU</publisher>
-      <publisher>Založba ZRC</publisher>
       <year>2003</year>
-      <year>1998</year>
+      <pubCobiss>124265216</pubCobiss>
       <chapters>
          <pubPart>
             <author>Biber Dušan</author>
@@ -22674,11 +22353,12 @@ Furlaniji in v Karniji : 1943-1945</title>
    </source>
    <source>
       <pubTitle>Zbornik Primorske – 50 let</pubTitle>
-      <pubTitle>Zbornik Primorske - 50 let, Primorske novice</pubTitle>
-      <pubTitle>Zbornik Primorske - 50 let</pubTitle>
+      <editor>Valentinčič, Slobodan</editor>
       <pubPlace>Koper</pubPlace>
       <publisher>Primorske novice</publisher>
+      <collection>Knjižnica Primorskih novic ; 5</collection>
       <year>1997</year>
+      <pubCobiss>70493440</pubCobiss>
       <chapters>
          <pubPart>
             <author>Križman M.</author>
@@ -22808,14 +22488,12 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zbornik simpozija ob stoletnici začetka gradnje prve slovenske gimnazije, [8. novembra 2001]</pubTitle>
-      <pubTitle>Zbornik simpozija ob stoletnici začetka gradnje prve slovenske gimnazije</pubTitle>
-      <pubTitle>Zbornik simpozija ob stoletnici gradnje prve slovenske gimnazije, 8. november 2001</pubTitle>
+      <pubTitle>Zbornik simpozija ob stoletnici začetka gradnje prve slovenske gimnazije, 8. novembra 2001</pubTitle>
+      <editor>Jernejčič, Robert A.</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>ljubljana</pubPlace>
-      <publisher>Zavod Sv. Stanislava</publisher>
       <publisher>Zavod sv. Stanislava</publisher>
       <year>2002</year>
+      <pubCobiss>120750336</pubCobiss>
       <chapters>
          <pubPart>
             <author>Jamnik Anton</author>
@@ -22898,20 +22576,15 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zemlja pod vašimi nogami: arheologija na avtocestah Slovenije</pubTitle>
-      <pubTitle>Zemlja pod vašimi nogami: Arheologija na avtocestah Slovenije: vodnik po najdiščih</pubTitle>
-      <pubTitle>Zemlja pod vašimi nogami. Arheologija na avtocestah Slovenije. Zbirka: Dnevi evropske kulturne dediščine</pubTitle>
-      <pubTitle>Zemlja pod vašimi nogami. Arheologija na avtocestah Slovenije, Zbirka: Dnevi evropske kulturne dediščine</pubTitle>
-      <pubTitle>Zemlja pod vašimi nogami : arheologija na avtocestah Slovenije : vodnik po najdiščih</pubTitle>
-      <pubTitle>Zemlja pod vašimi nogami : arheologija na avtocestah Slovenije</pubTitle>
       <pubTitle>Zemlja pod vašimi nogami</pubTitle>
-      <pubTitle>Zemlja pod vašimi mapami: Arheologija na avtocestah Slovenije: vodnik po najdiščih</pubTitle>
-      <pubTitle>Zemla pod vašimi nogami. Arheologija na avtocestah Slovenije. Zbirka: Dnevi evropske kulturne dediščine</pubTitle>
+      <pubTitle>arheologija na avtocestah Slovenije</pubTitle>
+      <pubTitle>vodnik po najdiščih</pubTitle>
+      <editor>Prešeren, Damjana</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zavod za varstvo kulturne dediščine Slovenije</publisher>
-      <publisher>Ministrstvo za kulturo. I prava R Slovenije za kulturno dediščino</publisher>
+      <collection>Zbirka Dnevi evropske kulturne dediščine</collection>
       <year>2003</year>
-      <year>2005</year>
+      <pubCobiss>125830400</pubCobiss>
       <chapters>
          <pubPart>
             <author>Djurić Bojan</author>
@@ -23123,16 +22796,14 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zgodnji Slovani: zgodnjesrednjeveška lončenina na obrobju vzhodnih Alp</pubTitle>
-      <pubTitle>Zgodnji Slovani: zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp</pubTitle>
-      <pubTitle>Zgodnji Slovani....</pubTitle>
-      <pubTitle>Zgodnji Slovani. Zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp</pubTitle>
-      <pubTitle>Zgodnji Slovani : zgodnjesrednjeveška lončenina na obrobju vzhodnih Alp</pubTitle>
       <pubTitle>Zgodnji Slovani</pubTitle>
+      <pubTitle>zgodnjesrednjeveška lončenina na obrobju vzhodnih Alp</pubTitle>
+      <pubAddTitle>Die frühen Slawen : frühmittelalterliche Keramik am Rand der Ostalpen</pubAddTitle>
+      <editor>Guštin, Mitja</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Narodni muzej</publisher>
       <publisher>Narodni muzej Slovenije</publisher>
       <year>2002</year>
+      <pubCobiss>3411552</pubCobiss>
       <chapters>
          <pubPart>
             <author>Guštin Mitja</author>
@@ -23271,18 +22942,14 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zgodovina denarstva in bančništva na Slovenskem, posvetovanje ob štiridesetletnici Denarnega zavoda Slovenije</pubTitle>
-      <pubTitle>Zgodovina denarstva in bančništva na Slovenskem, posvetovanje ob 40. obletnici Denarnega zavoda Slovenije, 11.-12. december 1984</pubTitle>
-      <pubTitle>Zgodovina denarstva in bančništva na Slovenskem : zbornik</pubTitle>
-      <pubTitle>Zgodovina denarstva in bančništva na Slovenskem : posvetovanje ob štiridesetletnici Denarnega zavoda Slovenije, Ljubljana, 11. in 12. decembra 1984</pubTitle>
-      <pubTitle>Zgodovina denarstva in bančništva na Slovenskem : posvetovanje ob štiridesetletnici Denarnega zavoda Slovenije</pubTitle>
       <pubTitle>Zgodovina denarstva in bančništva na Slovenskem</pubTitle>
-      <pubTitle>Zgodovina denarstva in bančništva na Primorskem</pubTitle>
+      <pubTitle>posvetovanje ob štiridesetletnici Denarnega zavoda Slovenije, Ljubljana, 11. in 12. decembra 1984</pubTitle>
+      <editor>Kos, Peter</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
+      <collection>Zbirka Zgodovinskega časopisa ; 3</collection>
       <year>1987</year>
-      <year>2011</year>
-      <year>1967</year>
+      <pubCobiss>21856769</pubCobiss>
       <chapters>
          <pubPart>
             <author>Gombač Metka</author>
@@ -23442,10 +23109,11 @@ Furlaniji in v Karniji : 1943-1945</title>
    </source>
    <source>
       <pubTitle>Zgodovina Cerkve na Slovenskem</pubTitle>
+      <editor>Benedik, Metod</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
-      <publisher>Mohorjeva družba.</publisher>
       <year>1991</year>
+      <pubCobiss>28008704</pubCobiss>
       <chapters>
          <pubPart>
             <author>Benedik Metod</author>
@@ -23594,32 +23262,15 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zgodovina Ljubljane: prispevki za monografjo</pubTitle>
-      <pubTitle>Zgodovina Ljubljane: prispevki za monografijo</pubTitle>
-      <pubTitle>Zgodovina Ljubljane: Prispevki za monografijo: Kronika</pubTitle>
-      <pubTitle>Zgodovina Ljubljane: Prispevki za monografijo</pubTitle>
-      <pubTitle>Zgodovina Ljubljane: Kronika</pubTitle>
-      <pubTitle>Zgodovina Ljubljane. Prispevki za monografijo. Gradivo s posvetovanja o zgodovini Ljubljane, 16. in 17. novembra 1983</pubTitle>
-      <pubTitle>Zgodovina Ljubljane. Prispevki za monografijo. Gradivo s posvetovanja o zgodovini Ljubljane 16. in 17. novembra v Ljubljani</pubTitle>
-      <pubTitle>Zgodovina Ljubljane. Prispevki za monografijo, Kronika</pubTitle>
-      <pubTitle>Zgodovina Ljubljane, prispevki za monografijo, gradivo s Posvetovanja o zgodovini Ljubljane</pubTitle>
-      <pubTitle>Zgodovina Ljubljane, Prispevki za monografijo, Gradivo s posvetovanja o zgodovini Ljubljane</pubTitle>
-      <pubTitle>Zgodovina Ljubljane : prispevki za monografijo. Gradivo s posvetovanja o zgodovini Ljubljane 16. in 17. novembra 1983 v Ljubljani</pubTitle>
-      <pubTitle>Zgodovina Ljubljane : prispevki za monografijo : gradivo s Posvetovanja o zgodovini Ljubljane, 16. in 17. novembra 1983 v Ljubljani</pubTitle>
-      <pubTitle>Zgodovina Ljubljane : prispevki za monografijo : gradivo s Posvetovanja o zgodovini Ljubljane</pubTitle>
-      <pubTitle>Zgodovina Ljubljane : prispevki za monografijo
-            : gradivo s Posvetovanja o zgodovini Ljubljane</pubTitle>
-      <pubTitle>Zgodovina Ljubljane : Prispevki za monografijo</pubTitle>
       <pubTitle>Zgodovina Ljubljane</pubTitle>
-      <pubTitle>Zgodovina Ljubljana : Prispevki za monografijo</pubTitle>
+      <pubTitle>prispevki za monografijo</pubTitle>
+      <pubTitle>gradivo s Posvetovanja o zgodovini Ljubljane, 16. in 17. novembra 1983 v Ljubljani</pubTitle>
+      <editor>Gestrin, Ferdo</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Kronika : Zgodovinsko društvo</publisher>
-      <publisher>Zgodovinsko društvo</publisher>
       <publisher>Kronika</publisher>
-      <publisher>Kronika, Zgodovinsko društvo</publisher>
+      <publisher>Zgodovinsko društvo</publisher>
       <year>1984</year>
-      <year>1955</year>
-      <volume>1984</volume>
+      <pubCobiss>14905857</pubCobiss>
       <chapters>
          <pubPart>
             <author>Deželak Barič Vida</author>
@@ -23857,8 +23508,8 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Zgodovina slovencev</pubTitle>
       <pubTitle>Zgodovina Slovencev</pubTitle>
+      <!-- ne najdem v Cobiss-u -->
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Cankarjeva založba</publisher>
       <publisher>CZ</publisher>
@@ -23993,28 +23644,13 @@ Furlaniji in v Karniji : 1943-1945</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Ženske skozi zgodovino: zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje, 30. september–2. oktober 2004</pubTitle>
-      <pubTitle>Ženske skozi zgodovino: zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje, 30. september - 2. oktober 2004</pubTitle>
-      <pubTitle>Ženske skozi zgodovino: zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje 30. september-2. oktober 2004</pubTitle>
-      <pubTitle>Ženske skozi zgodovino: zbornik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino: Zbornik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino. Zbornik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino, zbornik</pubTitle>
-      <pubTitle>Ženske skozi zgodovino, 32. zborovanje slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino : zbornik referatov. 32. zborovanje slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino : zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje, 30. september - 2. oktober 2004</pubTitle>
-      <pubTitle>Ženske skozi zgodovino : zbornik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino : Zbronik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
-      <pubTitle>Ženske skozi zgodovino - Zbornik referatov 32. zborovanja slovenskih zgodovinarjev</pubTitle>
       <pubTitle>Ženske skozi zgodovino</pubTitle>
-      <pubPlace>Celje, Ljubljana</pubPlace>
-      <pubPlace>Celje</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zveza zgodovinskih društev</publisher>
+      <pubTitle>zbornik referatov 32. zborovanja slovenskih zgodovinarjev, Celje, 30. september - 2. oktober 2004</pubTitle>
+      <editor>Žižek, Aleksander</editor>
+      <pubPlace> Ljubljana</pubPlace>
       <publisher>Zveza zgodovinskih društev Slovenije</publisher>
-      <publisher>ZZDS</publisher>
       <year>2004</year>
-      <volume>30</volume>
+      <pubCobiss>215440128</pubCobiss>
       <chapters>
          <pubPart>
             <author>Bahovec Tina</author>
@@ -24258,24 +23894,14 @@ na Slovenskem</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Žrtve vojne in revolucije: zbornik</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije: strokovni posvet</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije, zbornik</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije, posvet, Državni svet</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije : zbornik : [referati in razprava s posveta v Državnem svetu 11. in 12. novembra 2004, ki sta ga pripravila Državni svet Republike Slovenije in Inštitut za novejšo zgodovino v Ljubljani]</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije : zbornik</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije : strokovni posvet : Ljubljana, dne 11. in 12. novembra 2004.....</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije : strokovni posvet : Ljubljana, dne 11. in 12. novembra 2004</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije / [uredniški odbor Janvit Golob ... et al.]</pubTitle>
-      <pubTitle>Žrtve vojne in revolucije (zbornik)</pubTitle>
       <pubTitle>Žrtve vojne in revolucije</pubTitle>
+      <pubTitle>zbornik</pubTitle>
+      <pubTitle>Referati in razprava s posveta v Državnem svetu 11. in 12. novembra 2004</pubTitle>
+      <editor>Golob, Janvit</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Državni svet Republike Slovenije</publisher>
-      <publisher>Državni svet</publisher>
-      <publisher>Državni svet RS</publisher>
       <year>2005</year>
-      <year>2004</year>
-      <year>2011</year>
+      <pubCobiss>219759104</pubCobiss>
       <chapters>
          <pubPart>
             <author>Godeša Bojan</author>
