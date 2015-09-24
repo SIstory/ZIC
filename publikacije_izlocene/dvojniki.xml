@@ -735,5 +735,12 @@
             <cit did="1990" cid="2"/>
         </citations>
     </pubPart>
-    
+    <pubPart>
+        <!-- pod napačno letnico vpisana, citat dodan k Acta Hitriae 1999 -->
+        <author>Mihelič Darja</author>
+        <title>Odnos oblastnih ustanov do žensk in otrok v srednjeveških mestih severozahodne Istre</title>
+        <page>329-348</page>
+        <citedIn count="1">
+        </citedIn>
+    </pubPart>
 </root>
