@@ -1500,6 +1500,7 @@
                <title>Tržaški teritorij v luči konskripcije iz let 1777/1778</title>
                <title>prvi izsledki</title>
                <page>59-88</page>
+               <cobiss>1638099</cobiss>
                <citedIn count="3">
                   <cit did="2362" cid="10"/>
                   <cit did="2040" cid="14"/>
@@ -1890,8 +1891,10 @@
          <issue n="2">
             <pubPart>
                <author>Furlan Metka</author>
-               <title>Slovenska Istra stičišče jezikov in kultur : na kakšnih stališčih slonita jezikovna in kulturna bodočnost tega prostora</title>
+               <title>Slovenska Istra stičišče jezikov in kultur</title>
+               <title>na kakšnih stališčih slonita jezikovna in kulturna bodočnost tega prostora</title>
                <page>389-404</page>
+               <cobiss>651219</cobiss>
                <citedIn count="1">
                   <cit did="415" cid="11"/>
                </citedIn>
@@ -2759,22 +2762,27 @@
                <author>Ploj Tatjana</author>
                <title>Premoženjska struktura prebivalstva v Izoli in okolici leta 1953 in 1954</title>
                <page>167-174</page>
+               <cobiss>5544781</cobiss>
                <citedIn count="1">
                   <cit did="2562" cid="10"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Rakovac Milan</author>
-               <title>Die Istrianisierung Europas</title>
+               <title>"Istrijaniziranje" Europe</title>
+               <addTitle>Die Istrianisierung Europas</addTitle>
                <page>197-204</page>
+               <cobiss>5552205</cobiss>
                <citedIn count="1">
                   <cit did="420" cid="46"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Strutz Johann</author>
-               <title>Istrska polifonija - večjezičnost in literatura</title>
-               <page>189-190</page>
+               <title>Istrska polifonija</title>
+               <title>večjezičnost in literatura</title>
+               <page>187-196</page>
+               <cobiss>5551949</cobiss>
                <citedIn count="1">
                   <cit did="334" cid="288"/>
                </citedIn>
@@ -2796,8 +2804,10 @@
             </pubPart>
             <pubPart>
                <author>Vinci A.</author>
-               <title>Tempi di guerra: Trieste, una città alio specchio</title>
-               <page>11-24</page>
+               <title>Tempi di guerra</title>
+               <title>Trieste, una città allo specchio</title>
+               <page>111-124</page>
+               <cobiss>5466189</cobiss>
                <citedIn count="1">
                   <cit did="3452" cid="97"/>
                </citedIn>
@@ -2808,15 +2818,20 @@
          <issue n="6">
             <pubPart>
                <author>Filipi G.</author>
-               <title>Psevdoizposojenke (na istrskih primerih)</title>
+               <title>Psevdoizposojenke</title>
+               <title>na istrskih primerih</title>
+               <page>139-142</page>
+               <cobiss>56077824</cobiss>
                <citedIn count="1">
                   <cit did="1927" cid="14"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Marušič B.</author>
-               <title>Andrej Zdešar (1821-1865), slovenski duhovnik in publicist v Istri</title>
+               <title>Andrej Zdešar (1821-1865)</title>
+               <title>slovenski duhovnik in publicist v Istri</title>
                <page>149-160</page>
+               <cobiss>56078848</cobiss>
                <citedIn count="1">
                   <cit did="1979" cid="7"/>
                </citedIn>
@@ -2825,14 +2840,17 @@
                <author>Marušič Milan</author>
                <title>Slovenska šola v Istri</title>
                <page>179-196</page>
+               <cobiss>56080640</cobiss>
                <citedIn count="1">
                   <cit did="1624" cid="70"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Mihelič D.</author>
-               <title>Kompleks piranske župne cerkve sv. Jurija: Korak k odkrivanju novih umetnostnozgodvinskih dejstev?</title>
+               <title>Kompleks piranske župne cerkve sv. Jurija</title>
+               <title>Korak k odkrivanju novih umetnostnozgodovinskih dejstev?</title>
                <page>7-14</page>
+               <cobiss>56041216</cobiss>
                <citedIn count="1">
                   <cit did="1978" cid="17"/>
                </citedIn>
@@ -2848,8 +2866,9 @@
             </pubPart>
             <pubPart>
                <author>Čoralić L.</author>
-               <title>Oporuke istarskih doseljenika u Chioggi XV-XVII.</title>
+               <title>Oporuke istarskih doseljenika u Chioggi XV-XVII. st.</title>
                <page>143-148</page>
+               <cobiss>56078592</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="58"/>
                </citedIn>
@@ -2862,6 +2881,7 @@
                <author>Bufon Milan</author>
                <title>Regionalizem in nacionalizem</title>
                <page>9-16</page>
+               <cobiss>1434701</cobiss>
                <citedIn count="2">
                   <cit did="673" cid="4"/>
                   <cit did="400" cid="2"/>
@@ -2869,16 +2889,19 @@
             </pubPart>
             <pubPart>
                <author>Strčić Petar</author>
-               <title>Prilog poznavanju iredentističke djelatnosti Carla Combija pedesetih i šestdesetih godina 19. stoljeća</title>
+               <title>Prilog poznavanju iredentističke djelatnosti Carla Combija 50-tih i 60-tih godina XIX. stoljeća</title>
                <page>155-160</page>
+               <cobiss>35340288</cobiss>
                <citedIn count="1">
                   <cit did="2873" cid="323"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Černilogar Damjana Fortunat</author>
-               <title>Skrb za kulturno dediščino in njene varovanje med 1. svetovno vojno - italijanski odnos do nje.</title>
-               <page>135-145</page>
+               <title>Skrb za kulturno dediščino in njeno varovanje med 1. svetovno vojno</title>
+               <title>italijanski odnos do nje</title>
+               <page>135-148</page>
+               <cobiss>51142912</cobiss>
                <citedIn count="1">
                   <cit did="2624" cid="15"/>
                </citedIn>
@@ -2886,7 +2909,9 @@
             <pubPart>
                <author>Shaw Trevor R.</author>
                <title>Leonbergerjeva pesem o Cerkniškem kraškem jezeru iz leta 1537</title>
+               <addTitle>Leonberger's 1537 poem on the Cerknica karst lake</addTitle>
                <page>193-206</page>
+               <cobiss>1944881</cobiss>
                <citedIn count="1">
                   <cit did="2150" cid="22"/>
                </citedIn>
@@ -2899,6 +2924,7 @@
                <author>Boltin Tome Elica</author>
                <title>Poskus kronološke opredelitve antičnega naselja v Predloki</title>
                <page>73-84</page>
+               <cobiss>974129</cobiss>
                <citedIn count="3">
                   <cit did="768" cid="6"/>
                   <cit did="2787" cid="9"/>
@@ -2907,7 +2933,10 @@
             </pubPart>
             <pubPart>
                <author>Bufon Milan</author>
-               <title>Istra. Novi problemi starih regij</title>
+               <title>Istra</title>
+               <title>Novi problemi starih regij</title>
+               <page>197-202</page>
+               <cobiss>613453</cobiss>
                <citedIn count="1">
                   <cit did="2895" cid="3"/>
                </citedIn>
@@ -2915,6 +2944,8 @@
             <pubPart>
                <author>Filipi G.</author>
                <title>Istriotski jezikovni otoki v Istri</title>
+               <page>275-284</page>
+               <cobiss>652109</cobiss>
                <citedIn count="1">
                   <cit did="1927" cid="13"/>
                </citedIn>
@@ -2934,24 +2965,28 @@
             </pubPart>
             <pubPart>
                <author>Punis L.</author>
-               <title>Micomini istrioti</title>
-               <page>3</page>
+               <title>Miconimi istrioti</title>
+               <page>285-291</page>
+               <cobiss>652365</cobiss>
                <citedIn count="1">
                   <cit did="395" cid="17"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Ravnik M.</author>
-               <title>Družine v istrskem zaledju in selitve Istranov</title>
+               <title>Družine v istrskem zaledju in selitve Istranov v Trst in druge kraje</title>
                <page>149-160</page>
+               <cobiss>591437</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="167"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Snoj D.</author>
-               <title>De pavone. Ob najdbi fibule iz Pirana</title>
+               <title>De pavone</title>
+               <title>Ob najdbi fibule iz Pirana</title>
                <page>67-72</page>
+               <cobiss>973873</cobiss>
                <citedIn count="1">
                   <cit did="1978" cid="22"/>
                </citedIn>
@@ -2960,14 +2995,16 @@
                <author>Terčon Nadja</author>
                <title>Organizacija pristaniške in pomorskosanitetne službe v avstrijski monarhiji</title>
                <page>243-256</page>
+               <cobiss>1002545</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="133"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Čoralič Lovorka</author>
-               <title>Prisutnost doseljenika iz Pirana u Veneciji od 15. do 17. stolječa</title>
+               <title>Prisutnost doseljenika iz Pirana u Veneciji od XV. do XVII. stoljeća</title>
                <page>101-116</page>
+               <cobiss>985649</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="7"/>
                </citedIn>
@@ -2980,7 +3017,7 @@
                <author>Cunja R.</author>
                <title>Zgodovinski oris arheoloških raziskav na Koprskem</title>
                <page>67-86</page>
-               <page>67-81</page>
+               <cobiss>404785</cobiss>
                <citedIn count="2">
                   <cit did="1950" cid="19"/>
                   <cit did="1939" cid="20"/>
@@ -2989,6 +3026,8 @@
             <pubPart>
                <author>Dorsi P.</author>
                <title>Deželna ustava in načelo predstavništva v Istri v dobi restavracije</title>
+               <page>267-278</page>
+               <cobiss>418609</cobiss>
                <citedIn count="1">
                   <cit did="3514" cid="14"/>
                </citedIn>
@@ -2997,14 +3036,17 @@
                <author>Janša-Zorn Olga</author>
                <title>Razvoj slovenskega pomorskega prometa po drugi svetovni vojni</title>
                <page>183-188</page>
+               <cobiss>410929</cobiss>
                <citedIn count="1">
                   <cit did="796" cid="2"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kacin Wohinz Milica</author>
-               <title>Tragika Viktorja Bobka: iz italijanskih policijskih in sodnih arhivov</title>
+               <title>Tragika Viktorja Bobka</title>
+               <title>iz italijanskih policijskih in sodnih arhivov</title>
                <page>151-158</page>
+               <cobiss>409905</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="73"/>
                </citedIn>
@@ -3013,6 +3055,7 @@
                <author>Kramar J.</author>
                <title>Ribja industrija v letih od 1945-1954</title>
                <page>175-182</page>
+               <cobiss>410673</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="78"/>
                </citedIn>
@@ -3032,8 +3075,8 @@
                <author>Mihelič D.</author>
                <author>Mihelič Darja</author>
                <title>Piranska razglednica iz prvih desetletij 17. stoletja</title>
-               <page>257-286</page>
                <page>257-266</page>
+               <cobiss>413745</cobiss>
                <citedIn count="3">
                   <cit did="1997" cid="34"/>
                   <cit did="1978" cid="16"/>
@@ -3051,29 +3094,31 @@
             </pubPart>
             <pubPart>
                <author>Veronese Giuliano</author>
-               <title>L'amministrazione giudiziaria penale
-nell'Istria veneta del settecento. Il funzionamento del Tribunale di
-Capodistria : (1750-1796)</title>
+               <title>L'amministrazione giudiziaria penale nell'Istria veneta del settecento</title>
+               <title>Il funzionamento del Tribunale di Capodistria : (1750-1796)</title>
                <page>131-142</page>
+               <cobiss>409137</cobiss>
                <citedIn count="1">
                   <cit did="104" cid="3"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Šuštar Branko</author>
-               <title>Spomina vredni šolski dogodki v Boljuncu pri Trstu: šolska kronika od Jerneja Brenceta</title>
+               <title>Spomina vredni šolski dogodki v Boljuncu pri Trstu</title>
+               <title>šolska kronika od Jerneja Brenceta (1849: "sholae magister") do Antona Berceta(1925: učitelj-voditelj)</title>
                <page>301-314</page>
+               <cobiss>420401</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="47"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Žitko Salvator</author>
-               <title>Listina Rižanskega placita - dileme in nasprotja domačega in tujega zgodovinopisja , II.</title>
-               <title>Listina Rižanskega placita, dileme in nasprotja domačega in tujega zgodovinopisja II.</title>
-               <title>Listina rižanskega placita - dileme in nasprotja domačega in tujega zgodovinopisja</title>
+               <title>Listina Rižanskega placita</title>
+               <title>dileme in nasprotja domačega in tujega zgodovinopisja</title>
+               <title>II. del</title>
                <page>87-102</page>
-               <page>87-108</page>
+               <cobiss>405041</cobiss>
                <citedIn count="3">
                   <cit did="755" cid="37"/>
                   <cit did="751" cid="70"/>
@@ -3088,9 +3133,8 @@ Capodistria : (1750-1796)</title>
                <author>Boltin Tome Elica</author>
                <author>Boltin Tome E.</author>
                <title>Arheološke najdbe na kopnem in na morskem dnu v Viližanu in Simonovem zalivu v Izoli</title>
-               <title>Arheološke najdbe na kopnem in na morskem dnu v Vilizanu in Simonovem zalivu v Izoli</title>
-               <title>Arheološke najdbe na kopnem in na morskem dnu v Vilžanu in Simonovem zalivu v Izoli</title>
                <page>51-58</page>
+               <cobiss>35330816</cobiss>
                <citedIn count="4">
                   <cit did="725" cid="3"/>
                   <cit did="1946" cid="1"/>
@@ -3101,7 +3145,8 @@ Capodistria : (1750-1796)</title>
             <pubPart>
                <author>Darovec Darko</author>
                <title>Oblike zavarovalstva v severni Istri v obdobju Beneške republike</title>
-               <page>69-80</page>
+               <page>109-118</page>
+               <cobiss>35331584</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="65"/>
                </citedIn>
@@ -3152,9 +3197,10 @@ Capodistria : (1750-1796)</title>
             </pubPart>
             <pubPart>
                <author>Marušič G.</author>
-               <title>Angelo Calafati. prispevki k biografiji</title>
-               <title>Angelo Calafati: prispevki k biografiji</title>
+               <title>Angelo Calafati</title>
+               <title>prispevki k biografiji</title>
                <page>149-154</page>
+               <cobiss>35336192</cobiss>
                <citedIn count="2">
                   <cit did="3513" cid="8"/>
                   <cit did="3514" cid="9"/>
@@ -3162,8 +3208,10 @@ Capodistria : (1750-1796)</title>
             </pubPart>
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Mestni vsakdan v obdobju baroka v luči različnih pisanih virov</title>
+               <title>Mestni vsakdan v obdobju baroka v luči različnih pisnih virov</title>
+               <title>(Piran, 1600-1602)</title>
                <page>91-102</page>
+               <cobiss>35333376</cobiss>
                <citedIn count="1">
                   <cit did="1762" cid="104"/>
                </citedIn>
@@ -3188,10 +3236,9 @@ Capodistria : (1750-1796)</title>
                <author>Strčić Petar</author>
                <author>Stričić Petar</author>
                <author>Strčić P.</author>
-               <title>Prilog poznavanju iredentističke djelatnosti Carla Combija 50-ih i 60-ih godina 19. stolječa</title>
-               <title>Prilog poznavanju iredentistisčke djelatnosti Carla Combija 50-tih i 60-tih godina XIX. stoljeća</title>
                <title>Prilog poznavanju iredentističke djelatnosti Carla Combija v 50tih i 60tih godina XIX. stoljeća</title>
                <page>155-160</page>
+               <cobiss>35340288</cobiss>
                <citedIn count="3">
                   <cit did="1609" cid="7"/>
                   <cit did="334" cid="285"/>
@@ -3200,10 +3247,8 @@ Capodistria : (1750-1796)</title>
             </pubPart>
             <pubPart>
                <author>Žitko Salvator</author>
-               <title>Listina rižanskega placita - dileme in nasprotja doni in tujega zgodovinopisja</title>
-               <title>Listina Rižanskega piacita - dilema in nasprotja domačega in tujega zgodovinopisja</title>
-               <title>Listina Rižanskega placita - dileme in nasprotja domačega in tujega zgodovinopisja</title>
-               <title>Listina rižanskega placita - dileme in nasprotja domačega in tujega zgodovinopisja</title>
+               <title>Listina Rižanskega placita</title>
+               <title>dilema in nasprotja domačega in tujega zgodovinopisja</title>
                <page>59-68</page>
                <cobiss>35331072</cobiss>
                <citedIn count="4">
