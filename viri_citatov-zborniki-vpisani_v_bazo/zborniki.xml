@@ -21,6 +21,7 @@
          <pubPart>
             <author>Šlibar Vladimir</author>
             <title>Alma M. Karlin - popotnica in zbirateljica</title>
+            <addTitle>Alma M Karlin - a traveller and a collector</addTitle>
             <cobiss>14968117</cobiss>
             <page>134-147</page>
             <citedIn count="1">
@@ -78,6 +79,7 @@
             <author>Premrl Božidar</author>
             <title>Zidarska in kamnoseška mojstra Janez Sever in Matija Bitenc v Dolnji Košani v 17. in 18. stoletju</title>
             <page>181-227</page>
+            <cobiss>11405105</cobiss>
             <citedIn count="2">
                <cit did="424" cid="6" avtor0="Premrl Božidar"
                   naslov0="Zidarska in kamnoseška mojstra Janez Sever in Matija Bitenc v Dolnji Košani v 17. in 18. stoletju"
@@ -105,7 +107,8 @@
       <chapters>
          <pubPart>
             <author>Pahor Milan</author>
-            <title>Evropski vplivi na slovensko družbo. Primer mesta Trst</title>
+            <title>Evropski vplivi na slovensko družbo</title>
+            <title>primer mesta Trst</title>
             <citedIn count="1">
                <cit did="2394" cid="8" avtor0="Pahor Milan"
                   naslov0="Evropski vplivi na slovensko družbo. Primer mesta Trst"
@@ -116,7 +119,7 @@
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Judje s Spodnje Štajerske in Gorenjske kot žrtve holokavsta v Evropi</title>
-            <title>Judje s spodnje Štajerske in Gorenjske....</title>
+            <cobiss>2516852</cobiss>
             <page>367-381</page>
             <citedIn count="2">
                <cit did="2575" cid="23" avtor0="Pančur Andrej"
@@ -132,6 +135,7 @@
          <pubPart>
             <author>Pelikan Egon</author>
             <title>Slovenski politični katolicizem v tridesetih letih v luči evropskih vplivov</title>
+            <cobiss>1507283</cobiss>
             <page>211-229</page>
             <citedIn count="1">
                <cit did="2769" cid="36" avtor0="Pelikan Egon"
@@ -168,7 +172,8 @@
       <chapters>
          <pubPart>
             <author>Batagelj Borut</author>
-            <title>Nemci in slovenska smučarska zgodovina : problemi in interpretacije in faktografije</title>
+            <title>Nemci in slovenska smučarska zgodovina</title>
+            <title>problemi in interpretacije in faktografije</title>
             <cobiss>13534005</cobiss>
             <page>179-184</page>
             <citedIn count="1">
@@ -182,6 +187,7 @@
          <pubPart>
             <author>Bukovšek Metka</author>
             <title>Okrajni zastopi na Štajerskem 1868-1929</title>
+            <cobiss>13531701</cobiss>
             <page>147-151</page>
             <citedIn count="1">
                <cit did="2064" cid="4" avtor0="Bukovšek Metka"
@@ -205,8 +211,8 @@
          <pubPart>
             <author>Germadnik Rolanda Fugger</author>
             <author>Fugger Germadnik</author>
-            <title>Zaznamek smrti in poročilo o zapečatbi kot dopolnilni vir proučevanja zgodovine vsakdanjega življenja</title>
             <title>Zaznamek smrti in poročilo o zapečatbi kot dopolnilni vir za proučevanje zgodovine vsakdanjega življenja</title>
+            <cobiss>13531445</cobiss>
             <page>135-146</page>
             <citedIn count="2">
                <cit did="2815" cid="8" avtor0="Germadnik Rolanda Fugger"
@@ -245,6 +251,7 @@
          <pubPart>
             <author>Černelič Krošelj Alenka</author>
             <title>Sledi Janeza Vajkarda Valvasorja v Krškem - kaj pa jutri?</title>
+            <cobiss>9926561</cobiss>
             <page>43-73</page>
             <citedIn count="1">
                <cit did="3158" cid="2" avtor0="Černelič Krošelj Alenka"
@@ -285,7 +292,7 @@
          <pubPart>
             <author>Deželak Barič Vida</author>
             <title>Demokracija v slovenski marksistični percepciji 1918-1921</title>
-            <title>Demokracija v slovenski marksistični percepciji 1918-1921. = Democracy in the Slovenian Marxist Perception 1918-1921</title>
+            <addTitle>Democracy in the slovenian Marxist perception 1918-1921</addTitle>
             <cobiss>2668148</cobiss>
             <page>143-158</page>
             <citedIn count="2">
@@ -318,7 +325,9 @@
          </pubPart>
          <pubPart>
             <author>Pavlin Tomaž</author>
-            <title>"Zmaga-svoboda". Sokolsko jugoslaviziranje</title>
+            <title>"Zmaga-svoboda"</title>
+            <title>Sokolsko jugoslaviziranje</title>
+            <cobiss>3652785</cobiss>
             <page>213-227</page>
             <citedIn count="1">
                <cit did="2879" cid="2" avtor0="Pavlin Tomaž"
@@ -329,9 +338,8 @@
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>Slovenska politika in uvedba kancel-paragrafa v prvi jugoslovanski državi</title>
             <title>Slovenska politika in uvedba kancelparagrafa v prvi jugoslovanski državi</title>
-            <title>Slovenska politika in uvedba kancelparagrafa v prvi jugoslovanski državi : Slovenian politics and introduction of the pulpit paragraf in the first state of Yugofslavia</title>
+            <addTitle>Slovenian politics and introduction of the pulpit paragraf in the first state of Yugoslavia</addTitle>
             <cobiss>2666868</cobiss>
             <page>105-118</page>
             <citedIn count="3">
@@ -355,6 +363,8 @@
          <pubPart>
             <author>Šuštar Branko</author>
             <title>Povezovanje slovenskega učiteljstva v novi državi med 1918 in 1921</title>
+            <addTitle>Connection of Slovenian teachers in the new state between 1918 and 1921</addTitle>
+            <cobiss>512259436</cobiss>
             <page>36-38</page>
             <citedIn count="1">
                <cit did="2141" cid="12" avtor0="Šuštar Branko"
@@ -407,7 +417,8 @@
          <pubPart>
             <author>Kambič Marko</author>
             <title>Razvoj kazenskega prava na Slovenskem do leta 1848</title>
-            <title>Razvoj kazenskega prava na Slovenskem do leta 1848. Malefične svoboščine Ljubljančanov : ljubljanski kazenski sodni red</title>
+            <addTitle>Die Entwicklung des Strafrechts im slowenischen Raum bis zum Jahre 1848</addTitle>
+            <cobiss>7458641</cobiss>
             <page>145-182</page>
             <citedIn count="3">
                <cit did="2269" cid="11" avtor0="Kambič Marko"
@@ -427,7 +438,10 @@
          </pubPart>
          <pubPart>
             <author>Melik Jelka</author>
-            <title>Razvoj kazenskega prava na slovenskem od 1848 do danes</title>
+            <title>Razvoj kazenskega prava na Slovenskem od 1848 do danes</title>
+            <addTitle>Die Entwicklung des Strafrechts im slowenischen Raum von 1848 bis heute</addTitle>
+            <cobiss>678773</cobiss>
+            <page>185-219</page>
             <citedIn count="1">
                <cit did="2804" cid="7" avtor0="Melik Jelka"
                   naslov0="Razvoj kazenskega prava na slovenskem od 1848 do danes"
@@ -475,10 +489,9 @@
          </pubPart>
          <pubPart>
             <author>Godeša Bojan</author>
-            <title>Polemika med Dušanom Kermavnerjem in Lojzetom
-Udetom v letih 1939-1941</title>
             <title>Polemika med Dušanom Kermavnerjem in Lojzetom Udetom v letih 1939-1941</title>
             <cobiss>1961588</cobiss>
+            <page>131-138</page>
             <citedIn count="2">
                <cit did="140" cid="34" avtor0="Godeša Bojan"
                   naslov0="Polemika med Dušanom Kermavnerjem in Lojzetom&#xA;Udetom v letih 1939-1941"
@@ -518,7 +531,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Troha Nevenka</author>
-            <title>Dva pogleda na primorsko politično zgodovino</title>
+            <title>Dva pogleda na primorsko politično zgodovino 1918-1921</title>
+            <cobiss>1965172</cobiss>
             <page>199-208</page>
             <citedIn count="1">
                <cit did="1511" cid="370" avtor0="Troha Nevenka"
@@ -530,6 +544,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>O polemičnih soočenjih Dušana Kermavnerja in Frana Zwittra</title>
+            <cobiss>1964660</cobiss>
             <page>191-198</page>
             <citedIn count="1">
                <cit did="1511" cid="400" avtor0="Vodopivec Peter"
@@ -565,8 +580,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Golec Boris</author>
-            <title>Zgodnjenovoveška "kajžarska" trga Vrhnika in Gorenji Logatec</title>
             <title>Zgodnjenovoveška »kajžarska« trga Vrhnika in Gorenji Logatec</title>
+            <addTitle>Die frühneuzeitliche "keuschler" Märkte Oberlaibach (Vrhnika) und Oberloitsch (Gorenji Logatec)</addTitle>
             <cobiss>26090029</cobiss>
             <page>105-137</page>
             <citedIn count="3">
@@ -587,6 +602,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Hozjan Andrej</author>
             <title>Ukaz Amhat age iz Berzencza tržanom Dolnje Lendave o podreditvi leta 1583</title>
+            <cobiss>26258989</cobiss>
             <page>307-318</page>
             <citedIn count="1">
                <cit did="2789" cid="6" avtor0="Hozjan Andrej"
@@ -609,7 +625,10 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Kurelić Robert</author>
-            <title>Simboli statusa i moči: kneževski pečati Celjskih grofova</title>
+            <title>Simboli statusa i moći</title>
+            <title>kneževski pečati Celjskih grofova</title>
+            <addTitle>The symbols of status and power: princely seals of the Counts of Cilli</addTitle>
+            <cobiss>26089261</cobiss>
             <page>61-77</page>
             <citedIn count="1">
                <cit did="2581" cid="10" avtor0="Kurelić Robert"
@@ -663,8 +682,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Žvanut Maja</author>
             <title>Okus Jošta Jakoba grofa in gospoda Gallenberga</title>
-            <title>Okus Jošta Jakoba grofa in gospoda Gallenberškega</title>
-            <title>Okus Jošta Jakoba Gallenberškega</title>
+            <addTitle>Der ästhetische Geschmack des Jost Jakob Graf und Herrn von Gallenberg</addTitle>
             <cobiss>26240045</cobiss>
             <page>211-243</page>
             <citedIn count="3">
@@ -708,7 +726,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Lukšič Hacin Marina</author>
+            <author>Lukšič-Hacin Marina</author>
             <title>Migracije v teoretskem diskurzu</title>
             <cobiss>31791149</cobiss>
             <page>8-23</page>
@@ -721,7 +739,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Svoljšak Petra</author>
-            <title>Vojna - vzrok in spodbujevalka migracij : primer 1. svetovne vojne in slovenskega prostora</title>
+            <title>Vojna - vzrok in spodbujevalka migracij</title>
+            <title>primer 1. svetovne vojne in slovenskega prostora</title>
+            <cobiss>31791917</cobiss>
             <page>226-244</page>
             <citedIn count="1">
                <cit did="2777" cid="21" avtor0="Svoljšak Petra"
@@ -797,8 +817,10 @@ Udetom v letih 1939-1941</title>
       <pubCobiss>238378752</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Stereotipi o slovenskih komunistih v obdobju ilegale</title>
+            <cobiss>2178420</cobiss>
+            <page>165-173</page>
             <citedIn count="1">
                <cit did="1549" cid="17" avtor0="Deželak Barič Vida"
                   naslov0="Stereotipi o slovenskih komunistih v obdobju ilegale"
@@ -826,7 +848,9 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Pečar Griesser Tamara</author>
             <title>"Reakcionarna suha veja na živem narodovem telesu...."</title>
-            <cobiss>229308928</cobiss>
+            <title>rdeča legenda o kolaboraciji</title>
+            <cobiss>809861</cobiss>
+            <page>361-369</page>
             <citedIn count="1">
                <cit did="3133" cid="180" avtor0="Pečar Griesser Tamara"
                   naslov0="&#34;Reakcionarna suha veja na živem narodovem telesu....&#34;"
@@ -838,6 +862,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>Mit in resničnost komunizma</title>
+            <cobiss>33576546</cobiss>
             <page>285-302</page>
             <citedIn count="2">
                <cit did="1911" cid="139" avtor0="Repe Božo" naslov0="Mit in resničnost komunizma"
@@ -849,9 +874,9 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vodopivec  Peter</author>
             <author>Vodopivec Peter</author>
             <title>Začarani krog nacionalne zgodovine</title>
+            <cobiss>2177652</cobiss>
             <page>49-59</page>
             <citedIn count="2">
                <cit did="2319" cid="42" avtor0="Vodopivec  Peter"
@@ -919,9 +944,10 @@ Udetom v letih 1939-1941</title>
       <pubCobiss>230782208</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Boudon Jacques Oliver</author>
-            <title>Marmont, gouverneur general des Provinces illyriennes</title>
-            <page>221-232</page>
+            <author>Boudon Jacques-Oliver</author>
+            <title>Marmont, gouverneur général des Provinces illyriennes, et ses mémoires</title>
+            <cobiss>1285843</cobiss>
+            <page>221-232, 353</page>
             <citedIn count="1">
                <cit did="2544" cid="4" avtor0="Boudon Jacques Oliver"
                   naslov0="Marmont, gouverneur general des Provinces illyriennes"
@@ -930,7 +956,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dahan Jacques Remi</author>
+            <author>Dahan Jacques-Rémi</author>
             <title>Charles Nodier dans les Provinces illyriennes</title>
             <cobiss>1286355</cobiss>
             <page>249-355</page>
@@ -985,7 +1011,9 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>Slovenija, moja država : država in državnost v mislih in dejanjih slovenske politike : (dejstva in mnenja)</title>
+            <title>Slovenija, moja država</title>
+            <title>država in državnost v mislih in dejanjih slovenske politike</title>
+            <title>(dejstva in mnenja)</title>
             <cobiss>2922356</cobiss>
             <page>5-36</page>
             <citedIn count="1">
@@ -1013,7 +1041,7 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Kresal France</author>
-            <title>Tiskarna Merkur - Tiskarna tone Tomšič</title>
+            <title>Tiskarna Merkur - Tiskarna Tone Tomšič</title>
             <cobiss>2679668</cobiss>
             <page>112-132</page>
             <citedIn count="1">
@@ -1026,7 +1054,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Lazarević Žarko</author>
-            <title>Identitetne zadrege slovenskega zgodovinopisja : poti emancipacije gospodarskega zgodovinopisja o 19. in 20. stoletju pri Slovencih</title>
+            <title>Identitetne zadrege slovenskega zgodovinopisja</title>
+            <title>poti emancipacije gospodarskega zgodovinopisja o 19. in 20. stoletju pri Slovencih</title>
             <cobiss>2678644</cobiss>
             <page>13-54</page>
             <citedIn count="1">
@@ -1040,7 +1069,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Oset Željko</author>
             <title>Vpliv modernizacije na oblikovanje slovenskega naravoslovno-tehničnega besedišča</title>
-            <page>350-374</page>
+            <cobiss>2680436</cobiss>
+            <page>350-373</page>
             <citedIn count="1">
                <cit did="2134" cid="11" avtor0="Oset Željko"
                   naslov0="Vpliv modernizacije na oblikovanje slovenskega naravoslovno-tehničnega besedišča"
@@ -1051,7 +1081,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Judovsko prebivalstvo v Sloveniji do druge svetovne vojne</title>
-            <title>Razvoj judovskega prebivalstva Slovenije do druge svetovne vojne</title>
+            <cobiss>2680948</cobiss>
+            <page>249-296</page>
             <citedIn count="3">
                <cit did="2476" cid="19" avtor0="Pančur Andrej"
                   naslov0="Judovsko prebivalstvo v Sloveniji do druge svetovne vojne"
@@ -1070,6 +1101,7 @@ Udetom v letih 1939-1941</title>
             <author>Sunčič Mitja</author>
             <title>Kdo je podjetnik?</title>
             <cobiss>2679924</cobiss>
+            <page>133-159</page>
             <citedIn count="1">
                <cit did="3241" cid="132" avtor0="Sunčič Mitja" naslov0="Kdo je podjetnik?"
                   cobiss="2679924" source="Podobe modernizacije" year="2009" page="143"/>
@@ -1107,7 +1139,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Kerec Darja</author>
             <title>Prekmurska zavest in slovenstvo</title>
-            <page>65-96</page>
+            <cobiss>512352127</cobiss>
+            <page>91-96</page>
             <citedIn count="6">
                <cit did="2770" cid="26" avtor0="Kerec Darja"
                   naslov0="Prekmurska zavest in slovenstvo"
@@ -1182,6 +1215,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Borak Neven</author>
             <title>K slovenskemu nacionalnemu gospodarstvu</title>
+            <cobiss>15881446</cobiss>
+            <page>1104-1115</page>
             <citedIn count="1">
                <cit did="2313" cid="19" avtor0="Borak Neven"
                   naslov0="K slovenskemu nacionalnemu gospodarstvu"
@@ -1209,16 +1244,17 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
-            <title>Komunisti</title>
-            <page>346-347</page>
+            <author>Deželak-Barič Vida</author>
+            <title>Komunisti od ustanovitve KPS do vojne</title>
+            <cobiss>2038644</cobiss>
+            <page>386-389</page>
             <citedIn count="1">
                <cit did="2889" cid="17" avtor0="Deželak Barič Vida" naslov0="Komunisti"
                   source="Slovenska novejša zgodovina" page="346-347"/>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Komunisti od ustanovitve KPS do vojne</title>
             <cobiss>2038644</cobiss>
             <page>386-389</page>
@@ -1234,7 +1270,6 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
             <author>Deželak-Barič Vida</author>
             <title>Komunistična partija Slovenije v začetnem obdobju okupacije</title>
             <cobiss>2051700</cobiss>
@@ -1261,7 +1296,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Obnavljanje in širjenje Osvobodilne fronte po pokrajinah</title>
             <cobiss>2056052</cobiss>
             <page>674-676</page>
@@ -1275,7 +1310,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Odkrito vnašanje revolucionarnih prvin v osvobodilni boj</title>
             <cobiss>2053236</cobiss>
             <page>633-635</page>
@@ -1299,7 +1334,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Plime in oseke v razvoju Osvobodilne fronte</title>
             <cobiss>2054260</cobiss>
             <page>643-647</page>
@@ -1316,7 +1351,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
+            <author>Deželak-Barič Vida</author>
             <title>Razmere po pokrajinah</title>
             <page>745-750</page>
             <citedIn count="1">
@@ -1327,7 +1362,6 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
             <author>Deželak-Barič Vida</author>
             <title>Širitev Osvobodilne fronte po pokrajinah</title>
             <cobiss>2051956</cobiss>
@@ -1348,6 +1382,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Izobraževanje</title>
+            <cobiss>2043252</cobiss>
+            <page>423-429</page>
             <citedIn count="1">
                <cit did="3241" cid="351" avtor0="Dolenc Ervin" naslov0="Izobraževanje"
                   source="SNZ 1848-1992, 1. knjiga"/>
@@ -1356,6 +1392,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Jugoslovanski odbor in Krfska deklaracija</title>
+            <cobiss>1981812</cobiss>
+            <page>153-156</page>
             <citedIn count="1">
                <cit did="531" cid="66" avtor0="Dolenc Ervin"
                   naslov0="Jugoslovanski odbor in Krfska deklaracija"
@@ -1364,9 +1402,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Dolenc Ervin</author>
-            <title>Kulturni problem slovenstva</title>
+            <title>"Kulturni problem slovenstva"</title>
             <cobiss>2035060</cobiss>
-            <cobiss>79815680</cobiss>
             <page>342-346</page>
             <citedIn count="2">
                <cit did="3289" cid="144" avtor0="Dolenc Ervin" naslov0="Kulturni problem slovenstva"
@@ -1404,6 +1441,7 @@ Udetom v letih 1939-1941</title>
             <author>Dolenc Ervin</author>
             <title>Slovenska ali jugoslovanska kultura?</title>
             <cobiss>2042996</cobiss>
+            <page>420-423</page>
             <citedIn count="1">
                <cit did="2889" cid="27" avtor0="Dolenc Ervin"
                   naslov0="Slovenska ali jugoslovanska kultura?" cobiss="2042996"
@@ -1411,7 +1449,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolenc Evin</author>
+            <author>Dolenc Ervin</author>
             <title>Univerza</title>
             <citedIn count="1">
                <cit did="2782" cid="18" avtor0="Dolenc Evin" naslov0="Univerza" source="SNZ"
@@ -1420,7 +1458,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Gospodarstvo pod okupacijo: italijansko zasedbeno območje</title>
+            <title>Gospodarstvo pod okupacijo</title>
+            <cobiss>2050420</cobiss>
+            <page>592-601</page>
             <citedIn count="1">
                <cit did="1509" cid="68" avtor0="Ferenc Tone"
                   naslov0="Gospodarstvo pod okupacijo: italijansko zasedbeno območje"
@@ -1490,7 +1530,10 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Razmere v Sloveniji 1943: gospodarstvo pod nemško okupacijo v Ljubljanski pokrajini in na Primorskem</title>
+            <title>Razmere v Sloveniji jeseni 1943</title>
+            <title>gospodarstvo pod nemško okupacijo v Ljubljanski pokrajini in na Primorskem</title>
+            <cobiss>2057076</cobiss>
+            <page>686-696</page>
             <citedIn count="1">
                <cit did="1509" cid="85" avtor0="Ferenc Tone"
                   naslov0="Razmere v Sloveniji 1943: gospodarstvo pod nemško okupacijo v Ljubljanski pokrajini in na Primorskem"
@@ -1521,7 +1564,9 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Ferenc Tone</author>
             <title>Razvoj prebivalstva</title>
+            <title>druga svetovna vojna na Slovenskem 1941-1945</title>
             <cobiss>2049652</cobiss>
+            <page>576-577</page>
             <citedIn count="1">
                <cit did="3530" cid="2" avtor0="Ferenc Tone" naslov0="Razvoj prebivalstva"
                   cobiss="2049652"
@@ -1546,9 +1591,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Fisher Jasna</author>
+            <author>Fischer Jasna</author>
             <title>Gospodarstvo v vojnih razmerah</title>
             <cobiss>1981300</cobiss>
+            <page>148-150</page>
             <citedIn count="1">
                <cit did="3241" cid="167" avtor0="Fisher Jasna"
                   naslov0="Gospodarstvo v vojnih razmerah" cobiss="1981300" source="SNZ 1848-1992"
@@ -1556,9 +1602,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Fišer Jasna</author>
+            <author>Fischer Jasna</author>
             <title>Slovensko narodno ozemlje in razvoj prebivalstva</title>
             <cobiss>1953140</cobiss>
+            <page>17-21</page>
             <citedIn count="1">
                <cit did="976" cid="11" avtor0="Fišer Jasna"
                   naslov0="Slovensko narodno ozemlje in razvoj prebivalstva" cobiss="1953140"
@@ -1633,6 +1680,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Gabrič Aleš</author>
             <title>Obnova šolstva</title>
+            <cobiss>1991796</cobiss>
+            <page>907-908</page>
             <citedIn count="1">
                <cit did="1435" cid="5" avtor0="Gabrič Aleš" naslov0="Obnova šolstva"
                   source="Slovenska novejša zgodovina" pubPlace="Ljubljana"
@@ -1652,6 +1701,7 @@ Udetom v letih 1939-1941</title>
             <author>Gašparič Jure</author>
             <title>Dogajanje v Sloveniji do aprilske vojne</title>
             <cobiss>2041716</cobiss>
+            <page>414</page>
             <citedIn count="2">
                <cit did="1512" cid="117" avtor0="Gašparič Jure"
                   naslov0="Dogajanje v Sloveniji do aprilske vojne"
@@ -1669,6 +1719,7 @@ Udetom v letih 1939-1941</title>
             <author>Gašparič Jure</author>
             <title>SLS ob začetku druge svetovne vojne</title>
             <cobiss>2041460</cobiss>
+            <page>412</page>
             <citedIn count="1">
                <cit did="3285" cid="32" avtor0="Gašparič Jure"
                   naslov0="SLS ob začetku druge svetovne vojne" cobiss="2041460"
@@ -1687,7 +1738,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Godeša   Bojan</author>
-            <title>Osvobodila fronta v prvi polovici leta 1942</title>
+            <title>Osvobodilna fronta v prvi polovici leta 1942</title>
+            <cobiss>2053492</cobiss>
+            <page>635-638</page>
             <citedIn count="1">
                <cit did="2799" cid="11" avtor0="Godeša   Bojan"
                   naslov0="Osvobodila fronta v prvi polovici leta 1942"
@@ -1726,7 +1779,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Godeša Bojan</author>
             <title>Peta državna konferenca KPJ v Zagrebu</title>
-            <title>Peta državna konferenca v Zagrebu</title>
             <cobiss>2040436</cobiss>
             <page>406-407</page>
             <citedIn count="3">
@@ -1902,6 +1954,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Guštin Damijan</author>
             <title>Spopadi za Koroško</title>
+            <cobiss>2025844</cobiss>
             <page>215-218</page>
             <citedIn count="1">
                <cit did="2137" cid="6" avtor0="Guštin Damijan" naslov0="Spopadi za Koroško"
@@ -1921,8 +1974,9 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kacin Wohinz Milica</author>
+            <author>Kacin-Wohinz Milica</author>
             <title>Slovenci v Italiji</title>
+            <cobiss>2048628</cobiss>
             <page>510-552</page>
             <citedIn count="1">
                <cit did="1485" cid="15" avtor0="Kacin Wohinz Milica" naslov0="Slovenci v Italiji"
@@ -1934,6 +1988,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Kresal France</author>
             <title>Davki</title>
+            <cobiss>2046836</cobiss>
             <page>481-484</page>
             <citedIn count="1">
                <cit did="247" cid="36" avtor0="Kresal France" naslov0="Davki"
@@ -1944,6 +1999,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Kresal France</author>
             <title>Mezdna in stavkovna gibanja</title>
+            <cobiss>1977716</cobiss>
+            <page>94-97</page>
             <citedIn count="1">
                <cit did="1783" cid="91" avtor0="Kresal France" naslov0="Mezdna in stavkovna gibanja"
                   source="Slovenska novejša zgodovina: od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije"
@@ -1953,6 +2010,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Kresal France</author>
             <title>Socialna politika</title>
+            <cobiss>1978228</cobiss>
+            <page>98-101</page>
             <citedIn count="2">
                <cit did="1783" cid="92" avtor0="Kresal France" naslov0="Socialna politika"
                   source="Slovenska novejša zgodovina: od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije"
@@ -1964,7 +2023,10 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Kresal France</author>
-            <title>Socialna politika: zavarovanja, mezdni in plačni sistemi, zaslužki</title>
+            <title>Socialna politika</title>
+            <title>zavarovanja, mezdni in plačilni sistemi, zaslužki</title>
+            <cobiss>2047092</cobiss>
+            <page>484-488</page>
             <citedIn count="1">
                <cit did="3241" cid="332" avtor0="Kresal France"
                   naslov0="Socialna politika: zavarovanja, mezdni in plačni sistemi, zaslužki"
@@ -1987,6 +2049,7 @@ Udetom v letih 1939-1941</title>
             <author>Lazarević Žarko</author>
             <title>Gospodarskosocialne doktrine</title>
             <cobiss>2046580</cobiss>
+            <page>479-481</page>
             <citedIn count="1">
                <cit did="3241" cid="217" avtor0="Lazarević Žarko"
                   naslov0="Gospodarskosocialne doktrine" cobiss="2046580"
@@ -1997,7 +2060,6 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Lazarević Žarko</author>
-            <title>Industrializacija, obrt in trgovina</title>
             <title>Industrializacija, obrt, trgovina</title>
             <cobiss>2044788</cobiss>
             <page>450-460</page>
@@ -2031,6 +2093,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Lazarević Žarko</author>
             <title>Razmah finančnih ustanov</title>
+            <cobiss>1976180</cobiss>
+            <page>83-86</page>
             <citedIn count="1">
                <cit did="1783" cid="99" avtor0="Lazarević Žarko" naslov0="Razmah finančnih ustanov"
                   source="Slovenska novejša zgodovina: Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije"
@@ -2070,7 +2134,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Ilegalna odporniška dejavnost "meščanskega" tabora</title>
-            <title>Ilegalna odporniška dejavnost »meščanskega« tabora</title>
             <cobiss>2051188</cobiss>
             <page>607-608</page>
             <citedIn count="2">
@@ -2102,6 +2165,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Protirevolucionarni tabor in njegovo širjenje v obdobju pred kapitulacijo Italije</title>
+            <cobiss>2056820</cobiss>
             <page>683-685</page>
             <citedIn count="1">
                <cit did="2287" cid="61" avtor0="Mlakar Boris"
@@ -2128,6 +2192,7 @@ Udetom v letih 1939-1941</title>
             <author>Mlakar Boris</author>
             <title>Usoda domobrancev</title>
             <cobiss>1966452</cobiss>
+            <page>836-839</page>
             <citedIn count="1">
                <cit did="2615" cid="2" avtor0="Mlakar Boris" naslov0="Usoda domobrancev"
                   cobiss="1966452"
@@ -2139,6 +2204,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Vseslovenska protirevolucionarna akcija</title>
+            <cobiss>2057588</cobiss>
             <page>702-707</page>
             <citedIn count="1">
                <cit did="2287" cid="63" avtor0="Mlakar Boris"
@@ -2178,6 +2244,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Doba slogaštva</title>
+            <cobiss>1954676</cobiss>
             <page>30-31</page>
             <citedIn count="2">
                <cit did="2770" cid="30" avtor0="Pančur Andrej" naslov0="Doba slogaštva"
@@ -2190,7 +2257,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Nacionalni spori</title>
-            <title>Nacionalni spori, Politično Življenje, Avstrijska doba 1848-1918</title>
+            <cobiss>1955188</cobiss>
             <page>36-38</page>
             <citedIn count="2">
                <cit did="1783" cid="139" avtor0="Pančur Andrej" naslov0="Nacionalni spori"
@@ -2241,6 +2308,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Politično življenje po volilnih reformah</title>
+            <cobiss>1955700</cobiss>
             <page>39-43</page>
             <citedIn count="2">
                <cit did="2770" cid="54" avtor0="Pančur Andrej"
@@ -2348,6 +2416,7 @@ Udetom v letih 1939-1941</title>
             <author>Perovšek Jurij</author>
             <title>Liberalci v Kmečko demokratski koaliciji</title>
             <cobiss>2031732</cobiss>
+            <page>305-307</page>
             <citedIn count="1">
                <cit did="1987" cid="6" avtor0="Perovšek Jurij"
                   naslov0="Liberalci v Kmečko demokratski koaliciji" cobiss="2031732"
@@ -2359,6 +2428,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Majniška deklaracija in deklaracijsko gibanje</title>
+            <cobiss>1982580</cobiss>
+            <page>158-162</page>
             <citedIn count="1">
                <cit did="531" cid="67" avtor0="Perovšek Jurij"
                   naslov0="Majniška deklaracija in deklaracijsko gibanje"
@@ -2410,6 +2481,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Ozemlje in meje</title>
+            <cobiss>2023284</cobiss>
+            <page>177</page>
             <citedIn count="1">
                <cit did="1561" cid="7" avtor0="Perovšek Jurij" naslov0="Ozemlje in meje"
                   source="Slovenska novejša zgodovina" pubPlace="Ljubljana" publisher="MK"
@@ -2546,7 +2619,6 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>Srbsko-hrvatski sporazum in Banovina Hrvaška</title>
             <title>Srbsko-hrvaški sporazum in Banovina Hrvaška</title>
             <cobiss>2039156</cobiss>
             <page>394-396</page>
@@ -2575,6 +2647,7 @@ Udetom v letih 1939-1941</title>
             <author>Perovšek Jurij</author>
             <title>Volitve v narodno skupščino februarja 1925</title>
             <cobiss>2028916</cobiss>
+            <page>281-283</page>
             <citedIn count="1">
                <cit did="3370" cid="3" avtor0="Perovšek Jurij"
                   naslov0="Volitve v narodno skupščino februarja 1925" cobiss="2028916"
@@ -2633,6 +2706,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Prinčič Jože</author>
             <title>Načela gospodarske politike v prvi petletki</title>
+            <cobiss>1990004</cobiss>
+            <page>881-883</page>
             <citedIn count="1">
                <cit did="2313" cid="8" avtor0="Prinčič Jože"
                   naslov0="Načela gospodarske politike v prvi petletki"
@@ -2643,6 +2718,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Prinčič Jože</author>
             <title>Nova gospodarska politika in druga petletka 1956–1960</title>
+            <cobiss>2003316</cobiss>
+            <page>1000-1002</page>
             <citedIn count="1">
                <cit did="2313" cid="12" avtor0="Prinčič Jože"
                   naslov0="Nova gospodarska politika in druga petletka 1956–1960"
@@ -2703,7 +2780,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Studen Andrej</author>
             <title>Modernizacija načina življenja</title>
-            <title>Modernizacija načina življenja. Proces higienizacije urbaniziranih naselij</title>
             <cobiss>1978740</cobiss>
             <page>104-122</page>
             <citedIn count="3">
@@ -2724,17 +2800,19 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Studen Andrej, Kresal France</author>
-            <title>Življenske Razmere</title>
+            <title>Življenjske Razmere</title>
             <cobiss>1981556</cobiss>
+            <page>150-153</page>
             <citedIn count="1">
                <cit did="3241" cid="169" avtor0="Studen Andrej, Kresal France"
                   naslov0="Življenske Razmere" cobiss="1981556" source="SNZ 1848-1992" year="2005"/>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Tominšek Rihtar Tadeja, Šorn Mojca</author>
+            <author>Tominšek-Rihtar Tadeja, Šorn Mojca</author>
             <title>Izgube in smrtne žrtve</title>
             <cobiss>2060660</cobiss>
+            <page>790-795</page>
             <citedIn count="1">
                <cit did="2885" cid="7" avtor0="Tominšek Rihtar Tadeja, Šorn Mojca"
                   naslov0="Izgube in smrtne žrtve" cobiss="2060660"
@@ -2742,9 +2820,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Obujanje strank od volitev 1938 do vojne</title>
-            <page>389-390</page>
+            <cobiss>2038900</cobiss>
+            <page>389-394</page>
             <citedIn count="1">
                <cit did="88" cid="2" avtor0="Vidovič Miklavčič Anka"
                   naslov0="Obujanje strank od volitev 1938 do vojne"
@@ -2753,9 +2832,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Obujanje strank od volitev 1938 do vojne</title>
-            <page>391-392</page>
+            <cobiss>2038900</cobiss>
+            <page>389-394</page>
             <citedIn count="1">
                <cit did="2889" cid="77" avtor0="Vidovič Miklavčič Anka"
                   naslov0="Obujanje strank od volitev 1938 do vojne"
@@ -2763,7 +2843,7 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Razhajanja v katoliškem gibanju</title>
             <cobiss>2034548</cobiss>
             <page>336-337</page>
@@ -2781,9 +2861,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Utrjevanje političnega katolicizma in Katoliška akcija</title>
             <cobiss>2036852</cobiss>
+            <page>363-368</page>
             <citedIn count="2">
                <cit did="1512" cid="149" avtor0="Vidovič Miklavčič Anka"
                   naslov0="Utrjevanje političnega katolicizma in Katoliška akcija"
@@ -2821,6 +2902,7 @@ Udetom v letih 1939-1941</title>
             <author>Vodopivec Peter</author>
             <title>Jugoslovanska ideja v slovenski politiki</title>
             <cobiss>1956212</cobiss>
+            <page>43-58</page>
             <citedIn count="1">
                <cit did="29" cid="298" avtor0="Vodopivec Peter"
                   naslov0="Jugoslovanska ideja v slovenski politiki" cobiss="1956212"
@@ -2831,7 +2913,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Kulturni boj in njegove posledice</title>
-            <page>66-71</page>
+            <cobiss>1974644</cobiss>
+            <page>66-68</page>
             <citedIn count="1">
                <cit did="2196" cid="85" avtor0="Vodopivec Peter"
                   naslov0="Kulturni boj in njegove posledice"
@@ -2862,6 +2945,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Denarna reforma</title>
+            <cobiss>1972596</cobiss>
             <page>841-843</page>
             <citedIn count="1">
                <cit did="663" cid="112" avtor0="Čepič Zdenko" naslov0="Denarna reforma"
@@ -2873,6 +2957,7 @@ Udetom v letih 1939-1941</title>
             <author>Čepič Zdenko</author>
             <title>Dialog med oblastjo in opozicijo</title>
             <cobiss>2015092</cobiss>
+            <page>1200-1202</page>
             <citedIn count="1">
                <cit did="2921" cid="3" avtor0="Čepič Zdenko"
                   naslov0="Dialog med oblastjo in opozicijo" cobiss="2015092"
@@ -2901,9 +2986,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Kmetijska politika in kmetijstvo</title>
-            <title>Kmetijstvo in kmetijska politika</title>
             <cobiss>1990772</cobiss>
-            <page>889-1007</page>
+            <page>889-893</page>
             <citedIn count="2">
                <cit did="1404" cid="1" avtor0="Čepič Zdenko"
                   naslov0="Kmetijska politika in kmetijstvo" cobiss="1990772"
@@ -2932,7 +3016,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Mitingaško utrjevanje Miloševićeve oblasti</title>
-            <cobiss>2013812</cobiss>
             <citedIn count="1">
                <cit did="2921" cid="1" avtor0="Čepič Zdenko"
                   naslov0="Mitingaško utrjevanje Miloševićeve oblasti" cobiss="2013812"
@@ -2943,6 +3026,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Organizacija gospodarstva</title>
+            <cobiss>1989748</cobiss>
+            <page>878-881</page>
             <citedIn count="1">
                <cit did="2313" cid="7" avtor0="Čepič Zdenko" naslov0="Organizacija gospodarstva"
                   source="Slovenska novejša zgodovina, Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1948–1992"
@@ -2953,6 +3038,7 @@ Udetom v letih 1939-1941</title>
             <author>Čepič Zdenko</author>
             <title>Ozemlje in meje Slovenije v Jugoslovanski federativni državi</title>
             <cobiss>221408256</cobiss>
+            <page>813-816</page>
             <citedIn count="1">
                <cit did="334" cid="63" avtor0="Čepič Zdenko"
                   naslov0="Ozemlje in meje Slovenije v Jugoslovanski federativni državi"
@@ -2978,6 +3064,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Politična sprostitev</title>
+            <cobiss>2007924</cobiss>
+            <page>1056-1069</page>
             <citedIn count="1">
                <cit did="2287" cid="9" avtor0="Čepič Zdenko" naslov0="Politična sprostitev"
                   source="Slovenska novejša zgodovina 2" pubPlace="Ljubljana"
@@ -2987,7 +3075,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Preskrba prebivalstva in obvezni nakupi</title>
-            <title>Preskrba prebivalstva in obvezni odkupi</title>
+            <cobiss>1991028</cobiss>
             <page>893-900</page>
             <citedIn count="2">
                <cit did="2017" cid="11" avtor0="Čepič Zdenko"
@@ -3003,7 +3091,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Privatizacija gospodarstva</title>
-            <title>Privatizacija gospodarstva. Objavljeno</title>
             <page>1304-1306</page>
             <citedIn count="6">
                <cit did="1621" cid="1" avtor0="Čepič Zdenko" naslov0="Privatizacija gospodarstva"
@@ -3065,7 +3152,10 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>Ustava 1974: preureditev jugoslovanske federacije, delegatski sistem in dogovorna ekonomija</title>
+            <title>Ustava 1974</title>
+            <title>preureditev jugoslovanske federacije, delegatski sistem in dogovorna ekonomija</title>
+            <cobiss>2009460</cobiss>
+            <page>1094-1104</page>
             <citedIn count="1">
                <cit did="2383" cid="12" avtor0="Čepič Zdenko"
                   naslov0="Ustava 1974: preureditev jugoslovanske federacije, delegatski sistem in dogovorna ekonomija"
@@ -3075,7 +3165,7 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>V reševanje krize sc vplete Zvezni izvršni svet</title>
+            <title>V reševanje krize se vplete Zvezni izvršni svet</title>
             <page>1324-1326</page>
             <citedIn count="1">
                <cit did="3228" cid="14" avtor0="Čepič Zdenko"
@@ -3099,7 +3189,7 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>Volitve in volilne rezultati</title>
+            <title>Volitve in volilni rezultati</title>
             <citedIn count="1">
                <cit did="2285" cid="13" avtor0="Čepič Zdenko" naslov0="Volitve in volilne rezultati"
                   source="Slovenska novejša zgodovina : od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1848-1992"
@@ -3109,6 +3199,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Zvišanje življenjske ravni</title>
+            <cobiss>2009204</cobiss>
+            <page>1087-1093</page>
             <citedIn count="1">
                <cit did="2313" cid="22" avtor0="Čepič Zdenko" naslov0="Zvišanje življenjske ravni"
                   source="Slovenska novejša zgodovina. Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1948–1992, 2. del"
@@ -3129,7 +3221,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>Življenjska raven</title>
+            <title>Urbanizacija in življenjska raven</title>
+            <cobiss>2004852</cobiss>
+            <page>1009-1015</page>
             <citedIn count="1">
                <cit did="2313" cid="21" avtor0="Čepič Zdenko" naslov0="Življenjska raven"
                   source="Slovenska novejša zgodovina. Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1948–1992, 2. del"
@@ -3138,7 +3232,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko, Prinčič Jože</author>
-            <title>Ustava 1974 : preureditev jugoslovanske federacije, delegatski sistem in dogovorna ekonomija</title>
+            <title>Ustava 1974</title>
+            <title>preureditev jugoslovanske federacije, delegatski sistem in dogovorna ekonomija</title>
             <page>1094-1104</page>
             <citedIn count="1">
                <cit did="2382" cid="5" avtor0="Čepič Zdenko, Prinčič Jože"
@@ -3150,6 +3245,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Žarko Lazarević</author>
             <title>Industrializacija, obrt, trgovina</title>
+            <cobiss>2044788</cobiss>
             <page>450-456</page>
             <citedIn count="1">
                <cit did="2880" cid="10" avtor0="Žarko Lazarević"
@@ -3171,7 +3267,8 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Cvirn Janez</author>
-            <title>Prizadevanja za reformo poročnega prava v Jugoslaviji</title>
+            <title>Prizadevanja za reformo poročnega prava v prvi Jugoslaviji</title>
+            <cobiss>30269538</cobiss>
             <page>227-236</page>
             <citedIn count="1">
                <cit did="1911" cid="129" avtor0="Cvirn Janez"
@@ -3183,12 +3280,8 @@ Udetom v letih 1939-1941</title>
             <author>Dolenc Ervin</author>
             <title>Zmaga ali poraz?</title>
             <title>marginalije h Koroščevi antisemitski uredbi leta 1940</title>
-            <title>Zmaga ali poraz? : marginalije h Koroščevi antisemitski uredbi leta 1940</title>
-            <title>Zmaga ali poraz? Marginalije h Koroščevi antisemitski uredbi leta 1940</title>
-            <title>Zmaga ali poraz?: Marginalije h Koroščevi antisemitski uredbi leta 1940</title>
-            <title>Zmaga ali poraz?: marginalije h Koroščevi antisemitski uredbi leta 1940</title>
             <cobiss>1934708</cobiss>
-            <page>199-209</page>
+            <page>199-210</page>
             <citedIn count="8">
                <cit did="319" cid="1" avtor0="Dolenc Ervin" naslov0="Zmaga ali poraz?"
                   naslov1="marginalije h Koroščevi antisemitski uredbi leta 1940" cobiss="1934708"
@@ -3222,8 +3315,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Gašparič Jure</author>
             <title>Zelene kravate v Domžalah</title>
-            <title>O proslavljanju 60-letnice dr. Antona Korošca na domžalskem področju</title>
-            <title>O "proslavljanju" šestdesetletnice dr. Antona Korošca na domžalskem območju</title>
+            <title>o proslavljanju 60-letnice dr. Antona Korošca na domžalskem področju</title>
+            <cobiss>1931636</cobiss>
             <page>437-444</page>
             <citedIn count="2">
                <cit did="531" cid="39" avtor0="Gašparič Jure" naslov0="Zelene kravate v Domžalah"
@@ -3238,8 +3331,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Guštin Damijan</author>
             <title>Dve antantni vojski na Slovenskem leta 1918</title>
-            <title>Dve antantni vojski v Državi SHS - dva odnosa do zmagovalcev? Varnostne dileme v Državi SHS</title>
-            <title>Dve antantni vojski v Državi SHS -dva odnosa do zmagovalcev? Varnostne dileme v Državi SHS</title>
+            <cobiss>1932148</cobiss>
             <page>73-88</page>
             <citedIn count="3">
                <cit did="3281" cid="6" avtor0="Guštin Damijan"
@@ -3257,6 +3349,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Guštin Mitja</author>
             <title>Zgodovina kot politična manipulacija</title>
+            <cobiss>1336275</cobiss>
             <page>27-32</page>
             <citedIn count="1">
                <cit did="1766" cid="3" avtor0="Guštin Mitja"
@@ -3274,8 +3367,9 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Lazarevič Žarko</author>
+            <author>Lazarević Žarko</author>
             <title>Nacionalne in gospodarske prvine slovenskega zadružništva</title>
+            <cobiss>1929588</cobiss>
             <page>159-168</page>
             <citedIn count="1">
                <cit did="2618" cid="176" avtor0="Lazarevič Žarko"
@@ -3285,7 +3379,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Mlinar Janez</author>
-            <title>Podoba celjsakih grofov v narativnih virih</title>
+            <title>Podoba celjskih grofov v narativnih virih</title>
+            <cobiss>223533312</cobiss>
+            <page>307-330</page>
             <citedIn count="1">
                <cit did="2764" cid="72" avtor0="Mlinar Janez"
                   naslov0="Podoba celjsakih grofov v narativnih virih" source="Historia"
@@ -3295,6 +3391,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Otrin Blaž</author>
             <title>Franc Bernik in razvoj Domžal</title>
+            <cobiss>15769746</cobiss>
             <page>445-458</page>
             <citedIn count="1">
                <cit did="2039" cid="18" avtor0="Otrin Blaž" naslov0="Franc Bernik in razvoj Domžal"
@@ -3304,13 +3401,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>Nekdanja Samostojna demokratska stranka in nacionalno vprašanje v letih 1929-1931</title>
-            <title>Nekdanja Samostojna demokratska stranka in nacionalno vprašanje v letih 1929–1931</title>
-            <title>Nekdanja samostojna demokratska stranka in</title>
             <title>Nekdanja samostojna demokratska stranka in nacionalno vprašanje v letih 1929-1931</title>
-            <title>Nekdanja samostojna demokratska stranka in nacionalno vprašanje v letih 1929–1931</title>
             <cobiss>1934452</cobiss>
-            <page>179-189</page>
+            <page>179-188</page>
             <citedIn count="13">
                <cit did="2889" cid="15" avtor0="Perovšek Jurij"
                   naslov0="Nekdanja Samostojna demokratska stranka in nacionalno vprašanje v letih 1929-1931"
@@ -3382,7 +3475,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Stergar Tanja</author>
-            <title>Od Usnjarskega tehnikuma do gimnazije: iz zgodovine domžalskega srednjega šolstva</title>
+            <title>Od Usnjarskega tehnikuma do gimnazije</title>
+            <title>iz zgodovine domžalskega srednjega šolstva</title>
+            <cobiss>30271586</cobiss>
             <page>475-488</page>
             <citedIn count="1">
                <cit did="2039" cid="19" avtor0="Stergar Tanja"
@@ -3392,10 +3487,7 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Studen Andrej</author>
-            <title>"Nespodobne ženske so satanovo orodje"</title>
-            <title>»Nespodobno oblečene ženske so Satanovo orodje, ker po njih, kakor nekdaj po kači govori«</title>
-            <title>»Nespodobno oblečene ženske so satanovo orodje, ker po njih kakor nekdaj po kači govori«</title>
-            <title>»Nespodobno oblečene ženske so, satanovo orodje, ker po njih, kakor nekdaj po kači govori«</title>
+            <title>"Nespodobno oblečene ženske so satanovo orodje, ker po njih kakor nekdaj po kači govori"</title>
             <cobiss>1934196</cobiss>
             <page>89-102</page>
             <citedIn count="4">
@@ -3418,7 +3510,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Vodopivec Peter</author>
-            <title>O slovesnkih "bratih" v prostozidarski loži Maksimiljan Vrhovec v Zagrebu</title>
+            <title>O slovenskih "bratih" v prostozidarski loži Maksimiljan Vrhovec v Zagrebu</title>
+            <cobiss>1934964</cobiss>
+            <page>291-298</page>
             <citedIn count="1">
                <cit did="3133" cid="26" avtor0="Vodopivec Peter"
                   naslov0="O slovesnkih &#34;bratih&#34; v prostozidarski loži Maksimiljan Vrhovec v Zagrebu"
@@ -3428,11 +3522,9 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>O modernem (ne)razumevabju in (ne)poznavanju stare zgodovine...</title>
             <title>O modernem (ne)razumevanju in (ne)poznavanju stare zgodovine na primeru ustoličevanja koroških vojvod</title>
-            <title>O modernem (ne)razumevanju in (ne)poznavanju stare zgodovine, na primer ustoličevanja koroških vojvod</title>
             <cobiss>30269026</cobiss>
-            <page>33-44</page>
+            <page>33-42</page>
             <citedIn count="5">
                <cit did="1663" cid="94" avtor0="Štih Peter"
                   naslov0="O modernem (ne)razumevabju in (ne)poznavanju stare zgodovine..."
@@ -3492,11 +3584,8 @@ Udetom v letih 1939-1941</title>
       <pubCobiss>229400064</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Janša Zorn Olga</author>
-            <author>Zorn Janša</author>
+            <author>Janša-Zorn Olga</author>
             <title>100-letnica ustanovitve Deželne zveze za pospeševanje tujskega prometa na Kranjskem in razvoj turističnih organizacij pri nas do leta 1945</title>
-            <title>100-letnica ustanovitve deželne zveze za pospeševanje tujskega prometa na Kranjskem...</title>
-            <title>100-letnica ustanovitve deželne zveze za pospeševanje tujskega prometa...</title>
             <page>37-47</page>
             <citedIn count="4">
                <cit did="3365" cid="218" avtor0="Janša Zorn Olga"
@@ -3528,9 +3617,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Studen Andrej</author>
-            <title>Gremo na rajžo : potovalna kultura in začetki modernega turizma na Slovenskem v stoletju meščanstva</title>
-            <title>Gremo na rajžo: potovalna kultura in začetki modernega turizma na Slovenskem v stoletju meščanstva</title>
-            <title>Gremo na rajžo. Potovalna kultura in začetki modernega turizma na Slovenskem v stoletju meščanstva</title>
+            <title>Gremo na rajžo</title>
+            <title>potovalna kultura in začetki modernega turizma na Slovenskem v stoletju meščanstva</title>
             <cobiss>2250868</cobiss>
             <page>23-35</page>
             <citedIn count="3">
@@ -3588,8 +3676,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Lipušček Uroš</author>
             <title>Slovenci in londonski pakt</title>
-            <title>Slovenci in Londonski pakt</title>
-            <page>49-68</page>
+            <cobiss>38316898</cobiss>
+            <page>49-61</page>
             <citedIn count="2">
                <cit did="2777" cid="20" avtor0="Lipušček Uroš" naslov0="Slovenci in londonski pakt"
                   source="Velika vojna in Slovenci" pubPlace="Ljubljana" year="2005" page="49-55"/>
@@ -3608,7 +3696,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Matić Dragan</author>
-            <title>Slovensko-nemški odnosi med I. svetovno vono</title>
+            <title>Slovensko-nemški odnosi med I. svetovno vojno</title>
+            <cobiss>1259125</cobiss>
             <page>159-160</page>
             <citedIn count="1">
                <cit did="2777" cid="13" avtor0="Matić Dragan"
@@ -3620,6 +3709,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Selišnik Irena</author>
             <title>Ženske v zaledju vojnih zubljev</title>
+            <cobiss>34812514</cobiss>
+            <page>185-198</page>
             <citedIn count="1">
                <cit did="1664" cid="27" avtor0="Selišnik Irena"
                   naslov0="Ženske v zaledju vojnih zubljev" source="Velika vojna in Slovenci"
@@ -3629,6 +3720,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Stergar Rok</author>
             <title>Slovenci in Italijani v času prve svetovne vojne</title>
+            <cobiss>30372706</cobiss>
             <page>148-156</page>
             <citedIn count="1">
                <cit did="2201" cid="46" avtor0="Stergar Rok"
@@ -3640,6 +3732,7 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Svoljšak Petra</author>
             <title>Slovenci v primežu avstrijske cenzure</title>
+            <cobiss>24614701</cobiss>
             <page>109-127</page>
             <citedIn count="2">
                <cit did="2777" cid="19" avtor0="Svoljšak Petra"
@@ -3653,7 +3746,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Prva svetovna vojna v zgodovini 20. stoletja</title>
-            <page>11-12</page>
+            <cobiss>1932404</cobiss>
+            <page>7-16</page>
             <citedIn count="1">
                <cit did="2429" cid="9" avtor0="Vodopivec Peter"
                   naslov0="Prva svetovna vojna v zgodovini 20. stoletja"
@@ -3673,7 +3767,8 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Golec Boris</author>
-            <title>Kdo in od kod je bil pravzaprav Primož Trubar? : Trubarjev novi "rojstni list" in popravljena "osebna izkaznica"</title>
+            <title>Kdo in od kod je bil pravzaprav Primož Trubar?</title>
+            <title>Trubarjev novi "rojstni list" in popravljena "osebna izkaznica"</title>
             <cobiss>1169525</cobiss>
             <page>45-64</page>
             <citedIn count="2">
@@ -3690,8 +3785,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Jeršo Sašo</author>
-            <title>Vera, upanje, oblast. O notranjeavstrijskem političnem imaginariju v času verskih vrenj Vera in hotenja</title>
+            <author>Jerše Sašo</author>
+            <title>Vera, upanje, oblast</title>
+            <title>o notranjeavstrijskem političnem imaginariju v času verskih vrenj</title>
+            <cobiss>40695650</cobiss>
             <page>67-103</page>
             <citedIn count="1">
                <cit did="2536" cid="32" avtor0="Jeršo Sašo"
@@ -3728,7 +3825,10 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Zorn Jelka</author>
-            <title>Socialno skrbstvo po drugi svetovni vojni: nova ideologija in stare vrednote</title>
+            <title>Socialno skrbstvo po drugi svetovni vojni</title>
+            <title>nova ideologija in stare vrednote</title>
+            <cobiss>2623333</cobiss>
+            <page>61-82</page>
             <citedIn count="1">
                <cit did="2283" cid="4" avtor0="Zorn Jelka"
                   naslov0="Socialno skrbstvo po drugi svetovni vojni: nova ideologija in stare vrednote"
@@ -3752,6 +3852,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Cvirn Janez</author>
             <title>Zwittrov pogled na habsburško monarhijo</title>
+            <addTitle>Zwitter's position on the Habsburg monarchy</addTitle>
+            <cobiss>2180724</cobiss>
             <page>35-46</page>
             <citedIn count="1">
                <cit did="2766" cid="29" avtor0="Cvirn Janez"
@@ -3762,7 +3864,8 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Stergar Janez</author>
             <title>Neobjavljeno Zwittrovo poročilo o poti po Koroškem poleti 1930</title>
-            <page>67-81</page>
+            <cobiss>10535757</cobiss>
+            <page>67-74</page>
             <citedIn count="1">
                <cit did="2689" cid="14" avtor0="Stergar Janez"
                   naslov0="Neobjavljeno Zwittrovo poročilo o poti po Koroškem poleti 1930"
@@ -3774,7 +3877,6 @@ Udetom v letih 1939-1941</title>
          <pubPart>
             <author>Verginella Marta</author>
             <title>Fran Zwitter in demografska zgodovina</title>
-            <title>Zwitter in demografska zgodovina</title>
             <cobiss>33811810</cobiss>
             <page>27-34</page>
             <citedIn count="2">
@@ -3861,10 +3963,8 @@ Udetom v letih 1939-1941</title>
          </pubPart>
          <pubPart>
             <author>Kosi Miha</author>
-            <title>"Onstran gore, tostran Ogrske" : (Bela krajina v poznem srednjem veku)</title>
-            <title>\"Onstran gore, tostran Ogrske\" : (Bela krajina v poznem srednjem veku)</title>
-            <title>»Onstran gore, tostran Ogrske« (Bela krajina v poznem srednjem veku)</title>
-            <title>Onstran gore. tostran Ogrske</title>
+            <title>"Onstran gore, tostran Ogrske"</title>
+            <title>(Bela krajina v poznem srednjem veku)</title>
             <cobiss>29476397</cobiss>
             <page>119-157</page>
             <citedIn count="10">
@@ -3919,9 +4019,10 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Mason P.</author>
+            <author>Mason Phil</author>
             <title>Arheološka podoba Črnomlja</title>
-            <page>49-70</page>
+            <cobiss>512361259</cobiss>
+            <page>49-69</page>
             <citedIn count="2">
                <cit did="2588" cid="52" avtor0="Mason P." naslov0="Arheološka podoba Črnomlja"
                   source="Črnomaljski zbornik. Zbornik historičnih razprav ob 78» letnici prve omembe naselja..."
@@ -3932,8 +4033,9 @@ Udetom v letih 1939-1941</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Mason P.</author>
+            <author>Mason Phil</author>
             <title>Bela krajina v prazgodovini in rimskem obdobju</title>
+            <cobiss>512361003</cobiss>
             <page>17-47</page>
             <citedIn count="1">
                <cit did="2586" cid="15" avtor0="Mason P."
@@ -3987,7 +4089,9 @@ Udetom v letih 1939-1941</title>
       <chapters>
          <pubPart>
             <author>Studen Andrej</author>
-            <title>Kočevarjeva Slovenska mati: podučna knjižica za matere in porodnice iz leta 1882 kot izhodišče za nekatera širša socialno- in kulturnozgodovinska razmišljanja</title>
+            <title>Kočevarjeva Slovenska mati</title>
+            <title>podučna knjižica za matere in porodnice iz leta 1882 kot izhodišče za nekatera širša socialno- in kulturnozgodovinska razmišljanja</title>
+            <cobiss>2214260</cobiss>
             <page>123-137</page>
             <citedIn count="1">
                <cit did="1735" cid="81" avtor0="Studen Andrej"
