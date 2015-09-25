@@ -3703,7 +3703,7 @@
                <author>Žontar Jože</author>
                <title>Splošna okrajna uprava v Sloveniji v letih 1918 do 1941</title>
                <page>133-138</page>
-               <title>462965</title>
+               <cobiss>462965</cobiss>
                <citedIn count="1">
                   <cit did="2306" cid="1"/>
                </citedIn>
@@ -5019,8 +5019,11 @@
             </pubPart>
             <pubPart>
                <author>Toš Marjan</author>
-               <title>Dr. Fran (Franjo) Rosina - trden Slovenec in pošten rodoljub</title>
-               <page>9-33</page>
+               <title>Dr. Fran (Franjo) Rosina</title>
+               <title>trden Slovenec in pošten rodoljub</title>
+               <page>9-32</page>
+               <cobiss>14968885</cobiss>
+               <cobiss>64560385</cobiss>
                <citedIn count="1">
                   <cit did="3297" cid="7"/>
                </citedIn>
@@ -5031,6 +5034,7 @@
                <author>Hammer  Luza Elke</author>
                <title>Detomor v mariborskem in celjskem okrožju v 18. in 19. stoletju</title>
                <page>60-76</page>
+               <cobiss>64792577</cobiss>
                <citedIn count="1">
                   <cit did="3265" cid="11"/>
                </citedIn>
@@ -5097,6 +5101,7 @@
                <author>Ravbar Matjaž</author>
                <title>Politično delovanje karpatskih Nemcev</title>
                <page>12-28</page>
+               <cobiss>58993153</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="185"/>
                </citedIn>
@@ -5156,6 +5161,7 @@
                <author>Bister Feliks J.</author>
                <title>Človek in politik Anton Korošec</title>
                <page>7-11</page>
+               <cobiss>58056449</cobiss>
                <citedIn count="1">
                   <cit did="1512" cid="13"/>
                </citedIn>
@@ -5183,6 +5189,7 @@
                <author>Granda Stane</author>
                <title>Odnos med Korošcem in ljubljanskim škofom Antonom Bonaventuro Jegličem v luči njegovega dnevnika</title>
                <page>45-53</page>
+               <cobiss>58064129</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="200"/>
                </citedIn>
@@ -5284,6 +5291,7 @@
                <author>Čuš Franci</author>
                <title>Anton Korošec vodilni slovenski politik v Kraljevini SHS</title>
                <page>21-35</page>
+               <cobiss>58061825</cobiss>
                <citedIn count="1">
                   <cit did="1911" cid="160"/>
                </citedIn>
@@ -5343,6 +5351,8 @@
             <pubPart>
                <author>Cvirn Janez, Gašparič Jure</author>
                <title>Odmevi na Naumannov koncept Mitteleurope v habsburški monarhiji</title>
+               <page>365-374</page>
+               <cobiss>27544674</cobiss>
                <citedIn count="3">
                   <cit did="1662" cid="150"/>
                   <cit did="109" cid="41"/>
@@ -5353,7 +5363,7 @@
                <author>Guštin Mitja</author>
                <title>Začetki slovanskega naseljevanja na Slovenskem</title>
                <page>253-265</page>
-               <page>253-256</page>
+               <cobiss>774611</cobiss>
                <citedIn count="3">
                   <cit did="1319" cid="1"/>
                   <cit did="1766" cid="2"/>
@@ -5362,10 +5372,9 @@
             </pubPart>
             <pubPart>
                <author>Kregar Tone</author>
-               <title>Nekatere primerjave slovenskega in slovaškega
-narodnega razvoja ter slovenski pogled na Slovake v drugi polovici 19.
-stoletja</title>
-               <title>Nekatere primerjave slovenskega in slovaškega razvoja ter slovenski pogled na Slovake v drugi polovici 19. stoletja</title>
+               <title>Nekatere primerjave slovenskega in slovaškega narodnega razvoja ter slovenski pogled na Slovake v drugi polovici 19. stoletja</title>
+               <page>333-363</page>
+               <cobiss>513150079</cobiss>
                <citedIn count="2">
                   <cit did="109" cid="57"/>
                   <cit did="1626" cid="5"/>
@@ -5382,17 +5391,20 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Makjanić R.</author>
-               <title>Drava, njen breg in Poetovio, Drava, the Banks and Poet</title>
-               <page>239-251</page>
+               <title>Drava, njen breg in Poetovio</title>
+               <addTitle>Drava, the Banks and Poet</addTitle>
+               <page>239-252</page>
+               <cobiss>4811038</cobiss>
                <citedIn count="1">
                   <cit did="2069" cid="35"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Srbi vladajo, Hrvati razpravljajo, Slovenci plačujejo : (Mit in resničnost prve Jugoslavije)</title>
-               <title>Srbi vladajo, Hrvati razpravljajo, Slovenci plačujejo : mit in resničnost prve Jugoslavije</title>
                <title>Srbi vladajo, Hrvati razpravljajo, Slovenci plačujejo</title>
+               <title>(Mit in resničnost prve Jugoslavije)</title>
+               <page>405-427</page>
+               <cobiss>1773172</cobiss>
                <citedIn count="8">
                   <cit did="3290" cid="68"/>
                   <cit did="1839" cid="2"/>
@@ -5407,7 +5419,8 @@ stoletja</title>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
                <title>Razširitev delovanja banskega sveta Dravske banovine na uredbodajno področje leta 1933 in njegova stališča do občinskih volitev</title>
-               <title>Razširitev delovanja banskega sveta Dravske banovine...</title>
+               <page>443-455</page>
+               <cobiss>27599714</cobiss>
                <citedIn count="2">
                   <cit did="1512" cid="163"/>
                   <cit did="2202" cid="18"/>
@@ -5417,6 +5430,7 @@ stoletja</title>
                <author>Strmčnik Gulič M., Teržan B.</author>
                <title>O gomili halštatskega veljaka iz Pivole pod Postelo</title>
                <page>217-238</page>
+               <cobiss>28170594</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="16"/>
                </citedIn>
@@ -5425,6 +5439,7 @@ stoletja</title>
                <author>Čoh Mateja</author>
                <title>Ilegalna skupina Ferdinanda Serneca</title>
                <page>529-546</page>
+               <cobiss>55158785</cobiss>
                <citedIn count="4">
                   <cit did="2558" cid="8"/>
                   <cit did="1648" cid="31"/>
@@ -5436,6 +5451,7 @@ stoletja</title>
                <author>Šelih Alenka</author>
                <title>Kazenskopravni in upravnopravni vidiki obravnavanja kolaboracije v francoskem pravnem sistemu</title>
                <page>515-528</page>
+               <cobiss>949582</cobiss>
                <citedIn count="1">
                   <cit did="1656" cid="1"/>
                </citedIn>
@@ -5445,7 +5461,9 @@ stoletja</title>
             <pubPart>
                <author>Kaiserfeld Hans</author>
                <title>Ravno polje, zibelka sodobne ovčereje na Štajerskem</title>
+               <addTitle>Ebensfeld, geburtsort der modernen schafzucht in der Steiermark</addTitle>
                <page>69-90</page>
+               <cobiss>217367552</cobiss>
                <citedIn count="1">
                   <cit did="2227" cid="8"/>
                </citedIn>
@@ -5453,7 +5471,8 @@ stoletja</title>
             <pubPart>
                <author>Mavrič Žižek Irena</author>
                <title>Občina Kidričevo med okupacijo 1941-1945</title>
-               <page>130</page>
+               <page>129-150</page>
+               <cobiss>217405952</cobiss>
                <citedIn count="1">
                   <cit did="1777" cid="8"/>
                </citedIn>
@@ -5484,7 +5503,7 @@ stoletja</title>
                <author>Troha Nevenka</author>
                <title>Slovensko osvobodilno gibanje in slovenska zahodna meja</title>
                <page>63-85</page>
-               <page>69</page>
+               <cobiss>1587828</cobiss>
                <citedIn count="4">
                   <cit did="1511" cid="378"/>
                   <cit did="334" cid="320"/>
@@ -5498,6 +5517,7 @@ stoletja</title>
                <author>Krivograd Alojz</author>
                <title>O izkoriščanju golosekov in gorskih travnikov na posestvih železarne v Mislinji v letih 1799 do 1809</title>
                <page>297-322</page>
+               <cobiss>215650304</cobiss>
                <citedIn count="1">
                   <cit did="2241" cid="4"/>
                </citedIn>
@@ -5574,6 +5594,7 @@ stoletja</title>
                <author>Koletnik Mihaela</author>
                <title>Mariborski pogovorni jezik</title>
                <page>245-254</page>
+               <cobiss>11645960</cobiss>
                <citedIn count="3">
                   <cit did="3279" cid="8"/>
                   <cit did="2076" cid="6"/>
@@ -5620,13 +5641,10 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Friš Darko</author>
-               <title>Demosova vlada - na poti do razglasitve slovenske samostojnosti</title>
-               <title>Demosova vlada na poti do razglasitve slovenske samostojnosti</title>
-               <page>534</page>
-               <page>531</page>
-               <page>504</page>
-               <page>510-511</page>
-               <page>503-536</page>
+               <title>Demosova vlada</title>
+               <title>na poti do razglasitve slovenske samostojnosti</title>
+               <page>503-535</page>
+               <cobiss>11836168</cobiss>
                <citedIn count="5">
                   <cit did="1533" cid="1"/>
                   <cit did="1525" cid="2"/>
@@ -5638,7 +5656,8 @@ stoletja</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Demosov kulturnopolitični program</title>
-               <page>603-606</page>
+               <page>601-616</page>
+               <cobiss>124724736</cobiss>
                <citedIn count="1">
                   <cit did="1284" cid="2"/>
                </citedIn>
@@ -5646,8 +5665,8 @@ stoletja</title>
             <pubPart>
                <author>Granda Stane</author>
                <title>SLS med izročilom in sodobnostjo, med načeli in dnevno politiko</title>
-               <page>353,357-358</page>
-               <page>353-366</page>
+               <page>353-365</page>
+               <cobiss>20635949</cobiss>
                <citedIn count="2">
                   <cit did="849" cid="4"/>
                   <cit did="2712" cid="14"/>
@@ -5656,19 +5675,19 @@ stoletja</title>
             <pubPart>
                <author>Kocutar Stane</author>
                <title>Demos in radio</title>
-               <page>673-688</page>
+               <title>demokratična opozicija Slovenije v jutranjih komentarjih Borisa Dolničarja, direkotrja radijskih programov RTV Ljubljana/kasneje RTV Slovenija</title>
+               <page>673-687</page>
+               <cobiss>124729600</cobiss>
                <citedIn count="1">
                   <cit did="2712" cid="29"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Okoliš Stane</author>
-               <title>SDZ - Gibanje za pluralizem in vzpostavitev parlamentarne demokracije na Slovenskem</title>
-               <title>SDZ - gibanje za pluralizem in vzpostavitev parlamentarne demokracije na Slovenskem</title>
-               <title>SDZ - gibanje za pluralizem in vzpostavitev parlamentarne demokracije</title>
+               <title>SDZ</title>
+               <title>Gibanje za pluralizem in vzpostavitev parlamentarne demokracije na Slovenskem</title>
                <page>367-380</page>
-               <page>372</page>
-               <page>3-4</page>
+               <cobiss>124718336</cobiss>
                <citedIn count="3">
                   <cit did="2712" cid="39"/>
                   <cit did="849" cid="6"/>
@@ -5678,8 +5697,8 @@ stoletja</title>
             <pubPart>
                <author>Pesek Rosvita</author>
                <title>Demos v arhivu nacionalne televizije</title>
-               <page>641</page>
                <page>641-662</page>
+               <cobiss>47668993</cobiss>
                <citedIn count="3">
                   <cit did="2812" cid="16"/>
                   <cit did="1280" cid="8"/>
@@ -5689,7 +5708,8 @@ stoletja</title>
             <pubPart>
                <author>Potočnik Dragan</author>
                <title>Stranka Sivih panterjev od ustanovitve do razpada Demosa</title>
-               <page>439</page>
+               <page>437-450</page>
+               <cobiss>11833096</cobiss>
                <citedIn count="1">
                   <cit did="1280" cid="4"/>
                </citedIn>
@@ -5711,9 +5731,9 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Ratej Mateja</author>
-               <title>Slovenska obrtniška / liberalna stranka</title>
                <title>Slovenska obrtniška/liberalna stranka</title>
                <page>451-478</page>
+               <cobiss>11823880</cobiss>
                <citedIn count="2">
                   <cit did="2618" cid="205"/>
                   <cit did="2712" cid="51"/>
@@ -5737,8 +5757,8 @@ stoletja</title>
                <author>Szilagy Imre</author>
                <author>Szilágyi Imre</author>
                <title>Odmevi Demosa na Madžarskem</title>
-               <page>733</page>
                <page>729-743</page>
+               <cobiss>124737024</cobiss>
                <citedIn count="2">
                   <cit did="1522" cid="14"/>
                   <cit did="2740" cid="2"/>
@@ -5748,8 +5768,7 @@ stoletja</title>
                <author>Vodušek Starič Jerca</author>
                <title>Demos in slovensko predsedstvo</title>
                <page>479-501</page>
-               <page>492</page>
-               <page>3-4</page>
+               <cobiss>11835144</cobiss>
                <citedIn count="4">
                   <cit did="1524" cid="4"/>
                   <cit did="1522" cid="3"/>
@@ -5760,8 +5779,8 @@ stoletja</title>
             <pubPart>
                <author>Vovko Andrej</author>
                <title>Slovenski krščanski demokrati (SKD)</title>
-               <page>386,388</page>
                <page>381-398</page>
+               <cobiss>19557421</cobiss>
                <citedIn count="3">
                   <cit did="2812" cid="10"/>
                   <cit did="849" cid="9"/>
@@ -5770,11 +5789,11 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Zver Milan</author>
-               <title>Moč in nemoč Demos-a: Študij primera - SDS</title>
-               <title>Moč in nemoč Demosa</title>
-               <title>Študij primera - SDS</title>
+               <title>Moč in nemoč Demos-a</title>
+               <title>Študij primera</title>
+               <title>SDS</title>
                <page>399-410</page>
-               <page>404</page>
+               <cobiss>124719104</cobiss>
                <citedIn count="2">
                   <cit did="2712" cid="74"/>
                   <cit did="1281" cid="3"/>
@@ -5783,6 +5802,8 @@ stoletja</title>
             <pubPart>
                <author>Čepič Zdenko</author>
                <title>Opozicija 'opozicije'</title>
+               <page>617-640</page>
+               <cobiss>1218676</cobiss>
                <citedIn count="1">
                   <cit did="2812" cid="17"/>
                </citedIn>
@@ -5806,6 +5827,7 @@ stoletja</title>
                <author>Žerdin Ali H.</author>
                <title>Demos in tisk, tisk in Demos</title>
                <page>663-672</page>
+               <cobiss>47667457</cobiss>
                <citedIn count="2">
                   <cit did="2812" cid="15"/>
                   <cit did="2712" cid="75"/>
@@ -5814,6 +5836,8 @@ stoletja</title>
             <pubPart>
                <author>Žigon Zvone</author>
                <title>Vloga Slovencev v tujini pri osamosvojitvi</title>
+               <page>179-190</page>
+               <cobiss>20627757</cobiss>
                <citedIn count="1">
                   <cit did="2712" cid="77"/>
                </citedIn>
@@ -5826,6 +5850,7 @@ stoletja</title>
                <author>Bon Silvia</author>
                <title>Immigrazioni e presenza ebraica a Trieste nei secoli XIV e XV</title>
                <page>113-118</page>
+               <cobiss>7806541</cobiss>
                <citedIn count="1">
                   <cit did="2574" cid="2"/>
                </citedIn>
@@ -5834,7 +5859,7 @@ stoletja</title>
                <author>Brunner W.</author>
                <title>Geschichte der Juden auf dem Gebiet des heutigen Steiermark im Mittelalter</title>
                <page>71-94</page>
-               <page>71-92</page>
+               <cobiss>116874496</cobiss>
                <citedIn count="2">
                   <cit did="2451" cid="5"/>
                   <cit did="2412" cid="11"/>
@@ -5844,14 +5869,16 @@ stoletja</title>
                <author>Frejdenberg M.</author>
                <title>Again on the Exiles of 1497-1515</title>
                <page>107-112</page>
+               <cobiss>116878848</cobiss>
                <citedIn count="1">
                   <cit did="2412" cid="17"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Heil J.</author>
-               <title>Die Juden in der Politik des Römisch-Deutsches Reiches bis zum 16. Jahrhundert</title>
+               <title>Die Juden in der Politik des Römisch-Deutschen Reiches bis zum 16. Jahrhundert</title>
                <page>9-48</page>
+               <cobiss>116872192</cobiss>
                <citedIn count="2">
                   <cit did="2451" cid="8"/>
                   <cit did="2412" cid="25"/>
@@ -5861,6 +5888,7 @@ stoletja</title>
                <author>Mikuž J.</author>
                <title>Nekdanja židovska četrt in nekdanja sinagoga v Mariboru</title>
                <page>159-171</page>
+               <cobiss>116933632</cobiss>
                <citedIn count="2">
                   <cit did="2474" cid="35"/>
                   <cit did="2412" cid="50"/>
@@ -5896,9 +5924,9 @@ stoletja</title>
                <author>Schöggl-Ernst Elisabeth</author>
                <author>Schöggel Ernst E.</author>
                <title>Die Vertreibung der Juden aus Steiermark, Kärnten und Krain am Ende des Mittelalters</title>
-               <title>Die Vertreibung der Juden aus Steiermark, Kärnten und Krain am Ende des Mittelalters : Quellen und Geschichte</title>
-               <title>Die Vertreibung der Juden aus Steiermark, Kärnten und Krain am Ende des Mittelalters. Quellen und Geschichte</title>
+               <title>Quellen und Geschichte</title>
                <page>299-314</page>
+               <cobiss>116964096</cobiss>
                <citedIn count="5">
                   <cit did="2474" cid="42"/>
                   <cit did="2451" cid="20"/>
@@ -5910,7 +5938,8 @@ stoletja</title>
             <pubPart>
                <author>Tovšak Slavica</author>
                <title>Nabavne in prodajne zadruge v Mariborskem okrožju 1945-1946</title>
-               <page>2009-243</page>
+               <page>209-243</page>
+               <cobiss>545669</cobiss>
                <citedIn count="1">
                   <cit did="2017" cid="78"/>
                </citedIn>
@@ -5920,7 +5949,7 @@ stoletja</title>
                <author>Wadl Wilhelm</author>
                <title>Zur Geschichte der Juden in Kärnten im Mittelalter</title>
                <page>95-105</page>
-               <page>103-105</page>
+               <cobiss>4837940</cobiss>
                <citedIn count="2">
                   <cit did="2412" cid="75"/>
                   <cit did="1695" cid="6"/>
@@ -5928,8 +5957,10 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Šmitek Zmago</author>
-               <title>Križarji, romarji, spokorniki: naši stiki s Sveto deželo</title>
+               <title>Križarji, romarji, spokorniki</title>
+               <title>naši stiki s Sveto deželo</title>
                <page>119-132</page>
+               <cobiss>15321186</cobiss>
                <citedIn count="1">
                   <cit did="2623" cid="241"/>
                </citedIn>
@@ -6053,7 +6084,9 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Repe Božo</author>
-               <title>Refleksija treh največjih jugoslovanskih povojnih znotrajpatrijskih obračunov v Sloveniji</title>
+               <title>Refleksija treh največjih jugoslovanskih povojnih znotrajpartijskih obračunov ("informbiroja", "đilasovščine" in partijskega "liberalizma") v Sloveniji</title>
+               <page>239-253</page>
+               <cobiss>9444616</cobiss>
                <citedIn count="1">
                   <cit did="1653" cid="20"/>
                </citedIn>
@@ -6073,7 +6106,8 @@ stoletja</title>
             <pubPart>
                <author>Šuligoj Ljubica</author>
                <title>Mestna občina Ptuj v desetletju 1908-1918</title>
-               <page>214</page>
+               <page>203-222</page>
+               <cobiss>9444104</cobiss>
                <citedIn count="1">
                   <cit did="1775" cid="13"/>
                </citedIn>
@@ -6097,7 +6131,8 @@ stoletja</title>
             <pubPart>
                <author>Melik Vasilij</author>
                <title>Politične razmere v Avstriji pred sto leti</title>
-               <page>34</page>
+               <page>33-40</page>
+               <cobiss>8157741</cobiss>
                <citedIn count="1">
                   <cit did="1783" cid="120"/>
                </citedIn>
@@ -6141,8 +6176,9 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Šumrada Janez</author>
-               <title>Razmejitev med Napoleonovo Francijo in Avstrijskim cesarstvom na slovenskem etničnem ozemlju po nastanku Illirskih provinc</title>
+               <title>Razmejitev med Napoleonovo Francijo in Avstrijskim cesarstvom na slovenskem etničnem ozemlju po nastanku Ilirskih provinc</title>
                <page>247-260</page>
+               <cobiss>8126984</cobiss>
                <citedIn count="1">
                   <cit did="3512" cid="7"/>
                </citedIn>
@@ -6174,6 +6210,8 @@ stoletja</title>
             <pubPart>
                <author>Toš Marjan</author>
                <title>Prevratni dnevi 1918/1919 pri Lenartu v Slovenskih goricah</title>
+               <page>322-326</page>
+               <cobiss>73635584</cobiss>
                <citedIn count="2">
                   <cit did="950" cid="3"/>
                   <cit did="3297" cid="9"/>
@@ -6187,6 +6225,7 @@ stoletja</title>
                <author>Curk Jože</author>
                <title>Proštijska cerkev na Ptuju</title>
                <page>6-17</page>
+               <cobiss>63214592</cobiss>
                <citedIn count="1">
                   <cit did="2639" cid="37"/>
                </citedIn>
@@ -6194,7 +6233,8 @@ stoletja</title>
             <pubPart>
                <author>Počivavšek Marija</author>
                <title>O sejmih v Podsredi</title>
-               <page>61</page>
+               <page>50-66</page>
+               <cobiss>63220480</cobiss>
                <citedIn count="1">
                   <cit did="1540" cid="9"/>
                </citedIn>
@@ -6220,8 +6260,9 @@ stoletja</title>
          <issue n="2">
             <pubPart>
                <author>Breznik Stramljič Irena</author>
-               <title>Besedotvorje in njegovo izrazje v slovensko pisanih slovnicah 19. stoletja.</title>
+               <title>Besedotvorje in njegovo izrazje v slovensko pisanih slovnicah 19. stoletja</title>
                <page>248-261</page>
+               <cobiss>5685768</cobiss>
                <citedIn count="1">
                   <cit did="1623" cid="19"/>
                </citedIn>
@@ -6230,6 +6271,7 @@ stoletja</title>
                <author>Ferenc Tone</author>
                <title>Gradnja tovarne glinice in aluminija Strnišče med drugo svetovno vojno</title>
                <page>174-204</page>
+               <cobiss>69231616</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="163"/>
                </citedIn>
@@ -6313,8 +6355,8 @@ stoletja</title>
             <pubPart>
                <author>Curk Jože</author>
                <title>Prometne razmere med 11. in 18. stoletjem na nekdanjem koroškem ozemlju</title>
-               <page>13-18</page>
                <page>13-19</page>
+               <cobiss>47887360</cobiss>
                <citedIn count="2">
                   <cit did="2240" cid="1"/>
                   <cit did="2640" cid="24"/>
@@ -6324,6 +6366,7 @@ stoletja</title>
                <author>Grafenauer Bogo</author>
                <title>Jugoslavija, zgodovinska nuja ali zgodovinska zmota</title>
                <page>47-50</page>
+               <cobiss>985421</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="148"/>
                </citedIn>
@@ -6356,7 +6399,8 @@ stoletja</title>
             <pubPart>
                <author>Pleterski Janko</author>
                <title>Jugoslavija v slovenski zgodovini</title>
-               <page>40-45</page>
+               <page>40-46</page>
+               <cobiss>985165</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="147"/>
                </citedIn>
@@ -6396,6 +6440,8 @@ stoletja</title>
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Volilne mahinacije ob severni meji pred prvo svetovno vojno</title>
+               <page>39-99</page>
+               <cobiss>249677</cobiss>
                <citedIn count="1">
                   <cit did="1874" cid="2"/>
                </citedIn>
@@ -6425,6 +6471,7 @@ stoletja</title>
                <author>Švanjcer J. J.</author>
                <title>Dva naša srednjeveška meča</title>
                <page>164-171</page>
+               <cobiss>47877632</cobiss>
                <citedIn count="1">
                   <cit did="2587" cid="27"/>
                </citedIn>
@@ -6433,6 +6480,7 @@ stoletja</title>
                <author>Ževart Milan</author>
                <title>Partizanske enote na slovenskem Štajerskem 1941-1945</title>
                <page>254-273</page>
+               <cobiss>47879168</cobiss>
                <citedIn count="1">
                   <cit did="2287" cid="92"/>
                </citedIn>
@@ -6466,6 +6514,8 @@ stoletja</title>
             <pubPart>
                <author>Baš Angelos</author>
                <title>Oblačilni materiali mestnega prebivalstva na Slovenskem v 17. in 18. stoletju</title>
+               <page>8-14</page>
+               <cobiss>27514114</cobiss>
                <citedIn count="1">
                   <cit did="2288" cid="14"/>
                </citedIn>
@@ -6473,7 +6523,8 @@ stoletja</title>
             <pubPart>
                <author>Oder Karla</author>
                <title>Oris načina življenja v industrijskih naseljih Mežiške doline v obdobju kapitalizma</title>
-               <page>134-145</page>
+               <page>54-60</page>
+               <cobiss>27518978</cobiss>
                <citedIn count="2">
                   <cit did="2244" cid="9"/>
                   <cit did="2243" cid="13"/>
@@ -6482,6 +6533,8 @@ stoletja</title>
             <pubPart>
                <author>Studen Andrej</author>
                <title>Zgodovinar in raziskovanje stanovanjske kulture urbanih naselij v preteklosti</title>
+               <page>128-133</page>
+               <cobiss>27518722</cobiss>
                <citedIn count="1">
                   <cit did="563" cid="5"/>
                </citedIn>
@@ -6494,6 +6547,7 @@ stoletja</title>
                <author>Grašič M.</author>
                <title>Začetki delovanja primorskega emigrantskega društva Nanos v predvojnem Mariboru</title>
                <page>23-35</page>
+               <cobiss>18577152</cobiss>
                <citedIn count="1">
                   <cit did="3014" cid="8"/>
                </citedIn>
@@ -6515,6 +6569,7 @@ stoletja</title>
                <author>Knez Tone</author>
                <title>Halštatski knežji grobovi v Sloveniji</title>
                <page>228-237</page>
+               <cobiss>16813056</cobiss>
                <citedIn count="1">
                   <cit did="2266" cid="21"/>
                </citedIn>
@@ -6533,8 +6588,10 @@ stoletja</title>
             </pubPart>
             <pubPart>
                <author>Teržan B.</author>
-               <title>Pohorje - prazgodovinski rudarski revir</title>
+               <title>Pohorje</title>
+               <title>prazgodovinski rudarski revir?</title>
                <page>238-260</page>
+               <cobiss>310306</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="20"/>
                </citedIn>
@@ -6556,6 +6613,7 @@ stoletja</title>
                <author>Höfler Janez</author>
                <title>Ob novih odkritjih srednjeveških fresk v mestni župnijski cerkvi sv. Jurija v Ptuju</title>
                <page>31-50</page>
+               <cobiss>16745984</cobiss>
                <citedIn count="1">
                   <cit did="2639" cid="121"/>
                </citedIn>
@@ -6597,6 +6655,7 @@ stoletja</title>
                <author>Repe Božo</author>
                <title>Sistem ljudske demokracije v Sloveniji in Jugoslaviji</title>
                <page>303-315</page>
+               <cobiss>8130824</cobiss>
                <citedIn count="1">
                   <cit did="1816" cid="3"/>
                </citedIn>
