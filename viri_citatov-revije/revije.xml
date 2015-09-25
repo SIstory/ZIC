@@ -8776,6 +8776,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Keber Katarina</author>
                <title>Rudarske bratovske skladnice kot ena prvih organiziranih oblik zdravstvenega in socialnega zavarovanja v habsburški monarhiji</title>
                <page>47-56</page>
+               <cobiss>32353325</cobiss>
                <citedIn count="1">
                   <cit did="2794" cid="3"/>
                </citedIn>
@@ -8784,6 +8785,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Lampreht Rajmund</author>
                <title>Selnica ob Dravi leta 1945 pod oblastjo Krajevnega ljudskega odbora</title>
                <page>107-116</page>
+               <cobiss>7407134</cobiss>
                <citedIn count="1">
                   <cit did="3341" cid="3"/>
                </citedIn>
@@ -8846,6 +8848,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Tominšek Čehulić Tadeja</author>
                <title>Druga svetovna vojna in njene posledice za Belokranjce (1941–1945)</title>
+               <page>859-874</page>
+               <cobiss>2814580</cobiss>
                <citedIn count="1">
                   <cit did="3528" cid="19"/>
                </citedIn>
@@ -9403,14 +9407,18 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Keber Katarina</author>
                <title>Ljubljanski zdravnik Fran Viljem Lipič in preteča epidemija kolere leta 1831</title>
+               <page>35-44</page>
+               <cobiss>535157</cobiss>
                <citedIn count="1">
                   <cit did="2610" cid="44"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Čeč Dragica</author>
-               <title>Nisem kradel lesa, samo veje sem pobral</title>
-               <page>23</page>
+               <title>Nisem kradel lesa, samo veje sem pobral!</title>
+               <title>o vzrokih in načinih preganjanja gozdnih prekrškov v ribniškem gospostvu na prehodu iz 18. v 19. stoletje</title>
+               <page>17-34</page>
+               <cobiss>215024896</cobiss>
                <citedIn count="1">
                   <cit did="456" cid="7"/>
                </citedIn>
@@ -9449,6 +9457,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Praprotnik Nada</author>
                <title>Botanični vrt Karla Zoisa na Brdu</title>
                <page>167-174</page>
+               <cobiss>377077</cobiss>
                <citedIn count="1">
                   <cit did="3264" cid="32"/>
                </citedIn>
@@ -9466,7 +9475,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Slana Lidija</author>
                <title>Utrinki iz zgodovine Brda</title>
-               <page>131-142</page>
+               <page>131-141</page>
+               <cobiss>512856959</cobiss>
                <citedIn count="4">
                   <cit did="3264" cid="38"/>
                   <cit did="2604" cid="112"/>
@@ -9478,16 +9488,17 @@ zgodovinarjev v Mariboru)</title>
                <author>Zupan Gojko</author>
                <title>Arhitektura dvorca Brdo pri Kranju</title>
                <page>201-210</page>
+               <cobiss>512858239</cobiss>
                <citedIn count="1">
                   <cit did="2114" cid="21"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Žvanut Maja</author>
-               <title>Čast in hvala vselej dala njim se vaša gnada bo</title>
                <title>Čast in hvala vselej dala njim se vaša gnada bo...</title>
-               <page>143-151</page>
+               <title>(A. T. Linhart: besedilo za glasbeni vložek k igri Ta veseli dan ali Matiček se ženi)</title>
                <page>143-150</page>
+               <cobiss>4615776</cobiss>
                <citedIn count="2">
                   <cit did="259" cid="46"/>
                   <cit did="2604" cid="148"/>
@@ -9497,8 +9508,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Presl I.</author>
-               <title>Med iniciativo pohlepnega zasebnika in regulativo spletkarske administracije. Državna ladjedelnica v Kraljeviči 1765-1768</title>
+               <title>Med iniciativo pohlepnega zasebnika in regulativo spletkarske administracije</title>
+               <title>Državna ladjedelnica v Kraljevici 1765-1768</title>
                <page>349-372</page>
+               <cobiss>388852</cobiss>
                <citedIn count="1">
                   <cit did="3459" cid="181"/>
                </citedIn>
@@ -9509,7 +9522,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1">
             <pubPart>
                <author>Deželak-Barič Vida</author>
-               <title>Tone Ferenc - 75-letnik</title>
+               <title>Tone Ferenc</title>
+               <title>75-letnik</title>
+               <page>349-372</page>
+               <cobiss>388852</cobiss>
                <citedIn count="1">
                   <cit did="576" cid="1"/>
                </citedIn>
@@ -9563,22 +9579,16 @@ zgodovinarjev v Mariboru)</title>
                <author>Balkovec Bojan</author>
                <title>Paberki o rojstvih in porokah v župniji Preloka</title>
                <page>51-60</page>
+               <cobiss>21221218</cobiss>
                <citedIn count="1">
                   <cit did="3196" cid="1"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Gašparič Jure</author>
-               <title>Slovenska krščansko socialna delavska zveza</title>
-               <page>284</page>
-               <citedIn count="1">
-                  <cit did="2788" cid="11"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Pavlin Vojko</author>
                <title>Gospostvo Renče in Hoferjevi renski urbarji 16. stoletja</title>
                <page>229-248</page>
+               <cobiss>512494463</cobiss>
                <citedIn count="1">
                   <cit did="1421" cid="38"/>
                </citedIn>
@@ -9596,6 +9606,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Šilc Jurij</author>
                <title>Rečni prehod struge Save pri Tacnu pod Šmarno goro</title>
                <page>273-286</page>
+               <cobiss>127662592</cobiss>
                <citedIn count="1">
                   <cit did="2217" cid="21"/>
                </citedIn>
@@ -9612,8 +9623,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Žmuc Irena</author>
                <title>Zapuščina grofa Janeza Andreja Auersperga</title>
-               <page>249-266.</page>
                <page>249-266</page>
+               <cobiss>512494719</cobiss>
                <citedIn count="2">
                   <cit did="1593" cid="89"/>
                   <cit did="2623" cid="279"/>
@@ -9644,6 +9655,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Piškurič Jelka</author>
                <title>Prebivalstvo na Ižanskem skozi matične knjige</title>
+               <page>1-16</page>
+               <cobiss>118676224</cobiss>
                <citedIn count="1">
                   <cit did="3196" cid="3"/>
                </citedIn>
@@ -9652,6 +9665,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Vidovič Miklavčič Anka</author>
                <title>Novomeški okraj v letih 1929-1941</title>
                <page>81-98</page>
+               <cobiss>1320052</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="80"/>
                </citedIn>
@@ -9660,9 +9674,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="2">
             <pubPart>
                <author>Južnič Stanislav</author>
-               <title>Dillherr, Rieger, Gruber in Ambschell</title>
+               <title>Dillherr, Rieger, Schöttl, Gruber in Ambschell</title>
                <title>Jezuitski fiziki v Ljubljani 1754-1785</title>
-               <page>139-169</page>
+               <page>139-170</page>
+               <cobiss>119734016</cobiss>
                <citedIn count="1">
                   <cit did="56" cid="11"/>
                </citedIn>
@@ -9671,6 +9686,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Juričić Čargo Daniela</author>
                <title>Potovanje Franca Antona Breckerfelda v Istro leta 1803</title>
                <page>171-184</page>
+               <cobiss>290677</cobiss>
                <citedIn count="1">
                   <cit did="1913" cid="21"/>
                </citedIn>
@@ -9679,10 +9695,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Anžič Sonja</author>
-               <title>Postlana je postelja kranjskim lenuhom in potepuhom! : prisilna delavnica v Ljubljani</title>
-               <title>Postlana je postelja kranjskim lenuhom in potepuhom!: Prisilna delavnica v Ljubljani</title>
-               <page>316</page>
+               <title>Postlana je postelja kranjskim lenuhom in potepuhom!</title>
+               <title>prisilna delavnica v Ljubljani</title>
                <page>313-326</page>
+               <cobiss>126071040</cobiss>
                <citedIn count="2">
                   <cit did="1448" cid="3"/>
                   <cit did="3431" cid="4"/>
@@ -9693,6 +9709,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Pešak Mikec et al.</author>
                <title>Ljubljanski hoteli do druge svetovne vojne</title>
                <page>343-362</page>
+               <cobiss>126071552</cobiss>
                <citedIn count="2">
                   <cit did="2401" cid="3"/>
                   <cit did="2610" cid="65"/>
@@ -9701,8 +9718,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Budna Kodrič Nataša</author>
                <title>Popotništvo in popotniki v Ljubljani od 16. do 19. stoletja</title>
-               <page>263-264, 269</page>
-               <page>263-264</page>
+               <page>259-276</page>
+               <cobiss>126070528</cobiss>
                <citedIn count="2">
                   <cit did="678" cid="14"/>
                   <cit did="118" cid="7"/>
@@ -9710,8 +9727,10 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Gantar Godina Irena</author>
-               <title>Ljubljana: gostiteljica 4. vseslovenskega časnikarskega kongresa maja 1902</title>
+               <title>Ljubljana</title>
+               <title>gostiteljica 4. vseslovanskega časnikarskega kongresa maja 1902</title>
                <page>375-384</page>
+               <cobiss>4913737</cobiss>
                <citedIn count="1">
                   <cit did="2062" cid="1"/>
                </citedIn>
@@ -9719,7 +9738,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Holz Eva</author>
                <title>Popotovanje cesarja Leopolda II. in neapeljskega dvora skozi Kranjsko v letih 1790 in 1791</title>
-               <page>302-304</page>
+               <page>301-312</page>
+               <cobiss>20104237</cobiss>
                <citedIn count="1">
                   <cit did="257" cid="2"/>
                </citedIn>
@@ -9728,6 +9748,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Klasinc Škofljanec Andreja</author>
                <title>Ljubljanska policija v drugi polovici 18. stoletja</title>
                <page>291-300</page>
+               <cobiss>317301</cobiss>
                <citedIn count="1">
                   <cit did="2510" cid="3"/>
                </citedIn>
@@ -9747,7 +9768,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Žnidaršič Golec L.</author>
                <title>Meščani in cerkvene ustanove v Ljubljani do konca 16. stoletja</title>
-               <page>251</page>
+               <page>241-258</page>
+               <cobiss>317557</cobiss>
                <citedIn count="1">
                   <cit did="262" cid="33"/>
                </citedIn>
@@ -9760,6 +9782,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Ferenc Mitja</author>
                <title>Povojna usoda sakralnih objektov na nekdanjem nemškem jezikovnem območju na Kočevskem</title>
                <page>123-140</page>
+               <cobiss>115400960</cobiss>
                <citedIn count="1">
                   <cit did="1365" cid="1"/>
                </citedIn>
@@ -9781,6 +9804,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Granda Stane</author>
                <title>Matija Žargi, Železarna na Dvoru ob Krki 1795-1891</title>
                <page>179-181</page>
+               <cobiss>18575405</cobiss>
                <citedIn count="1">
                   <cit did="2606" cid="10"/>
                </citedIn>
@@ -9800,7 +9824,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Šuligoj Ljubica</author>
                <title>Leto 1941 na Ptuju</title>
-               <page>114-115</page>
+               <page>113-122</page>
+               <cobiss>11165192</cobiss>
                <citedIn count="1">
                   <cit did="1775" cid="17"/>
                </citedIn>
@@ -9808,7 +9833,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Žibert Marjana</author>
                <title>Zgodovina arheoloških raziskovanj na Gorenjskem</title>
-               <page>78-80</page>
+               <page>73-84</page>
+               <cobiss>6969910</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="24"/>
                </citedIn>
@@ -9818,7 +9844,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Anžur Tea</author>
                <title>Naravoslovne znanosti in ustanovitev Biotehniške fakultete</title>
-               <page>231</page>
+               <page>231-244</page>
+               <cobiss>118102016</cobiss>
                <citedIn count="1">
                   <cit did="2047" cid="2"/>
                </citedIn>
@@ -9827,7 +9854,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Leskovšek Mateja</author>
                <title>Slomškova zveza 1900-1926</title>
                <page>255-282</page>
-               <page>256-261</page>
+               <cobiss>118102272</cobiss>
                <citedIn count="5">
                   <cit did="2055" cid="10"/>
                   <cit did="1321" cid="1"/>
@@ -9844,6 +9871,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Bučič Vesna</author>
                <title>Grad Snežnik po drugi svetovni vojni</title>
                <page>74-94</page>
+               <cobiss>110217984</cobiss>
                <citedIn count="1">
                   <cit did="2606" cid="2"/>
                </citedIn>
@@ -9871,6 +9899,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Kajfež T.</author>
                <title>Egipčanska soba na gradu Snežnik</title>
                <page>112-114</page>
+               <cobiss>110230528</cobiss>
                <citedIn count="1">
                   <cit did="1951" cid="7"/>
                </citedIn>
@@ -9888,6 +9917,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Kočar Tomaž</author>
                <title>Leo Schauta zadnji upravitelj snežniškega posestva</title>
                <page>71-73</page>
+               <cobiss>110217728</cobiss>
                <citedIn count="1">
                   <cit did="2606" cid="23"/>
                </citedIn>
@@ -9914,8 +9944,9 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1-2">
             <pubPart>
                <author>Curk Jože</author>
-               <title>O nekaterih nerešenih problemih ptujske topografije. Kronika 47 (1999). str. 1-10.</title>
+               <title>O nekaterih nerešenih problemih ptujske topografije</title>
                <page>1-10</page>
+               <cobiss>21186565</cobiss>
                <citedIn count="1">
                   <cit did="2639" cid="34"/>
                </citedIn>
@@ -9970,7 +10001,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Shaw Trevor</author>
-               <title>John Swinton - Potovanje skozi slovenske dežele leta 1734</title>
+               <title>John Swinton</title>
+               <title>Potovanje skozi slovenske dežele leta 1734</title>
+               <page>82-98</page>
+               <cobiss>13392429</cobiss>
                <citedIn count="1">
                   <cit did="2634" cid="40"/>
                </citedIn>
@@ -10002,9 +10036,9 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Bizjak M.</author>
                <author>Bizjak Matjaž</author>
-               <title>Posest zupnije Svibno in urbar ljubljanskega stolnega kapitlja iz leta 1499</title>
                <title>Posest župnije Svibno in urbar ljubljanskega kapitlja iz leta 1499</title>
                <page>1-12</page>
+               <cobiss>10073901</cobiss>
                <citedIn count="3">
                   <cit did="2631" cid="16"/>
                   <cit did="2583" cid="55"/>
@@ -10015,6 +10049,8 @@ zgodovinarjev v Mariboru)</title>
                <author>Kemperl Metoda</author>
                <title>Akademska bratovščina sv. Cecilije v župnijski cerkvi v Kamniku</title>
                <page>34-40</page>
+               <cobiss>9525090</cobiss>
+               <cobiss>3508790</cobiss>
                <citedIn count="1">
                   <cit did="2049" cid="10"/>
                </citedIn>
@@ -10037,10 +10073,10 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Preinfalk Miha</author>
-               <title>Zemljiško gospostvo Turjak pod taktirko Hansa Mordaxa (1514-1515)</title>
-               <title>Zemljiško gospostvo Turjak pod taktirko hansa Mordaxa (1514-1515)</title>
-               <page>26</page>
-               <page>25</page>
+               <title>Zemljiško gospostvo Turjak pod taktirko Hansa Mordaxa</title>
+               <title>(1514-1515)</title>
+               <page>13-33</page>
+               <cobiss>99863040</cobiss>
                <citedIn count="2">
                   <cit did="1629" cid="4"/>
                   <cit did="2663" cid="9"/>
@@ -10059,8 +10095,9 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Adam Lucijan</author>
-               <title>Prispevek za genealogijo starejših koroških Ortenburžanov</title>
+               <title>Prispevek za geanalogijo starejših koroških Ortenburžanov</title>
                <page>1-10</page>
+               <cobiss>99928576</cobiss>                   
                <citedIn count="1">
                   <cit did="2623" cid="2"/>
                </citedIn>
@@ -10081,7 +10118,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Kolar Nataša</author>
                <title>Železnica na Ptuju od 1860 do 1918</title>
-               <page>50</page>
+               <page>47-54</page>
+               <cobiss>99931648</cobiss>
                <citedIn count="2">
                   <cit did="678" cid="26"/>
                   <cit did="118" cid="21"/>
@@ -10091,6 +10129,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Rogelj Monika</author>
                <title>Skrb za revne v Kranju v drugi polovici 19. stoletja</title>
                <page>55-76</page>
+               <cobiss>4052534</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="24"/>
                </citedIn>
@@ -10101,8 +10140,10 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1-2">
             <pubPart>
                <author>Cvelfar Bojan</author>
-               <title>Naj pokaže Celje svojo nemško kov! (Odkritje spomenika cesarju Jožefu II. léta 1882 v Celju)</title>
+               <title>Naj pokaže Celje svojo nemško kov!</title>
+               <title>(Odkritje spomenika cesarju Jožefu II. leta 1882 v Celju)</title>
                <page>78-82</page>
+               <cobiss>5629517</cobiss>
                <citedIn count="1">
                   <cit did="1783" cid="18"/>
                </citedIn>
@@ -10131,6 +10172,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Likič Milan</author>
                <title>Pijanci, pijanke in druge ljubljanske slike v Hribarjevi dobi</title>
                <page>126-138</page>
+               <cobiss>69864960</cobiss>
                <citedIn count="2">
                   <cit did="1744" cid="15"/>
                   <cit did="1610" cid="6"/>
@@ -10138,8 +10180,10 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Žižek Aleksander</author>
-               <title>Kronka konca strašne vojne : dnevniški zapiski Marte Gollitsch</title>
+               <title>Kronika konca strašne vojne</title>
+               <title>dnevniški zapiski Marte Gollitsch</title>
                <page>149-160</page>
+               <cobiss>69870592</cobiss>
                <citedIn count="1">
                   <cit did="76" cid="18"/>
                </citedIn>
@@ -10200,11 +10244,10 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Stergar Rok</author>
-               <title>'Lahu niti pedi naše zemlje'. Slovenski pogledi na Italijane ob napovedi vojne 23. maja 1915</title>
-               <title>Lahu niti pedi naše zemlje : Slovenski pogledi na Italijane ob napovedi vojne 23. maja 1915</title>
-               <title>Lahu niti pedi naše zemlje: slovenski pregledi na Italijane ob napovedi vojne 23. maja 1915</title>
-               <title>»Lahu niti pedi naše zemlje«: slovenski pogledi na Italijane ob napovedi vojne 23. maja 1915</title>
+               <title>'Lahu niti pedi naše zemlje'</title>
+               <title>Slovenski pogledi na Italijane ob napovedi vojne 23. maja 1915</title>
                <page>69-73</page>
+               <cobiss>4830029</cobiss>
                <citedIn count="4">
                   <cit did="2624" cid="53"/>
                   <cit did="1311" cid="1"/>
@@ -10227,6 +10270,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Kokole Metoda</author>
                <title>Zgodnjebaročni skladatelj, izdelovalec orgel in organist Isaac Posch v nadvojvodini Koroški in vojvodini Kranjski</title>
                <page>10-18</page>
+               <cobiss>3988781</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="65"/>
                </citedIn>
@@ -10251,6 +10295,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Brunšek Roman</author>
                <title>Procesi pred sodiščem slovenske narodne časti v Ljubljani</title>
                <page>106-114</page>
+               <cobiss>57466368</cobiss>
                <citedIn count="1">
                   <cit did="752" cid="5"/>
                </citedIn>
@@ -10259,6 +10304,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Kuret Primož</author>
                <title>Academia philharmonicorum v Ljubljani</title>
                <page>19-24</page>
+               <cobiss>57459200</cobiss>
                <citedIn count="2">
                   <cit did="1912" cid="81"/>
                   <cit did="1912" cid="82"/>
@@ -10290,6 +10336,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Štih Peter</author>
                <title>O novem branju starih virov</title>
                <page>1-2</page>
+               <cobiss>14991714</cobiss>
                <citedIn count="2">
                   <cit did="2319" cid="37"/>
                   <cit did="1423" cid="33"/>
@@ -10321,17 +10368,18 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Cindrič Alojz</author>
                <title>Kočevski študenti na Dunajski univerzi (1365-1917)</title>
-               <page>95-103</page>
+               <title>gradivo za proučevanje kočevskega izobraženstva</title>
+               <page>95-102</page>
+               <cobiss>4718157</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="17"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Ferenc Mitja</author>
-               <title>Štetje prebivalstva in hiš 15. julija 1945 na območju okrajnega izvršilnega ljudskega odbora v Kočevju</title>
                <title>Štetje prebivalstva in hiš 15. julija 1945 na območju okrajnega izvršnega ljudskega odbora v Kočevju</title>
                <page>69-75</page>
-               <page>69-76</page>
+               <cobiss>4697933</cobiss>
                <citedIn count="4">
                   <cit did="1443" cid="5"/>
                   <cit did="2567" cid="6"/>
@@ -10354,23 +10402,28 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Granda Stane</author>
                <title>Politične razmere na Kočevskem v letu 1848</title>
-               <page>23-33</page>
+               <page>23-37</page>
+               <cobiss>4560717</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="74"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kren Ludwig</author>
-               <title>"Soseda, zdaj smo berači" : korespondenca iz usodnih dni preselitve</title>
+               <title>"Soseda, zdaj smo berači"</title>
+               <title>korespondenca iz usodnih dni preselitve</title>
                <page>108-110</page>
+               <cobiss>4724301</cobiss>
                <citedIn count="1">
                   <cit did="1442" cid="21"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kren Ludwig</author>
-               <title>Kočevska 600 let nemški jezikovni otok</title>
+               <title>Kočevska</title>
+               <title>600 let nemški jezikovni otok</title>
                <page>1-6</page>
+               <cobiss>4549197</cobiss>
                <citedIn count="1">
                   <cit did="2670" cid="16"/>
                </citedIn>
@@ -10379,6 +10432,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Kundegraber Lackner Marija</author>
                <title>Etnografske posebnosti v nekdanjem Kočevskem nemškem jezikovnem otoku</title>
                <page>76-84</page>
+               <cobiss>4698189</cobiss>
                <citedIn count="1">
                   <cit did="2670" cid="20"/>
                </citedIn>
@@ -10387,14 +10441,17 @@ zgodovinarjev v Mariboru)</title>
                <author>Svoljšak Petra</author>
                <title>Neodvisna kočevska republika</title>
                <page>103-107</page>
+               <cobiss>4719181</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="164"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Trdan Vanda</author>
-               <title>Rdeči in črni: Državnozborske volitve leta 1907 na Kočevskem</title>
+               <title>Rdeči in črni</title>
+               <title>Državnozborske volitve leta 1907 na Kočevskem</title>
                <page>38-43</page>
+               <cobiss>4560973</cobiss>
                <citedIn count="1">
                   <cit did="1443" cid="18"/>
                </citedIn>
@@ -10406,24 +10463,38 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Nasprotniki Osvobodilne fronte in domobranstvo na Baškem</title>
+               <page>64-84</page>
+               <cobiss>40978432</cobiss>
                <citedIn count="1">
                   <cit did="587" cid="4"/>
                </citedIn>
             </pubPart>
-         </issue>
+         <pubPart>
+            <author>Štih Peter</author>
+            <title>Glose k srednjeveškemu delu Rutarjeve Zgodovine Tolminskega</title>
+            <page>21-28</page>
+            <cobiss>40938752</cobiss>
+            <citedIn count="1">
+               <cit did="1205" cid="40"/>
+            </citedIn>
+         </pubPart>
+         </issue>   
          <issue n="2">
             <pubPart>
                <author>Čoralič Lovorka</author>
                <title>Prispevek k poznavanju delovanja slovenskih priseljencev v Benetkah od 15. do 18. stoletja</title>
                <page>31-40</page>
+               <cobiss>1116749</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="8"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kuret Primož</author>
-               <title>Struktura in funkcija Filharmonične družbe v Ljubljani (Ob 200-letnici Filharmonične družbe)</title>
+               <title>Struktura in funkcija Filharmonične družbe v Ljubljani</title>
+               <title>Ob 200-letnici Filharmonične družbe</title>
                <page>26-30</page>
+               <cobiss>51197440</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="80"/>
                </citedIn>
@@ -10432,8 +10503,9 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Anžič Sonja</author>
-               <title>Ubožni inštitut v Ljubljani</title>
+               <title>Ubožni institut v Ljubljani</title>
                <page>6-11</page>
+               <cobiss>51302656</cobiss>
                <citedIn count="1">
                   <cit did="3420" cid="2"/>
                </citedIn>
@@ -10457,6 +10529,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Ovsenar Tita</author>
                <title>Meksikajnarji</title>
                <page>14-17</page>
+               <cobiss>244283</cobiss>
                <citedIn count="1">
                   <cit did="2063" cid="14"/>
                </citedIn>
@@ -10464,7 +10537,8 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Ukmar Dragica</author>
                <title>Začetki gradnje Nove Gorice</title>
-               <page>24</page>
+               <page>18-37</page>
+               <cobiss>51165184</cobiss>
                <citedIn count="1">
                   <cit did="810" cid="5"/>
                </citedIn>
@@ -10484,6 +10558,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Stariha Gorazd</author>
                <title>Iz manj znanega kranjskega življenja v prejšnjem stoletju</title>
                <page>155-164</page>
+               <cobiss>377654</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="26"/>
                </citedIn>
@@ -10496,6 +10571,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Granda Stane</author>
                <title>Zgornja Baška dolina v prvi polovici 19. stoletja</title>
                <page>52-58</page>
+               <cobiss>40955392</cobiss>
                <citedIn count="1">
                   <cit did="3121" cid="34"/>
                </citedIn>
@@ -10523,14 +10599,6 @@ zgodovinarjev v Mariboru)</title>
                   <cit did="3133" cid="20"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Štih Peter</author>
-               <title>Glose k srednjeveškem delu Rutarjeve zgodovine Tolminskega</title>
-               <page>21-28</page>
-               <citedIn count="1">
-                  <cit did="1205" cid="40"/>
-               </citedIn>
-            </pubPart>
          </issue>
          <issue n="2">
             <pubPart>
@@ -10538,6 +10606,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Lozar Štamcar Maja</author>
                <title>Shrambno pohištvo v plemiških zapuščinskih inventarjih 17. in 18. stoletja na Slovenskem</title>
                <page>88-97</page>
+               <cobiss>161083</cobiss>
                <citedIn count="2">
                   <cit did="2288" cid="92"/>
                   <cit did="2118" cid="11"/>
@@ -10551,6 +10620,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Radovanovič Sašo</author>
                <title>Mesto Maribor v luči matičnih knjig 17. stoletja</title>
                <page>32-39</page>
+               <cobiss>28068354</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="1"/>
                </citedIn>
@@ -10561,6 +10631,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Gestrin Ferdo</author>
                <title>Industrijske rastline (lan, konoplja, murve) na Slovenskem</title>
                <page>39-44</page>
+               <cobiss>32066560</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="119"/>
                </citedIn>
@@ -10569,6 +10640,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Žontar Majda</author>
                <title>Kulturna in telovadna društva na območju Domžal do prve svetovne vojne</title>
                <page>60-70</page>
+               <cobiss>164411</cobiss>
                <citedIn count="1">
                   <cit did="1391" cid="2"/>
                </citedIn>
@@ -10581,14 +10653,14 @@ zgodovinarjev v Mariboru)</title>
                <author>Brodnik Vilma</author>
                <title>Dobrodelnost v Ljubljani med prvo svetovno vojno</title>
                <page>56-64</page>
-               <page>1990</page>
+               <cobiss>14192898</cobiss>
                <citedIn count="2">
                   <cit did="3161" cid="10"/>
                   <cit did="1314" cid="18"/>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Marušič Branko</author>
+               <author>Marušič Branko</author>a
                <title>Na Primorskem ob razpadu Avstro-Ogrske</title>
                <citedIn count="1">
                   <cit did="1662" cid="165"/>
@@ -10598,16 +10670,19 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Dolenc Ervin</author>
-               <title>Bratstvo: Izobraževalna društva narodnih socialistov v dvajsetih letih</title>
+               <title>Bratstvo</title>
+               <title>Izobraževalna društva narodnih socialistov v dvajsetih letih</title>
                <page>138-144</page>
+               <cobiss>20622338</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="53"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Matić Dragan</author>
-               <title>Vojaški zapori na ljubljanskem gradu od 15.8. 1914 do vstopa Italije v prvo svetovno vojno</title>
+               <title>Vojaški zapor na ljubljanskem gradu od 15.8. 1914 do vstopa Italije v prvo svetovno vojno</title>
                <page>127-134</page>
+               <cobiss>20617730</cobiss>
                <citedIn count="1">
                   <cit did="1052" cid="4"/>
                </citedIn>
