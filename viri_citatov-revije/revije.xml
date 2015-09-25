@@ -3293,7 +3293,10 @@
             </pubPart>
             <pubPart correspPubId="3082">
                <author>Weiss Janez</author>
-               <title>Gregor Vlahovič (1523-1581), življenje in delo predikanta na meji cesarstva</title>
+               <title>Gregor Vlahovič (1523-1581)</title>
+               <title>življenje in delo predikanta na meji cesarstva</title>
+               <page>251-274</page>
+               <cobiss>1311349</cobiss>
                <citedIn count="1">
                   <cit did="3465" cid="121"/>
                </citedIn>
@@ -3411,8 +3414,10 @@
          <issue n="1">
             <pubPart>
                <author>Bukošek Metka</author>
-               <title>Okrožna kot trgovska sodišča 1850–1941</title>
-               <page>29-47</page>
+               <title>Okrožna kot trgovska sodišča</title>
+               <title>1850–1941</title>
+               <page>29-46</page>
+               <cobiss>881525</cobiss>
                <citedIn count="1">
                   <cit did="2309" cid="1"/>
                </citedIn>
@@ -3428,7 +3433,10 @@
             </pubPart>
             <pubPart>
                <author>Maček Jure</author>
-               <title>Slovensko meščansko šolstvo po letu 1918 - do sprejetja zakona o meščanskih šolah</title>
+               <title>Slovensko meščansko šolstvo po letu 1918</title>
+               <title>do sprejetja zakona o meščanskih šolah</title>
+               <page>121-141</page>
+               <cobiss>883829</cobiss>
                <citedIn count="1">
                   <cit did="3377" cid="20"/>
                </citedIn>
@@ -3439,6 +3447,7 @@
                <author>Bukošek Metka</author>
                <title>Poslovanje okrajnih sodišč na primeru poslovnikov iz leta 1897 in 1933</title>
                <page>57-80</page>
+               <cobiss>914037</cobiss>
                <citedIn count="1">
                   <cit did="2510" cid="1"/>
                </citedIn>
@@ -3469,9 +3478,10 @@
             <pubPart>
                <author>Umek E.</author>
                <author>Umek Ema</author>
-               <title>Kranjska kmetijska družba 1767-1787</title>
+               <title>Kranjska kmetijska družba</title>
+               <title>1767-1787</title>
                <page>1-34</page>
-               <page>12</page>
+               <cobiss>720245</cobiss>
                <citedIn count="2">
                   <cit did="2018" cid="335"/>
                   <cit did="1613" cid="26"/>
@@ -3504,7 +3514,8 @@
             <pubPart>
                <author>Dornik Šubelj Ljuba</author>
                <title>Podatki o dr. Vitu Kraigherju so bili državna tajnost</title>
-               <page>79-80</page>
+               <page>77-85</page>
+               <cobiss>595061</cobiss>
                <citedIn count="1">
                   <cit did="1510" cid="128"/>
                </citedIn>
@@ -3513,8 +3524,10 @@
          <issue n="2">
             <pubPart>
                <author>Bukošek Metka</author>
-               <title>Sodišča v času nemške okupacije Spodnje Štajerske (1941-1945)</title>
+               <title>Sodišča med nemško okupacijo Spodnje Štajerske</title>
+               <title>(1941-1945)</title>
                <page>201-205</page>
+               <cobiss>664181</cobiss>
                <citedIn count="1">
                   <cit did="2524" cid="1"/>
                </citedIn>
@@ -3523,6 +3536,7 @@
                <author>Bukošek Metka</author>
                <title>Zemljiška knjiga od začetka do danes</title>
                <page>183-200</page>
+               <cobiss>663925</cobiss>
                <citedIn count="1">
                   <cit did="2781" cid="4"/>
                </citedIn>
@@ -3540,8 +3554,10 @@
             </pubPart>
             <pubPart>
                <author>Gombač Metka</author>
-               <title>Otroci v italijanskih koncentracijskih taboriščih: 1942-1943</title>
+               <title>Otroci v italijanskih koncentracijskih taboriščih</title>
+               <title>1942-1943</title>
                <page>389-394</page>
+               <cobiss>667509</cobiss>
                <citedIn count="1">
                   <cit did="2771" cid="23"/>
                </citedIn>
@@ -3550,6 +3566,7 @@
                <author>Kresal France</author>
                <title>Stanovanjska zaščita po prvi svetovni vojni v Sloveniji</title>
                <page>165-173</page>
+               <cobiss>663413</cobiss>
                <citedIn count="1">
                   <cit did="158" cid="2"/>
                </citedIn>
@@ -3581,6 +3598,7 @@
                <author>Dolinar France M.</author>
                <title>Zbirka Viri</title>
                <page>65-68</page>
+               <cobiss>216761600</cobiss>
                <citedIn count="1">
                   <cit did="2508" cid="2"/>
                </citedIn>
@@ -3589,6 +3607,7 @@
                <author>Južnič S.</author>
                <title>Hacquetova bibliografija</title>
                <page>167-187</page>
+               <cobiss>216768000</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="159"/>
                </citedIn>
@@ -3598,8 +3617,10 @@
             <pubPart>
                <author>Golec Boris</author>
                <author>Goleč Boris</author>
-               <title>Neznana starejša uradovalna slovenica s Štajerskega (1677-1803)</title>
+               <title>Neznana starejša uradovalna slovenica s Štajerskega</title>
+               <title>(1677-1803)</title>
                <page>307-321</page>
+               <cobiss>23499821</cobiss>
                <citedIn count="2">
                   <cit did="3465" cid="24"/>
                   <cit did="1288" cid="28"/>
@@ -3608,7 +3629,9 @@
             <pubPart>
                <author>Mikec Avberšek Leopold</author>
                <title>Tehnični in vsebinski problemi klasičnega in elektronskega arhiviranja</title>
+               <title>Pokrajinski arhiv Maribor 2004, 423 strani</title>
                <page>369-373</page>
+               <cobiss>668549</cobiss>
                <citedIn count="1">
                   <cit did="2509" cid="7"/>
                </citedIn>
@@ -3619,8 +3642,9 @@
          <issue n="1">
             <pubPart>
                <author>Južnič Stanislav</author>
-               <title>Gabrijel Gruber in navigacijski inženir Jurij Vega</title>
-               <page>69</page>
+               <title>Gabriel Gruber in navigacijski inženir Jurij Vega</title>
+               <page>69-80</page>
+               <cobiss>461429</cobiss>
                <citedIn count="1">
                   <cit did="59" cid="2"/>
                </citedIn>
@@ -3629,6 +3653,7 @@
                <author>Kopač Janez</author>
                <title>Kodeks arhivske poklicne etike</title>
                <page>207-211</page>
+               <cobiss>465013</cobiss>
                <citedIn count="2">
                   <cit did="2843" cid="7"/>
                   <cit did="2843" cid="99"/>
@@ -3658,14 +3683,18 @@
             <pubPart>
                <author>Ribnikar Peter</author>
                <title>Naredba o prehodni upravi v Sloveniji iz leta 1918 in njen pomen za Slovenijo</title>
+               <page>119-128</page>
+               <cobiss>462453</cobiss>
                <citedIn count="1">
                   <cit did="334" cid="263"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Starman Hannah</author>
-               <title>Arhiviran hilokavst. Pregled arhivskega gradiva, ki ga hranijo v Izraelu</title>
+               <title>Arhiviran holokavst</title>
+               <title>pregled gradiva, ki ga hranijo v Izraelu</title>
                <page>227-238</page>
+               <cobiss>882573</cobiss>
                <citedIn count="1">
                   <cit did="2904" cid="118"/>
                </citedIn>
@@ -3674,6 +3703,7 @@
                <author>Žontar Jože</author>
                <title>Splošna okrajna uprava v Sloveniji v letih 1918 do 1941</title>
                <page>133-138</page>
+               <title>462965</title>
                <citedIn count="1">
                   <cit did="2306" cid="1"/>
                </citedIn>
@@ -3682,6 +3712,7 @@
                <author>Žumer Vladimir</author>
                <title>Dostop do javnih podatkov, informacij, dokumentov in arhivskega gradiva v Republiki Sloveniji</title>
                <page>13-21</page>
+               <cobiss>459893</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="166"/>
                </citedIn>
@@ -3700,7 +3731,9 @@
             <pubPart>
                <author>Horvat Mojca</author>
                <title>Tehnični in vsebinski problemi klasičnega in elektronskega arhiviranja</title>
+               <title>Pokrajinski arhiv Maribor 2003, 370 strani</title>
                <page>404-406</page>
+               <cobiss>528501</cobiss>
                <citedIn count="1">
                   <cit did="2509" cid="2"/>
                </citedIn>
@@ -3730,16 +3763,20 @@
          <issue n="1">
             <pubPart>
                <author>Cova Ugo</author>
-               <title>Trieste, Gorizia, Lubiana : Analisi storica delle interferenze istituzionali fra tre province limitrofe in epoca austriaca</title>
-               <page>80</page>
+               <title>Trieste, Gorizia, Lubiana</title>
+               <title>Analisi storica delle interferenze istituzionali fra tre province limitrofe in epoca austriaca</title>
+               <page>77-82</page>
+               <cobiss>293749</cobiss>
                <citedIn count="1">
                   <cit did="1317" cid="194"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Drnovšek Marjan</author>
-               <title>Odnos do slovenskega izseljenskega gradiva: nekaj primerov iz 20. stoletja</title>
+               <title>Odnos do slovenskega izseljenskega gradiva</title>
+               <title>nekaj primerov iz 20. stoletja</title>
                <page>215-224</page>
+               <cobiss>298357</cobiss>
                <citedIn count="1">
                   <cit did="2508" cid="3"/>
                </citedIn>
@@ -3748,6 +3785,7 @@
                <author>Janša-Zorn Olga</author>
                <title>Anton Koblar in Izvestja Muzejskega društva za Kranjsko</title>
                <page>129-136</page>
+               <cobiss>295797</cobiss>
                <citedIn count="1">
                   <cit did="2508" cid="4"/>
                </citedIn>
@@ -3767,6 +3805,7 @@
                <author>Serše Saša</author>
                <title>Okrajni cestni odbori na Kranjskem</title>
                <page>113-117</page>
+               <cobiss>295285</cobiss>
                <citedIn count="1">
                   <cit did="2064" cid="18"/>
                </citedIn>
@@ -3797,8 +3836,10 @@
             </pubPart>
             <pubPart>
                <author>Glažar Natalija</author>
-               <title>Tuji časopisi in revije</title>
+               <title>Comma 2001, 1-2</title>
+               <title>Comma 3-4, 2001</title>
                <page>181-185</page>
+               <cobiss>348021</cobiss>
                <citedIn count="1">
                   <cit did="3186" cid="1"/>
                </citedIn>
@@ -3824,7 +3865,9 @@
             <pubPart>
                <author>Mikec Avberšek Leopold</author>
                <title>Tehnični in vsebinski problemi klasičnega in elektronskega arhiviranja</title>
+               <title>izdal in založil Pokrajinski arhiv Maribor, Maribor 2002, 256 strani</title>
                <page>166-169</page>
+               <cobiss>345717</cobiss>
                <citedIn count="1">
                   <cit did="2509" cid="6"/>
                </citedIn>
@@ -3837,6 +3880,7 @@
                <author>Bukošek Metka</author>
                <title>Upravno sodišče v Celju</title>
                <page>21-36</page>
+               <cobiss>215157</cobiss>
                <citedIn count="1">
                   <cit did="88" cid="4"/>
                </citedIn>
@@ -3859,23 +3903,26 @@
                <author>Bonin Zdenka</author>
                <title>Pokopavanje v cerkvi in samostanskem poslopju sv. Klare v Kopru med letoma 1616 in 1782</title>
                <page>109-119</page>
+               <cobiss>264053</cobiss>
                <citedIn count="1">
                   <cit did="2590" cid="6"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Golob Nataša</author>
-               <title>Nekaj detajlov o vezavah srednjeveških rokopisov iz nekdanje Auersperg ljubljanske knjižnice</title>
+               <title>Nekaj detajlov o vezavah srednjeveških rokopisov iz nekdanje Auerspergove ljubljanske knjižnice</title>
                <page>53-58</page>
+               <cobiss>262517</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="27"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Keber Katarina</author>
-               <title>Kolera v arhivskem gradivu : primer Cecilije Tenbaum</title>
-               <title>Kolera v arhivskem gradivu: primer Cecilije Tenbaum</title>
+               <title>Kolera v arhivskem gradivu</title>
+               <title>primer Cecilije Tenbaum</title>
                <page>105-108</page>
+               <cobiss>263797</cobiss>
                <citedIn count="2">
                   <cit did="160" cid="4"/>
                   <cit did="2610" cid="42"/>
@@ -3898,7 +3945,8 @@
             <pubPart>
                <author>Preinfalk Miha</author>
                <title>Turjaški arhiv in njegove listine</title>
-               <page>91-104</page>
+               <page>83-104</page>
+               <cobiss>263541</cobiss>
                <citedIn count="1">
                   <cit did="2622" cid="50"/>
                </citedIn>
@@ -3909,7 +3957,10 @@
          <issue n="1">
             <pubPart>
                <author>Gombač Maja</author>
-               <title>Kulturni posredniki časnikarske, uredniki, krojači, šivilje, trgovci, fotografi, illustratorji</title>
+               <title>Kulturni posredniki</title>
+               <title>časnikarke, uredniki, krojači, šivilje, trgovci, fotografi, illustratorji</title>
+               <page>39-60</page>
+               <cobiss>1199733</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="115"/>
                </citedIn>
@@ -3918,8 +3969,10 @@
          <issue n="2">
             <pubPart>
                <author>Glažar Natalija</author>
-               <title>Slovenske in zvezne turistične konference (1945-1949)</title>
+               <title>Slovenske in zvezne turistične konference</title>
+               <title>1945-1949</title>
                <page>75-82</page>
+               <cobiss>167285</cobiss>
                <citedIn count="1">
                   <cit did="2017" cid="18"/>
                </citedIn>
@@ -3935,8 +3988,10 @@
             </pubPart>
             <pubPart>
                <author>Jeraj Mateja</author>
-               <title>Slovenska ženska društva med obema vojnama (1918-1941)</title>
+               <title>Slovenska ženska društva med obema vojnama</title>
+               <title>(1918-1941)</title>
                <page>53-61</page>
+               <cobiss>166773</cobiss>
                <citedIn count="1">
                   <cit did="73" cid="110"/>
                </citedIn>
@@ -3978,16 +4033,16 @@
                <author>Granda Stane</author>
                <title>Dolenjska v luči jožefinskih merjenj</title>
                <page>68-72</page>
+               <cobiss>68981</cobiss>
                <citedIn count="1">
                   <cit did="2606" cid="7"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Košir Matevž</author>
-               <title>Stanovski poverjeniki in stanovski odbor ter instrukcija za poverjenike iz let 1540 in 1542</title>
                <title>Stanovski poverjeniki in stanovski odbor ter instrukciji za poverjenike iz let 1540 in 1542</title>
-               <title>Stanovski poverjeniki in stanovski odbor ter instrukciji za poverjenike iz let 1540-1542</title>
                <page>159-167</page>
+               <cobiss>71541</cobiss>
                <citedIn count="3">
                   <cit did="256" cid="1"/>
                   <cit did="2623" cid="125"/>
@@ -4016,6 +4071,8 @@
             <pubPart>
                <author>Ribnikar Peter</author>
                <title>Študentske in dijaške štipendijske ustanove na Kranjskem</title>
+               <page>9-16</page>
+               <cobiss>66933</cobiss>
                <citedIn count="1">
                   <cit did="158" cid="3"/>
                </citedIn>
@@ -4023,15 +4080,18 @@
             <pubPart>
                <author>Serše Saša</author>
                <title>Upravna ureditev na kranjskem po letu 1848</title>
-               <page>52</page>
+               <page>50-59</page>
+               <cobiss>123467776</cobiss>
                <citedIn count="1">
                   <cit did="1317" cid="202"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Popisi prebivalstva: neizmerno velik zaklad Zgodovinskega arhiva Ljubljana</title>
+               <title>Popisi prebivalstva</title>
+               <title>neizmerno velik zaklad Zgodovinskega arhiva Ljubljana</title>
                <page>187-192</page>
+               <cobiss>72309</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="314"/>
                </citedIn>
@@ -4040,6 +4100,7 @@
                <author>Vodopivec Jedert</author>
                <title>Razvoj struktur v srednjeveških rokopisnih vezavah</title>
                <page>84-94</page>
+               <cobiss>69749</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="206"/>
                </citedIn>
@@ -4048,6 +4109,7 @@
                <author>Čarni Marija Oblak</author>
                <title>Rimska konvencija iz leta 1922 in urejanje vprašanja arhivov z Italijo</title>
                <page>28-34</page>
+               <cobiss>67701</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="39"/>
                </citedIn>
@@ -4055,6 +4117,8 @@
             <pubPart>
                <author>Žontar Jože</author>
                <title>Zgodovinopisje in arhivistika</title>
+               <page>17-20</page>
+               <cobiss>67189</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="12"/>
                </citedIn>
@@ -4063,6 +4127,7 @@
                <author>Žumer Vladimir</author>
                <title>Strokovni in politični vidiki valorizacije arhivskega gradiva</title>
                <page>39-49</page>
+               <cobiss>68213</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="129"/>
                </citedIn>
@@ -4071,14 +4136,6 @@
       </year>
       <year n="1998">
          <issue n="1-2">
-            <pubPart>
-               <author>Miličevič Milica</author>
-               <title>Arhivska gradja za istoriju Slovenije u fodovima arhiva Jugoslavije</title>
-               <page>78-86</page>
-               <citedIn count="1">
-                  <cit did="2508" cid="7"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Žontar Jože</author>
                <title>Sto let provenienčnega načela - petdeset let Mednarodnega arhivskega sveta</title>
@@ -4135,6 +4192,7 @@
                <author>Pillon Lucia</author>
                <title>Zasebni arhiv Coronini Cronberg</title>
                <page>165-170</page>
+               <cobiss>74529024</cobiss>
                <citedIn count="1">
                   <cit did="1421" cid="42"/>
                </citedIn>
@@ -4164,6 +4222,7 @@
                <author>Zupančič Andrej</author>
                <title>Uporaba arhivskega gradiva in varstvo avtorskih pravic</title>
                <page>39-46</page>
+               <cobiss>74516736</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="165"/>
                </citedIn>
@@ -4171,7 +4230,8 @@
             <pubPart>
                <author>Šinkovec Janez</author>
                <title>Uporaba arhivskega gradiva in varovanje zasebnosti ter osebnih podatkov</title>
-               <page>29-37</page>
+               <page>29-38</page>
+               <cobiss>74516224</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="164"/>
                </citedIn>
@@ -4180,6 +4240,7 @@
                <author>Žumer Vladimir</author>
                <title>Elementi popisovanja arhivskega gradiva</title>
                <page>137-159</page>
+               <cobiss>74527232</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="150"/>
                </citedIn>
@@ -4191,6 +4252,8 @@
             <pubPart>
                <author>Gašper Šmid</author>
                <title>Arhivska zakonodaja Kraljevine Jugoslavije</title>
+               <page>52-54</page>
+               <cobiss>66914816</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="28"/>
                </citedIn>
@@ -4223,7 +4286,7 @@
                <author>Kambič Marko</author>
                <title>Organizacija sodišč na slovenskem ozemlju v 16. stoletju s posebnim ozirom na Kranjsko</title>
                <page>1-16</page>
-               <page>10</page>
+               <cobiss>1078865</cobiss>
                <citedIn count="3">
                   <cit did="2357" cid="1"/>
                   <cit did="1540" cid="10"/>
@@ -4270,6 +4333,7 @@
                <author>Žontar Jože</author>
                <title>Kranjska podružnica Državnega pokrajinskega arhiva v Celovcu v času nemške okupacije</title>
                <page>55-59</page>
+               <cobiss>2371894</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="46"/>
                </citedIn>
@@ -4320,6 +4384,8 @@
             <pubPart>
                <author>Zajc Cizelj Ivanka</author>
                <title>Začetki načrtnega zbiranja arhivskega gradiva v no-tranjeavstrijskih deželah</title>
+               <page>55-59</page>
+               <cobiss>62408704</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="57"/>
                </citedIn>
@@ -4372,6 +4438,7 @@
                <author>Čarni Marija Oblak</author>
                <title>Mednarodni dokumenti o prenosu arhivov in nasledstvo arhivov SFRJ</title>
                <page>6-11</page>
+               <cobiss>51962368</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="38"/>
                </citedIn>
@@ -4382,16 +4449,20 @@
          <issue n="1-2">
             <pubPart>
                <author>Bezek Vanda</author>
-               <title>Strokovna obdelava arhivskega gradiva. Italijanski sistemi 1920-1945</title>
-               <page>59-71</page>
+               <title>Strokovna obdelava arhivskega gradiva</title>
+               <title>Italijanski sistemi 1920-1945</title>
+               <page>59-73</page>
+               <cobiss>46715136</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="70"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Bizjak Žarko</author>
-               <title>Urejanje in popisovanje gradiva rednih sodišč v avstrijskem in jugoslovanskem državnem okviru (od 1850 do danes)</title>
+               <title>Urejanje in popisovanje gradiva rednih sodišč</title>
+               <title>v avstrijskem in jugoslovanskem državnem okviru (od 1850 do danes)</title>
                <page>5-10</page>
+               <cobiss>46711552</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="71"/>
                </citedIn>
@@ -4400,14 +4471,17 @@
                <author>Gotovina Vesna</author>
                <title>Sistemi poslovanja s spisi v Sloveniji od leta 1955 dalje</title>
                <page>45-54</page>
+               <cobiss>46714368</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="73"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Jeraj Mateja</author>
-               <title>Klub koroških Slovencev v Ljubljani in njegovo arhivsko gradivo od njegove ustanovitve do danes (1928-1992)</title>
+               <title>Klub koroških Slovencev v Ljubljani in njegovo arhivsko gradivo od njegove ustanovitve do danes</title>
+               <title>(1928-1992)</title>
                <page>103-109</page>
+               <cobiss>46717440</cobiss>
                <citedIn count="1">
                   <cit did="2564" cid="6"/>
                </citedIn>
@@ -4416,6 +4490,7 @@
                <author>Kolar Bogdan</author>
                <title>Cerkvena arhivska zakonodaja v Sloveniji</title>
                <page>89-94</page>
+               <cobiss>46716416</cobiss>
                <citedIn count="2">
                   <cit did="2843" cid="31"/>
                   <cit did="2843" cid="162"/>
@@ -4425,6 +4500,7 @@
                <author>Košir Matevž</author>
                <title>Deželna deska za Kranjsko</title>
                <page>95-98</page>
+               <cobiss>46716928</cobiss>
                <citedIn count="1">
                   <cit did="2269" cid="16"/>
                </citedIn>
@@ -4432,6 +4508,8 @@
             <pubPart>
                <author>Mikola Milko</author>
                <title>Sodišče slovenske narodne časti</title>
+               <page>15-16</page>
+               <cobiss>46712576</cobiss>
                <citedIn count="1">
                   <cit did="2804" cid="14"/>
                </citedIn>
@@ -4439,7 +4517,8 @@
             <pubPart>
                <author>Mrvič Irena</author>
                <title>Razvoj matične službe in službe državljanstev občanov v Republiki Sloveniji 1945-1950</title>
-               <page>82-83</page>
+               <page>82-88</page>
+               <cobiss>46716160</cobiss>
                <citedIn count="1">
                   <cit did="724" cid="3"/>
                </citedIn>
@@ -4448,6 +4527,7 @@
                <author>Žontar Jože</author>
                <title>Razvoj sistemov poslovanja pri upravnih oblasteh do reforme pisarniškega poslovanja leta 1956</title>
                <page>30-44</page>
+               <cobiss>46714112</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="78"/>
                </citedIn>
@@ -4460,6 +4540,7 @@
                <author>Darovec Darko</author>
                <title>»Arhivski viri Pokrajinskega arhiva Koper in objavljeni viri za zgodovino beneške Istre«</title>
                <page>1-6</page>
+               <cobiss>46595072</cobiss>
                <citedIn count="1">
                   <cit did="1762" cid="32"/>
                </citedIn>
@@ -4468,6 +4549,7 @@
                <author>Žumer Vladimir</author>
                <title>Osnutek splošnih mednarodnih standardov za arhivsko popisovanje</title>
                <page>162-173</page>
+               <cobiss>46710528</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="149"/>
                </citedIn>
@@ -4479,6 +4561,8 @@
             <pubPart>
                <author>Benedetič Ana</author>
                <title>Nekateri specialni problemi arhivskega gradiva Univerze v Ljubljani</title>
+               <page>31-33</page>
+               <cobiss>46558208</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="55"/>
                </citedIn>
@@ -4514,6 +4598,7 @@
                <author>Gotovina Vesna</author>
                <title>Arhivsko gradivo o zaplembah in nacionalizacijah v fondu Ministrstva za industrijo in rudarstvo</title>
                <page>19-21</page>
+               <cobiss>26821122</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="73"/>
                </citedIn>
@@ -4521,7 +4606,10 @@
             <pubPart>
                <author>Kozina Brane</author>
                <title>Komisija za upravo narodne imovine</title>
+               <title>delo evidenčnostatističnega oddelka</title>
+               <title>navodilo za ocenjevanje narodnega imetja : problemi dela KUNI</title>
                <page>15-19</page>
+               <cobiss>26819842</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="95"/>
                </citedIn>
@@ -4530,14 +4618,17 @@
                <author>Oblak Čarni Marija</author>
                <title>Arhivi v Sloveniji v letih 1945-1950</title>
                <page>83-92</page>
+               <cobiss>26829058</cobiss>
                <citedIn count="1">
                   <cit did="2303" cid="2"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Radulovič Branko</author>
-               <title>Komisija za upravo narodne imovine</title>
+               <title>Komisija za upravo narodne imovine in zaplembe imetja</title>
+               <title>nastanek in organizacija KUNI</title>
                <page>11-15</page>
+               <cobiss>26819330</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="142"/>
                </citedIn>
@@ -4546,22 +4637,27 @@
                <author>Zupančič Marjan</author>
                <title>Gradivo o agrarni reformi in kolonizaciji v fondu Ministrstva za finance</title>
                <page>28-30</page>
+               <cobiss>26822658</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="205"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Štrumbl Žarko</author>
-               <title>Ministrstvo za kmetijstvo LRS : Oddelek za agrarno reformo 1941-1945</title>
+               <title>Ministrstvo za kmetijstvo LRS</title>
+               <title>Oddelek za agrarno reformo 1945-1951</title>
                <page>24-28</page>
+               <cobiss>74447360</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="170"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Šuštar Branko</author>
-               <title>Šolski list - statistični vir o šolah na področju Dravske banovine v Slovenskem šolskem muzeju</title>
+               <title>Šolski list</title>
+               <title>statistični vir o šolah na področju Dravske banovine v Slovenskem šolskem muzeju</title>
                <page>107-108</page>
+               <cobiss>26830850</cobiss>
                <citedIn count="1">
                   <cit did="1443" cid="16"/>
                </citedIn>
@@ -4570,6 +4666,7 @@
                <author>Žontar Jože</author>
                <title>Povojni prisilni odvzemi zasebnega premoženja</title>
                <page>5-11</page>
+               <cobiss>26818562</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="210"/>
                </citedIn>
@@ -4582,13 +4679,17 @@
                <author>Žontar Jože</author>
                <title>Arhivi v Jugoslaviji</title>
                <page>7-16</page>
+               <cobiss>13712898</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="69"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Žontar Jože</author>
-               <title>Vodnik po fondih in zbirkah arhiva. Ob objavah vodnikov slovenskih arhivov v zadnjih desetih letih</title>
+               <title>Vodnik po fondih in zbirkah arhiva</title>
+               <title>Ob objavah vodnikov slovenskih arhivov v zadnjih desetih letih</title>
+               <page>49-51</page>
+               <cobiss>13715714</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="157"/>
                </citedIn>
@@ -4596,7 +4697,9 @@
             <pubPart>
                <author>Žumer Vladimir</author>
                <title>Poročilo uredniškega odbora glasila Arhivskega društva in arhivov Slovenije</title>
+               <title>Arhivi za leto 1988 z dne 10. aprila 1989</title>
                <page>69</page>
+               <cobiss>117109</cobiss>
                <citedIn count="1">
                   <cit did="2508" cid="13"/>
                </citedIn>
@@ -4609,6 +4712,7 @@
                <author>Dolinar France M.</author>
                <title>Evidentiranje arhivskega gradiva za zgodovino Slovencev v arhivih izven Slovenije</title>
                <page>7-11</page>
+               <cobiss>8338946</cobiss>
                <citedIn count="2">
                   <cit did="2843" cid="40"/>
                   <cit did="2508" cid="1"/>
@@ -4616,16 +4720,19 @@
             </pubPart>
             <pubPart>
                <author>Ribnikar Peter</author>
-               <title>Dr. Josip Mal, njegovo delo v arhivu in za razvoj arhivistike</title>
+               <title>Dr. Josip Mal</title>
+               <title>njegovo delo v arhivu in za razvoj arhivistike</title>
+               <page>30-38</page>
+               <cobiss>221347328</cobiss>
                <citedIn count="1">
                   <cit did="2843" cid="27"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Žontar Jože</author>
-               <title>Delovanje Centralne komisije za umetnostne in zgodovinske spomenike in Arhivskega sveta ter arhivi na kranjskem</title>
-               <title>Delovanje Centralne komisije za umetnostne in zgodovinski- spomenike ter Arhivskega sveta ter arhivi na Kranjskem</title>
+               <title>Delovanje Centralne komisije za umetnostne in zgodovinske spomenike in Arhivskega sveta ter arhivi na Kranjskem</title>
                <page>22-26</page>
+               <cobiss>8340482</cobiss>
                <citedIn count="2">
                   <cit did="2843" cid="105"/>
                   <cit did="2843" cid="34"/>
@@ -4633,7 +4740,9 @@
             </pubPart>
             <pubPart>
                <author>Žontar Jože</author>
-               <title>Pravilnik o strokovni obdelavi in izdelavi pripomočkov za raziskave arhivskega gradiva (Uradni list SRS, št. 11/88)</title>
+               <title>Pravilnik o strokovni obdelavi in izdelavi pripomočkov za raziskave arhivskega gradiva</title>
+               <title>(Uradni list SRS, št. 11/88)</title>
+               <page>124-126</page>
                <citedIn count="1">
                   <cit did="2843" cid="148"/>
                </citedIn>
@@ -6449,6 +6558,15 @@ stoletja</title>
                <page>31-50</page>
                <citedIn count="1">
                   <cit did="2639" cid="121"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Miličevič Milica</author>
+               <title>Arhivska gradja za istoriju Slovenije u fondovima arhiva Jugoslavije</title>
+               <page>78-86</page>
+               <cobiss>8342530</cobiss>
+               <citedIn count="1">
+                  <cit did="2508" cid="7"/>
                </citedIn>
             </pubPart>
          </issue>
