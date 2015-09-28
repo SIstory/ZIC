@@ -64,10 +64,9 @@
          <pubPart>
             <author>Rajšp Vicenc</author>
             <author>Rajšp Vincenc</author>
-            <title>Nekatere karakteristike profesorjev Visoke bogoslovne šole v Mariboru...</title>
             <title>Nekatere karakteristike profesorjev Visoke bogoslovne šole v Mariboru od ustanovitve do konca prve svetovne vojne</title>
-            <title>Nekatere karakteristike profesorjev Visoko bogoslovne šole v Mariboru...</title>
-            <page>100-106</page>
+            <cobiss>37768192</cobiss>
+            <page>99-110</page>
             <citedIn count="3">
                <cit did="2443" cid="9" avtor0="Rajšp Vicenc"
                   naslov0="Nekatere karakteristike profesorjev Visoke bogoslovne šole v Mariboru..."
@@ -85,8 +84,8 @@
          </pubPart>
          <pubPart>
             <author>Vilfan Sergij</author>
-            <title>Območja okrožij</title>
-            <title>Območja okrožij in Lavantinske škofije v Slomškovem času</title>
+            <title>Območja okrožij  in Lava[n]tinske škofije v Slomškovem času</title>
+            <cobiss>37763328</cobiss>
             <page>44-54</page>
             <citedIn count="2">
                <cit did="3282" cid="4" avtor0="Vilfan Sergij" naslov0="Območja okrožij"
@@ -328,7 +327,6 @@
          </pubPart>
          <pubPart>
             <author>Žontar Josip</author>
-            <title>Vloga Kranja v blagovnem prometu v teku stoletij</title>
             <title>Vloga Kranja v blagovnem prometu v teku stoletij (do 19. veka)</title>
             <page>137-159</page>
             <citedIn count="3">
@@ -370,9 +368,9 @@
          <pubPart>
             <author>Bizjak Matjaž</author>
             <title>Gutenberg in Briksenska posest vzhodno od Tržiške Bistrice</title>
-            <title>Gutenberg in briksenska posest vzhodno od Tržiške Bistrice</title>
+            <addTitle>Gutenberg und der Brixener Besitz östlich von der Tržiška Bistrica</addTitle>
             <cobiss>24705069</cobiss>
-            <page>255-270</page>
+            <page>255-269</page>
             <citedIn count="3">
                <cit did="2234" cid="3" avtor0="Bizjak Matjaž"
                   naslov0="Gutenberg in Briksenska posest vzhodno od Tržiške Bistrice"
@@ -436,13 +434,10 @@ na celjski gimnaziji v letu 1894</title>
          </pubPart>
          <pubPart>
             <author>Kosi Miha</author>
-            <title>Cruciferi - Crucesignati</title>
-            <title>prispevek k
-zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</title>
-            <title>Cruciferi - Crucesignati : prispevek k zgodovini križarskih vojn in križarskih viteških redov v 12. in 13. stoletju</title>
-            <title>Cruciferi-crucesignati. Prispevek k zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</title>
+            <title>Cruciferi - Crucesignati : prispevek k zgodovini križarskih vojn in križarskih viteških redov v 12.- 13. stoletju</title>
+            <addTitle>Cruciferi - Crucesignati. Beitrag zur Geschichte der Kreuzzüge und der geistlichen Ritterorden</addTitle>
             <cobiss>24532269</cobiss>
-            <page>303-344</page>
+            <page>303-343</page>
             <citedIn count="3">
                <cit did="307" cid="16" avtor0="Kosi Miha" naslov0="Cruciferi - Crucesignati"
                   naslov1="prispevek k&#xA;zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju"
@@ -492,8 +487,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Preinfalk Miha</author>
-            <title>Listine v zapuščinskem inventarjih kot zgodovinski vir v teoriji in praksi</title>
             <title>Listine v zapuščinskih inventarjih kot zgodovinski vir v teoriji in praksi</title>
+            <addTitle>Die Urkunden in Nachlassinventaren als Geschichtsquelle in Theorie und Praxis</addTitle>
+            <cobiss>24704813</cobiss>
             <page>159-185</page>
             <citedIn count="3">
                <cit did="259" cid="27" avtor0="Preinfalk Miha"
@@ -523,7 +519,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Štih Peter</author>
             <title>Ženski samostan v Kopru leta 908 - prezrta najstarejša monastična ustanova na ozemlju Republike Slovenije</title>
-            <title>Ženski samostan v Kopru leta 908: prezrta najstarejša monastična ustanova na ozemlju Republike Slovenije</title>
+            <addTitle>Das Frauenkloster in Koper (Capodistria) im Jahr 908 - die übersehene älteste monastische Stiftung im Gebiet der Republik Slowenien</addTitle>
+            <cobiss>31100002</cobiss>
             <page>43-60</page>
             <citedIn count="2">
                <cit did="3192" cid="24" avtor0="Štih Peter"
@@ -535,9 +532,11 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Žmuc Irena, Moder Gregor</author>
-            <title>Bakalavratske teze iz zbirk Mestnega muzeja Ljubljana</title>
+            <author>Žmuc Irena</author>
+            <author>Moder Gregor</author>
             <title>Bakalavreatske teze iz zbirk Mestnega muzeja Ljubljana</title>
+            <addTitle>Bakkalaureatsthesen als der sammlung des Städtischen Museums Ljubljana</addTitle>
+            <cobiss>26459693</cobiss>
             <page>197-212</page>
             <citedIn count="2">
                <cit did="3264" cid="43" avtor0="Žmuc Irena, Moder Gregor"
@@ -775,12 +774,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <chapters>
          <pubPart>
             <author>Cvirn Janez</author>
-            <title>Deželna in narodna zavest na (Spodnjem) Štajerskem</title>
-            <title>Deželna in narodna zavest na (spodnjem)
-Štajerskem</title>
             <title>Deželna in narodna zavest na (spodnjem) Štajerskem</title>
             <cobiss>4808802</cobiss>
-            <page>54-84</page>
+            <page>74-84</page>
             <citedIn count="4">
                <cit did="1783" cid="29" avtor0="Cvirn Janez"
                   naslov0="Deželna in narodna zavest na (Spodnjem) Štajerskem"
@@ -830,7 +826,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Melik Vasilij</author>
-            <title>Problemi v razvoju slovenske narodne identitete</title>
             <title>Problemi v razvoju slovenske narodne identitete (do 1941)</title>
             <cobiss>6612781</cobiss>
             <page>41-52</page>
@@ -1012,13 +1007,10 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Suppan A.</author>
             <author>Suppan Arnold</author>
-            <author>Suppan Prim. A.</author>
-            <title>Karikatura kot vir modernih stereotipov : (nemški) Avstrijski-Slovenci</title>
-            <title>Karikatura kot vir modernih stereotipov</title>
-            <title>(Nemški) Avstrijci-Slovenci</title>
-            <title>Karikatura kot vir modernih stereotipov: (nemški) Avstrijci - Slovenci</title>
-            <title>Avstrija - Slovenija/Preteklost in sedanjost</title>
-            <page>47-75</page>
+            <author>Suppan Arnold</author>
+            <title>Karikatura kot vir modernih stereotipov : (nemški) Avstrijci-Slovenci</title>
+            <cobiss>965332</cobiss>
+            <page>47-80</page>
             <citedIn count="5">
                <cit did="2838" cid="51" avtor0="Suppan A."
                   naslov0="Karikatura kot vir modernih stereotipov: (nemški) Avstrijski-Slovenci"
@@ -1048,8 +1040,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             <author>Štih Peter</author>
             <title>Nacionalizacija zgodovine in nastanek sovražnih predstav o sosedih</title>
             <title>slovensko-nemški (avstrijski) primer</title>
-            <title>Slovensko-nemški (avstrijski) primer</title>
-            <title>Nacionalizacija zgodovine in nastanek sovražnih predstav o sosedih. Slovensko-nemški (avstrijski) primer / Nationalisie-rung der Geschichte und die Entstehung von Feinbildern. Das slovvenisch-deutsche (österreichische) Beispiel</title>
+            <cobiss>17663074</cobiss>
             <page>35-46</page>
             <citedIn count="4">
                <cit did="432" cid="18" avtor0="Štih Peter"
@@ -1090,14 +1081,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <chapters>
          <pubPart>
             <author>Albertoni Giuseppe</author>
-            <author>Albertoni Guisseppe</author>
-            <author>Giuseppe Albertoni</author>
             <title>Die Anfänge des Brixner Streubesitzes</title>
-            <title>Začetki razdrobljene briksenske posesti na Karnjskem v 10. in 11. stoletju</title>
             <title>Začetki razdrobljene briksenske posesti na Kranjskem v 10. in 11. stoletju</title>
-            <title>Die Herrschaft des Bischofs. Macht und Gesellschaft zwischen Etsch und Inn im Mittelalter : Začetki razdrobljene briksenske posesti na Kranjskem v 10. in 11. stoletju, v: —»</title>
-            <title>Začetki razdrobljene briksenske posesti na Kranjskem v 10. in 11. stoletju.</title>
-            <title>Die Anfänge des Brixner Steubesitzes in Krain im 10. und 11. Jahrhundert</title>
             <cobiss>513553023</cobiss>
             <page>49-66</page>
             <citedIn count="6">
@@ -1185,13 +1170,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Kosi Miha</author>
-            <title>Začetki Škofje Loke in freisinški kot ustanovitelji mest: primerjalna študija k nastanku mest na Kranjskem v srednjem veku</title>
-            <title>Začetki Škofje Loke in freisinški škofje kot ustanovitelji mest : Primerjalna študija k nastanku mest na Kranjskem v srednjem veku</title>
-            <title>Začetki Škofje Loke in freisinški škofje kot ustanovitelji mest. Primerjalna študija k nastanku mest na Kranjskem v srednjem veku</title>
-            <title>Začetki Škofje Loke in freisinški škofje kot ustanovitelji meščanskih naselbin : Primerjalna študija k nastanku mest na Kranjskem v srednjem veku</title>
-            <title>Začetki Škotje Loke in freisinški škofje kot ustanovitelji mest</title>
+            <title>Začetki Škofje Loke in freisinški škofje kot ustanovitelji mest: primerjalna študija k nastanku mest na Kranjskem v srednjem veku</title>
             <cobiss>23733037</cobiss>
-            <page>83-110</page>
+            <page>83-124</page>
             <citedIn count="5">
                <cit did="53" cid="159" avtor0="Kosi Miha"
                   naslov0="Začetki Škofje Loke in freisinški kot ustanovitelji mest: primerjalna študija k nastanku mest na Kranjskem v srednjem veku"
@@ -1240,11 +1221,10 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>Izvor in začetki škofijske posesti na današnjem Slovenskem ozemlju</title>
             <title>Izvor in začetki škofijske posesti na današnjem slovenskem ozemlju</title>
-            <title>Izvor in zacetki škofijske posesti na današnjem slovenskem ozemlju</title>
+            <addTitle>Ursprung und Anfänge der bischöflichen Besitzungen im Gebiet des heutigen Sloweniens</addTitle>
             <cobiss>29322082</cobiss>
-            <page>35-48</page>
+            <page>35-53</page>
             <citedIn count="4">
                <cit did="2217" cid="22" avtor0="Štih Peter"
                   naslov0="Izvor in začetki škofijske posesti na današnjem Slovenskem ozemlju"
@@ -1282,11 +1262,11 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Benedik Božo</author>
             <author>Repe Božo</author>
-            <author>Benedik Božo, Repe Božo</author>
+            <author>Benedik Božo</author>
+            <author>Repe Božo</author>
             <title>Bled kot prizorišče politične in diplomatske dejavnosti v obdobjih Karađorđevićev in Josipa Broza - Tita</title>
-            <title>Bled kot prizorišče politične in diplomatske dejavnosti v obdobjih Karadorđevičev in Josipa Broza-Tita</title>
             <cobiss>512789119</cobiss>
-            <page>265-275</page>
+            <page>265-274</page>
             <citedIn count="3">
                <cit did="3347" cid="2" avtor0="Benedik Božo" avtor1="Repe Božo"
                   naslov0="Bled kot prizorišče politične in diplomatske dejavnosti v obdobjih Karađorđevićev in Josipa Broza - Tita"
@@ -1348,8 +1328,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Štih Peter</author>
             <title>Prva omemba Bleda v pisnih virih</title>
-            <title>Listina kralja Henrika II. Za briksenškega škofa Albuina z dne 10. aprila 1004</title>
-            <title>Prva omemba Bleda v pisnih virih. Listina kralja Henrika II. za briksenškega škofa Albuina z dne 10. aprila 1004</title>
+            <title>listina kralja Henrika II. za briksenškega škofa Albuina z dne 10. aprila 1004 (D. H. II. 67)</title>
             <cobiss>24930658</cobiss>
             <page>7-34</page>
             <citedIn count="3">
@@ -1428,9 +1407,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Penič Lojze</author>
-            <title>General Rudolf Maister - Vojanov</title>
             <title>General Rudolf Maister-Vojanov</title>
-            <page>175-177</page>
+            <cobiss>2817334</cobiss>
+            <page>171-191</page>
             <citedIn count="2">
                <cit did="3281" cid="16" avtor0="Penič Lojze"
                   naslov0="General Rudolf Maister - Vojanov" source="Boj za Maribor 1918-1919"
@@ -1552,8 +1531,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Dolinar France M.</author>
-            <title>Cerkvenopravna podoba Slovenije</title>
             <title>Cerkvenoupravna podoba Slovenije</title>
+            <cobiss>260213</cobiss>
             <page>7-24</page>
             <citedIn count="2">
                <cit did="860" cid="93" avtor0="Dolinar France M."
@@ -1628,8 +1607,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
       <chapters>
          <pubPart>
             <author>Dolenc Ervin</author>
-            <title>'Katoliška kulturna politika in kulturni boj v Kraljevini SHS.'</title>
             <title>Katoliška kulturna politika in kulturni boj v Kraljevini SHS</title>
+            <cobiss>54280192</cobiss>
             <page>48-60</page>
             <citedIn count="2">
                <cit did="3153" cid="13" avtor0="Dolenc Ervin"
@@ -1643,10 +1622,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolinar France</author>
             <author>Dolinar France M.</author>
             <title>Praktično duhovno oblikovanje slovenskega katoličana 1890-1941</title>
-            <title>'Praktično duhovno oblikovanje slovenskega katoličana 1890-1941.'</title>
             <cobiss>54287360</cobiss>
             <page>155-166</page>
             <citedIn count="2">
@@ -1663,9 +1640,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Dragoš Srečo</author>
             <title>(Eks)centričnost katoliških modelov na Slovenskem</title>
-            <title>Ekscentričnost katoliških modelov na Slovenskem</title>
             <cobiss>54279680</cobiss>
-            <page>34-1993</page>
+            <page>34-47</page>
             <citedIn count="3">
                <cit did="2274" cid="91" avtor0="Dragoš Srečo"
                   naslov0="(Eks)centričnost katoliških modelov na Slovenskem"
@@ -1713,10 +1689,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Pirc Jožko</author>
-            <author>Pire J.</author>
-            <title>Utopija 'nove krščanske družbe?</title>
-            <title>Utopija »nove krščanske družbe«?</title>
-            <title>Utopija nove krščanske družbe</title>
+            <author>Pirc Jožko</author>
+            <title>Utopija 'nove krščanske družbe'?</title>
+            <cobiss>54284032</cobiss>
             <page>107-120</page>
             <citedIn count="3">
                <cit did="373" cid="4" avtor0="Pirc Jožko" naslov0="Utopija 'nove krščanske družbe?"
@@ -1733,10 +1708,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>Katoliška ali socialna, narodna ali ljudska stranka? ( Koncepcije katoliške ljudske demokracije 1890-1918 )</title>
-            <title>Katoliška ali socialna, narodna ali ljudska stranka? : koncepcije katoliške ljudske demokracije 1890-1918</title>
             <title>Katoliška ali socialna, narodna ali ljudska stranka?</title>
-            <title>Katoliška ali socialna, narodna ali ljudska stranka? Koncepcije katoliške ljudske demokracije 1890-1918</title>
+            <title>koncepcije katoliške ljudske demokracije 1890-1918 )</title>
             <cobiss>54279168</cobiss>
             <page>21-33</page>
             <citedIn count="4">
@@ -1779,7 +1752,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             <author>Simčič Tomaž</author>
             <author>Gosar Andrej</author>
             <title>Krščanskosocialni aktivizem Andreja Gosarja</title>
-            <title>Krščansko socialni aktivizem Andreja Gosarja</title>
             <cobiss>54281472</cobiss>
             <page>91-95</page>
             <citedIn count="3">
@@ -1809,10 +1781,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Katoliška prosveta med Cerkvijo in stranko</title>
-            <title>Nekaj osvetlitev smernic in dejavnosti Prosvetne zveze in Zveze fantovskih odsekov v letih 1935-1941</title>
-            <title>Katoliška prosveta med cerkvijo in stranko : nekaj osvetlitev smernic in dejavnosti Prosvetne zveze in Zveze fantovskih odsekov v letih 1935-1941</title>
+            <title>nekaj osvetlitev smernic in dejavnosti Prosvetne zveze in Zveze fantovskih odsekov v letih 1935-1941</title>
             <cobiss>54280704</cobiss>
             <page>61-78</page>
             <citedIn count="3">
@@ -1882,10 +1853,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Dopsch H.</author>
             <author>Dopsch Heinz</author>
-            <author>Dopsch Hein</author>
+            <author>Dopsch Heinz</author>
             <title>Die Freien von Sannegg als steirische Landherren und ihr Aufstieg zu Grafen von Cilli</title>
-            <title>Die Freien von Sannegg als Stein sehe Landherren und ihr Aufstieg zu Grafen von Cilli</title>
-            <title>Die Freien von Sannegg als steirisehe Landherren und ihr Aufstieg zu Grafen von Cilli</title>
             <page>23-36</page>
             <citedIn count="6">
                <cit did="3439" cid="21" avtor0="Dopsch H."
@@ -1917,8 +1886,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Gamillscheg E.</author>
             <author>Gamillscheg Ernst</author>
-            <title>Die Grafen von Cilli in griechischen Cjuellen</title>
-            <title>Die Grafen von Cilli in griechischen Quellen</title>
             <title>Die Grafen von Chilli in griechischen Quellen</title>
             <page>419-421</page>
             <citedIn count="3">
@@ -1938,7 +1905,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Guštin Mitja</author>
-            <title>Srednjeveške keramične čase iz izkopavanj v mestu Celju</title>
+            <title>Srednjeveške keramične čaše iz izkopavanj v mestu Celju</title>
             <page>249-260</page>
             <citedIn count="1">
                <cit did="2237" cid="8" avtor0="Guštin Mitja"
@@ -1992,12 +1959,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Kosi Miha</author>
             <title>"Prometna politika" Celjskih grofov</title>
-            <title>Prometna politika - celjskih grofov</title>
-            <title>Prometna politiks Celjskih grofov</title>
-            <title>Â»Prometna politikaÂ« celjskih grofov</title>
-            <title>"Prometna politika" celjskih grofov</title>
-            <title>Prometna politika celjskih grofov</title>
-            <title>'Prometna politika' Celjskih grofov«. Celjski grofje, stara tema - nova spoznanja - Zbornik mednarodnega simpozija. Celje. 27.-29. maj 1998.</title>
+            <addTitle>Die Verkehrspolitik der Grafen von Cilli</addTitle>
+            <cobiss>273352</cobiss>
             <page>165-180</page>
             <citedIn count="7">
                <cit did="2172" cid="7" avtor0="Kosi Miha"
@@ -2032,9 +1995,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Meyer Therese</author>
             <author>Meyer T.</author>
-            <title>Die Grafen von Cilli als Erben der Grafen von Ortenburg. Zur Geschichte Kärntens 1377-1524</title>
             <title>Die Grafen von Cilli als Erben der Grafen von Ortenburg</title>
-            <title>Zur Geschichte Kärntens 1377-1524</title>
+            <title>zur Geschichte Kärntens 1377-1524</title>
             <page>85-94</page>
             <citedIn count="2">
                <cit did="2647" cid="217" avtor0="Meyer Therese"
@@ -2061,10 +2023,10 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Predovnik Katarina Katja</author>
-            <author>Predovnik Katarina</author>
-            <title>Grofje Celjski ob spodnji Krki: pleterski opečni tlak in problem lokacije trdnjave Kostanjevica</title>
-            <title>Grofje Geljski ob spodnji Krki: Pleterski opecni tlak in problem lokacije trdnjave Kostanjevica</title>
-            <page>309-323</page>
+            <author>Predovnik Katarina Katja</author>
+            <title>Grofje Celjski ob spodnji Krki: Pleterski opečni tlak in problem lokacije trdnjave Kostanjevica</title>
+            <cobiss>12424546</cobiss>
+            <page>209-321</page>
             <citedIn count="2">
                <cit did="2604" cid="88" avtor0="Predovnik Katarina Katja"
                   naslov0="Grofje Celjski ob spodnji Krki: pleterski opečni tlak in problem lokacije trdnjave Kostanjevica"
@@ -2078,11 +2040,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Ravnikar Tone</author>
-            <title>Žovnesko-ptujski odnosi v Šaleški dolini</title>
             <title>Žovneško-ptujski odnosi v Šaleški dolini</title>
-            <title>Žovneško-Ptujski odnosi v Šaleški dolini</title>
             <cobiss>8536471</cobiss>
-            <page>71-85</page>
+            <page>71-83</page>
             <citedIn count="5">
                <cit did="775" cid="185" avtor0="Ravnikar Tone"
                   naslov0="Žovnesko-ptujski odnosi v Šaleški dolini"
@@ -2109,7 +2069,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
             <author>Tringli L.</author>
             <author>Tringli I.</author>
             <author>Tringli István</author>
-            <title>Die Würden und Besitzungen der Cillier in Ungarn</title>
             <title>Die Würden und die Besitzungen der Cillier in Ungarn</title>
             <page>115-124</page>
             <citedIn count="5">
@@ -2137,7 +2096,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Voje Ignacij</author>
-            <title>Balkanska politika celjskih grofov</title>
             <title>Balkanska politika Celjskih grofov</title>
             <page>103-114</page>
             <citedIn count="6">
@@ -2187,7 +2145,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Štih Peter</author>
             <title>Celjski grofje - še vedno raziskovalni problem?</title>
-            <title>Celjski grofje- še vedno raziskovalni problem?</title>
             <cobiss>10745698</cobiss>
             <page>11-22</page>
             <citedIn count="6">
@@ -2501,9 +2458,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Bonutti Karl</author>
             <title>"Neratificirani" konkordat med Kraljevino Jugoslavijo in Svetim sedežem leta 1935</title>
-            <title>"Neratificirani" konkordat med Kraljevino Jugoslavijo in Svetim sedežem.</title>
             <cobiss>20243501</cobiss>
-            <page>131-149</page>
+            <page>131-147</page>
+            <page>461-479</page>
             <citedIn count="2">
                <cit did="3342" cid="22" avtor0="Bonutti Karl"
                   naslov0="&#34;Neratificirani&#34; konkordat med Kraljevino Jugoslavijo in Svetim sedežem leta 1935"
@@ -2556,11 +2513,11 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Režek Mateja</author>
-            <title>Država in Katoliška cerkev v jugoslaviji 1945-1966</title>
             <title>Država in katoliška cerkev v Jugoslaviji (1945-1966)</title>
-            <title>(Razprave / Slovenska akademija znanosti in umetnosti, Razred za zgodovinske in družbene vede = Dissertationes / Academia scientiarum et artium Slovenica, Classis I: Historia et sociologia ; 18)</title>
-            <title>Država in katoliška cerkev v Jugoslaviji (1945-1966</title>
+            <addTitle>The state and the Catholic Church in Yugoslavia (1945-1966)</addTitle>
             <cobiss>20242477</cobiss>
+            <page>309-321</page>
+            <page>639-642</page>
             <citedIn count="4">
                <cit did="1864" cid="8" avtor0="Režek Mateja"
                   naslov0="Država in Katoliška cerkev v jugoslaviji 1945-1966"
@@ -2665,7 +2622,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Griesser-Pečar Tamara</author>
             <title>Umor prof. Lamberta Ehrlicha</title>
-            <title>Umor profesorja Lamberta Ehrlicha</title>
+            <addTitle>Der Mord an prof. Lambert Ehrlich</addTitle>
+            <cobiss>811653</cobiss>
             <page>309-319</page>
             <citedIn count="2">
                <cit did="860" cid="37" avtor0="Griesser-Pečar Tamara"
@@ -2713,7 +2671,6 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Ehrlich in pariška mirovna konferenca 1919-1920</title>
-            <title>Ehrlich in pariška mirovna konferenca 1919–1920</title>
             <cobiss>900052</cobiss>
             <page>59-85</page>
             <citedIn count="6">
@@ -2756,9 +2713,9 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Vovko Andrej</author>
             <title>Stališča Straže v viharju do nekaterih sodobnih vprašanj</title>
-            <title>Stališče Straže v viharju do nekaterih sodobnih vprašanj</title>
+            <addTitle>Stellungnahmen der Zeitschrift Straža v viharju zum Zeitgeschehen</addTitle>
             <cobiss>19542829</cobiss>
-            <page>221-2229</page>
+            <page>221-233</page>
             <citedIn count="2">
                <cit did="1105" cid="12" avtor0="Vovko Andrej"
                   naslov0="Stališča Straže v viharju do nekaterih sodobnih vprašanj"
@@ -2878,9 +2835,8 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          <pubPart>
             <author>Till Josef</author>
             <title>Kirche und Geistlichkeit als Faktoren der "Nationalisierung" der Kärntner Slowenen</title>
-            <title>Kirche und Geistlichkeit als Faktoren der »Nationalisierung« der Kärntner Slowenen</title>
             <cobiss>1003220</cobiss>
-            <page>143-218</page>
+            <page>143-221</page>
             <citedIn count="2">
                <cit did="2874" cid="27" avtor0="Till Josef"
                   naslov0="Kirche und Geistlichkeit als Faktoren der &#34;Nationalisierung&#34; der Kärntner Slowenen"
@@ -2982,10 +2938,7 @@ zgodovini križarskih vojn in križarskih viteških redov v 12.-13. stoletju</ti
          </pubPart>
          <pubPart>
             <author>Suppan Arnold</author>
-            <title>Zur Lage der Deutschen in Slowenien zwischen 1918 und 1938</title>
-            <title>Zur Lage der Deutschen in Slowenien zwischen 1918 und 1938 : Demographie - Recht - Gessellschaft - Politik</title>
-            <title>Zur Lage der Deutschen in Slowenien zwischen 1918 und 1938. Demographie-Recht- Geselschaft-Politik</title>
-            <title>Zur Lage der Deutschen in Slowenien zwischen 1918 und 1938: Demographie - Recht - Gesellschaft - Politik</title>
+            <title>Zur Lage der Deutschen in Slowenien zwischen 1918 und 1938 : Demographie - Recht - Gesellschaft - Politik</title>
             <page>171-240</page>
             <citedIn count="4">
                <cit did="3292" cid="14" avtor0="Suppan Arnold"
@@ -3144,8 +3097,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Borak Neven</author>
-            <title>Slovenske transformacije : kontinuiteta v spremembah</title>
-            <title>Slovenske transformacije: kontinuiteta v spremembah</title>
+            <title>Slovenske transformacije</title>
+            <title>kontinuiteta v spremembah</title>
             <cobiss>1041106</cobiss>
             <page>261-276</page>
             <citedIn count="3">
@@ -3232,8 +3185,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Križanič France</author>
             <title>Od stagflacije do holandske bolezni</title>
-            <title>Slovenska inflacija in brezposelnost od 1986 do 1996</title>
-            <page>211-212</page>
+            <title>slovenska inflacija in brezposelnost od 1986 do 1996</title>
+            <cobiss>2249041</cobiss>
+            <page>211-218</page>
             <citedIn count="1">
                <cit did="663" cid="75" avtor0="Križanič France"
                   naslov0="Od stagflacije do holandske bolezni"

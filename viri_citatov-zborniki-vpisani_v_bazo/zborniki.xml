@@ -3,6 +3,7 @@
    xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/zborniki.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="BG">Barbara Györfi</docAuthor>
       <docTitle>Citiranost poglavij v zbornikih (iz katerih se je tudi izpisovalo citate</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC BY 4.0</docRights>
