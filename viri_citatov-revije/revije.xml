@@ -17823,10 +17823,10 @@ prvo svetovno vojno</title>
          <issue n="44">
             <pubPart>
                <author>Jurić Pahor Marija</author>
-               <title>Neizgubljivi čas. Travma fašizma in nacionalsocializma v luči nuje po »obdobju latence« in transgeneracijske transmisije</title>
-               <title>Neizgubljivi čas: travma fašizma in nacionalsocializma v luči nuje po »obdobju latence« in transgeneracijske transmisije</title>
+               <title>Neizgubljivi čas</title>
+               <title>travma fašizma in nacionalsocializma v luči nuje po »obdobju latence« in transgeneracijske transmisije</title>
                <page>38–64</page>
-               <page>38-64</page>
+               <cobiss>9444941</cobiss>
                <citedIn count="3">
                   <cit did="2839" cid="22"/>
                   <cit did="2822" cid="32"/>
@@ -18033,6 +18033,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Stergar Janez</author>
                <title>Avguštin Malle - šestdesetletnik</title>
                <page>292-293</page>
+               <cobiss>8973133</cobiss>
                <citedIn count="1">
                   <cit did="2900" cid="13"/>
                </citedIn>
@@ -18067,6 +18068,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Medved Felicita</author>
                <title>Volilna pravica tujcev s stalnim prebivališčem kot prispevek integraciji in lokalni samoupravi</title>
                <page>22-39</page>
+               <cobiss>8559693</cobiss>
                <citedIn count="3">
                   <cit did="2699" cid="18"/>
                   <cit did="2685" cid="19"/>
@@ -18077,6 +18079,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Zupančič Jernej</author>
                <title>Številčni razvoj koroških Slovencev v luči rezultatov ljudskega štetja leta 2001</title>
                <page>72-105</page>
+               <cobiss>8560461</cobiss>
                <citedIn count="2">
                   <cit did="2856" cid="8"/>
                   <cit did="2729" cid="31"/>
@@ -18172,8 +18175,11 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Klopčič Vera</author>
-               <title>Nekatere značilnosti sodobnega položaja Romov: izkušnje na področju izobraževanja, poklicnega usposabljanja in zaposlovanja Romov v Sloveniji / primeri dobre prakse</title>
+               <title>Nekatere značilnosti sodobnega položaja Romov</title>
+               <title>izkušnje na področju izobraževanja, poklicnega usposabljanja in zaposlovanja Romov v Sloveniji</title>
+               <title>primeri dobre prakse</title>
                <page>302-313</page>
+               <cobiss>8220749</cobiss>
                <citedIn count="1">
                   <cit did="2905" cid="2"/>
                </citedIn>
@@ -18192,25 +18198,29 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Medved Felicita</author>
-               <title>Nationality, Citizenship and Integration, an European Perspective</title>
+               <title>Nationality, Citizenship and Integration, a European Perspective</title>
                <page>44-67</page>
+               <cobiss>8215885</cobiss>
                <citedIn count="1">
                   <cit did="2728" cid="18"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Nećak Lük Albina</author>
-               <title>European pluralingualism from national language perspective</title>
+               <title>European plurilingualism from national language perspective</title>
                <page>6-25</page>
+               <cobiss>8215373</cobiss>
                <citedIn count="1">
                   <cit did="2918" cid="24"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Pallaver Günther</author>
-               <title>Die Südtiroler Volkspartei. Erfolgreiches Modell einer ethnoregionalen Partei. Trend und Perspektiven</title>
-               <title>Die südtiroler Volkspartei. Erfolgreiches Modell einer ethnoregionalen Partei. Trends und Perspektiven</title>
+               <title>Die Südtiroler Volkspartei</title>
+               <title>Erfolgreiches Modell einer ethnoregionalen Partei</title>
+               <title>Trends und Perspektiven</title>
                <page>313-358</page>
+               <cobiss>8221005</cobiss>
                <citedIn count="3">
                   <cit did="2940" cid="120"/>
                   <cit did="3036" cid="112"/>
@@ -18222,6 +18232,7 @@ londonskih govorih Jana Masaryka</title>
                <title>Nastajanje evropske manjšinske zaščite</title>
                <title>referat z mednarodnega simpozija »Evropa in narodne manjšine na pragu tretjega tisočletja«</title>
                <page>164-171</page>
+               <cobiss>8217933</cobiss>
                <citedIn count="2">
                   <cit did="2808" cid="6"/>
                   <cit did="679" cid="19"/>
@@ -18229,9 +18240,11 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Kako bi lahko razčlenili začaran krog? (2) Posredovanje, mediacija ter usposabljanje za preprečevanje in razreševanje etničnih konfliktov</title>
-               <title>How could we break the vivious circle? (") Intervention, medaition and training for the prevention and resolution of ethnic conflict</title>
+               <title>Kako bi lahko razklenili začaran krog?</title>
+               <title>(2) Posredovanje, mediacija ter usposabljanje za preprečevanje in razreševanje etničnih konfliktov</title>
+               <addTitle>How could we break the vivious circle? Intervention, medaition and training for the prevention and resolution of ethnic conflict</addTitle>
                <page>68-93</page>
+               <cobiss>8216141</cobiss>
                <citedIn count="1">
                   <cit did="2746" cid="71"/>
                </citedIn>
