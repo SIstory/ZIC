@@ -16487,6 +16487,7 @@ prvo svetovno vojno</title>
                <title>Nacionalizacija najemnih zgradb in gradbenih zemljišč na ozemlju LR Slovenije</title>
                <title>(1958-1962)</title>
                <page>193-203</page>
+               <cobiss>47636480</cobiss>
                <citedIn count="1">
                   <cit did="486" cid="1"/>
                </citedIn>
@@ -19704,7 +19705,7 @@ londonskih govorih Jana Masaryka</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="2-3">
+         <issue n="2-3">a
             <pubPart>
                <author>Friš Darko</author>
                <title>Aktivnosti mestnega odbora Orjune v Mariboru v prvem letu delovanja</title>
@@ -19715,7 +19716,7 @@ londonskih govorih Jana Masaryka</title>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Jesenšek Marko</author>a
+               <author>Jesenšek Marko</author>
                <title>Razvoj slovenske jezikovne politike nekoč in danes</title>
                <page>681-694</page>
                <cobiss>13983496</cobiss>
@@ -21779,8 +21780,11 @@ Ljubljani na začetku stoletja</title>
          <issue n="3-4">
             <pubPart>
                <author>Snoj Marko</author>
-               <title>Greenberg Marc, O jeziku slovanskih prebivalcev med Donavo in Jadranom v srednjem veku (pogled jezikoslovcev)</title>
+               <author>Greenberg Marc</author>
+               <title>O jeziku slovanskih prebivalcev med Donavo in Jadranom v srednjem veku</title>
+               <title>(pogled jezikoslovcev)</title>
                <page>276-305</page>
+               <cobiss>35271469</cobiss>
                <citedIn count="1">
                   <cit did="3257" cid="68"/>
                </citedIn>
@@ -21844,6 +21848,7 @@ Ljubljani na začetku stoletja</title>
                <author>Cvirn Janez</author>
                <title>Med nacionalizmom in nacionalno koeksistenco</title>
                <page>228-238</page>
+               <cobiss>39817314</cobiss>
                <citedIn count="1">
                   <cit did="2770" cid="64"/>
                </citedIn>
@@ -21852,6 +21857,7 @@ Ljubljani na začetku stoletja</title>
                <author>Zupančič Matej</author>
                <title>Slovani vojvode Ivana</title>
                <page>216-221</page>
+               <cobiss>262722560</cobiss>
                <citedIn count="1">
                   <cit did="2534" cid="35"/>
                </citedIn>
@@ -21879,8 +21885,10 @@ Ljubljani na začetku stoletja</title>
          <issue n="1-2">
             <pubPart>
                <author>Batagelj Borut</author>
-               <title>Škodovati ne smemo ne posameznicam, ne narodu.</title>
+               <title>Škodovati ne smemo ne posameznicam, ne narodu!</title>
+               <title>Božo Škerlj, antropometrija in ženski šport v 30-ih letih 20. stoletja</title>
                <page>177-185</page>
+               <cobiss>251511808</cobiss>
                <citedIn count="1">
                   <cit did="2417" cid="2"/>
                </citedIn>
@@ -21895,6 +21903,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Lukan Walter</author>
                <title>Habsburška monarhija in Slovenci v prvi svetovni vojni</title>
+               <page>91-149</page>
+               <cobiss>37155170</cobiss>
                <citedIn count="1">
                   <cit did="2777" cid="17"/>
                </citedIn>
@@ -21910,6 +21920,7 @@ Ljubljani na začetku stoletja</title>
                <author>Mihelič Darja</author>
                <title>In memoriam Olga Janša-Zorn (5. 7. 1938 - 28. 1. 2008)</title>
                <page>229-233</page>
+               <cobiss>28529709</cobiss>
                <citedIn count="1">
                   <cit did="2044" cid="22"/>
                </citedIn>
@@ -21917,7 +21928,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
                <title>Prizadevanja ljubljanske in mariborske oblastne skupščine ter banskega sveta Dravske banovine za udejanjenje slovenskega parlamentarizma v prvi Jugoslaviji</title>
-               <title>Prizadevanja ljubljanske in mariborske oblastne skupščine ter banskega sveta Dravske banovine...</title>
+               <page>151-176</page>
+               <cobiss>6283806</cobiss>
                <citedIn count="3">
                   <cit did="3211" cid="63"/>
                   <cit did="3197" cid="15"/>
@@ -21926,7 +21938,10 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart correspPubId="2200">
                <author>Strecha Mario</author>
-               <title>"Za krst častni i hrvatsvo slavno". Politični katolicizem v banski Hrvaški v začetku 20. stoletja</title>
+               <title>"Za krst časni i hrvatsvo slavno"</title>
+               <title>Politični katolicizem v banski Hrvaški v začetku 20. stoletja</title>
+               <page>63-90</page>
+               <cobiss>2468724</cobiss>
                <citedIn count="1">
                   <cit did="2769" cid="60"/>
                </citedIn>
@@ -21998,7 +22013,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Lazarević Žarko</author>
                <title>Sočasnosti slovenskega gospodarskega razvoja</title>
-               <title>Sočasnost slovenskega gospodarskega razvoja</title>
+               <page>393-410</page>
+               <cobiss>247677696</cobiss>
                <citedIn count="6">
                   <cit did="2316" cid="14"/>
                   <cit did="2304" cid="36"/>
@@ -22011,6 +22027,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Lee Chinyun</author>
                <title>Avstrijski pomorski razvoj v Vzhodni Aziji 1869-1914</title>
+               <page>467-489</page>
+               <cobiss>247680512</cobiss>
                <citedIn count="1">
                   <cit did="3254" cid="7"/>
                </citedIn>
@@ -22078,6 +22096,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Kukanja Mojca</author>
                <title>Ustna zgodovina v osnovni šoli</title>
+               <page>447-457</page>
+               <cobiss>236568320</cobiss>
                <citedIn count="1">
                   <cit did="2464" cid="7"/>
                </citedIn>
@@ -22134,6 +22154,7 @@ Ljubljani na začetku stoletja</title>
                <author>Cvirn Janez</author>
                <title>Boj za sveti zakon</title>
                <page>393-425</page>
+               <cobiss>31666530</cobiss>
                <citedIn count="2">
                   <cit did="1735" cid="16"/>
                   <cit did="2288" cid="44"/>
@@ -22141,8 +22162,10 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Gießauf Johannes</author>
-               <title>Azijski barbar. Iskanje sledi v srednjem veku</title>
-               <page>255</page>
+               <title>Azijski barbar</title>
+               <title>Iskanje sledi v srednjem veku</title>
+               <page>255-268</page>
+               <cobiss>228365824</cobiss>
                <citedIn count="1">
                   <cit did="425" cid="106"/>
                </citedIn>
@@ -22167,6 +22190,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Mlinar Janez</author>
                <title>Slepo črevo Kranjske. Prispevek h kolonizacijski zgodovini Zgornjesavske doline</title>
+               <page>330-340</page>
+               <cobiss>513793919</cobiss>
                <citedIn count="1">
                   <cit did="2037" cid="16"/>
                </citedIn>
@@ -22187,10 +22212,10 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Vodopivec Peter</author>
-               <title>Politične in zgodovinske tradicije v srednji Evropi in na Balkanu (v luči izkušnje prve Jugoslavije)</title>
-               <title>Politične in zgodovinske tradicije v Srednji Evropi in na Balkanu (v luči izkušnje prve Jugoslavije</title>
-               <page>461-462</page>
+               <title>Politične in zgodovinske tradicije v srednji Evropi in na Balkanu</title>
+               <title>(v luči izkušnje prve Jugoslavije)</title>
                <page>461-484</page>
+               <cobiss>2064244</cobiss>
                <citedIn count="2">
                   <cit did="2766" cid="24"/>
                   <cit did="1513" cid="180"/>
@@ -22211,7 +22236,7 @@ Ljubljani na začetku stoletja</title>
                <author>Friš Darko</author>
                <title>Banovinska konferenca Jugoslovanske nacionalne stranke leta 1937 v Ljubljani</title>
                <page>129-146</page>
-               <page>132-145</page>
+               <cobiss>708741</cobiss>
                <citedIn count="2">
                   <cit did="1802" cid="20"/>
                   <cit did="1626" cid="217"/>
@@ -22219,8 +22244,9 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Kurdorfer Dieter</author>
-               <title>Zgodovinski in literarni pomen rokopisa z Brižinskimi spomeniki</title>
+               <title>Zgodovinski in literarni pomen rokopisa z "Brižinskimi spomeniki"</title>
                <page>7-21</page>
+               <cobiss>5175838</cobiss>
                <citedIn count="1">
                   <cit did="2764" cid="66"/>
                </citedIn>
@@ -22242,6 +22268,7 @@ Ljubljani na začetku stoletja</title>
                <author>Mahnič Joža</author>
                <title>Dejavnost slovenskega Penkluba pred drugo svetovno vojno</title>
                <page>183-192</page>
+               <cobiss>5176094</cobiss>
                <citedIn count="1">
                   <cit did="2173" cid="1"/>
                </citedIn>
@@ -22249,6 +22276,8 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Mihelič Darja</author>
                <title>Revizija kronologije cerkvenih dostojanstvenikov na Primorskem</title>
+               <page>23-44</page>
+               <cobiss>24143149</cobiss>
                <citedIn count="2">
                   <cit did="2796" cid="10"/>
                   <cit did="1624" cid="83"/>
@@ -22257,9 +22286,10 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Ratej Matej</author>
                <author>Ratej Mateja</author>
-               <title>Slovenska ljudska stranka v vladi Antona Korošca – ratifikacija Nettunskih konvencij</title>
-               <title>Slovenska ljudska stranka v vladi Antona Korošca - ratifikacija Nettunskih konvencij</title>
-               <title>Slovenska ljudska stranka v vladi Antona Korošca − ratifikacija Netunskih konvencij</title>
+               <title>Slovenska ljudska stranka v vladi Antona Korošca</title>
+               <title>ratifikacija Nettunskih konvencij</title>
+               <page>111-127</page>
+               <cobiss>14186248</cobiss>
                <citedIn count="5">
                   <cit did="1512" cid="90"/>
                   <cit did="2274" cid="174"/>
@@ -22270,7 +22300,8 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Wakounig Marija</author>
-               <title>"...hab ich teutsch und windisch gelernet..." O poreklu in kulturnih koreninah Žige Herbersteina</title>
+               <title>"...hab ich teutsch und windisch gelernet..."</title>
+               <title>O poreklu in kulturnih koreninah Žige Herbersteina</title>
                <page>45-55</page>
                <citedIn count="1">
                   <cit did="2764" cid="107"/>
@@ -22284,6 +22315,8 @@ Ljubljani na začetku stoletja</title>
                <author>Berberih Slana Aleksandra</author>
                <author>Berberih-Slana Aleksandra</author>
                <title>Stjepan Radić in republikansko gibanje v Sloveniji</title>
+               <page>391-413</page>
+               <cobiss>13761800</cobiss>
                <citedIn count="2">
                   <cit did="3370" cid="5"/>
                   <cit did="1351" cid="2"/>
@@ -22293,6 +22326,7 @@ Ljubljani na začetku stoletja</title>
                <author>Južnič Stanislav</author>
                <title>Kostel med zadnjimi turškimi vpadi in Zrinjsko-Frankopansko zaroto</title>
                <page>301-336</page>
+               <cobiss>513180799</cobiss>
                <citedIn count="1">
                   <cit did="283" cid="3"/>
                </citedIn>
@@ -22317,8 +22351,10 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Mlinar Janez</author>
-               <title>Janez Vetrinjski in njegovo poznavanje Kranjske v Knjigi resničnih zgodb (Liber certarum historiarum)</title>
-               <page>286</page>
+               <title>Janez Vetrinjski in njegovo poznavanje Kranjske v Knjigi resničnih zgodb</title>
+               <title>(Liber certarum historiarum)</title>
+               <page>273-300</page>
+               <cobiss>27967330</cobiss>
                <citedIn count="1">
                   <cit did="249" cid="33"/>
                </citedIn>
@@ -22326,8 +22362,10 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Nećak Dušan</author>
                <author>Repe Božo</author>
-               <title>O nastanku in namenu avstrijsko-slovenske komisije zgodovinarjev (2001-2004)</title>
+               <title>O nastanku in namenu avstrijsko-slovenske komisije zgodovinarjev</title>
+               <title>(2001-2004)</title>
                <page>415-165</page>
+               <cobiss>27906402</cobiss>
                <citedIn count="1">
                   <cit did="2900" cid="10"/>
                </citedIn>
@@ -22349,6 +22387,7 @@ Ljubljani na začetku stoletja</title>
                <author>Studen Andrej</author>
                <title>Tudi Christoph Wilhelm Hufeland je bil Lipičev vzornik</title>
                <page>501-507</page>
+               <cobiss>2395508</cobiss>
                <citedIn count="1">
                   <cit did="1735" cid="83"/>
                </citedIn>
@@ -22378,6 +22417,7 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Brenner Christine</author>
                <title>K analizi aktualnih razprav o beguncih in izgnancih v času 1938-1950 v srednji in vzhodni Evropi</title>
+               <title>Delovno srečanje v okviru projekta Forost: »Diskurzi v evropskih pristopnih državah Poljski, Češki, Slovaški, Madžarski in Sloveniji o prisilnih selitvah v letih 1938–1950«, München, 11. oktober 2003</title>
                <page>214-218</page>
                <citedIn count="1">
                   <cit did="942" cid="3"/>
@@ -22385,13 +22425,10 @@ Ljubljani na začetku stoletja</title>
             </pubPart>
             <pubPart>
                <author>Gašparič Jure</author>
-               <title>Občinske volitve v Dravski banovini 15.
-oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
                <title>Občinske volitve v Dravski banovini 15. oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
                <title>Občinske volitve v v Dravske banovini</title>
-               <page>48</page>
-               <page>47</page>
                <page>47-67</page>
+               <cobiss>4738590</cobiss>
                <citedIn count="5">
                   <cit did="139" cid="2"/>
                   <cit did="247" cid="18"/>
@@ -22402,10 +22439,10 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
             </pubPart>
             <pubPart>
                <author>Godeša Bojan</author>
-               <title>Tisova Slovaška "priljubljeni sen slovenskega klerofašizma"?</title>
-               <title>Tisova Slovaška - "priljubljeni sen slovenskega klerofašizma"?</title>
-               <title>Tisova Slovaška - "priljubljeni sen slovenskega klerofašizma?"</title>
-               <title>Tisova Slovaška- "priljubljen sen slovenskega klerofašizma?"</title>
+               <title>Tisova Slovaška</title>
+               <title>"priljubljeni sen slovenskega klerofašizma"?</title>
+               <page>69-80</page>
+               <cobiss>215444992</cobiss>
                <citedIn count="4">
                   <cit did="3133" cid="55"/>
                   <cit did="1673" cid="8"/>
@@ -22470,8 +22507,9 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
             </pubPart>
             <pubPart>
                <author>Kerec Darja</author>
-               <title>Prekmurje in slovenska zavest</title>
+               <title>Prekmurska zavest in slovenstvo</title>
                <page>65-70</page>
+               <cobiss>6324809</cobiss>
                <citedIn count="1">
                   <cit did="3465" cid="50"/>
                </citedIn>
@@ -22501,6 +22539,7 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
                <author>Repe Božo</author>
                <title>Katoliška cerkev in oblast v osemdesetih letih</title>
                <page>135-146</page>
+               <cobiss>22173026</cobiss>
                <citedIn count="1">
                   <cit did="1516" cid="9"/>
                </citedIn>
@@ -22508,9 +22547,9 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
             <pubPart>
                <author>Škorjanc Vilijenka</author>
                <author>Škorjanec Viljenka</author>
-               <title>Neuspeh jugoslovansko-italijanskih pogajanj v letu 1973</title>
                <title>Neuspeh jugoslovansko-italijanskih diplomatskih pogajanj v letu 1973</title>
                <page>147-162</page>
+               <cobiss>512353151</cobiss>
                <citedIn count="4">
                   <cit did="3477" cid="8"/>
                   <cit did="303" cid="179"/>
@@ -22531,7 +22570,10 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
             </pubPart>
             <pubPart>
                <author>Brunnbauer Ulf</author>
-               <title>Kontinuiteta in spremembe</title>
+               <title>Kontinuitete in spremembe</title>
+               <title>Aktualni trendi v zgodovinopisju Jugovzhodne Evrope</title>
+               <page>431-450</page>
+               <cobiss>8974669</cobiss>
                <citedIn count="1">
                   <cit did="623" cid="2"/>
                </citedIn>
@@ -22563,8 +22605,10 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
             </pubPart>
             <pubPart>
                <author>Žvanut Maja</author>
+               <title>33. študijski teden</title>
                <title>Ekonomija in umetnost od 13. do 18. stoletja</title>
                <page>490-493</page>
+               <cobiss>4442976</cobiss>
                <citedIn count="1">
                   <cit did="259" cid="43"/>
                </citedIn>
@@ -22575,11 +22619,9 @@ oktobra 1933 in nekdanja Slovenska ljudska stranka</title>
          <issue n="1-2">
             <pubPart>
                <author>Gabrič Aleš</author>
-               <title>Slovenska kulturnopolitična razhajanja med
-kulturno ustvarjalnostjo in politično akcijo 1980-1987</title>
                <title>Slovenska kulturnopolitična razhajanja med kulturno ustvarjalnostjo in politično akcijo 1980–1987</title>
-               <page>206-210</page>
                <page>199-221</page>
+               <cobiss>1413748</cobiss>
                <citedIn count="2">
                   <cit did="841" cid="3"/>
                   <cit did="2807" cid="15"/>
@@ -22623,9 +22665,10 @@ kulturno ustvarjalnostjo in politično akcijo 1980-1987</title>
             </pubPart>
             <pubPart>
                <author>Kovačič Mojca</author>
-               <title>"Prijazne, pobožne, skromne, čednostne in plemenite"....</title>
-               <title>Prijazne, pobožne, skromne, čedostne in plemenite</title>
+               <title>"Prijazne, pobožne, skromne, čednostne in plemenite"</title>
+               <title>kako je Paolo Santonino videl in opisal ženske in kako so ženske dejansko živele</title>
                <page>95-132</page>
+               <cobiss>512039039</cobiss>
                <citedIn count="2">
                   <cit did="2211" cid="46"/>
                   <cit did="2450" cid="3"/>
@@ -22655,6 +22698,7 @@ kulturno ustvarjalnostjo in politično akcijo 1980-1987</title>
                <author>Podgoršek Nataša</author>
                <title>Slavenski Jug leta 1848 in Slovenci</title>
                <page>161-171</page>
+               <cobiss>12284168</cobiss>
                <citedIn count="1">
                   <cit did="2025" cid="40"/>
                </citedIn>
@@ -22684,14 +22728,17 @@ kulturno ustvarjalnostjo in politično akcijo 1980-1987</title>
                <author>Drnovšek Marjan</author>
                <title>Mobilnost Slovencev in regionalizem</title>
                <page>259-276</page>
+               <cobiss>8749389</cobiss>
                <citedIn count="1">
                   <cit did="1442" cid="10"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kos Dušan</author>
-               <title>Grb in mit. Primer psevdokraljevskega izročila o gospodih Svibenskih (12.— 19. stoletje)</title>
+               <title>Grb in mit</title>
+               <title>Primer psevdokraljevskega izročila o gospodih Svibenskih (12.-19. stoletje)</title>
                <page>287-326</page>
+               <cobiss>512176255</cobiss>
                <citedIn count="1">
                   <cit did="2647" cid="165"/>
                </citedIn>
@@ -22699,16 +22746,18 @@ kulturno ustvarjalnostjo in politično akcijo 1980-1987</title>
             <pubPart>
                <author>Troha Nevenka</author>
                <title>Italijanska narodnostna skupnost v Sloveniji med letoma 1954 in 1990</title>
+               <page>447-464</page>
+               <cobiss>512177279</cobiss>
                <citedIn count="1">
                   <cit did="476" cid="1"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Trškan Danijela</author>
-               <title>Letna konferenca angleških visokošolskih
-učiteljev, bodočih učiteljev in didaktikov zgodovine "Values in history
-teacher education and research"</title>
-               <page>502</page>
+               <title>Letna konferenca angleških visokošolskih učiteljev, bodočih učiteljev in didaktikov zgodovine</title>
+               <title>"Values in history teacher education and research"</title>
+               <page>501-503</page>
+               <cobiss>23614818</cobiss>
                <citedIn count="1">
                   <cit did="273" cid="3"/>
                </citedIn>
@@ -22717,6 +22766,7 @@ teacher education and research"</title>
                <author>Trškan Danijela</author>
                <title>Metodična struktura sodobnih srednješolskih učbenikov za zgodovino</title>
                <page>465-478</page>
+               <cobiss>512177535</cobiss>
                <citedIn count="1">
                   <cit did="2273" cid="4"/>
                </citedIn>
@@ -22727,8 +22777,10 @@ teacher education and research"</title>
          <issue n="3-4">
             <pubPart>
                <author>Cavazza Silvano</author>
-               <title>Reformacija v oglejskem patriarhatu: heterodoksne skupine in luteranske skupnosti</title>
+               <title>Reformacija v oglejskem patriarhatu</title>
+               <title>heterodoksne skupine in luteranske skupnosti</title>
                <page>409-435</page>
+               <cobiss>121278208</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="6"/>
                </citedIn>
@@ -22736,7 +22788,9 @@ teacher education and research"</title>
             <pubPart>
                <author>Fujs Metka</author>
                <title>Narodnopolitična razmerja med Slovenci in Madžari v Prekmurju v dobi dualizma</title>
-               <page>459-460</page>
+               <page>455-460</page>
+               <cobiss>54922497</cobiss>
+               <cobiss>8479053</cobiss>
                <citedIn count="2">
                   <cit did="2770" cid="24"/>
                   <cit did="2131" cid="12"/>
@@ -22756,11 +22810,10 @@ teacher education and research"</title>
             <pubPart>
                <author>Ungureanu Mihai Razvan</author>
                <author>Ungureanu Mihai-Razvan</author>
-               <title>Usoda romunskih zgodovinskih mitov. Bodo preživeli?</title>
-               <title>Usoda sodobnih zgodovinskih mitov</title>
+               <title>Usoda romunskih zgodovinskih mitov</title>
                <title>Bodo preživeli?</title>
-               <page>295-303</page>
                <page>295-304</page>
+               <cobiss>121242368</cobiss>
                <citedIn count="2">
                   <cit did="431" cid="14"/>
                   <cit did="425" cid="20"/>
@@ -22768,9 +22821,9 @@ teacher education and research"</title>
             </pubPart>
             <pubPart>
                <author>Škorjanec Viljenka</author>
-               <title>Jugoslovanski - italijanski odnosi v luči dubrovniškega srečanja zunanjih ministrov 1973</title>
                <title>Jugoslovansko-italijanski odnosi v luči dubrovniškega srečanja zunanjih ministrov 1973</title>
                <page>465-487</page>
+               <cobiss>8479309</cobiss>
                <citedIn count="4">
                   <cit did="3477" cid="9"/>
                   <cit did="377" cid="18"/>
@@ -22793,9 +22846,8 @@ teacher education and research"</title>
             <pubPart>
                <author>Južnič Stanislav</author>
                <title>Kostel med poskusi naselitve uskokov sredi 16. stoletja</title>
-               <title>Kostel med poskusi naselitve uskokov</title>
                <page>19-54</page>
-               <page>35-65</page>
+               <cobiss>119228416</cobiss>
                <citedIn count="2">
                   <cit did="2606" cid="19"/>
                   <cit did="283" cid="2"/>
@@ -22814,6 +22866,7 @@ teacher education and research"</title>
                <author>Trškan Danijela</author>
                <title>Učni načrti za srednješolsko zgodovino v Franciji</title>
                <page>121-132</page>
+               <cobiss>18295394</cobiss>
                <citedIn count="1">
                   <cit did="3174" cid="19"/>
                </citedIn>
@@ -22822,6 +22875,7 @@ teacher education and research"</title>
                <author>Trškan Danijela</author>
                <title>Učni načrti za srednješolsko zgodovino v Veliki Britaniji</title>
                <page>109-121</page>
+               <cobiss>18294882</cobiss>
                <citedIn count="1">
                   <cit did="3174" cid="18"/>
                </citedIn>
@@ -22842,15 +22896,17 @@ teacher education and research"</title>
                <author>Bratož Rajko</author>
                <title>Venancij Fortunat in shizma Treh Poglavij</title>
                <page>149-176</page>
+               <cobiss>18671458</cobiss>
                <citedIn count="1">
                   <cit did="2171" cid="33"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Keber Katarina</author>
-               <title>Socialna zgodovina medicine: raziskovanja na robu modernega zgodovinopisja?</title>
-               <title>Socialna zgodovina medicine : raziskovanja na robu modernega zgodovinopisja?</title>
+               <title>Socialna zgodovina medicine</title>
+               <title>raziskovanja na robu modernega zgodovinopisja?</title>
                <page>269-273</page>
+               <cobiss>301685</cobiss>
                <citedIn count="2">
                   <cit did="2610" cid="45"/>
                   <cit did="740" cid="23"/>
@@ -22858,9 +22914,9 @@ teacher education and research"</title>
             </pubPart>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
-               <title>Prizadevanja banskega sveta Dravske banovine za udejanjenje banovinske samouprave in decentralizacije ter za razširitev svojih pristojnosti leta 1933</title>
                <title>Prizadevanja banskega sveta Dravske banovine za udejanjenje banovinske samouprave in decentralizacije uprave ter za razširitev svojih pristojnosti leta 1933</title>
-               <title>Prizadevanje banskega sveta Dravske banovine za udejanjenje banovinske samouprave in decentralizacije uprave ter za razširitev svojih pristojnosti leta 1933</title>
+               <page>231-253</page>
+               <cobiss>18671970</cobiss>
                <citedIn count="7">
                   <cit did="126" cid="4"/>
                   <cit did="1340" cid="8"/>
@@ -22887,8 +22943,8 @@ teacher education and research"</title>
             <pubPart>
                <author>Darovec Darko</author>
                <title>Gospodarsko stanje v Beneški Istri 17. in 18. stoletja</title>
-               <title>Gospodarsko stanje v beneški Istri v 17. in 18. st..</title>
                <page>49-67</page>
+               <cobiss>394451</cobiss>
                <citedIn count="4">
                   <cit did="1966" cid="1"/>
                   <cit did="610" cid="5"/>
@@ -22917,10 +22973,10 @@ teacher education and research"</title>
             </pubPart>
             <pubPart>
                <author>Marušič Branko</author>
-               <title>Slovenci na Primorskem med političnimi izbirami (1848-1918)</title>
-               <title>Slovenci na Primorskem med političnimi izbirami (1848–1918)</title>
-               <title>Slovenci na Primorskem med političnimi izbirami : 1848-1918</title>
+               <title>Slovenci na Primorskem med političnimi izbirami</title>
+               <title>(1848-1918)</title>
                <page>69-76</page>
+               <cobiss>18416173</cobiss>
                <citedIn count="4">
                   <cit did="1662" cid="166"/>
                   <cit did="1511" cid="209"/>
@@ -22934,14 +22990,17 @@ teacher education and research"</title>
                <author>Maganja Nadja</author>
                <title>Lavo Čermelj in njegova knjiga o škofu Santinu</title>
                <page>265-272</page>
+               <cobiss>8212557</cobiss>
                <citedIn count="1">
                   <cit did="1511" cid="200"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Troha Nevenka</author>
-               <title>Milici Kacin Wohinz ob njeni sedemdesetletnici: "nacionalistično meščansko" in "marksistično" zgodovinopisje o Primorski</title>
+               <title>Milici Kacin Wohinz ob njeni sedemdesetletnici</title>
+               <title>"nacionalistično meščansko" in "marksistično" zgodovinopisje o Primorski</title>
                <page>277-284</page>
+               <cobiss>1267060</cobiss>
                <citedIn count="1">
                   <cit did="1689" cid="3"/>
                </citedIn>
@@ -22973,8 +23032,10 @@ teacher education and research"</title>
             </pubPart>
             <pubPart>
                <author>Režek Mateja</author>
-               <title>"Vprašanje svobode vere je vprašanje osvoboditve cerkve od Vatikana" : odnosi med državo in katoliško cerkvijo v letih 1949-1953</title>
-               <title>Vprašanje svobode vere je vprašanje osvoboditve cerkve od Vatikana</title>
+               <title>"Vprašanje svobode vere je vprašanje osvoboditve cerkve od Vatikana"</title>
+               <title>odnosi med državo in katoliško cerkvijo v letih 1949-1953</title>
+               <page>367-390</page>
+               <cobiss>964980</cobiss>
                <citedIn count="2">
                   <cit did="474" cid="2"/>
                   <cit did="646" cid="2"/>
@@ -22995,7 +23056,8 @@ teacher education and research"</title>
             <pubPart>
                <author>Švaral Peter</author>
                <title>Sodelovanje slovenskih in slovaških študentov v organizaciji Pax Romana</title>
-               <page>451-452</page>
+               <page>449-455</page>
+               <cobiss>119212032</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="240"/>
                </citedIn>
@@ -23004,8 +23066,9 @@ teacher education and research"</title>
          <issue n="4">
             <pubPart>
                <author>Globočnik D.</author>
-               <title>"Karikature v letih prve svetovne"</title>
+               <title>Karikature v letih prve svetovne vojne</title>
                <page>563-610</page>
+               <cobiss>119222272</cobiss>
                <citedIn count="1">
                   <cit did="2189" cid="2"/>
                </citedIn>
@@ -23051,7 +23114,9 @@ teacher education and research"</title>
             <pubPart>
                <author>Zlobec B.</author>
                <title>Poročila antičnih geografov o severnem Jadranu</title>
+               <title>od Hekataja do Plinija starejšega</title>
                <page>11-32</page>
+               <cobiss>3673374</cobiss>
                <citedIn count="1">
                   <cit did="1939" cid="78"/>
                </citedIn>
@@ -23060,8 +23125,8 @@ teacher education and research"</title>
          <issue n="2">
             <pubPart>
                <author>Grdina Igor</author>
-               <title>Mihail Konstantinovič: Politika sporazuma. Dnevničke beleške 1939-1941. Londonske beleške 1944-1945</title>
-               <title>Mihailo Konstantinović : Politika sporazuma : Dnevničke beleške 1939-1941 : Londonske beleške 1944-1945 : priredio za štampu Radomir Konstantinović : Novi Sad : Mir, 1998 : 663 strani</title>
+               <title>Mihail Konstantinovič</title>
+               <title>Dnevničke beleške 1939-1941 : Londonske beleške 1944-1945 : priredio za štampu Radomir Konstantinović : Novi Sad : Mir, 1998 : 663 strani</title>
                <page>286-290</page>
                <citedIn count="2">
                   <cit did="2274" cid="101"/>
@@ -23072,6 +23137,7 @@ teacher education and research"</title>
                <author>Melik Vasilij</author>
                <title>Feliks J. Bister - šestdesetletnik</title>
                <page>252-254</page>
+               <cobiss>7383373</cobiss>
                <citedIn count="1">
                   <cit did="2900" cid="14"/>
                </citedIn>
@@ -23116,6 +23182,7 @@ teacher education and research"</title>
                <author>Južnič Stanislav</author>
                <title>Kostel do konca 15. stoletja</title>
                <page>295-323</page>
+               <cobiss>108379392</cobiss>
                <citedIn count="1">
                   <cit did="283" cid="1"/>
                </citedIn>
@@ -23164,6 +23231,8 @@ teacher education and research"</title>
             <pubPart>
                <author>Bajc Gorazd</author>
                <title>Boj projugoslovanskega tabora na področju slovenskega šolstva v Trstu (1945-1948)</title>
+               <page>577-594</page>
+               <cobiss>7503693</cobiss>
                <citedIn count="1">
                   <cit did="2558" cid="3"/>
                </citedIn>
@@ -23172,6 +23241,7 @@ teacher education and research"</title>
                <author>Borisov Peter</author>
                <title>O Hacquetovem značaju</title>
                <page>455-482</page>
+               <cobiss>110061056</cobiss>
                <citedIn count="1">
                   <cit did="2780" cid="1"/>
                </citedIn>
@@ -23193,8 +23263,9 @@ teacher education and research"</title>
                <author>Dular A.</author>
                <author>Dular Anja</author>
                <title>Iz zgodovine tiskarskih privilegijev</title>
-               <page>31</page>
+               <title>ob privilegiju cesarja Leopolda za Valvasorjevo delo Theatrum mortis humanae</title>
                <page>21-36</page>
+               <cobiss>721248</cobiss>
                <citedIn count="3">
                   <cit did="2288" cid="56"/>
                   <cit did="288" cid="36"/>
@@ -23243,7 +23314,8 @@ teacher education and research"</title>
                <title>Od železne zavese do zelene meje: regija Alpe-Jadran 1945-1991</title>
                <title>Od železne zavese do zelene meje: Regija Alpe-Jadran 1945-1991</title>
                <page>201-214</page>
-               <page>201-214; 393-405</page>
+               <page>393-405</page>
+               <cobiss>9038690</cobiss>
                <citedIn count="2">
                   <cit did="1784" cid="12"/>
                   <cit did="2900" cid="50"/>
@@ -23262,10 +23334,9 @@ teacher education and research"</title>
             <pubPart>
                <author>Stergar Rok</author>
                <title>Ljubljanski častniški zbor med prelomom stoletja in prvo svetovno vojno</title>
-               <title>Ljubljanski častniški zbor med prelomom stoletja in prvo svetovno vojno (1. del)</title>
-               <title>Ljubljanski častniški zbor med prelomom stoletja in prvo svetovno vojno (1. del).</title>
                <page>359-392</page>
-               <page>368-369</page>
+               <page>511-539</page>
+               <cobiss>9552226</cobiss>
                <citedIn count="3">
                   <cit did="1045" cid="3"/>
                   <cit did="3108" cid="5"/>
@@ -23278,25 +23349,27 @@ teacher education and research"</title>
                <author>Čremošnik Gregor</author>
                <title>Dubrovniške šole v srednjem veku</title>
                <page>583-596</page>
+               <cobiss>100079104</cobiss>
                <citedIn count="1">
                   <cit did="3193" cid="4"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kregar Tone</author>
-               <title>Ivan Žabota - Slovenec in Slovak, umetnik in bohem</title>
+               <title>Ivan Žabota</title>
+               <title>Slovenec in Slovak, umetnik in bohem</title>
                <page>541-551</page>
+               <cobiss>100071936</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="241"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kresal Barbara</author>
-               <title>Razvoj pravne ureditve prenehanja delovnega
-razmerja na Slovenskem od sredine 19. stoletja do danes : od popolne
-pogodbene svobode do varstva zaposlitve</title>
-               <title>Razvoj pravne ureditve prenehanja delovnega razmerja na Slovenskem od sredine 19. stoletja do danes, od popolne pogodbene svobode do varstva zaposlitve</title>
+               <title>Razvoj pravne ureditve prenehanja delovnega razmerja na Slovenskem od sredine 19. stoletja do danes</title>
+               <title> od popolne pogodbene svobode do varstva zaposlitve</title>
                <page>497-510</page>
+               <cobiss>100070656</cobiss>
                <citedIn count="2">
                   <cit did="129" cid="18"/>
                   <cit did="147" cid="13"/>
@@ -23305,12 +23378,9 @@ pogodbene svobode do varstva zaposlitve</title>
             <pubPart>
                <author>Žvanut Maja</author>
                <title>"To ie moia uola"</title>
-               <title>"To je moia uola": Po sledeh nekega testamenta iz 17. stoletja</title>
-               <title>To ie moia uola : po sledeh nekega testamenta iz 17. stoletja</title>
                <title>Po sledeh nekega testamenta iz 17. stoletja</title>
-               <page>493</page>
-               <page>494 in dalje</page>
                <page>487-496</page>
+               <cobiss>100070144</cobiss>
                <citedIn count="3">
                   <cit did="259" cid="45"/>
                   <cit did="288" cid="3"/>
@@ -23324,9 +23394,9 @@ pogodbene svobode do varstva zaposlitve</title>
             <pubPart>
                <author>Pelikan Egon</author>
                <title>Slovenski politični katolicizem med obema vojnama</title>
-               <title>Slovenski politični katolicizem med obema vojnama: v luči zapuščine dr. Engelberta Besednjaka</title>
                <title>V luči zapuščine dr. Engelberta Besednjaka</title>
                <page>33-42</page>
+               <cobiss>59603</cobiss>
                <citedIn count="2">
                   <cit did="700" cid="15"/>
                   <cit did="2769" cid="32"/>
@@ -23336,8 +23406,10 @@ pogodbene svobode do varstva zaposlitve</title>
          <issue n="2">
             <pubPart>
                <author>Borisov Peter V.</author>
-               <title>Dr. Gregorij Karbonarij (Oglar, Voglar) de Wiesenegg (1651-1717) - zdravnik in diplomat</title>
+               <title>Dr. Gregorij Karbonarij (Oglar, Voglar) de Wiesenegg (1651-1717)</title>
+               <title>zdravnik in diplomat</title>
                <page>187-204</page>
+               <cobiss>3384630</cobiss>
                <citedIn count="1">
                   <cit did="2900" cid="103"/>
                </citedIn>
@@ -23387,6 +23459,7 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
                <author>Volk Sandi</author>
                <title>Italijanski begunci iz Istre kot subjekt "propagande italijanstva" v Italiji in "nacionalne bonifikacije" v Trstu v letih 1945-1954</title>
                <page>241-254</page>
+               <cobiss>6232653</cobiss>
                <citedIn count="1">
                   <cit did="1278" cid="4"/>
                </citedIn>
@@ -23420,8 +23493,8 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
             <pubPart>
                <author>Nećak Dušan</author>
                <title>Slovenska propaganda v času nastajanja mirovne pogodbe z Italijo</title>
-               <title>Slovenska propaganda v času nastajanju mirovne pogodbe z Italijo</title>
                <page>555-573</page>
+               <cobiss>6693709</cobiss>
                <citedIn count="2">
                   <cit did="1511" cid="241"/>
                   <cit did="2168" cid="13"/>
@@ -23459,7 +23532,7 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
                <author>Reisp Branko</author>
                <title>Nekaj dopolnil k biografiji Janeza Vajkarda Valvasorja</title>
                <page>575-577</page>
-               <page>575-576</page>
+               <cobiss>722272</cobiss>
                <citedIn count="2">
                   <cit did="3263" cid="35"/>
                   <cit did="2157" cid="6"/>
@@ -23468,8 +23541,9 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
             <pubPart>
                <author>Stariha Gorazd</author>
                <title>Dimež in njegovi</title>
-               <title>O Kranjskih Janezih, ki so služili cesarja najraje kar v domačih gozdovih, ali: oporečniki po kranjsko</title>
+               <title>O Kranjskih Janezih, o Kranjskih Janezih, ki so služili cesarju najraje kar v domačih gozdovih, ali: oporečniki po kranjsko</title>
                <page>483-516</page>
+               <cobiss>3861558</cobiss>
                <citedIn count="1">
                   <cit did="528" cid="10"/>
                </citedIn>
@@ -23480,8 +23554,10 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
          <issue n="1">
             <pubPart>
                <author>Gestrin Ferdo</author>
-               <title>Suženjstvo - prisilna migracija Slovanov v Italijo</title>
+               <title>Suženjstvo</title>
+               <title>prisilna migracija Slovanov v Italijo</title>
                <page>11-20</page>
+               <cobiss>4985165</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="20"/>
                </citedIn>
@@ -23489,7 +23565,6 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
             <pubPart>
                <author>Kos Dušan</author>
                <title>V primežu pobožnosti, karierizma in (samo)preskrbe (od konca 13. do začetka 15. stoletja)</title>
-               <title>V primežu pobožnosti, karierizma in samopreskrbe</title>
                <page>21-46</page>
                <citedIn count="2">
                   <cit did="2631" cid="163"/>
@@ -23507,9 +23582,9 @@ dejavnosti Kmetijske zbornice v Sloveniji</title>
             </pubPart>
             <pubPart>
                <author>Simoniti Vasko</author>
-               <title>Prof. dr. Ignacij Voje praznuje
-sedemdesetletnico</title>
-               <page>6</page>
+               <title>Prof. dr. Ignacij Voje praznuje sedemdesetletnico</title>
+               <page>5-10</page>
+               <cobiss>65669376</cobiss>
                <citedIn count="1">
                   <cit did="156" cid="3"/>
                </citedIn>
@@ -23518,6 +23593,7 @@ sedemdesetletnico</title>
                <author>Stanonik Janez</author>
                <title>Očipve in Ottawa</title>
                <page>65–69</page>
+               <cobiss>65671168</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="52"/>
                </citedIn>
@@ -23525,8 +23601,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Valenčič Vlado</author>
                <title>Prebivalstvo po župnijah na Kranjskem v letih 1778 in okrog 1780</title>
-               <title>Prebivalstvo po župnijah na Kranjskem v-letih 1778 in okrog 1780</title>
                <page>53-63</page>
+               <cobiss>65670656</cobiss>
                <citedIn count="3">
                   <cit did="2040" cid="40"/>
                   <cit did="2198" cid="23"/>
@@ -23537,8 +23613,10 @@ sedemdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Hundsbichler Helmuth</author>
-               <title>Pavel Santonino v Sloveniji (1486 in 1487): stvarnost in mentaliteta v potopisu iz pozne gotike</title>
-               <page>188</page>
+               <title>Pavel Santonino v Sloveniji (1486 in 1487)</title>
+               <title>stvarnost in mentaliteta v potopisu iz pozne gotike</title>
+               <page>187-202</page>
+               <cobiss>65800192</cobiss>
                <citedIn count="1">
                   <cit did="2211" cid="53"/>
                </citedIn>
@@ -23589,7 +23667,8 @@ sedemdesetletnico</title>
                <author>Klemenčič Matjaž</author>
                <title>Izseljenske skupnosti in ustanavljanje novih držav v vzhodni srednji Evropi</title>
                <title>Primer Slovencev - 1. del</title>
-               <page>393-397</page>
+               <page>391-409</page>
+               <cobiss>5172045</cobiss>
                <citedIn count="1">
                   <cit did="436" cid="16"/>
                </citedIn>
@@ -23618,9 +23697,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Žvanut Maja</author>
-               <title>Ločitev zakona pred 300 leti</title>
                <title>Ločitev zakona pred tristo leti</title>
                <page>343-356</page>
+               <cobiss>65836288</cobiss>
                <citedIn count="5">
                   <cit did="2288" cid="183"/>
                   <cit did="1735" cid="102"/>
@@ -23633,11 +23712,11 @@ sedemdesetletnico</title>
          <issue n="4">
             <pubPart>
                <author>Klemenčič Matjaž</author>
-               <title>Izseljenske skupnosti in ustanavljanje novih držav v vzhodni Srednji Evropi: primer Slovencev</title>
-               <title>Izseljenske skupnosti in ustanavljanje novih držav v vzhodni Srednji Evropi: primer Slovencev – First Part</title>
+               <title>Izseljenske skupnosti in ustanavljanje novih držav v vzhodni Srednji Evropi</title>
+               <title>primer Slovencev</title>
                <title>2. del</title>
                <page>573–583</page>
-               <page>391–409</page>
+               <cobiss>5172045</cobiss>
                <citedIn count="2">
                   <cit did="2741" cid="4"/>
                   <cit did="2837" cid="93"/>
@@ -23647,6 +23726,7 @@ sedemdesetletnico</title>
                <author>Nečak Dušan</author>
                <title>O problemu »razseljenih oseb« (D. Ps.) in jugoslovanskih »Volksdeutscherjev« v Avstriji ter o britanski ideji njihove zamenjave s koroškimi Slovenci (1945-1947)</title>
                <page>561-571</page>
+               <cobiss>5447501</cobiss>
                <citedIn count="1">
                   <cit did="2570" cid="10"/>
                </citedIn>
@@ -23655,6 +23735,7 @@ sedemdesetletnico</title>
                <author>Pleterski Andrej</author>
                <title>Mitska stvarnost koroških knežjih kamnov</title>
                <page>481-534</page>
+               <cobiss>5448525</cobiss>
                <citedIn count="1">
                   <cit did="2156" cid="35"/>
                </citedIn>
@@ -23662,9 +23743,9 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Stojanović Risto</author>
                <author>Stojanovič Risto</author>
-               <title>Prispevek k vprašanju odpeljanih („odvlečenih“) in izginulih oseb na Koroškem maja 1945</title>
                <title>Prispevek k vprašanju odpeljanih ("odvlečenih") in izginulih oseb na Koroškem maja 1945</title>
                <page>589-594</page>
+               <cobiss>5448269</cobiss>
                <citedIn count="2">
                   <cit did="1705" cid="2"/>
                   <cit did="2900" cid="108"/>
@@ -23734,7 +23815,7 @@ sedemdesetletnico</title>
                <author>Keršič Svetel M.</author>
                <title>Češko-slovenski stiki med svetovnima vojnama</title>
                <page>231-258</page>
-               <page>231-236</page>
+               <cobiss>54502144</cobiss>
                <citedIn count="4">
                   <cit did="1626" cid="175"/>
                   <cit did="1803" cid="11"/>
@@ -23754,9 +23835,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Vilfan Sergij</author>
-               <title>Struktura stanov, deželne filance in reformacija</title>
                <title>Struktura stanov, deželne finance in reformacija</title>
                <page>175-181</page>
+               <cobiss>761425</cobiss>
                <citedIn count="2">
                   <cit did="2589" cid="47"/>
                   <cit did="2664" cid="36"/>
@@ -23790,9 +23871,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Troha Nevenka</author>
-               <title>PolitiÄ&#x8d;ne usmeritve med primorskimi Slovenci v coni A Julijske krajine (1945-1947)</title>
-               <title>Politične usmeritve med primorskimi Slovenci</title>
+               <title>Politične usmeritve med primorskimi Slovenci v coni A Julijske krajine (1945-1947)</title>
                <page>455-469</page>
+               <cobiss>4386125</cobiss>
                <citedIn count="2">
                   <cit did="476" cid="9"/>
                   <cit did="1434" cid="24"/>
@@ -23802,6 +23883,7 @@ sedemdesetletnico</title>
                <author>Valenčič Vlado</author>
                <title>Statistični prikaz zemljiških gospostev na Kranjskem</title>
                <page>339-409</page>
+               <cobiss>57965312</cobiss>
                <citedIn count="1">
                   <cit did="2198" cid="22"/>
                </citedIn>
@@ -23810,8 +23892,9 @@ sedemdesetletnico</title>
          <issue n="4">
             <pubPart>
                <author>Erceg I.</author>
-               <title>Počeci proizvodnje soli i opseg šolana na istočnojadranskoj obali</title>
+               <title>Počeci proizvodnje soli i opseg solana na istočnojadranskoj obali</title>
                <page>595-606</page>
+               <cobiss>62614784</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="98"/>
                </citedIn>
@@ -23824,14 +23907,17 @@ sedemdesetletnico</title>
                <author>Bratož Rajko</author>
                <title>Bitka pri Frigidu v izročilu antičnih in srednjeveških avtorjev</title>
                <page>5-45</page>
+               <cobiss>46940416</cobiss>
                <citedIn count="1">
                   <cit did="2171" cid="21"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Dolinar France M.</author>
-               <title>Cerkvenopravna ureditev slovenskega prostora</title>
-               <page>59</page>
+               <title>Cerkvenopravna ureditev slovenskega prostora do ustanovitve slovenske metropolije 1968</title>
+               <title>predavanje na sestanku zgodovinskega društva Ljubljana, 3. marca 1994</title>
+               <page>55-61</page>
+               <cobiss>46940928</cobiss>
                <citedIn count="1">
                   <cit did="723" cid="2"/>
                </citedIn>
@@ -23839,6 +23925,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Stavbar Vlasta</author>
                <title>Izjave v podporo Majniške deklaracije</title>
+               <page>99-106</page>
+               <cobiss>40745217</cobiss>
                <citedIn count="1">
                   <cit did="176" cid="40"/>
                </citedIn>
@@ -23861,13 +23949,16 @@ sedemdesetletnico</title>
                <author>Benedik Metod</author>
                <title>Kapucini v Novem mestu</title>
                <page>195-216</page>
+               <cobiss>46978560</cobiss>
                <citedIn count="1">
                   <cit did="1298" cid="66"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Castritius Helmut</author>
-               <title>Barbari - antiqui barbari. K poselitveni zgodovini Norika in Panonije</title>
+               <title>Barbari - antiqui barbari</title>
+               <title>K poselitveni zgodovini Norika in Panonije v pozni Antiki (od konca 4. do srede 6. stoletja)</title>
+               <title>referat na kolokviju "Zaton rimskega cesarstva in poznoantična doba na Slovenskem" 3. 3. 1994 na ljubljanski Filozofski fakulteti</title>
                <page>137-147</page>
                <citedIn count="1">
                   <cit did="2532" cid="10"/>
@@ -23947,10 +24038,9 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Kristen Samo</author>
                <title>Pet Britancev in vprašanje Trsta v letu 1945.</title>
-               <title>Pet Britancev in vprašanje Trsta v letu 1945. Poskus "dekonspiracije" nekega diplomatskega dokumenta</title>
-               <title>Pet Britancev in vprašanje Trsta v letu 1945: poskus »dekonspiracije« nekega diplomatskega dokumenta</title>
                <title>Poskus "dekonspiracije" nekega diplomatskega dokumenta</title>
                <page>351-402</page>
+               <cobiss>1217101</cobiss>
                <citedIn count="3">
                   <cit did="334" cid="174"/>
                   <cit did="2900" cid="67"/>
@@ -23959,8 +24049,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Nećak Dušan</author>
-               <title>Nekaj osnovnih podatkov o usodi nemške narodnostne skupnosti v Sloveniji</title>
+               <title>Nekaj osnovnih podatkov o usodi nemške narodnostne skupnosti v Sloveniji po letu 1945</title>
                <page>439–451</page>
+               <cobiss>503885</cobiss>
                <citedIn count="1">
                   <cit did="2854" cid="13"/>
                </citedIn>
@@ -23985,9 +24076,10 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Šešelj Kos Marjeta</author>
                <author>Sašel Kos Marjeta</author>
-               <title>Romulovo poslanstvo pri Atili (ena zadnjih omemb Poetovione v antični literaturi)</title>
                <title>Romulovo poslanstvo pri Atilu</title>
+               <title>(ena zadnjih omemb Petovione v antični literaturi)</title>
                <page>285-259</page>
+               <cobiss>47019520</cobiss>
                <citedIn count="2">
                   <cit did="2470" cid="9"/>
                   <cit did="2532" cid="45"/>
@@ -24006,9 +24098,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Habjan Vlado</author>
-               <title>Vojna za kneževino Celjskih in mir 1460 v Požamici (Pusamitz) na Koroškem</title>
                <title>Vojna za kneževino Celjskih in mir 1460 v Požarnici (Pusarnitz) na Koroškem</title>
                <page>457-498</page>
+               <cobiss>49221632</cobiss>
                <citedIn count="2">
                   <cit did="3439" cid="51"/>
                   <cit did="1761" cid="69"/>
@@ -24017,7 +24109,9 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Höfler Janez</author>
                <title>Raziskovanje srednjeveške umetnosti na Slovenskem</title>
+               <title>referat ob kolokviju ob stoletnici rojstva Milka Kosa v Ljubljani, 10. decembra 1992</title>
                <page>449-456</page>
+               <cobiss>49221376</cobiss>
                <citedIn count="1">
                   <cit did="1555" cid="4"/>
                </citedIn>
@@ -24026,6 +24120,7 @@ sedemdesetletnico</title>
                <author>Kos Peter</author>
                <title>Denarni obtok v slovenskem prostoru v pozni antiki</title>
                <page>443-447</page>
+               <cobiss>49220352</cobiss>
                <citedIn count="2">
                   <cit did="2640" cid="114"/>
                   <cit did="2171" cid="26"/>
@@ -24034,7 +24129,9 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Springer Mathias</author>
                <title>Novi odgovori in stara vprašanja o bitki pri Adrianoplu</title>
+               <title>referat na kolokviju "Zaton rimskega cesarstva in pozno antična doba na Slovenskem" v Ljubljani 3. 3. 1994</title>
                <page>433-442</page>
+               <cobiss>49220096</cobiss>
                <citedIn count="1">
                   <cit did="2532" cid="37"/>
                </citedIn>
@@ -24043,6 +24140,7 @@ sedemdesetletnico</title>
                <author>Valenčič Vlado</author>
                <title>Trgovina na Kranjskem v 18. stoletju</title>
                <page>217-230</page>
+               <cobiss>46978816</cobiss>
                <citedIn count="1">
                   <cit did="2538" cid="28"/>
                </citedIn>
@@ -24053,8 +24151,9 @@ sedemdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Carmichael Catherine D.</author>
-               <title>Pismo Edmonda Halleva Valvasorju</title>
+               <title>Pismo Edmonda Halleya Valvasorju</title>
                <page>85-87</page>
+               <cobiss>46829312</cobiss>
                <citedIn count="1">
                   <cit did="2638" cid="96"/>
                </citedIn>
@@ -24062,7 +24161,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Ob pisanju o slovenskem zgodovinopisju</title>
-               <page>119-126</page>
+               <page>119-129</page>
+               <cobiss>46829824</cobiss>
                <citedIn count="1">
                   <cit did="823" cid="8"/>
                </citedIn>
@@ -24090,17 +24190,13 @@ sedemdesetletnico</title>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Koropec Jože</author>
+               <author>Kos, Dušan</author>
                <title>Plemiška darovanja cerkvenim ustanovam</title>
-               <citedIn count="1">
-                  <cit did="2604" cid="48"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kos Dušan</author>
-               <title>Plemiška darovanja cerkvenim ustanovam (s posebnim ozirom na 14. stoletje)</title>
+               <title>(s posebnim ozirom na 14. stoletje)</title>
                <page>25-52</page>
-               <citedIn count="4">
+               <cobiss>46828544</cobiss>
+               <citedIn count="5">
+                  <cit did="2604" cid="48"/>
                   <cit did="1913" cid="22"/>
                   <cit did="2631" cid="156"/>
                   <cit did="2647" cid="151"/>
@@ -24111,6 +24207,7 @@ sedemdesetletnico</title>
                <author>Stare Vida</author>
                <title>Stanovanjska jama z Otoka pri Dobravi</title>
                <page>225-249</page>
+               <cobiss>46876160</cobiss>
                <citedIn count="2">
                   <cit did="2647" cid="333"/>
                   <cit did="775" cid="208"/>
@@ -24131,6 +24228,7 @@ sedemdesetletnico</title>
                <author>Valenčič Vlado</author>
                <title>Iz kreditnega gospodarstva ob koncu srednjega veka</title>
                <page>5-24</page>
+               <cobiss>46828288</cobiss>
                <citedIn count="1">
                   <cit did="2647" cid="387"/>
                </citedIn>
@@ -24141,6 +24239,7 @@ sedemdesetletnico</title>
                <author>Grafenauer Bogo</author>
                <title>Oblikovanje severne slovenske narodnostne meje in njena današnja vprašanja</title>
                <page>349–383</page>
+               <cobiss>501325</cobiss>
                <citedIn count="1">
                   <cit did="2729" cid="5"/>
                </citedIn>
@@ -24150,6 +24249,7 @@ sedemdesetletnico</title>
                <author>Nečak Dušan</author>
                <title>Nekaj osnovnih podatkov o usodi nemške narodnostne skupnosti v Sloveniji po letu 1945</title>
                <page>439-451</page>
+               <cobiss>503885</cobiss>
                <citedIn count="3">
                   <cit did="844" cid="123"/>
                   <cit did="2570" cid="9"/>
@@ -24159,9 +24259,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Reisp Branko</author>
                <title>Neznani epitaf Janezu Vajkardu Valvasorju</title>
-               <title>Neznani epitaf Janezu Vajkardu</title>
                <page>345-348</page>
-               <page>343-347</page>
+               <cobiss>46833408</cobiss>
                <citedIn count="2">
                   <cit did="2598" cid="18"/>
                   <cit did="2157" cid="13"/>
@@ -24171,6 +24270,7 @@ sedemdesetletnico</title>
                <author>Stiplovšek Miroslav</author>
                <title>Propad slamnikarske industrije in razvoj novih industrijskih panog na domžalskem območju 1918-1941</title>
                <page>425-437</page>
+               <cobiss>428598</cobiss>
                <citedIn count="1">
                   <cit did="2039" cid="22"/>
                </citedIn>
@@ -24192,8 +24292,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Melik Vasilij</author>
-               <title>26. zborovanje slovenskih zgodovinarjev v Slovenjem Gradcu 28.-30. september 1992 z občnim zborom Zveze zgodovinskih društev Slovenije</title>
+               <title>26. zborovanje slovenskih zgodovinarjev v Slovenjem Gradcu 28.-30. semptembra 1992 z občnim zborom Zveze zgodovinskih društev Slovenije</title>
                <page>581-585</page>
+               <cobiss>46937088</cobiss>
                <citedIn count="1">
                   <cit did="2231" cid="6"/>
                </citedIn>
@@ -24229,9 +24330,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Verginella Marta</author>
-               <title>Vloga žene in moža v slovenski  publicistiki 19. stoletja in v dokumentih s tržaškega podeželja</title>
                <title>Vloga žene in moža v slovenski publicistiki 19. stoletja in v dokumentih s tržaškega podeželja</title>
                <page>531-545</page>
+               <cobiss>46936320</cobiss>
                <citedIn count="4">
                   <cit did="1604" cid="23"/>
                   <cit did="2016" cid="140"/>
@@ -24243,6 +24344,7 @@ sedemdesetletnico</title>
                <author>Vovko Andrej</author>
                <title>Odmev mita o Ameriki v Družbi sv. Rafaela</title>
                <page>563–568</page>
+               <cobiss>46936576</cobiss>
                <citedIn count="2">
                   <cit did="2837" cid="60"/>
                   <cit did="2837" cid="89"/>
@@ -24256,14 +24358,16 @@ sedemdesetletnico</title>
                <author>Matič Dragan</author>
                <title>Karantenska postaja za vojne ujetnike na ljubljanskem gradu</title>
                <page>71-85</page>
+               <cobiss>31761152</cobiss>
                <citedIn count="1">
                   <cit did="3161" cid="58"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Moritsch Andrej</author>
-               <title>Slovenci in Nemci v koroških mestih 1850-1940</title>
+               <title>"Slovenci" in "Nemci" v koroških mestih 1850-1940</title>
                <page>13-31</page>
+               <cobiss>31747328</cobiss>
                <citedIn count="1">
                   <cit did="438" cid="8"/>
                </citedIn>
@@ -24283,6 +24387,7 @@ sedemdesetletnico</title>
                <author>Stanonik J.</author>
                <title>Zgodnji angleški potopisi po Sloveniji</title>
                <page>112-118</page>
+               <cobiss>31780352</cobiss>
                <citedIn count="1">
                   <cit did="1999" cid="46"/>
                </citedIn>
@@ -24322,10 +24427,10 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Drobesch Werner</author>
-               <title>"Deutcher Schulverein"</title>
                <title>Deutscher Schulverein</title>
                <title>Njegova ideologija, notranja struktura in delovanje s posebnim ozirom na Slovenijo</title>
                <page>187-196</page>
+               <cobiss>31886848</cobiss>
                <citedIn count="3">
                   <cit did="844" cid="214"/>
                   <cit did="1783" cid="48"/>
@@ -24371,8 +24476,9 @@ sedemdesetletnico</title>
          <issue n="3">
             <pubPart>
                <author>Bratož Rajko</author>
-               <title>Nekatera nerešena in nerešljiva vprašanja iz zgodovine severno-jadranskih dežel v 6. in 7. stoletju</title>
-               <page>301-302</page>
+               <title>Nekatera nerešena in nerešljiva (?)vprašanja iz zgodovine severnojadranskih dežel v 6. in 7. stoletju</title>
+               <page>297-307</page>
+               <cobiss>34550272</cobiss>
                <citedIn count="1">
                   <cit did="755" cid="4"/>
                </citedIn>
@@ -24380,6 +24486,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>Prof. Bogomir Stupan - devetdesetletnik</title>
+               <page>401</page>
+               <cobiss>34561792</cobiss>
                <citedIn count="1">
                   <cit did="3166" cid="2"/>
                </citedIn>
@@ -24388,6 +24496,7 @@ sedemdesetletnico</title>
                <author>Simoniti Vasko</author>
                <title>O slovenskem zgodovinopisju 1945-1990 ali kako je na zgodovinopisje vplivalo staranje oblasti</title>
                <page>387-394</page>
+               <cobiss>34561280</cobiss>
                <citedIn count="1">
                   <cit did="2113" cid="15"/>
                </citedIn>
@@ -24420,6 +24529,7 @@ sedemdesetletnico</title>
                <author>Štih Peter</author>
                <title>Goriški grofje in Devinski gospodje</title>
                <page>309-321</page>
+               <cobiss>34551040</cobiss>
                <citedIn count="1">
                   <cit did="375" cid="82"/>
                </citedIn>
@@ -24437,8 +24547,9 @@ sedemdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>Celjsko nemštvo in problm nacionalne identitete</title>
-               <page>452</page>
+               <title>Celjsko nemštvo in problem nacionalne identitete</title>
+               <page>451-455</page>
+               <cobiss>34580224</cobiss>
                <citedIn count="1">
                   <cit did="1783" cid="27"/>
                </citedIn>
@@ -24446,6 +24557,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Gombač Metka</author>
                <title>Beneška Slovenija 1945-1946</title>
+               <page>509-517</page>
+               <cobiss>34584320</cobiss>
                <citedIn count="1">
                   <cit did="786" cid="3"/>
                </citedIn>
@@ -24455,6 +24568,7 @@ sedemdesetletnico</title>
                <author>Kalc Aleksej</author>
                <title>Prekooceansko izseljevanje skozi Trst 1903-1914</title>
                <page>479-496</page>
+               <cobiss>34580736</cobiss>
                <citedIn count="2">
                   <cit did="2080" cid="13"/>
                   <cit did="2636" cid="63"/>
@@ -24464,6 +24578,7 @@ sedemdesetletnico</title>
                <author>Pagon Neda</author>
                <title>Plaidoyer za zgodovino žensk</title>
                <page>539-545</page>
+               <cobiss>34586880</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="155"/>
                </citedIn>
@@ -24488,6 +24603,7 @@ sedemdesetletnico</title>
                <author>Carmichael C.</author>
                <title>Angleška gentlemana na potovanju po slovenskih krajih leta 1737</title>
                <page>41-46</page>
+               <cobiss>27475714</cobiss>
                <citedIn count="1">
                   <cit did="1999" cid="12"/>
                </citedIn>
@@ -24496,6 +24612,7 @@ sedemdesetletnico</title>
                <author>Ferenc Tone</author>
                <title>Poročilo o razmerah na Kočevskem spomladi 1939</title>
                <page>103-116</page>
+               <cobiss>895565</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="62"/>
                </citedIn>
@@ -24532,7 +24649,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Voje Ignacij</author>
                <title>Odnosi med gospodom Kozmom Ravbarjem s Krumperka in vaško skupnostjo Domžale v 16. stoletju</title>
-               <page>33-40</page>
+               <page>35-40</page>
+               <cobiss>24784896</cobiss>
                <citedIn count="1">
                   <cit did="1378" cid="4"/>
                </citedIn>
@@ -24556,8 +24674,9 @@ sedemdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Grafenauer Bogo</author>
-               <title>Migracije v jugoslovanskih deželah od 15. do 18. stoletja in njihov pomen za nadalnji narodnostni razvoj</title>
+               <title>Migracije v jugoslovanskih deželah od 15. do 18. stoletja in njihov pomen za nadaljni narodnostni razvoj</title>
                <page>203-209</page>
+               <cobiss>24808448</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="24"/>
                </citedIn>
@@ -24579,6 +24698,8 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Kresal France</author>
                <title>Koncentracija delavstva v revirjih in industrijskih centrih v Sloveniji med obema vojnama</title>
+               <page>291-297</page>
+               <cobiss>24812544</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="296"/>
                </citedIn>
@@ -24606,13 +24727,17 @@ sedemdesetletnico</title>
                <author>Marušič B.</author>
                <title>Cesare Balbo v Ljubljani</title>
                <page>211-215</page>
+               <cobiss>24808960</cobiss>
                <citedIn count="1">
                   <cit did="2166" cid="24"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Simpozij o življenju in delu dr. Antona Korošca : Maribor 13.12.1990</title>
+               <title>Simpozij o življenju in delu dr. Antona Korošca</title>
+               <title>Maribor 13.12.1990</title>
+               <page>319-325</page>
+               <cobiss>26815232</cobiss>
                <citedIn count="1">
                   <cit did="480" cid="1"/>
                </citedIn>
@@ -24620,12 +24745,10 @@ sedemdesetletnico</title>
             <pubPart>
                <author>Wolfram H.</author>
                <author>Wolfram Herwig</author>
-               <title>Karantanija med vzhodom in zahodom. Obri. Bavarci in Langobardi v 8. in 9. stoletju</title>
                <title>Karantanija med vzhodom in zahodom</title>
-               <title>Karantanija med vzhodom in zahodom: Obri, Bavarci in Langobardi v 8. in 9. stoletju</title>
+               <title>Obri, Bavarci in Langobardi v 8. in 9. stoletju</title>
                <page>177-187</page>
-               <page>178</page>
-               <page>177</page>
+               <cobiss>24807168</cobiss>
                <citedIn count="4">
                   <cit did="2319" cid="43"/>
                   <cit did="2165" cid="34"/>
@@ -24641,7 +24764,8 @@ sedemdesetletnico</title>
                <title>»Nove raziskave zgodovine avstrijskega meščanstva«</title>
                <title>Nove raziskave zgodovine avstrijskega meščanstva</title>
                <page>369-391</page>
-               <page>372</page>
+               <cobiss>31947008</cobiss>
+               <cobiss>26452226</cobiss>
                <citedIn count="3">
                   <cit did="2018" cid="39"/>
                   <cit did="2016" cid="8"/>
@@ -24669,6 +24793,7 @@ sedemdesetletnico</title>
                <author>Kambič Marko</author>
                <title>Univ. prof. dr. Vladimir Murko kot zgodovinar</title>
                <page>479-484</page>
+               <cobiss>26464770</cobiss>
                <citedIn count="1">
                   <cit did="2358" cid="1"/>
                </citedIn>
@@ -24737,6 +24862,7 @@ sedemdesetletnico</title>
                <author>Svoljšak Petra</author>
                <title>Slovenski begunci v Italiji med prvo svetovno vojno</title>
                <page>429-444</page>
+               <cobiss>26459906</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="136"/>
                </citedIn>
@@ -24745,6 +24871,7 @@ sedemdesetletnico</title>
                <author>Štih Peter</author>
                <title>K zgodovini nižjega plemstva na Krasu in v Istri</title>
                <page>549-557</page>
+               <cobiss>27484930</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="179"/>
                </citedIn>
