@@ -19805,6 +19805,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Križman Mirko</author>
                <title>Mariborska nemščina</title>
                <page>151-178</page>
+               <cobiss>12178952</cobiss>
                <citedIn count="1">
                   <cit did="2076" cid="9"/>
                </citedIn>
@@ -19823,6 +19824,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Matjašič Friš Mateja</author>
                <title>Bog in Slovenci! Anton Bezenšek v pismih prijatelju dr. Pavlu Turnerju</title>
                <page>399-430</page>
+               <cobiss>12299016</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="36"/>
                </citedIn>
@@ -19831,6 +19833,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Mlinarič Jože</author>
                <title>Kmečki nemiri in upori na posesti dominikanskega samostana v Studenicah v 16. in 17. stoletju</title>
                <page>327-356</page>
+               <cobiss>12286472</cobiss>
                <citedIn count="1">
                   <cit did="1913" cid="39"/>
                </citedIn>
@@ -19882,11 +19885,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>Deželnozborska volilna reforma na Štajerskem</title>
                <title>Deželnozborska volilna reforma na Štajerskem 1883</title>
-               <page>345-355</page>
-               <page>345-352</page>
-               <page>347-348</page>
+               <page>345-353</page>
+               <cobiss>18173026</cobiss>
                <citedIn count="3">
                   <cit did="1449" cid="9"/>
                   <cit did="1449" cid="19"/>
@@ -19895,8 +19896,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Ravnikar Tone</author>
-               <title>Prehod gradu in gospoščine Helfenberg v roke Zovneških svobodnikov</title>
+               <title>Prehod gradu in gospoščine Helfenberg v roke Žovneških svobodnikov</title>
                <page>327-344</page>
+               <cobiss>11744776</cobiss>
                <citedIn count="1">
                   <cit did="2647" cid="298"/>
                </citedIn>
@@ -19940,6 +19942,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart correspPubId="2476">
                <author>Pančur Andrej</author>
                <title>Zgodovina holokavsta na Slovenskem</title>
+               <cobiss>2818164</cobiss>
                <citedIn count="1">
                   <cit did="2575" cid="25"/>
                </citedIn>
@@ -20020,6 +20023,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Popoviča Lozarja</author>
                <title>Strip  kot poskus avtentične naloge in možnosti njegove uporabe pri pouku zgodovine</title>
                <page>18-30</page>
+               <cobiss>1003388</cobiss>
                <citedIn count="1">
                   <cit did="2495" cid="2"/>
                </citedIn>
@@ -20030,8 +20034,10 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1-2">
             <pubPart>
                <author>Trškan Danijela</author>
-               <title>Avtentična seminarska naloga pri predmetu didaktika zgodovine - didaktični članek</title>
-               <page>47-48</page>
+               <title>Avtentična seminarska naloga pri predmetu didaktika zgodovine</title>
+               <title>didaktični članek</title>
+               <page>43-49</page>
+               <cobiss>33892962</cobiss>
                <citedIn count="1">
                   <cit did="2457" cid="3"/>
                </citedIn>
@@ -20042,6 +20048,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Trškan Danijela</author>
                <title>Učenje zgodovine z odkrivanjem in terenske metode dela</title>
                <page>59-64</page>
+               <cobiss>34543202</cobiss>
                <citedIn count="1">
                   <cit did="2453" cid="8"/>
                </citedIn>
@@ -20052,8 +20059,11 @@ londonskih govorih Jana Masaryka</title>
          <issue n="3-4">
             <pubPart>
                <author>Kač Liljana</author>
-               <title>Kako daleč je holokavst? Literatura holokavsta pri pouku nemščine in holokavst pri pouku zgodovine</title>
+               <title>Kako daleč je holokavst?</title>
+               <title>Literatura holokavsta pri pouku nemščine in holokavst pri pouku zgodovine</title>
+               <title>medkulturni pouk književnosti nemškega govornega področja - priložnost za medpredmetno povezovanje pouka nemščine in zgodovine</title>
                <page>43-48</page>
+               <cobiss>940156</cobiss>
                <citedIn count="1">
                   <cit did="2479" cid="8"/>
                </citedIn>
@@ -20077,6 +20087,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Potočnik D.</author>
                <title>Ekskurzije in pouk zgodovine</title>
                <page>65-68</page>
+               <cobiss>14058504</cobiss>
                <citedIn count="1">
                   <cit did="2453" cid="4"/>
                </citedIn>
@@ -20107,27 +20118,20 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Trškan Danijela</author>
                <title>Učenje z odkrivanjem in terenske metode dela</title>
+               <page>59-64</page>
+               <cobiss>34543202</cobiss>
                <citedIn count="1">
                   <cit did="2481" cid="5"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Trškan Danijela</author>
-               <title>Preverjanje in ocenjevanje znanja : z avtentičnimi nalogami pri pouku zgodovine</title>
+               <title>Preverjanje in ocenjevanje znanja</title>
+               <title>z avtentičnimi nalogami pri pouku zgodovine</title>
+               <page>31-37</page>
+               <cobiss>22187618</cobiss>
                <citedIn count="1">
                   <cit did="945" cid="14"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="2002">
-         <issue n="3-4">
-            <pubPart>
-               <author>Čokl Mirjana</author>
-               <title>Muzej in šola družno z roko v roki</title>
-               <page>64</page>
-               <citedIn count="1">
-                  <cit did="972" cid="3"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20157,6 +20161,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Trškan Danijela</author>
                <title>Metoda dela s slikovnim gradivom pri pouku zgodovine</title>
                <page>3-6</page>
+               <cobiss>16034146</cobiss>
                <citedIn count="1">
                   <cit did="2479" cid="13"/>
                </citedIn>
@@ -20177,7 +20182,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Troha Nevenka</author>
                <title>Slovensko/jugoslovansko-italijanska meja</title>
-               <page>34</page>
+               <page>29-36</page>
+               <cobiss>1236084</cobiss>
                <citedIn count="1">
                   <cit did="798" cid="1"/>
                </citedIn>
@@ -20200,31 +20206,16 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Vidovič Miklavčič Anka</author>
-               <title>Kratek prikaz korporativizma na Slovenskem 1929-1941 : prvi del</title>
-               <page>19-</page>
+               <title>Kratek oris korporativizma na Slovenskem 1929-1941</title>
+               <title>prvi del</title>
+               <page>16-19</page>
+               <cobiss>1310580</cobiss>
                <citedIn count="1">
                   <cit did="1387" cid="15"/>
                </citedIn>
             </pubPart>
          </issue>
          <issue n="3-4">
-            <pubPart>
-               <author>Brodnik Vilma</author>
-               <title>Možnosti uporabe videa pri aktivnem poučevanju in učenju zgodovine</title>
-               <page>12-15</page>
-               <citedIn count="1">
-                  <cit did="2457" cid="4"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Fujs Metka</author>
-               <title>Kako so se Prekmurci pred osemdesetimi leti odločili za Slovenijo</title>
-               <page>36-38</page>
-               <citedIn count="2">
-                  <cit did="2274" cid="95"/>
-                  <cit did="1451" cid="10"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Kalan Mira</author>
                <title>Pedagoške dejavnosti v Loškem muzeju</title>
@@ -20245,17 +20236,20 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Končan Bojan</author>
-               <title>Zgodovina na maturi</title>
-               <page>46</page>
+               <title>Zgodovina na maturi 2000</title>
+               <page>46-48</page>
+               <cobiss>126866176</cobiss>
                <citedIn count="1">
                   <cit did="3398" cid="9"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Pelikan Egon</author>
-               <title>Nacionalizem, komunizem, fašizem</title>
+               <title>Nacionalsocializem, komunizem, fašizem</title>
                <title>Skupne lastnosti totalitarnih družb in njihove temeljne različnosti</title>
+               <title>drugi del</title>
                <page>31-36</page>
+               <cobiss>110282496</cobiss>
                <citedIn count="1">
                   <cit did="700" cid="17"/>
                </citedIn>
@@ -20264,13 +20258,15 @@ londonskih govorih Jana Masaryka</title>
                <author>Trškan Danijela</author>
                <title>Metoda dela z besedili pri pouku zgodovine</title>
                <page>3</page>
+               <cobiss>126826496</cobiss>
                <citedIn count="1">
                   <cit did="2464" cid="10"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Vidovič Miklavčič Anka</author>
-               <title>Kratek prikaz korporativizma na Slovenskem 1929-1941 : drugi del</title>
+               <title>Kratek prikaz korporativizma na Slovenskem 1929-1941</title>
+               <title>drugi del</title>
                <page>33-36</page>
                <citedIn count="1">
                   <cit did="1387" cid="16"/>
@@ -20299,9 +20295,41 @@ londonskih govorih Jana Masaryka</title>
                <author>Pelikan Egon</author>
                <title>Nacionalizem, komunizem, fašizem</title>
                <title>Skupne lastnosti totalitarnih družb in njihove temeljne različnosti</title>
+               <title>prvi del</title>
                <page>16-22</page>
+               <cobiss>3177545</cobiss>
                <citedIn count="1">
                   <cit did="700" cid="16"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue n="3-4">
+            <pubPart>
+               <author>Čokl Mirjana</author>
+               <title>Muzej in šola družno z roko v roki</title>
+               <page>60-64</page>
+               <cobiss>110299136</cobiss>
+               <citedIn count="1">
+                  <cit did="972" cid="3"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Brodnik Vilma</author>
+               <title>Možnosti uporabe videa pri aktivnem poučevanju in učenju zgodovine</title>
+               <page>12-14</page>
+               <cobiss>110261760</cobiss>
+               <citedIn count="1">
+                  <cit did="2457" cid="4"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Fujs Metka</author>
+               <title>Kako so se Prekmurci pred osemdesetimi leti odločili za Slovenijo</title>
+               <cobiss>110288128</cobiss>
+               <page>36-38</page>
+               <citedIn count="2">
+                  <cit did="2274" cid="95"/>
+                  <cit did="1451" cid="10"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20397,6 +20425,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Gestrin Ferdo</author>
                <title>Tovorništvo</title>
                <page>3-9</page>
+               <cobiss>54002944</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="45"/>
                </citedIn>
@@ -20453,9 +20482,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Vodopivec Peter</author>
-               <title>Najnovejši zgodovinopisni pogledi na meščanstvo in zgodovino meščanstva</title>
-               <title>Novejši zgodovinopisni pogledi na meščanstvo in zgodovino meščanstva</title>
-               <page>8</page>
+              <title>Novejši zgodovinopisni pogledi na meščanstvo in zgodovino meščanstva</title>
+               <page>3-11</page>
+               <cobiss>53619200</cobiss>
                <citedIn count="2">
                   <cit did="3289" cid="61"/>
                   <cit did="2526" cid="39"/>
@@ -20463,8 +20492,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Weber Tomaž</author>
-               <title>Načrtovano (projektno) in celostno (integrirano) delo pri pouku zgodovine v razredu ali na terenu (muzeju, galeriji in arhivu)</title>
-               <page>39</page>
+               <title>Načrtovano (projektivno) in celostno (integrirano) delo pri pouku zgodovine v razredu ali na terenu (muzeju, galeriji in arhivu)</title>
+               <page>30-42</page>
+               <cobiss>53625344</cobiss>
                <citedIn count="1">
                   <cit did="1374" cid="3"/>
                </citedIn>
@@ -20498,6 +20528,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Weber T.</author>
                <title>Raziskujmo načine in namene stvarnega pouka pri zgodovinskem delu (ekskurzije)</title>
                <page>30-36</page>
+               <cobiss>53870592</cobiss>
                <citedIn count="1">
                   <cit did="2453" cid="11"/>
                </citedIn>
@@ -20508,8 +20539,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="3">
             <pubPart>
                <author>Škorjanc J.</author>
-               <title>Video pri pouku zgodovine  na Gimnaziji Celje - center</title>
-               <page>16</page>
+               <title>Video pri pouku zgodovine  na Gimnaziji Celje-center</title>
+               <page>16-19</page>
+               <cobiss>53585920</cobiss>
                <citedIn count="1">
                   <cit did="2458" cid="2"/>
                </citedIn>
@@ -20531,6 +20563,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Voje Ignacij</author>
                <title>Procesi migracij na južnoslovanskem prostoru pod turško oblastjo</title>
                <page>20-27</page>
+               <cobiss>53405696</cobiss>
                <citedIn count="1">
                   <cit did="250" cid="15"/>
                </citedIn>
@@ -20548,16 +20581,20 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Mlakar Boris</author>
-               <title>Kolaboracija in državljanjska vojna: kratek oris problematike s posebnim ozirom na Slovenijo 1941-1945</title>
+               <title>Kolaboracija in državljanska vojna</title>
+               <title>kratek oris problematike s posebnim ozirom na Slovenijo 1941-1945</title>
                <page>9-15</page>
+               <cobiss>53448448</cobiss>
                <citedIn count="1">
                   <cit did="1656" cid="6"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Weber Tomaž</author>
-               <title>Tabelska slika pri pouku zgodovine: soodvisnost med zasnovo učne enote-artikulacijo, zasnovo, zgodovinskega učbenika in tabelsko sliko</title>
+               <title>Tabelska slika pri pouku zgodovine</title>
+               <title>soodvisnost med zasnovo učne enote-artikulacijo, zasnovo, zgodovinskega učbenika in tabelsko sliko</title>
                <page>27-35</page>
+               <cobiss>53467648</cobiss>
                <citedIn count="1">
                   <cit did="3188" cid="7"/>
                </citedIn>
