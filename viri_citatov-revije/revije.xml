@@ -18255,11 +18255,10 @@ londonskih govorih Jana Masaryka</title>
          <issue n="36-37">
             <pubPart>
                <author>Brezigar Bojan</author>
-               <title>Avstrija pod dorbnogledom?</title>
-               <title>Avstrija pod drobnogledom? Saj ni res</title>
-               <title>Saj ni res....</title>
-               <page>122</page>
+               <title>Avstrija pod drobnogledom?</title>
+               <title>Saj ni zares....</title>
                <page>115-124</page>
+               <cobiss>7676749</cobiss>
                <citedIn count="2">
                   <cit did="212" cid="16"/>
                   <cit did="2825" cid="56"/>
@@ -18277,9 +18276,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kristen Samo</author>
                <title>Nekaj pogledov na vprašanje nadaljnje veljavnosti Avstrijske državne pogodbe in slovenskega nasledstva statusa sopodpisnice pogodbe</title>
-               <title>Nekaj pogledov na vprašanje nadaljne veljavnosti avstrijske državne pogodbe in slovenskega nasledstva statusa sopodpisnice pogodbe</title>
-               <title>Nekaj pogledov na vprašanje nadaljnje veljavnosti avstrijske državne pogodbe in slovenskega nasledstva statusa sopodpisnice pogodbe</title>
                <page>95-114</page>
+               <cobiss>7676493</cobiss>
                <citedIn count="3">
                   <cit did="2900" cid="82"/>
                   <cit did="211" cid="13"/>
@@ -18325,7 +18323,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>de Varennes Fernand</author>
                <title>Pravice jezikovnih manjšin z vidika mednarodnega prava</title>
-               <page>272</page>
+               <page>255-272</page>
+               <cobiss>7678541</cobiss>
                <citedIn count="2">
                   <cit did="2940" cid="174"/>
                   <cit did="3036" cid="160"/>
@@ -18335,6 +18334,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Žagar Mitja</author>
                <title>Ali je možno razkleniti začaran krog? Strategije in koncepti za upravljanje in razreševanje etničnih konfliktov (Is it Possible to Break the Vicious Circle? Strategies and Concepts for the Management and Resolution of Ethnic Conflict)</title>
                <page>11-32</page>
+               <cobiss>7675725</cobiss>
                <citedIn count="1">
                   <cit did="2746" cid="70"/>
                </citedIn>
@@ -18346,8 +18346,10 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Klemenčič Matjaž</author>
                <author>Kristen Samo</author>
-               <title>»Zapisniki ‘United Americans for Slovenia’: angleški izvirniki zapisnikov s sej ‘United Americans for Slovenia’ s slovenskim komentarjem</title>
+               <title>Zapisniki ‘United Americans for Slovenia’</title>
+               <title>angleški izvirniki zapisnikov s sej ‘United Americans for Slovenia’ s slovenskim komentarjem</title>
                <page>29–127</page>
+               <cobiss>7290445</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="95"/>
                </citedIn>
@@ -18366,7 +18368,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Brezigar Bojan</author>
                <title>Okvirni zakon za zaščito jezikovnih manjšin v Italiji</title>
-               <page>305-311</page>
+               <page>305-312</page>
+               <cobiss>7360077</cobiss>
                <citedIn count="1">
                   <cit did="679" cid="2"/>
                </citedIn>
@@ -18383,8 +18386,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Čurin Radovič Suzana</author>
-               <title>Program varovanja posebnih kulturnih pravic v Republiki Sloveniji od zametkov do feta 1999</title>
+               <title>Program varovanja posebnih kulturnih pravic v Republiki Sloveniji od zametkov do leta 1999</title>
                <page>159-196</page>
+               <cobiss>7358029</cobiss>
                <citedIn count="1">
                   <cit did="679" cid="5"/>
                </citedIn>
@@ -18449,9 +18453,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Šumi Irena</author>
-               <title>»… Ker živimo na tromeji«: Poznavanje, vrednotenje in raba slovenskih kodov pri starših otrok – slušateljev zasebnega pouka slovenščine v Kanalski dolini</title>
-               <title>„… Ker živimo na tromeji“: Poznavanje, vrednotenje in raba slovenskih kodov pri starših otrok – slušateljev zasebnega pouka slovenščine v Kanalski dolini</title>
-               <page>31–54</page>
+               <title>»… Ker živimo na tromeji«</title>
+               <title>Poznavanje, vrednotenje in raba slovenskih kodov pri starših otrok – slušateljev zasebnega pouka slovenščine v Kanalski dolini</title>
+               <page>31–56</page>
+               <cobiss>6862669</cobiss>
                <citedIn count="2">
                   <cit did="2733" cid="22"/>
                   <cit did="2857" cid="27"/>
@@ -18480,14 +18485,17 @@ londonskih govorih Jana Masaryka</title>
                <author>Bučar Bojko</author>
                <title>The Emergence of New States, Borders and Minorities</title>
                <page>15-29</page>
+               <cobiss>6100557</cobiss>
                <citedIn count="1">
                   <cit did="2829" cid="12"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Gärntner Heinz</author>
-               <title>State, Nation and Security in Central Europe: Democratic States without Nations</title>
+               <title>State, Nation and Security in Central Europe</title>
+               <title>Democratic States without Nations</title>
                <page>31-64</page>
+               <cobiss>6109005</cobiss>
                <citedIn count="1">
                   <cit did="2829" cid="13"/>
                </citedIn>
@@ -18505,8 +18513,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Novak Lukanovič Sonja</author>
-               <title>Manjšine v prostoru Alpe-Jadran in čezmejno sodelovanje -  predstavitev projekta</title>
+               <title>Manjšine v prostoru Alpe-Jadran in čezmejno sodelovanje</title>
+               <title>predstavitev projekta</title>
                <page>255-258</page>
+               <cobiss>6104141</cobiss>
                <citedIn count="1">
                   <cit did="2989" cid="1"/>
                </citedIn>
@@ -18515,8 +18525,8 @@ londonskih govorih Jana Masaryka</title>
                <author>Zupančič Jernej</author>
                <title>Koliko Slovencev je v Avstriji</title>
                <title>Koliko Slovencev je v Avstriji?</title>
-               <page>166-176</page>
                <page>167-176</page>
+               <cobiss>20653</cobiss>
                <citedIn count="3">
                   <cit did="2825" cid="124"/>
                   <cit did="207" cid="22"/>
@@ -18525,9 +18535,11 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Rešitev, ki je postala problem: Nacionalne države in večetnična realnost</title>
-               <title>Rešitev, ki je postala problem: Nacionalne države in večetnična realnost (A Solution that Became a Problem: Nation-States and multiethnic Reality)</title>
+               <title>Rešitev, ki je postala problem</title>
+               <title>Nacionalne države in večetnična realnost</title>
+               <addTitle>A Solution that Became a Problem: Nation-States and multiethnic Reality</addTitle>
                <page>7-13</page>
+               <cobiss>6100301</cobiss>
                <citedIn count="2">
                   <cit did="2829" cid="15"/>
                   <cit did="2746" cid="66"/>
@@ -18606,8 +18618,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Pan Cristoph</author>
-               <title>Stato di relazione di un diritto Europeo delle minoranze nazionali</title>
+               <title>Stato di realizzazione di un diritto europeo delle minoranze nazionali</title>
                <page>273-284</page>
+               <cobiss>4440653</cobiss>
                <citedIn count="1">
                   <cit did="3071" cid="75"/>
                </citedIn>
@@ -18615,7 +18628,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Roter Petra</author>
                <title>Razvoj mednarodnopravnega varstva manjšin od 17. stoletja do obdobja Društva narodov</title>
-               <page>208-209</page>
+               <page>193-216</page>
+               <cobiss>5595469</cobiss>
                <citedIn count="1">
                   <cit did="2888" cid="43"/>
                </citedIn>
@@ -18623,8 +18637,10 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Steinicke Ernst</author>
                <author>Zupančič Jernej</author>
-               <title>Koroški Slovenci v luči sodobnih prostorskih, socialnih in etničnih procesov / Die Kärntner Slowenen im Licht der gegenwärtigen räumlichen, sozialen und ethnischen Prozesse</title>
+               <title>Koroški Slovenci v luči sodobnih prostorskih, socialnih in etničnih procesov</title>
+               <addTitle>Die Kärntner Slowenen im Licht der gegenwärtigen räumlichen, sozialen und ethnischen Prozesse</addTitle>
                <page>111–126</page>
+               <cobiss>4439117</cobiss>
                <citedIn count="1">
                   <cit did="2733" cid="16"/>
                </citedIn>
@@ -18651,8 +18667,11 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Nekaj hipotez o kvadraturi kroga: Ustava SFRJ in proces osamosvajanja Republike Slovenije</title>
+               <title>Nekaj hipotez o kvadraturi kroga</title>
+               <title>Ustava SFRJ in proces osamosvajanja Republike Slovenije</title>
+               <title>etnična dimenzija osamosvajanja Slovenije</title>
                <page>231-260</page>
+               <cobiss>4437069</cobiss>
                <citedIn count="1">
                   <cit did="2382" cid="27"/>
                </citedIn>
@@ -18664,7 +18683,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Hafner Fink Mitja</author>
                <title>Medetnični odnosi v slovenskem etničnem prostoru</title>
+               <title>metodološka izhodišča, podatki, vzorec, indeksi</title>
                <page>15-27</page>
+               <cobiss>761421</cobiss>
                <citedIn count="1">
                   <cit did="2891" cid="13"/>
                </citedIn>
@@ -18681,8 +18702,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Komac Miran</author>
-               <title>Questi slavi bisogna sterminarli</title>
+               <title>Questi Slavi bisogna eliminarli</title>
                <title>Usoda Beneške Slovenije?</title>
+               <page>124-135</page>
+               <cobiss>773453</cobiss>
                <citedIn count="1">
                   <cit did="786" cid="1"/>
                </citedIn>
@@ -18713,7 +18736,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Zupančič Jernej</author>
                <title>Novejše spremembe v socialni strukturi koroških Slovencev</title>
-               <page>11 5–123</page>
+               <page>115–123</page>
+               <cobiss>773197</cobiss>
                <citedIn count="1">
                   <cit did="2729" cid="27"/>
                </citedIn>
@@ -18733,18 +18757,20 @@ londonskih govorih Jana Masaryka</title>
          <issue n="26-27">
             <pubPart>
                <author>Gombocz Wolfgang L.</author>
-               <title>Outlawed. The Republic of Austria's Permanent Violations of Human Rights in Styria</title>
+               <title>Outlawed</title>
+               <title>The Republic of Austria's Permanent Violations of Human Rights in Styria</title>
                <page>200-237</page>
+               <cobiss>443469</cobiss>
                <citedIn count="1">
                   <cit did="2893" cid="9"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kristen Samo</author>
-               <title>Nemci v Sloveniji poletu 1945 (Statistični oris)</title>
-               <title>Nemci v Sloveniji po letu 1945 (statistični oris)</title>
-               <page>276-286</page>
-               <page>277-286</page>
+               <title>Nemci v Sloveniji po letu 1945</title>
+               <title>statistični oris</title>
+               <page>276-287</page>
+               <cobiss>454221</cobiss>
                <citedIn count="2">
                   <cit did="2570" cid="6"/>
                   <cit did="2571" cid="7"/>
@@ -18755,13 +18781,9 @@ londonskih govorih Jana Masaryka</title>
                <author>Kržišnik-Bukić Vera</author>
                <author>Kržišnik-Bukič Vera</author>
                <author>Kržišnik Bukič Vera</author>
-               <title>O Slovencih na območju Jugoslavije izven Slovenije po Popisih prebivalstva 1921-1991</title>
                <title>O Slovencih na območju Jugoslavije izven Slovenije po popisih prebivalstva 1921-1991</title>
-               <title>O Slovencih na območju Jugoslavije izven Slovenije po popisih prebivalstva 1921 -1991</title>
                <page>172-199</page>
-               <page>180</page>
-               <page>189</page>
-               <page>180-181</page>
+               <cobiss>443213</cobiss>
                <citedIn count="5">
                   <cit did="2646" cid="17"/>
                   <cit did="1279" cid="22"/>
@@ -18824,6 +18846,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Plut Dušan</author>
                <title>Uvod</title>
+               <addTitle>Preface</addTitle>
+               <page>7-9</page>
+               <cobiss>6026594</cobiss>
                <citedIn count="1">
                   <cit did="2724" cid="4"/>
                </citedIn>
@@ -18848,9 +18873,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Šajnović Rajko</author>
-               <title>Ureditev statusa Romov kot narodnosti - osnutek amandmaja k Ustavi Republike Slovenije</title>
-               <title>Ureditev statusa Romov kot narodnosti - osnutek amandmaja k ustavi Republike Slovenije</title>
-               <page>131-32</page>
+               <title>Ureditev statusa Romov kot narodnosti</title>
+               <title>osnutek amandmaja k Ustavi Republike Slovenije</title>
+               <page>131-132</page>
                <citedIn count="2">
                   <cit did="2724" cid="6"/>
                   <cit did="2906" cid="24"/>
@@ -18874,13 +18899,6 @@ londonskih govorih Jana Masaryka</title>
                <cobiss>62824192</cobiss>
                <citedIn count="1">
                   <cit did="2985" cid="1"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Bučar France</author>
-               <title>Narodnost - manjšina ali skupnost</title>
-               <citedIn count="1">
-                  <cit did="2985" cid="2"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -18921,6 +18939,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Smith Anthony D.</author>
                <title>Social and cultural conditions of ethnic survival</title>
                <page>15-26</page>
+               <cobiss>7610114</cobiss>
                <citedIn count="1">
                   <cit did="2891" cid="39"/>
                </citedIn>
@@ -18963,6 +18982,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Komac Miran, Venosi Salvatore</author>
                <title>Kanalska dolina/Val Canale</title>
                <page>157-183</page>
+               <cobiss>2540109</cobiss>
                <citedIn count="1">
                   <cit did="857" cid="21"/>
                </citedIn>
@@ -18973,7 +18993,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="18">
             <pubPart>
                <author>Horvat Ludvik</author>
-               <title>The role of pre-school education and preparatoray classes in a bilingual environment and the child's cognitive and socio.emotional development</title>
+               <title>The Role of Pre-School Education and Preparatory Classes in a Bilingual Environment and the Child's Cognitive and Socio-Emotional Development</title>
+               <page>121-124</page>
+               <cobiss>13577728</cobiss>
                <citedIn count="1">
                   <cit did="2972" cid="14"/>
                </citedIn>
@@ -18982,8 +19004,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="19">
             <pubPart>
                <author>Beltram Peter</author>
-               <title>Množični mediji in narodne manjšine</title>
+               <title>Množični mediji in narodnostne manjšine</title>
                <page>229-240</page>
+               <cobiss>13746944</cobiss>
                <citedIn count="1">
                   <cit did="2717" cid="1"/>
                </citedIn>
@@ -19000,10 +19023,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Komac Miran</author>
-               <title>Narodnostna identiteta: Prispevek k multidisciplinarnem preučevanju narodnostnih manjšin</title>
-               <title>Narodnostna identiteta: Prispevek k multidisciplinarnemu preučevanju narodnostnih manjšin</title>
+               <title>Narodnostna identiteta</title>
+               <title>Prispevek k multidisciplinarnemu preučevanju narodnostnih manjšin</title>
                <page>55–68</page>
-               <page>55-68</page>
+               <cobiss>13723392</cobiss>
                <citedIn count="2">
                   <cit did="2855" cid="8"/>
                   <cit did="2891" cid="18"/>
@@ -19032,9 +19055,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="16">
             <pubPart>
                <author>Genorio Rado, Klemenčič Vladimir, Stergar Aleš</author>
-               <title>Vprašanje okrog interpretacije rezultatov jugoslovanskega popisa prebivalstva po narodnostih leta 1981</title>
-               <title>Vprašanje okrog interpretacije rezultatov jugoslovanskega popisa prebivalstva po narodnosti leta 1981</title>
+               <title>Vprašanja okrog interpretacije rezultatov jugoslovanskega popisa prebivalstva po narodnosti leta 1981</title>
                <page>147-156</page>
+               <cobiss>41750882</cobiss>
                <citedIn count="2">
                   <cit did="207" cid="3"/>
                   <cit did="2825" cid="65"/>
@@ -19443,13 +19466,17 @@ londonskih govorih Jana Masaryka</title>
                <author>Hartman Bruno</author>
                <title>Dr. Franc Kovačič (1867-1939)</title>
                <page>259-263</page>
+               <cobiss>950661</cobiss>
                <citedIn count="1">
                   <cit did="2443" cid="10"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Kosi Miha</author>
-               <title>Dežela, ki je ni bilo. Posavinje med Kranjsko in Štajersko od 11. do 15. stoletja</title>
+               <title>Dežela, ki je ni bilo</title>
+               <title>Posavinje med Kranjsko in Štajersko od 11. do 15. stoletja</title>
+               <page>527-546</page>
+               <cobiss>v</cobiss>
                <citedIn count="1">
                   <cit did="2588" cid="44"/>
                </citedIn>
@@ -19470,7 +19497,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Ravnikar Tone</author>
                <title>Posesti plemiške družine iz Orta na Savinjskem</title>
-               <page>565-583</page>
+               <page>565-584</page>
+               <cobiss>954757</cobiss>
                <citedIn count="1">
                   <cit did="2776" cid="30"/>
                </citedIn>
@@ -19625,8 +19653,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Članek Lamberta Ehrlicha "Opomin koroškim Slovencem za plebiscit"</title>
+               <title>Članek Lamberta Ehrlicha</title>
+               <title>"Opomin koroškim Slovencem za plebiscit"</title>
                <page>795-817</page>
+               <cobiss>791685</cobiss>
                <citedIn count="1">
                   <cit did="2274" cid="140"/>
                </citedIn>
@@ -19654,18 +19684,20 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Maček Jože</author>
-               <title>'Eisernes Vieh' im Eigentum einiger untersteirischer und kärntnerischer Kirchen und frommen Bruderschaften von 17. bis 19. Jahrhundert</title>
+               <title>"Eisernes Vieh" im Eigentum einiger untersteirischen und kärtnerischer Kirschen und frommen Bruderschaften von 17. bis 19. Jahrhundert</title>
+               <addTitle>"Železna živina" v lasti nekaterih spodnještajerskih in koroških cerkva in bratovščin od 17. do 19. stoletja</addTitle>
                <page>33-58</page>
+               <cobiss>222431488</cobiss>
                <citedIn count="1">
                   <cit did="1913" cid="33"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Štih Peter</author>
-               <title>Die Alpenslawen und ihre Nachbarn: Von der Konfrontation zur Integration</title>
-               <title>Die Alpenslawen und ihre Nachbarn: von der Konfrontation zu Integration</title>
-               <page>6</page>
-               <page>16</page>
+               <title>Die Alpenslawen und ihre Nachbarn</title>
+               <title>von der Konfrontation zu Integration</title>
+               <page>9-19</page>
+               <cobiss>28829538</cobiss>
                <citedIn count="2">
                   <cit did="2021" cid="33"/>
                   <cit did="2165" cid="35"/>
@@ -19683,17 +19715,19 @@ londonskih govorih Jana Masaryka</title>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Jesenšek Marko</author>
+               <author>Jesenšek Marko</author>a
                <title>Razvoj slovenske jezikovne politike nekoč in danes</title>
                <page>681-694</page>
+               <cobiss>13983496</cobiss>
                <citedIn count="1">
                   <cit did="1726" cid="11"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Mlinarič Jože</author>
-               <title>K življenju vetrinjskega cistercijana Lenarta Pacherneckerja</title>
-               <page>294</page>
+               <title>K življenjepisu vetrinjskega cistercijana Lenarta Pacherneckerja</title>
+               <title>pisca prve tiskane slovenske katoliške knjige (1574)</title>
+               <page>275-294</page>
                <citedIn count="1">
                   <cit did="2442" cid="13"/>
                </citedIn>
@@ -19701,7 +19735,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Vidovič Miklavčič Anka</author>
                <title>Društvo Slovenska straža</title>
-               <title>Društvo Slovenska straža (1910-1941)</title>
+               <page>439-476</page>
+               <cobiss>1923188</cobiss>
                <citedIn count="2">
                   <cit did="139" cid="8"/>
                   <cit did="1387" cid="4"/>
@@ -19728,6 +19763,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Curk J.</author>
                <title>O prebivalstvu Maribora med sredinama 18. in 19- stoletja</title>
                <page>43-78</page>
+               <cobiss>12176904</cobiss>
                <citedIn count="1">
                   <cit did="3459" cid="40"/>
                </citedIn>
@@ -19735,6 +19771,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Ferlež  Jerneja</author>
                <title>Prebivalstvo Maribora 1848–1991</title>
+               <page>79-125</page>
+               <cobiss>12177672</cobiss>
                <citedIn count="1">
                   <cit did="2814" cid="13"/>
                </citedIn>
@@ -19742,7 +19780,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Hozjan Andrej</author>
                <title>Mariborsko prebivalstvo do srede 18. stoletja</title>
-               <page>25</page>
+               <page>11-47</page>
+               <cobiss>12176136</cobiss>
                <citedIn count="1">
                   <cit did="263" cid="4"/>
                </citedIn>
@@ -19752,8 +19791,6 @@ londonskih govorih Jana Masaryka</title>
                <title>Prevrat v Mariboru 1918/19</title>
                <title>Prevrat v Mariboru 1918/1919</title>
                <page>179-228</page>
-               <page>179-227</page>
-               <page>209</page>
                <cobiss>12183304</cobiss>
                <citedIn count="6">
                   <cit did="2569" cid="4"/>
