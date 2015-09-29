@@ -20815,6 +20815,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Slabe Janja</author>
                <title>"Proč s šmarnico"</title>
+               <page>89-105</page>
+               <cobiss>2356084</cobiss>
                <citedIn count="1">
                   <cit did="1885" cid="11"/>
                </citedIn>
@@ -20822,6 +20824,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Černigoj Meta</author>
                <title>Boj za dvojezične napise v Istri v letu 1894</title>
+               <page>69-88</page>
+               <cobiss>236945920</cobiss>
                <citedIn count="2">
                   <cit did="3130" cid="8"/>
                   <cit did="2770" cid="47"/>
@@ -20901,7 +20905,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Pančur Andrej</author>
                <title>Slovenska imena za habsburški denar v 19. stoletju</title>
-               <page>64-65</page>
+               <page>58-72</page>
+               <cobiss>2020212</cobiss>
                <citedIn count="1">
                   <cit did="663" cid="32"/>
                </citedIn>
@@ -20909,7 +20914,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Čeč D.</author>
                <title>Kako velike so bile male kraje Matevža Kavčiča</title>
+               <title> o pomenu sodnih protokolov za razumevanje življenja posameznika in za izoblikovanje javne podobe zločinca v 18. stoletju</title>
                <page>32-52</page>
+               <cobiss>1056211</cobiss>
                <citedIn count="1">
                   <cit did="738" cid="3"/>
                </citedIn>
@@ -20930,9 +20937,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Jezernik Božidar</author>
                <title>Moč spomina, premoč pozabe</title>
-               <title>Moč spomina, premoč pozabe : zgodovina ljubljanskih »nacionalnih spomenikov«</title>
-               <page>6</page>
-               <page>16</page>
+               <title>zgodovina ljubljanskih »nacionalnih spomenikov«</title>
+               <page>5-18</page>
+               <cobiss>25652834</cobiss>
                <citedIn count="2">
                   <cit did="1790" cid="15"/>
                   <cit did="1794" cid="10"/>
@@ -20940,7 +20947,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Kosi Jernej</author>
-               <title>Jedel je prav malo, kakor je bila njegova navada. Pil je preveč</title>
+               <title>Jedel je prav malo, kakor je bila njegova navada. Pil je več</title>
+               <title>Ivan Cankar, slovenski bohem - prispevek k zgodovini bohemstva na Slovenskem</title>
                <citedIn count="1">
                   <cit did="3269" cid="4"/>
                </citedIn>
@@ -20949,24 +20957,30 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Batagelj Borut</author>
-               <title>"Ali naj dame kolesarijo?" : kolesarke in žensko telo na prehodu iz 19. v 20. stoletje</title>
+               <title>"Ali naj dame kolesarijo?"</title>
+               <title>kolesarke in žensko telo na prehodu iz 19. v 20. stoletje</title>
+               <page>40-53</page>
+               <cobiss>217023488</cobiss>
                <citedIn count="1">
                   <cit did="3365" cid="430"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>»Župnik je rekel, da bi bilo treba ženske zapečatiti«: vpliv prve svetovne vojne na ločitve zakonov</title>
+               <title>»Župnik je rekel, da bi bilo treba ženske zapečatiti«</title>
+               <title>vpliv prve svetovne vojne na ločitve zakonov</title>
                <page>72-82</page>
+               <cobiss>217033472</cobiss>
                <citedIn count="1">
                   <cit did="1735" cid="15"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Strle Urška</author>
-               <title>»Čemu ti ženski časopisi?«: žensko vprašanje in odnos do ženske v slovaških ženskih časopisih do razpada Habsburške monarhije</title>
-               <title>"Čemu ti ženski časopisi?"</title>
+               <title>»Čemu ti ženski časopisi?«</title>
+               <title>žensko vprašanje in odnos do ženske v slovaških ženskih časopisih do razpada Habsburške monarhije</title>
                <page>22-39</page>
+               <cobiss>217021696</cobiss>
                <citedIn count="2">
                   <cit did="1626" cid="47"/>
                   <cit did="2411" cid="15"/>
@@ -20974,9 +20988,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>'Ne bo je nikdar več nazaj.' : umor pri Celju ali prispevek k temni strani zgodovine možaželjnih žensk</title>
-               <title>Ne bo je nikdar več nazaj</title>
+               <title>'Ne bo je nikdar več nazaj'</title>
+               <title>umor pri Celju ali prispevek k temni strani zgodovine možaželjnih žensk</title>
                <page>101-122</page>
+               <cobiss>217035264</cobiss>
                <citedIn count="3">
                   <cit did="2815" cid="23"/>
                   <cit did="2016" cid="126"/>
@@ -20986,6 +21001,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Vittorelli N.</author>
                <title>Slovenka</title>
+               <title>o "prvem slovenskem ženskem časopisu" </title>
+               <page>12-21</page>
+               <cobiss>217019136</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="217"/>
                </citedIn>
@@ -20997,6 +21015,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Čuček Filip</author>
                <title>Slovenci, Slovaki in bosansko-hercegovske peripetije v letih 1875-1878</title>
+               <page>5-31</page>
+               <cobiss>10613557</cobiss>
                <citedIn count="4">
                   <cit did="1783" cid="47"/>
                   <cit did="1626" cid="60"/>
@@ -21008,9 +21028,10 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Premk Martin</author>
-               <title>Kmalu ne bo več poštenega konja ali goveda pri nas : nekaj podatkov o tihotapstvu čez Javornike</title>
-               <title>"Kmalu ne bo več poštenega konja pri nas": nekaj podatkov o tihotapstvu čez Javornike</title>
+               <title>Kmalo ne bo več poštenega konja ali goveda pri nas</title>
+               <title>nekaj podatkov o tihotapstvu čez Javornike</title>
                <page>55-65</page>
+               <cobiss>10616629</cobiss>
                <citedIn count="2">
                   <cit did="3290" cid="71"/>
                   <cit did="2187" cid="6"/>
@@ -21089,7 +21110,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Polajnar Janez</author>
-               <title>Jegličeva skrb za narod in njegovo naravnost</title>
+               <title>Jegličeva skrb za narod in njegovo nravnost</title>
+               <page>69-76</page>
+               <cobiss>10623797</cobiss>
                <citedIn count="1">
                   <cit did="454" cid="38"/>
                </citedIn>
@@ -21100,8 +21123,10 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Gašparič Jure</author>
-               <title>Knez Eulenburg na ljubljanskem dvoru : afera nesojenega ljubljanskega župana Antona Peska</title>
-               <title>Knez Eulenburg na ljubljanskem dvoru, Afera nesojenega ljubljanskega župana Antona Peska</title>
+               <title>Knez Eulenburg na ljubljanskem dvoru</title>
+               <title>afera nesojenega ljubljanskega župana Antona Peska</title>
+               <page>59-69</page>
+               <cobiss>1215348</cobiss>
                <citedIn count="2">
                   <cit did="551" cid="1"/>
                   <cit did="2016" cid="40"/>
@@ -21120,6 +21145,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Kerec D.</author>
                <title>Szécsijevi gospostvi Grad in Sobota v času turških vpadov in verskih sporov</title>
                <page>26-35</page>
+               <cobiss>121155328</cobiss>
                <citedIn count="1">
                   <cit did="264" cid="5"/>
                </citedIn>
@@ -21127,9 +21153,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kores Dolores</author>
                <title>Kratka krilca, alkohol &amp; Charleston</title>
-               <title>Kratka krilca, alkohol &amp; charleston</title>
                <page>52-58</page>
-               <page>52, 56</page>
+               <cobiss>121163776</cobiss>
                <citedIn count="3">
                   <cit did="2016" cid="72"/>
                   <cit did="1886" cid="9"/>
@@ -21140,6 +21165,8 @@ londonskih govorih Jana Masaryka</title>
                <author>Čeč D.</author>
                <author>Čeč Dragica</author>
                <title>Zakaj je Postojna hotela postati mesto?</title>
+               <page>36-51</page>
+               <cobiss>121156096</cobiss>
                <citedIn count="3">
                   <cit did="1999" cid="15"/>
                   <cit did="678" cid="22"/>
@@ -21161,8 +21188,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Stariha Gorazd</author>
-               <title>Trije tolovaji. Tri zgodbe o ljudeh, ki so kradli pa so jih ujeli, o sojenju ter o pravnem redu</title>
+               <title>Trije tolovaji</title>
+               <title>Tri zgodbe o ljudeh, ki so kradli pa so jih prijeli, o sojenju ter o pravnem redu</title>
                <page>47-58</page>
+               <cobiss>7621429</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="29"/>
                </citedIn>
@@ -21171,6 +21200,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Čoh Mateja</author>
                <title>V imenu slovenskega naroda: krivi!</title>
                <page>66-80</page>
+               <cobiss>7621941</cobiss>
                <citedIn count="1">
                   <cit did="752" cid="4"/>
                </citedIn>
@@ -21204,7 +21234,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kramberger Taja</author>
                <title>O meščanski morali in pravilih obnašanja v družinskem krogu</title>
-               <page>29-30</page>
+               <page>25-41</page>
+               <cobiss>5474101</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="112"/>
                </citedIn>
@@ -21255,7 +21286,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kuret Primož</author>
                <title>Delavska pevska društva na Slovenskem</title>
+               <title>oris njihove zgodovine v drugi polovici 19. in v začetku 20. stoletja</title>
                <page>68-82</page>
+               <cobiss>10982458</cobiss>
                <citedIn count="1">
                   <cit did="370" cid="20"/>
                </citedIn>
@@ -21265,13 +21298,16 @@ londonskih govorih Jana Masaryka</title>
                <title>Obrtna svoboda na zatožni klopi</title>
                <title>Konservativni nazori o obrtništvu v drugi polovici 19. stoletja na Slovenskem</title>
                <page>23-43</page>
+               <cobiss>909684</cobiss>
                <citedIn count="1">
                   <cit did="297" cid="3"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Pavlin Tomaž</author>
-               <title>"Pri nas je ta panoga še docela neznana"</title>
+               <title>"Pri nas je ta panoga sporta še docela neznana"</title>
+               <page>83-97</page>
+               <cobiss>10982714</cobiss>
                <citedIn count="1">
                   <cit did="1446" cid="4"/>
                </citedIn>
@@ -21301,8 +21337,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Kernel Davor</author>
-               <title>Pisma avstroogrskega vojaka 1917-1918</title>
+               <title>Pisma avstro-ogrskega vojaka 1917-1918</title>
                <page>57-76</page>
+               <cobiss>699252</cobiss>
                <citedIn count="1">
                   <cit did="1745" cid="7"/>
                </citedIn>
@@ -21347,7 +21384,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Grdina Igor</author>
                <title>Trompeta kliče ali Ivan in Klarica na manevrih</title>
-               <page>50-70</page>
+               <page>50-59</page>
+               <cobiss>8595554</cobiss>
                <citedIn count="2">
                   <cit did="244" cid="13"/>
                   <cit did="2838" cid="257"/>
@@ -21388,15 +21426,17 @@ londonskih govorih Jana Masaryka</title>
                <author>Kerec Darja</author>
                <title>Nekaj malega o Madžarih, grofih in še čem</title>
                <page>55-66</page>
+               <cobiss>76857344</cobiss>
                <citedIn count="1">
                   <cit did="3125" cid="15"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Ustavite, ustavite železnega slona! : prihod južne železnice v naše kraje</title>
-               <title>Ustavite, ustavite železnega slona: prihod južne železnice v naše kraje</title>
+               <title>Ustavite, ustavite železnega slona!</title>
+               <title>Prihod južne železnice v naše kraje</title>
                <page>14-19</page>
+               <cobiss>462196</cobiss>
                <citedIn count="2">
                   <cit did="854" cid="62"/>
                   <cit did="1999" cid="48"/>
@@ -21419,6 +21459,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Gestrin Ferdo</author>
                <title>Slovanske migracije</title>
                <page>5-13</page>
+               <cobiss>3863605</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="22"/>
                </citedIn>
@@ -21439,9 +21480,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Rustja Peter</author>
-               <title>Glasba svira "Hej slovani...":</title>
+               <title>"Glasba svira Hej slovani..."</title>
                <title>O plesni kulturi slovenskega meščanstva v Trstu v letih 1852-1897</title>
                <page>66-72</page>
+               <cobiss>3864629</cobiss>
                <citedIn count="1">
                   <cit did="388" cid="28"/>
                </citedIn>
@@ -21450,7 +21492,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Verginella Marta</author>
                <title>Prihod vlaka v Trst</title>
                <page>59-65</page>
-               <page>61-62</page>
+               <cobiss>3864373</cobiss>
                <citedIn count="3">
                   <cit did="1999" cid="54"/>
                   <cit did="678" cid="18"/>
@@ -21463,8 +21505,10 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Grdina Igor</author>
-               <title>Hrast se omaje in hrib, zvestoba Slovencu ne gane: Cesar Franc Jožef v slovenski literaturi</title>
+               <title>Hrast se omaje in hrib, zvestoba Slovencu ne gane</title>
+               <title>Cesar Franc Jožef v slovenski literaturi</title>
                <page>46-56</page>
+               <cobiss>3022434</cobiss>
                <citedIn count="1">
                   <cit did="1626" cid="75"/>
                </citedIn>
@@ -21499,7 +21543,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Možina Jože</author>
                <title>"Odpad k pravoslavju, to je k razkolništvu"</title>
-               <page>22</page>
+               <page>22-39</page>
+               <cobiss>72965888</cobiss>
                <citedIn count="1">
                   <cit did="2276" cid="8"/>
                </citedIn>
@@ -21539,13 +21584,10 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Šepetavc Anton</author>
-               <title>Pijem, torej sem Slovenc ali alkoholizem kot tabu in fenomen slovenstva</title>
                <title>Pijem, torej sem Slovenec</title>
-               <title>Pijem, torej sem Slovenec ali alkohol(izem) kot tabu in fenomen slovenstva</title>
-               <title>Pijem, torej sem Slovenec ali alkoholizem) kot tabu in fenomen slovenstva</title>
+               <title>ali alkohol(izem) kot tabu in fenomen slovenstva</title>
                <page>18-36</page>
-               <page>32-34</page>
-               <page>18-25</page>
+               <cobiss>8800825</cobiss>
                <citedIn count="7">
                   <cit did="1614" cid="11"/>
                   <cit did="1610" cid="11"/>
@@ -21582,9 +21624,9 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Al prav se piše Županova Micka ali Predsednikova hči</title>
-               <title>Al prav se piše županova Micka ali predsednikova hči: amaterski odri na Slovenskem 1945-1955</title>
                <title>Amaterski odri na Slovensekm 1945-1955</title>
-               <page>50</page>
+               <page>38-57</page>
+               <cobiss>8979257</cobiss>
                <citedIn count="2">
                   <cit did="244" cid="11"/>
                   <cit did="2838" cid="264"/>
@@ -21612,6 +21654,7 @@ obisku čeških visokošolcev v Celju leta 1899</title>
                <author>Cvirn Janez</author>
                <title>In kaj je historična antropologija?</title>
                <page>77-79</page>
+               <cobiss>10613045</cobiss>
                <citedIn count="1">
                   <cit did="740" cid="10"/>
                </citedIn>
@@ -21671,6 +21714,7 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Grdina Igor</author>
                <title>Brižinski spomeniki kot dialoški tekst</title>
+               <page>79-87</page>
                <citedIn count="1">
                   <cit did="1742" cid="20"/>
                </citedIn>
@@ -21678,8 +21722,9 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Kos Dušan</author>
                <title>Življenje, kot ga je pisala dota</title>
-               <title>Življenje, kot ga je pisala dota. Vloga poročnih prejemkov v življenju kranjskega in slovenještajerskega plemstva v 14. stoletju</title>
+               <title>Vloga poročnih prejemkov v življenju kranjskega in slovenještajerskega plemstva v 14. stoletju</title>
                <page>58-69</page>
+               <cobiss>8810809</cobiss>
                <citedIn count="3">
                   <cit did="2631" cid="160"/>
                   <cit did="2623" cid="118"/>
