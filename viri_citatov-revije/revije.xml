@@ -126,7 +126,8 @@
          <issue n="3">
             <pubPart correspPubId="2362">
                <author>Čeč Dragica</author>
-               <title>Roparska vlačuga: samopredstavitev in interpretacija predstavnikov revščine med kranjskimi elitami</title>
+               <title>Roparska vlačuga</title>
+               <title>samopredstavitev in interpretacija predstavnikov revščine med kranjskimi elitami</title>
                <citedIn count="1">
                   <cit did="2545" cid="4"/>
                </citedIn>
@@ -140,9 +141,8 @@
                <author>Pust Klemen</author>
                <author>Pust Klemen, Darovec Darko</author>
                <author>Darovec Darko</author>
-               <title>"...Tamen a una spia fuori...": Beneška obveščevalna dejavnost na območju vzhodnega Jadrana v letu 1499</title>
-               <title>»...Tarnen a una spia fuori...«. Beneška obveščevalna dejavnost na območju vzhodnega Jadrana v letu 1499</title>
-               <title>: »...Tamen a una spia fuori...«: Beneška obveščevalna dejavnost na območju vzhodnega Jadrana v letu 1499</title>
+               <title>"...Tamen a una spia fuori..."</title>
+               <title>Beneška obveščevalna dejavnost na območju vzhodnega Jadrana v letu 1499</title>
                <citedIn count="3">
                   <cit did="2320" cid="38"/>
                   <cit did="2414" cid="51"/>
@@ -782,7 +782,6 @@
          <issue n="2">
             <pubPart>
                <author>Bertoša Slaven</author>
-               <title>Doseljenci iz Kopra i njegove okolice u matičnim knjigama od 1613 do 1817</title>
                <title>Doseljenici iz Kopra i njegove okolice u matičnim knjigama od 1613 do 1817</title>
                <page>89-141</page>
                <page>389-414</page>
@@ -877,7 +876,7 @@
                <author>Povolo C.</author>
                <author>Povolo Claudio</author>
                <title>Uvod</title>
-               <title>Introduzione</title>
+               <addTitle>Introduzione</addTitle>
                <page>I-XXXVII</page>
                <citedIn count="2">
                   <cit did="226" cid="164"/>
@@ -1009,12 +1008,7 @@
             <pubPart>
                <author>Ferenc Tone</author>
                <title>Problem zahodne meje pri Slovencih 1941-1945</title>
-               <title>Problem zahodne meje pri Slovencih. Prispevki z mednarodne konference Pariška mirovna pogodba, nova jugoslovansko-italijanska meja in priključitev Primorske k Sloveniji</title>
                <page>299-310</page>
-               <page>302</page>
-               <page>303</page>
-               <page>302-303</page>
-               <page>300</page>
                <cobiss>175827</cobiss>
                <citedIn count="9">
                   <cit did="1782" cid="124"/>
@@ -1065,8 +1059,6 @@
                <author>Malnič A.</author>
                <author>Malnič Andrej</author>
                <title>Topografija spomina na novo mejo</title>
-               <title>Topografija spomina na vojno</title>
-               <page>341-342</page>
                <page>331-346</page>
                <cobiss>176339</cobiss>
                <citedIn count="3">
@@ -1087,14 +1079,8 @@
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Problem zahodne meje pri Slovencih 1941-1945</title>
-               <title>Problem zahodne meje pri Slovencih 1941-1945 (protirevolucionarni tabor)</title>
-               <title>Problem zahodne meje (protirevolucionarni tabor)</title>
-               <title>Problem zahodne meje pri Slovencih 1941-1945 (proti-revolucionarni tabor)</title>
-               <title>Protirevolucionarni tabor</title>
+               <title>(protirevolucionarni tabor)</title>
                <page>311-324</page>
-               <page>312</page>
-               <page>311-321</page>
-               <page>313</page>
                <cobiss>712820</cobiss>
                <citedIn count="12">
                   <cit did="1624" cid="85"/>
@@ -1135,7 +1121,6 @@
             <pubPart>
                <author>Pleterski Janko</author>
                <title>Predlog za ohranitev rapalske meje in delitev Slovenije</title>
-               <title>Predlog za ohranitev rapalske meje</title>
                <page>325-330</page>
                <cobiss>176083</cobiss>
                <citedIn count="4">
@@ -1148,10 +1133,9 @@
             <pubPart>
                <author>Strčić Petar</author>
                <author>Stričić Petar</author>
-               <title>Prilog o hrvatskom sudjelovanju u diplomatskim odlukama druge lugoslavije o zapadnim hrvatskim krajevima (1943.-1947.)</title>
-               <title>Prilog o hrvatskom sudjelovanju u diplomatskim odlukama druge Jugoslavije o zapadnih hrvatskima krajevima (1943-1947)</title>
+               <title>Prilog o hrvatskom sudjelovanju u diplomatskim odlukama druge Jugoslavije o zapadnih hrvatskima krajevima</title>
+               <title>(1943-1947)</title>
                <page>45-70</page>
-               <page>50</page>
                <cobiss>171987</cobiss>
                <citedIn count="2">
                   <cit did="2873" cid="326"/>
@@ -1170,11 +1154,9 @@
             </pubPart>
             <pubPart>
                <author>Troha Nevenka</author>
-               <title>Slovenski primorski duhovniki in njihov odnos do novih slovenskih meja (1945-1947)</title>
-               <title>Slovenski primorski duhovniki in njihov odnosdo novih slovenskih meja (1945-1947)</title>
+               <title>Slovenski primorski duhovniki in njihov odnos do novih slovenskih meja</title>
+               <title>(1945-1947)</title>
                <page>139-156</page>
-               <page>139-143</page>
-               <page>153</page>
                <cobiss>173267</cobiss>
                <citedIn count="4">
                   <cit did="1433" cid="13"/>
@@ -1195,9 +1177,6 @@
             <pubPart>
                <author>Vodušek Starič Jerca</author>
                <title>Poskus orisa učinkov jugoslovanske politike na diplomatsko dogajanje v obdobju 1945-1947</title>
-               <title>Poskus orisa učinkov jugoslovanske politike nadiplomatsko dogajanje v obdobju 1945-1947</title>
-               <page>94</page>
-               <page>92</page>
                <page>81-98</page>
                <cobiss>8257800</cobiss>
                <citedIn count="4">
@@ -1292,7 +1271,6 @@
             <pubPart>
                <author>Bianco Furio</author>
                <author>Bianco F.</author>
-               <title>Ribellismi, rivolte antifiscali e repressione della criminalità nell'Istria del '700</title>
                <title>Ribellismi, rivolte antifiscali e repressione della criminalità nell’Istria del ‘700</title>
                <page>149-164</page>
                <cobiss>1580081</cobiss>
@@ -1339,7 +1317,6 @@
                <title>(od smrti Gregorija Velikega do Rižanskega placita)</title>
                <addTitle>La chiesa istriana nel VII e nell'VIII secolo (dalla morte di Gregorio Magno al placito del Risano)</addTitle>
                <page>53-78</page>
-               <page>53-64</page>
                <cobiss>1559601</cobiss> 
                <citedIn count="4">
                   <cit did="2408" cid="22"/>
@@ -1397,9 +1374,7 @@
             <pubPart>
                <author>Štih Peter</author>
                <title>Goriški grofje in geneza Pazinske grofije</title>
-               <title>Goriški grofje in geneza pazinske grofije</title>
                <page>55-70</page>
-               <page>203</page>
                <cobiss>1564977</cobiss>
                <citedIn count="3">
                   <cit did="3423" cid="3"/>
@@ -1483,7 +1458,7 @@
             <pubPart>
                <author>Erjavec K., Poler Kovačič M.</author>
                <title>New Divisions - new Exclusions?</title>
-               <title>Slovenian and Croatian Nevvs Discourses about the Schengen Border</title>
+               <title>Slovenian and Croatian News Discourses about the Schengen Border</title>
                <page>495-506</page>
                <cobiss>30127453</cobiss>
                <citedIn count="1">
@@ -1511,11 +1486,9 @@
                <author>Medarić Z.</author>
                <author>Medarič Zorana</author>
                <author>Mendarič Zorana</author>
-               <title>Etnične manjsine in diskriminacija: Primer slovenske manjšine v Italiji in italijanske manjšine v Sloveniji</title>
-               <title>Etnične manjšine in diskriminacija. Primer slovenske manjšine v Italiji in italijanske manjšine v Sloveniji</title>
-               <title>Etnične manjšine in diskriminacija: primer slovenske manjšine v Italiji in italijanske manjšine v Sloveniji</title>
+               <title>Etnične manjšine in diskriminacija</title>
+               <title>primer slovenske manjšine v Italiji in italijanske manjšine v Sloveniji</title>
                <page>173-186</page>
-               <page>173-184</page>
                <cobiss>1638355</cobiss>
                <citedIn count="3">
                   <cit did="3049" cid="15"/>
@@ -1561,7 +1534,6 @@
                <author>Kalc Aleksej</author>
                <author>Kalc Aleksij</author>
                <title>Politika priseljevanja v Trstu v 18. stoletju</title>
-               <title>Politika priseljevanja v Trstu v 18.stoletju</title>
                <citedIn count="2">
                   <cit did="2198" cid="10"/>
                   <cit did="2536" cid="34"/>
@@ -1781,7 +1753,8 @@
             </pubPart>
             <pubPart>
                <author>Flego S.</author>
-               <title>Pejca v Lascu: zakaj in čemu?</title>
+               <title>Pejca v Lascu</title>
+               <title>zakaj in čemu?</title>
                <title>diskusija k članku T. Fabca)</title>
                <page>431-432</page>
                <cobiss>813011</cobiss>
@@ -1916,15 +1889,8 @@
                <title>(1907-2003)</title>
                <page>447-465</page>
                <cobiss>655827</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="426" cid="10"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lusa Stefano</author>
-               <title>In memoriam - Diego de Castro (1907-2003)</title>
-               <page>447-450</page>
-               <citedIn count="1">
                   <cit did="1782" cid="211"/>
                </citedIn>
             </pubPart>
@@ -1985,11 +1951,7 @@
             </pubPart>
             <pubPart>
                <author>Rahten Andrej</author>
-               <title>"Croatia alpestris" : vprašanje umestitve slovenskih dežel v hrvaške pravaške koncepte</title>
-               <title>Croatia Alpestris</title>
-               <title>Croatia alpestris</title>
-               <title>»Croatia Alpestris«: vprašanje umestitve slovenskih dežel v hrvaške pravaške koncepte</title>
-               <title>Â»Croatia alpestrisÂ«: Vprašanje umestitve slovenskih dežel v hrvaške pravaške koncepte</title>
+               <title>"Croatia alpestris"</title>
                <title>vprašanje umestitve slovenskih dežel v hrvaške pravaške koncepte</title>
                <page>1-10</page>
                <page>4</page>
@@ -2004,9 +1966,7 @@
             </pubPart>
             <pubPart>
                <author>Žitko Salvator</author>
-               <title>Slovensko-hrvaški politični odnosi v Istri v času ustavne dobe 1861 - 1918</title>
                <title>Slovensko-hrvaški politični odnosi v Istri v času ustavne dobe 1861-1914</title>
-               <page>38</page>
                <page>29-47</page>
                <cobiss>533971</cobiss>
                <citedIn count="2">
@@ -2018,9 +1978,8 @@
          <issue n="2">
             <pubPart>
                <author>Bajc Gorazd</author>
-               <title>Collaboration between Slovenes from the Primorska region, the Special Operations Executive and the Inter-Services Liaison Department after the occupation of Yugoslavia</title>
                <title>Collaboration between Slovenes from the Primorska region, the Special Operations Executive and the Inter-Services Liaison Department, after the occupation of Yugoslavia</title>
-               <title>Colaboration between Slovenes from the Primorska region, teh Special Operations Executive and the Interservices Liason Deoartment after the occupation of Yugoslavia (6.4. 1941)</title>
+               <title>(6 april 1941)</title>
                <page>363-384</page>
                <cobiss>523987</cobiss>
                <citedIn count="3">
@@ -2181,7 +2140,7 @@
             <pubPart>
                <author>Krmac Dean</author>
                <title>L'Istria nel primo censimento moderno: analisi statistico-demografica</title>
-               <title>L'Istria nel primo censimento moderno: analisi statistico-demografica.</title>
+               <title>analisi statistico-demografica</title>
                <page>343-370</page>
                <cobiss>458195</cobiss>
                <citedIn count="2">
@@ -2218,7 +2177,6 @@
                <author>Cunja R.</author>
                <author>Cunja Radovan</author>
                <title>Poznosrednjeveška in renesančna keramika v slovenski Istri</title>
-               <title>Poznosrednjeveška in renesančna keramika v Slovenski Istri</title>
                <page>63-76</page>
                <cobiss>318163</cobiss>
                <citedIn count="2">
@@ -2298,8 +2256,8 @@
             </pubPart>
             <pubPart>
                <author>Capogreco Carlo Spartaco</author>
-               <title>Una storia rimossa : L'internamento dei civili Jugoslavi da parte dell'Italia fascista (1941-'43)</title>
-               <title>Una storia rimossa: L'internamento dei civili jugoslavi da parte dellltalia fascista (1941—43)</title>
+               <title>Una storia rimossa</title>
+               <title>L'internamento dei civili jugoslavi da parte dellltalia fascista (1941—43)</title>
                <page>307-324</page>
                <cobiss>337619</cobiss>
                <citedIn count="2">
@@ -2401,10 +2359,8 @@
                <author>Kalc Aleksej</author>
                <author>Kale A.</author>
                <author>Kalc A.</author>
-               <title>Tržaško podeželje in policijski red iz leta 1777. Kratek sprehod med črko in stvarnostjo</title>
-               <title>Tržaško podeželje in policijski red iz leta 1777: kratek sprehod med črko in stvarnostjo</title>
-               <title>Tržaško podezelje in policijski red iz leta 1777. Kratek sprehod med črko in stvarnostjo</title>
                <title>Tržaško podeželje in policijski red iz leta 1777</title>
+               <title>kratek sprehod med črko in stvarnostjo</title>
                <page>271-288</page>
                <cobiss>2019564</cobiss>
                <citedIn count="4">
@@ -2580,9 +2536,8 @@
                <author>Kalc Aleksej</author>
                <author>Kalc A.</author>
                <author>Kalc Aleksij</author>
-               <title>Selitvena gibanja ob zahodnih mejah slovenskega etničnega prostora : teme in problemi</title>
-               <title>Selitvena gibanja ob zahodnih mejah slovenskega etničnega prostora: teme in problemi</title>
-               <title>Selitvena gibanja ob zahodnih mejah slovenskega etničnega prostora, teme in problemi</title>
+               <title>Selitvena gibanja ob zahodnih mejah slovenskega etničnega prostora</title>
+               <title>teme in problemi</title>
                <page>193-214</page>
                <page>199-214</page>
                <page>199</page>
@@ -2651,8 +2606,7 @@
                <author>Čoralić Lovorka</author>
                <author>Čoralič Lovorka</author>
                <title>Migracije sa istočnojadranske obale u Veneciju (15.-18. st.)</title>
-               <title>Migracije sa istočnojadranske obale u Veneciju (15.-18. st )</title>
-               <title>Migracije sa istočnojadranske obale u Veneciju (15. - 18. st)</title>
+               <title>(15.-18. st )</title>
                <page>185-192</page>
                <page>185-197</page>
                <cobiss>4680753</cobiss>
@@ -2688,9 +2642,7 @@
             <pubPart>
                <author>Kacin  Wohinz Milica</author>
                <author>Kacin Wohinz Milica</author>
-               <title>Značilnosti in oblike protifašističnega boja na Primorskem</title>
-               <title>Značilnosti in oblike protifašističnega odpora na Primorskem med dvema vojnama</title>
-               <page>16-17</page>
+               <title>Značilnosti in oblike protifašističnega boja na Primorskem med dvema vojnama</title>
                <page>15-22</page>
                <cobiss>332660</cobiss>
                <citedIn count="3">
@@ -2703,14 +2655,8 @@
                <author>Kalc Aleksej</author>
                <author>Kale Aleksej</author>
                <title>L' emigrazione slovena e croata dalla Venezia Giulia tra le due guerre ed il suo ruolo politico</title>
-               <title>Lemigrazione slovena e croata dalla Venezia Giulia tra le due guerre ed il suo ruolo politico</title>
-               <title>Lʹemigrazione slovena e croata dalla Venezia Giulia tra le due guerre ed il suo ruolo politico</title>
-               <title>L'emigrazione slovena e croata dalla Venezia Giulia tra le due guerre ed il suo ruolo politico</title>
-               <title>L'Emigrazione slovena e croata dalla Venezia Giulai tra le due guerre ed il suo ruolo politico</title>
                <page>23-60</page>
-               <page>28-29</page>
                <cobiss>5463373</cobiss>
-               <cobiss>20204</cobiss>
                <citedIn count="6">
                   <cit did="1782" cid="183"/>
                   <cit did="1511" cid="155"/>
@@ -2789,11 +2735,9 @@
             </pubPart>
             <pubPart>
                <author>Troha Nevenka</author>
-               <title>Odnos ljudi in politiÄ&#x8d;nih strank do zavezniÅ¡kih uprav v conah A in B Julijske krajine (1945-1947)</title>
-               <title>Odnos ljudi in političnih strank do zavezniških uprav v conah A in B Julijske krajine (1945-1947)</title>
-               <title>Odnos ljudi in političnih strank do zavezniških vojaških uprav v conah A in B Julijske krajine (1945-1947)</title>
+               <title>Odnos ljudi in političnih strank do zavezniških uprav v conah A in B Julijske krajine</title>
+               <title>(1945-1947)</title>
                <page>157-166</page>
-               <page>160</page>
                <cobiss>333684</cobiss>
                <citedIn count="4">
                   <cit did="654" cid="1"/>
@@ -3063,12 +3007,15 @@
             <pubPart>
                <author>Marin Leon</author>
                <title>Upravna in teritorialna razdelitev Slovenske Istre v zadnjih treh stoletjih</title>
+               <title>II. del</title>
                <page>159-174</page>
                <cobiss>410417</cobiss>
-               <citedIn count="3">
+               <citedIn count="5">
                   <cit did="2873" cid="284"/>
                   <cit did="952" cid="6"/>
                   <cit did="334" cid="195"/>
+                  <cit did="1624" cid="68"/>
+                  <cit did="3390" cid="7"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -3095,7 +3042,8 @@
             <pubPart>
                <author>Veronese Giuliano</author>
                <title>L'amministrazione giudiziaria penale nell'Istria veneta del settecento</title>
-               <title>Il funzionamento del Tribunale di Capodistria : (1750-1796)</title>
+               <title>Il funzionamento del Tribunale di Capodistria</title>
+               <title>(1750-1796)</title>
                <page>131-142</page>
                <cobiss>409137</cobiss>
                <citedIn count="1">
@@ -3166,12 +3114,8 @@
                <author>Marin Leon</author>
                <author>Marin L.</author>
                <title>Upravna in teritorialna razdelitev Slovenske Istre v zadnjih treh stoletjih</title>
-               <title>Upravna in teritorialna razdelitev slovenske Istre v zadnjih treh stoletjih</title>
-               <title>Upravna in teritorialna razdelitev Slovenske Istre v zadnjih treh stoletjih (I. del).</title>
-               <page>135-147</page>
+               <title>(I. del).</title>
                <page>135-148</page>
-               <page>135-148, 159-179</page>
-               <page>135-148, 159-174</page>
                <cobiss>35335424</cobiss>
                <citedIn count="8">
                   <cit did="3140" cid="6"/>
@@ -3186,7 +3130,6 @@
             </pubPart>
             <pubPart>
                <author>Marušič Branko</author>
-               <title>Prispevek k istrski topomastiki</title>
                <title>Prispevek k istrski toponomastiki</title>
                <page>225-236</page>
                <cobiss>35344896</cobiss>
@@ -3218,11 +3161,10 @@
             </pubPart>
             <pubPart>
                <author>Ostanek France</author>
-               <title>Slovensko-hrvatska jezikovna meja v Istri. Gradivo za obdobje od leta 1860 do 1956</title>
-               <title>Slovensko-hrvatska jezikovna meja v Istri : gradivo za obdobje od leta 1860 do 1956</title>
-               <title>Slovensko-hrvatska jezikovna meja v Istri: gradivo za obdobje od leta 1860-1956, I. in II del</title>
+               <title>Slovensko-hrvatska jezikovna meja v Istri</title>
+               <title>gradivo za obdobje od leta 1860 do 1956</title>
+               <title>I. in II del</title>
                <page>213-222</page>
-               <page>219-221</page>
                <page>177-196</page>
                <cobiss>999985</cobiss>
                <cobiss>35344640</cobiss>
@@ -3331,6 +3273,14 @@
                   <cit did="2542" cid="4"/>
                </citedIn>
             </pubPart>
+            <pubPart correspPubId="3121">
+               <author>Golec Boris</author>
+               <title>Zemljiški katastri 18. in 19. stoletja kot vir za stavbno, gradbeno in urbanistično zgodovino slovenskega ozemlja</title>
+               <title>Del 2</title>
+               <citedIn count="1">
+                  <cit did="3462" cid="39"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="2009">
@@ -3346,12 +3296,11 @@
          <issue n="2">
             <pubPart correspPubId="3159">
                <author>Golec Boris</author>
-               <title>Zemljiški katastri 18. in 19. stoletja kot vir za stavbno, gradbeno in urbanistično zgodovino slovenskega ozemlja. Del 1</title>
-               <title>Zemljiški katastri 18. in 19. stoletja kot vir za stavbno, gradbeno in urbanistično zgodovino slovenskega ozemlja. Del 2</title>
-               <citedIn count="3">
+               <title>Zemljiški katastri 18. in 19. stoletja kot vir za stavbno, gradbeno in urbanistično zgodovino slovenskega ozemlja</title>
+               <title>Del 1</title>
+               <citedIn count="2">
                   <cit did="3121" cid="6"/>
                   <cit did="3462" cid="38"/>
-                  <cit did="3462" cid="39"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -3390,7 +3339,6 @@
             <pubPart>
                <author>Golec Boris</author>
                <title>Kje na Rášici se je v resnici rodil Primož Trubar</title>
-               <title>Kje na Rašici se je v resnici rodil Primož Trubar</title>
                <page>209-240</page>
                <cobiss>28938541</cobiss>
                <citedIn count="3">
@@ -3544,7 +3492,7 @@
             <pubPart>
                <author>Gombač Maja</author>
                <title>Pomladna moda : Alojzij Paulin in prvi slovenski reklamni modni film</title>
-               <title>Pomladna moda. Alojzij Paulin in prvi slovenski reklamni modni film</title>
+               <title>Alojzij Paulin in prvi slovenski reklamni modni film</title>
                <page>375-380</page>
                <cobiss>666997</cobiss>
                <citedIn count="2">
@@ -3574,7 +3522,6 @@
             <pubPart>
                <author>Nared Andrej</author>
                <title>Seznami kranjskega plemstva in kranjskih deželnih stanov</title>
-               <title>Seznami kranjskega plemstva in kranjskih deženih stanov</title>
                <page>313-334</page>
                <cobiss>665973</cobiss>
                <citedIn count="2">
@@ -3661,9 +3608,8 @@
             </pubPart>
             <pubPart>
                <author>Kresal France</author>
-               <title>Zavarovalništvo in socialno zavarovanje na Slovenskem 1890-1990</title>
-               <title>Zavarovalništvo in socialno zavarovanje na Slovenskem : 1890-1990</title>
-               <page>145-153</page>
+               <title>Zavarovalništvo in socialno zavarovanje na Slovenskem</title>
+               <title>1890-1990</title>
                <page>145-152</page>
                <cobiss>463477</cobiss>
                <citedIn count="2">
@@ -3812,8 +3758,6 @@
             </pubPart>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
-               <title>Samoupravne pristojnosti ljubljanske in mariborske oblastne skupščine (1927-1929) in posvetovalne funkcije banskega sveta Dravske banovine</title>
-               <title>Samoupravne pristojnosti ljubljanske in mariborske oblastne skupščine (1927-1929) ter posvetovalne funkcij e banskega sveta Dravske banovine (1930- 1941)</title>
                <title>Samoupravne pristojnosti ljubljanske in mariborske oblastne skupščine (1927-1929) ter posvetovalne funkicje banskega sveta Dravske banovine</title>
                <page>145-155</page>
                <cobiss>296309</cobiss>
@@ -3888,7 +3832,6 @@
             <pubPart>
                <author>Golec Boris</author>
                <title>Iz zgodovine pisarniške slovenščine v 1. polovici 18. stoletja</title>
-               <title>Iz zgodovine pisarniške slovenščine v prvi polovici 18. stoletja</title>
                <page>87-108</page>
                <cobiss>217205</cobiss>
                <citedIn count="3">
@@ -3931,8 +3874,6 @@
             <pubPart>
                <author>Nared Andrej</author>
                <title>Arhiv kranjski deželnih stanov</title>
-               <title>Arhiv kranjskih deželnih stanov</title>
-               <page>5</page>
                <page>1-17</page>
                <cobiss>260981</cobiss>
                <citedIn count="4">
@@ -4007,8 +3948,8 @@
             </pubPart>
             <pubPart>
                <author>Tomažin Dakić Tatjana</author>
-               <title>Analiza brezposelnosti v Ljubljanski pokrajini : (1941-1943)</title>
-               <title>Analiza brezposelnosti v Ljubljanski pokrajini (1941 -1943)</title>
+               <title>Analiza brezposelnosti v Ljubljanski pokrajini</title>
+               <title>(1941 -1943)</title>
                <page>63-74</page>
                <cobiss>167029</cobiss>
                <citedIn count="2">
@@ -4200,14 +4141,8 @@
             <pubPart>
                <author>Troha Nevenka</author>
                <title>Uprava v Slovenskem primorju 1918-1954</title>
-               <title>Uprava v Slovenskem primorju 1918-1954 (Pregled)</title>
-               <title>Uprava v slovenskem primorju 1918-1954</title>
-               <title>(pregled)</title>
                <title>pregled</title>
                <page>88-102</page>
-               <page>98-100</page>
-               <page>93</page>
-               <page>90</page>
                <cobiss>481396</cobiss>
                <citedIn count="6">
                   <cit did="860" cid="134"/>
@@ -4263,7 +4198,6 @@
                <author>Golec Boris, Okoliš Stane</author>
                <author>Okoliš Stane</author>
                <title>Turjaški arhiv na Dunaju in njegovi slovenski dokumenti</title>
-               <title>Okoliš Stane : Turjaški arhiv na Dunaju in njegovi slovenski dokumenti</title>
                <page>118-133</page>
                <cobiss>66932224</cobiss>
                <citedIn count="4">
@@ -4313,13 +4247,8 @@
             </pubPart>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
-               <title>Država ureditev na jugoslovanskem ozemlju Slovenije 1929-1941</title>
-               <title>Državne ureditve na jugoslovanskem ozemlju Slovenije 1929- 1941</title>
                <title>Državne ureditve na jugoslovanskem ozemlju Slovenije 1929-1941</title>
-               <title>Državne ureditve na jugoslovanskem ozemlju Slovenije 1929-1941, v: Arhivi XIX , 1996.</title>
-               <page>39-50</page>
                <page>39-51</page>
-               <page>39-59</page>
                <cobiss>3171682</cobiss>
                <citedIn count="5">
                   <cit did="247" cid="84"/>
@@ -4362,10 +4291,8 @@
             </pubPart>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
-               <title>Državne ureditve na jugoslovanskem ozemlju Slovenije 1918- 1929</title>
                <title>Državne ureditve na jugoslovanskem ozemlju Slovenije 1918-1929</title>
-               <page>18-19</page>
-               <page>25</page>
+               <page>18-29</page>
                <cobiss>62405120</cobiss>
                <citedIn count="2">
                   <cit did="3211" cid="70"/>
@@ -4374,7 +4301,8 @@
             </pubPart>
             <pubPart>
                <author>Wettmann Andrea</author>
-               <title>Arhivski stiki z javnostjo v Nemčiji - težišče strokovne diskusije in nove zasnove v strokovnem izobraževanju</title>
+               <title>Arhivski stiki z javnostjo v Nemčiji</title>
+               <title>težišče strokovne diskusije in nove zasnove v strokovnem izobraževanju</title>
                <page>8-12</page>
                <cobiss>62404096</cobiss>
                <citedIn count="1">
@@ -4393,7 +4321,7 @@
             <pubPart>
                <author>Žižek Aleksander</author>
                <title>Celjska obrt v 18. stoletju v luči arhivskih dokumentov</title>
-               <title>Celjska obrt v 18. stoletju v luči arhivskih dokumentov (zbirka obrtnih listin(ZOL)) Zgodovinskega arhiva v Celju</title>
+               <title>(zbirka obrtnih listin(ZOL) Zgodovinskega arhiva v Celju)</title>
                <page>89-90</page>
                <cobiss>62424320</cobiss>
                <citedIn count="2">
@@ -4409,11 +4337,7 @@
                <author>Lazarević Žarko</author>
                <author>Lazarevič Žarko</author>
                <title>Zadružništvo v Sloveniji v dobi kapitalizma</title>
-               <title>Zadružništvo v Sloveniji v dobi kapitalizma (Sistemi in organizacije)</title>
-               <title>Zadružništvo v Sloveniji v dobi kapitalizma : sistemi in organizacije</title>
-               <title>Zadružništvo v Sloveniji v dobi kapitalizma: sistemi in organizacije</title>
                <title>Sistemi in organizacije</title>
-               <page>12-19</page>
                <page>12-18</page>
                <cobiss>51963648</cobiss>
                <citedIn count="6">
@@ -4775,7 +4699,6 @@
             <pubPart>
                <author>Polenšek Marko</author>
                <title>Organiziranost javne zdravstvene službe od konca 19. stoletja dalje</title>
-               <title>Organiziranost javne zdravstvene službe od konca 19. st. dalje</title>
                <page>25-27</page>
                <citedIn count="2">
                   <cit did="2610" cid="72"/>
@@ -4885,7 +4808,6 @@
             <pubPart>
                <author>Bezlaj Krevel Ljudmila</author>
                <author>Bezlaj Krevel Ljudomila</author>
-               <title>Upravna razdelitev Primorske s posebnim ozirom na občine v letih 1814— 1940</title>
                <title>Upravna razdelitev Primorske s posebnim ozirom na občine v letih 1814-1940</title>
                <page>37-41</page>
                <citedIn count="2">
@@ -5068,8 +4990,7 @@
             </pubPart>
             <pubPart correspPubId="2071">
                <author>Perovšek Jurij</author>
-               <title>Pogledi slovenske liberalne politike na oborožene sile Kraljevine SHS Jugoslavije 1918-1941</title>
-               <title>Pogledi slovenske liberalne politike na oborožene sile SHS/Kraljevine Jugoslavije1918–1941</title>
+               <title>Pogledi slovenske liberalne politike na oborožene sile Kraljevine SHS/Jugoslavije 1918-1941</title>
                <citedIn count="2">
                   <cit did="3213" cid="25"/>
                   <cit did="2817" cid="9"/>
@@ -5556,7 +5477,6 @@
             <pubPart>
                <author>Kresal France</author>
                <author>Kresal Franc</author>
-               <title>Struktura slovenskega gospodarstva 1851-1914</title>
                <title>Struktura slovenskega gospodarstva od 1852-1914</title>
                <page>118</page>
                <cobiss>512205439</cobiss>
@@ -5570,12 +5490,8 @@
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Politične razmere na Štajerskem v času vlade grofa Taaffeja</title>
-               <title>Politične razmere na Štajerskem v času vlade grofa Taaffeja (1879-1893)</title>
-               <title>Politične razmere na Štajerskem v času vlade grofa Taaffeja (1879–1893)</title>
-               <title>Politične razmere na Štajerskem v času vlade grofa Taffeja</title>
-               <page>9</page>
-               <page>11</page>
-               <page>8</page>
+               <title>(1879-1893)</title>
+               <page>7-12</page>
                <cobiss>512203391</cobiss>
                <citedIn count="6">
                   <cit did="1449" cid="14"/>
@@ -5625,12 +5541,7 @@
                <author>Berberih-Slana  Aleksandra</author>
                <author>Slana-Berberih Aleksandra</author>
                <title>Delovanje Demosa v parlamentu</title>
-               <title>Dlovanje Demosa v parlamentu</title>
-               <title>Delovanje emosa v parlamentu</title>
-               <page>564</page>
-               <page>544-545</page>
-               <page>544</page>
-               <page>568</page>
+               <page>537-584</page>
                <cobiss>124722944</cobiss>
                <citedIn count="4">
                   <cit did="1525" cid="1"/>
@@ -5675,7 +5586,7 @@
             <pubPart>
                <author>Kocutar Stane</author>
                <title>Demos in radio</title>
-               <title>demokratična opozicija Slovenije v jutranjih komentarjih Borisa Dolničarja, direkotrja radijskih programov RTV Ljubljana/kasneje RTV Slovenija</title>
+               <title>demokratična opozicija Slovenije v jutranjih komentarjih Borisa Dolničarja, direktorja radijskih programov RTV Ljubljana/kasneje RTV Slovenija</title>
                <page>673-687</page>
                <cobiss>124729600</cobiss>
                <citedIn count="1">
@@ -5716,8 +5627,7 @@
             </pubPart>
             <pubPart>
                <author>Prunk Janko</author>
-               <title>Demos - Instrument demokratičnega prehoda</title>
-               <title>Demos - instrument demokratičnega prehoda</title>
+               <title>Demos</title>
                <title>Instrument demokratičnega prehoda</title>
                <page>341-352</page>
                <cobiss>124716800</cobiss>
@@ -5810,11 +5720,8 @@
             </pubPart>
             <pubPart>
                <author>Šturm Lovro</author>
-               <title>Vključitev  Demosa v volilne postopke za nastop na volitvah leta 1990</title>
                <title>Vključitev Demosa v volilne postopke za nastop na volitvah leta 1990</title>
-               <page>330</page>
                <page>327-340</page>
-               <page>335</page>
                <cobiss>124715520</cobiss>
                <citedIn count="4">
                   <cit did="1521" cid="7"/>
@@ -19705,7 +19612,8 @@ londonskih govorih Jana Masaryka</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="2-3">a
+         <issue n="2-3">
+            <pubTitle>Hartmanov zbornik</pubTitle>
             <pubPart>
                <author>Friš Darko</author>
                <title>Aktivnosti mestnega odbora Orjune v Mariboru v prvem letu delovanja</title>
@@ -29175,6 +29083,7 @@ fronte v letu 1941</title>
                <author>Biber Dušan</author>
                <title>Jugoslovanski partizani  in Britanci v 1944. letu</title>
                <page>77-93</page>
+               <cobiss>1731956</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="142"/>
                </citedIn>
@@ -29237,6 +29146,7 @@ fronte v letu 1941</title>
                <author>Fischer jasna</author>
                <title>25 let dela Inštituta za zgodovino delavskega gibanja</title>
                <page>5-10</page>
+               <cobiss>1847156</cobiss>
                <citedIn count="2">
                   <cit did="573" cid="1"/>
                   <cit did="2299" cid="2"/>
@@ -29244,7 +29154,9 @@ fronte v letu 1941</title>
             </pubPart>
             <pubPart>
                <author>Fischer Jasna</author>
-               <title>Delavske tobačne tovarne v Ljubljani v letih 1871-1914</title>
+               <title>Delavke tobačne tovarne v Ljubljani v letih 1871-1914</title>
+               <page>11-62</page>
+               <cobiss>1840244</cobiss>
                <citedIn count="1">
                   <cit did="2866" cid="14"/>
                </citedIn>
@@ -29277,6 +29189,8 @@ fronte v letu 1941</title>
             <pubPart>
                <author>Biber Dušan</author>
                <title>Britanci o Stojadinoviću in Münchnu</title>
+               <page>101-119</page>
+               <cobiss>1729908</cobiss>
                <citedIn count="1">
                   <cit did="1611" cid="1"/>
                </citedIn>
@@ -30559,6 +30473,7 @@ fronte v letu 1941</title>
                <author>Beg Ante</author>
                <title>Črtice o bivši občini Vič</title>
                <page>26-31</page>
+               <cobiss>1099696478</cobiss>
                <citedIn count="1">
                   <cit did="1509" cid="6"/>
                </citedIn>
