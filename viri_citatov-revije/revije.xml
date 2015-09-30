@@ -23385,6 +23385,7 @@ Ljubljani na začetku stoletja</title>
                   <cit did="259" cid="45"/>
                   <cit did="288" cid="3"/>
                   <cit did="1288" cid="71"/>
+                  <cit did="2288" cid="184"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -24915,10 +24916,10 @@ slovenskega naroda po drugem zasedanju AVNOJ</title>
             </pubPart>
             <pubPart>
                <author>Kristen Samo</author>
-               <title>Ameriški tisk in Trst spomladi 1945 - konec
-nekega zavezništva</title>
-               <title>Ameriški tisk in Trst spomladi 1945 - konec nekega zavezništva</title>
-               <page>190</page>
+               <title>Ameriški tisk in Trst spomladi 1945</title>
+               <title>konec nekega zavezništva</title>
+               <page>101-112</page>
+               <cobiss>18874880</cobiss>
                <citedIn count="2">
                   <cit did="140" cid="36"/>
                   <cit did="460" cid="24"/>
@@ -24988,18 +24989,19 @@ nekega zavezništva</title>
             </pubPart>
             <pubPart>
                <author>Verginella Marta</author>
-               <title>Anna Millo: L'elite del potere a Trieste. Una biografia colletiva 1891- 1938</title>
+               <title>Anna Millo</title>
+               <title>L'elite del potere a Trieste. Una biografia collettiva 1891- 1938</title>
                <page>312-314</page>
+               <cobiss>96723</cobiss>
                <citedIn count="1">
                   <cit did="2636" cid="139"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Vidovič Miklavčič Anka</author>
-               <title>Pogledi na francosko revolucijo v tisku liberalne provenience 1929-1940</title>
                <title>Pogledi na francosko revolucijo v tisku liberalne provenience 1929–1940</title>
-               <title>Pogledi na francosko revolucijo v tisku liberalne provinience 1929-1940</title>
                <page>221-233</page>
+               <cobiss>13953026</cobiss>
                <citedIn count="3">
                   <cit did="2274" cid="189"/>
                   <cit did="2790" cid="61"/>
@@ -25024,9 +25026,8 @@ nekega zavezništva</title>
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Gospodarska politika celjske občine 1890-1914</title>
-               <page>446</page>
-               <page>435</page>
-               <page>437-438</page>
+               <page>435-450</page>
+               <cobiss>15119874</cobiss>
                <citedIn count="3">
                   <cit did="1783" cid="31"/>
                   <cit did="297" cid="9"/>
@@ -25036,8 +25037,10 @@ nekega zavezništva</title>
             <pubPart>
                <author>Ferluga J.</author>
                <author>Ferluga Jadran</author>
-               <title>Bizanc na Jadranu (6.-13. stoletje)</title>
+               <title>Bizanc na Jadranu</title>
+               <title>(6.-13. stoletje)</title>
                <page>363-386</page>
+               <cobiss>15099394</cobiss>
                <citedIn count="2">
                   <cit did="2640" cid="29"/>
                   <cit did="2639" cid="73"/>
@@ -25047,6 +25050,7 @@ nekega zavezništva</title>
                <author>Gantar Godina Irena</author>
                <title>Slovenski doktorji v Pragi 1882-1916</title>
                <page>451-455</page>
+               <cobiss>15120386</cobiss>
                <citedIn count="2">
                   <cit did="2193" cid="14"/>
                   <cit did="167" cid="15"/>
@@ -25122,7 +25126,8 @@ nekega zavezništva</title>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Bibliografija dr. Sergija Vilfana</title>
-               <page>5-15</page>
+               <page>9-15</page>
+               <cobiss>14558976</cobiss>
                <citedIn count="1">
                   <cit did="3539" cid="123"/>
                </citedIn>
@@ -25131,6 +25136,8 @@ nekega zavezništva</title>
                <author>Grdina Igor</author>
                <title>Kratka zgodovina Slovenske zemljoradniške in Slovenske republikanske stranke Antona Novačana</title>
                <title>Kratka zgodovina Slovenske zemljoradniške in slovenske republikanska stranke Antona Novačana</title>
+               <page>77-95</page>
+               <cobiss>14587136</cobiss>
                <citedIn count="6">
                   <cit did="3288" cid="8"/>
                   <cit did="2618" cid="153"/>
@@ -25172,6 +25179,8 @@ nekega zavezništva</title>
                <author>Švajncer Janez</author>
                <title>Vojaška organiziranost Slovencev v srbski vojski in nastanek slovenske vojske</title>
                <page>65-75</page>
+               <cobiss>14566144</cobiss>
+               <cobiss>142882</cobiss>
                <citedIn count="1">
                   <cit did="1662" cid="182"/>
                </citedIn>
@@ -25182,15 +25191,17 @@ nekega zavezništva</title>
                <author>Granda Stane</author>
                <title>Frankfurtske volitve v novomeškem volilnem okraju</title>
                <page>221-230</page>
+               <cobiss>7359746</cobiss>
                <citedIn count="1">
                   <cit did="2579" cid="28"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Marušič Branko</author>
-               <title>Italijanska okupacija Posočja (1915-1917)</title>
-               <title>Italijanska okupacija Posočja 1915-1917</title>
+               <title>Italijanska okupacija Posočja</title>
+               <title>1915-1917</title>
                <page>231-240</page>
+               <cobiss>129826</cobiss>
                <citedIn count="2">
                   <cit did="2624" cid="29"/>
                   <cit did="1662" cid="164"/>
@@ -25213,7 +25224,8 @@ nekega zavezništva</title>
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Volilne mahinacije v nacionalnih bojih na Štajerskem</title>
-               <page>413</page>
+               <page>412-416</page>
+               <cobiss>15324672</cobiss>
                <citedIn count="2">
                   <cit did="2770" cid="62"/>
                   <cit did="1783" cid="45"/>
@@ -25223,15 +25235,17 @@ nekega zavezništva</title>
                <author>Pirjevec Jože</author>
                <title>Italijanska politika do nastajajoče Jugoslavije</title>
                <page>387-391</page>
+               <cobiss>15320832</cobiss>
                <citedIn count="1">
                   <cit did="1511" cid="288"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Schödl Günther</author>
-               <title>Paul Samassa : a Biographic Contribution to the
-Prehistory of Extreme Nationalism in Germany and Austria</title>
+               <title>Paul Samassa</title>
+               <title>a Biographic Contribution to the Prehistory of Extreme Nationalism in Germany and Austria</title>
                <page>365-385</page>
+               <cobiss>298018</cobiss>
                <citedIn count="1">
                   <cit did="109" cid="33"/>
                </citedIn>
@@ -25254,6 +25268,8 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Dolinar F. M.</author>
                <title>Cerkvenoupravna ureditev ilirskih provinc 1809-1813</title>
+               <page>507-511</page>
+               <cobiss>16946688</cobiss>
                <citedIn count="1">
                   <cit did="3526" cid="7"/>
                </citedIn>
@@ -25275,9 +25291,10 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             </pubPart>
             <pubPart>
                <author>Štih Peter</author>
-               <title>Recenzija</title>
-               <title>Zgodovina Langobardov</title>
+               <title>Pavel Diakon (Paulus Diaconus), Zgodovina Langobardov</title>
+               <title>(Historia Langobardorum, [prevedli Fran Bradač, Bogo Grafenauer, Kajetan Gantar; opombe napisala Bogo Grafenauer, Kajetan Gantar; spremna besedila Bogo Grafenauer], Maribor : Obzorja 1988. 422 strani</title>
                <page>621-627</page>
+               <cobiss>16953600</cobiss>
                <citedIn count="1">
                   <cit did="1205" cid="42"/>
                </citedIn>
@@ -25287,6 +25304,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Žvanut Maja</author>
                <title>Korespondenca dveh kranjskih plemičev iz sredine 16. stoletja</title>
                <page>477-506</page>
+               <cobiss>16946432</cobiss>
                <citedIn count="7">
                   <cit did="3105" cid="61"/>
                   <cit did="1735" cid="100"/>
@@ -25305,15 +25323,18 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Grafenauer Bogo</author>
                <title>O "(ne)znanstveni fantastiki" v Zgodovinskem časopisu</title>
                <title>Odprto pismo prvega glavnega in odgovornega urednika Zgodovinskega časopisa sedanjemu uredniku</title>
-               <page>123</page>
+               <page>121-123</page>
+               <cobiss>14881280</cobiss>
                <citedIn count="1">
                   <cit did="425" cid="105"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Granda Stane</author>
-               <title>Toussaint Hočevar (25. 6. 1927–21. 4. 1987)</title>
+               <title>Toussaint Hočevar</title>
+               <title>(25. 6. 1927–21. 4. 1987)</title>
                <page>129-131</page>
+               <cobiss>14882304</cobiss>
                <citedIn count="1">
                   <cit did="2304" cid="10"/>
                </citedIn>
@@ -25332,28 +25353,21 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Akademik prof. dr. Fran Zwitter</title>
-               <page>161-162</page>
+               <title>Bela Cerkev, 24.10.1905 - Ljubljana, 14.4.1988</title>
                <page>159-163</page>
-               <citedIn count="2">
+               <cobiss>14797824</cobiss>
+               <citedIn count="3">
                   <cit did="219" cid="10"/>
                   <cit did="217" cid="3"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Grafenauer Bogo</author>
-               <title>In memoriam</title>
-               <title>Akademik prof. dr. Fran Zwitter</title>
-               <page>160</page>
-               <citedIn count="1">
                   <cit did="223" cid="3"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Vilfan Sergij</author>
-               <title>Organizacija sodišč leta 1849 in narodnostne meje (zlasti na Štajerskem in Koroškem)</title>
-               <title>Organizacija sodišč leta 1849 in narodne meje</title>
-               <page>183</page>
-               <page>165-168</page>
+               <title>Organizacija sodišč leta 1849 in narodnostne meje</title>
+               <title>(zlasti na Štajerskem in Koroškem)</title>
+               <page>165-188</page>
+               <cobiss>14798336</cobiss>
                <citedIn count="2">
                   <cit did="297" cid="16"/>
                   <cit did="3282" cid="3"/>
@@ -25386,6 +25400,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Rotar Janez</author>
                <title>Viri Trubarjevega poimenovanja dežel in ljudstev in njegova dediščina</title>
                <page>315-361</page>
+               <cobiss>14696448</cobiss>
                <citedIn count="2">
                   <cit did="3465" cid="97"/>
                   <cit did="2578" cid="9"/>
@@ -25406,6 +25421,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Kuzmič Franc</author>
                <title>Prispevki k revolucionarnemu vrenju v Prekmurju leta 1918</title>
                <page>555-560</page>
+               <cobiss>4295682</cobiss>
                <citedIn count="1">
                   <cit did="2574" cid="13"/>
                </citedIn>
@@ -25424,6 +25440,8 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Rozman Franc</author>
                <title>Stališče slovenske socialne demokracije do balkanskih vojn</title>
+               <page>514-527</page>
+               <cobiss>4294658</cobiss>
                <citedIn count="1">
                   <cit did="629" cid="2"/>
                </citedIn>
@@ -25432,28 +25450,21 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Simoniti Vasko</author>
                <title>Slovenska historiografija o turških vpadih in obrambi pred njimi</title>
                <page>505-516</page>
+               <cobiss>4294146</cobiss>
                <citedIn count="2">
                   <cit did="2414" cid="57"/>
                   <cit did="2543" cid="30"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Žvanut Maja</author>
-               <title>»To ie moia vola.« Po sledeh nekega testamenta iz 17. stoletja</title>
-               <citedIn count="1">
-                  <cit did="2288" cid="184"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+            </issue>
       </year>
       <year n="1987">
          <issue n="1">
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Finančno poslovanje družine Marka Vincenca Lipolda v letih 1867-1871 in 1878-1883</title>
-               <title>Finančno poslovanje družine Marka Vincenca Lipolda v letih 1867-1883</title>
-               <page>130</page>
                <page>115-137</page>
+               <cobiss>1807157</cobiss>
                <citedIn count="3">
                   <cit did="678" cid="24"/>
                   <cit did="118" cid="19"/>
@@ -25464,14 +25475,17 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Gestrin Ferdo</author>
                <title>Karta obsoške poti iz 17. stoletja</title>
                <page>97-101</page>
+               <cobiss>776008</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="39"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Grafenauer Bogo</author>
-               <title>Slovensko-romanska meja: ločnica in povezava</title>
+               <title>Slovensko-romanska meja</title>
+               <title>ločnica in povezava</title>
                <page>5-18</page>
+               <cobiss>18795874</cobiss>
                <citedIn count="1">
                   <cit did="1419" cid="12"/>
                </citedIn>
@@ -25480,6 +25494,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Holz Eva</author>
                <title>Cestne povezave Goriške in Kranjske v 19. stoletju</title>
                <page>109-114</page>
+               <cobiss>13653549</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="68"/>
                </citedIn>
@@ -25502,7 +25517,9 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Jacques Le Goff, Za drugaÄ&#x8d;en srednji vek</title>
+               <title>Jacques Le Goff, Za drugačen srednji vek</title>
+               <page>187-189</page>
+               <cobiss>446580</cobiss>
                <citedIn count="1">
                   <cit did="618" cid="4"/>
                </citedIn>
@@ -25510,9 +25527,8 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Štih Peter</author>
                <title>Goriški grofje in oblikovanje pokrajine ob Soči in na Krasu v deželo</title>
-               <title>Goriški grofje in oblikovnaje pokrajine ob srednji Soči in Krasu v deželo</title>
                <page>41-47</page>
-               <page>41</page>
+               <cobiss>14799458</cobiss>
                <citedIn count="4">
                   <cit did="2647" cid="359"/>
                   <cit did="2583" cid="177"/>
@@ -25563,11 +25579,9 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             </pubPart>
             <pubPart>
                <author>Melik Vasilij</author>
-               <title>A.A. Auersperg in slovenski narod</title>
                <title>A. A. Auersperg in slovenski narod</title>
-               <title>Anotn Aleksander Auersperg in slovenski narod</title>
                <page>285-295</page>
-               <page>287</page>
+               <cobiss>8868001</cobiss>
                <citedIn count="3">
                   <cit did="2838" cid="183"/>
                   <cit did="2623" cid="144"/>
@@ -25576,9 +25590,10 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             </pubPart>
             <pubPart>
                <author>Pahor Milan</author>
-               <title>Opcije v Kanalski dolini 1939-1942</title>
-               <title>Opcije v Kanalski dolini (1939-1942)</title>
+               <title>Opcije v Kanalski dolini</title>
+               <title>(1939-1942)</title>
                <page>321-328</page>
+               <cobiss>8868001</cobiss>
                <citedIn count="2">
                   <cit did="2551" cid="8"/>
                   <cit did="440" cid="51"/>
@@ -25597,7 +25612,6 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Voje Ignac</author>
                <author>Voje Ignacij</author>
                <title>Odkupovanje Furlanov iz turškega ujetništva</title>
-               <title>Odkupovanje Furlanov iz turškega ujetnistva</title>
                <page>257-264</page>
                <citedIn count="4">
                   <cit did="2320" cid="49"/>
@@ -25610,6 +25624,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Šumrada Janez</author>
                <title>O popravilu bovške ceste na prelomu iz 14. v 15. stoletje</title>
                <page>313-319</page>
+               <cobiss>8148996</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="184"/>
                </citedIn>
@@ -25617,12 +25632,20 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Žvanut Maja</author>
                <title>Knjižnice na Kranjskem v 16. stoletju</title>
-               <title>Knjižnice na nekdanjem Kranjskem v 16. stoletju</title>
-               <page>277-283</page>
-               <page>281</page>
+               <page>277-288</page>
+               <cobiss>8108548</cobiss>
                <citedIn count="2">
                   <cit did="2693" cid="10"/>
                   <cit did="1227" cid="45"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Kos Dušan</author>
+               <title>Bela krajina v poznem srednjem veku</title>
+               <page>217-255</page>
+               <cobiss>26669101</cobiss>
+               <citedIn count="1">
+                  <cit did="2588" cid="39"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -25647,33 +25670,37 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             <pubPart>
                <author>Kos Dušan</author>
                <title>Bela krajina v poznem srednjem veku</title>
-               <page>417</page>
-               <page>217-255</page>
-               <citedIn count="2">
+               <title>(nadaljevanje in konec razprave)</title>
+               <page>409-437</page>
+               <cobiss>110018816</cobiss>
+               <citedIn count="1">
                   <cit did="2611" cid="12"/>
-                  <cit did="2588" cid="39"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Milutinovič K.</author>
                <title>Vuk i Kopitar</title>
                <page>493-516</page>
+               <cobiss>110037760</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="228"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Voje Ignacij</author>
-               <title>Utrjevanje slovenskih mest za obrambo pred turškimi vpadi</title>
-               <page>475</page>
+               <title>Utrjevanje slovenskih mest za obrambo pred turškimi napadi</title>
+               <page>473-492</page>
+               <cobiss>110035200</cobiss>
                <citedIn count="1">
                   <cit did="261" cid="24"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Vovko Andrej</author>
-               <title>Ustanovitev 'Yugoslav Emergency Council' v New Yorku: zapisi</title>
+               <title>Ustanovitev 'Yugoslav Emergency Council' v New Yorku</title>
+               <title>zapisi</title>
                <page>523–527</page>
+               <cobiss>6447368</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="96"/>
                </citedIn>
@@ -25684,7 +25711,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
                <author>Bratož Rajko</author>
                <title>Razvoj zgodnjekrščanskih raziskav v Sloveniji in Istri v letih 1976-1986</title>
                <page>681-698</page>
-               <page>690</page>
+               <cobiss>17179746</cobiss>
                <citedIn count="2">
                   <cit did="759" cid="13"/>
                   <cit did="2408" cid="11"/>
@@ -25701,7 +25728,7 @@ Prehistory of Extreme Nationalism in Germany and Austria</title>
             </pubPart>
             <pubPart>
                <author>Žontar Primož</author>
-               <title>Objavljanje zakonov in drugih splošnih predpisov</title>
+               <title>Objavljanje zakonov in drugih splošnih predpisov, veljavnih na slovenskem ozemlju, od srede 18. stoletja do leta 1941</title>
                <page>655-674</page>
                <citedIn count="1">
                   <cit did="2064" cid="24"/>
