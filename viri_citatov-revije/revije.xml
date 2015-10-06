@@ -17714,8 +17714,6 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Brezigar Bojan</author>
                <title>Zakon za zaščito slovenske manjšine v Italiji</title>
-               <title>Zakon za zaščito slovenske manjšine v Italji</title>
-               <page>110-177</page>
                <page>110-117</page>
                <cobiss>8216653</cobiss>
                <citedIn count="4">
@@ -17728,10 +17726,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Gstettner Peter</author>
                <title>Kärntner Minderheitenpolitik als Mittel zum Zweck</title>
-               <title>Kärntner Minderheitenpolitik als Mittel zum Zweck : wie Haider seinen "Freistaat" errichtet und damit die Republik beschädigt</title>
-               <title>Kärtner minderheitenpolitik als Mittel zum Zweck</title>
+               <title>wie Haider seinen "Freistaat" errichtet und damit die Republik beschädigt</title>
                <page>118-129</page>
-               <page>143-164</page>
                <cobiss>8216909</cobiss>
                <citedIn count="4">
                   <cit did="3036" cid="38"/>
@@ -17753,10 +17749,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Kristen Samo</author>
-               <title>Trieste al Trst? Britanska ozemeljska jamstva Kraljevini Jugoslaviji in njihov zapozneli in kontroverzni odmev v historiografiji in memoaristiki</title>
-               <title>Trieste ali Trst? Britanska ozemeljska jamstva Kraljevini Jugoslaviji in njihov zapozneli in kontroverzni odmev v historiografiji in memoaristiki</title>
+               <title>Trieste ali Trst?</title>
+               <title>Britanska ozemeljska jamstva Kraljevini Jugoslaviji in njihov zapozneli in kontroverzni odmev v historiografiji in memoaristiki</title>
                <page>260-300</page>
-               <page>288</page>
                <cobiss>8220237</cobiss>
                <citedIn count="2">
                   <cit did="2919" cid="29"/>
@@ -17854,7 +17849,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Medved Felicita</author>
                <title>Politika migracij in azila v transgresiji Evropske unije</title>
-               <title>Migration and asylum policy in the transgression of the EU</title>
+               <addTitle>Migration and asylum policy in the transgression of the EU</addTitle>
                <page>207-226</page>
                <cobiss>7678029</cobiss>
                <citedIn count="1">
@@ -17967,9 +17962,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kosin Marko</author>
                <title>Slovenska manjšina v slovensko-italijanskih odnosih</title>
-               <title>Slovenska manjšina v slovensko-italijanskih odnosih (kronološki pregled za obdobje od osamosvojitve 1991 do konca 1995)</title>
+               <title>(kronološki pregled za obdobje od osamosvojitve 1991 do konca 1995)</title>
                <page>57-97</page>
-               <page>59</page>
                <cobiss>6864717</cobiss>
                <citedIn count="2">
                   <cit did="2940" cid="79"/>
@@ -18003,11 +17997,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Wakounig Vladimir</author>
                <author>Wakounig Wladimir</author>
                <title>Manjšinsko šolstvo na Koroškem</title>
-               <title>Manjšinsko šolstvo na Koroškem. Trendi - vprasanja - Perspektive</title>
-               <title>Manjšinsko šolstvo na Koroškem: trendi - vprašanja - perspektive</title>
-               <title>Manjšinsko šolstvo na koroškem: trendi - vprašanja - perspektive</title>
                <title>Trendi-vprašanja-perspektive</title>
-               <page>124</page>
                <page>121-130</page>
                <cobiss>6868301</cobiss>
                <citedIn count="5">
@@ -18031,12 +18021,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Kulturna dejavnost italijanske in madžarske avtohtone narodne skupnosti, romske skupnosti, drugih manjšinskih etničnih skupnosti in priseljencev v Republiki Sloveniji : opredelitve, načela, cilji in strategije slovenske manjšinske kulturne politike</title>
-               <title>Kulturna dejavnost italijanske in madžarske avtohtone narodne skupnosti, romske skupnosti, drugih manjšinskih etničnih skupnosti in priseljencev v Republiki Sloveniji: Opredelitve, načela, cilji in strategije slovenske manjšinske kulturne politike</title>
                <title>Kulturna dejavnost italijanske in madžarske avtohtone narodne skupnosti, romske skupnosti, drugih manjšinskih etničnih skupnosti in priseljencev v Republiki Sloveniji</title>
-               <page>157-191</page>
+               <title>Opredelitve, načela, cilji in strategije slovenske manjšinske kulturne politike</title>
                <page>155-192</page>
-               <page>173-174</page>
                <cobiss>6863437</cobiss>
                <citedIn count="3">
                   <cit did="3072" cid="299"/>
@@ -18069,8 +18056,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Komac Miran</author>
-               <title>Srbska skupnost v Sloveniji. Statistična slika</title>
-               <title>Srbska skupnost v Sloveniji: statistična slika</title>
+               <title>Srbska skupnost v Sloveniji</title>
+               <title>Statistična slika</title>
                <page>73-115</page>
                <cobiss>6101325</cobiss>
                <citedIn count="2">
@@ -18090,7 +18077,6 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Zupančič Jernej</author>
-               <title>Koliko Slovencev je v Avstriji</title>
                <title>Koliko Slovencev je v Avstriji?</title>
                <page>167-176</page>
                <cobiss>20653</cobiss>
@@ -18130,7 +18116,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Nećak Lük Albina</author>
                <author>Nečak Lük Albina</author>
                <title>Jezik kot kazalec stanja medetničnih odnosov</title>
-               <title>Language as an indicator of Interethnic relations</title>
+               <addTitle>Language as an indicator of Interethnic relations</addTitle>
                <page>11-24</page>
                <cobiss>5589325</cobiss>
                <citedIn count="3">
@@ -18214,13 +18200,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Constitutions in Multi-Ethnic Reality</title>
-               <title>Constitutions of multi-ethnic reality</title>
                <title>Constitutions in multi-ethnic reality</title>
-               <title>Constitutions in Multiethnic Reality</title>
-               <page>145-152</page>
                <page>143–164</page>
-               <page>143-164</page>
                <cobiss>4436813</cobiss>
                <citedIn count="7">
                   <cit did="2852" cid="17"/>
@@ -18281,9 +18262,7 @@ londonskih govorih Jana Masaryka</title>
                <author>Kržišnik Bukić Vera</author>
                <author>Kržišnik-Bukić Vera</author>
                <title>Slovenski gostinci in pomen slovenskih gostiln v Zagrebu v 30-ih letih 20. stoletja</title>
-               <page>136-142</page>
                <page>134-142</page>
-               <page>136-141</page>
                <cobiss>773709</cobiss>
                <citedIn count="3">
                   <cit did="3072" cid="164"/>
@@ -18362,8 +18341,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Munda Hirnök Katalin</author>
                <author>Munda Hirnök Katarina</author>
-               <title>Vzroki in razvoj poljedelskega zaposlovanja med porabskimi Slovenci</title>
-               <title>Vzroki in razvoj poljedelskega sezonskega zaposlovanja med porabskimi Slovenci na Madžarskem</title>
+               <title>Vzroki in razvoj poljedelskega zaposlovanja med porabskimi Slovenci na Madžarskem</title>
                <page>238-248</page>
                <cobiss>443725</cobiss>
                <citedIn count="2">
@@ -18382,11 +18360,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Žagar Mitja</author>
-               <title>Position and protection of ethnic minorities in the constitution of The Republic of Slovenia: Basic information</title>
-               <title>Position and protection of ethnic minorities in the constitution of the Republic of Slovenia: Basic information</title>
-               <title>Position and protection of ethnic minorities in the constitution of the Republic of Slovenia: basic information</title>
-               <page>10-11</page>
-               <page>9-11</page>
+               <title>Position and protection of ethnic minorities in the constitution of the Republic of Slovenia</title>
+               <title>Basic information</title>
                <page>5-20</page>
                <cobiss>428621</cobiss>
                <citedIn count="5">
@@ -18529,13 +18504,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Klemenčič Vladimir</author>
-               <title>Državna meja na območju SR Slovenije in obmejna območja kot geografski fenomen</title>
                <title>Državna meja na območju SR Slovenije in obmejna območja kot nov geografski fenomen</title>
-               <title>Državna meja na območju SR Slovenije kot poseben geografski fenomen</title>
                <page>57-79</page>
-               <page>57-59</page>
-               <page>57–81</page>
-               <page>57-81</page>
                <cobiss>2538317</cobiss>
                <citedIn count="5">
                   <cit did="2825" cid="82"/>
@@ -18720,7 +18690,6 @@ londonskih govorih Jana Masaryka</title>
          <issue n="13-14">
             <pubPart>
                <author>Domej Teodor</author>
-               <title>O stikih med manjšino in matico iz zornega kota Koroških Slovencev</title>
                <title>O stikih med manjšino in matico iz zornega kota koroških Slovencev</title>
                <page>223-226</page>
                <cobiss>713428</cobiss>
@@ -18773,9 +18742,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Nećak Dušan</author>
                <title>Študijska komisija za probleme slovenske narodnostne skupine na Koroškem</title>
-               <title>Študijska komisija za probleme slovenske narodne skupnosti na Koroškem</title>
-               <page>111-119</page>
                <page>111-121</page>
+               <cobiss>712148</cobiss>
                <citedIn count="3">
                   <cit did="858" cid="10"/>
                   <cit did="2825" cid="97"/>
@@ -18793,10 +18761,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Türk Danilo</author>
-               <title>Študija OZN o pravicah narodnih manjšin</title>
                <title>Študija OZN o pravicah pripadnikov manjšin</title>
                <page>13-32</page>
-               <page>13</page>
                <citedIn count="3">
                   <cit did="3036" cid="153"/>
                   <cit did="2940" cid="165"/>
@@ -18806,10 +18772,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Zorn Tone</author>
                <title>Leto dni avstrijskega zakona o narodnih skupnostih</title>
-               <title>Leto dni zakona o narodnostnih skupnostih</title>
-               <page>131</page>
-               <page>127</page>
                <page>123-136</page>
+               <cobiss>712404</cobiss>
                <citedIn count="3">
                   <cit did="208" cid="18"/>
                   <cit did="248" cid="23"/>
@@ -18831,7 +18795,6 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Domini Mirijana</author>
                <author>Domini Mirjana</author>
-               <title>Diskreditacija gradišćanskih Hrvata kao manjine u Avstriji</title>
                <title>Diskreditacija gradiščanskih Hrvata kao narodne manjine u Austriji</title>
                <page>181-194</page>
                <citedIn count="2">
@@ -18841,10 +18804,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Klemenčič Vladimir</author>
-               <title>Kritika uradnih avstrijskih popisov prebivalstva  v letih 1951, 1961, 1971 glede na slovensko manjšino in slovenski občevalni jezik</title>
                <title>Kritika uradnih avstrijskih popisov prebivalstva v letih 1951, 1961 in 1971 glede na slovensko manjšino in slovenski občevalni jezik</title>
-               <title>Kritika uradnih avstrijskih popisov prebivalstva v letih 1951. 1961 in 1971 glede na slovensko manjšino in slovenski občevalni jezik</title>
                <page>101-124</page>
+               <cobiss>710868</cobiss>
                <citedIn count="3">
                   <cit did="207" cid="9"/>
                   <cit did="1715" cid="19"/>
@@ -18948,12 +18910,9 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Klemenčič Vladimir</author>
-               <title>Kritični pretres avstrijskega popisa 1951 z ozirom na jezikovno strukturo na Koroškem</title>
-               <title>Pretres avstrijskega popisa prebivalstva 1951 z ozirom na jezikovno strukturo prebivalstva na Koroškem</title>
-               <title>Pretres avstrijskega popisa prebivalstva leta 1951 z ozirom na jezikovno strukturo prebivalstva na Koroškem</title>
-               <title>Pretres avstrijskega popisa prebivalstva 1951 z ozirom na jezikovnim strukturo prebivalstva na Koroškem</title>
-               <title>Razprave in gradivo</title>
+               <title>Kritični pretres avstrijskega popisa 1951 z ozirom na jezikovno strukturo prebivalstva na Koroškem</title>
                <page>101-182</page>
+               <cobiss>41751906</cobiss>
                <citedIn count="5">
                   <cit did="2729" cid="10"/>
                   <cit did="2825" cid="87"/>
@@ -19050,9 +19009,7 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Jugoslovanska nacionalna stranka in narodno vprašanje v letih 1933-1935</title>
                <title>Jugoslovanska nacionalna stranka in narodno vprašanje v letih 1933–1935</title>
-               <page>633-649</page>
                <page>633-650</page>
                <cobiss>955269</cobiss>
                <citedIn count="3">
@@ -19142,7 +19099,6 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Čuček Filip</author>
-               <title>Kraji na Slovenskem Štajerskem in Maribor med leti 1750 in 1918</title>
                <title>Kraji na slovenskem Štajerskem in Maribor med leti 1750 in 1918</title>
                <page>387</page>
                <cobiss>856197</cobiss>
@@ -19356,7 +19312,6 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Hartman Bruno</author>
-               <title>Prevrat v Mariboru 1918/19</title>
                <title>Prevrat v Mariboru 1918/1919</title>
                <page>179-228</page>
                <cobiss>12183304</cobiss>
@@ -19408,11 +19363,9 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Slovenska politika in vprašanje državne ureditve med zasedanjem Ustavodajne skupščine Kraljevine SHS (1920-1921)</title>
-               <title>Slovenska politika in vprašanje državne ureditve v času zasedanja Ustavodajne skupščine Kraljevine SHS (1920-1921)</title>
+               <title>Slovenska politika in vprašanje državne ureditve v času zasedanja Ustavodajne skupščine Kraljevine SHS</title>
+               <title>(1920-1921)</title>
                <page>431-445</page>
-               <page>451-478</page>
-               <page>439-440</page>
                <cobiss>1405044</cobiss>
                <citedIn count="4">
                   <cit did="2618" cid="194"/>
@@ -19424,9 +19377,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Ratej Matej, Žebot Franjo</author>
                <author>Ratej Mateja</author>
-               <title>Poslanec v Narodni skupščini v Beogradu v letih 1922–1929</title>
-               <title>Franjo Žebot - poslanec v Narodni skupščini v Beogradu v letih 1922-1929</title>
-               <title>Franjo Žebot - poslanec v Narodni skupščini v letih 1922-1929</title>
+               <title>Franjo Žebot</title>
+               <title>poslanec v Narodni skupščini v Beogradu v letih 1922-1929</title>
                <page>355-382</page>
                <cobiss>11745288</cobiss>
                <citedIn count="3">
@@ -19532,7 +19484,6 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1-2">
             <pubPart>
                <author>Brodnik Vilma</author>
-               <title>Posodabljanje učnih načrtov za zgodovino</title>
                <title>Posodabljanje učnih načrtov za zgodovino v gimnaziji</title>
                <page>24-36</page>
                <cobiss>1044092</cobiss>
@@ -19953,8 +19904,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Vidovič Miklavčič Anka</author>
-               <title>Kratek oris razvoja in dejavnosti Prosvetne zveze (PZ) v letih 1929–1941: razvoj krščansko-socialnih organizacij in njihovih glasil</title>
-               <title>Kratek oris razvoja in dejavnosti prosvetne zveze (PZ) v letih 1929-19841 : razvoj krščansko socialnih organizacij in njihovih glasil</title>
+               <title>Kratek oris razvoja in dejavnosti Prosvetne zveze (PZ) v letih 1929–1941</title>
+               <title>razvoj krščansko-socialnih organizacij in njihovih glasil</title>
                <page>10-17</page>
                <cobiss>62098176</cobiss>
                <citedIn count="2">
@@ -20072,8 +20023,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Berzelak Stane</author>
                <author>Berzelak S.</author>
-               <title>Družbenopolitični prelom in ravnanje z zgodovino v šoli (na primeru Slovenije). Referat na bilateralnem seminarju za učitelje zgodovine iz Avstrije in Slovenije v novembru 1993)</title>
-               <title>Družbenopolitični prelom in ravnanje z zgodovino v šoli (na priona Slovenije): referat na bilateralnem seminarju za učitelje zgodovine iz Avstrije in Slovenije v novembru 1993</title>
+               <title>Družbenopolitični prelom in ravnanje z zgodovino v šoli (na primeru Slovenije)</title>
+               <title>Referat na bilateralnem seminarju za učitelje zgodovine iz Avstrije in Slovenije v novembru 1993</title>
                <page>53-56</page>
                <cobiss>53778944</cobiss>
                <citedIn count="2">
@@ -20181,9 +20132,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart correspPubId="3135">
                <author>Golec Boris</author>
-               <title>Trplenje "celjskega Wertherja", tosvetne skrbi njegovega sina in uvod v zaton njunega rodu...</title>
-               <title>Trpljenje »celjskega Wertherja«, tosvetne skrbi njegovega sina in uvod v zaton njunega rodu. Spomini dveh Valvasorjevih potomcev baronov Dienerspergov s Celjskega</title>
-               <title>Trpljenje »celjskega Wertherja«, tosvetne skrbi njegovega sina in uvod v zaton njunega rodu. Spomini dveh Valvasoijevih potomcev baronov Dienerspergov s Celjskega</title>
+               <title>Trpljenje »celjskega Wertherja«, tosvetne skrbi njegovega sina in uvod v zaton njunega rodu</title>
+               <title>Spomini dveh Valvasorjevih potomcev baronov Dienerspergov s Celjskega</title>
                <citedIn count="3">
                   <cit did="2947" cid="2"/>
                   <cit did="3158" cid="4"/>
@@ -20429,7 +20379,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart correspPubId="663">
                <author>Pančur Andrej</author>
                <title>Ena država, en denar?</title>
-               <title>Ena država, en denar? Zelo kratka, vendar toliko bolj burna zgodovina enotnih državnih valut na Slovenskem</title>
+               <title>Zelo kratka, vendar toliko bolj burna zgodovina enotnih državnih valut na Slovenskem</title>
                <citedIn count="2">
                   <cit did="2460" cid="12"/>
                   <cit did="1509" cid="82"/>
@@ -20482,7 +20432,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Čeč D.</author>
                <title>Kako velike so bile male kraje Matevža Kavčiča</title>
-               <title> o pomenu sodnih protokolov za razumevanje življenja posameznika in za izoblikovanje javne podobe zločinca v 18. stoletju</title>
+               <title>o pomenu sodnih protokolov za razumevanje življenja posameznika in za izoblikovanje javne podobe zločinca v 18. stoletju</title>
                <page>32-52</page>
                <cobiss>1056211</cobiss>
                <citedIn count="1">
@@ -20556,7 +20506,7 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>'Ne bo je nikdar več nazaj'</title>
+               <title>"Ne bo je nikdar več nazaj"</title>
                <title>umor pri Celju ali prispevek k temni strani zgodovine možaželjnih žensk</title>
                <page>101-122</page>
                <cobiss>217035264</cobiss>
@@ -20621,10 +20571,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Režek Mateja</author>
                <title>Neodvisnost sodstva na preizkušnji</title>
-               <title>Neodvisnost sodstva na preizkušnji : pravosodje in sistem politične kazenske represije v Jugoslaviji (1948-1959)</title>
                <title>Pravosodje in sistem politične kazenske represije v Jugoslaviji (1948-1959)</title>
-               <page>88</page>
-               <page>88-89</page>
+               <page>81-92</page>
                <cobiss>1336436</cobiss>
                <citedIn count="4">
                   <cit did="791" cid="2"/>
@@ -20747,7 +20695,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Golec Boris</author>
-               <title>»Le tega je uržoh Jožef cesar ta, Bog dej, de bi biu skorej en drugi...«: (Ne)znano slovensko pesništvo od smrti Marije Terezije do dunajskega kongresa</title>
+               <title>»Le tega je uržoh Jožef cesar ta, Bog dej, de bi biu skorej en drugi...«</title>
+               <title>(Ne)znano slovensko pesništvo od smrti Marije Terezije do dunajskega kongresa</title>
                <page>19-46</page>
                <cobiss>7620917</cobiss>
                <citedIn count="1">
@@ -20787,7 +20736,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Himmelreich Bojan</author>
                <title>Preskrbljenost Celja z živili v kriznih časih</title>
-               <title>Preskrbljenost Celja z živili v kriznih časih : mikroštudija razmer v času po prvi in pred drugo svetovno vojno</title>
+               <title>mikroštudija razmer v času po prvi in pred drugo svetovno vojno</title>
                <page>51-64</page>
                <cobiss>121132032</cobiss>
                <citedIn count="2">
@@ -20811,8 +20760,6 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kregar Tone</author>
                <title>Milan Hodža in Srednja Evropa</title>
-               <title>Milan Hodža in srednja Evropa</title>
-               <page>84</page>
                <page>76-91</page>
                <cobiss>5477429</cobiss>
                <citedIn count="2">
@@ -20823,9 +20770,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Matić Dragan</author>
                <title>Sokolski eksces ali pretep v Šantlovi veži</title>
-               <title>Sokolski izgred ali pretep v Šantlovi veži</title>
                <page>13-24</page>
-               <page>13</page>
                <cobiss>5473845</cobiss>
                <citedIn count="3">
                   <cit did="1886" cid="10"/>
@@ -20839,10 +20784,9 @@ londonskih govorih Jana Masaryka</title>
                <author>Gombač Maja</author>
                <author>Ilich Maja</author>
                <author>Gombač  Maja</author>
-               <title>Nekaj o modi v slovenskem časopisju na prelomu stoletja (1895-1915)</title>
-               <title>Nekaj o modi v Slovenskem časopisju na prelomu stoletja. 1895 -1915</title>
+               <title>Nekaj o modi v slovenskem časopisju na prelomu stoletja</title>
+               <title>1895 -1915</title>
                <page>98-108</page>
-               <page>98</page>
                <cobiss>10982970</cobiss>
                <citedIn count="4">
                   <cit did="3289" cid="96"/>
@@ -20914,7 +20858,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Lavrenčič Aleksander</author>
-               <title>Ko žival postane človeška, se ne zmeni za korenine lastnega debla : basni iz obdobja 1914-1918 : usode zamolčanih junakov vseh vojn</title>
+               <title>Ko žival postane človeška, se ne zmeni za korenine lastnega debla</title>
+               <title>basni iz obdobja 1914-1918 : usode zamolčanih junakov vseh vojn</title>
                <page>30-36</page>
                <cobiss>698740</cobiss>
                <citedIn count="1">
@@ -20933,12 +20878,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Stergar Rok</author>
                <title>"Politični cilji slovenske inteligence"</title>
-               <title>"Politični cilji slovenske inteligence" : nekaj drobcev o vohunih in vojakih</title>
-               <title>Politični cilji slovenske inteligence</title>
-               <title>Politični cilji slovenske inteligence : Nekaj drobcev o vohunih in vojakih</title>
-               <title>nekaj drobcev o vohunih in vojakih</title>
+               <title>Nekaj drobcev o vohunih in vojakih</title>
                <page>21-29</page>
-               <page>21</page>
                <cobiss>698484</cobiss>
                <citedIn count="4">
                   <cit did="1052" cid="9"/>
@@ -20973,11 +20914,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Repe Božo</author>
                <title>"Tihotapijo vse razen ptičjega mleka"</title>
-               <title>Tihotapijo vse, razen ptičjega mleka. Vpliv nakupovalnega turizma na kulturne spremembe in način življenja v Sloveniji po drugi svetovni vojni</title>
                <title>Vpliv nakupovalnega turizma na kulturne spremembe in način življenja v Sloveniji po drugi svetovni vojni</title>
-               <title>Vpliv nakupovalnega turizma na kulturne spremembe in način življenja v Sloveniji pod drugi svetovni vojni</title>
-               <page>91</page>
-               <page>90-94</page>
                <page>90-96</page>
                <cobiss>656756</cobiss>
                <citedIn count="3">
@@ -21012,8 +20949,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Tominšek Rihtar Tadeja</author>
-               <title>Pili smo vodo, polno škodljivega mrčesa : h kulturni zgodovini ljubljanskega vodovoda in kanalizacije pred 1. svetovno vojno</title>
-               <title>Pili smo vodo. polno škodljivega mrčesa. H kulturni zgodovini ljubljanskega vodovoda in kanalizacije pred prvo svetovno vojno</title>
+               <title>Pili smo vodo, polno škodljivega mrčesa</title>
+               <title>H kulturni zgodovini ljubljanskega vodovoda in kanalizacije pred 1. svetovno vojno</title>
                <page>31-54</page>
                <cobiss>461940</cobiss>
                <citedIn count="2">
@@ -21034,9 +20971,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Golec Boris</author>
-               <title>Butale so vas, pa ji pravijo mesto : Butalstvo spodnjekranjske purgarije v predrazsvetljenski dobi</title>
-               <title>Butale so vas, pa ji pravijo mesto: Butalstvo Spodnjekranjske purgarije v predrazsvetljenski dobi</title>
-               <title>»Butale so vas, pa ji pravijo mesto«. Butalstvo spodnjekranjske purgarije v predrazsvetljenski dobi</title>
+               <title>Butale so vas, pa ji pravijo mesto</title>
+               <title>Butalstvo Spodnjekranjske purgarije v predrazsvetljenski dobi</title>
                <page>14-42</page>
                <cobiss>3863861</cobiss>
                <citedIn count="4">
@@ -21120,10 +21056,6 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Štih Peter</author>
                <title>Ej ko glotneš do tu-le, udari po konjih</title>
-               <title>Ej ko goltneš do tu-le, udari po konjih : O avtohtonističnih in podobnih teorijah pri Slovencih in na Slovenskem</title>
-               <title>Ej ko goltneš do tu-le, udari po konjih!</title>
-               <title>Ej ko goltneš do tu-le, udari po konjih! O avtohtonističnih in podobnih teorijah pri Slovencih in na Slovenskem</title>
-               <title>o avtohtonističnih in podobnih teorijah pri Slovencih in na Slovenskem</title>
                <title>O avtohtonističnih in podobnih teorijah pri Slovencih in na Slovenskem</title>
                <page>66</page>
                <page>66-90</page>
@@ -21143,7 +21075,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Dolenc Ervin</author>
-               <title>"Za menoj ne bodo farji pevali ... Za menoj bo šla muzika" : Politični boji in versko življenje na kranjskem podeželju v začetku stoletja</title>
+               <title>"Za menoj ne bodo farji pevali ... Za menoj bo šla muzika"</title>
+               <title>Politični boji in versko življenje na kranjskem podeželju v začetku stoletja</title>
                <page>57-67</page>
                <cobiss>247156</cobiss>
                <citedIn count="1">
@@ -21170,7 +21103,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="2">
             <pubPart>
                <author>Cvelfar Bojan</author>
-               <title>"Jaz nisem nameraval vstreljiti" : proces proti Ivanu Bovhi in druge sodne obravnave izgredov ob obisku čeških visokošolcev v Celju 1899</title>
+               <title>"Jaz nisem nameraval vstreljiti"</title>
+               <title>proces proti Ivanu Bovhi in druge sodne obravnave izgredov ob obisku čeških visokošolcev v Celju 1899</title>
                <page>29-45</page>
                <cobiss>3618869</cobiss>
                <citedIn count="1">
@@ -21179,9 +21113,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>Obesiti za pete in scvreti nad ognjem : Slovenci in Habsburška monarhija</title>
-               <title>Obesiti zapete in scvreti nad ognjem: Slovenci in habsburška monarhija</title>
-               <page>9-10</page>
+               <title>Obesiti za pete in scvreti nad ognjem</title>
+               <title>Slovenci in Habsburška monarhija</title>
                <page>9-15</page>
                <cobiss>8972089</cobiss>
                <citedIn count="2">
@@ -21203,9 +21136,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Studen Andrej</author>
                <title>"Bojimo se, da bo tekla kri!" : Ekscesi ob obisku čeških visokošolcev v Celju leta 1899</title>
-               <title>„Bojim se, da bo tekla kri!" Ekscesi ob obisku čeških visokošolcev v Celju leta 1899</title>
-               <title>"Bojimo se, da bo tekla kri!" : Ekscesi ob
-obisku čeških visokošolcev v Celju leta 1899</title>
+               <title>Ekscesi ob obisku čeških visokošolcev v Celju leta 1899</title>
                <page>1-8</page>
                <cobiss>246900</cobiss>
                <citedIn count="3">
@@ -21232,13 +21163,7 @@ obisku čeških visokošolcev v Celju leta 1899</title>
                <author>Šepetavc Anton</author>
                <author>Šepetavec A.</author>
                <title>Pridiga o prijaznih, gostoljubnih, dobrih Slovencih, ki niso vedno (bili) taki</title>
-               <title>Pridiga o prijaznih gostoljubnih, dobrih
-Slovencih, ki niso vedno (bili) taki</title>
-               <title>Pridiga o prijaznih gostoljubnih, dobrih Slovencih, ki niso vedno (bili) taki</title>
-               <title>Pridiga o prijaznih, gostoljubnih, dobrih Slovencev, ki niso vedno (bili) taki</title>
-               <page>29</page>
                <page>20-32</page>
-               <page>30</page>
                <cobiss>62237952</cobiss>
                <citedIn count="5">
                   <cit did="2838" cid="22"/>
@@ -21264,13 +21189,8 @@ Slovencih, ki niso vedno (bili) taki</title>
             <pubPart>
                <author>Cvelfar Bojan</author>
                <title>"No, zdaj pa če imaš denar, daj ga sem, potem se pa hitro z menoj spolsko združi"</title>
-               <title>'No, zdaj pa če imaš denar, daj ga sem, potem se pa hitro z menoj spolsko združi.' : K zgodovini tajne prostitucije v Ljubljani na začetku stoletja</title>
-               <title>No, zdaj pa če imaš denar, daj ga sem, potem se pa hitro z menoj spolsko združi, K zgodovini tajne prostitucije v Ljubljani na začetku stoletja</title>
-               <title>»No, zdaj pa če imaš denar, daj ga sem, potem se pa hitro z menoj spolsko združi«</title>
-               <title>k zgodovini tajne prostitucije v
-Ljubljani na začetku stoletja</title>
+               <title>K zgodovini tajne prostitucije v Ljubljani na začetku stoletja</title>
                <page>11-30</page>
-               <page>11-29</page>
                <cobiss>8802361</cobiss>
                <citedIn count="4">
                   <cit did="1251" cid="1"/>
@@ -21302,14 +21222,9 @@ Ljubljani na začetku stoletja</title>
             <pubPart>
                <author>Vodopivec  Peter</author>
                <author>Vodopivec Peter</author>
-               <title>Kako so ženske na Slovenskem v 19. stoletju stopale v javno življenje...</title>
                <title>Kako so ženske na Slovenskem v 19. stoletju stopale v javno življenje</title>
-               <title>Kako so ženske na Slovenskem v 19. stoletju stopale v javno življenje : prispevek k zgodovini žensk v slovenskem prostoru (1848-1900)</title>
-               <title>Kako so ženske v 19. stoletju vstopale v javno življenje</title>
                <title>Prispevek k zgodovini žensk v slovenskem prostoru (1848-1900)</title>
                <page>30-44</page>
-               <page>31</page>
-               <page>30</page>
                <cobiss>8802873</cobiss>
                <citedIn count="8">
                   <cit did="2411" cid="1"/>
