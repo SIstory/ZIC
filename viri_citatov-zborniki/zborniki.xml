@@ -2901,7 +2901,7 @@ na celjski gimnaziji v letu 1894</title>
          <pubPart>
             <author>Staudinger Eduard G.</author>
             <title>Die Südmark</title>
-            <title>Die Südmark. Aspekte der Programmatik</title>
+            <title>aspekte der Programmatik</title>
             <citedIn count="2">
                <cit did="1783" cid="177" avtor0="Staudinger Eduard G." naslov0="Die Südmark"
                   source="Geschichte der Deutschen im Bereich des heutigen Slowenien 1848-1941"
@@ -3199,10 +3199,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Lazarević Žarko</author>
-            <title>Videnji ekonomske svobode posameznika med
-veliko godpodarsko krizo tridesetih let</title>
             <title>Videnji ekonomske svobode posameznika med veliko gospodarsko krizo dvajsetih let</title>
-            <title>Videnji ekonomske svobode posameznika med veliko gospodarsko krizo tridesetih let</title>
             <cobiss>890740</cobiss>
             <page>97-112</page>
             <citedIn count="3">
@@ -3417,7 +3414,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Štefanac Samo</author>
             <title>Leskovec pri Krškem</title>
-            <title>Župnijska cerkev Žalostne Matere Božje</title>
+            <title>župnijska cerkev Žalostne Matere Božje</title>
             <cobiss>14449762</cobiss>
             <citedIn count="1">
                <cit did="34" cid="37" avtor0="Štefanac Samo" naslov0="Leskovec pri Krškem"
@@ -3429,6 +3426,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Štefanac Samo</author>
             <title>Peter Bezlaj (Petrus de Lubiana)</title>
+            <title>(kat. št. 30)</title>
+            <cobiss>12838242</cobiss>
+            <page>91-92</page>
             <citedIn count="1">
                <cit did="3538" cid="36" avtor0="Štefanac Samo"
                   naslov0="Peter Bezlaj (Petrus de Lubiana)" source="Gotika v Sloveniji"
@@ -3655,8 +3655,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Mihelič Darja</author>
-            <title>Etnična struktura prebivalstva ob Piranskem zalivu v luči imen - 1330 - 1890</title>
-            <title>Etnična struktura prebivalstva ob Piranskem zalivu v luči imen -1330,-1890</title>
             <title>Etnična struktura prebivalstva ob Piranskem zalivu v luči imen ~1330, ~1890</title>
             <cobiss>3399473</cobiss>
             <page>359-374</page>
@@ -3678,7 +3676,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Izobraževanje in izobrazba pri cistercijancih s posebnim poudarkom na stiški in kostanjeviški opatiji</title>
-            <page>258-260</page>
+            <cobiss>	5089800</cobiss>
+            <page>257-270</page>
             <citedIn count="1">
                <cit did="2442" cid="6" avtor0="Mlinarič Jože"
                   naslov0="Izobraževanje in izobrazba pri cistercijancih s posebnim poudarkom na stiški in kostanjeviški opatiji"
@@ -3687,11 +3686,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Otorepec Božo</author>
-            <title>Seznam "deželnih sovražnikov" na Kranjskem in Štajerskem iz okoli 1440. Iz borb med Celjskimi grofi in Habsburžani v letih 1436-1443</title>
-            <title>Seznam deželnih sovražnikov na Kranjskem in na Štajerskem iz okoli 1440. Iz borb med Celjskimi grofi in Habsburžani v letih 1436-1443</title>
-            <title>Seznam deželnih sovražnikov na Kranjskem in Štajerskem iz okoli 1440. Iz borb med Celjskimi grofi in Habsburžani v letih 1436-1443</title>
-            <title>Seznam deželnih sovražnikov na Kranjskem in Štajerskem iz okoli 1440. Iz borb med grofi in Habsburžani v letih 1436-1443</title>
-            <title>Seznam deželnih sovražnikov na Kranjskem in Štajerskem iz okoli 1440: Iz borb med grofi in Habsburžani v letih 1436-1443</title>
+            <title>Seznam "deželnih sovražnikov" na Kranjskem in Štajerskem iz okoli 1440 : iz borb med Celjskimi grofi in Habsburžani v letih 1436-1443</title>
             <cobiss>8330285</cobiss>
             <page>331-342</page>
             <citedIn count="5">
@@ -3787,16 +3782,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>Celjski grofje, vprašanja njihove dželnoknežje oblasti inn dežele celjske</title>
             <title>Celjski grofje, vprašanje njihove deželnoknežje oblasti in dežele Celjske</title>
-            <title>Celjski grofje, vprašanje njihove deželnoknežje oblasti in dežele celjske</title>
-            <title>Celjski grofje, vprašanje njihove deželnoknježje oblasti in dežele Celjske</title>
-            <title>Celjski grofje. vprašanje njihove dezelnoknežje oblasti in dežele Celjske</title>
-            <title>Celjski grofje, vprašanje njihove deželoknežje oblasti in dežele celjske</title>
-            <title>Celjski grofje: Vprašanje njihove deželnoknežje oblasti in dežele Celjske</title>
-            <cobiss>3141474</cobiss>
             <cobiss>18002018</cobiss>
-            <page>227-257</page>
+            <page>227-256</page>
             <citedIn count="17">
                <cit did="253" cid="41" avtor0="Štih Peter"
                   naslov0="Celjski grofje, vprašanja njihove dželnoknežje oblasti inn dežele celjske"
@@ -3866,8 +3854,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Šumrada Janez</author>
             <title>Poskus zemljiške odveze v času Ilirskih provinc</title>
-            <title>Poskus zemljiške odveze v času ilirskih provinc</title>
-            <cobiss>5804589</cobiss>
+            <addTitle>abolition manquée de la féodalité dans les Provinces illyriennes du Premier Empire</addTitle>
             <cobiss>5745416</cobiss>
             <page>499-514</page>
             <citedIn count="5">
@@ -3917,11 +3904,10 @@ veliko godpodarsko krizo tridesetih let</title>
       <chapters>
          <pubPart>
             <author>Kos Dušan</author>
-            <title>Die Ministerialen der Grafen von Andechs in Krain (bis zur Mitte des 13. Jahr-hunderts)/Ministeriali grofov Andeških na Kranjskem (do srede 13. stoletja)</title>
             <title>Ministeriali grofov Andeških na Kranjskem</title>
-            <title>Ministeriali grofov Andeških na Kranjskem (do srede 13. stoletja)</title>
+            <addTitle>die Ministerialen der Grafen von Andechs in Krain</addTitle>
             <cobiss>18746669</cobiss>
-            <page>185-256</page>
+            <page>185-255</page>
             <citedIn count="5">
                <cit did="2647" cid="164" avtor0="Kos Dušan"
                   naslov0="Die Ministerialen der Grafen von Andechs in Krain (bis zur Mitte des 13. Jahr-hunderts)/Ministeriali grofov Andeških na Kranjskem (do srede 13. stoletja)"
@@ -3985,14 +3971,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>Krain in der Zeit der Grafen von Andechs/Kranjska v času grofov Andeških</title>
-            <title>Kranjska v času Andelških grofov</title>
             <title>Kranjska v času Andeških grofov</title>
-            <title>Kranjska v casu Andeskih grofov</title>
-            <title>Kranjska v času grofov Andeških</title>
-            <title>Kranjska v času Andeških grofov. Grofje Andeško-Meranski. Prispevki k zgodovini Evrope v visokem srednjem veku</title>
+            <addTitle>Krain in der Zeit der Grafen von Andechs</addTitle>
             <cobiss>16777058</cobiss>
-            <page>11-39</page>
+            <page>11-37</page>
             <citedIn count="8">
                <cit did="2647" cid="369" avtor0="Štih Peter"
                   naslov0="Krain in der Zeit der Grafen von Andechs/Kranjska v času grofov Andeških"
@@ -4064,7 +4046,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Duhovni in idejnopolitični oris Ivana Hribarja</title>
-            <title>Idejnopolitični oris Ivana Hribarja</title>
             <cobiss>463476</cobiss>
             <page>9-27</page>
             <citedIn count="6">
@@ -4141,7 +4122,6 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Dolinar France M.</author>
             <author>Dolinar France Martin</author>
             <title>Jeglič in cerkvenopolitična vprašanja po letu 1918</title>
-            <title>Jeglič in cerkveno politična vprašanja po letu 1918</title>
             <cobiss>60790784</cobiss>
             <page>303-331</page>
             <citedIn count="4">
@@ -4173,7 +4153,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Granda Stane</author>
-            <title>Jeglič in katoliški shodi</title>
             <title>Jeglič in slovenski katoliški shodi</title>
             <cobiss>60791296</cobiss>
             <page>333-347</page>
@@ -4201,8 +4180,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Juhant Janez</author>
-            <title>Škof Jeglič, Poskus podobe velike osebnosti</title>
-            <title>Škof Jeglič (1850-1937): poskus podobe velike osebnosti</title>
+            <title>Škof Jeglič (1850-1937) : poskus podobe velike osebnosti</title>
+            <cobiss>797018</cobiss>
             <page>25-33</page>
             <citedIn count="2">
                <cit did="2016" cid="64" avtor0="Juhant Janez"
@@ -4226,7 +4205,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Jeglič in slovenska politika do leta 1918</title>
-            <title>Jeglič in slovenska politika do let 1918</title>
+            <cobiss>60789248</cobiss>
             <page>281-287</page>
             <citedIn count="4">
                <cit did="2870" cid="5" avtor0="Melik Vasilij"
@@ -4246,9 +4225,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <author>Perovšek jurij</author>
+            <author>Perovšek Jurij</author>
             <title>Pogledi slovenskega liberalizma na poslanstvo in delo knezoškofa Antona Bonaventure Jegliča</title>
-            <title>Pogledi slovenskega liberalizma na poslanstvo in delo knezuškofa Antona Bonaventure Jegliča</title>
             <cobiss>60793344</cobiss>
             <page>357-385</page>
             <citedIn count="7">
@@ -4352,8 +4330,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Kovačič Lojze</author>
-            <title>Rektorji jezuitskega kolegija Ljubljani (9. 8. 1597 - 29.9. 1773)</title>
-            <title>Rektorji jezuitskega kolegija v Ljubljani</title>
+            <title>Rektorji jezuitskega kolegija v Ljubljani (9.8.1597 - 29.9.1773)</title>
+            <cobiss>9783085</cobiss>
             <page>49-76</page>
             <citedIn count="2">
                <cit did="2632" cid="63" avtor0="Kovačič Lojze"
@@ -4403,7 +4381,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Resman Blaž</author>
-            <title>Šentjakobska cerkev v 18. stol.</title>
             <title>Šentjakobska cerkev v 18. stoletju</title>
             <cobiss>9603117</cobiss>
             <page>189-228</page>
@@ -4448,10 +4425,10 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Krones H.</author>
-            <title>Zum Wort-Ton Verhältnis in Josip Ipavec' Operette "Prinzessin Tollkopf"</title>
-            <title>Zum Wort-Ton-Verhältnis in Josip Ipavec 'Operette' prinzessin Tollkopf</title>
-            <title>Zum Wort-Ton Verhältnis in Josip Ipavec</title>
+            <author>Krones Hartmut</author>
+            <title>Zum Wort-Ton-Verhältnis in Josip Ipavec' Operette "Prinzessin Tollkopf"</title>
+            <addTitle>Razmerje med besedo in tonom v Ipavčevi opereti Princesa Vrtoglavka</addTitle>
+            <cobiss>14097709</cobiss>
             <page>61-74</page>
             <citedIn count="4">
                <cit did="244" cid="23" avtor0="Krones H."
@@ -4471,10 +4448,11 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kurent P.</author>
             <author>Kuret Primož</author>
-            <title>Josip Ipavec in njegov čas</title>
-            <title>Josip Ipavec and His Time</title>
+            <title>Josip Ipavec and his time</title>
+            <addTitle>Josip Ipavec in njegov čas</addTitle>
+            <cobiss>14097197</cobiss>
+            <page>53-60</page>
             <citedIn count="2">
                <cit did="239" cid="14" avtor0="Kurent P." naslov0="Josip Ipavec in njegov čas"
                   source="Josip Ipavec in njegov čas" pubPlace="Ljubljana" year="2000" page="58"/>
@@ -4485,7 +4463,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Habsburška monarhija na prelomu stoletja</title>
-            <page>17-21</page>
+            <addTitle>die Habsburger Monarchie an der Jahrhundertwende</addTitle>
+            <cobiss>13932333</cobiss>
+            <page>17-22</page>
             <citedIn count="1">
                <cit did="3497" cid="19" avtor0="Melik Vasilij"
                   naslov0="Habsburška monarhija na prelomu stoletja"
@@ -4494,9 +4474,11 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Robinson S.</author>
+            <author>Robinson Simon</author>
             <title>A Conducted Tour</title>
-            <title>Princesa Vrtoglavka</title>
+            <title>princesa Vrtoglavka</title>
+            <addTitle>Dirigentska pot: Princesa Vrtoglavka</addTitle>
+            <cobiss>14097965</cobiss>
             <page>75-81</page>
             <citedIn count="1">
                <cit did="244" cid="32" avtor0="Robinson S." naslov0="A Conducted Tour"
@@ -4520,7 +4502,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Gestrin Ferdo</author>
             <title>Trgovsko prometni položaj Kamnika do 17. stoletja</title>
-            <title>Trgovsko-prometni položaj Kamnika do 17. stoletja</title>
+            <cobiss>661302</cobiss>
             <page>45-51</page>
             <citedIn count="2">
                <cit did="2612" cid="33" avtor0="Gestrin Ferdo"
@@ -4535,7 +4517,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Grafenauer Bogo</author>
-            <title>Srednjeveška kolonizacija in izdajanje fevdalne oblsti vzhodno od Kokre na Gorenjskem</title>
             <title>Srednjeveška kolonizacija in izgradnja fevdalne oblasti vzhodno od Kokre na Gorenjskem</title>
             <cobiss>652342</cobiss>
             <page>14-18</page>
@@ -4758,7 +4739,7 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Koroški plebiscit 1920</pubTitle>
+      <pubTitle>Koroški plebiscit 1920</pubTitle> <!-- razdruži -->
       <pubTitle>poskus enciklopedične razlage gesla o koroškem plebiscitu</pubTitle>
       <pubAddTitle>Kärntner Volksabstimmung 1920 : Versuch einer enzyklopädischen Auslegung des Stichwortes Kärntner Volksabstimmung</pubAddTitle>
       <editor>Pleterski, Janko</editor>
@@ -4795,8 +4776,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Grafenauer Bogo</author>
-            <title>Slovenska Koroška v diplomatski igri leta 1918</title>
-            <title>Slovenska Koroška v diplomatski igri leta 1919</title>
             <title>Slovenska Koroška v diplomatski igri leta 1919 : vprašanje jugoslovansko-avstrijske meje na pariški mirovni konferenci</title>
             <page>295-378</page>
             <citedIn count="4">
@@ -4820,7 +4799,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>Slovenska Koroška med prvo svetovno vojno</title>
+            <title>Slovenska Koroška med prvo svetovno vojno</title><!-- razdruži -->
             <title>Slovenska Koroška pred prvo svetovno vojno</title>
             <page>37-129</page>
             <citedIn count="2">
@@ -4834,8 +4813,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>Koroški Slovenci med 1. svetovno vojno</title>
-            <title>Koroški Slovenci med I. svetovno vojno</title>
             <title>Koroški Slovenci med prvo svetovno vojno</title>
             <page>73-130</page>
             <citedIn count="6">
@@ -4862,7 +4839,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>O prvinah in o značaju plebiscitne odločitve</title>
             <title>O prvinah in značaju plebiscitne odločitve</title>
             <page>215-271</page>
             <citedIn count="6">
@@ -4986,9 +4962,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Gabrič Aleš</author>
             <title>Nacionalno vprašanje v Jugoslaviji v prvem povojnem obdobju</title>
-            <title>Nacionalno vprašanje v Jugoslaviji v prvem povojnem obdobju /The national question in Yugoslavia in the immediate postwar period</title>
+            <addTitle> the national question in Yugoslavia in the immediate postwar period</addTitle>
             <cobiss>1747060</cobiss>
-            <page>403-424</page>
+            <page>403-448</page>
             <citedIn count="2">
                <cit did="3223" cid="22" avtor0="Gabrič Aleš"
                   naslov0="Nacionalno vprašanje v Jugoslaviji v prvem povojnem obdobju"
@@ -5003,9 +4979,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Gibianskij Leonid</author>
-            <author>Gibianskii Leonid</author>
-            <title>The 1948 Soviet-Yugoslav Clash: Historiographic Versions and new Archival Sources</title>
-            <title>The 1948 Soviet-Yugoslav Clash : Historiographic Versions and New Archival Sources</title>
+            <title>The 1948 Soviet-Yugoslav clash : historiographic versions and new archival sources</title>
             <page>49-70</page>
             <citedIn count="2">
                <cit did="1511" cid="113" avtor0="Gibianskij Leonid"
@@ -5022,10 +4996,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Gibianskij Leonid</author>
-            <author>Gibianskii Leonid</author>
             <title>Pobuna u sovjetskom bloku 1956. godine, Jugoslavija i Kremalj</title>
-            <title>Pobuna u sovjetskom bloku 1956. godine. Jugoslavija i Kremelj</title>
-            <cobiss>216425984</cobiss>
             <citedIn count="2">
                <cit did="3210" cid="73" avtor0="Gibianskij Leonid"
                   naslov0="Pobuna u sovjetskom bloku 1956. godine, Jugoslavija i Kremalj"
@@ -5042,7 +5013,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Godeša Bojan</author>
             <title>Spreminjanje pogledov na jugoslovansko revolucijo po informbirojevskem sporu</title>
             <cobiss>1747316</cobiss>
-            <page>487-490</page>
+            <page>403-448</page>
             <citedIn count="2">
                <cit did="140" cid="32" avtor0="Godeša Bojan"
                   naslov0="Spreminjanje pogledov na jugoslovansko revolucijo po informbirojevskem sporu"
@@ -5056,10 +5027,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Režek Mateja</author>
-            <title>Jugoslavija, Vatikan in katoliška cerkev :
-(1949-1953)</title>
             <title>Jugoslavija, Vatikan in katoliška cerkev : (1949-1953)</title>
-            <page>275-387</page>
+            <addTitle> Yugoslavia, Vatican and the catholic church : (1949-1953)</addTitle>
+            <cobiss>1746804</cobiss>
+            <page>375-402</page>
             <citedIn count="2">
                <cit did="97" cid="10" avtor0="Režek Mateja"
                   naslov0="Jugoslavija, Vatikan in katoliška cerkev :&#xA;(1949-1953)"
@@ -5085,7 +5056,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Troha Nevenka</author>
             <title>Predlogi Jugoslavije za rešitev tržaškega vprašanja po objavi resolucije Informbiroja</title>
-            <title>Yugoslav proposals for the solution of the Trieste question, following the Cominform resolution</title>
+            <addTitle>Yugoslav proposals for the solution of Trieste question following the cominform resolution </addTitle>
             <cobiss>1746292</cobiss>
             <page>143-180</page>
             <citedIn count="4">
@@ -5111,7 +5082,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Spor z Informbirojem in jugoslovanska kmetijska politika</title>
-            <page>330-333</page>
+            <addTitle>The conflict with the cominform and Yugoslav agrarian policy</addTitle>
+            <cobiss>1746548</cobiss>
+            <page>319-360</page>
             <citedIn count="1">
                <cit did="150" cid="10" avtor0="Čepič Zdenko"
                   naslov0="Spor z Informbirojem in jugoslovanska kmetijska politika"
@@ -5158,7 +5131,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Grafenauer Bogo</author>
             <title>Narodnostni razvoj na Koroškem od srede 19. stoletja do danes</title>
-            <title>Narodnostni razvoj na Koroškem od srede XIX. stoletja do danes</title>
             <cobiss>119252</cobiss>
             <page>117-248</page>
             <citedIn count="12">
@@ -5286,10 +5258,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Grilc Matevž</author>
-            <title>Posledice trinstranskega sporazuma za koroške Slovence</title>
             <title>Posledice tristrankarskega sporazuma za koroške Slovence</title>
-            <title>Posledice tristranskega sporazuma za koroške Slovence</title>
-            <cobiss>1080788</cobiss>
             <page>130-135</page>
             <citedIn count="5">
                <cit did="248" cid="1" avtor0="Grilc Matevž"
@@ -5317,8 +5286,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Kmecl Matjaž</author>
             <title>Sodobna slovenska književnost na avstrijskem Koroškem</title>
+            <addTitle>modern Slovene literature in Austrian Carinthia</addTitle>
             <cobiss>7204909</cobiss>
-            <page>155-157</page>
+            <page>154-167</page>
             <citedIn count="1">
                <cit did="1153" cid="6" avtor0="Kmecl Matjaž"
                   naslov0="Sodobna slovenska književnost na avstrijskem Koroškem" cobiss="7204909"
@@ -5366,8 +5336,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Pleterski Janko</author>
             <title>Pomen koroške preteklosti od srednjega veka do prve svetovne vojne</title>
+            <addTitle>the significance of Carinthian history from the Middle Ages up to the First World War</addTitle>
             <cobiss>7181357</cobiss>
-            <page>22-39</page>
+            <page>22-33</page>
             <citedIn count="2">
                <cit did="2874" cid="28" avtor0="Pleterski Janko"
                   naslov0="Pomen koroške preteklosti od srednjega veka do prve svetovne vojne"
@@ -5381,8 +5352,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Stergar Janez</author>
-            <author>et al</author>
             <title>Kronološki pregled zgodovine koroških Slovencev od 1848 do 1983</title>
+            <cobiss>7379277</cobiss>
+            <page>175-283</page>
             <citedIn count="1">
                <cit did="3004" cid="11" avtor0="Stergar Janez" avtor1="et al"
                   naslov0="Kronološki pregled zgodovine koroških Slovencev od 1848 do 1983"
@@ -5391,10 +5363,9 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Stergar Janez, Borut Marjan Sturm, Nataša Stergar</author>
-            <author>Stergar Janez, Sturm Borut Marjan, Stergar  Nataša</author>
+            <author>Stergar Janez, Sturm Borut Marjan, Stergar Nataša</author>
             <title>Izbor strokovne literature o koroških Slovencih</title>
-            <title>Izbor slovenske literature o koroških Slovencih</title>
+            <cobiss>7380301</cobiss>
             <page>300-318</page>
             <citedIn count="2">
                <cit did="2825" cid="110" avtor0="Stergar Janez, Borut Marjan Sturm, Nataša Stergar"
@@ -5412,6 +5383,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Türk Danilo</author>
             <title>Aktualnost koroškega manjšinskega vprašanja danes</title>
+            <addTitle>the current significance of the Carinthian minority problem</addTitle>
             <cobiss>7183405</cobiss>
             <page>124-129</page>
             <citedIn count="1">
@@ -5433,8 +5405,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Zorn Tone</author>
-            <title>Priključitev Avstrije k nacistični Nemčiji in koroški Slovenci</title>
             <title>Priključitev Avstrije nacistični Nemčiji in koroški Slovenci</title>
+            <addTitle>annexation of Austria to Nazi-Germany and Carinthian Slovenes</addTitle>
             <cobiss>7186733</cobiss>
             <page>47-49</page>
             <citedIn count="2">
@@ -5606,7 +5578,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Lukan Walter</author>
             <title>Janez Ev. Krek - biografski in bibliografski pregled</title>
-            <title>Janez Ev. Krek - biografski pregled</title>
             <cobiss>248118</cobiss>
             <page>7-17</page>
             <citedIn count="2">
@@ -5638,6 +5609,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mlinar Anton</author>
             <title>Krek in žensko vprašanje</title>
+            <cobiss>259382</cobiss>
             <page>195-210</page>
             <citedIn count="1">
                <cit did="700" cid="13" avtor0="Mlinar Anton" naslov0="Krek in žensko vprašanje"
@@ -5648,7 +5620,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Janez Evangelist Krek in slovenski liberalizem</title>
-            <title>(Simpoziji v Rimu ; 9)</title>
             <cobiss>252470</cobiss>
             <page>75-88</page>
             <citedIn count="3">
@@ -5669,6 +5640,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Pirc Jožko</author>
             <title>Krek in slovensko katoliško gibanje</title>
+            <cobiss>252726</cobiss>
             <page>89-96</page>
             <citedIn count="1">
                <cit did="700" cid="19" avtor0="Pirc Jožko"
@@ -5679,7 +5651,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Rajšp Vincenc</author>
-            <title>Slovenska krščanskosocialna zveza s posebnim ozirom na slovensko krščanskosocialno zvezo za Štajersko</title>
+            <title>Slovenska krščanskosocialna zveza s posebnim ozirom na Slovensko krščanskosocialno zvezo za Štajersko</title>
+            <cobiss>256822</cobiss>
             <page>160-173</page>
             <citedIn count="1">
                <cit did="700" cid="20" avtor0="Rajšp Vincenc"
@@ -5691,6 +5664,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Rozman Franc</author>
             <title>Odnos slovenske socialne demokracije do Kreka</title>
+            <cobiss>3971332</cobiss>
+            <page> 182-187</page>
             <citedIn count="2">
                <cit did="2866" cid="11" avtor0="Rozman Franc"
                   naslov0="Odnos slovenske socialne demokracije do Kreka"
@@ -5702,11 +5677,9 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
-            <title>Krekovo zadružništvo</title>
-            <title>Teorija in praksa</title>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Krekovo zadružništvo : teorija in praksa</title>
-            <title>Krekovo zadružništvo: teorija in praksa</title>
+            <cobiss>257846</cobiss>
             <page>174-181</page>
             <citedIn count="3">
                <cit did="700" cid="23" avtor0="Vidovič Miklavčič Anka"
@@ -5724,6 +5697,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Štuhec Ivan</author>
             <title>Svoboda in avtoriteta v družbenem nauku Cerkve od Rerum novarum do danes s posebnim ozirom na Janeza Evangelista Kreka</title>
+            <cobiss>256310</cobiss>
             <page>122-130</page>
             <citedIn count="1">
                <cit did="700" cid="21" avtor0="Štuhec Ivan"
@@ -5747,6 +5721,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Darovec Darko</author>
             <title>Koper kot Capo d’Istria</title>
+            <cobiss>2644273</cobiss>
             <page>27-44</page>
             <citedIn count="1">
                <cit did="3539" cid="72" avtor0="Darovec Darko" naslov0="Koper kot Capo d’Istria"
@@ -5756,7 +5731,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Lešnik Avgust</author>
-            <title>Leninovi pogledi na vojno. Intemacionalo in revolucijo v letih 1914-1917. Edition of HistoricalandSociologicalStudies,</title>
+            <title>Leninovi pogledi na vojno, Internacionalo in revolucijo v letih 1914-1917</title>
+            <addTitle> Lenin's views on war, the International and revolution between 1914 and 1917</addTitle>
             <cobiss>3270242</cobiss>
             <page>161-169</page>
             <citedIn count="1">
@@ -5767,9 +5743,7 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Mujbegović V., Vujosević U.</author>
             <author>Mujbegović Vera, Vujošević Ubavka</author>
-            <title>Die jugoslawischen Kommunisten in den stalinistischen "Sauberungen" (1929-1949)</title>
             <title>Die jugoslawischen Kommunisten in den stalinistischen »Säuberungen« (1929-1949)</title>
             <page>363-374</page>
             <citedIn count="2">
@@ -5804,6 +5778,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Pirjevec Jože</author>
             <title>Kulturne in politične zgradbe v Trstu kot priče meščanske samostojnosti</title>
+            <cobiss>14035</cobiss>
             <page>59-62</page>
             <citedIn count="1">
                <cit did="1511" cid="290" avtor0="Pirjevec Jože"
@@ -5815,6 +5790,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Stanonik Janez</author>
             <title>K vprašanju narodne pripadnosti Antona Fistra</title>
+            <cobiss>	6683181</cobiss>
             <page>75-78</page>
             <citedIn count="1">
                <cit did="2837" cid="20" avtor0="Stanonik Janez"
@@ -5850,7 +5826,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Žitko Salvator</author>
             <title>Manifestacije tržaških liberalnih delavskih društev pred 1. svetovno vojno</title>
-            <page>90-105</page>
+            <cobiss>2645041</cobiss>
+            <page>89-105</page>
             <citedIn count="1">
                <cit did="1462" cid="3" avtor0="Žitko Salvator"
                   naslov0="Manifestacije tržaških liberalnih delavskih društev pred 1. svetovno vojno"
@@ -5907,10 +5884,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Narodnoosvobodilni boj na območju sedanje občine Krško</title>
             <title>Narodnoosvobodilni boj na območju sedanje občine Krško : kratek zgodovinski pregled</title>
             <cobiss>26607202</cobiss>
-            <page>428-467</page>
+            <page>457-546</page>
             <citedIn count="4">
                <cit did="1510" cid="98" avtor0="Ferenc Tone"
                   naslov0="Narodnoosvobodilni boj na območju sedanje občine Krško"
@@ -5972,7 +5948,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Koropec Jože</author>
             <title>Krško v obdobju velikih slovenskih kmečkih vstaj</title>
             <cobiss>2496264</cobiss>
-            <page>45-99</page>
+            <page>45-59</page>
             <citedIn count="6">
                <cit did="2640" cid="92" avtor0="Koropec Jože"
                   naslov0="Krško v obdobju velikih slovenskih kmečkih vstaj"
@@ -6045,10 +6021,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Krško in njegova gospoščina v srednjem veku</title>
-            <title>Krško in njegova gospoščina v srednjem veku:</title>
-            <title>Krško in njegova zapuščina v srednjem veku</title>
-            <title>Krško in njegovo gospoščina v srednjem veku</title>
-            <page>25-59</page>
+            <cobiss>19260417</cobiss>
+            <page>25-44</page>
             <citedIn count="6">
                <cit did="2647" cid="224" avtor0="Mlinarič Jože"
                   naslov0="Krško in njegova gospoščina v srednjem veku"
@@ -6097,9 +6071,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Slodnjak Anton</author>
-            <title>Vpliv Bohoričeve slovnice Arcticae horulae na pisemstvo v slovenskih deželah 1584-1809</title>
-            <title>Vpliv Bohoričeve slovnice Arcticae horulae na pismenost v slovenskih deželah</title>
-            <title>1584-1809</title>
+            <title>Vpliv Bohoričeve slovnice Arcticae horulae na pismenost v slovenskih deželah 1584-1809</title>
             <page>71-107</page>
             <citedIn count="2">
                <cit did="36" cid="28" avtor0="Slodnjak Anton"
@@ -6136,6 +6108,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Benedik Metod</author>
             <title>Mahničevi pogledi na Jugoslavijo</title>
+            <cobiss>	20942848</cobiss>
             <page>127-133</page>
             <citedIn count="1">
                <cit did="2274" cid="83" avtor0="Benedik Metod"
@@ -6144,9 +6117,10 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Bratuž Anton</author>
+            <author>Bratuž Andrej</author>
             <title>Anton Mahnič - filozof krščanskega platonizma</title>
-            <page>33-43</page>
+            <cobiss>20887296</cobiss>
+            <page>33-42</page>
             <citedIn count="1">
                <cit did="373" cid="6" avtor0="Bratuž Anton"
                   naslov0="Anton Mahnič - filozof krščanskega platonizma"
@@ -6158,7 +6132,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Juhant Janez</author>
             <title>Filozofske osnove Mahničevega delovanja</title>
             <cobiss>28104450</cobiss>
-            <page>23-33</page>
+            <page>23-31</page>
             <citedIn count="2">
                <cit did="373" cid="8" avtor0="Juhant Janez"
                   naslov0="Filozofske osnove Mahničevega delovanja"
@@ -6187,6 +6161,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mahnič Mirko</author>
             <title>Mahničeva vloga, vpliv in pomen pri Slovencih v času od 1920 do danes</title>
+            <cobiss>20947968</cobiss>
             <page>187-221</page>
             <citedIn count="1">
                <cit did="2274" cid="132" avtor0="Mahnič Mirko"
@@ -6198,6 +6173,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Pirc Jožko</author>
             <title>Rimski katolik in ločitev duhov</title>
+            <cobiss>20940288</cobiss>
             <page>109-126</page>
             <citedIn count="4">
                <cit did="1317" cid="56" avtor0="Pirc Jožko"
@@ -6259,7 +6235,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Koropec Jože</author>
-            <title>Jože Koropec, Mariborski grajski zemljiški gospostvi</title>
             <title>Mariborski grajski zemljiški gospostvi</title>
             <cobiss>33328641</cobiss>
             <page>73-146</page>
@@ -6278,7 +6253,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Leskovec Antoša</author>
-            <title>Politični in kulturni razvoj Maribora 1752-1850</title>
             <title>Politični in kulturni razvoj Maribora : 1752-1850</title>
             <cobiss>33351425</cobiss>
             <page>195-227</page>
@@ -6298,8 +6272,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Leskovec Antoša</author>
-            <title>Razvoj gospodarstva v Mariboru 1742-1941</title>
-            <title>Razvoj gospodarstva v Mariboru 1752-1941</title>
             <title>Razvoj gospodarstva v Mariboru : 1752-1941</title>
             <cobiss>33352961</cobiss>
             <page>313-414</page>
@@ -6325,10 +6297,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Leskovec Antoša</author>
-            <title>Zgodovina uprave v Mariboru 1752-1941</title>
             <title>Zgodovina uprave v Mariboru : 1752-1941</title>
             <cobiss>33351937</cobiss>
-            <page>229-414</page>
+            <page>229-311</page>
             <citedIn count="3">
                <cit did="3322" cid="19" avtor0="Leskovec Antoša"
                   naslov0="Zgodovina uprave v Mariboru 1752-1941" source="Maribor skozi stoletja"
@@ -6346,10 +6317,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Maribor od začetkov do sredine 18 stoletja</title>
-            <title>Maribor od začetkov do sredine 18. stoletja</title>
-            <title>Maribor od začetkov do sredine 18. stoletja, v:</title>
             <cobiss>33351169</cobiss>
-            <page>147-199</page>
+            <page>147-194</page>
             <citedIn count="3">
                <cit did="2954" cid="15" avtor0="Mlinarič Jože"
                   naslov0="Maribor od začetkov do sredine 18 stoletja" cobiss="33351169"
@@ -6384,7 +6353,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Špendal Manica</author>
             <title>Glasbene predstave v mariborskem gledališču</title>
             <cobiss>33611777</cobiss>
-            <page>14-676</page>
+            <page>663-676</page>
             <citedIn count="2">
                <cit did="1912" cid="150" avtor0="Špendal Manica"
                   naslov0="Glasbene predstave v mariborskem gledališču"
@@ -6400,7 +6369,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Špendal Manica</author>
             <title>Razvoj glasbenega življenja v Mariboru</title>
             <cobiss>33610497</cobiss>
-            <page>150-661</page>
+            <page>643-661</page>
             <citedIn count="4">
                <cit did="2196" cid="65" avtor0="Špendal Manica"
                   naslov0="Razvoj glasbenega življenja v Mariboru" source="Maribor skozi stoletja"
@@ -6421,7 +6390,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Žnidarič Marjan</author>
             <title>Maribor med okupacijo in narodnoosvobodilnim bojem</title>
-            <page>425-429</page>
+            <cobiss>33362177</cobiss>
+            <page>415-450</page>
             <citedIn count="1">
                <cit did="1510" cid="89" avtor0="Žnidarič Marjan"
                   naslov0="Maribor med okupacijo in narodnoosvobodilnim bojem"
@@ -6432,9 +6402,9 @@ veliko godpodarsko krizo tridesetih let</title>
    </source>
    <source>
       <pubTitle>Mednarodni znanstveni sestanek Perspektive slovensko-hrvaške obmejnosti, Koper, 4. in 5. junij 2009</pubTitle>
-      <pubTitle>Perspektive slovensko-hrvaške obmejnosti</pubTitle>
+      <pubTitle>perspektive slovensko-hrvaške obmejnosti</pubTitle>
       <pubAddTitle>Međunarodni znanstveni skup Perspektive slovensko-hrvatskoga pograničnog područja, Kopar, 4. i 5. lipanj 2009</pubAddTitle>
-      <pubAddTitle> International Scientific Meeting Perspectives of the Slovenian-Croatian Border Region, Koper, 4th and 5th of June 2009</pubAddTitle>
+      <pubAddTitle>International Scientific Meeting Perspectives of the Slovenian-Croatian Border Region, Koper, 4th and 5th of June 2009</pubAddTitle>
       <pubAddTitle>Convegno scientifico internazionale Le prospettive della frontiera Sloveno-Croata, Capodistria, 4 e 5 giugno 2009</pubAddTitle>
       <editor>Ratkajec, Hrvoje</editor>
       <editor>Kavrečič, Petra</editor>
@@ -6458,6 +6428,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Bufon Milan</author>
             <title>Slovensko-hrvaško obmejno območje: med družbeno in prostorsko konvergenco in divergenco</title>
             <cobiss>1680851</cobiss>
+            <page>30</page>
             <citedIn count="1">
                <cit did="3072" cid="81" avtor0="Bufon Milan"
                   naslov0="Slovensko-hrvaško obmejno območje: med družbeno in prostorsko konvergenco in divergenco"
@@ -6469,7 +6440,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Darovec Darko</author>
             <title>Moderna štetja prebivalstva in slovensko-hrvaška etnična meja v Istri</title>
+            <addTitle>modern time censuses and the slovene-croatian ethnic border in Istria</addTitle>
             <cobiss>1681875</cobiss>
+            <page> 62-64</page>
             <citedIn count="1">
                <cit did="3072" cid="86" avtor0="Darovec Darko"
                   naslov0="Moderna štetja prebivalstva in slovensko-hrvaška etnična meja v Istri"
@@ -6490,8 +6463,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Josipovič Damir</author>
-            <title>Slovensko-hrvaška meja: problemi, realnosti in vizije</title>
+            <title>Slovensko-hrvaška meja : problemi, realnosti in vizije</title>
+            <addTitle> Selected politico-geographical aspects of the Slovene-Croatian border</addTitle>
             <cobiss>11351629</cobiss>
+            <page>31</page>
             <citedIn count="1">
                <cit did="3072" cid="133" avtor0="Josipovič Damir"
                   naslov0="Slovensko-hrvaška meja: problemi, realnosti in vizije" cobiss="11351629"
@@ -6503,7 +6478,9 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Kladnik Drago</author>
             <author>Pipan Primož</author>
             <title>Piranski zaliv kot primer problematičnega ravnanja z zemljepisnimi imeni</title>
+            <addTitle>"Bay of Piran" as an example of problematic treatment of geographic names</addTitle>
             <cobiss>29995565</cobiss>
+            <page>69-70</page>
             <citedIn count="1">
                <cit did="3072" cid="144" avtor0="Kladnik Drago" avtor1="Pipan Primož"
                   naslov0="Piranski zaliv kot primer problematičnega ravnanja z zemljepisnimi imeni"
@@ -6514,8 +6491,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Kristen Samo</author>
-            <title>Med linijo "Umag-Klana" in linijo "Dragonja-Šapjane": emigrantski vidik slovensko-hrvaškega razmejevanja v Istri med 2. svetovno vojno</title>
+            <title>Med linijo "Umag-Klana" in linijo "Dragonja-Šapjane" : emigrantski vidik slovensko-hrvaškega razmejevanja v Istri med 2. svetovno vojno</title>
+            <addTitle>Between the lines Umag-Klana and Dragonja-Šapjane: the emigration viewpoint of the Slovene-Croatian demarcation in Istria during WWII</addTitle>
             <cobiss>11351885</cobiss>
+            <page>57-61</page>
             <citedIn count="1">
                <cit did="3072" cid="162" avtor0="Kristen Samo"
                   naslov0="Med linijo &#34;Umag-Klana&#34; in linijo &#34;Dragonja-Šapjane&#34;: emigrantski vidik slovensko-hrvaškega razmejevanja v Istri med 2. svetovno vojno"
@@ -6526,8 +6505,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Kržišnik Bukić Vera</author>
-            <title>Kontroverne slovensko-hrvaške soseščine</title>
+            <title>Kontroverze slovensko-hrvaške soseščine</title>
+            <addTitle>controversy of the Slovene-Croatian neighbourhood</addTitle>
             <cobiss>11351373</cobiss>
+            <page>28-29</page>
             <citedIn count="1">
                <cit did="3072" cid="175" avtor0="Kržišnik Bukić Vera"
                   naslov0="Kontroverne slovensko-hrvaške soseščine" cobiss="11351373"
@@ -6570,7 +6551,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Mežnarić Silva</author>
-            <title>Transnacionalnost: retorika mej v "Novi Evropi"</title>
+            <title>Transnacionalnost : retorika mej v "Novi Evropi"</title>
             <citedIn count="1">
                <cit did="3072" cid="196" avtor0="Mežnarić Silva"
                   naslov0="Transnacionalnost: retorika mej v &#34;Novi Evropi&#34;"
@@ -6580,8 +6561,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Mihelič Darja</author>
-            <title>Piranski zaliv: nekoč sobivanje, danes prepir</title>
+            <title>Piranski zaliv : nekoč sobivanje, danes prepir</title>
+            <addTitle>Bay of Piran : coexistence in the past, dispute today</addTitle>
             <cobiss>29971245</cobiss>
+            <page>65-68</page>
             <citedIn count="1">
                <cit did="3072" cid="197" avtor0="Mihelič Darja"
                   naslov0="Piranski zaliv: nekoč sobivanje, danes prepir" cobiss="29971245"
@@ -6622,8 +6605,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Pelikan Egon</author>
-            <title>Vzajemnost v slovensko-hrvaških odnosih v času med obema vojnama - primer slovenske in hrvaške duhovščine</title>
+            <title>Vzajemnost v slovensko-hrvaških odnosih v času med obema vojnama : primer slovenske in hrvaške duhovščine</title>
+            <addTitle>Reciprocity in slovene-croatian relationships in the interwar period : the example of slovene and croatian clergy</addTitle>
             <cobiss>1681619</cobiss>
+            <page>47-48</page>
             <citedIn count="1">
                <cit did="3072" cid="220" avtor0="Pelikan Egon"
                   naslov0="Vzajemnost v slovensko-hrvaških odnosih v času med obema vojnama - primer slovenske in hrvaške duhovščine"
@@ -6635,7 +6620,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Pirjevec Jože</author>
             <title>Slovensko-hrvaški odnosi v polpretekli zgodovini</title>
+            <addTitle>Slovene-Croatian relationships in recent history</addTitle>
             <cobiss>11351117</cobiss>
+            <page>17-18</page>
             <citedIn count="1">
                <cit did="3072" cid="224" avtor0="Pirjevec Jože"
                   naslov0="Slovensko-hrvaški odnosi v polpretekli zgodovini" cobiss="11351117"
@@ -6666,7 +6653,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Ravnik Mojca</author>
             <title>Kulturna dediščina in vezi med kraji v istrski notranjosti na obeh straneh slovensko-hrvaške meje</title>
+            <addTitle>cultural heritage and connections between towns in the Istrian inland from either side of the Slovene-Croatian border</addTitle>
             <cobiss>30071341</cobiss>
+            <page>43</page>
             <citedIn count="1">
                <cit did="3072" cid="246" avtor0="Ravnik Mojca"
                   naslov0="Kulturna dediščina in vezi med kraji v istrski notranjosti na obeh straneh slovensko-hrvaške meje"
@@ -6678,7 +6667,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Riman Barbara</author>
             <title>Zgodovina čezmejnih stikov prebivalstva obmejnega ozemlja občine Ilirska Bistrica</title>
+            <addTitle>history of cross-border ties of inhabitants of the border municipality of Ilirska Bistrica</addTitle>
             <cobiss>11352141</cobiss>
+            <page>71</page>
             <citedIn count="1">
                <cit did="3072" cid="252" avtor0="Riman Barbara"
                   naslov0="Zgodovina čezmejnih stikov prebivalstva obmejnega ozemlja občine Ilirska Bistrica"
@@ -6720,7 +6711,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Tunjić Filip</author>
             <title>Slovensko-hrvaška državna meja v mejišču Evropske unije</title>
+            <addTitle> Slovenia-Croatia state boundary in the frontier of the European Union</addTitle>
             <cobiss>1681107</cobiss>
+            <page>32-33</page>
             <citedIn count="1">
                <cit did="3072" cid="290" avtor0="Tunjić Filip"
                   naslov0="Slovensko-hrvaška državna meja v mejišču Evropske unije" cobiss="1681107"
@@ -6755,8 +6748,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Balažic Bulc Tatjana</author>
             <title>Odnos do tujih jezikov in njihova prepoznavnost v slovenski družbi</title>
+            <addTitle>attitudes to foreign languages and their recognisability in Slovene society</addTitle>
             <cobiss>40435042</cobiss>
-            <page>27-40</page>
+            <page>181-270</page>
             <citedIn count="1">
                <cit did="3072" cid="53" avtor0="Balažic Bulc Tatjana"
                   naslov0="Odnos do tujih jezikov in njihova prepoznavnost v slovenski družbi"
@@ -6782,9 +6776,10 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Ferbežar Ina</author>
-            <title>Med dvema jezikoma: med razumljivostjo in sprejemljivostjo</title>
+            <title>Med dvema jezikoma : med razumljivostjo in sprejemljivostjo</title>
+            <addTitle>Between two languages: between comprehensibility and acceptability</addTitle>
             <cobiss>40435554</cobiss>
-            <page>197-211</page>
+            <page>197-213, 273</page>
             <citedIn count="1">
                <cit did="3072" cid="94" avtor0="Ferbežar Ina"
                   naslov0="Med dvema jezikoma: med razumljivostjo in sprejemljivostjo"
@@ -6807,10 +6802,11 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Horga Damir</author>
-            <author>Požgaj Hadži Vesna</author>
+            <author>Požgaj-Hadži Vesna</author>
             <title>Retorika TV dnevnika</title>
+            <addTitle>the rhetoric of TV news</addTitle>
             <cobiss>40435810</cobiss>
-            <page>131-143</page>
+            <page>131-143, 280</page>
             <citedIn count="1">
                <cit did="3072" cid="117" avtor0="Horga Damir" avtor1="Požgaj Hadži Vesna"
                   naslov0="Retorika TV dnevnika" cobiss="40435810"
@@ -6823,7 +6819,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Mikolič Vesna</author>
             <title>Jezikovna politika za večkulturna okolja</title>
             <cobiss>512562560</cobiss>
-            <page>213-224</page>
+            <page>213-225</page>
             <citedIn count="1">
                <cit did="3072" cid="199" avtor0="Mikolič Vesna"
                   naslov0="Jezikovna politika za večkulturna okolja" cobiss="512562560"
@@ -6845,11 +6841,12 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Požgaj Hadži Vesna</author>
-            <author>Balažic Bulc Tatjana et al</author>
-            <title>Srbohrvaščina v Sloveniji nekoč in danes</title>
+            <author>Požgaj-Hadži Vesna</author>
+            <author>Balažic Bulc Tatjana</author>
+            <title>Srbohrvaščina v Sloveniji : nekoč in danes</title>
+            <addTitle>Serbo-Croatian in Slovenia: past and present</addTitle>
             <cobiss>40434530</cobiss>
-            <page>27-40</page>
+            <page>27-40, 288</page>
             <citedIn count="1">
                <cit did="3072" cid="234" avtor0="Požgaj Hadži Vesna"
                   avtor1="Balažic Bulc Tatjana et al"
@@ -6860,7 +6857,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Šuster Simon</author>
-            <title>Jezikovna negotovost in jezikovne predstave na primeru materinščine</title>
+            <title>Jezikovna negotovost in jezikovne predstave</title>
             <cobiss>31339821</cobiss>
             <page>161-177</page>
             <citedIn count="1">
@@ -6904,7 +6901,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Darovec Darko</author>
-            <title>Problematika slovensko-hrvaške meje</title>
             <title>Problematika slovensko-hrvaške meje v Istri</title>
             <cobiss>18161965</cobiss>
             <page>169-184</page>
@@ -6921,8 +6917,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Dolinar F. M.</author>
-            <title>Janzenizem: verskopreno-vitveno ali kulturnopolitično gibanje?</title>
-            <page>345-356</page>
+            <title>Janzenizem: verskoprenovitveno ali kulturnopolitično gibanje?</title>
+            <cobiss>199541</cobiss>
+            <page>345-355</page>
             <citedIn count="1">
                <cit did="1735" cid="23" avtor0="Dolinar F. M."
                   naslov0="Janzenizem: verskopreno-vitveno ali kulturnopolitično gibanje?"
@@ -6933,7 +6930,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Potovanja k ameriškim Slovencem</title>
-            <page>1023-1025</page>
+            <addTitle>travellings to American Slovenes</addTitle>
+            <cobiss>18101805</cobiss>
+            <page>1017-1032</page>
             <citedIn count="1">
                <cit did="619" cid="20" avtor0="Drnovšek Marjan"
                   naslov0="Potovanja k ameriškim Slovencem" source="Melikov zbornik"
@@ -6944,6 +6943,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Friš Darko</author>
             <title>Mariborski odbor Orjune in dogodki leta 1923</title>
             <cobiss>4086302</cobiss>
+            <page> 933-950</page>
             <citedIn count="1">
                <cit did="994" cid="6" avtor0="Friš Darko"
                   naslov0="Mariborski odbor Orjune in dogodki leta 1923" cobiss="4086302"
@@ -6954,6 +6954,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Granda Stane</author>
             <title>Slovenci in propaganda proti frankfurtskim volitvam</title>
+            <addTitle>die Slowenen und die Propaganda gegen die Wahlen in das Frankfurter Parlament</addTitle>
+            <cobiss>18118701</cobiss>
+            <page>475-510</page>
             <citedIn count="1">
                <cit did="1317" cid="275" avtor0="Granda Stane"
                   naslov0="Slovenci in propaganda proti frankfurtskim volitvam"
@@ -6962,12 +6965,8 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gross Mirijana</author>
             <author>Gross Mirjana</author>
-            <title>Slovenske političke struje i hrvatsko državno pravo</title>
             <title>Slovenske političke struje i hrvatsko državno pravo devedesetih godina 19. stoljeća</title>
-            <title>Slovenske političke stranke i hrvatsko državno pravo devedesetih godina 19. stoletjeća</title>
-            <title>Slovenske političke struje i hrvatsko državno pravo devedesetih godina 19. stolječa</title>
             <page>731-748</page>
             <citedIn count="4">
                <cit did="354" cid="4" avtor0="Gross Mirijana"
@@ -6987,7 +6986,7 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Janša Zorn Olga</author>
+            <author>Janša-Zorn Olga</author>
             <title>Vprašanje razkosanja kmetij v slovenskih deželah v 19. stoletju s posebnim ozirom na Kranjsko</title>
             <cobiss>4256073</cobiss>
             <page>441-460</page>
@@ -7001,6 +7000,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <title>Prispevek k raziskovanju politične participacije med slovenskimi Američani v dvajsetem stoletju - primer Slovencev v Clevelandu, Leadvillu in Rock Springsu</title>
+            <addTitle>a contribution to the research on political participation among Slovene Americans in the 20th century - the case of Slovenes of Cleveland (OH), Leadville (CO) and Rock Springs (WY)</addTitle>
             <cobiss>18129197</cobiss>
             <page>993-1006</page>
             <citedIn count="1">
@@ -7048,8 +7048,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Luthar Oto</author>
-            <title>Zgodovina in resnica</title>
-            <title>Usodna privlačnost ali historična konstrukcija</title>
+            <title>Zgodovina in resnica, usodna privlačnost ali historična konstrukcija</title>
+            <cobiss>18100013</cobiss>
+            <page>73-80</page>
             <citedIn count="1">
                <cit did="432" cid="8" avtor0="Luthar Oto" naslov0="Zgodovina in resnica"
                   naslov1="Usodna privlačnost ali historična konstrukcija" source="Melikov zbornik"
@@ -7058,7 +7059,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Mihelič Darja</author>
-            <title>Vstaja, imenovana "carmula". Karantanija. druga polovica 8. stoletja</title>
+            <title>Vstaja, imenovana "carmula" : Karantanija, druga polovica 8. stoletja</title>
+            <addTitle>Der Aufstand genannt carmula (Karantanien, zweite Hälfte des 8. Jahrhunderts)</addTitle>
+            <cobiss>18105133</cobiss>
             <page>197-214</page>
             <citedIn count="1">
                <cit did="2318" cid="31" avtor0="Mihelič Darja"
@@ -7070,7 +7073,9 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Turki in Maribor v prvi polovici 16. stoletja ter družina Willenrainerjev</title>
-            <page>256-260</page>
+            <addTitle>die Türken und die Stadt Marburg in der ersten Hälfte des 16. Jahrhunderts und die Familie der Willenrainer</addTitle>
+            <cobiss>18107437</cobiss>
+            <page>251-271</page>
             <citedIn count="1">
                <cit did="263" cid="12" avtor0="Mlinarič Jože"
                   naslov0="Turki in Maribor v prvi polovici 16. stoletja ter družina Willenrainerjev"
@@ -7078,8 +7083,10 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Niederhauser E.</author>
+            <author>Niederhauser Emil</author>
             <title>Milko Kos und seine ostmitteleuropäischen Zeitgenossen</title>
+            <cobiss>	19327533</cobiss>
+            <page>115-120</page>
             <citedIn count="1">
                <cit did="2018" cid="239" avtor0="Niederhauser E."
                   naslov0="Milko Kos und seine ostmitteleuropäischen Zeitgenossen"
@@ -7089,6 +7096,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Idejni, družbeni in narodnopolitični nazori Ivana Tavčarja po ustanovitvi jugoslovanske demokratske stranke leta 1918</title>
+            <cobiss>1220468</cobiss>
+            <page>885-901</page>
             <citedIn count="2">
                <cit did="664" cid="1" avtor0="Perovšek Jurij"
                   naslov0="Idejni, družbeni in narodnopolitični nazori Ivana Tavčarja po ustanovitvi jugoslovanske demokratske stranke leta 1918"
@@ -7114,6 +7123,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Rozman Franc</author>
             <title>Turnerjevi štipendisti</title>
+            <cobiss>1138292</cobiss>
+            <page>1033-1044</page>
             <citedIn count="1">
                <cit did="564" cid="1" avtor0="Rozman Franc" naslov0="Turnerjevi štipendisti"
                   source="Melikov zbornik" pubPlace="Ljubljana" publisher="ZRC" year="2001"/>
@@ -7132,7 +7143,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Stariha Gorazd</author>
             <title>Novoizvoljeni župani in njihove težave ob začetku občinske samouprave</title>
-            <title>Novoizvoljeni župani in njihove težave ob začetku občinske uprave</title>
+            <addTitle>die neugewählten Bürgermeister und ihre Schwierigkeiten mit der Einführung der Gemeindeselbstverwaltung</addTitle>
+            <cobiss>19338029</cobiss>
             <page>511-528</page>
             <citedIn count="3">
                <cit did="1599" cid="9" avtor0="Stariha Gorazd"
@@ -7151,6 +7163,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Stiplovšek Miroslav</author>
             <title>Začetek delovanja banskega sveta Dravske banovine leta 1931</title>
+            <cobiss>16016994</cobiss>
+            <page>951-966</page>
             <citedIn count="1">
                <cit did="1512" cid="122" avtor0="Stiplovšek Miroslav"
                   naslov0="Začetek delovanja banskega sveta Dravske banovine leta 1931"
@@ -7161,6 +7175,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Studen Andrej</author>
             <title>Helénia Evrópi drága</title>
+            <cobiss>1255540</cobiss>
             <page>391-403</page>
             <citedIn count="1">
                <cit did="726" cid="48" avtor0="Studen Andrej" naslov0="Helénia Evrópi drága"
@@ -7171,6 +7186,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Svoljšak Petra</author>
             <title>O poklicni in starostni strukturi padlih avstroogrskih vojakov v prvi svetovni vojni</title>
+            <addTitle>über die Alters- und Berufsstruktur der gefallenen Soldaten der österreichisch-ungarischen Monarchie im Ersten Weltkrieg</addTitle>
+            <cobiss>18121261</cobiss>
             <page>835-850</page>
             <citedIn count="1">
                <cit did="2430" cid="5" avtor0="Svoljšak Petra"
@@ -7217,8 +7234,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Čepič Zdenko</author>
-            <title>Volitve v Ljudsko skupščino Federativne ljudske republike Jugoslavije v luči volilne zakonodaje</title>
             <title>Volitve v ljudsko skupščino Federativne ljudske republike Jugoslavije v luči volilne zakonodaje</title>
+            <cobiss>1219444</cobiss>
             <page>1051-1060</page>
             <citedIn count="2">
                <cit did="790" cid="8" avtor0="Čepič Zdenko"
@@ -7234,6 +7251,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Srednjeveško plemstvo in slovensko zgodovinopisje</title>
+            <addTitle>der Adel des Mittelalters und die slowenische Geschichtsschreibung</addTitle>
+            <cobiss>18139181</cobiss>
             <page>61-72</page>
             <citedIn count="1">
                <cit did="2647" cid="368" avtor0="Štih Peter"
@@ -7280,10 +7299,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Šuštar Branko</author>
-            <title>Verska šola in liberalni duh učiteljev</title>
-            <title>Z "Učiteljskim tovarišem" o liberalni in katoliški usmeritvi slovenskega učiteljstva konec 19. stoletja</title>
-            <title>Verska šola in liberalni duh učiteljev. Z 'Učiteljskim tovarišem' o liberalni in katoliški usmeritvi slovenskega učiteljstva konec 19. stoletja</title>
-            <title>Verska šola in liberalni duh učiteljev...</title>
+            <title>Verska šola in liberalni duh učiteljev : z 'Učiteljskim tovarišem' o liberalni in katoliški usmeritvi slovenskega učiteljstva konec 19. stoletja</title>
+            <cobiss>512358764</cobiss>
             <page>635-654</page>
             <citedIn count="3">
                <cit did="1321" cid="4" avtor0="Šuštar Branko"
@@ -7334,6 +7351,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Žontar Jože</author>
             <title>Uvedba okrajne uprave na Kranjskem leta 1849</title>
+            <cobiss>6802230</cobiss>
             <page>529-550</page>
             <citedIn count="2">
                <cit did="2510" cid="10" avtor0="Žontar Jože"
@@ -7387,7 +7405,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Knežević Hočevar Duška</author>
-            <title>Prebivalstveno gibanje ob slovensko-hrvaški meji: primer širšega Obkolpskega prostora</title>
+            <title>Prebivalstveno gibanje ob slovensko-hrvaški meji : primer širšega Obkolpskega prostora</title>
+            <addTitle>population dynamics along the border between Slovenia and Croatia: the case of the broader region along the Kolpa River</addTitle>
             <cobiss>26066221</cobiss>
             <page>35-53</page>
             <citedIn count="1">
@@ -7401,7 +7420,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Matkovič Anita</author>
-            <title>Sobivanje različnih kultur na primeru Bele krajine (pokopališče kot etnološki vir)</title>
+            <title>Sobivanje različnih kultur na primeru Bele krajine : (pokopališče kot etnološki vir)</title>
+            <addTitle>cohabitation of different cultures in Bela Krajina</addTitle>
             <cobiss>59007489</cobiss>
             <page>81-94</page>
             <citedIn count="1">
@@ -7416,6 +7436,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Ramšak Mojca</author>
             <title>Besede, kot oster meč in zavist vedno najdejo poslušalce : žalitve časti in dobrega imena v izoliranem slovenskem okolju</title>
+            <addTitle>words like sharp sword and ebvy always find the audience. Attacks on the honour and good name in an isolated Slovene environment</addTitle>
             <cobiss>26050605</cobiss>
             <page>301-315</page>
             <citedIn count="1">
@@ -7430,6 +7451,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Smole Marko</author>
             <title>Oblikovanje ideje o "Palčavi šiši" iz vasi Plešce na Hrvaškem kot etnološkemu spomeniku</title>
+            <addTitle>the Palčava šiša from Plešca, Croatia: from an idea to an ethnological monument</addTitle>
             <cobiss>59007745</cobiss>
             <page>95-107</page>
             <citedIn count="1">
@@ -7444,6 +7466,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Sok Jasna</author>
             <title>Zagreb, mesto sanj, želja in zaslužka</title>
+            <addTitle>Zagreb, the city of dreams, desires and earnings</addTitle>
             <cobiss>59008001</cobiss>
             <page>109-119</page>
             <citedIn count="1">
@@ -7455,8 +7478,9 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vince Pallua Jelka</author>
-            <title>"Kad sam ja bio mlad uopče hrvatski nisam znao": migracije i identiteta talijana zapadne Slavonije</title>
+            <author>Vince-Pallua Jelka</author>
+            <title>"Kad sam ja bio mlad uopče hrvatski nisam znao" : migracije i identiteta Talijana zapadne Slavonije</title>
+            <addTitle>"When I was young I did not speak a word of croatian": migrations and ethnicity of Italians in western Slavonia</addTitle>
             <cobiss>59008257</cobiss>
             <page>121-134</page>
             <citedIn count="1">
@@ -7471,6 +7495,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Šlibar Vladimir</author>
             <title>Prehrana v Obsotelju in na Kozjanskem v prvi polovici 20. stoletja</title>
+            <addTitle>The food culture of Obsotelje and Kozjansko in the first half of the 20th century</addTitle>
             <cobiss>13538613</cobiss>
             <page>193-210</page>
             <citedIn count="1">
@@ -7503,8 +7528,9 @@ veliko godpodarsko krizo tridesetih let</title>
       <chapters>
          <pubPart>
             <author>Hafner Stanislav</author>
-            <title>Miklošič v življenju in delu</title>
+            <title>Fran Miklošič v življenju in delu</title>
             <cobiss>28017197</cobiss>
+            <page>9-44</page>
             <citedIn count="1">
                <cit did="29" cid="176" avtor0="Hafner Stanislav"
                   naslov0="Miklošič v življenju in delu" cobiss="28017197"
@@ -7514,7 +7540,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Kranjc Janez</author>
             <title>Prispevek Frana Miklošiča k oblikovanju slovenske pravne terminologije v prvem letniku dvojezičnega izhajanja državnega zakonika in vladnega lista avstrijskega cesarstva</title>
-            <page>177-222</page>
+            <cobiss>621869</cobiss>
+            <page>117-134</page>
             <citedIn count="1">
                <cit did="2314" cid="17" avtor0="Kranjc Janez"
                   naslov0="Prispevek Frana Miklošiča k oblikovanju slovenske pravne terminologije v prvem letniku dvojezičnega izhajanja državnega zakonika in vladnega lista avstrijskega cesarstva"
@@ -7524,9 +7551,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Lukan Walter</author>
-            <title>Fran Miklošič kot politik v gosposki zbornici</title>
-            <title>Franc Miklošič kot politik v gosposki zbornici</title>
+            <title>Franc Miklošič kot politik v gospodarski zbornici</title>
             <cobiss>643629</cobiss>
+            <page>577-590</page>
             <citedIn count="2">
                <cit did="29" cid="404" avtor0="Lukan Walter"
                   naslov0="Fran Miklošič kot politik v gosposki zbornici" cobiss="643629"
@@ -7538,10 +7565,10 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Pagačnik Jože</author>
             <author>Pogačnik Jože</author>
             <title>Miklošič in ilirizem</title>
             <cobiss>640557</cobiss>
+            <page>487-502</page>
             <citedIn count="2">
                <cit did="1792" cid="24" avtor0="Pagačnik Jože" naslov0="Miklošič in ilirizem"
                   source="Miklošičev zbornik" pubPlace="Maribor" year="1991" page="936"/>
@@ -7553,6 +7580,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Sturm-Schnabl Katja</author>
             <title>Miklošič in južni Slovani</title>
             <cobiss>643885</cobiss>
+            <page>591-601</page>
             <citedIn count="1">
                <cit did="29" cid="267" avtor0="Sturm-Schnabl Katja"
                   naslov0="Miklošič in južni Slovani" cobiss="643885" source="Miklošičev zbornik"
@@ -7579,8 +7607,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Vrbnjak Viktor</author>
-            <title>Kulturna podoba vzhodne slovenske Štajerske</title>
+            <title>Kulturna podoba vzhodne slovenske Štajerske na prelomu 18. v 19. stoletje</title>
             <cobiss>42138369</cobiss>
+            <page>57-86</page>
             <citedIn count="1">
                <cit did="29" cid="17" avtor0="Vrbnjak Viktor"
                   naslov0="Kulturna podoba vzhodne slovenske Štajerske" cobiss="42138369"
@@ -7591,6 +7620,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Šivic-Dular Alenka</author>
             <title>Pojem panonskoslovenski pri Miklošiču</title>
             <cobiss>635437</cobiss>
+            <page>349-357</page>
             <citedIn count="1">
                <cit did="29" cid="413" avtor0="Šivic-Dular Alenka"
                   naslov0="Pojem panonskoslovenski pri Miklošiču" cobiss="635437"
@@ -7644,9 +7674,7 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
             <author>Deželak-Barič Vida</author>
-            <title>Osvobodilna fronta Slovenskega naroda in njen odnos do vere</title>
             <title>Osvobodilna fronta slovenskega naroda in njen odnos do vere</title>
             <cobiss>867188</cobiss>
             <page>97-112</page>
@@ -7678,7 +7706,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Mesečna poročila Erwina Roesenerja v moskovskem arhivu</title>
+            <title>Mesečna poročila Erwina Rösenerja v Moskovskem arhivu</title>
+            <cobiss>867700</cobiss>
+            <page>163-168</page>
             <citedIn count="1">
                <cit did="623" cid="24" avtor0="Ferenc Tone"
                   naslov0="Mesečna poročila Erwina Roesenerja v moskovskem arhivu"
@@ -7689,11 +7719,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Guštin Damijan</author>
-            <title>"Komanda Slovenije"</title>
-            <title>slovenski načrt vojaške uprave slovenskega ozemlja leta 1945</title>
             <title>"Komanda Slovenije" : slovenski načrt vojaške uprave slovenskega ozemlja leta 1945</title>
             <cobiss>867956</cobiss>
-            <page>139-185</page>
+            <page>169-185</page>
             <citedIn count="2">
                <cit did="753" cid="6" avtor0="Guštin Damijan" naslov0="&#34;Komanda Slovenije&#34;"
                   naslov1="slovenski načrt vojaške uprave slovenskega ozemlja leta 1945"
@@ -7706,9 +7734,9 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kacin Wohinz Milica</author>
+            <author>Kacin-Wohinz Milica</author>
             <title>Badoglio Sonninu = italijanski načrt za protijugoslovansko akcijo decembra 1918</title>
-            <title>Badoglio Sonninu, Italijanski načrt za protijugoslovansko akcijo decembra 1918</title>
+            <cobiss>863348</cobiss>
             <page>21-26</page>
             <citedIn count="2">
                <cit did="3098" cid="78" avtor0="Kacin Wohinz Milica"
@@ -7724,6 +7752,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Kolar Bogdan</author>
             <title>Nekatere razsežnosti odnosa med dr. Metodom Mikužem in ljubljanskim škofom dr. Gregorijem Rožmanom</title>
+            <cobiss>	13881645</cobiss>
+            <page>113-130</page>
             <citedIn count="1">
                <cit did="623" cid="20" avtor0="Kolar Bogdan"
                   naslov0="Nekatere razsežnosti odnosa med dr. Metodom Mikužem in ljubljanskim škofom dr. Gregorijem Rožmanom"
@@ -7735,6 +7765,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Slovenski poslanci na Dunaju in v Beogradu</title>
+            <cobiss>13882925</cobiss>
+            <page>17-20</page>
             <citedIn count="1">
                <cit did="1630" cid="13" avtor0="Melik Vasilij"
                   naslov0="Slovenski poslanci na Dunaju in v Beogradu" source="Mikužev zbornik"
@@ -7764,9 +7796,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>Pojava dnevnika Jugoslovan 1930–1931</title>
             <title>Pojava dnevnika Jugoslovan 1930-1931</title>
-            <page>66-71</page>
+            <cobiss>13881133</cobiss>
+            <page>65-74</page>
             <citedIn count="2">
                <cit did="1512" cid="125" avtor0="Pleterski Janko"
                   naslov0="Pojava dnevnika Jugoslovan 1930–1931" source="Mikužev zbornik"
@@ -7794,8 +7826,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Stiplovšek Miroslav</author>
             <title>Prizadevanja Slovenske ljudske stranke za avtonomijo Slovenije ob sprejemanju prve jugoslovanske ustave in zakonodaje o oblastnih samoupravah 1921-1922</title>
-            <title>Prizadevanja Slovenske ljudske stranke za avtonomijo Slovenije ob sprejemanju prve jugoslovanske ustave in zakonodaje o oblastnih samoupravah 1921–1922</title>
-            <title>Prizadevanja slovenske ljudske stranke za avtonomijo Slovenije....</title>
             <cobiss>11107170</cobiss>
             <page>51-64</page>
             <citedIn count="5">
@@ -7823,8 +7853,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Troha Nevenka</author>
-            <title>Odnosi med sbvenskimi (jugoslovanskimi) in italijanskimi komunisti med vojno (1941-1945) - pregled objav in vprašanje virov</title>
-            <title>Odnosi med slovenskimi (jugoslovanskimi) in italijanskimi komunisti med vojno (1941-1945) - pregled objav in vprašanje virov</title>
+            <title>Odnosi med slovenskimi (jugoslovanskimi) in italijanskimi komunisti med vojno (1941-1945) : pregled objav in vprašanje arhivskih virov</title>
+            <cobiss>868468</cobiss>
             <page>187-200</page>
             <citedIn count="2">
                <cit did="1782" cid="338" avtor0="Troha Nevenka"
@@ -7840,7 +7870,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Vidovič Miklavčič Anka</author>
             <title>Kočevski okraj v desetletju pred aprilskim zlomom</title>
             <cobiss>870004</cobiss>
-            <page>285-286</page>
+            <page>273-286</page>
             <citedIn count="1">
                <cit did="1122" cid="9" avtor0="Vidovič Miklavčič Anka"
                   naslov0="Kočevski okraj v desetletju pred aprilskim zlomom" cobiss="870004"
@@ -7849,7 +7879,6 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Čepić Zdenko</author>
             <author>Čepič Zdenko</author>
             <title>Oris nastajanja slovensko-hrvaške meje po drugi svetovni vojni</title>
             <cobiss>868724</cobiss>
@@ -7882,16 +7911,19 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Missijev simpozij v Rimu</pubTitle>
-      <!-- nisem ga našla v Cobissu -->
+      <pubTitle>Missiev simpozij v Rimu</pubTitle>
+      <editor>Škulj, Edo</editor>
       <pubPlace>Celje</pubPlace>
       <publisher>Mohorjeva družba</publisher>
+      <collection>Simpoziji v Rimu ; 5</collection>
       <year>1988</year>
-      <year>1987</year>
+      <pubCobiss>6524160</pubCobiss>
       <chapters>
          <pubPart>
             <author>Dolinar France Martin</author>
             <title>Skrb za prenovo Cerkve v ljubljanski škofiji</title>
+            <cobiss>27941634</cobiss>
+            <page>123-134</page>
             <citedIn count="1">
                <cit did="2635" cid="34" avtor0="Dolinar France Martin"
                   naslov0="Skrb za prenovo Cerkve v ljubljanski škofiji"
@@ -7902,7 +7934,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Granda Stane</author>
             <title>I. in II. slovenski katoliški shod</title>
             <cobiss>27940610</cobiss>
-            <page>95-102</page>
+            <page>95-109</page>
             <citedIn count="3">
                <cit did="2790" cid="4" avtor0="Granda Stane"
                   naslov0="I. in II. slovenski katoliški shod" source="Missiev simpozij v Rimu"
@@ -7920,6 +7952,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Kogoj Jasna Marija</author>
             <title>Missiev odnos do redovnikov</title>
+            <cobiss>27945218</cobiss>
             <page>196-216</page>
             <citedIn count="1">
                <cit did="865" cid="8" avtor0="Kogoj Jasna Marija"
@@ -7930,6 +7963,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Kralj Franc</author>
             <title>Cerkvene razmere v goriški nadškofiji na prelomu 19. stoletja</title>
+            <cobiss>27942146</cobiss>
+            <page>149-162</page>
             <citedIn count="1">
                <cit did="1317" cid="221" avtor0="Kralj Franc"
                   naslov0="Cerkvene razmere v goriški nadškofiji na prelomu 19. stoletja"
@@ -7938,9 +7973,7 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Lukan Walter</author>
-            <title>Socialni katolicizem v Avstriji in pri Slovencih</title>
             <title>Socialni katolicizem v Avstriji in pri Slovencih v drugi polovici 19. stoletja</title>
-            <title>Socialni katolicizem v Avstriji in priSlovencih v drugi polovici 19. stoletja</title>
             <cobiss>27940866</cobiss>
             <page>110-122</page>
             <citedIn count="6">
@@ -7971,6 +8004,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Marušič Branko</author>
             <title>Goriška na prelomu 19. in 20. stoletja</title>
             <cobiss>27941890</cobiss>
+            <page>135-148</page>
             <citedIn count="2">
                <cit did="2790" cid="34" avtor0="Marušič Branko"
                   naslov0="Goriška na prelomu 19. in 20. stoletja" source="Missiev simpozij v Rimu"
@@ -7985,7 +8019,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Melik Vasilij</author>
             <title>Družbene razmere v ljubljanski škofiji v drugi polovici 19. stoletja</title>
             <cobiss>27940354</cobiss>
-            <page>85-91</page>
+            <page>84-94</page>
             <citedIn count="3">
                <cit did="1022" cid="22" avtor0="Melik Vasilij"
                   naslov0="Družbene razmere v ljubljanski škofiji v drugi polovici 19. stoletja"
@@ -8002,9 +8036,8 @@ veliko godpodarsko krizo tridesetih let</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Rajšp Vinko</author>
+            <author>Rajšp Vincenc</author>
             <title>Ozadja pri imenovanjih dr. Jakoba Missie za ljubljanskega škofa, goriškega nadškofa in kardinala</title>
-            <title>Ozadja pri imenovanjih dr. Jakoba Missie za ljubljanskega škofa...</title>
             <cobiss>27939842</cobiss>
             <page>56-75</page>
             <citedIn count="2">
@@ -8031,10 +8064,10 @@ veliko godpodarsko krizo tridesetih let</title>
       <pubCobiss>100290304</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Bratot Rajko</author>
             <author>Bratož Rajko</author>
             <title>Primeri množične smrti na današnjem slovenskem ozemlju v antični dobi</title>
-            <page>70-71</page>
+            <cobiss>10023266</cobiss>
+            <page>45-78</page>
             <citedIn count="2">
                <cit did="2532" cid="5" avtor0="Bratot Rajko"
                   naslov0="Primeri množične smrti na današnjem slovenskem ozemlju v antični dobi"
@@ -8066,6 +8099,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Dežman Jože</author>
             <title>Talci zgodovine : Slovenci in žrtve druge svetovne vojne</title>
+            <cobiss>5257782</cobiss>
+            <page>241-270</page>
             <citedIn count="1">
                <cit did="860" cid="22" avtor0="Dežman Jože"
                   naslov0="Talci zgodovine : Slovenci in žrtve druge svetovne vojne"
@@ -8074,8 +8109,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Kresal France</author>
-            <title>Invalidi in vojne vdove kot trajne posledice prve svetovne vojne : njihov status, število in struktura</title>
             <title>Invalidi in vojne vdove kot trajne posledice prve svetovne vojne, njihov status, število in struktura</title>
+            <cobiss>870260</cobiss>
             <page>307-313</page>
             <citedIn count="3">
                <cit did="1367" cid="4" avtor0="Kresal France"
@@ -8094,8 +8129,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Svoljšak Petra</author>
             <title>Poizkus ocene vojaških in civilnih izgub (žrtev) med 1. svetovno vojno</title>
-            <title>Poizkus ocene vojaških in civilnih izgub (žrtev) med prvo svetovno vojno</title>
-            <title>Poizkus ocene vojaških in civilnih izgub med 1. svetovno vojno</title>
             <cobiss>11882285</cobiss>
             <page>225-240</page>
             <citedIn count="7">
@@ -8132,10 +8165,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Troha Nevenka</author>
-            <title>Genocid ali kaznovanje fašističnih zločinov</title>
-            <title>Kdo so bili usmrčeni maja 1945 v Tržaški pokrajini</title>
             <title>Genocid ali kaznovanje fašističnih zločinov : kdo so bili usmrčeni maja 1945 v Tržaški pokrajini</title>
-            <page>285-303</page>
+            <cobiss>902260</cobiss>
+            <page>285-302</page>
             <citedIn count="2">
                <cit did="784" cid="5" avtor0="Troha Nevenka"
                   naslov0="Genocid ali kaznovanje fašističnih zločinov"
@@ -8150,8 +8182,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Šorn Mojca</author>
-            <author>Tominšek  Rihtar  Tadeja</author>
+            <author>Tominšek Rihtar Tadeja</author>
             <title>Predstavitev projekta nacionalne zbirke »Žrtve druge svetovne vojne in zaradi nje« v Sloveniji</title>
+            <cobiss>811124</cobiss>
             <page>303-306</page>
             <citedIn count="1">
                <cit did="2299" cid="157" avtor0="Šorn Mojca" avtor1="Tominšek  Rihtar  Tadeja"
@@ -8163,6 +8196,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Ob naselitvi Slovanov vse pobito?</title>
+            <cobiss>10024290</cobiss>
+            <page>79-93</page>
             <citedIn count="2">
                <cit did="2165" cid="18" avtor0="Štih Peter"
                   naslov0="Ob naselitvi Slovanov vse pobito?" source="Množične smrti na Slovenskem"
@@ -8175,18 +8210,20 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Narodne manjšine. 2. Položaj hrvaške, slovenske in srbske manjšine na Madžarskem</pubTitle>
-      <!-- nisem našla v Cobissu, le članek -->
+      <pubTitle>položaj hrvaške, slovenske in srbske manjšine na Madžarskem</pubTitle>
       <editor>Popov, Čedomir</editor>
       <editor>Vratuša, Anton</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
+      <collection>Narodne manjšine ; 2</collection>
       <year>1991</year>
+      <pubCobiss>29163520</pubCobiss>
       <chapters>
          <pubPart>
             <author>Grafenauer Bogo</author>
             <title>Vprašanja položaja manjšin južnoslovanskih narodov na Madžarskem</title>
-            <page>57-63</page>
+            <cobiss>408621</cobiss>
+            <page>53-64</page>
             <citedIn count="1">
                <cit did="802" cid="1" avtor0="Grafenauer Bogo"
                   naslov0="Vprašanja položaja manjšin južnoslovanskih narodov na Madžarskem"
@@ -8197,9 +8234,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Vratuša Anton</author>
-            <title>Družbene spremembe na Madžarskem in položaj Slovencev, Hrvatov in Srbov</title>
-            <title>pogovor</title>
-            <page>229-271</page>
+            <title>Družbene spremembe na Madžarskem in položaj Slovencev, Hrvatov in Srbov : pogovor</title>
+            <cobiss>754477</cobiss>
+            <page>217-246</page>
             <citedIn count="3">
                <cit did="1292" cid="4" avtor0="Vratuša Anton"
                   naslov0="Družbene spremembe na Madžarskem in položaj Slovencev, Hrvatov in Srbov"
@@ -8222,23 +8259,20 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Narodne manjšine, 3. Slovenci v avstrijski zvezni deželi Štajerski</pubTitle>
-      <!-- NI V COBISSU -->
-      <pubTitle>Narodne manjšine, 3, Slovenci v avstrijski zvezni deželi Štajerski</pubTitle>
-      <pubTitle>Narodne manjšine 3: Slovenci v avstrijski zvezni deželi Štajerski - zbornik referatov na znanstvenem srečanju v Mariboru. 25.- 27. maj 1993</pubTitle>
-      <pubTitle>Narodne manjšine 3: Slovenci v avstrijski zvezni deželi Štajerski</pubTitle>
-      <pubTitle>Narodne manjšine 3, Slovenci v avstrijski zvezni deželi Štajerski</pubTitle>
-      <pubTitle>Narodne manjšine 3 : Slovenci v avstrijski zvezni državi Štajerski : Zbornik referatov na znanstvenem srečanju v Mariboru</pubTitle>
+      <pubTitle>Slovenci v avstrijski zvezni deželi Štajerski</pubTitle>
+      <pubTitle>zbornik referatov na znanstvenem srečanju v Mariboru, 25.-27. maja 1993</pubTitle>
+      <editor>Jesih, Boris</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>SAZU</publisher>
+      <collection>Narodne manjšine ; 3</collection>
       <year>1994</year>
-      <year>1993</year>
+      <pubCobiss>39993088</pubCobiss>
       <chapters>
          <pubPart>
             <author>Gombocz Wolfgang Leopold</author>
             <title>Člen 7 in Štajerska ali "Tukaj so vsi Avstrijci, ni nobenih Slovencev!"</title>
-            <page>122-132</page>
+            <cobiss>1625901</cobiss>
+            <page>122-133</page>
             <citedIn count="1">
                <cit did="858" cid="12" avtor0="Gombocz Wolfgang Leopold"
                   naslov0="Člen 7 in Štajerska ali &#34;Tukaj so vsi Avstrijci, ni nobenih Slovencev!&#34;"
@@ -8250,7 +8284,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Jesih Boris</author>
             <title>Odnos avstrijskih in jugoslovanskih (slovenskih) oblasti do slovenske manjšine v avstrijski zvezni deželi Štajerski</title>
-            <page>229-233</page>
+            <cobiss>798285</cobiss>
+            <page>228-234</page>
             <citedIn count="1">
                <cit did="858" cid="11" avtor0="Jesih Boris"
                   naslov0="Odnos avstrijskih in jugoslovanskih (slovenskih) oblasti do slovenske manjšine v avstrijski zvezni deželi Štajerski"
@@ -8262,8 +8297,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <author>Olas Ludvik</author>
-            <author>Klemenčič Matjaž, Olas Ludvik</author>
             <title>Demografske strukture prebivalstva</title>
+            <cobiss>6065668</cobiss>
             <page>73-81</page>
             <citedIn count="3">
                <cit did="2763" cid="117" avtor0="Klemenčič Matjaž" avtor1="Olas Ludvik"
@@ -8283,7 +8318,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Moritsch Andrej</author>
-            <title>Zur Problematik der Erforschung von Nationalitätenfrage</title>
+            <title>Zur Problematik der Erforschung von Nationalitätenfragen</title>
+            <cobiss>1623085</cobiss>
+            <page>50-55</page>
             <citedIn count="1">
                <cit did="1715" cid="10" avtor0="Moritsch Andrej"
                   naslov0="Zur Problematik der Erforschung von Nationalitätenfrage"
@@ -8311,7 +8348,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Vratuša Anton</author>
             <title>Družbeno zgodovinski pogled na Slovence v avstrijski zvezni deželi Štajerski</title>
-            <title>Družbeno zgodovinski pregled na Slovence v avstrijski zvezni deželi Štajerski</title>
+            <cobiss>1639725</cobiss>
             <page>263-277</page>
             <citedIn count="2">
                <cit did="858" cid="6" avtor0="Vratuša Anton"
@@ -8329,7 +8366,7 @@ veliko godpodarsko krizo tridesetih let</title>
             <author>Šiftar Vanek</author>
             <title>Sosedstvo ob državni meji z Avstrijo</title>
             <cobiss>1633069</cobiss>
-            <page>165-169</page>
+            <page>165-195</page>
             <citedIn count="1">
                <cit did="3046" cid="19" avtor0="Šiftar Vanek"
                   naslov0="Sosedstvo ob državni meji z Avstrijo" cobiss="1633069"
@@ -8340,15 +8377,24 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Narodne manjšine 4. Živeti z mejo: Materinščina, dejavnik osebne in skupnostne narodnostne identitete. Zbornik referatov na znanstveno kulturnem srečanju v Murski Soboti 5.-6. junija 1998</pubTitle>
-      <pubTitle>Narodne manjšine 4. Živeti z mejo. Materinščina, dejavnik osebne in skupnostne narodnostne identitete. Zbornik referatov na znanstveno kulturnem srečanju v Murski Soboti 5.-6 junija 1998</pubTitle>
+      <pubTitle>Živeti z mejo</pubTitle>
+      <pubTitle>materinščina, dejavnik osebne in skupnostne narodnostne identitete</pubTitle>
+      <pubTitle>zbornik referatov na znanstveno-kulturnem srečanju v Murski Soboti 5.-6. junija 1998</pubTitle>
+      <pubAddTitle>Leben mit der Grenze. Die Muttersprache als Faktor der persönlichen und gemeinschaftlichen nationalen Identität</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>INV</publisher>
+      <pubPlace>Monošter</pubPlace>
+      <publisher>Inštitut za narodnostna vprašanja</publisher>
+      <publisher>Slovenska akademija znanosti in umetnosti</publisher>
+      <publisher>Zveza Slovencev na Madžarskem</publisher>
+      <collection>Narodne manjšine ; 4</collection>
       <year>2000</year>
+      <pubCobiss>106233088</pubCobiss>
       <chapters>
          <pubPart>
             <author>Göncz László</author>
             <title>Ovire prizadevanj za ohranitev maternega jezika</title>
+            <cobiss>7573069</cobiss>
+            <page>64-68</page>
             <citedIn count="1">
                <cit did="2899" cid="36" avtor0="Göncz László"
                   naslov0="Ovire prizadevanj za ohranitev maternega jezika"
@@ -8358,7 +8404,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Göncz László</author>
-            <title>Položaj prekmurskih Madžarov po spremembi sistema (Stanje narodne zavesti Madžarov)</title>
+            <title>Položaj prekmurskih Madžarov po spremembi sistema : (Stanje narodne zavesti Madžarov)</title>
+            <cobiss>7573325</cobiss>
             <page>84-97</page>
             <citedIn count="1">
                <cit did="2670" cid="6" avtor0="Göncz László"
@@ -8370,6 +8417,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Klopčič Vera</author>
             <title>Novejši mednarodnopravni dokumenti in pravica do uporabe maternega jezika (narodnih) manjšin</title>
+            <cobiss>7520333</cobiss>
             <page>321-343</page>
             <citedIn count="1">
                <cit did="2670" cid="12" avtor0="Klopčič Vera"
@@ -8381,7 +8429,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Križman Mirko</author>
             <title>Razlike med generacijami v rabi slovenščine pri manjšini v Radgonskem kotu</title>
-            <page>194-221</page>
+            <cobiss>7575373</cobiss>
+            <page>194-213</page>
             <citedIn count="1">
                <cit did="2670" cid="18" avtor0="Križman Mirko"
                   naslov0="Razlike med generacijami v rabi slovenščine pri manjšini v Radgonskem kotu"
@@ -8391,8 +8440,8 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Nećak Lük Albina</author>
-            <title>Sporočila izza okrogle mize "Ali je opuščanje maternega jezika manjšin mogoče zaobrniti in kako?"</title>
-            <title>Na znanstveno kulturnem srečanji Živeti z mejo</title>
+            <title>Sporočila izza okrogle mize "Ali je opuščanje maternega jezika manjšin mogoče zaobrniti in kako?" na znanstveno kulturnem srečanju "Živeti z mejo", Murska Sobota, 5. in 6. junij 1998</title>
+            <cobiss>7520589</cobiss>
             <page>369-373</page>
             <citedIn count="1">
                <cit did="2670" cid="23" avtor0="Nećak Lük Albina"
@@ -8416,6 +8465,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Klemenčič Vladimir</author>
             <title>Funkcija narodnih manjšin v prekomejnem meddržavnem povezovanju in evropski integraciji</title>
+            <cobiss>3690850</cobiss>
             <page>97-107</page>
             <citedIn count="1">
                <cit did="2729" cid="13" avtor0="Klemenčič Vladimir"
@@ -8440,17 +8490,20 @@ veliko godpodarsko krizo tridesetih let</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Narodne manjšine, zbornik referatov in razprav na znanstvenem srečanju 30. in 31. marca 1989</pubTitle>
-      <!-- ni v cobissu -->
-      <pubTitle>Narodne manjšine : Zbornik referatov in razprav na znanstvenem srečanju 30. in 31. marca 1989</pubTitle>
+      <pubTitle>Zbornik referatov in razprav na znanstvenem srečanju 30. in 31. marca 1989</pubTitle>
+      <editor>Vratuša, Anton</editor>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>SAZU, Medakademijski odbor za proučevanje narodnih manjšin in narodnosti</publisher>
-      <publisher>SAZU</publisher>
+      <publisher>Medakademijski odbor za proučevanje narodnih manjšin in narodnosti</publisher>
+      <publisher>Slovenska akademija znanosti in umetnosti</publisher>
+      <collection>Narodne manjšine</collection>
       <year>1990</year>
+      <pubCobiss>18129408</pubCobiss>
       <chapters>
          <pubPart>
             <author>Grafenauer Bogo</author>
             <title>Proučevanje problematike posameznih manjšinskih skupnosti</title>
+            <cobiss>20351232</cobiss>
+            <page>17-30</page>
             <citedIn count="1">
                <cit did="2899" cid="15" avtor0="Grafenauer Bogo"
                   naslov0="Proučevanje problematike posameznih manjšinskih skupnosti"
@@ -8463,6 +8516,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Klemenčič Vladimir</author>
             <title>Metodologija uradnih popisov prebivalstva pripadnikov slovenske manjšine v Italiji, Avstriji in na Madžarskem</title>
+            <cobiss>20352000</cobiss>
             <page>31-44</page>
             <citedIn count="2">
                <cit did="209" cid="3" avtor0="Klemenčič Vladimir"
@@ -8490,6 +8544,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Cvirn Janez</author>
             <title>Nemci na Slovenskem (1848-1941)</title>
+            <cobiss>18137442</cobiss>
+            <page>99-144</page>
             <citedIn count="2">
                <cit did="1783" cid="36" avtor0="Cvirn Janez"
                   naslov0="Nemci na Slovenskem (1848-1941)" source="»Nemci« na Slovenskem 1941-1955"
@@ -8501,7 +8557,6 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Cvirn Janez</author>
-            <title>Nemško (avstrijsko) in slovensko zdodovinopisje o Nemcih na Slovenskem</title>
             <title>Nemško (avstrijsko) in slovensko zgodovinopisje o Nemcih na Slovenskem (1848-1941)</title>
             <cobiss>18136930</cobiss>
             <page>69-98</page>
@@ -8519,6 +8574,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Ferenc Mitja</author>
             <title>»Nemci« na Slovenskem v popisih prebivalstva po drugi svetovni vojni</title>
+            <cobiss>18176354</cobiss>
             <page>317-369</page>
             <citedIn count="1">
                <cit did="2570" cid="4" avtor0="Ferenc Mitja"
@@ -8530,7 +8586,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Ferenc Tone</author>
             <title>Nemci na Slovenskem med drugo svetovno vojno</title>
-            <cobiss>117368320</cobiss>
             <page>145-190</page>
             <citedIn count="2">
                <cit did="1784" cid="4" avtor0="Ferenc Tone"
@@ -8545,6 +8600,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Nećak Dušan</author>
             <title>Nemci« na Slovenskem 1945-1955 v luči nemških in avstrijskih dokumentov</title>
+            <cobiss>18175842</cobiss>
             <page>219-290</page>
             <citedIn count="1">
                <cit did="2539" cid="17" avtor0="Nećak Dušan"
@@ -8556,9 +8612,8 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>"Nemci" na Slovenskem po drugi svetovni vojni</title>
-            <title>Nemci na Slovenskem po drugi svetovni vojni</title>
             <cobiss>18138466</cobiss>
-            <page>191-219</page>
+            <page>191-218</page>
             <citedIn count="2">
                <cit did="942" cid="20" avtor0="Repe Božo"
                   naslov0="&#34;Nemci&#34; na Slovenskem po drugi svetovni vojni" cobiss="18138466"
@@ -8578,13 +8633,13 @@ veliko godpodarsko krizo tridesetih let</title>
       <editor>Nećak, Dušan</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstveni inštitut Filozofske fakultete</publisher>
+      <collection>Razprave Filozofske fakultete</collection>
       <year>1998</year>
       <pubCobiss>74079232</pubCobiss>
       <chapters>
          <pubPart>
             <author>Cvirn Janez</author>
             <title>Nemci na Slovenskem (1848-1941)</title>
-            <title>Nemci na Slovenskem 1848-1941</title>
             <cobiss>6115125</cobiss>
             <page>53-98</page>
             <citedIn count="7">
@@ -8622,7 +8677,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Cvirn Janez</author>
             <title>Nemško (avstrijsko) in slovensko zgodovinopisje o Nemcih na Slovenskem (1848-1941)</title>
-            <title>Nemško (avstrijsko) zgodovinopisje o Nemcih na Slovenskem (1848-1941)</title>
+            <cobiss>6114869</cobiss>
             <page>23-52</page>
             <citedIn count="4">
                <cit did="2899" cid="4" avtor0="Cvirn Janez"
@@ -8645,7 +8700,7 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Ferenc Mitja</author>
             <title>"Nemci" na Slovenskem v popisih prebivalstva po drugi svetovni vojni</title>
-            <title>Â»NemciÂ« na Slovenskem v popisih prebivalstva po drugi svetovni vojni</title>
+            <cobiss>19327586</cobiss>
             <page>271-322</page>
             <citedIn count="3">
                <cit did="2899" cid="12" avtor0="Ferenc Mitja"
@@ -8692,8 +8747,6 @@ veliko godpodarsko krizo tridesetih let</title>
          <pubPart>
             <author>Nećak Dušan</author>
             <title>"Nemci" na Slovenskem 1945-1955 v luči nemških in avstrijskih dokumentov</title>
-            <title>Nemci na Slovenskem 1945-1955 v luči nemških in avstrijskih dokumentov</title>
-            <title>Â»NemciÂ« na Slovenskem 1945-1955 v luči nemških in avstrijskih dokumentov</title>
             <cobiss>7684962</cobiss>
             <page>173-244</page>
             <citedIn count="4">
@@ -8718,10 +8771,9 @@ veliko godpodarsko krizo tridesetih let</title>
          </pubPart>
          <pubPart>
             <author>Prinčič Jože</author>
-            <title>Podržavljanje nemške imovine na slovenskem
-ozemlju po drugi svetovni vojni (1945-1955)</title>
-            <title>Podržavljenje nemške imovine na slovenskem ozemlju po drugi svetovni vojni (1945-1955)</title>
-            <page>245-270</page>
+            <title>Podržavljanje nemške imovine na slovenskem ozemlju po drugi svetovni vojni (1945-1955)</title>
+            <cobiss>610676</cobiss>
+            <page>254-270</page>
             <citedIn count="4">
                <cit did="518" cid="1" avtor0="Prinčič Jože"
                   naslov0="Podržavljanje nemške imovine na slovenskem&#xA;ozemlju po drugi svetovni vojni (1945-1955)"
@@ -8745,8 +8797,7 @@ ozemlju po drugi svetovni vojni (1945-1955)</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>"Nemci" na Slovenskem po drugi svetovni vojni</title>
-            <title>Nemci na Slovenskem po drugi svetovni vojni</title>
-            <title>Â»NemciÂ« na Slovenskem po drugi svetovni vojni</title>
+            <cobiss>7312648</cobiss>
             <page>145-172</page>
             <citedIn count="5">
                <cit did="2899" cid="9" avtor0="Repe Božo"
