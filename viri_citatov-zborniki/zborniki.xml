@@ -8825,9 +8825,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Seewan Gerhard</author>
-            <author>Seewann Gerhard</author>
             <title>Proces izgona med drugo svetovno vojno in po njej na podlagi britanskih virov</title>
-            <title>Der Vertreibungsprozess in und nach dem Zweiten Weltkriegaufgrund britischen Quellen</title>
+            <addTitle>Der Vertreibungsprozess in und nach dem Zweiten Weltkriegaufgrund britischen Quellen</addTitle>
             <page>335-343</page>
             <citedIn count="4">
                <cit did="844" cid="151" avtor0="Seewan Gerhard"
@@ -8875,7 +8874,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Komelj Ivan</author>
             <title>Umetnostna preteklost Novega mesta</title>
-            <page>108-213</page>
+            <cobiss>513039487</cobiss>
+            <page>196-222</page>
             <citedIn count="2">
                <cit did="1298" cid="19" avtor0="Komelj Ivan"
                   naslov0="Umetnostna preteklost Novega mesta"
@@ -8898,7 +8898,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Mlinarič Jože</author>
-            <title>Bibliografija Novega mesta</title>
+            <title>Bibliografija Novega mesta : knjige, razprave in članki do leta 1966</title>
+            <cobiss>16533047</cobiss>
             <page>223-235</page>
             <citedIn count="1">
                <cit did="1298" cid="6" avtor0="Mlinarič Jože" naslov0="Bibliografija Novega mesta"
@@ -8909,6 +8910,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Mušič Marjan</author>
             <title>Podoba novomeške kapiteljske cerkve skozi čas</title>
+            <cobiss>513039231</cobiss>
             <page>163-179</page>
             <citedIn count="1">
                <cit did="1298" cid="18" avtor0="Mušič Marjan"
@@ -8937,7 +8939,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Zwitter Fran</author>
-            <title>Ob šestoletnici Novega mesta</title>
+            <title>Ob šeststoletnici Novega mesta</title>
             <page>5-11</page>
             <citedIn count="1">
                <cit did="218" cid="22" avtor0="Zwitter Fran" naslov0="Ob šestoletnici Novega mesta"
@@ -8960,6 +8962,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Oblikovanje dežele Kranjske v kontekstu širših raziskovalnih tendenc in slovenskega zgodovinopisja</title>
+            <cobiss>33674082</cobiss>
+            <page>13-23</page>
             <citedIn count="1">
                <cit did="2604" cid="134" avtor0="Štih Peter"
                   naslov0="Oblikovanje dežele Kranjske v kontekstu širših raziskovalnih tendenc in slovenskega zgodovinopisja"
@@ -8972,12 +8976,13 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Odmev živega človeka in krajjine</pubTitle>
-      <!-- 2 knjigi, ni jasno katera -->
-      <pubTitle>Odmev živega človeka in krajine</pubTitle>
+      <pubTitle>Odmev živega človeka in krajine : Spominsko srečanje ob devetdesetletnici Prežihovega rojstva</pubTitle>
+      <editor>Mrdavšič, Janez</editor>
       <pubPlace>Ravne na Koroškem</pubPlace>
+      <publisher>Koroška osrednja knjižnica dr. Franc Sušnik</publisher>
+      <publisher>Kulturna skupnost</publisher>
       <year>1983</year>
-      <year>1985</year>
+      <pubCobiss>5275193</pubCobiss>
       <chapters>
          <pubPart>
             <author>Druškovič Drago</author>
@@ -9003,6 +9008,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Kolar Marija</author>
             <title>Komparacija v Prežihovi novelistiki</title>
             <cobiss>7043124</cobiss>
+            <page>90-93</page>
             <citedIn count="1">
                <cit did="3022" cid="368" avtor0="Kolar Marija"
                   naslov0="Komparacija v Prežihovi novelistiki" cobiss="7043124"
@@ -9062,9 +9068,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Šivic Dular Alenka</author>
-            <title>O osebnih imenih in priimkih v Požganici</title>
+            <author>Šivic-Dular Alenka</author>
+            <title>O osebnih imenih in priimkih v Požganici Prežihovega Voranca</title>
             <cobiss>33525602</cobiss>
+            <page>94-103</page>
             <citedIn count="1">
                <cit did="3022" cid="369" avtor0="Šivic Dular Alenka"
                   naslov0="O osebnih imenih in priimkih v Požganici" cobiss="33525602"
@@ -9088,6 +9095,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Biber Dušan</author>
             <title>NOB Slovenije v zavezniških dokumentih</title>
+            <cobiss>124686336</cobiss>
             <page>213-218</page>
             <citedIn count="1">
                <cit did="1782" cid="46" avtor0="Biber Dušan"
@@ -9111,6 +9119,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Odnos političnih strank in skupin do fašizma in nacizma pred drugo svetovno vojno</title>
+            <cobiss>1159284</cobiss>
             <page>105-112</page>
             <citedIn count="2">
                <cit did="485" cid="3" avtor0="Perovšek Jurij"
@@ -9126,6 +9135,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Pleterski Janko</author>
             <title>Odpor - nujnost ali ne?</title>
             <cobiss>19140653</cobiss>
+            <page>113-125</page>
             <citedIn count="1">
                <cit did="71" cid="185" avtor0="Pleterski Janko" naslov0="Odpor - nujnost ali ne?"
                   cobiss="19140653"
@@ -9136,6 +9146,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>Stališča evropskih odporniških gibanj o nujnosti političnih in družbenih sprememb v povojni ureditvi</title>
+            <cobiss>16305250</cobiss>
+            <page>127-136</page>
             <citedIn count="1">
                <cit did="1814" cid="7" avtor0="Repe Božo"
                   naslov0="Stališča evropskih odporniških gibanj o nujnosti političnih in družbenih sprememb v povojni ureditvi"
@@ -9197,7 +9209,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Cvelfar Bojan</author>
             <title>Gospodarska podoba Celja pred prvo svetovno vojno</title>
-            <page>128-136</page>
+            <addTitle>Das wirtschaftliche Bild von Celje vor dem ersten Weltkrieg</addTitle>
+            <cobiss>3671070</cobiss>
+            <page>127-144</page>
             <citedIn count="3">
                <cit did="3241" cid="271" avtor0="Cvelfar Bojan"
                   naslov0="Gospodarska podoba Celja pred prvo svetovno vojno"
@@ -9215,10 +9229,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Cvirn Janez</author>
             <title>Celje - izginjajoči nemški otok na Spodnjem Štajerskem</title>
-            <title>Celje - izginjajoči otok na Spodnjem Štajerskem</title>
-            <title>Celje – izginjajoči nemški otok na Spodnjem Štajerskem</title>
+            <addTitle>Celje - die verschiedende deutsche Insel in der unter Steiermark</addTitle>
             <cobiss>8123144</cobiss>
-            <page>58-62</page>
+            <page>57-65</page>
             <citedIn count="4">
                <cit did="3241" cid="262" avtor0="Cvirn Janez"
                   naslov0="Celje - izginjajoči nemški otok na Spodnjem Štajerskem" cobiss="8123144"
@@ -9236,9 +9249,12 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Cvirn Janez, Friš Darko</author>
-            <title>Kratek pregled dosedanjih raziskav zgodovine obravnavanih mest v slovenskem zgodovinopisju</title>
+            <author>Cvirn Janez</author>
+            <author>Friš Darko</author>
+            <title>Kratek pregled dosedanjih raziskav zgodovine obravnavanih mest v slovenskem zgodovinopisju : uvodni referat</title>
+            <addTitle>Kurze Übersicht der bisherigen Untersuchungen der Geschichte der erörterten Städte (1848-1914) in der slowenische Geschichtsschreibung</addTitle>
             <cobiss>8113928</cobiss>
+            <page>9-16</page>            
             <citedIn count="1">
                <cit did="3459" cid="43" avtor0="Cvirn Janez, Friš Darko"
                   naslov0="Kratek pregled dosedanjih raziskav zgodovine obravnavanih mest v slovenskem zgodovinopisju"
@@ -9247,9 +9263,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolinar France M.</author>
+            <author>Dolinar France Martin</author>
             <title>Versko življenje v Ljubljani od srede 19. stoletja do prve svetovne vojne</title>
-            <page>327-336</page>
+            <cobiss>643956</cobiss>
+            <page>323-333</page>
             <citedIn count="1">
                <cit did="2439" cid="1" avtor0="Dolinar France M."
                   naslov0="Versko življenje v Ljubljani od srede 19. stoletja do prve svetovne vojne"
@@ -9259,8 +9276,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Goropevšek Branko</author>
-            <title>Dva jezika, dve kulturi, eno mesto Celje</title>
-            <page>203-204</page>
+            <title>Dva jezika, dve kulturi, eno mesto Celje : (oris razvoja kulture v mestu ob Savinji 1850-1918)</title>
+            <addTitle>Zwei Sprachen, zwei Kulturen, eine Stadt Celje: (Umriß der Entwicklung der Kultur in der Stadt an der Savinja 1850-1918)</addTitle>
+            <cobiss>8124680</cobiss>
+            <page>203-220</page>
             <citedIn count="1">
                <cit did="304" cid="23" avtor0="Goropevšek Branko"
                   naslov0="Dva jezika, dve kulturi, eno mesto Celje" source="Od Maribora do Trsta"
@@ -9271,6 +9290,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Hartman Bruno</author>
             <title>Razmerje med nemško in slovensko kulturo v Mariboru do prve svetovne vojne</title>
+            <addTitle>Das Verhältnis zwischen der deutschen und der slowenischen Kultur in Maribor bis zum ersten Weltkrieg</addTitle>
+            <cobiss>8146952</cobiss>
             <page>193-202</page>
             <citedIn count="1">
                <cit did="889" cid="10" avtor0="Hartman Bruno"
@@ -9298,6 +9319,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Marušič Branko</author>
             <title>Gorica draga, domovina mila</title>
+            <cobiss>12394034</cobiss>
             <page>27-33</page>
             <citedIn count="2">
                <cit did="1317" cid="2" avtor0="Marušič Branko" naslov0="Gorica draga, domovina mila"
@@ -9311,9 +9333,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Moritsch Andrej</author>
             <title>Politična zgodovina Celovca v drugi polovici 19. stoletja</title>
-            <title>Politična zgodovina Celovca</title>
+            <addTitle>Politische Geschichte Klagenfurts in der zweiten Hälfte des 19. Jahrhunderts</addTitle>
             <cobiss>8137480</cobiss>
-            <page>38-39</page>
+            <page>35-41</page>
             <citedIn count="3">
                <cit did="2874" cid="21" avtor0="Moritsch Andrej"
                   naslov0="Politična zgodovina Celovca v drugi polovici 19. stoletja"
@@ -9329,7 +9351,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pirjevec Jože</author>
             <title>Socialni in nacionalni problemi v Trstu 1860-1914</title>
-            <title>Socialni in nacionalni problemi v Trstu 1860–1914</title>
+            <addTitle>Problemi sociali e nazionali a Trieste 1860-1914</addTitle>
+            <cobiss>9925165</cobiss>
             <page>19-25</page>
             <citedIn count="2">
                <cit did="2433" cid="2" avtor0="Pirjevec Jože"
@@ -9341,9 +9364,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Rozman  Franc</author>
             <author>Rozman Franc</author>
             <title>Politično življenje Nemcev v Mariboru</title>
+            <addTitle>Das politische Leben der Deutschen in Maribor vor dem ersten Weltkrieg</addTitle>
+            <cobiss>8114696</cobiss>
             <page>51-56</page>
             <citedIn count="2">
                <cit did="2770" cid="60" avtor0="Rozman  Franc"
@@ -9357,6 +9381,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Verginella Marta</author>
             <title>Družbeni vzpon slovenske elite v Trstu</title>
+            <addTitle>L'ascesa sociale dell'élite slovena a Trieste</addTitle>
+            <cobiss>8123656</cobiss>
             <page>69-76</page>
             <citedIn count="2">
                <cit did="1511" cid="395" avtor0="Verginella Marta"
@@ -9372,6 +9398,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Waltritsch Marko</author>
             <title>Slovensko gospodarstvo v Gorici</title>
+            <addTitle>L'economia degli Sloveni a Gorizia</addTitle>
+            <cobiss>3670558</cobiss>
             <page>77-84</page>
             <citedIn count="1">
                <cit did="1317" cid="131" avtor0="Waltritsch Marko"
@@ -9405,13 +9433,11 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Lazarević Žarko, Stiplovšek Miroslav</author>
             <author>Perovšek Jurij</author>
             <author>Stiplovšek Miroslav</author>
-            <author>Perovšek Jurij, Stiplovšek Miroslav</author>
             <title>Volja po slovenski državnosti v letih 1918-1941</title>
             <cobiss>15718754</cobiss>
-            <page>95-120</page>
+            <page>95-119</page>
             <citedIn count="5">
                <cit did="616" cid="14" avtor0="Lazarević Žarko, Stiplovšek Miroslav"
                   naslov0="Volja po slovenski državnosti v letih 1918-1941"
@@ -9475,7 +9501,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Simoniti Vasko</author>
             <title>Teritorialna država : nasprotje in povezanost med deželo in vladarjem</title>
-            <title>Teritorialna država, nasprotje in povezanost med deželo in vladarjem</title>
             <cobiss>15718498</cobiss>
             <page>29-47</page>
             <citedIn count="2">
@@ -9504,7 +9529,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Državne tvorbe v srednjem veku na slovenskem ozemlju</title>
-            <page>1-231</page>
+            <cobiss>15718242</cobiss>
+            <page>1-27</page>
             <citedIn count="1">
                <cit did="425" cid="7" avtor0="Štih Peter"
                   naslov0="Državne tvorbe v srednjem veku na slovenskem ozemlju"
@@ -9527,7 +9553,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Slovenci in "nova šola"</title>
-            <page>9-63</page>
+            <cobiss>513176940</cobiss>
+            <page>31-63</page>
             <citedIn count="2">
                <cit did="1321" cid="2" avtor0="Melik Vasilij"
                   naslov0="Slovenci in &#34;nova šola&#34;"
@@ -9542,6 +9569,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ostanek France</author>
             <title>Manjšinske šole na slovenskem ozemlju</title>
+            <cobiss>513178988</cobiss>
             <page>629-640</page>
             <citedIn count="2">
                <cit did="3292" cid="19" avtor0="Ostanek France"
@@ -9557,8 +9585,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pahor Drago</author>
             <title>Pregled razvoja osnovnega šolstva  na zahodnem robu slovenskega ozemlja</title>
-            <title>Pregled razvoja osnovnega šolstva na zahodnem robu slovenskega ozemlja</title>
-            <title>Pregled razvoja osnovnega šolstva na zapadnem robu slovenskega ozemlja</title>
             <cobiss>8390221</cobiss>
             <page>235-337</page>
             <citedIn count="6">
@@ -9587,8 +9613,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pavšič M.</author>
-            <title>Posebno šolstvo na Slovenskem</title>
-            <title>Pregled izobraževanja in usposabljanja telesno in duševno prizadetih otrok</title>
+            <title>Posebno šolstvo na Slovenskem : pregled izobraževanja in usposabljanja telesno in duševno prizadetih otrok</title>
+            <cobiss>513179244</cobiss>
+            <page>641-661</page>
             <citedIn count="1">
                <cit did="165" cid="10" avtor0="Pavšič M." naslov0="Posebno šolstvo na Slovenskem"
                   naslov1="Pregled izobraževanja in usposabljanja telesno in duševno prizadetih otrok"
@@ -9599,7 +9626,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Sagadin Janez</author>
             <title>Kvantitativna analiza razvoja osnovnega šolstva na Štajerskem, Koroškem, Kranjskem in Primorskem po uveljavitvi osnovnošolskega zakona iz leta 1869 ter kvantitativni prikaz osnovnega šolstva v poznejši Dravski banovini</title>
-            <title>Kvantitativna analiza razvoja osnovnega šolstva na Štajerskem, Kranjskem in Primorskem po uveljavitvi osnovnošolskega zakona iz leta 1869 ter kvantitativni prikaz osnovnega šolstva v poznejši Dravski banovini</title>
             <cobiss>513177196</cobiss>
             <page>65-170</page>
             <citedIn count="4">
@@ -9663,9 +9689,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ferenc Tone</author>
             <title>Sklepne operacije za osvoboditev Slovenije</title>
-            <title>Vojaške operacije za osvoboditev Slovenije</title>
             <cobiss>26607714</cobiss>
-            <page>11-138</page>
+            <page>110-137</page>
             <citedIn count="7">
                <cit did="1895" cid="7" avtor0="Ferenc Tone"
                   naslov0="Sklepne operacije za osvoboditev Slovenije"
@@ -9700,7 +9725,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Mlakar Boris</author>
             <title>Domobranstvo na Primorskem v boju proti narodnoosvobodilnemu gibanju</title>
             <cobiss>1875060</cobiss>
-            <page>23-236</page>
+            <page>220-236</page>
             <citedIn count="2">
                <cit did="1186" cid="4" avtor0="Mlakar Boris"
                   naslov0="Domobranstvo na Primorskem v boju proti narodnoosvobodilnemu gibanju"
@@ -9741,8 +9766,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Zwitter Fran</author>
-            <title>Priprave Znanstvenega inštituta za reševanje mejnih v vprašanj po vojni</title>
-            <title>Priprave Znanstvenega inštituta za reševanje mejnih vprašanj po vojni</title>
             <title>Priprave znanstvenega inštituta za reševanje mejnih vprašanj po vojni</title>
             <page>258-276</page>
             <citedIn count="7">
@@ -9802,8 +9825,12 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <pubCobiss>23909633</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Barbarič Stefan</author>
+            <author>Barbarič Štefan</author>
             <title>Oris književnega razvoja severovzhodne Slovenije do sredine 19. stoletja</title>
+            <title>ljudsko slovstvo in jezik slovenske Panonije v srednjem veku</title>
+            <title>slovenski severovzhod v obdobju razsvetljenstva</title>
+            <title>narodno prerodna vsebina književnih prizadevanj v prvi polovici 19. stoletja</title>
+            <cobiss>5970227</cobiss>
             <page>72-103</page>
             <citedIn count="1">
                <cit did="3465" cid="6" avtor0="Barbarič Stefan"
@@ -9814,10 +9841,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Ftičar Jože</author>
-            <author>Ftičar Jožef</author>
             <title>Slovenci na levi in desni strani Mure in njihovi kulturni stiki (do 1919)</title>
-            <title>Slovenci na levi in desni strani Mure in njihovi kulturni stiki do 1919</title>
-            <page>120-126</page>
+            <cobiss>5970739</cobiss>
+            <page>117-130</page>
             <citedIn count="3">
                <cit did="2131" cid="14" avtor0="Ftičar Jože"
                   naslov0="Slovenci na levi in desni strani Mure in njihovi kulturni stiki (do 1919)"
@@ -9833,7 +9859,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Jurančič Janko</author>
             <title>O leksiki v panonskih govorih</title>
-            <page>31-41</page>
+            <cobiss>8673069</cobiss>
+            <page>31-42</page>
             <citedIn count="3">
                <cit did="3065" cid="8" avtor0="Jurančič Janko"
                   naslov0="O leksiki v panonskih govorih" source="Panonski zbornik"
@@ -9848,9 +9875,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pogačnik Jože</author>
-            <title>Panonski literarni zgodovinarji</title>
+            <title>Panonski literarni zgodovinarji : Franc Simonič : Janko Šlebinger : Fran Ilešič : Božidar Borko : Anton Slodnjak</title>
             <cobiss>5980467</cobiss>
-            <page>322-331</page>
+            <page>322-330</page>
             <citedIn count="1">
                <cit did="63" cid="3" avtor0="Pogačnik Jože"
                   naslov0="Panonski literarni zgodovinarji" cobiss="5980467"
@@ -9860,6 +9887,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Šebjanič Franc</author>
             <title>Novejši književno-zgodovinski in kulturno-politični razvoj v Prekmurju</title>
+            <cobiss>5970995</cobiss>
+            <page>139-145</page>
             <citedIn count="1">
                <cit did="2131" cid="15" avtor0="Šebjanič Franc"
                   naslov0="Novejši književno-zgodovinski in kulturno-politični razvoj v Prekmurju"
@@ -9881,9 +9910,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Bešter Romana</author>
             <title>Ekonomska integracija priseljencev iz prostora nekdanje Jugoslavije in njihovih potomcev v Sloveniji</title>
-            <title>Ekonomska integracija priseljencev z območja nekdanje Jugoslavije in njihovih potomcev v Sloveniji</title>
             <cobiss>9376845</cobiss>
-            <page>339-590</page>
+            <page>559-590</page>
             <citedIn count="4">
                <cit did="3039" cid="12" avtor0="Bešter Romana"
                   naslov0="Ekonomska integracija priseljencev iz prostora nekdanje Jugoslavije in njihovih potomcev v Sloveniji"
@@ -9905,8 +9933,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Dolenc Danilo</author>
-            <title>Priseljevanje v Slovenijo z območja nekdanje Jugoslavije po II . svetovni vojni</title>
-            <title>Priseljevanje v Slovenijo z območja nekdanje Jugoslavije po II. svetovni vojni</title>
+            <title>Priseljevanje v Slovenijo iz območja nekdanje Jugoslavije po II. svetovni vojni</title>
+            <cobiss>9373773</cobiss>
             <page>37-87</page>
             <citedIn count="4">
                <cit did="2725" cid="4" avtor0="Dolenc Danilo"
@@ -9929,7 +9957,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Klopčič Vera</author>
-            <author>Komac Miran et al</author>
+            <author>Komac Miran</author>
             <title>Položaj in status narodov nekdanje Jugoslavije v Republiki Sloveniji</title>
             <citedIn count="1">
                <cit did="2725" cid="6" avtor0="Klopčič Vera" avtor1="Komac Miran et al"
@@ -9956,9 +9984,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Komac Miran</author>
             <title>Varstvo "novih" narodnih skupnosti v Sloveniji</title>
-            <title>Varstvo »novih« narodnih skupnosti v Sloveniji</title>
             <cobiss>9374797</cobiss>
-            <page>207-235</page>
+            <page>207-236</page>
             <citedIn count="3">
                <cit did="3039" cid="78" avtor0="Komac Miran"
                   naslov0="Varstvo &#34;novih&#34; narodnih skupnosti v Sloveniji" cobiss="9374797"
@@ -9978,7 +10005,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Medved Felicita</author>
             <title>Politična integracija, državljanstvo, politična participacija in reprezentacija</title>
             <cobiss>9376589</cobiss>
-            <page>453-558</page>
+            <page>451-555</page>
             <citedIn count="4">
                <cit did="2926" cid="10" avtor0="Medved Felicita"
                   naslov0="Politična integracija, državljanstvo, politična participacija in reprezentacija"
@@ -10000,9 +10027,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Medvešek Mojca</author>
-            <title>Interakcijska dimenzija integracije. Znotrajskupinski in medskupinski stiki/odnosi</title>
-            <title>Interakcijska dimenzija integracije. Znotrajskupinski medskupinski stiki/odnosi</title>
-            <title>Interakcijska dimenzija integracije: znotraj skupinski in medskupinski stiki/odnosi</title>
+            <title>Interakcijska dimenzija integracije : znotraj skupinski in medskupinski stiki/odnosi</title>
             <cobiss>9377101</cobiss>
             <page>591-640</page>
             <citedIn count="3">
@@ -10040,10 +10065,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Medvešek Mojca</author>
             <author>Vrečer Natalija</author>
-            <title>Percepcije sociokulturne integracije in nestrpnosti. Nove manjšine v Sloveniji</title>
-            <title>Percepcije sociokulturne integracije in nestrpnosti: nove manjšine v Sloveniji</title>
+            <title>Percepcije sociokulturne integracije in nestrpnosti : nove manjšine v Sloveniji</title>
             <cobiss>9375309</cobiss>
-            <page>271-378</page>
+            <page>271-377</page>
             <citedIn count="5">
                <cit did="2864" cid="10" avtor0="Medvešek Mojca" avtor1="Vrečer Natalija"
                   naslov0="Percepcije sociokulturne integracije in nestrpnosti. Nove manjšine v Sloveniji"
@@ -10071,7 +10095,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Roter Petra</author>
             <title>Integracija</title>
-            <page>199-205</page>
+            <cobiss>9374541</cobiss>
+            <page>199-204</page>
             <citedIn count="2">
                <cit did="2887" cid="14" avtor0="Roter Petra" naslov0="Integracija"
                   source="Percepcije slovenske integracijske politike" pubPlace="Ljubljana"
@@ -10085,7 +10110,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Roter Petra</author>
             <title>Opredeljevanje manjšin</title>
             <cobiss>9374285</cobiss>
-            <page>169-198</page>
+            <page>169-197</page>
             <citedIn count="1">
                <cit did="3039" cid="135" avtor0="Roter Petra" naslov0="Opredeljevanje manjšin"
                   cobiss="9374285"
@@ -10096,7 +10121,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Roter Petra</author>
             <title>Vloga jezika v integracijskem procesu</title>
-            <page>239-270</page>
+            <cobiss>9375053</cobiss>
+            <page>237-268</page>
             <citedIn count="2">
                <cit did="2887" cid="15" avtor0="Roter Petra"
                   naslov0="Vloga jezika v integracijskem procesu"
