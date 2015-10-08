@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
+   xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
       <docAuthor id="NBH">Neja Blaj Hribar</docAuthor>
@@ -20,7 +20,8 @@
          <issue n="4">
             <pubPart>
                <author>Hadalin Jurij</author>
-               <title>Govorice in čenče v delu Albina Kjudra Zgodovinski mozaik Primorske</title><title>pomemben kamenček v mozaiku pričevanj ali zgolj obroben podatek?</title>
+               <title>Govorice in čenče v delu Albina Kjudra Zgodovinski mozaik Primorske</title>
+               <title>pomemben kamenček v mozaiku pričevanj ali zgolj obroben podatek?</title>
                <page>729-742</page>
                <cobiss>2942580</cobiss>
                <citedIn count="1">
@@ -33,7 +34,8 @@
          <issue n="1-2">
             <pubPart>
                <author>Jurić Pahor Marija</author>
-               <title>"Komaj rojen, že goriš v ognju večera" (S. Kosovel). Razvojne poteze in učinki množičnih travmatizacij v primorski in koroški spominski literaturi v času prve svetovne vojne in po njej</title>
+               <title>"Komaj rojen, že goriš v ognju večera" (S. Kosovel)</title>
+               <title>Razvojne poteze in učinki množičnih travmatizacij v primorski in koroški spominski literaturi v času prve svetovne vojne in po njej</title>
                <page>275-308</page>
                <cobiss>11631181</cobiss>
                <citedIn count="1">
@@ -85,7 +87,8 @@
          <issue n="4">
             <pubPart>
                <author>Kambič Marko</author>
-               <title>Dednopravni položaj hčera po statutih piranskega komuna</title><title>recepcija ali kontinuiteta rimskega prava</title>
+               <title>Dednopravni položaj hčera po statutih piranskega komuna</title>
+               <title>recepcija ali kontinuiteta rimskega prava</title>
                <page>769-788</page>
                <cobiss>1937619</cobiss>
                <citedIn count="1">
@@ -94,7 +97,8 @@
             </pubPart>
             <pubPart>
                <author>Ramšak Jure</author>
-               <title>Politična emigracija v Trstu in vprašanje samostojne Slovenije</title><title>primer Franc Jeza</title>
+               <title>Politična emigracija v Trstu in vprašanje samostojne Slovenije</title>
+               <title>primer Franc Jeza</title>
                <page>961-986</page>
                <cobiss>1937363</cobiss>
                <citedIn count="1">
@@ -107,7 +111,8 @@
          <issue n="1-2">
             <pubPart correspPubId="2323">
                <author>Cvirn Janez</author>
-               <title>"To so dvonogate, kričeče in smrdljive bestije"</title><title>Oblakovo potovanje v makedonijo (1891/92)</title>
+               <title>"To so dvonogate, kričeče in smrdljive bestije"</title>
+               <title>Oblakovo potovanje v makedonijo (1891/92)</title>
                <page>113-126</page>
                <cobiss>39814498</cobiss>
                <citedIn count="1">
@@ -165,7 +170,8 @@
          <issue n="4">
             <pubPart correspPubId="2089">
                <author>Povolo C.</author>
-               <title>Interpreti di culture. Culture dominanti e culture subordinate a confronto</title>
+               <title>Interpreti di culture</title>
+               <title>Culture dominanti e culture subordinate a confronto</title>
                <citedIn count="1">
                   <cit did="2347" cid="27"/>
                </citedIn>
@@ -183,7 +189,8 @@
             </pubPart>
             <pubPart correspPubId="1475">
                <author>Polajnar Janez</author>
-               <title>Spolnost kot greh in akt deviantnosti</title><title>uporaba retorike deviantnosti v govoru o spolnosti v 19. stoletju</title>
+               <title>Spolnost kot greh in akt deviantnosti</title>
+               <title>uporaba retorike deviantnosti v govoru o spolnosti v 19. stoletju</title>
                <citedIn count="1">
                   <cit did="1735" cid="59"/>
                </citedIn>
@@ -209,8 +216,10 @@
             </pubPart>
             <pubPart correspPubId="1476">
                <author>Studen Andrej</author>
-               <title>Zlo pijančevanja in hudodelstvo</title><title>K moralni zgodovini hudičeve nadloge -žganjepivcev in kriminalcev -v 19. stoletju</title>
-               <title>Zlo pijančevanja in hudodelstvo</title><title>k moralni zgodovini hudičeve nadloge - žganjepivcev in kriminalcev - v 19. stoletju</title>
+               <title>Zlo pijančevanja in hudodelstvo</title>
+               <title>K moralni zgodovini hudičeve nadloge -žganjepivcev in kriminalcev -v 19. stoletju</title>
+               <title>Zlo pijančevanja in hudodelstvo</title>
+               <title>k moralni zgodovini hudičeve nadloge - žganjepivcev in kriminalcev - v 19. stoletju</title>
                <citedIn count="2">
                   <cit did="1877" cid="7"/>
                   <cit did="1744" cid="26"/>
@@ -385,7 +394,8 @@
             </pubPart>
             <pubPart correspPubId="751">
                <author>Pleterski Andrej</author>
-               <title>De Sclavis autem unde dicitis</title><title>Slovani in Vlahi na "nikogaršnjem* ozemlju istrskega zaledja</title>
+               <title>De Sclavis autem unde dicitis</title>
+               <title>Slovani in Vlahi na "nikogaršnjem* ozemlju istrskega zaledja</title>
                <title>De Sclavis autem unde dicitis</title>
                <citedIn count="2">
                   <cit did="423" cid="13"/>
@@ -865,13 +875,6 @@
             </pubPart>
             <pubPart>
                <author>Povolo C.</author>
-               <title>Prispevki z mednarodne konference Čast: identiteta in dvoumnost neformalnega kodeksa, Sredozemlje 12.-20. stol.</title>
-               <citedIn count="1">
-                  <cit did="2632" cid="85"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Povolo C.</author>
                <author>Povolo Claudio</author>
                <title>Uvod</title>
                <addTitle>Introduzione</addTitle>
@@ -901,6 +904,7 @@
             </pubPart>
          </issue>
          <issue n="2">
+            <pubTitle>Čast: Identiteta in dvoumnost neformalnega kodeksa (Sredozemlje, 12. - 20. stol.)</pubTitle>
             <pubPart>
                <author>Cargnegltitti L.</author>
                <title>Matrimonio e onore di ceto</title>
@@ -910,6 +914,14 @@
                <cobiss>120218112</cobiss>
                <citedIn count="1">
                   <cit did="2632" cid="11"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Povolo C.</author>
+               <title>Rappresentazioni dell'onore nel discorso processuale (da una vicenda istriana degli inizi del Seicento)</title>
+               <addTitle>Predstavitve časti v procesni razpravi (iz nekega istrskega dogodka z začetka 17. stoletja)</addTitle>
+               <citedIn count="1">
+                  <cit did="2632" cid="85"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -1066,7 +1078,8 @@
             </pubPart>
             <pubPart>
                <author>Miklavčič Brezigar Inga</author>
-               <title>Spomini naše mladosti</title><title>etnološki pregled povojnih dogodkov na Goriškem</title>
+               <title>Spomini naše mladosti</title>
+               <title>etnološki pregled povojnih dogodkov na Goriškem</title>
                <page>369-388</page>
                <cobiss>74706176</cobiss>
                <citedIn count="1">
@@ -1314,7 +1327,7 @@
                <title>(od smrti Gregorija Velikega do Rižanskega placita)</title>
                <addTitle>La chiesa istriana nel VII e nell'VIII secolo (dalla morte di Gregorio Magno al placito del Risano)</addTitle>
                <page>53-78</page>
-               <cobiss>1559601</cobiss> 
+               <cobiss>1559601</cobiss>
                <citedIn count="4">
                   <cit did="2408" cid="22"/>
                   <cit did="749" cid="2"/>
@@ -1343,7 +1356,8 @@
             </pubPart>
             <pubPart>
                <author>Dorsi P.</author>
-               <title>La prima fase di ripristino dell' ordinamento austriaco nell' lstria gia veneziana</title><title>i decreti Nugent del settembre 1813</title>
+               <title>La prima fase di ripristino dell' ordinamento austriaco nell' lstria gia veneziana</title>
+               <title>i decreti Nugent del settembre 1813</title>
                <page>209-230</page>
                <cobiss>1605425</cobiss>
                <citedIn count="1">
@@ -1361,7 +1375,8 @@
             </pubPart>
             <pubPart>
                <author>Zamperetti S.</author>
-               <title>Investiture feudali e conflitti locali nell'Istria del '700</title><title>il caso dei conti Becich e della città di Parenzo</title>
+               <title>Investiture feudali e conflitti locali nell'Istria del '700</title>
+               <title>il caso dei conti Becich e della città di Parenzo</title>
                <page>71-82</page>
                <cobiss>1566001</cobiss>
                <citedIn count="1">
@@ -1494,7 +1509,8 @@
             </pubPart>
             <pubPart>
                <author>Sedmak Mateja</author>
-               <title>Manjšine in skupinske (etnične) identitete</title><title>primerjalna študija slovenske in italijanske manjšine</title>
+               <title>Manjšine in skupinske (etnične) identitete</title>
+               <title>primerjalna študija slovenske in italijanske manjšine</title>
                <page>205-220</page>
                <cobiss>1638611</cobiss>
                <citedIn count="2">
@@ -1557,7 +1573,8 @@
          <issue n="1">
             <pubPart correspPubId="374">
                <author>Klabjan Borut</author>
-               <title>»Češkoslovaško-italijanska mala vojna«. Mednarodne razsežnosti prvega tržaškega procesa in reakcije na Češkoslovaškem</title>
+               <title>»Češkoslovaško-italijanska mala vojna«</title>
+               <title>Mednarodne razsežnosti prvega tržaškega procesa in reakcije na Češkoslovaškem</title>
                <citedIn count="1">
                   <cit did="1782" cid="191"/>
                </citedIn>
@@ -1633,7 +1650,8 @@
             <pubPart correspPubId="673">
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
-               <title>Med konvergenco in divergenco</title><title>dilemo evropskih integracijskih procesov</title>
+               <title>Med konvergenco in divergenco</title>
+               <title>dilemo evropskih integracijskih procesov</title>
                <citedIn count="4">
                   <cit did="1922" cid="14"/>
                   <cit did="2658" cid="13"/>
@@ -1652,7 +1670,8 @@
          <issue n="2">
             <pubPart correspPubId="728">
                <author>Grgič M.</author>
-               <title>Filon Aleksandrijski</title><title>jezik alegorije in alegorije jezika v grško-judovski filozofski sintezi</title>
+               <title>Filon Aleksandrijski</title>
+               <title>jezik alegorije in alegorije jezika v grško-judovski filozofski sintezi</title>
                <citedIn count="1">
                   <cit did="409" cid="15"/>
                </citedIn>
@@ -1685,7 +1704,8 @@
             </pubPart>
             <pubPart correspPubId="726">
                <author>Žitko Salvator</author>
-               <title>Med romantiko, filhelenizmom in politično stvarnostjo</title><title>popotovanje istrskega pesnika Pasquala Besenghija v Grčijo 1828-1830</title>
+               <title>Med romantiko, filhelenizmom in politično stvarnostjo</title>
+               <title>popotovanje istrskega pesnika Pasquala Besenghija v Grčijo 1828-1830</title>
                <citedIn count="1">
                   <cit did="2018" cid="375"/>
                </citedIn>
@@ -1696,7 +1716,8 @@
          <issue n="1">
             <pubPart>
                <author>Bufon Milan</author>
-               <title>Central-eastern and south-eastern Europe</title><title>an area of geopolitical and geocultural contact</title>
+               <title>Central-eastern and south-eastern Europe</title>
+               <title>an area of geopolitical and geocultural contact</title>
                <page>97-108</page>
                <cobiss>732627</cobiss>
                <citedIn count="3">
@@ -1780,7 +1801,7 @@
                <author>Stramljič Breznik Irena</author>
                <title>Germanizmi v zahodnem slovenskogoriškem podnarečju</title>
                <page>331-336</page>
-               <cobiss>811475</cobiss>               
+               <cobiss>811475</cobiss>
                <citedIn count="1">
                   <cit did="2076" cid="21"/>
                </citedIn>
@@ -1971,7 +1992,8 @@
          <issue n="2">
             <pubPart>
                <author>Bajc Gorazd</author>
-               <title>Collaboration between Slovenes from the Primorska region, the Special Operations Executive and the Inter-Services Liaison Department, after the occupation of Yugoslavia</title>
+               <title>Collaboration between Slovenes from the Primorska region</title>
+               <title>the Special Operations Executive and the Inter-Services Liaison Department, after the occupation of Yugoslavia</title>
                <title>(6 april 1941)</title>
                <page>363-384</page>
                <cobiss>523987</cobiss>
@@ -2105,7 +2127,8 @@
          <issue n="2">
             <pubPart>
                <author>Bonin Zdenka</author>
-               <title>Oris razvoja koprskih bratovščin v času Beneške republike, s poudarkom na bratovščini Svetega Antona opata puščavnika</title>
+               <title>Oris razvoja koprskih bratovščin v času Beneške republike</title>
+               <title>s poudarkom na bratovščini Svetega Antona opata puščavnika</title>
                <page>357-388</page>
                <cobiss>124910848</cobiss>
                <citedIn count="1">
@@ -2374,7 +2397,7 @@
             </pubPart>
             <pubPart>
                <author>Rožac Darovec Vida</author>
-               <title>Posledice spora med KPJ in partijami Informacijskega urada na Svobodnem tržaskem ozemlju leta 1948</title>
+               <title>Posledice spora med KPJ in partijami Informacijskega urada na Svobodnem tržaškem ozemlju leta 1948</title>
                <page>371-390</page>
                <cobiss>267219</cobiss>
                <citedIn count="1">
@@ -2622,7 +2645,8 @@
             <pubPart>
                <author>Gombač M.</author>
                <title>Autonomia e decentramento della politica jugoslava alla fine dal secondo conflitto mondiale</title>
-               <title>Un caso specifico</title><title>il Comitato regionale di liberazione nazionale per il Litorale sloveno e Trieste</title>
+               <title>Un caso specifico</title>
+               <title>il Comitato regionale di liberazione nazionale per il Litorale sloveno e Trieste</title>
                <page>87-110</page>
                <cobiss>333428</cobiss>
                <citedIn count="1">
@@ -3020,7 +3044,8 @@
             </pubPart>
             <pubPart>
                <author>Ostanek France</author>
-               <title>Slovensko-hrvatska jezikovna meja v Istri</title><title>gradivo za obdobje od leta 1860 do 1956</title>
+               <title>Slovensko-hrvatska jezikovna meja v Istri</title>
+               <title>gradivo za obdobje od leta 1860 do 1956</title>
                <page>245-254</page>
                <cobiss>412465</cobiss>
                <citedIn count="1">
@@ -3200,7 +3225,9 @@
          <issue n="1">
             <pubPart>
                <author>Golec Boris</author>
-               <title>Dve Valvasorjevi hiši v Krškem</title><title>napačna in prava</title><title>(1. del.)</title>
+               <title>Dve Valvasorjevi hiši v Krškem</title>
+               <title>napačna in prava</title>
+               <title>(1. del.)</title>
                <page>33-63</page>
                <cobiss>34427693</cobiss>
                <citedIn count="1">
@@ -3245,7 +3272,8 @@
             </pubPart>
             <pubPart correspPubId="2526">
                <author>Gombač Maja</author>
-               <title>Kulturni posredniki</title><title>časnikarke, uredniki, krojači, šivilje, trgovci, fotografi, ilustratorji</title>
+               <title>Kulturni posredniki</title>
+               <title>časnikarke, uredniki, krojači, šivilje, trgovci, fotografi, ilustratorji</title>
                <citedIn count="1">
                   <cit did="3289" cid="229"/>
                </citedIn>
@@ -3403,7 +3431,8 @@
          <issue n="1">
             <pubPart>
                <author>Bukošek Metka</author>
-               <title>Fond Okrožnega sodišča v Celju</title><title>1850-1941</title>
+               <title>Fond Okrožnega sodišča v Celju</title>
+               <title>1850-1941</title>
                <page>77-98</page>
                <cobiss>13529397</cobiss>
                <citedIn count="1">
@@ -3435,7 +3464,8 @@
          <issue n="2">
             <pubPart>
                <author>Drnovšek Marjan</author>
-               <title>Arhivi - zakladnice človeškega spomina</title><title>slavnostni govor dr. Marjana Drnovška na podelitvi Aškerčeve nagrade in Aškerčevih priznanj, Ljubljana, 18.10.2006</title>
+               <title>Arhivi - zakladnice človeškega spomina</title>
+               <title>slavnostni govor dr. Marjana Drnovška na podelitvi Aškerčeve nagrade in Aškerčevih priznanj, Ljubljana, 18.10.2006</title>
                <page>366-367</page>
                <cobiss>794997</cobiss>
                <citedIn count="1">
@@ -3478,7 +3508,8 @@
             </pubPart>
             <pubPart>
                <author>Gombač Maja</author>
-               <title>Pomladna moda</title><title>Alojzij Paulin in prvi slovenski reklamni modni film</title>
+               <title>Pomladna moda</title>
+               <title>Alojzij Paulin in prvi slovenski reklamni modni film</title>
                <page>375-380</page>
                <cobiss>666997</cobiss>
                <citedIn count="2">
@@ -4198,7 +4229,8 @@
             </pubPart>
             <pubPart>
                <author>Hofman Hans</author>
-               <title>Zgubljen v kibernetičnem prostoru</title><title>kje je dokument? Stare strukture umirajo, nove se rojevajo, arhivistični koncepti pa so še živi</title>
+               <title>Zgubljen v kibernetičnem prostoru</title>
+               <title>kje je dokument? Stare strukture umirajo, nove se rojevajo, arhivistični koncepti pa so še živi</title>
                <page>90-97</page>
                <cobiss>66921216</cobiss>
                <citedIn count="1">
@@ -4262,7 +4294,8 @@
          <issue n="1-2">
             <pubPart>
                <author>Kološa Vladimir</author>
-               <title>Delo za javnost in stiki z javnostjo v slovenskih arhivih</title><title>(referat na 16. zborovanju arhivskih delavcev Slovenije, Ptuj, 27. - 29. novembra 1995)</title>
+               <title>Delo za javnost in stiki z javnostjo v slovenskih arhivih</title>
+               <title>(referat na 16. zborovanju arhivskih delavcev Slovenije, Ptuj, 27. - 29. novembra 1995)</title>
                <page>1-7</page>
                <cobiss>62403328</cobiss>
                <citedIn count="1">
@@ -4520,7 +4553,8 @@
                <author>Kozina Brane</author>
                <title>Komisija za upravo narodne imovine</title>
                <title>delo evidenčnostatističnega oddelka</title>
-               <title>navodilo za ocenjevanje narodnega imetja</title><title>problemi dela KUNI</title>
+               <title>navodilo za ocenjevanje narodnega imetja</title>
+               <title>problemi dela KUNI</title>
                <page>15-19</page>
                <cobiss>26819842</cobiss>
                <citedIn count="1">
@@ -4728,7 +4762,8 @@
          <issue n="1-2">
             <pubPart>
                <author>Žontar Jože</author>
-               <title>Urejanje in popisovanje arhivskega gradiva. Temeljna vprašanja metodologije in postopka</title>
+               <title>Urejanje in popisovanje arhivskega gradiva</title>
+               <title>Temeljna vprašanja metodologije in postopka</title>
                <page>5-14</page>
                <citedIn count="1">
                   <cit did="2843" cid="141"/>
@@ -4916,7 +4951,8 @@
          <issue n="2-3">
             <pubPart>
                <author>Lorenčič Aleksander</author>
-               <title>Makroekonomski kazalci Slovenije v času tranzicije</title><title>od recesije in stabilizacije preko okrevanja do vstopa v Evropsko unijo</title>
+               <title>Makroekonomski kazalci Slovenije v času tranzicije</title>
+               <title>od recesije in stabilizacije preko okrevanja do vstopa v Evropsko unijo</title>
                <page>179-199</page>
                <cobiss>2753396</cobiss>
                <citedIn count="1">
@@ -4925,7 +4961,8 @@
             </pubPart>
             <pubPart>
                <author>Aleksander Lorenčič</author>
-               <title>Makroekonomski kazalci Slovenije v času tranzicije</title><title>od recesije in stabilizacije preko okrevanja do vstopa v Evropsko unijo</title>
+               <title>Makroekonomski kazalci Slovenije v času tranzicije</title>
+               <title>od recesije in stabilizacije preko okrevanja do vstopa v Evropsko unijo</title>
                <page>179-199</page>
                <cobiss>2753396</cobiss>
                <citedIn count="1">
@@ -5004,7 +5041,8 @@
             </pubPart>
             <pubPart>
                <author>Mlakar Boris</author>
-               <title>Tragično srečanje z revolucijo</title><title>primer Narteja Velikonje</title>
+               <title>Tragično srečanje z revolucijo</title>
+               <title>primer Narteja Velikonje</title>
                <page>54-67</page>
                <cobiss>58994177</cobiss>
                <citedIn count="1">
@@ -5907,7 +5945,8 @@
             </pubPart>
             <pubPart>
                <author>Lešnik Avgust</author>
-               <title>Iskanje tretje poti. Dunajska socialistična internacionala (1921-1923) med socialnodemokratskim reformizmom in boljševiško revolucijo</title>
+               <title>Iskanje tretje poti</title>
+               <title>Dunajska socialistična internacionala (1921-1923) med socialnodemokratskim reformizmom in boljševiško revolucijo</title>
                <page>575-590</page>
                <cobiss>14987362</cobiss>
                <citedIn count="1">
@@ -6710,7 +6749,8 @@
             </pubPart>
             <pubPart>
                <author>Šnuderl, Makso</author>
-               <title>Štajerski begunci v Ljubljani - ena od 18 skupin vrhovnega plenuma OF od 1941 do 1943</title><title>(po zapiskih iz "Dnevnika 1941-1945")</title>
+               <title>Štajerski begunci v Ljubljani - ena od 18 skupin vrhovnega plenuma OF od 1941 do 1943</title>
+               <title>(po zapiskih iz "Dnevnika 1941-1945")</title>
                <page>35-42</page>
                <cobiss>7797293</cobiss>
                <citedIn count="1">
@@ -7080,7 +7120,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Žmavc Baran Ivanka</author>
-               <title>Bibliografija slovenk v graškem "Der Aufmerksame" 1812-1842 </title><title>Uvod</title>
+               <title>Bibliografija slovenk v graškem "Der Aufmerksame" 1812-1842 </title>
+               <title>Uvod</title>
                <page>338-340</page>
                <citedIn count="1">
                   <cit did="938" cid="34"/>
@@ -7960,7 +8001,8 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1-2">
             <pubPart>
                <author>Ilešič Fran</author>
-               <title>Anton Martin Slomšek v pokretu proti pijančevanju</title><title>O knjigi Čujte, čujte kaj žganje dela</title>
+               <title>Anton Martin Slomšek v pokretu proti pijančevanju</title>
+               <title>O knjigi Čujte, čujte kaj žganje dela</title>
                <page>1-22</page>
                <citedIn count="1">
                   <cit did="1614" cid="10"/>
@@ -8268,7 +8310,8 @@ zgodovinarjev v Mariboru)</title>
          <issue>
             <pubPart>
                <author>Košič Jožef</author>
-               <title>"Starine železnih in salajskih Slovenov"</title><title>fragment iz zgodovine ogrskih Slovencev</title>
+               <title>"Starine železnih in salajskih Slovenov"</title>
+               <title>fragment iz zgodovine ogrskih Slovencev</title>
                <page>93-154</page>
                <cobiss>3645491</cobiss>
                <citedIn count="1">
@@ -8318,7 +8361,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Kovačič Fran</author>
-               <title>Vitezi Pesničarji. ČZ7V9 (1912) 1-41.</title>
+               <title>Vitezi Pesničarji</title>
+               <title>ČZ7V9 (1912) 1-41.</title>
                <page>1-41</page>
                <citedIn count="1">
                   <cit did="2647" cid="181"/>
@@ -8589,7 +8633,8 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1">
             <pubPart>
                <author>Golec Boris</author>
-               <title>Pozabljeni »mali štajerski Valvasor</title><title>polihistorjev potomec Franc vitez Gadolla (1797-1866)</title>
+               <title>Pozabljeni »mali štajerski Valvasor</title>
+               <title>polihistorjev potomec Franc vitez Gadolla (1797-1866)</title>
                <page>23-78</page>
                <cobiss>33780013</cobiss>
                <citedIn count="1">
@@ -8668,7 +8713,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="3432">
                <author>Golec Boris</author>
-               <title>Trgi, ki jih ni bilo?</title><title>prezrta trška naselja Bele krajine in njen nikoli obstoječ trg</title>
+               <title>Trgi, ki jih ni bilo?</title>
+               <title>prezrta trška naselja Bele krajine in njen nikoli obstoječ trg</title>
                <citedIn count="2">
                   <cit did="3224" cid="12"/>
                   <cit did="3465" cid="28"/>
@@ -8760,7 +8806,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Nared Andrej</author>
-               <title>Miha Kosi</title><title>Zgodnja zgodovina srednjeveških mest na Slovenskem. Primerjalna študija o neagrarnih naselbinskih središčih od zgodnjega srednjega veka do 13. stoletja (Thesaurus memoriae, Opuscula, 1). Ljubljana: Založba ZRC, ZRC SAZU, 2009, 176 strani</title>
+               <title>Miha Kosi</title>
+               <title>Zgodnja zgodovina srednjeveških mest na Slovenskem. Primerjalna študija o neagrarnih naselbinskih središčih od zgodnjega srednjega veka do 13. stoletja (Thesaurus memoriae, Opuscula, 1). Ljubljana: Založba ZRC, ZRC SAZU, 2009, 176 strani</title>
                <page>563-566</page>
                <cobiss>1143925</cobiss>
                <citedIn count="1">
@@ -9038,7 +9085,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="1233">
                <author>Cvetek Marija</author>
-               <title>Spomini na Strmol. Vilma Mlakar, roj. Urh - nekdanja strmolska sobarica</title>
+               <title>Spomini na Strmol</title>
+               <title>Vilma Mlakar, roj. Urh - nekdanja strmolska sobarica</title>
                <citedIn count="1">
                   <cit did="2398" cid="4"/>
                </citedIn>
@@ -9470,7 +9518,8 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1">
             <pubPart>
                <author>Batagelj Borut</author>
-               <title>"Snežke"</title><title>prispevek k zgodovini smučanja na Trnovski planoti</title>
+               <title>"Snežke"</title>
+               <title>prispevek k zgodovini smučanja na Trnovski planoti</title>
                <page>31-44</page>
                <cobiss>118676736</cobiss>
                <citedIn count="1">
@@ -9919,7 +9968,7 @@ zgodovinarjev v Mariboru)</title>
                <author>Adam Lucijan</author>
                <title>Prispevek za geanalogijo starejših koroških Ortenburžanov</title>
                <page>1-10</page>
-               <cobiss>99928576</cobiss>                   
+               <cobiss>99928576</cobiss>
                <citedIn count="1">
                   <cit did="2623" cid="2"/>
                </citedIn>
@@ -10055,7 +10104,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Pavlin Tomaž</author>
-               <title>Svetovni rekord dosežen v Sloveniji</title><title>(ob 60-letnici smučarskega skoka prek 100 m)</title>
+               <title>Svetovni rekord dosežen v Sloveniji</title>
+               <title>(ob 60-letnici smučarskega skoka prek 100 m)</title>
                <page>79-85</page>
                <cobiss>67573504</cobiss>
                <citedIn count="1">
@@ -10284,16 +10334,16 @@ zgodovinarjev v Mariboru)</title>
                   <cit did="587" cid="4"/>
                </citedIn>
             </pubPart>
-         <pubPart>
-            <author>Štih Peter</author>
-            <title>Glose k srednjeveškemu delu Rutarjeve Zgodovine Tolminskega</title>
-            <page>21-28</page>
-            <cobiss>40938752</cobiss>
-            <citedIn count="1">
-               <cit did="1205" cid="40"/>
-            </citedIn>
-         </pubPart>
-         </issue>   
+            <pubPart>
+               <author>Štih Peter</author>
+               <title>Glose k srednjeveškemu delu Rutarjeve Zgodovine Tolminskega</title>
+               <page>21-28</page>
+               <cobiss>40938752</cobiss>
+               <citedIn count="1">
+                  <cit did="1205" cid="40"/>
+               </citedIn>
+            </pubPart>
+         </issue>
          <issue n="2">
             <pubPart>
                <author>Čoralič Lovorka</author>
@@ -10361,7 +10411,8 @@ zgodovinarjev v Mariboru)</title>
          <issue n="3">
             <pubPart>
                <author>Rozman Boris</author>
-               <title>Orlovski odsek na Vrhniki</title><title>(1908-1929)</title>
+               <title>Orlovski odsek na Vrhniki</title>
+               <title>(1908-1929)</title>
                <page>165-175</page>
                <cobiss>51170048</cobiss>
                <citedIn count="1">
@@ -10494,7 +10545,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Šuštar Branko</author>
-               <title>Ekonomska Orjuna</title><title>poskus gospodarske organizacije jugoslovanskih nacionalistov v 20-ih letih tega stoletja</title>
+               <title>Ekonomska Orjuna</title>
+               <title>poskus gospodarske organizacije jugoslovanskih nacionalistov v 20-ih letih tega stoletja</title>
                <page>144-146</page>
                <cobiss>27085056</cobiss>
                <citedIn count="1">
@@ -10765,7 +10817,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Švajncer Janez J.</author>
-               <title>Slovenski planinski polk</title><title>(ob 70-letnici nastanka slovenske vojske leta 1918)</title>
+               <title>Slovenski planinski polk</title>
+               <title>(ob 70-letnici nastanka slovenske vojske leta 1918)</title>
                <page>218-225</page>
                <cobiss>7431682</cobiss>
                <citedIn count="1">
@@ -11517,7 +11570,7 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Vilfan Bruckmüller Irena</author>
                <title>Višnja gora in njeno prebivalstvo v 16. stoletju</title>
-              <title>ob petstoletnici mesta</title>
+               <title>ob petstoletnici mesta</title>
                <page>155-158</page>
                <cobiss>241900288</cobiss>
                <citedIn count="3">
@@ -12029,7 +12082,7 @@ zgodovinarjev v Mariboru)</title>
             <pubPart>
                <author>Zorn Tone</author>
                <title>Nemški trgovski obrati v Sloveniji v letih 1938-1939</title>
-              <page>113-120</page>
+               <page>113-120</page>
                <citedIn count="2">
                   <cit did="3241" cid="229"/>
                   <cit did="844" cid="203"/>
@@ -12758,8 +12811,9 @@ zgodovinarjev v Mariboru)</title>
          <issue n="1">
             <pubPart>
                <author>Gašperšič Jože</author>
-               <title>idem. Gorenjsko železarstvo v XIV. in XV. stoletju</title>
+               <title>Gorenjsko železarstvo v XIV. in XV. stoletju</title>
                <page>5-10</page>
+               <cobiss>6189622</cobiss>
                <citedIn count="1">
                   <cit did="2614" cid="88"/>
                </citedIn>
@@ -13310,7 +13364,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Lešnik Avgust</author>
-               <title>Zaslužni prof. dr. Marjan Britovšek (23. 8. 1923 - 8. 12. 2008)</title>
+               <title>Zaslužni prof. dr. Marjan Britovšek</title>
+               <title>(23. 8. 1923 - 8. 12. 2008)</title>
                <page>319-325</page>
                <cobiss>40193122</cobiss>
                <citedIn count="1">
@@ -13334,7 +13389,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="2137">
                <author>Studen Andrej</author>
-               <title>„Izjava enega zanesljivega Slovenca zadostuje"</title><title>denunciacije pronemških elementov po razpadu habsburške monarhije v dokumentih okrajnega sodišča Slovenske Konjice</title>
+               <title>„Izjava enega zanesljivega Slovenca zadostuje"</title>
+               <title>denunciacije pronemških elementov po razpadu habsburške monarhije v dokumentih okrajnega sodišča Slovenske Konjice</title>
                <citedIn count="1">
                   <cit did="2274" cid="181"/>
                </citedIn>
@@ -13360,7 +13416,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Mally Eva</author>
-               <title>Matthew Cobb</title><title>The resistance: the French Fight Against the Nazis</title>
+               <title>Matthew Cobb</title>
+               <title>The resistance: the French Fight Against the Nazis</title>
                <page>254-257</page>
                <cobiss>2705524</cobiss>
                <citedIn count="1">
@@ -13383,7 +13440,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="2277">
                <author>Sunčič Mitja</author>
-               <title>"Celotno posojilo mestne hranilnice ljubljanske je šlo v žepe akcionarjev in po drugih napačnih potih"</title><title>Mestna hranilnica ljubljanska in propad industrijske delniške družbe Karel Pollak</title>
+               <title>"Celotno posojilo mestne hranilnice ljubljanske je šlo v žepe akcionarjev in po drugih napačnih potih"</title>
+               <title>Mestna hranilnica ljubljanska in propad industrijske delniške družbe Karel Pollak</title>
                <citedIn count="1">
                   <cit did="2960" cid="2"/>
                </citedIn>
@@ -13439,7 +13497,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="1699">
                <author>Zajc Marko</author>
-               <title>K zgodovini naborov v Kraljevini SHS/Jugoslaviji</title><title>'V Dravski banovini je že od pamti veka v navadi, da rekruti veseljačijo'</title>
+               <title>K zgodovini naborov v Kraljevini SHS/Jugoslaviji</title>
+               <title>'V Dravski banovini je že od pamti veka v navadi, da rekruti veseljačijo'</title>
                <citedIn count="1">
                   <cit did="2817" cid="8"/>
                </citedIn>
@@ -13566,7 +13625,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="1463">
                <author>Tominšek Rihtar Tadeja</author>
-               <title>Civilne žrtve druge svetovne vojne in povojnega nasilja na Primorskem: (10. junij 1940 - februar 1946)</title>
+               <title>Civilne žrtve druge svetovne vojne in povojnega nasilja na Primorskem</title>
+               <title>(10. junij 1940 - februar 1946)</title>
                <citedIn count="1">
                   <cit did="2299" cid="161"/>
                </citedIn>
@@ -13631,7 +13691,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="148">
                <author>Guštin Damijan</author>
-               <title>Dr. Milan Lemež, Denarni zavod Slovenije in koncepti valutne reforme nove države leta 1944</title>
+               <title>Dr. Milan Lemež</title>
+               <title>Denarni zavod Slovenije in koncepti valutne reforme nove države leta 1944</title>
                <citedIn count="1">
                   <cit did="663" cid="67"/>
                </citedIn>
@@ -14197,7 +14258,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Vodopivec Peter</author>
-               <title>Srednja Evropa</title><title>mit ali (tudi) stvarnost?</title>
+               <title>Srednja Evropa</title>
+               <title>mit ali (tudi) stvarnost?</title>
                <page>7-18</page>
                <cobiss>1588340</cobiss>
                <citedIn count="3">
@@ -15231,7 +15293,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Režek Mateja</author>
-               <title>Znanstveno posvetovanje "Slovenija 1848-1998</title><title>Iskanje lastne poti"</title>
+               <title>Znanstveno posvetovanje "Slovenija 1848-1998</title>
+               <title>Iskanje lastne poti"</title>
                <title>Maribor, 16. - 17. april 1998</title>
                <page>198-203</page>
                <cobiss>584308</cobiss>
@@ -15355,6 +15418,7 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
          </issue>
          <issue n="2">
+            <pubTitle>Ferenčev zbornik</pubTitle>
             <pubPart>
                <author>Biber Dušan</author>
                <title>Pastir brez črede</title>
@@ -15607,7 +15671,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Guštin Damijan</author>
-               <title>Žrtev kot objekt in subjekt vojne</title><title>(slovenski tisk o žrtvah v letih 1941-1945)</title>
+               <title>Žrtev kot objekt in subjekt vojne</title>
+               <title>(slovenski tisk o žrtvah v letih 1941-1945)</title>
                <page>189-200</page>
                <cobiss>325236</cobiss>
                <citedIn count="1">
@@ -15914,7 +15979,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Guštin Damijan</author>
-               <title>Poročanje o vojni</title><title>revija Svetovna vojska, 1914-1915</title>
+               <title>Poročanje o vojni</title>
+               <title>revija Svetovna vojska, 1914-1915</title>
                <page>209-218</page>
                <cobiss>49210368</cobiss>
                <citedIn count="1">
@@ -16505,7 +16571,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Nemški liberalizem in vprašanje naroda ter državne ureditve. Primerjava z Jugoslavijo v dvajsetih letih</title>
+               <title>Nemški liberalizem in vprašanje naroda ter državne ureditve</title>
+               <title>Primerjava z Jugoslavijo v dvajsetih letih</title>
                <page>39-47</page>
                <cobiss>21691136</cobiss>
                <citedIn count="1">
@@ -16826,7 +16893,8 @@ zgodovinarjev v Mariboru)</title>
          <issue n="65">
             <pubPart>
                <author>Jagodic Devan</author>
-               <title>Mobilità residenziale transfrontaliera nel contesto dell'Unione europea</title><title>Il caso del confine italo-sloveno</title>
+               <title>Mobilità residenziale transfrontaliera nel contesto dell'Unione europea</title>
+               <title>Il caso del confine italo-sloveno</title>
                <page>60-87</page>
                <cobiss>12016973</cobiss>
                <citedIn count="1">
@@ -17209,7 +17277,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="2833">
                <author>Rizman Rudi</author>
-               <title>Perspektive raziskovanja etničnosti in manjšin v 21. stoletju</title><title>(sklepno predavanje na konferenci ob 80-letnici Inštituta za narodnostna vprašanja)</title>
+               <title>Perspektive raziskovanja etničnosti in manjšin v 21. stoletju</title>
+               <title>(sklepno predavanje na konferenci ob 80-letnici Inštituta za narodnostna vprašanja)</title>
                <citedIn count="1">
                   <cit did="3151" cid="33"/>
                </citedIn>
@@ -17377,7 +17446,8 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart>
                <author>Kacin Wohinz Milica</author>
-               <title>Predstavitev dokumenta gibanja Giustizia e Libertà</title><title>Ilfascismo e il martirio delle minoranze /Fašizem in zatiranje manjšin</title>
+               <title>Predstavitev dokumenta gibanja Giustizia e Libertà</title>
+               <title>Ilfascismo e il martirio delle minoranze /Fašizem in zatiranje manjšin</title>
                <page>231-232</page>
                <cobiss>9453133</cobiss>
                <citedIn count="1">
@@ -17441,7 +17511,6 @@ zgodovinarjev v Mariboru)</title>
             </pubPart>
             <pubPart correspPubId="2902">
                <author>Knežević Hočevar Duška</author>
-               <title>Â»Kri ni vodaÂ«: Potomci Uskokov ob slovensko-hrvaški meji</title>
                <title>"Kri ni voda" : potomci Uskokov ob slovensko-hrvaški meji</title>
                <citedIn count="2">
                   <cit did="29" cid="378"/>
@@ -18211,7 +18280,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Jesih Boris</author>
-               <title>Medetnični odnosi in politika</title><title>drobci raziskave</title>
+               <title>Medetnični odnosi in politika</title>
+               <title>drobci raziskave</title>
                <page>86-91</page>
                <cobiss>769869</cobiss>
                <citedIn count="2">
@@ -18243,7 +18313,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Novak Lukanovič Sonja</author>
-               <title>Dvojezična vzgoja in izobraževanje</title><title>vloga v družbi in stališča posameznikov</title>
+               <title>Dvojezična vzgoja in izobraževanje</title>
+               <title>vloga v družbi in stališča posameznikov</title>
                <page>38-45</page>
                <cobiss>763725</cobiss>
                <citedIn count="1">
@@ -19270,7 +19341,7 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Curk J.</author>
-               <title>O prebivalstvu Maribora med sredinama 18. in 19- stoletja</title>
+               <title>O prebivalstvu Maribora med sredinama 18. in 19. stoletja</title>
                <page>43-78</page>
                <cobiss>12176904</cobiss>
                <citedIn count="1">
@@ -19333,7 +19404,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Matjašič Friš Mateja</author>
-               <title>Bog in Slovenci! Anton Bezenšek v pismih prijatelju dr. Pavlu Turnerju</title>
+               <title>Bog in Slovenci!</title>
+               <title>Anton Bezenšek v pismih prijatelju dr. Pavlu Turnerju</title>
                <page>399-430</page>
                <cobiss>12299016</cobiss>
                <citedIn count="1">
@@ -19381,7 +19453,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Matjašič Friš Mateja</author>
-               <title>"Spomini iz mojega življenja" dr. Pavla Turnerja</title>
+               <title>"Spomini iz mojega življenja"</title>
+               <title>dr. Pavla Turnerja</title>
                <page>165-250</page>
                <cobiss>19369517</cobiss>
                <citedIn count="2">
@@ -19915,7 +19988,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="4">
             <pubPart>
                <author>Trojar Stefan</author>
-               <title>Vloga slik pri pouku zgodovine in nove možnosti modernega slikovnega prikazovanja. 2. del</title>
+               <title>Vloga slik pri pouku zgodovine in nove možnosti modernega slikovnega prikazovanja</title>
+               <title>2. del</title>
                <page>25-31</page>
                <cobiss>3172194</cobiss>
                <citedIn count="1">
@@ -19986,7 +20060,7 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Vodopivec Peter</author>
-              <title>Novejši zgodovinopisni pogledi na meščanstvo in zgodovino meščanstva</title>
+               <title>Novejši zgodovinopisni pogledi na meščanstvo in zgodovino meščanstva</title>
                <page>3-11</page>
                <cobiss>53619200</cobiss>
                <citedIn count="2">
@@ -20450,7 +20524,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Kosi Jernej</author>
-               <title>Jedel je prav malo, kakor je bila njegova navada. Pil je več</title>
+               <title>Jedel je prav malo, kakor je bila njegova navada</title>
+               <title>Pil je več</title>
                <title>Ivan Cankar, slovenski bohem - prispevek k zgodovini bohemstva na Slovenskem</title>
                <page>44-58</page>
                <cobiss>216995584</cobiss>
@@ -20548,7 +20623,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Jerman Katja</author>
-               <title>Promenada v Ljubljani</title><title>kaj je promenada?</title>
+               <title>Promenada v Ljubljani</title>
+               <title>kaj je promenada?</title>
                <page>40-65</page>
                <cobiss>121207040</cobiss>
                <citedIn count="1">
@@ -20579,7 +20655,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>'Hudiči'! le naglejte se me, da boste vsaj siti'</title><title>O zločinu in justifikaciji cigana Simona Helda v Novem mestu</title>
+               <title>'Hudiči'! le naglejte se me, da boste vsaj siti'</title>
+               <title>O zločinu in justifikaciji cigana Simona Helda v Novem mestu</title>
                <page>26-39</page>
                <cobiss>121206016</cobiss>
                <citedIn count="1">
@@ -20701,7 +20778,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Čoh Mateja</author>
-               <title>V imenu slovenskega naroda</title><title>krivi!</title>
+               <title>V imenu slovenskega naroda</title>
+               <title>krivi!</title>
                <page>66-80</page>
                <cobiss>7621941</cobiss>
                <citedIn count="1">
@@ -20845,7 +20923,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Lavrenčič Aleksander</author>
                <title>Ko žival postane človeška, se ne zmeni za korenine lastnega debla</title>
-               <title>basni iz obdobja 1914-1918</title><title>usode zamolčanih junakov vseh vojn</title>
+               <title>basni iz obdobja 1914-1918</title>
+               <title>usode zamolčanih junakov vseh vojn</title>
                <page>30-36</page>
                <cobiss>698740</cobiss>
                <citedIn count="1">
@@ -21057,7 +21136,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1">
             <pubPart>
                <author>Dolenc Ervin</author>
-               <title>"Za menoj ne bodo farji pevali ... Za menoj bo šla muzika"</title>
+               <title>"Za menoj ne bodo farji pevali ..</title>
+               <title>Za menoj bo šla muzika"</title>
                <title>Politični boji in versko življenje na kranjskem podeželju v začetku stoletja</title>
                <page>57-67</page>
                <cobiss>247156</cobiss>
@@ -21382,7 +21462,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>In memoriam Olga Janša-Zorn (5. 7. 1938 - 28. 1. 2008)</title>
+               <title>In memoriam Olga Janša-Zorn</title>
+               <title>(5. 7. 1938 - 28. 1. 2008)</title>
                <page>229-233</page>
                <cobiss>28529709</cobiss>
                <citedIn count="1">
@@ -21651,7 +21732,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Mlinar Janez</author>
-               <title>Slepo črevo Kranjske. Prispevek h kolonizacijski zgodovini Zgornjesavske doline</title>
+               <title>Slepo črevo Kranjske</title>
+               <title>Prispevek h kolonizacijski zgodovini Zgornjesavske doline</title>
                <page>330-340</page>
                <cobiss>513793919</cobiss>
                <citedIn count="1">
@@ -21870,7 +21952,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Brenner Christine</author>
                <title>K analizi aktualnih razprav o beguncih in izgnancih v času 1938-1950 v srednji in vzhodni Evropi</title>
-               <title>Delovno srečanje v okviru projekta Forost</title><title>»Diskurzi v evropskih pristopnih državah Poljski, Češki, Slovaški, Madžarski in Sloveniji o prisilnih selitvah v letih 1938–1950«, München, 11. oktober 2003</title>
+               <title>Delovno srečanje v okviru projekta Forost</title>
+               <title>»Diskurzi v evropskih pristopnih državah Poljski, Češki, Slovaški, Madžarski in Sloveniji o prisilnih selitvah v letih 1938–1950«, München, 11. oktober 2003</title>
                <page>214-218</page>
                <citedIn count="1">
                   <cit did="942" cid="3"/>
@@ -21930,7 +22013,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="1-2">
             <pubPart>
                <author>Balkovec Bojan</author>
-               <title>"Če ne greš volit, pomagaš nasprotniku do zmage!"</title><title>iz volilne propagande Slovenske ljudske stranke med obema svetovnima vojnama</title>
+               <title>"Če ne greš volit, pomagaš nasprotniku do zmage!"</title>
+               <title>iz volilne propagande Slovenske ljudske stranke med obema svetovnima vojnama</title>
                <page>97-112</page>
                <cobiss>22172514</cobiss>
                <citedIn count="1">
@@ -22010,7 +22094,8 @@ londonskih govorih Jana Masaryka</title>
          <issue n="3-4">
             <pubPart>
                <author>Batagelj Borut</author>
-               <title>Od skokov k poletom</title><title>začetki smučarskih skokov na Slovenskem in uveljavitev Planice v času med obema vojnama</title>
+               <title>Od skokov k poletom</title>
+               <title>začetki smučarskih skokov na Slovenskem in uveljavitev Planice v času med obema vojnama</title>
                <page>379-430</page>
                <cobiss>9243190</cobiss>
                <citedIn count="1">
@@ -22547,7 +22632,8 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Grdina Igor</author>
                <title>Mihail Konstantinovič</title>
-               <title>Dnevničke beleške 1939-1941</title><title>Londonske beleške 1944-1945 : priredio za štampu Radomir Konstantinović : Novi Sad : Mir, 1998 : 663 strani</title>
+               <title>Dnevničke beleške 1939-1941</title>
+               <title>Londonske beleške 1944-1945 : priredio za štampu Radomir Konstantinović : Novi Sad : Mir, 1998 : 663 strani</title>
                <page>286-290</page>
                <citedIn count="2">
                   <cit did="2274" cid="101"/>
@@ -22973,7 +23059,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Mislej Irene</author>
-               <title>Primorska slovenska skupnost v Južni Ameriki</title><title>Pregled antifašističnega tiska 1929-1943</title>
+               <title>Primorska slovenska skupnost v Južni Ameriki</title>
+               <title>Pregled antifašističnega tiska 1929-1943</title>
                <page>95-116</page>
                <cobiss>4987469</cobiss>
                <citedIn count="1">
@@ -23049,7 +23136,7 @@ londonskih govorih Jana Masaryka</title>
                <title>Nekronani vojvoda kranjski</title>
                <title>dr. Ivan Šušteršič</title>
                <page>369-382</page>
-              <cobiss>2897762</cobiss>
+               <cobiss>2897762</cobiss>
                <citedIn count="6">
                   <cit did="1025" cid="5"/>
                   <cit did="3419" cid="2"/>
@@ -23401,7 +23488,7 @@ londonskih govorih Jana Masaryka</title>
             <pubPart>
                <author>Kos Peter</author>
                <title>Denarništvo na prostoru današnje Slovenije v času od 12. do 14. stoletja</title>
-              <title>Stanje raziskav</title>
+               <title>Stanje raziskav</title>
                <page>307-317</page>
                <cobiss>47020032</cobiss>
                <citedIn count="8">
@@ -23665,7 +23752,7 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Melik Vasilij</author>
-               <title>26. zborovanje slovenskih zgodovinarjev v Slovenjem Gradcu 28.-30. semptembra 1992 z občnim zborom Zveze zgodovinskih društev Slovenije</title>
+               <title>26. zborovanje slovenskih zgodovinarjev v Slovenjem Gradcu 28.-30. septembra 1992 z občnim zborom Zveze zgodovinskih društev Slovenije</title>
                <page>581-585</page>
                <cobiss>46937088</cobiss>
                <citedIn count="1">
@@ -23766,7 +23853,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Carlo Ginzburg, Der Käse und die Würmer. Die Welt eines Müllers um 1600</title>
+               <title>Carlo Ginzburg, Der Käse und die Würmer</title>
+               <title>Die Welt eines Müllers um 1600</title>
                <page>134-136</page>
                <cobiss>785780</cobiss>
                <citedIn count="1">
@@ -24208,7 +24296,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Rozman Boris</author>
-               <title>France Pernišek, Zgodovina slovenskega Orla. Buenos Aires : Slovenska kulturna akcija, 1989. 264 strani. (139. izdanje Slovenske kulturne akcije.)</title>
+               <title>France Pernišek, Zgodovina slovenskega Orla</title>
+               <title>Buenos Aires : Slovenska kulturna akcija, 1989. 264 strani. (139. izdanje Slovenske kulturne akcije.)</title>
                <page>678-681</page>
                <cobiss>32019200</cobiss>
                <citedIn count="1">
@@ -24431,7 +24520,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Smej Jožef</author>
-               <title>Pregled srednjeveške zgodovine Murske Sobote</title><title>predstavitev novega mestnega grba</title>
+               <title>Pregled srednjeveške zgodovine Murske Sobote</title>
+               <title>predstavitev novega mestnega grba</title>
                <page>547-551</page>
                <cobiss>20513282</cobiss>
                <citedIn count="1">
@@ -24784,7 +24874,7 @@ londonskih govorih Jana Masaryka</title>
                   <cit did="2543" cid="30"/>
                </citedIn>
             </pubPart>
-            </issue>
+         </issue>
       </year>
       <year n="1987">
          <issue n="1">
@@ -24868,7 +24958,8 @@ londonskih govorih Jana Masaryka</title>
             </pubPart>
             <pubPart>
                <author>Vodušek Starič Jerca et al.</author>
-               <title>Zgodovinopisje na Slovenskem danes</title><title>okrogla miza v Tolminu 2. oktobra 1986</title>
+               <title>Zgodovinopisje na Slovenskem danes</title>
+               <title>okrogla miza v Tolminu 2. oktobra 1986</title>
                <page>147-172</page>
                <citedIn count="1">
                   <cit did="2018" cid="359"/>
@@ -25429,6 +25520,7 @@ Jugoslavije (december 1922-april 1923)</title>
                <author>Štih Peter</author>
                <title>Madžari in slovenska zgodovina v zadnji četrtini 9. in prvi polovici 10. stoletja</title>
                <page>171-201</page>
+               <cobiss>2540339</cobiss>
                <citedIn count="2">
                   <cit did="2639" cid="307"/>
                   <cit did="2647" cid="358"/>
@@ -25481,7 +25573,6 @@ Jugoslavije (december 1922-april 1923)</title>
             </pubPart>
             <pubPart>
                <author>Štuhec Marko</author>
-               <title>Nekaj o družini v Kranju sredi 18. stoletja</title>
                <title>O družini v Kranju sredi 18. stoletja</title>
                <page>285-294</page>
                <cobiss>3479350</cobiss>
@@ -25949,7 +26040,8 @@ Jugoslavije (december 1922-april 1923)</title>
          <issue n="1-2">
             <pubPart>
                <author>Ferdo Gestrin</author>
-               <title>Migracije Slovanov v Italijo. Rezultati jugoslovanske historiografije.</title>
+               <title>Migracije Slovanov v Italijo</title>
+               <title>Rezultati jugoslovanske historiografije.</title>
                <page>7-21</page>
                <citedIn count="1">
                   <cit did="2536" cid="17"/>
@@ -26818,7 +26910,8 @@ Jugoslavije (december 1922-april 1923)</title>
             <pubPart>
                <author>Grafenauer Bogo</author>
                <title>Edvard Kardelj (Sperans)</title>
-               <title>Razvoj slovenskega narodnega vprašanja. DZS, Ljubljana 1970. 496 + II. str. Tretja, pregledna in dopolnjena izdaja</title>
+               <title>Razvoj slovenskega narodnega vprašanja</title>
+               <title>DZS, Ljubljana 1970. 496 + II. str. Tretja, pregledna in dopolnjena izdaja</title>
                <page>312-333</page>
                <citedIn count="2">
                   <cit did="2889" cid="60"/>
@@ -26954,7 +27047,8 @@ Jugoslavije (december 1922-april 1923)</title>
          <issue n="1-2">
             <pubPart>
                <author>Kermavner Dušan</author>
-               <title>Ob spominskih zapisih R. Goluha</title><title>O tržaškem anarhizmu in o nekaterih črtah slovenske socialne demokracije</title>
+               <title>Ob spominskih zapisih R. Goluha</title>
+               <title>O tržaškem anarhizmu in o nekaterih črtah slovenske socialne demokracije</title>
                <page>115-133</page>
                <citedIn count="1">
                   <cit did="1683" cid="19"/>
@@ -27363,7 +27457,9 @@ Jugoslavije (december 1922-april 1923)</title>
             </pubPart>
             <pubPart>
                <author>Kos Milko</author>
-               <title>Ocena</title><title>Wiessner. Gurker Urbare in Pirchegger, Die Herrschaften des Bistums Gurk</title>
+               <title>Ocena</title>
+               <title>Wiessner</title>
+               <title>Gurker Urbare in Pirchegger, Die Herrschaften des Bistums Gurk</title>
                <page>269-275</page>
                <citedIn count="1">
                   <cit did="2583" cid="104"/>
@@ -28594,7 +28690,8 @@ Jugoslavije (december 1922-april 1923)</title>
             </pubPart>
             <pubPart>
                <author>Martelanc Vladimir</author>
-               <title>Narodno vprašanje v naši politiki v Julijski Benečiji (1923-1927)</title><title>iz spominov</title>
+               <title>Narodno vprašanje v naši politiki v Julijski Benečiji (1923-1927)</title>
+               <title>iz spominov</title>
                <page>119-129</page>
                <citedIn count="1">
                   <cit did="3288" cid="113"/>
@@ -30041,15 +30138,9 @@ Jugoslavije (december 1922-april 1923)</title>
                <author>Pipp Lojze</author>
                <title>Starostna razdelitev prebivalstva po ljudskem štetju z dne 31. decembra 1880</title>
                <page>300-304</page>
-               <citedIn count="1">
+               <cobiss>11562043</cobiss>
+               <citedIn count="2">
                   <cit did="854" cid="57"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pipp Lojze</author>
-               <title>Starostna razdelitev prebivalstva po popisu z dne 31. decembra 1869</title>
-               <page>126-129</page>
-               <citedIn count="1">
                   <cit did="854" cid="56"/>
                </citedIn>
             </pubPart>
@@ -30094,7 +30185,8 @@ Orožen J.</author>
             </pubPart>
             <pubPart>
                <author>Vrhovnik Ivan</author>
-               <title>Nekaj pozabljenih ljubljanskih svetišč</title><title>kapela na Žabljaku</title>
+               <title>Nekaj pozabljenih ljubljanskih svetišč</title>
+               <title>kapela na Žabljaku</title>
                <page>237-238</page>
                <citedIn count="1">
                   <cit did="1492" cid="44"/>
