@@ -10172,7 +10172,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Mikuž Metod</author>
             <title>Gradivo za zgodovino univerze v letih 1919-1945</title>
-            <title>Gradivo za zgodovino univerze v letih 1919–1945</title>
             <page>53-92</page>
             <citedIn count="2">
                <cit did="247" cid="47" avtor0="Mikuž Metod"
@@ -10186,9 +10185,11 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vodopivec Peter, Pivec Franci</author>
+            <author>Vodopivec Peter</author>
+            <author>Pivec Franci</author>
             <title>O študentskem organiziranju po drugi svetovni vojni</title>
-            <page>169-183</page>
+            <cobiss>248853</cobiss>
+            <page>169-192</page>
             <citedIn count="2">
                <cit did="823" cid="3" avtor0="Vodopivec Peter, Pivec Franci"
                   naslov0="O študentskem organiziranju po drugi svetovni vojni"
@@ -10202,7 +10203,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Zwitter Fran</author>
-            <title>Višje šolstvo na Slovenskem do leta 1910</title>
             <title>Višje šolstvo na Slovenskem do leta 1918</title>
             <page>13-51</page>
             <citedIn count="5">
@@ -10239,13 +10239,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <pubCobiss>78343936</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Fischer J.</author>
             <author>Fischer Jasna</author>
             <title>Izgradnja gospodarske infrastrukture v Sloveniji do druge svetovne vojne</title>
-            <title>Izgradnja gospodarske infrastrukture v
-Sloveniji do druge svetovne vojne</title>
             <cobiss>594804</cobiss>
-            <page>30-47</page>
+            <page>29-47</page>
             <citedIn count="4">
                <cit did="1999" cid="17" avtor0="Fischer J."
                   naslov0="Izgradnja gospodarske infrastrukture v Sloveniji do druge svetovne vojne"
@@ -10266,8 +10263,9 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Janša Zorn O.</author>
+            <author>Janša-Zorn Olga</author>
             <title>Turistična dejavnost na Slovenskem do druge svetovne vojne</title>
+            <cobiss>2792777</cobiss>
             <page>177-205</page>
             <citedIn count="1">
                <cit did="1999" cid="22" avtor0="Janša Zorn O."
@@ -10279,6 +10277,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Kresal France</author>
             <title>Vloga tujega kapitala v Sloveniji pred drugo svetovno vojno</title>
+            <cobiss>595572</cobiss>
+            <page> 85-102</page>
             <citedIn count="1">
                <cit did="616" cid="2" avtor0="Kresal France"
                   naslov0="Vloga tujega kapitala v Sloveniji pred drugo svetovno vojno"
@@ -10289,6 +10289,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Lazarević Žarko</author>
             <title>Podjetništvo in drobnogospodarski sektor</title>
+            <cobiss>596596</cobiss>
+            <page>159-175</page>
             <citedIn count="1">
                <cit did="616" cid="9" avtor0="Lazarević Žarko"
                   naslov0="Podjetništvo in drobnogospodarski sektor"
@@ -10299,18 +10301,13 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Lazarević Žarko</author>
             <title>Podjetništvo in slovenske banke</title>
+            <cobiss>596340</cobiss>
+            <page>139-157</page>
             <citedIn count="1">
                <cit did="575" cid="8" avtor0="Lazarević Žarko"
                   naslov0="Podjetništvo in slovenske banke"
                   source="Pogled v zgodovino slovenskega podjetništva" pubPlace="Vrhnika"
                   publisher="Razum" year="1998"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Lazarevič Žarko</author>
-            <title>Podjetništvo in slovenske banke</title>
-            <page>139-157</page>
-            <citedIn count="1">
                <cit did="2274" cid="127" avtor0="Lazarevič Žarko"
                   naslov0="Podjetništvo in slovenske banke"
                   source="Pogled v zgodovino slovenskega podjetništva. Vrhnika : Razum" year="1998"
@@ -10320,6 +10317,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Lazarević Žarko</author>
             <title>Velika gospodarska kriza v tridesetih letih in Slovenci</title>
+            <cobiss>596084</cobiss>
             <page>121-138</page>
             <citedIn count="3">
                <cit did="2274" cid="128" avtor0="Lazarević Žarko"
@@ -10403,8 +10401,10 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Heniggman Žarko</author>
+            <author>Henigman Žarko</author>
             <title>Varnostnik na položaju</title>
+            <cobiss>4077774</cobiss>
+            <page>273-278</page>
             <citedIn count="1">
                <cit did="3235" cid="32" avtor0="Heniggman Žarko" naslov0="Varnostnik na položaju"
                   source="Posavju v letih 1989-1991" pubPlace="Brežice" publisher="Posavski muzej"
@@ -10543,7 +10543,7 @@ Sloveniji do druge svetovne vojne</title>
             <author>Ferenc Tone</author>
             <title>Sodstvo pod okupacijo 1941-1945</title>
             <cobiss>36645218</cobiss>
-            <page>199-228</page>
+            <page>199-232</page>
             <citedIn count="5">
                <cit did="16" cid="64" avtor0="Ferenc Tone" naslov0="Sodstvo pod okupacijo 1941-1945"
                   cobiss="36645218"
@@ -10570,7 +10570,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Melik Jelka</author>
             <title>Namesto uvoda</title>
-            <page>10-12</page>
+            <cobiss>157301</cobiss>
+            <page>7-19</page>
             <citedIn count="1">
                <cit did="107" cid="9" avtor0="Melik Jelka" naslov0="Namesto uvoda"
                   source="Pravo, zgodovina, arhivi. 1, Prispevki za&#xA;zgodovino pravosodja"
@@ -10581,7 +10582,7 @@ Sloveniji do druge svetovne vojne</title>
             <author>Melik Jelka</author>
             <title>Organizacija rednih sodišč v prvi Jugoslaviji</title>
             <cobiss>157813</cobiss>
-            <page>175-176</page>
+            <page>175-183</page>
             <citedIn count="1">
                <cit did="990" cid="6" avtor0="Melik Jelka"
                   naslov0="Organizacija rednih sodišč v prvi Jugoslaviji" cobiss="157813"
@@ -10620,6 +10621,7 @@ Sloveniji do druge svetovne vojne</title>
             <author>Baraga France</author>
             <title>Polidor Montagnana</title>
             <cobiss>4773686</cobiss>
+            <page>89-103</page>
             <citedIn count="1">
                <cit did="34" cid="29" avtor0="Baraga France" naslov0="Polidor Montagnana"
                   cobiss="4773686" source="Preddvor v času in prostoru" pubPlace="Preddvor"
@@ -10630,6 +10632,7 @@ Sloveniji do druge svetovne vojne</title>
             <author>Dolinar France Martin</author>
             <title>Drobci iz zgodovine župnije Preddvor</title>
             <cobiss>4767286</cobiss>
+            <page>105-121</page>
             <citedIn count="1">
                <cit did="922" cid="5" avtor0="Dolinar France Martin"
                   naslov0="Drobci iz zgodovine župnije Preddvor" cobiss="4767286"
@@ -10639,6 +10642,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Knific Timotej</author>
             <title>Arheološko najdišče Gradišče nad Bašljem</title>
+            <cobiss>964192</cobiss>
             <page>55-67</page>
             <citedIn count="1">
                <cit did="2639" cid="148" avtor0="Knific Timotej"
@@ -10679,14 +10683,14 @@ Sloveniji do druge svetovne vojne</title>
             <citedIn count="1">
                <cit did="1227" cid="24" avtor0="Otorepec Božo"
                   naslov0="Občina Preddvor v srednjem veku" cobiss="13607213"
-                  source="Preddvor v času in prostoru" pubPlace="Preddvor" year="1999" page="83-88"
-               />
+                  source="Preddvor v času in prostoru" pubPlace="Preddvor" year="1999" page="83-88"/>
             </citedIn>
          </pubPart>
          <pubPart>
             <author>Roblek Tone</author>
             <title>Kulturno in športno življenje v Preddvoru</title>
             <cobiss>5492022</cobiss>
+            <page>177-214</page>
             <citedIn count="1">
                <cit did="922" cid="9" avtor0="Roblek Tone"
                   naslov0="Kulturno in športno življenje v Preddvoru" cobiss="5492022"
@@ -10706,7 +10710,7 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Uranič Lidija</author>
-            <title>Furmanstvo in furmani v Preddvoru in okolici v prvi polovici 20. stoletja</title>
+            <title>Furmanstvo in furmani v Preddvoru in okolici v prvi polovici 20. stoletja 1</title>
             <cobiss>5491254</cobiss>
             <page>281-299</page>
             <citedIn count="1">
@@ -10747,6 +10751,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Fujs Metka</author>
             <title>Prekmurci v dvajsetem stoletju</title>
+            <cobiss>3159603</cobiss>
             <page>65-79</page>
             <citedIn count="6">
                <cit did="2790" cid="32" avtor0="Fujs Metka" naslov0="Prekmurci v dvajsetem stoletju"
@@ -10770,11 +10775,10 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Göncz Laszlo</author>
             <author>Göncz László</author>
             <title>Madžarska narodna skupnost v Prekmurju od priključitve do danes in njene težave pri ohranjanju identitete</title>
             <cobiss>3160115</cobiss>
-            <page>87-92</page>
+            <page>87-93</page>
             <citedIn count="2">
                <cit did="1121" cid="2" avtor0="Göncz Laszlo"
                   naslov0="Madžarska narodna skupnost v Prekmurju od priključitve do danes in njene težave pri ohranjanju identitete"
@@ -10799,9 +10803,10 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Nećak Lük Albina</author>
+            <author>Lük Nećak Albina</author>
             <title>Sociolingvistična podoba Prekmurja : razmere v času med Avstro-Ogrsko in Jugoslavijo</title>
-            <page>124-125</page>
+            <cobiss>7614029</cobiss>
+            <page>123-135</page>
             <citedIn count="1">
                <cit did="2131" cid="9" avtor0="Nećak Lük Albina"
                   naslov0="Sociolingvistična podoba Prekmurja : razmere v času med Avstro-Ogrsko in Jugoslavijo"
@@ -10812,7 +10817,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Obal Franc</author>
             <title>Razvoj prekmurskega stavbarstva in arhitekture v 20. stoletju</title>
-            <page>195-211</page>
+            <cobiss>433542</cobiss>
+            <page>195-213</page>
             <citedIn count="1">
                <cit did="2565" cid="18" avtor0="Obal Franc"
                   naslov0="Razvoj prekmurskega stavbarstva in arhitekture v 20. stoletju"
@@ -10823,7 +10829,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Šavel Irena</author>
             <title>Prekmurska kulturna dediščina in njeno mesto v razvoju regije</title>
-            <page>213-223</page>
+            <cobiss>3167283</cobiss>
+            <page>213-222</page>
             <citedIn count="1">
                <cit did="2565" cid="21" avtor0="Šavel Irena"
                   naslov0="Prekmurska kulturna dediščina in njeno mesto v razvoju regije"
@@ -10845,9 +10852,9 @@ Sloveniji do druge svetovne vojne</title>
       <chapters>
          <pubPart>
             <author>Benjak Mirjana</author>
-            <author>Požgaj Hadži Vesna</author>
+            <author>Požgaj-Hadži Vesna</author>
             <title>Brez predsodkov in stereotipov</title>
-            <title>Medkulturna sporazumevalna zmožnost v družbenem in političnem kontekstu</title>
+            <title>medkulturna sporazumevalna zmožnost v družabnem in političnem kontekstu</title>
             <cobiss>34804066</cobiss>
             <page>336-337</page>
             <citedIn count="1">
@@ -10902,7 +10909,7 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Haramija Dragica</author>
-            <title>Prevodi slovenske mladinske kjniževnosti v hrvaščino</title>
+            <title>Prevodi slovenske mladinske književnosti v hrvaščino</title>
             <cobiss>14913032</cobiss>
             <page>317-318</page>
             <citedIn count="1">
@@ -10952,7 +10959,7 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Požgaj Hadži Vesna</author>
+            <author>Požgaj-Hadži Vesna</author>
             <author>Benjak Mirjana</author>
             <title>Dolga pot do sosedove sodobne proze</title>
             <cobiss>34803554</cobiss>
@@ -10967,7 +10974,7 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Premk Francka</author>
-            <title>Slovenistični prispevki v reviji Riječ: Od 1995 do 2005 (Ob jubileju revije)</title>
+            <title>Slovenistični prispevki v reviji Riječ: od 1995 do 2005 (ob jubileju revije)</title>
             <cobiss>25665837</cobiss>
             <page>97-107</page>
             <citedIn count="1">
@@ -11006,7 +11013,8 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Tucović Vladka</author>
-            <title>"Silno volim ljepotu tog grada, koji je i zao i dobar, i vjeran i nevjeran": Zofka Kveder u Zagrebu (Ob 80-letnici smrti)</title>
+            <title>"Silno volim ljepotu tog grada, koji je i zao i dobar, i vjeran i nevjeran": Zofka Kveder u Zagrebu (ob 80-letnici smrti)</title>
+            <cobiss>33751138</cobiss>
             <page>83-96</page>
             <citedIn count="1">
                <cit did="3072" cid="288" avtor0="Tucović Vladka"
@@ -11017,7 +11025,7 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Čeh Jožica</author>
+            <author>Čeh Steger Jožica</author>
             <title>Cankarjev pogled na ilirizem in novoiliristične ideje Frana Ilešiča</title>
             <cobiss>14910216</cobiss>
             <page>151-162</page>
@@ -11044,8 +11052,7 @@ Sloveniji do druge svetovne vojne</title>
       <pubCobiss>80243200</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Deželak Barič Vida</author>
-            <title>Vloga in značaj KP Slovenije med drugo svetovno vojno</title>
+            <author>Deželak-Barič Vida</author>
             <title>Vloga in značaj Komunistične partije Slovenije med drugo svetovno vojno</title>
             <cobiss>812660</cobiss>
             <page>95-108</page>
@@ -11073,6 +11080,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Glavni problemi slovenske kulture v prvi Jugoslaviji</title>
+            <cobiss>880756</cobiss>
             <page>85-94</page>
             <citedIn count="2">
                <cit did="575" cid="1" avtor0="Dolenc Ervin"
@@ -11104,7 +11112,6 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Lazarević Žarko</author>
-            <author>Lazarevič Žarko</author>
             <title>Značilnosti industrializacije v obdobju med svetovnima vojnama</title>
             <cobiss>730740</cobiss>
             <page>43-52</page>
@@ -11151,7 +11158,6 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Pančur Andrej</author>
             <title>Socialna misel v drugi polovici 19. stoletja</title>
-            <title>Socialna misel v drugi polovici l9. stoletja</title>
             <cobiss>730228</cobiss>
             <page>19-28</page>
             <citedIn count="4">
@@ -11176,6 +11182,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Prinčič Jože</author>
             <title>Slovensko gospodarstvo od konca druge svetovne vojne do velike reforme : (1945-1970)</title>
+            <cobiss>890228</cobiss>
+            <page>165-174</page>
             <citedIn count="1">
                <cit did="539" cid="1" avtor0="Prinčič Jože"
                   naslov0="Slovensko gospodarstvo od konca druge svetovne vojne do velike reforme : (1945-1970)"
@@ -11185,7 +11193,6 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Režek Mateja</author>
             <title>Politične spremembe v Sloveniji v začetku petdesetih let</title>
-            <title>Politične spremembe v Sloveniji v začetkupetdesetih let</title>
             <cobiss>631156</cobiss>
             <page>189-198</page>
             <citedIn count="3">
@@ -11207,6 +11214,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Studen Andrej</author>
             <title>Modernizacija načina življenja na prelomu stoletja</title>
+            <cobiss>650356</cobiss>
+            <page>29-42</page>
             <citedIn count="1">
                <cit did="516" cid="1" avtor0="Studen Andrej"
                   naslov0="Modernizacija načina življenja na prelomu stoletja"
@@ -11216,10 +11225,8 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Troha Nevenka</author>
-            <title>Boj za meje</title>
-            <title>Slovenci in Italijani na Primorskem - v Julijski krajini v letih 1945-1954</title>
-            <title>Boj za meje : Slovenci in Italijani na Primorskem - v Julijski krajini v letih 1945-1947</title>
-            <title>Boj za meje: Slovenci in Italijani na Primorskem: v Julijski krajini v letih 1945-1954</title>
+            <title>Boj za meje : Slovenci in Italijani na Primorskem - v Julijski krajini v letih 1945-1954</title>
+            <cobiss>652916</cobiss>
             <page>143-154</page>
             <citedIn count="3">
                <cit did="754" cid="9" avtor0="Troha Nevenka" naslov0="Boj za meje"
@@ -11239,7 +11246,7 @@ Sloveniji do druge svetovne vojne</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Nekatere politične in idejne značilnosti na Slovenskem 1929-1941</title>
             <cobiss>891508</cobiss>
             <page>75-84</page>
@@ -11268,7 +11275,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Borak Neven</author>
             <title>Načrti za zamenjavo denarja in denarne reforme v prevratnih obdobjih</title>
-            <page>182-191</page>
+            <cobiss>348302</cobiss>
+            <page>161-192</page>
             <citedIn count="1">
                <cit did="1283" cid="8" avtor0="Borak Neven"
                   naslov0="Načrti za zamenjavo denarja in denarne reforme v prevratnih obdobjih"
@@ -11280,7 +11288,7 @@ Sloveniji do druge svetovne vojne</title>
             <author>Fabjančič Zarjan</author>
             <title>Ekonomska vloga države v Avstro-Ogrski, v Jugoslaviji po prvi in drugi svetovni vojni in v Sloveniji</title>
             <cobiss>42194</cobiss>
-            <page>79-93</page>
+            <page>79-94</page>
             <citedIn count="2">
                <cit did="844" cid="31" avtor0="Fabjančič Zarjan"
                   naslov0="Ekonomska vloga države v Avstro-Ogrski, v Jugoslaviji po prvi in drugi svetovni vojni in v Sloveniji"
@@ -11294,8 +11302,8 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Fischer Jasna</author>
-            <title>Slovenska gospodarska bilanca ob vstopu v Jugoslavijo</title>
             <title>Slovenska gospodarska bilanca ob vstopu v prvo Jugoslavijo</title>
+            <cobiss>316788</cobiss>
             <page>13-21</page>
             <citedIn count="3">
                <cit did="73" cid="103" avtor0="Fischer Jasna"
@@ -11332,6 +11340,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Križanič France</author>
             <title>Gospodarska uspešnost slovenskih vlad</title>
+            <cobiss>1990481</cobiss>
             <page>37-47</page>
             <citedIn count="1">
                <cit did="2378" cid="7" avtor0="Križanič France"
@@ -11343,11 +11352,8 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Lazarević Žarko</author>
             <title>Obrat proti jugu : (Ukrepanje ob vstopanju v jugoslovanski gospodarski prostor)</title>
-            <title>Obrat proti jugu</title>
-            <title>Obrat proti jugu: prevrati in slovensko gospodarstvo v XX. stoletju</title>
-            <title>Obrat proti jugu : (Ukrepanje ob vstopu v jugoslovanski prostor)</title>
             <cobiss>300404</cobiss>
-            <page>95-119</page>
+            <page>95-106</page>
             <citedIn count="6">
                <cit did="3290" cid="70" avtor0="Lazarević Žarko"
                   naslov0="Obrat proti jugu : (Ukrepanje ob vstopanju v jugoslovanski gospodarski prostor)"
@@ -11377,7 +11383,6 @@ Sloveniji do druge svetovne vojne</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>Slovensko Gospodarstvo v času prevrata leta 1918</title>
             <title>Slovensko gospodarstvo v času prevrata leta 1918</title>
             <cobiss>300660</cobiss>
             <page>107-119</page>
@@ -11395,8 +11400,7 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Prinčič Jože</author>
             <title>Podržavljanje zasebnega premoženja v Sloveniji po drugi svetovni vojni</title>
-            <title>Podržavljenje zasebnega premoženja v Sloveniji po drugi svetovni vojni</title>
-            <cobiss>300916</cobiss>
+            <cobiss>300916</cobiss> <!-- članka nisem našla v Cobissu -->
             <page>121-131</page>
             <citedIn count="3">
                <cit did="3530" cid="1" avtor0="Prinčič Jože"
@@ -11418,9 +11422,9 @@ Sloveniji do druge svetovne vojne</title>
          <pubPart>
             <author>Zagradnik Maruša</author>
             <author>Zagradnik Maruška (?)</author>
-            <title>Procesi podržavljanja premoženja v Slovenskem primorju po drugi svetovni vojni</title>
-            <title>Procesi podržavljanja zasebnega premoženja v Slovenskem primorju po drugi svetovni vojni</title>
-            <page>133-146</page>
+            <title>Procesi podržavljenja premoženja v Slovenskem Primorju po drugi svetovni vojni</title>
+            <cobiss>2917425</cobiss>
+            <page>133-143</page>
             <citedIn count="3">
                <cit did="3452" cid="101" avtor0="Zagradnik Maruša"
                   naslov0="Procesi podržavljanja premoženja v Slovenskem primorju po drugi svetovni vojni"
