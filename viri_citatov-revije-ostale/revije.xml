@@ -12,30 +12,10 @@
    </docMetadata>
    <source>
       <pubTitle>Acta ecclesiastica Sloveniae</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae, 17</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae 5. Miscellanea</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae 5</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae 26.</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae 14.</pubTitle>
-      <pubTitle>Acta ecclesiastica Sloveniae 10. Miscellanea</pubTitle>
-      <pubTitle>Acta ecclesiastca Sloveniae</pubTitle>
-      <pubTitle>Acta Ecclesiastica SloveniÃ¦</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniee</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniae, 22</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniae, 12.</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniae 27</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniae 22</pubTitle>
-      <pubTitle>Acta Ecclesiastica Sloveniae</pubTitle>
-      <pubTitle>Acta Ecclesiastica</pubTitle>
-      <pubTitle>AES 20</pubTitle>
-      <pubTitle>AES</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Teološka fakulteta, Inštitut za zgodovino Cerkve</publisher>
       <publisher>Inštitut za zgodovino Cerkve pri Teološki fakulteti Univerze v Ljubljani</publisher>
-      <publisher>Inštitut za zgodovino cerkve pri Teološki fakulteti v Ljubljani</publisher>
-      <publisher>Inštitut za zgodovino Cerkve</publisher>
-      <publisher>Inštitut za zgodovino Cerkve pri Teološki fakulteti</publisher>
-      <publisher>Inštitut za zgodovino Cerkve pri Teološki fakulteti Univerze</publisher>
+      <pubCobiss>15981570</pubCobiss>
+      <issn>0351-2789</issn>
       <year n="2007">
          <volume>29</volume>
          <issue n="29">
@@ -925,14 +905,12 @@
       </year>
    </source>
    <source>
-      <pubTitle>Acta historie artis Slovenica</pubTitle>
-      <pubTitle>Acta historiae artis Slovenka</pubTitle>
-      <pubTitle>Acta historiae artis Slovenicae</pubTitle>
       <pubTitle>Acta historiae artis Slovenica</pubTitle>
-      <pubTitle>Acta Historiae Artis Slovenka</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti, Umetnostnozgodovinski inštitut Franceta Steleta</publisher>
-      <publisher>ZRC SAZU, Umetnostnozgodovinski inštitut Franceta Steleta</publisher>
+      <publisher>Znanstvenoraziskovalni center Slovenske akademije znanosti in umetnosti</publisher>
+      <publisher>Umetnostnozgodovinski inštitut Franceta Steleta</publisher>
+      <pubCobiss>64217856</pubCobiss>
+      <issn>1408-0419</issn>
       <year n="2011">
          <volume>16</volume>
          <issue n="16">
@@ -1453,11 +1431,13 @@
       </year>
    </source>
    <source>
-      <pubTitle>Agens: časopis za privatizacijo, prestrukturiranje in razvoj</pubTitle>
-      <pubTitle>Agens : časopis za privatizacijo, prestrukturiranje in razvoj</pubTitle>
+      <pubTitle>Agens</pubTitle>
+      <pubTitle>časopis za privatizacijo, prestrukturiranje in razvoj</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Agencija Republike Slovenije za prestrukturiranje in privatizacijo : Sklad Republike Slovenije za razvoj</publisher>
-      <publisher>Agencija Republike Slovenije za prestrukturiranje in privatizacijo, Sklad Republike Slovenije za razvoj</publisher>
+      <publisher>Agencija Republike Slovenije za prestrukturiranje in privatizacijo</publisher>
+      <publisher>Sklad Republike Slovenije za razvoj</publisher>
+      <pubCobiss>37985792</pubCobiss>
+      <issn>1318-2730</issn>
       <year n="1998">
          <issue n="55">
             <pubPart>
@@ -2052,12 +2032,13 @@
       </year>
    </source>
    <source>
-      <pubTitle>Anthropos, časopis za psihologijo in filozofijo ter za sodelovanje humanističnih ved</pubTitle>
-      <pubTitle>Anthropos, Časopis za psihologijo in filozofijo ter za sodelovanje humanističnih ved</pubTitle>
-      <pubTitle>Anthropos : Časopis za psihologijo in filozofijo ter za sodelovanje humanističnih ved</pubTitle>
-      <pubTitle>Anthropos 29</pubTitle>
       <pubTitle>Anthropos</pubTitle>
+      <pubTitle>Časopis za psihologijo in filozofijo ter za sodelovanje humanističnih ved</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Društvo psihologov Slovenije</publisher>
+      <publisher>Slovensko filozofsko društvo</publisher>
+      <pubCobiss>736516</pubCobiss>
+      <issn>0587-5161</issn>
       <year n="2007">
          <volume>39</volume>
          <issue n="3-4">
@@ -2356,10 +2337,14 @@
       </year>
    </source>
    <source>
-      <pubTitle>Argo : časopis slovenskih muzejev</pubTitle>
       <pubTitle>Argo</pubTitle>
-      <pubTitle>ARGO</pubTitle>
+      <pubTitle>časopis slovenskih muzejev</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Narodni muzej Slovenije</publisher>
+      <publisher>Slovensko muzejsko društvo</publisher>
+      <publisher>Skupnost muzejev Slovenije</publisher>
+      <pubCobiss>16403202</pubCobiss>
+      <issn>0570-8869</issn>
       <year n="2004">
          <volume>47</volume>
          <issue n="2">
@@ -2729,8 +2714,12 @@
       </year>
    </source>
    <source>
-      <pubTitle>Archaeologia Historica Slovenka</pubTitle>
+      <!-- Zbirka in ne revija! -->
       <pubTitle>Archaeologia Historica Slovenica</pubTitle>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Filozofska fakulteta, Oddelek za arheologijo</publisher>
+      <pubCobiss>1224502</pubCobiss>
+      <issn>1408-4589</issn>
       <year n="2001">
          <volume>3</volume>
          <issue>
@@ -2907,21 +2896,11 @@
    </source>
    <source>
       <pubTitle>arheološki vestnik</pubTitle>
-      <pubTitle>Arheološki vestnik, v tisku.</pubTitle>
-      <pubTitle>Arheološki vestnik,</pubTitle>
-      <pubTitle>Arheološki vestnik IV/2</pubTitle>
-      <pubTitle>Arheološki vestnik 46</pubTitle>
-      <pubTitle>Arheološki vestnik 43</pubTitle>
-      <pubTitle>Arheološki vestnik 41</pubTitle>
-      <pubTitle>Arheološki vestnik</pubTitle>
-      <pubTitle>Arheološki vestnih</pubTitle>
-      <pubTitle>Arheološki restnik</pubTitle>
-      <pubTitle>Arheološki reslnik</pubTitle>
-      <pubTitle>Arheološki Vestnik</pubTitle>
+      <pubTitle>Acta archaeologica</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubljana - Celovec</pubPlace>
-      <pubPlace>Ljubljana - Škofja Loka</pubPlace>
-      <publisher>SAZU</publisher>
+      <publisher>Slovenska akademija znanosti in umetnosti : Znanstvenoraziskovalni center SAZU</publisher>
+      <pubCobiss>6431490</pubCobiss>
+      <issn>0570-8966</issn>
       <year n="2009">
          <volume>60</volume>
          <issue>
@@ -5867,10 +5846,11 @@
    </source>
    <source>
       <pubTitle>Bančni vestnik</pubTitle>
-      <pubTitle>Bančni vestnik, I. del</pubTitle>
-      <pubTitle>Bančni vestnik : revija za denarništvo in bančništvo</pubTitle>
+      <pubTitle>revija za denarništvo in bančništvo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Združenje bank Slovenije</publisher>
+      <pubCobiss>737028</pubCobiss>
+      <issn>0005-4631</issn>
       <year n="2004">
          <volume>53</volume>
          <issue n="1-2">
@@ -6339,11 +6319,12 @@
       </year>
    </source>
    <source>
-      <pubTitle>Bogoslovni vestnik : glasilo Teološke fakultete v Ljubljani</pubTitle>
       <pubTitle>Bogoslovni vestnik</pubTitle>
-      <pubPlace>Maribor</pubPlace>
+      <pubTitle>glasilo Teološke fakultete v Ljubljani</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Teološka fakulteta</publisher>
+      <publisher>Teološka fakulteta Univerze v Ljubljani</publisher>
+      <pubCobiss>8745472</pubCobiss>
+      <issn>0006-5722</issn>
       <year n="2008">
          <volume>3</volume>
          <issue n="3">
@@ -7131,29 +7112,17 @@ Ljubljani in Teološko fakulteto</title>
    </source>
    <source>
       <pubTitle>Borec</pubTitle>
-      <pubTitle>Konec druge svetovne vojne v Jugoslaviji, Borec, XXXVIII, 12, 1986.</pubTitle>
-      <pubTitle>Konec druge svetovne vojne v Jugoslaviji, Borec</pubTitle>
-      <pubTitle>Konec druge svetovne vojne v Jugoslaviji / Borec</pubTitle>
-      <pubTitle>Konec druge svetovne vojne v Jugoslaviji</pubTitle>
-      <pubTitle>Konec druge svetovne vijne v Jugoslaviji</pubTitle>
-      <pubTitle>Borec; 43, št. 7/9</pubTitle>
-      <pubTitle>Borec, revija za zgodovino, literaturo in antropologijo</pubTitle>
-      <pubTitle>Borec, januar</pubTitle>
-      <pubTitle>Borec, Revija za zgodovino, antropologijo in književnost</pubTitle>
-      <pubTitle>Borec,</pubTitle>
-      <pubTitle>Borec : revija za zgodovino, literaturo in antropologijo</pubTitle>
-      <pubTitle>Borec : konec druge svetovne vojne v Jugoslaviji</pubTitle>
-      <pubTitle>Borec 2000</pubTitle>
-      <pubTitle>Borec 1941-1945</pubTitle>
+      <pubTitle>Revija za zgodovino, antropologijo in književnost</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Borec</pubPlace>
       <publisher>Društvo za proučevanje zgodovine, literature in antropologije</publisher>
       <publisher>RO ZZB NOV Slovenije</publisher>
       <publisher>Borec</publisher>
       <publisher>Mladika</publisher>
-      <publisher>Društvo za preučevanje zgodovine, literature in antropologije</publisher>
       <publisher>Zapiski vojaka</publisher>
       <publisher>Založba Borec</publisher>
+      <publisher>Sophia</publisher>
+      <pubCobiss>738308</pubCobiss>
+      <issn>0006-7725</issn>
       <year n="2006">
          <volume>58</volume>
          <issue n="630-634">
@@ -10495,30 +10464,11 @@ tržaški krizi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Celjski zbronik 1990</pubTitle>
-      <pubTitle>Celjski zbornik 1997 ob 100-letnici Narodnega doma</pubTitle>
-      <pubTitle>Celjski zbornik 1997</pubTitle>
-      <pubTitle>Celjski zbornik 1994</pubTitle>
-      <pubTitle>Celjski zbornik 1993. Kulturna skupnost Občine</pubTitle>
-      <pubTitle>Celjski zbornik 1991</pubTitle>
-      <pubTitle>Celjski zbornik 1982- 1983</pubTitle>
-      <pubTitle>Celjski zbornik 1977- 1981</pubTitle>
-      <pubTitle>Celjski zbornik 1960</pubTitle>
-      <pubTitle>Celjski zbornik 1959</pubTitle>
-      <pubTitle>Celjski zbornik 1951</pubTitle>
-      <pubTitle>Celjski zbornik 1897-1997</pubTitle>
       <pubTitle>Celjski zbornik</pubTitle>
-      <pubTitle>Celje zbornik</pubTitle>
-      <pubTitle>CZ</pubTitle>
       <pubPlace>Celje</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
-      <publisher>Osrednja knjižnica Celje</publisher>
       <publisher>Kulturna skupnost občine</publisher>
-      <publisher>Skupščina občine</publisher>
-      <publisher>Kulturna skupnost Celje</publisher>
-      <publisher>Svet za kulturo okraja Celje</publisher>
-      <publisher>Svet za kulturo okraja</publisher>
-      <publisher>Svet za prosveto in kulturo okraja</publisher>
+      <pubCobiss>8072192</pubCobiss>
+      <issn>0576-9760</issn>
       <year n="1997">
          <issue>
             <pubPart>
@@ -12312,11 +12262,12 @@ tržaški krizi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Celovški zvon : vseslovenska revija za leposlovje, kritiko, kulturna, družbena in verska vprašanja</pubTitle>
       <pubTitle>Celovški zvon</pubTitle>
-      <pubTitle>Celovški Zvon</pubTitle>
+      <pubTitle>vseslovenska revija za leposlovje, kritiko, kulturna, družbena in verska vprašanja</pubTitle>
       <pubPlace>Celovec</pubPlace>
       <publisher>Mohorjeva družba</publisher>
+      <pubCobiss>8582656</pubCobiss>
+      <issn>1024-1469</issn>
       <year n="1995">
          <volume>13</volume>
          <issue n="47">
@@ -12608,12 +12559,11 @@ tržaški krizi</title>
       </year>
    </source>
    <source>
-      <pubTitle>časopis za kritiko znanosti</pubTitle>
       <pubTitle>Časopis za kritiko znanosti, domišljijo in novo antropologijo</pubTitle>
-      <pubTitle>Časopis za kritiko znanosti 26 (1998), št. 189, str. 161-188.</pubTitle>
-      <pubTitle>Časopis za kritiko znanosti</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Študentska založba</publisher>
+      <pubCobiss>672783</pubCobiss>
+      <issn>0351-4285</issn>
       <year n="2009">
          <volume>37</volume>
          <issue n="235-236">
@@ -13728,11 +13678,12 @@ tržaški krizi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Delta : revija za ženske študije in feministično teorijo</pubTitle>
-      <pubTitle>Delta 1</pubTitle>
       <pubTitle>Delta</pubTitle>
+      <pubTitle>revija za ženske študije in feministično teorijo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Društvo za kulturološke raziskave</publisher>
+      <pubCobiss>49892352</pubCobiss>
+      <issn>1318-6116</issn>
       <year n="2006">
          <volume>11</volume>
          <issue n="1-2">
