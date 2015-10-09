@@ -2722,11 +2722,15 @@
       <issn>1408-4589</issn>
       <year n="2001">
          <volume>3</volume>
+         <!-- ISBN 961-237-000-1, cobiss: 115735040 -->
          <issue>
+            <pubTitle>Srednjeveško Celje</pubTitle>
             <pubPart>
                <author>Guštin Mitja</author>
-               <title>Celjske čase. Srednjeveško Celje</title>
+               <title>Celjske čaše</title>
+               <title>Srednjeveško Celje</title>
                <page>139-193</page>
+               <cobiss>17638754</cobiss>
                <citedIn count="1">
                   <cit did="2237"
                        cid="9"
@@ -2740,8 +2744,10 @@
             </pubPart>
             <pubPart>
                <author>Guštin Mitja, Jezeršek Mirjam, Prošek Nataša</author>
-               <title>Katalog keramičnih najdb iz Celja. Srednjeveško Celje</title>
+               <title>Katalog keramičnih najdb iz Celja</title>
+               <title>Srednjeveško Celje</title>
                <page>195-238</page>
+               <cobiss>17640034</cobiss>
                <citedIn count="1">
                   <cit did="2237"
                        cid="10"
@@ -2755,8 +2761,10 @@
             </pubPart>
             <pubPart>
                <author>Lazar Irena</author>
-               <title>Srednjeveško steklo iz Celja. Srednjeveško Celje</title>
+               <title>Srednjeveško steklo iz Celja</title>
+               <title>Srednjeveško Celje</title>
                <page>69-96</page>
+               <cobiss>9935413</cobiss>
                <citedIn count="2">
                   <cit did="2237"
                        cid="16"
@@ -2780,10 +2788,12 @@
       </year>
       <year n="1997">
          <volume>2</volume>
+         <!-- ISBN 961-6200-29-1, cobiss 65950464-->
          <issue>
+            <pubTitle>Drobci nekega vsakdana</pubTitle>
             <pubPart>
                <author>Bregant Tatjana</author>
-               <title>Pečnice s Starega gradu Celje: Drobci nekega vsakdana</title>
+               <title>Pečnice s Starega gradu Celje</title>
                <page>29-38</page>
                <citedIn count="1">
                   <cit did="2237"
@@ -2800,6 +2810,7 @@
                <author>Brišnik Danijela</author>
                <title>Pečnice z gradu Salek. Drobci nekega vsakdana</title>
                <page>39-57</page>
+               <cobiss>14841653</cobiss>
                <citedIn count="1">
                   <cit did="2237"
                        cid="3"
@@ -2830,6 +2841,7 @@
                <author>Lamut Brane</author>
                <title>K začetkom visokosrednjeveškega Ptuja</title>
                <page>89-106</page>
+               <cobiss>22396472</cobiss>
                <citedIn count="1">
                   <cit did="2237"
                        cid="15"
@@ -2860,10 +2872,13 @@
       </year>
       <year n="1994">
          <volume>1</volume>
+         <!-- ISBN: 86-7207-059-3, <cobiss>42136320</cobiss> -->
          <issue>
+            <pubTitle>Ljubljanski grad, pečnice</pubTitle>
             <pubPart>
                <author>Horvat Martin</author>
-               <title>Arheološke raziskave. Ljubljanski grad, pečnice</title>
+               <title>Ljubljanski grad</title>
+               <title>pečnice</title>
                <page>29-40</page>
                <citedIn count="1">
                   <cit did="2237"
@@ -2879,7 +2894,8 @@
             <pubPart>
                <author>Kramberger Taja</author>
                <title>Pečnice z ljubljanskega gradu. Ljubljanski grad, pečnice.</title>
-               <page>69-145</page>
+               <page>69-137</page>
+               <cobiss>21772386</cobiss>
                <citedIn count="1">
                   <cit did="2237"
                        cid="12"
@@ -14271,11 +14287,12 @@ tipi</title>
    </source>
    <source>
       <pubTitle>Dialogi</pubTitle>
-      <pubTitle>Dialogi, 6</pubTitle>
-      <pubTitle>Dialogi : revija za kulturo v vseh oblikah</pubTitle>
-      <pubTitle>Dialogi 5. Eseji, pisma, portreti</pubTitle>
+      <pubTitle>revija za kulturo v vseh oblikah</pubTitle>
       <pubPlace>Maribor</pubPlace>
-      <publisher>samozaložba GolKerKavč</publisher>
+      <publisher>Obzorja</publisher>
+      <publisher>Aristej</publisher>
+      <pubCobiss>3328770</pubCobiss>
+      <issn>0012-2068</issn>
       <year n="2004">
          <volume>40</volume>
          <issue n="3-4">
@@ -14589,21 +14606,21 @@ tipi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Dolenjski zbornik : zbornik za humanistične, družboslovne in naravoslovne raziskave</pubTitle>
-      <pubTitle>Dolenjski zbornik 1996</pubTitle>
-      <pubTitle>Dolenjski zbornik 1990</pubTitle>
-      <pubTitle>Dolenjski zbornik ... : zbornik za humanistične, družboslovne in naravoslovne raziskave</pubTitle>
+      <!-- Knjižna zbirka -->
       <pubTitle>Dolenjski zbornik</pubTitle>
+      <pubTitle>zbornik za humanistične, družboslovne in naravoslovne raziskave</pubTitle>
       <pubPlace>Novo mesto</pubPlace>
-      <publisher>Tiskarna Novo mesto, Dolenjska založba</publisher>
-      <publisher>Dolenjski zbornik</publisher>
       <publisher>Tiskarna - Dolenjska založba Novo mesto</publisher>
+      <pubCobiss>16523522</pubCobiss>
+      <issn>0417-9137</issn>
       <year n="1997">
          <issue>
+            <pubTitle>Gorjanci</pubTitle>
             <pubPart>
                <author>Breščak Danilo</author>
                <title>Gradec nad Mihovim</title>
-               <page>98</page>
+               <page>98-107</page>
+               <cobiss>71640064</cobiss>
                <citedIn count="1">
                   <cit did="1298"
                        cid="96"
@@ -14615,42 +14632,30 @@ tipi</title>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Faganel Jože</author>
-               <title>Matija Kastelec - baročni književnik</title>
-               <title>Skica za portret</title>
-               <page>89-94</page>
-               <citedIn count="1">
-                  <cit did="1298"
-                       cid="74"
-                       avtor0="Faganel Jože"
-                       naslov0="Matija Kastelec - baročni književnik"
-                       naslov1="Skica za portret"
-                       source="Dolenjski zbornik 1996"
-                       pubPlace="Novo mesto"
-                       publisher="Tiskarna Novo mesto, Dolenjska založba"
-                       year="1997"
-                       page="89-94"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Kos Dušan</author>
                <title>Gradovi, dvorci in plemstvo med Krko in Gorjanci do konca srednjega veka</title>
                <page>113-142</page>
+               <cobiss>5281325</cobiss>
                <citedIn count="1">
                   <cit did="2647"
-                       cid="161"
-                       avtor0="Kos Dušan"
-                       naslov0="Gradovi, dvorci in plemstvo med Krko in Gorjanci do konca srednjega veka"
-                       source="Dolenjski zbornik"
-                       year="1997"
-                       page="113-142"/>
+                     cid="161"
+                     avtor0="Kos Dušan"
+                     naslov0="Gradovi, dvorci in plemstvo med Krko in Gorjanci do konca srednjega veka"
+                     source="Dolenjski zbornik"
+                     year="1997"
+                     page="113-142"/>
                </citedIn>
             </pubPart>
+         </issue>
+         <issue>
+            <pubTitle>500 let Kolegiatnega kapitlja v Novem mestu</pubTitle>           
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Novomeškemu kapitlju inkorporirane župnije in Dolenjski arhidiakonat</title>
-               <page>51</page>
-               <citedIn count="1">
+               <addTitle>Župnije novomeškega kapitlja</addTitle>
+               <page>47-69</page>
+               <cobiss>5772808</cobiss>
+               <citedIn count="2">
                   <cit did="1298"
                        cid="70"
                        avtor0="Mlinarič Jože"
@@ -14660,13 +14665,6 @@ tipi</title>
                        publisher="Tiskarna Novo mesto, Dolenjska založba"
                        year="1997"
                        page="51"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Mlinarič Jože</author>
-               <title>Župnije novomeškega kapitlja</title>
-               <page>47-49</page>
-               <citedIn count="1">
                   <cit did="2705"
                        cid="21"
                        avtor0="Mlinarič Jože"
@@ -14682,8 +14680,31 @@ tipi</title>
       <year n="1996">
          <issue>
             <pubPart>
+               <author>Faganel Jože</author>
+               <title>Matija Kastelec</title>
+               <title>baročni književnik</title>
+               <title>Skica za portret</title>
+               <page>89-94</page>
+               <cobiss>6131767</cobiss>
+               <citedIn count="1">
+                  <cit did="1298"
+                     cid="74"
+                     avtor0="Faganel Jože"
+                     naslov0="Matija Kastelec - baročni književnik"
+                     naslov1="Skica za portret"
+                     source="Dolenjski zbornik 1996"
+                     pubPlace="Novo mesto"
+                     publisher="Tiskarna Novo mesto, Dolenjska založba"
+                     year="1997"
+                     page="89-94"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
                <author>Otorepec Božo</author>
-               <title>Listine o ustanovitvi novomeškega kapitlja (1493-1509)</title>
+               <title>Listine o ustanovitvi novomeškega kapitlja</title>
+               <title>(1493-1509)</title>
+               <page>33-45</page>
+               <cobiss>6126391</cobiss>
                <citedIn count="1">
                   <cit did="2705"
                        cid="23"
@@ -14697,12 +14718,13 @@ tipi</title>
          </issue>
       </year>
       <year n="1990">
-         <volume>1991</volume>
          <issue>
             <pubPart>
                <author>Granda Stane</author>
                <title>Dolenjska vas v prvi polovici 19. stoletja</title>
-               <page>164-165</page>
+               <title>prispevek k njeni zgodovini</title>
+               <page>163-171</page>
+               <cobiss>53515264</cobiss>
                <citedIn count="1">
                   <cit did="2579"
                        cid="8"
@@ -14717,8 +14739,6 @@ tipi</title>
             <pubPart>
                <author>Jarc Janko</author>
                <title>Gospodje Črnomaljski</title>
-               <title>Gospodje Crnomaljski</title>
-               <title>Gospodje črnomaljski</title>
                <page>117-142</page>
                <cobiss>25254658</cobiss>
                <citedIn count="6">
@@ -14776,9 +14796,8 @@ tipi</title>
             <pubPart>
                <author>Kos Dušan</author>
                <title>Gospostvo novomeškega kapitlja do srede 17. stoletja</title>
-               <title>Gusposivo novomeskega kapiilja do srede 17. slolelja</title>
                <page>87-115</page>
-               <page>91, 99, 103-107...</page>
+               <cobiss>25254402</cobiss>
                <citedIn count="4">
                   <cit did="2647"
                        cid="150"
@@ -14817,10 +14836,6 @@ tipi</title>
                <author>Otorepec Božo</author>
                <author>Otoropec B.</author>
                <title>Stari grad pri Novem mestu in njegovi lastniki</title>
-               <title>Stari grad prt Novem mestu in njegovi lastniki</title>
-               <title>Start grad pri Novem mestu in njegovi lastniki</title>
-               <title>Stari grad pri Novem mestu in njegovi lastnik</title>
-               <title>Stari grad pri Novem Mestu in njegovi lastniki</title>
                <page>59-86</page>
                <cobiss>25254146</cobiss>
                <citedIn count="6">
@@ -14875,7 +14890,8 @@ tipi</title>
             <pubPart>
                <author>Resman Blaž</author>
                <title>Nova gotika na novomeškem kapitlju</title>
-               <page>201-203 ...</page>
+               <page>201-215</page>
+               <cobiss>790071</cobiss>
                <citedIn count="1">
                   <cit did="1298"
                        cid="24"
@@ -14894,7 +14910,8 @@ tipi</title>
             <pubPart>
                <author>Breščak Danilo</author>
                <title>Oblike antičnih grobov na Dolenjskem</title>
-               <page>1-160</page>
+               <page>33-60</page>
+               <cobiss>794679</cobiss>
                <citedIn count="1">
                   <cit did="2787"
                        cid="12"
@@ -14925,6 +14942,8 @@ tipi</title>
                <author>Uršič Mojca</author>
                <author>Uršič Mojca, Uršič Borut</author>
                <title>Popis sakralnih spomenikov Crmošnjiške doline</title>
+               <page>131-159</page>
+               <cobiss>796215</cobiss>
                <citedIn count="2">
                   <cit did="3485"
                        cid="64"
@@ -14949,6 +14968,8 @@ tipi</title>
             <pubPart>
                <author>Pirkovič Ivo</author>
                <title>Predstraže ilegalnega Novega mesta</title>
+               <page>61-87</page>
+               <cobiss>14836791</cobiss>
                <citedIn count="1">
                   <cit did="1510"
                        cid="64"
@@ -14964,11 +14985,11 @@ tipi</title>
    </source>
    <source>
       <pubTitle>Družboslovne razprave</pubTitle>
-      <pubTitle>Družboslovne Razprave</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Slovensko sociološko društvo, Fakulteta za družbene vede</publisher>
-      <publisher>Inštitut za sociologijo</publisher>
-      <publisher>Slovensko sociološko društvo : Fakulteta za družbene vede</publisher>
+      <publisher>Slovensko sociološko društvo</publisher>
+      <publisher>Fakulteta za družbene vede</publisher>
+      <pubCobiss>7530242</pubCobiss>
+      <issn>0352-3608</issn>
       <year n="2010">
          <volume>26</volume>
          <issue n="65">
@@ -15615,33 +15636,13 @@ tipi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Dve domovini: Two Homelands</pubTitle>
-      <pubTitle>Dve dotnovini - Two Homelands</pubTitle>
-      <pubTitle>Dve domovini: Two homelands</pubTitle>
-      <pubTitle>Dve domovini/Two homelands</pubTitle>
-      <pubTitle>Dve domovini/Two Homelands 9</pubTitle>
-      <pubTitle>Dve domovini/Two Homelands 6</pubTitle>
-      <pubTitle>Dve domovini/Two Homelands 13</pubTitle>
-      <pubTitle>Dve domovini/Two Homelands</pubTitle>
-      <pubTitle>Dve domovini/ Two Homelands</pubTitle>
-      <pubTitle>Dve domovini, razprave o izseljenstvu/Two homelands, migration studies</pubTitle>
-      <pubTitle>Dve domovini, Two homelands</pubTitle>
-      <pubTitle>Dve domovini – Two Homelands</pubTitle>
-      <pubTitle>Dve domovini : razprave o izseljenstvu</pubTitle>
-      <pubTitle>Dve domovini : Two Homelands</pubTitle>
-      <pubTitle>Dve domovini / Two Homelands</pubTitle>
-      <pubTitle>Dve domovini - Two homelands</pubTitle>
-      <pubTitle>Dve domovini - Two Homelands</pubTitle>
-      <pubTitle>Dve domovini  - Two homelands</pubTitle>
       <pubTitle>Dve domovini</pubTitle>
-      <pubTitle>. Dve domovini - Two Homelands. Razprave o izseljenstvu - Migration studies</pubTitle>
+      <pubTitle>Two Homelands</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Inštitut za slovensko izseljenstvo = Institute for Slovene Emigration Research</publisher>
       <publisher>Inštitut za slovensko izseljenstvo</publisher>
-      <publisher>Inštitut za slovensko izseljenstvo ZRC SAZU</publisher>
-      <publisher>Inštitut zaslovensko izseljenstvo ZRC SAZU</publisher>
-      <publisher>Inštitut za izseljenstvo ZRC SAZU</publisher>
-      <publisher>Inštitut za slovensko izseljenstvo, ZRC SAZU</publisher>
+      <publisher>Institute for Slovene Emigration Research</publisher>
+      <pubCobiss>3025930</pubCobiss>
+      <issn>0353-6777</issn>
       <year n="2010">
          <volume>32</volume>
          <issue n="32">
@@ -17119,20 +17120,12 @@ tipi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Etnolog : glasnik Slovenskega etnografskega muzeja</pubTitle>
-      <pubTitle>Etnolog. Glasnik Slovendcega etnografskega muzeja</pubTitle>
-      <pubTitle>Etnolog, V-VI</pubTitle>
-      <pubTitle>Etnolog, Ljubljana</pubTitle>
-      <pubTitle>Etnolog XII</pubTitle>
-      <pubTitle>Etnolog X-XI, Županićev zbornik</pubTitle>
-      <pubTitle>Etnolog VIII.</pubTitle>
-      <pubTitle>Etnolog VII</pubTitle>
-      <pubTitle>Etnolog : glasilo Etnografskega muzeja v Ljubljani</pubTitle>
       <pubTitle>Etnolog</pubTitle>
+      <pubTitle>Glasnik Slovenskega etnografskega muzeja</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenski etnografski muzej</publisher>
-      <publisher>Ljubljana</publisher>
-      <publisher>Etnografski muzej</publisher>
+      <pubCobiss>30616065</pubCobiss>
+      <issn>0354-0316</issn>
       <year n="2008">
          <volume>18</volume>
          <issue>
@@ -18014,11 +18007,10 @@ tipi</title>
    </source>
    <source>
       <pubTitle>Filozofski vestnik</pubTitle>
-      <pubTitle>Fiozofski vestnik</pubTitle>
-      <pubTitle>Filozofski vestnik / Http://www.europa.eu.int/comm/ public_opinion/index_en.htm (2004-07); http://europa. eu.int/comm/public_opinion/standard_en.htm</pubTitle>
-      <pubTitle>Filozofiki vestnik</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Filozofski inštitut ZRC SAZU</publisher>
+      <pubCobiss>8558080</pubCobiss>
+      <issn>0353-4510</issn>
       <year n="2007">
          <volume>28</volume>
          <volume>2</volume>
@@ -18371,9 +18363,8 @@ tipi</title>
       <pubTitle>Geographica Slovenica</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za geografijo</publisher>
-      <publisher>Inštitut za geografijo = Institute of Geography</publisher>
-      <publisher>IG</publisher>
-      <publisher>Institut za geografijo Univerze Edvarda Kardelja</publisher>
+      <pubCobiss>5302018</pubCobiss>
+      <issn>0351-1731</issn>
       <year n="2000">
          <volume>33</volume>
          <issue n="1">
@@ -18701,20 +18692,12 @@ pomen za sedanjo rabo tal</title>
    </source>
    <source>
       <pubTitle>Geografski vestnik</pubTitle>
-      <pubTitle>Geografski vestnik XXIII.</pubTitle>
-      <pubTitle>Geografski vestnik V-VI</pubTitle>
-      <pubTitle>Geografski vestnik : časopis za geografijo in sorodne vede =</pubTitle>
-      <pubTitle>Geografski vestnik : časopis za geografijo in sorodne vede</pubTitle>
-      <pubTitle>Geografski vestnik - časopis za geografijo in sorodne vede</pubTitle>
-      <pubTitle>Geografski vestnih časopis za geografijo in sorodne vede</pubTitle>
-      <pubTitle>Geografski vestnih</pubTitle>
-      <pubTitle>Geografski vesnik 20 - 21</pubTitle>
-      <pubTitle>Geografski Vestnik</pubTitle>
+      <pubTitle>časopis za geografijo in sorodne vede</pubTitle>
+      <pubAddTitle>Geographical bulletin</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Geografsko društvo Slovenije</publisher>
-      <publisher>Geografsko društvo</publisher>
       <publisher>Zveza geografskih društev Slovenije</publisher>
-      <publisher>Geografsko društvo v Ljubljani</publisher>
+      <pubCobiss>3590914</pubCobiss>
+      <issn>0350-3895</issn>
       <year n="2008">
          <volume>80</volume>
          <issue n="1">
@@ -20045,13 +20028,12 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
    </source>
    <source>
-      <pubTitle>Geografski zbornik : Acta geographica</pubTitle>
-      <pubTitle>Geografski zbornik: Acta geographica VII</pubTitle>
-      <pubTitle>Geografski zbornik = Acta geographica</pubTitle>
       <pubTitle>Geografski zbornik</pubTitle>
+      <pubTitle>Acta geographica</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvenoraziskovalni center SAZU, Geografski inštitut</publisher>
-      <publisher>SAZU</publisher>
+      <pubCobiss>7978242</pubCobiss>
+      <issn>0373-4498</issn>
       <year n="2002">
          <volume>42</volume>
          <issue>
@@ -20367,12 +20349,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Glasnik Slovenske matice</pubTitle>
-      <pubTitle>Glasnik slovenske matice</pubTitle>
-      <pubTitle>Glasnik Slovenske matice, letn. 29/31, št. 1-3, 112-117.</pubTitle>
-      <pubTitle>Glasnik Slovenske matice III</pubTitle>
-      <pubTitle>Glasnik Slovenske Matice</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
+      <pubCobiss>15962114</pubCobiss>
+      <issn>0351-0298</issn>
       <year n="2005-2007">
          <volume>29-31</volume>
          <issue>
@@ -20731,10 +20711,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Glasnik Slovenskega etnološkega društva</pubTitle>
-      <pubTitle>Glasnik Slovenskega etnoloskega drustva</pubTitle>
       <pubTitle>Glasnik SED</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovensko etnološko društvo</publisher>
+      <pubCobiss>6725378</pubCobiss>
+      <issn>0351-2908</issn>
       <year n="2010">
          <volume>50</volume>
          <issue n="3-4">
@@ -21109,9 +21090,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Goriški letnik</pubTitle>
+      <pubTitle>zbornik Goriškega muzeja</pubTitle>
       <pubPlace>Nova Gorica</pubPlace>
       <publisher>Goriški muzej</publisher>
-      <publisher>Zbornik Goriškega muzeja</publisher>
+      <pubCobiss>7123970</pubCobiss>
+      <issn>0350-2929</issn>
       <year n="2005">
          <volume>30-31</volume>
          <issue>
@@ -22103,11 +22086,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Gospodarska gibanja</pubTitle>
-      <pubTitle>Gospodarska gibanja (GG)</pubTitle>
-      <pubTitle>GG</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Ekonomski institut Pravne fakultete</publisher>
-      <publisher>Ekonomski inštitut pravne fakultete</publisher>
+      <pubCobiss>15963138</pubCobiss>
+      <issn>0351-0360</issn>
       <year n="2008">
          <issue>
             <pubPart>
@@ -22716,13 +22698,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Gospodarski vestnik</pubTitle>
-      <pubTitle>Gospodarski vestnik,</pubTitle>
-      <pubTitle>Gospodarski vestnik : slovenski poslovni tednik (7.-13. apr. 2003)</pubTitle>
-      <pubTitle>Gospodarski vestnik : slovenski poslovni tednik (15.-21. apr. 2002)</pubTitle>
-      <pubTitle>Gospodarski vestnik : slovenski poslovni tednik</pubTitle>
+      <pubTitle>slovenski poslovni tednik</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Gospodarski vestnik</publisher>
-      <publisher>birka Manager</publisher>
+      <pubCobiss>744964</pubCobiss>
+      <issn>0432-1146</issn>
       <year n="2017">
          <volume>51</volume>
          <issue n="50">
@@ -23149,6 +23129,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Idrijski razgledi</pubTitle>
+      <pubPlace>Idrija</pubPlace>
+      <publisher>Mestni muzej Idrija</publisher>
+      <pubCobiss>4375554</pubCobiss>
+      <issn>0019-1523</issn>
       <year n="2006">
          <volume>51</volume>
          <issue n="1">
@@ -23540,10 +23524,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    <source>
       <pubTitle>Jezik in slovstvo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubljana - Celovec</pubPlace>
-      <publisher>Slavistično društvo</publisher>
       <publisher>Slavisticno društvo Slovenije</publisher>
-      <publisher>Slavistično društvo Slovenije</publisher>
+      <pubCobiss>746756</pubCobiss>
+      <issn>0021-6933</issn>
       <year n="2006">
          <volume>51</volume>
          <issue n="6">
@@ -24366,14 +24349,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Kamniški zbornik</pubTitle>
-      <pubTitle>Kamniški zbornik 5</pubTitle>
-      <pubTitle>Kamniški zbornik 2</pubTitle>
-      <pubTitle>Kamniški zbornik 12</pubTitle>
-      <pubTitle>Kamniški zbornik 10</pubTitle>
-      <pubTitle>Kamniški zbomik</pubTitle>
       <pubPlace>Kamnik</pubPlace>
       <publisher>Občina Kamnik</publisher>
-      <publisher>Občina</publisher>
+      <pubCobiss>31001089</pubCobiss>
+      <issn>1318-9069</issn>
       <year n="2004">
          <volume>17</volume>
          <issue>
@@ -24736,15 +24715,12 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Koroški zbornik</pubTitle>
-      <pubTitle>Koroški zbornik 4</pubTitle>
-      <pubTitle>Koroški zbornik 2</pubTitle>
-      <pubTitle>Koroški zbornik 1</pubTitle>
-      <pubPlace>Ravne na Koroškem in Slovenj Gradec : Zgodovinsko društvo za Koroško</pubPlace>
+      <pubTitle>publikacija Zgodovinskega društva za Koroško</pubTitle>
       <pubPlace>Ravne na Koroškem</pubPlace>
       <pubPlace>Slovenj Gradec</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
       <publisher>Zgodovinsko društvo za Koroško</publisher>
-      <publisher>državna založba Slovenije</publisher>
+      <pubCobiss>58868480</pubCobiss>
+      <issn>1318-8607</issn>
       <year n="2005">
          <volume>4</volume>
          <issue>
@@ -24943,19 +24919,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Kranjski zbornik</pubTitle>
-      <pubTitle>Kranjski zhornik 1975</pubTitle>
-      <pubTitle>Kranjski zbornik 2005</pubTitle>
-      <pubTitle>Kranjski zbornik 2000</pubTitle>
-      <pubTitle>Kranjski zbornik 1995</pubTitle>
-      <pubTitle>Kranjski zbornik 1990</pubTitle>
-      <pubTitle>Kranjski zbornik 1985</pubTitle>
-      <pubTitle>Kranjski zbornik 1980</pubTitle>
-      <pubTitle>Kranjski zbornik 1975</pubTitle>
-      <pubTitle>Kranjski zbornik 1970</pubTitle>
       <pubPlace>Kranj</pubPlace>
       <publisher>Mestna občina Kranj</publisher>
-      <publisher>Mestna občina</publisher>
-      <publisher>Skupščina občine Kranj</publisher>
+      <pubCobiss>14891778</pubCobiss>
+      <issn>0351-9589</issn>
       <year n="2005">
          <issue>
             <pubPart>
@@ -25592,23 +25559,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Loški razgledi</pubTitle>
-      <pubTitle>Loški razgledi, Doneski 11.</pubTitle>
-      <pubTitle>Loški razgledi XVII</pubTitle>
-      <pubTitle>Loški razgledi VI</pubTitle>
-      <pubTitle>Loški razgledi Doneski</pubTitle>
-      <pubTitle>Loški razgledi 7</pubTitle>
-      <pubTitle>Loški razgledi 4</pubTitle>
-      <pubTitle>Loški razgled</pubTitle>
-      <pubTitle>Loški Razgledi</pubTitle>
-      <pubTitle>LR</pubTitle>
       <pubPlace>Škofja Loka</pubPlace>
-      <pubPlace>Ljubljana-Škofja Loka</pubPlace>
-      <pubPlace>Škofja loka</pubPlace>
-      <pubPlace>Maribor</pubPlace>
-      <publisher>Založba ZRC</publisher>
       <publisher>Muzejsko društvo Škofja Loka</publisher>
-      <publisher>Muzejsko društvo v Škofji Loki</publisher>
-      <publisher>Muzejsko društvo</publisher>
+      <pubCobiss>7211522</pubCobiss>
+      <issn>0459-8210</issn>
       <year n="2009">
          <volume>20</volume>
          <issue>
@@ -27164,10 +27118,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Monitor ZSA</pubTitle>
-      <pubTitle>Monitor ISH</pubTitle>
-      <pubTitle>Monitor ZSA,</pubTitle>
-      <pubTitle>Monitor LSH</pubTitle>
+      <pubTitle> revija za humanistične in družbene znanosti</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Institutum Studiorum Humanitatis, Fakulteta za podiplomski humanistični študij</publisher>
+      <pubCobiss>114155776</pubCobiss>
+      <issn>1580-688X</issn>
       <year n="2008">
          <volume>10</volume>
          <issue>
@@ -27514,19 +27469,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Muzikološki zbornik</pubTitle>
-      <pubTitle>Muzikološki zbornik I.</pubTitle>
-      <pubTitle>Muzikološki zbornik 32</pubTitle>
-      <pubTitle>Muzikološki zbomik XV</pubTitle>
-      <pubTitle>Muzikoloski zbornik XXV</pubTitle>
-      <pubTitle>Muzikoloski zbornik</pubTitle>
-      <pubTitle>Muzikiloški zbomik III</pubTitle>
+      <pubAddTitle>Musicological annual</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Znanstvena založba Filozofske fakultete</publisher>
-      <publisher>Znanstvena založba Filozofske fakultete Univerze v Ljubljani</publisher>
-      <publisher>Oddelek za muzikologijo Filozofske fakultete</publisher>
-      <publisher>Oddelek za muzikologijo Filozofske fakultete v Ljubljani</publisher>
-      <publisher>Oddelek za muzikologijo Filozofske fakultete Univerze v Ljubljani</publisher>
-      <publisher>Pedagoško znanstvena enota za muzikologijo Filozofske fakultete</publisher>
+      <pubCobiss>16404226</pubCobiss>
+      <issn>0580-373X</issn>
       <year n="2012">
          <volume>48</volume>
          <issue n="2">
@@ -28300,16 +28247,12 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Naši razgledi</pubTitle>
-      <pubTitle>Naši razgledi, 6. 4. 1990</pubTitle>
-      <pubTitle>Naši razgledi, 5.10.1963</pubTitle>
-      <pubTitle>Naši razgledi, 28. marec 1986</pubTitle>
-      <pubTitle>Naši razgledi : štirinajstdnevnik za politična, gospodarska in kulturna vprašanja</pubTitle>
-      <pubTitle>Naši razgledi : NR : štirinajstdnevnik za politična, gospodarska in kulturna vprašanja</pubTitle>
-      <pubTitle>Naši razgledi (ponatis v Razgledi, št. 1000, 17.9. 1993)</pubTitle>
-      <pubTitle>Naši razgled</pubTitle>
-      <pubTitle>NRazgl</pubTitle>
+      <pubTitle>NR</pubTitle>
+      <pubTitle>štirinajstdnevnik za politična, gospodarska in kulturna vprašanja</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Delo</publisher>
+      <pubCobiss>751876</pubCobiss>
+      <issn>0547-3276</issn>
       <year n="2009">
          <issue>
             <pubPart>
@@ -29515,14 +29458,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
    </source>
    <source>
+      <!-- Zbirka knjig, zbornikov...Ni skupnega ISBN ali Cobiss -->
       <pubTitle>Notranjski listi</pubTitle>
-      <pubTitle>Notranjski listi III.</pubTitle>
-      <pubTitle>Notranjski listi II.</pubTitle>
-      <pubTitle>Notranjski listi II</pubTitle>
-      <pubTitle>Notranjski listi I</pubTitle>
-      <pubTitle>Notranjski listi 3.</pubTitle>
-      <pubTitle>Notranjski listi 1</pubTitle>
-      <pubTitle>Notranji listi III</pubTitle>
       <pubPlace>Cerknica</pubPlace>
       <pubPlace>Stari trg pri Ložu</pubPlace>
       <publisher>Kulturna skupnost Cerknica</publisher>
@@ -29802,7 +29739,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       <pubTitle>Nova revija : mesečnik za kulturo</pubTitle>
       <pubTitle>Nova revija</pubTitle>
       <pubTitle>Nova Revija</pubTitle>
-      <pubTitle>Nova  revija</pubTitle>
+      <pubTitle>Nova revija</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <pubPlace>ljubljana</pubPlace>
       <pubPlace>Triest</pubPlace>
