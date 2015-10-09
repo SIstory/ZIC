@@ -29736,14 +29736,12 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
    </source>
    <source>
-      <pubTitle>Nova revija : mesečnik za kulturo</pubTitle>
       <pubTitle>Nova revija</pubTitle>
-      <pubTitle>Nova Revija</pubTitle>
-      <pubTitle>Nova revija</pubTitle>
+      <pubTitle>mesečnik za kulturo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>ljubljana</pubPlace>
-      <pubPlace>Triest</pubPlace>
       <publisher>Nova revija</publisher>
+      <pubCobiss>4435458</pubCobiss>
+      <issn>0351-9805</issn>
       <year n="2010">
          <volume>29</volume>
          <issue n="339-341">
@@ -31683,7 +31681,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Numizmatični vestnik</pubTitle>
+      <pubTitle>glasilo Numizmatičnega društva Slovenije v Ljubljani</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Numizmatično društvo Slovenije</publisher>
+      <pubCobiss>15985410</pubCobiss>
+      <issn>0351-3602</issn>
       <year n="2004">
          <volume>31</volume>
          <issue>
@@ -31869,30 +31871,14 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
    </source>
    <source>
+      <!-- Zbirka zbornikov, ne revija -->
       <pubTitle>Ormož skozi stoletja</pubTitle>
-      <pubTitle>Ormož skozi stoletja, zbornik</pubTitle>
-      <pubTitle>Ormož skozi stoletja, II.</pubTitle>
-      <pubTitle>Ormož skozi stoletja V/1</pubTitle>
-      <pubTitle>Ormož skozi stoletja V.- Knj. 1</pubTitle>
-      <pubTitle>Ormož skozi stoletja IV.</pubTitle>
-      <pubTitle>Ormož skozi stoletja IV</pubTitle>
-      <pubTitle>Ormož skozi stoletja III.</pubTitle>
-      <pubTitle>Ormož skozi stoletja III</pubTitle>
-      <pubTitle>Ormož skozi stoletja II.</pubTitle>
-      <pubTitle>Ormož skozi stoletja II</pubTitle>
-      <pubTitle>Ormož skozi stoletja 2</pubTitle>
-      <pubTitle>Ormož
-            skozi stoletja II</pubTitle>
-      <pubPlace>Ormož</pubPlace>
-      <pubPlace>ormož</pubPlace>
       <pubPlace>Maribor</pubPlace>
-      <publisher>Občina</publisher>
       <publisher>Občina Ormož</publisher>
-      <publisher>Skupščine občine</publisher>
-      <publisher>Skupščina občine</publisher>
-      <publisher>Skupščina občine Ormož</publisher>
       <year n="2005">
          <issue>
+            <pubTitle>Ormož skozi stoletja V</pubTitle>
+            <!-- ISBN 961-90048-2-5, cobiss 220849920 -->
             <pubPart>
                <author>Belec Robert</author>
                <title>Božidar Raič</title>
@@ -31976,6 +31962,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
       <year n="1993">
          <issue>
+            <pubTitle>Ormož skozi stoletja 4</pubTitle>
+            <!-- cobiss 36207616 -->
             <pubPart>
                <author>Fournier Gernot</author>
                <title>Sodni protokol ormoškega mestnega sodnika 1721-1762</title>
@@ -32074,6 +32062,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
       <year n="1988">
          <issue>
+            <pubTitle>Ormož skozi stoletja III.</pubTitle>
+            <!-- cobiss 1931522 -->
             <pubPart>
                <author>Fournier Gernot, Hernja Masten Marija</author>
                <title>Hiše in hišni posestniki v mestu Ormož</title>
@@ -32171,6 +32161,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       <year n="1983">
          <volume>25-58</volume>
          <issue>
+            <pubTitle>Ormož skozi stoletja 2.</pubTitle>
+            <!-- cobiss 1118217 -->
             <pubPart>
                <author>Curk Jože</author>
                <title>Razvoj urbarnih naselbin na območju občine Ormož</title>
@@ -32266,6 +32258,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
       </year>
       <year n="1973">
          <issue>
+            <pubTitle>Ormož skozi stoletja 1.</pubTitle>
+            <!-- cobiss 524076 -->
             <pubPart>
                <author>Bračič Vladimir</author>
                <title>Ormož in njegova gospoščina leta 1542</title>
@@ -32357,13 +32351,11 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Planinski vestnik</pubTitle>
-      <pubTitle>Planinski vestnik, 25.2.1895</pubTitle>
-      <pubTitle>Planinski vestnik : revija za ljubitelje gora že od leta 1895 (avg. 1961-dec. 1961)</pubTitle>
-      <pubTitle>Planinski vestnik : revija za ljubitelje gora že od leta 1895</pubTitle>
-      <pubTitle>Planinski Vestnik</pubTitle>
+      <pubTitle>revija za ljubitelje gora že od leta 1895</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Planinska zveza</publisher>
       <publisher>Planinska zveza Slovenije</publisher>
+      <pubCobiss>11040258</pubCobiss>
+      <issn>0350-4344</issn>
       <year n="2006">
          <volume>111</volume>
          <issue n="10">
@@ -33274,21 +33266,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
    </source>
    <source>
       <pubTitle>Poročilo o raziskovanju paleolitika, neolitika in eneolitika v Sloveniji</pubTitle>
-      <pubTitle>Poročilu o raziskovanju paleoliia. neolita in eneolila v Sloveniji 211</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolitika, neolotika in eneolitika v Sloveniji</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolita. neolita in eneolita v Sloveniji II.</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolita. neolita in eneolita v Sloveniji  XIX</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolita. meolita in eneolita v Sloveniji 24.</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolita, neolita in eneolita v Sloveniji 13</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleolita, neolita in eneolita v Sloveniji</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleoliia. neolita in eneolila v Sloveniji 24.</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleoliia. neolita in eneolila v Sloveniji 18.</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleoliia. neolita in eneidita v Sloveniji</pubTitle>
-      <pubTitle>Poročilo o raziskovanju paleoliia. neolila in eneolila v Sloveniji 21.</pubTitle>
-      <pubTitle>Poročilo o razikovanju paleolita. neolita in eneolita v Sloveniji</pubTitle>
-      <pubTitle>Poročilo o razikovanju paleolita. neolila in eneolitu v Sloveniji</pubTitle>
-      <pubPlace>Ljubljana</pubPlace>
       <pubPlace>Ljublajna</pubPlace>
+      <publisher>Oddelek za arheologijo, Filozofske fakultete Univerze v Ljubljani</publisher>
+      <pubCobiss>17110279</pubCobiss>
+      <issn>1318-6701</issn>
       <year n="2003">
          <volume>30</volume>
          <issue>
@@ -33647,10 +33628,12 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Pravnik : revija za pravno teorijo in prakso</pubTitle>
       <pubTitle>Pravnik</pubTitle>
+      <pubTitle>revija za pravno teorijo in prakso</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Zveza društev pravnikov Slovenije</publisher>
+      <pubCobiss>14114304</pubCobiss>
+      <issn>0032-6976</issn>
       <year n="1997">
          <volume>52</volume>
          <issue n="11-12">
@@ -34033,16 +34016,16 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Primorska srečanja. Revija za družboslovje in kulturo</pubTitle>
-      <pubTitle>Primorska srečanja : revija za družboslovje in kulturo</pubTitle>
       <pubTitle>Primorska srečanja</pubTitle>
+      <pubTitle>revija za družboslovje in kulturo</pubTitle>
       <pubPlace>Nova Gorica</pubPlace>
       <pubPlace>Koper</pubPlace>
-      <pubPlace>Nova gorica - Koper - Idrija</pubPlace>
-      <pubPlace>Nova Gorica, Koper, Idrija</pubPlace>
-      <pubPlace>Nova Gorica ; Koper ; Idrija</pubPlace>
-      <publisher>Grafika Soča</publisher>
+      <pubPlace>Nova gorica</pubPlace>
+      <pubPlace>Koper</pubPlace>
+      <pubPlace>Idrija</pubPlace>
       <publisher>Društvo sociologov in politologov severnoprimorskih občin</publisher>
+      <pubCobiss>5091586</pubCobiss>
+      <issn>0350-5723</issn>
       <year n="2006">
          <volume>30</volume>
          <issue n="305-307">
@@ -35008,15 +34991,10 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Ptujski zbornik</pubTitle>
-      <pubTitle>Ptujski zbornik V</pubTitle>
-      <pubTitle>Ptujski zbornik IV.</pubTitle>
-      <pubTitle>Ptujski zbornik IV</pubTitle>
-      <pubTitle>Ptujski zbornik II: 1942-1962</pubTitle>
-      <pubTitle>Ptujski zbornik II</pubTitle>
-      <pubTitle>Ptujski zbornik 1893-1953</pubTitle>
-      <pubTitle>Ptijski zbornik</pubTitle>
       <pubPlace>Ptuj</pubPlace>
-      <pubPlace>Maribor</pubPlace>
+      <publisher>Zgodovinsko društvo Ptuj</publisher>
+      <pubCobiss>16534018</pubCobiss>
+      <issn>0552-4571</issn>
       <year n="1996">
          <volume>6</volume>
          <issue n="1">
@@ -35348,10 +35326,10 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Radovljiški zbornik</pubTitle>
-      <pubTitle>Radovljiški zponik</pubTitle>
       <pubPlace>Radovljica</pubPlace>
-      <publisher>Občina</publisher>
-      <publisher>Skupščina občine</publisher>
+      <publisher>Skupščina občine Radovljica</publisher>
+      <pubCobiss>30947840</pubCobiss>
+      <issn>1318-2986</issn>
       <year n="1995">
          <issue>
             <pubPart>
@@ -35535,13 +35513,12 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Rast : revija za literaturo, kulturo in družbena vprašanja</pubTitle>
-      <pubTitle>Rast. Revija za literaturo, kulturo in družbena vprašanja</pubTitle>
-      <pubTitle>Rast,</pubTitle>
-      <pubTitle>Rast 2</pubTitle>
       <pubTitle>Rast</pubTitle>
+      <pubTitle>Revija za literaturo, kulturo in družbena vprašanja</pubTitle>
       <pubPlace>Novo mesto</pubPlace>
       <publisher>Mestna občina</publisher>
+      <pubCobiss>16592898</pubCobiss>
+      <issn>0353-6750</issn>
       <year n="2010">
          <volume>21</volume>
          <issue n="4-5">
@@ -36590,12 +36567,12 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Revija 2000</pubTitle>
-      <pubTitle>Revija 2000: V spomin Vladu Šavu</pubTitle>
-      <pubTitle>Revija 2000 : 150 let programa Zedinjene Slovenije</pubTitle>
-      <pubTitle>Revija</pubTitle>
-      <pubTitle>(Revija)</pubTitle>
+      <pubTitle>2000</pubTitle>
+      <pubTitle>revija za krščanstvo in kulturo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Društvo 2000</publisher>
+      <pubCobiss>5971202</pubCobiss>
+      <issn>0350-8935</issn>
       <year n="2009">
          <volume>40</volume>
          <issue n="207-208">
@@ -36983,9 +36960,11 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Romano them / Romski svet</pubTitle>
-      <pubTitle>Romano them - Romski svet</pubTitle>
-      <pubTitle>Romano them</pubTitle>
+      <pubTitle>Romano them = Romski svet</pubTitle>
+      <pubPlace>Murska Sobota</pubPlace>
+      <publisher>Zveza Romov Slovenije</publisher>
+      <pubCobiss>60873728</pubCobiss>
+      <issn>1318-9158</issn>
       <year n="2005">
          <volume>11</volume>
          <issue n="23">
@@ -37192,15 +37171,11 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Situla</pubTitle>
-      <pubTitle>Situla 24</pubTitle>
+      <pubTitle>Razprave Narodnega muzeja v Ljubljani</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Nova Gorica</pubPlace>
-      <pubPlace>Ljubljana - Gorica, Narodni muzej - Goriški muzej</pubPlace>
-      <pubPlace>Ljubljana - Nova Gorica</pubPlace>
-      <publisher>Narodni muzej</publisher>
-      <publisher>Narodni muzej.</publisher>
       <publisher>Narodni muzej Slovenije</publisher>
-      <publisher>Razprave Narodnega muzeja v Ljubljani</publisher>
+      <pubCobiss>16179970</pubCobiss>
+      <issn>0583-4554</issn>
       <year n="2007">
          <volume>44</volume>
          <issue>
@@ -37226,7 +37201,6 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Šašel Kos Marjeta</author>
-               <title>Appian and Illjricum</title>
                <title>Appian and lllyricum</title>
                <citedIn count="2">
                   <cit did="2266"
@@ -37498,23 +37472,13 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Slavistična revija. Časopis za jezikoslovje in literarne vede</pubTitle>
-      <pubTitle>Slavistična revija, 37, 1989, str. 1-3, 253-262.</pubTitle>
-      <pubTitle>Slavistična revija XL/2</pubTitle>
-      <pubTitle>Slavistična revija IX</pubTitle>
-      <pubTitle>Slavistična revija I.</pubTitle>
-      <pubTitle>Slavistična revija I</pubTitle>
-      <pubTitle>Slavistična revija : časopis za jezikoslovje in literarne vede  [</pubTitle>
-      <pubTitle>Slavistična revija : časopis za jezikoslovje in literarne vede</pubTitle>
-      <pubTitle>Slavistična revija 2.</pubTitle>
       <pubTitle>Slavistična revija</pubTitle>
-      <pubTitle>Slavisticna revija</pubTitle>
+      <pubTitle>Časopis za jezikoslovje in literarne vede</pubTitle>
+      <pubAddTitle>Journal for linguistics and literary studies</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Maribor</pubPlace>
-      <publisher>Slavistično društvo</publisher>
-      <publisher>Slavisticno drustvo Slovenije</publisher>
       <publisher>Slavistično društvo Slovenije</publisher>
-      <publisher>Obzorja</publisher>
+      <pubCobiss>761092</pubCobiss>
+      <issn>0350-6894</issn>
       <year n="2008">
          <volume>56</volume>
          <volume>56-57</volume>
@@ -38741,7 +38705,11 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Slovenska vojska</pubTitle>
-      <pubTitle>Slovenska vojska, 22.07. 2001</pubTitle>
+      <pubAddTitle>Revija Slovenska vojska</pubAddTitle>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Ministrstvo za obrambo RS</publisher>
+      <pubCobiss>34701312</pubCobiss>
+      <issn>1318-0681</issn>
       <year n="2014">
          <issue>
             <pubPart>
@@ -38979,12 +38947,10 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Slovenski etnograf</pubTitle>
-      <pubTitle>Slovenski etnograf I.</pubTitle>
-      <pubTitle>Slovenski etnograf 9</pubTitle>
-      <pubTitle>Slovenski entnograf</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Etnografski muzej</publisher>
-      <publisher>DZS</publisher>
+      <pubCobiss>16174850</pubCobiss>
+      <issn>0350-0330</issn>
       <year n="1991">
          <volume>34</volume>
          <volume>23-24</volume>
@@ -39746,12 +39712,12 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       </year>
    </source>
    <source>
-      <pubTitle>Slovensko morje in zaledje: Zbornik za humanistične družboslovne in naravoslovne raziskave</pubTitle>
-      <pubTitle>Slovensko morje in zaledje : zbornik za humanistične, družboslovne in naravoslovne raziskave</pubTitle>
       <pubTitle>Slovensko morje in zaledje</pubTitle>
+      <pubTitle>Zbornik za humanistične družboslovne in naravoslovne raziskave</pubTitle>
       <pubPlace>Koper</pubPlace>
       <publisher>Lipa</publisher>
-      <publisher>Založba Lipa</publisher>
+      <pubCobiss>15946498</pubCobiss>
+      <issn>0350-8250</issn>
       <year n="1984">
          <volume>6-7</volume>
          <issue n="6-7">
@@ -40035,9 +40001,11 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
    </source>
    <source>
       <pubTitle>Sodobna pedagogika</pubTitle>
-      <pubTitle>Sodobna pedagogika, posebna številka marec 2004 / Http://www.see-ducoop.net/ educa-tion_in/pdf/kompetence-uciteljev-slo-svn-t07.pdf</pubTitle>
+      <pubAddTitle>Journal of contemporary educational studies</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>ZDPDS</publisher>
+      <publisher>Zveza društev pedagoških delavcev Slovenije</publisher>
+      <pubCobiss>761348</pubCobiss>
+      <issn>0038-0474</issn>
       <year n="2010">
          <volume>4</volume>
          <issue>
@@ -40925,11 +40893,10 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Sodobnost</pubTitle>
-      <pubTitle>Sodobnost XI</pubTitle>
-      <pubTitle>Sodobnost : neodvisna slovenska revija</pubTitle>
-      <pubTitle>Sodobnost 27.3 1979</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Državna založba Slovenije</publisher>
+      <pubCobiss>3273474</pubCobiss>
+      <issn>0038-0482</issn>
       <year n="2009">
          <volume>73</volume>
          <issue n="10">
@@ -41837,11 +41804,12 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Stati inu obstati: Revija za vprašanja protestantizma</pubTitle>
-      <pubTitle>Stati inu obstati : zvezek 1-2</pubTitle>
       <pubTitle>Stati inu obstati</pubTitle>
-      <pubTitle>' Stati inu obstati: revija za vprašanja protestantizma</pubTitle>
+      <pubTitle>Revija za vprašanja protestantizma</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Slovensko protestantsko društvo Primož Trubar</publisher>
+      <pubCobiss>79236608</pubCobiss>
+      <issn>1408-8363</issn>
       <year n="2008">
          <volume>7-8</volume>
          <issue>
@@ -42047,9 +42015,12 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Svobodna misel</pubTitle>
-      <pubTitle>Svobodna misel, 7. 2. 1992</pubTitle>
-      <pubTitle>Svobodna misel 4, 5, 6,</pubTitle>
+      <pubTitle>TV-15</pubTitle>
+      <pubTitle>nestrankarska revija za socialna, politična, zgodovinska in kulturna vprašanja doma in po svetu</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Svobodna misel</publisher>
+      <pubCobiss>30580225</pubCobiss>
+      <issn>1318-0266</issn>
       <year n="2024">
          <volume>21</volume>
          <issue>
@@ -42403,21 +42374,14 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Šolska kronika: zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika: zbornik za zgodovino šolstva in vzgoje XXXIX</pubTitle>
-      <pubTitle>Šolska kronika: Zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika, zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika, Zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika, 13(37), št. 2, 2004, str. 306-312.</pubTitle>
-      <pubTitle>Šolska kronika : zbornik za zgodovino šolstva in vzgoje : glasilo Slovenskega šolskega muzeja</pubTitle>
-      <pubTitle>Šolska kronika : zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika 11 : Zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika 11 (Zbornik za zgodovino šolstva in vzgoje 35)</pubTitle>
-      <pubTitle>Šolska kronika - Zbornik za zgodovino šolstva in vzgoje</pubTitle>
-      <pubTitle>Šolska kronika - Zbornik za zgodovino šolstva</pubTitle>
       <pubTitle>Šolska kronika</pubTitle>
+      <pubTitle>zbornik za zgodovino šolstva in vzgoje XXXIX</pubTitle>
+      <pubTitle>glasilo Slovenskega šolskega muzeja</pubTitle>
+      <pubAddTitle>School chronicle : the miscellany for the history of schooling and education : organ of Slovene School Museum </pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenski šolski muzej</publisher>
+      <pubCobiss>51623936</pubCobiss>
+      <issn>1318-6728</issn>
       <year n="2009">
          <volume>18 - 42</volume>
          <issue n="1">
@@ -43200,9 +43164,6 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Tabor</pubTitle>
-      <pubTitle>Tabor 7</pubTitle>
-      <pubPlace>Buenos Aires</pubPlace>
-      <pubPlace>Buenos Air</pubPlace>
       <pubPlace>Ljubljana</pubPlace>
       <year n="1994">
          <issue n="5-6">
@@ -43219,24 +43180,6 @@ današnja (in jutrišnja) šola?</title>
                        year="1994"
                        issue="5-6"
                        page="126-127"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1993">
-         <issue n="3-4">
-            <pubPart>
-               <author>Janežič Stanko</author>
-               <title>Pogovor s Stankom Kociprom</title>
-               <citedIn count="1">
-                  <cit did="60"
-                       cid="30"
-                       avtor0="Janežič Stanko"
-                       naslov0="Pogovor s Stankom Kociprom"
-                       source="Tabor"
-                       pubPlace="Buenos Aires"
-                       year="1993"
-                       issue="3/4"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -43562,16 +43505,13 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Teorija in praksa: družboslovna revija</pubTitle>
-      <pubTitle>Teorija in praksa. Documenta</pubTitle>
-      <pubTitle>Teorija in praksa, nov.-dec.</pubTitle>
-      <pubTitle>Teorija in praksa : družboslovna revija</pubTitle>
       <pubTitle>Teorija in praksa</pubTitle>
+      <pubTitle>družboslovna revija</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>FDV</publisher>
-      <publisher>FSPN</publisher>
       <publisher>Fakulteta za družbene vede Univerze v Ljubljani</publisher>
       <publisher>Fakulteta za sociologijo, politične vede in novinarstvo Univerze Edvarda Kardelja v Ljubljani</publisher>
+      <pubCobiss>763652</pubCobiss>
+      <issn>0040-3598</issn>
       <year n="2009">
          <volume>46</volume>
          <issue n="6">
@@ -45211,11 +45151,9 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Tolminski zbornik</pubTitle>
-      <pubTitle>Tolminski zbornik 1956</pubTitle>
-      <pubPlace>Tolmin</pubPlace>
-      <publisher>Občina</publisher>
       <publisher>Občina Tolmin</publisher>
-      <publisher>Odbor za izvedbo "Tolminskega kulturnega tedna"</publisher>
+      <pubCobiss>73047808</pubCobiss>
+      <issn>1408-5720</issn>
       <year n="1997">
          <volume>3</volume>
          <issue n="3">
@@ -45395,18 +45333,12 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Traditiones : zbornik Inštituta za slovensko narodopisje in Glasbenonarodopisnega inštituta ZRC SAZU</pubTitle>
-      <pubTitle>TraditionesXBl</pubTitle>
-      <pubTitle>Traditiones. Zbornik Inštituta za slovensko  narodopisje pri Znanstvenoraziskovalnem centru Slovenske akademije znanosti in umetnosti</pubTitle>
-      <pubTitle>Traditiones : zbornik Inštituta za slovensko narodopisje in Glasbenonarodopisnega inštituta</pubTitle>
       <pubTitle>Traditiones</pubTitle>
+      <pubTitle>zbornik Inštituta za slovensko narodopisje in Glasbenonarodopisnega inštituta ZRC SAZU</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Založba ZRC, ZRC SAZU</publisher>
-      <publisher>Inštitut za slovensko narodopisje</publisher>
-      <publisher>SAZU</publisher>
-      <publisher>Založba ZRC, ZRC SAZU : Slovenska akademija znanosti in umetnosti</publisher>
-      <publisher>Inštitut za slovensko narodopisje SAZU</publisher>
-      <publisher>Inštitut za slovensko narodopisje, Glasbenonarodopisni inštitut</publisher>
+      <pubCobiss>16175874</pubCobiss>
+      <issn>0352-0447</issn>
       <year n="2011">
          <volume>40</volume>
          <issue n="3">
@@ -46231,10 +46163,13 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Tretji dan. Krščanska revija za duhovnost in kulturo</pubTitle>
-      <pubTitle>Tretji dan : krščanska revija za duhovnost in kulturo</pubTitle>
       <pubTitle>Tretji dan</pubTitle>
+      <pubTitle>Krščanska revija za duhovnost in kulturo</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Društvo SKAM</publisher>
+      <publisher>Medškofijski odbor za mladino</publisher>
+      <pubCobiss>15485184</pubCobiss>
+      <issn>1318-1238</issn>
       <year n="2008">
          <volume>37</volume>
          <issue n="1-2">
@@ -46667,17 +46602,10 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Varstvo spomenikov</pubTitle>
-      <pubTitle>Varstvo spomenikov XXX.</pubTitle>
-      <pubTitle>Varstvo spomenikov XXV.</pubTitle>
-      <pubTitle>Varstvo spomenikov VIII.</pubTitle>
-      <pubTitle>Varstvo spomenikov V.</pubTitle>
-      <pubTitle>Varstvo spomenikov IV.</pubTitle>
-      <pubTitle>Varstvo spomenikov III.</pubTitle>
-      <pubTitle>Varstvo spomenikov : poročila</pubTitle>
-      <pubTitle>Varstvo spomenikov : Revija za teorijo in prakso spomeniškega varstva</pubTitle>
-      <pubTitle>Varstvo spomenikov 34</pubTitle>
-      <pubTitle>Varstvo spom.</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Zavod za varstvo in znanstveno proučevanje kulturnih spomenikov in prirodnih znamenitosti LRS</publisher>
+      <pubCobiss>16074496</pubCobiss>
+      <issn>0350-9494</issn>
       <year n="2038">
          <issue>
             <pubPart>
@@ -48314,11 +48242,13 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Vestnik koroških partizanov</pubTitle>
-      <pubTitle>Vestnik koroških partizanov 1-2</pubTitle>
-      <pubTitle>Vestnik Koroških partizanov</pubTitle>
+      <pubTitle>glasilo Osrednjega odbora Skupnosti koroških partizanov v Ljubljani in Zveze koroških partizanov v Celovcu</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <year n="2004">
-         <volume>1973</volume>
+      <publisher>Osrednji odbor koroških partizanov</publisher>
+      <publisher>Zveza koroških partizanov v Celovcu</publisher>
+      <pubCobiss>11303170</pubCobiss>
+      <issn>0350-7130</issn>
+      <year n="1973">
          <issue n="68-69">
             <pubPart>
                <author>Stergar Janez</author>
@@ -48740,11 +48670,12 @@ današnja (in jutrišnja) šola?</title>
       </year>
    </source>
    <source>
-      <pubTitle>Vojaška zgodovino</pubTitle>
-      <pubTitle>Vojaška zgodovina, Center za vojaško zgodovinsko dejavnost slovenske vojske (CVZD)</pubTitle>
-      <pubTitle>Vojaška zgodovina 1</pubTitle>
       <pubTitle>Vojaška zgodovina</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher> Center za vojaškozgodovinsko dejavnost</publisher>
+      <publisher>Generalštab slovenske vojske</publisher>
+      <pubCobiss>109821696</pubCobiss>
+      <issn>1580-4828</issn>
       <year n="2009">
          <volume>1</volume>
          <issue n="10">
@@ -49063,9 +48994,10 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Vojnozgodovinski zbornik</pubTitle>
-      <pubTitle>Vojnozgodovimki zbornik</pubTitle>
       <pubPlace>Logatec</pubPlace>
       <publisher>Vojni muzej</publisher>
+      <pubCobiss>725620</pubCobiss>
+      <issn>1580-1284</issn>
       <year n="2007">
          <issue n="29">
             <pubPart>
@@ -49431,11 +49363,11 @@ današnja (in jutrišnja) šola?</title>
    </source>
    <source>
       <pubTitle>Vzgoja in izobraževanje</pubTitle>
-      <pubTitle>Vzgoja in izobraževanje Letnik</pubTitle>
-      <pubTitle>Vzgoja in izobraževanje : revija za teoretična in praktična vprašanja vzgojno izobraževalnega dela</pubTitle>
+      <pubTitle>revija za teoretična in praktična vprašanja vzgojno izobraževalnega dela</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Zavod Republike Slovenije</publisher>
       <publisher>Zavod Republike Slovenije za šolstvo</publisher>
+      <pubCobiss>1131780</pubCobiss>
+      <issn>0350-5065</issn>
       <year n="2038">
          <issue n="6">
             <pubPart>
@@ -49805,10 +49737,13 @@ izobrazbi</title>
       </year>
    </source>
    <source>
-      <pubTitle>Zaveza : glasilo Nove slovenske zaveze</pubTitle>
       <pubTitle>Zaveza</pubTitle>
-      <pubTitle>Zavesa</pubTitle>
+      <pubTitle>glasilo Nove slovenske zaveze</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Nova slovenska zaveza</publisher>
+      <pubCobiss>22919170</pubCobiss>
+      <issn>C500-4446</issn>
+      <issn>1580-2132</issn>
       <year n="2006">
          <issue n="60">
             <pubPart>
@@ -50272,21 +50207,15 @@ izobrazbi</title>
       </year>
    </source>
    <source>
+      <!-- Zbornik ne revija ISBN 978-961-91537-4-1 (zv. 3)-->
       <pubTitle>Zbornik občine Slovenska Bistrica</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica, zv. 2. Slovenska Bistrica: Skupščin</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica, I.</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica III. Svet med Pohorjem in Bočem</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica III.</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica II</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica I.</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica I</pubTitle>
-      <pubTitle>Zbornik občine Slovenska Bistrica : zv. 2.</pubTitle>
       <pubPlace>Slovenska Bistrica</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
-      <publisher>Skupščina občine : Kulturna skupnost</publisher>
       <publisher>Skupščina občine</publisher>
+      <publisher>Kulturna skupnost</publisher>
+      <pubCobiss>2140932</pubCobiss>
       <year n="2009">
          <issue>
+            <pubTitle>Zbornik občine Slovenska Bistrica 3</pubTitle>
             <pubPart>
                <author>Ferenc Mitja</author>
                <title>Usodna odločenost Bistričanov</title>
@@ -50319,6 +50248,7 @@ izobrazbi</title>
       </year>
       <year n="1990">
          <issue>
+            <pubTitle>Zbornik občine Slovenska Bistrica 2</pubTitle>
             <pubPart>
                <author>Koropec Jože</author>
                <title>Matične knjige iz 17. stoletja za župnijo Slovenska Bistrica</title>
@@ -50409,6 +50339,7 @@ izobrazbi</title>
       </year>
       <year n="1983">
          <issue>
+            <pubTitle>Zbornik občine Slovenska Bistrica 1</pubTitle>
             <pubPart>
                <author>Koropec Jože</author>
                <title>Svet okoli Slovenske Bistrice do leta 1700</title>
@@ -50492,16 +50423,10 @@ izobrazbi</title>
    </source>
    <source>
       <pubTitle>Zbornik soboškega muzeja</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 6</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 4.</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 4</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 3.</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 2.</pubTitle>
-      <pubTitle>Zbornik soboškega muzeja 2</pubTitle>
-      <pubTitle>Zbornik Soboškega muzeja I.</pubTitle>
       <pubPlace>Murska Sobota</pubPlace>
-      <publisher>Pokrajinski muzej</publisher>
       <publisher>Pokrajinski muzej Murska Sobota</publisher>
+      <pubCobiss>22340866</pubCobiss>
+      <issn>0354-012X</issn>
       <year n="2008">
          <volume>11-12</volume>
          <issue>
@@ -51023,19 +50948,16 @@ izobrazbi</title>
    </source>
    <source>
       <pubTitle>Zbornik svobodne Slovenije</pubTitle>
-      <pubTitle>Zbornik svobodne Slovenije 1971-1972</pubTitle>
-      <pubTitle>Zbornik svobodne Slovenije 1967</pubTitle>
-      <pubTitle>Zbornik svobodne Slovenije 1966</pubTitle>
-      <pubTitle>Zbornik Svobodne Slovenije 1973-1976</pubTitle>
-      <pubTitle>Zbornik Svobodne Slovenije 1971−1972</pubTitle>
-      <pubTitle>Zbornik Svobodne Slovenije 1971/1972</pubTitle>
-      <pubTitle>Zbornik Svobodne Slovenije 1971-1972</pubTitle>
-      <pubTitle>Zbornik Svobodne Slovenije</pubTitle>
-      <pubTitle>Zbornik Svobodna Slovenija 1961</pubTitle>
+      <pubAddTitle>Koledar Svobodne Slovenije</pubAddTitle>
+      <pubAddTitle>Zbornik-Koledar Svobodne Slovenije</pubAddTitle>
+      <pubAddTitle>Koledar-Zbornik Svobodne Slovenije</pubAddTitle>
+      <pubAddTitle>Zbornik Svobodna Slovenija</pubAddTitle>
+      <pubAddTitle>Zbornik-Svobodna Slovenija</pubAddTitle>
+      <pubAddTitle>Svobodna Slovenija</pubAddTitle>
       <pubPlace>Buenos Aires</pubPlace>
-      <pubPlace>Boenos Aires</pubPlace>
       <publisher>Svobodna Slovenija</publisher>
-      <publisher>Slovenska kulturna akcija</publisher>
+      <pubCobiss>6544717</pubCobiss>
+      <issn>Y503-5082</issn>
       <year n="1976">
          <issue>
             <pubPart>
@@ -51593,24 +51515,14 @@ izobrazbi</title>
    </source>
    <source>
       <pubTitle>Zbornik za umetnostno zgodovino</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino. Nova vrsta VII.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino. Nova vrsta</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, nova vrsta</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, n.v. XXXVII.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, n.v. XXXVI.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, n. v. XVIII</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, n. v. XIX</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, n. v.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino, Nova vrsta</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino n. v. 42.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino Slovenije</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino II</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino : 7</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino 44, 2008, str. 139-160.</pubTitle>
-      <pubTitle>Zbornik za umetnostno zgodovino 20</pubTitle>
+      <pubAddTitle>Archives d'histoire de l'art </pubAddTitle>
+      <pubAddTitle>Art history journal</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovensko umetnostnozgodovinsko društvo</publisher>
-      <publisher>Slovensko umentnostnozgodovinsko društvo</publisher>
+      <pubCobiss>32546</pubCobiss>
+      <pubCobiss>107537152</pubCobiss>
+      <issn>0351-224X</issn>
+      <issn>1580-3767</issn>
       <year n="2008">
          <volume>44</volume>
          <issue>
@@ -53049,13 +52961,11 @@ izobrazbi</title>
    </source>
    <source>
       <pubTitle>Zbornik za zgodovino naravoslovja in tehnike</pubTitle>
-      <pubTitle>Zbornik za zgodovino narovoslovja in tehnike : 9. zvezek</pubTitle>
-      <pubTitle>Zbornik za zgodovino narovoslovja in tehnike : 5-6. zvezek</pubTitle>
-      <pubTitle>Zbornik za zgodovino naravoslovja in tehnike. Zvezek 13-14.</pubTitle>
-      <pubTitle>Zbornik za zgodovino naravoslovja in tehnike, zv. 5-6</pubTitle>
-      <pubTitle>Zbornik za zgodovino naravoslovja in tehnike 2</pubTitle>
+      <pubAddTitle>History reviews-science and technology</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
+      <pubCobiss>16237570</pubCobiss>
+      <issn>0351-4250</issn>
       <year n="2002">
          <volume>15-16</volume>
          <issue n="15-16">
@@ -53357,8 +53267,47 @@ izobrazbi</title>
    </source>
    <source>
       <pubTitle>Zdravniški vestnik</pubTitle>
-      <pubTitle>Zdravniški vestnik, 45/6, (1976), str. 353-4</pubTitle>
+      <pubTitle>glasilo Slovenskega zdravniškega društva</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Slovensko zdravniško društvo</publisher>
+      <pubCobiss>32893696</pubCobiss>
+      <issn>1318-0347</issn>
+      <year n="2006">
+         <volume>75</volume>
+         <issue>
+            <pubPart>
+               <author>Nedok S. Aleksander</author>
+               <title>Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918</title>
+               <page>193-208</page>
+               <citedIn count="1">
+                  <cit did="2063"
+                     cid="13"
+                     avtor0="Nedok S. Aleksander"
+                     naslov0="Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918"
+                     source="Zdravstveni vestnik"
+                     year="2006"
+                     volume="75"
+                     page="193-208"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Pinter B., Čeh F., Verdenik I. et al.</author>
+               <title>Spolno vedenje slovenskih srednješolcev v letu 2004</title>
+               <page>615-619</page>
+               <citedIn count="1">
+                  <cit did="3030"
+                     cid="30"
+                     avtor0="Pinter B., Čeh F., Verdenik I. et al."
+                     naslov0="Spolno vedenje slovenskih srednješolcev v letu 2004"
+                     source="Zdravstveni vestnik"
+                     pubPlace="Ljubljana"
+                     year="2006"
+                     volume="75"
+                     page="615-619"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1998">
          <volume>67</volume>
          <issue n="1">
@@ -53380,227 +53329,6 @@ izobrazbi</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1988">
-         <volume>57</volume>
-         <issue>
-            <pubPart>
-               <author>Andolšek Jeras Lidija</author>
-               <title>Zdravnica in njen poklic</title>
-               <page>7-9</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="20"
-                       avtor0="Andolšek Jeras Lidija"
-                       naslov0="Zdravnica in njen poklic"
-                       source="Zdravniški vestnik"
-                       year="1988"
-                       volume="57"
-                       page="7-9"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jogan Maca</author>
-               <title>Androcentrična kultura in osvobajanje žensk</title>
-               <page>10-21</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="8"
-                       avtor0="Jogan Maca"
-                       naslov0="Androcentrična kultura in osvobajanje žensk"
-                       source="Zdravniški vestnik"
-                       year="1988"
-                       volume="57"
-                       page="10-21"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Toth Cvetka</author>
-               <title>O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in razumskega</title>
-               <page>33-80</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="16"
-                       avtor0="Toth Cvetka"
-                       naslov0="O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in razumskega"
-                       source="Zdravniški vestnik"
-                       year="1988"
-                       volume="57"
-                       page="33-80"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Ule Mirjana</author>
-               <title>Vzroki in meje feminizacije poklicev v industrijskih družbah</title>
-               <page>43-47</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="15"
-                       avtor0="Ule Mirjana"
-                       naslov0="Vzroki in meje feminizacije poklicev v industrijskih družbah"
-                       source="Zdravniški vestnik"
-                       year="1988"
-                       volume="57"
-                       page="43-47"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1976">
-         <volume>45</volume>
-         <issue n="6">
-            <pubPart>
-               <author>Andolšek Jeras Lidija</author>
-               <title>Položaj in problemi slovenske zdravnice</title>
-               <page>353-354</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="19"
-                       avtor0="Andolšek Jeras Lidija"
-                       naslov0="Položaj in problemi slovenske zdravnice"
-                       source="Zdravniški vestnik, 45/6, (1976), str. 353-4"
-                       year="1976"
-                       volume="45"
-                       issue="6"
-                       page="353-354"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1968">
-         <volume>37</volume>
-         <issue n="7-8">
-            <pubPart>
-               <author>Andolšek Lidija</author>
-               <title>Kontracepcija po svetu in pri nas</title>
-               <page>270-273</page>
-               <citedIn count="1">
-                  <cit did="3127"
-                       cid="18"
-                       avtor0="Andolšek Lidija"
-                       naslov0="Kontracepcija po svetu in pri nas"
-                       source="Zdravniški vestnik"
-                       year="1968"
-                       volume="37"
-                       issue="7-8"
-                       page="270-273"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1936">
-         <volume>8</volume>
-         <issue>
-            <pubPart>
-               <author>Furlan Tomaž</author>
-               <title>Zdravnikova služba pri jetičnem človeku</title>
-               <page>348-354</page>
-               <citedIn count="1">
-                  <cit did="1602"
-                       cid="6"
-                       avtor0="Furlan Tomaž"
-                       naslov0="Zdravnikova služba pri jetičnem človeku"
-                       source="Zdravniški vestnik"
-                       year="1936"
-                       volume="8"
-                       page="348-354"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1935">
-         <volume>7</volume>
-         <issue n="3">
-            <pubPart>
-               <author>Furlan Tomaž</author>
-               <title>Prekužni indeks za tuberkulozo na Gorenjskem</title>
-               <page>115-125</page>
-               <citedIn count="1">
-                  <cit did="1602"
-                       cid="4"
-                       avtor0="Furlan Tomaž"
-                       naslov0="Prekužni indeks za tuberkulozo na Gorenjskem"
-                       source="Zdravniški vestnik"
-                       year="1935"
-                       volume="7"
-                       issue="3"
-                       page="115-125"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Munda Avgust</author>
-               <title>Indicirana odprava telesnega plodu in naš kazenski zakonik</title>
-               <page>19</page>
-               <citedIn count="1">
-                  <cit did="1327"
-                       cid="18"
-                       avtor0="Munda Avgust"
-                       naslov0="Indicirana odprava telesnega plodu in naš kazenski zakonik"
-                       source="Zdravniški vestnik"
-                       pubPlace="Ljubljana"
-                       year="1935"
-                       page="19"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Škerlj Božo</author>
-               <title>Telovadba in človeško telo</title>
-               <page>247-251</page>
-               <citedIn count="1">
-                  <cit did="2205"
-                       cid="8"
-                       avtor0="Škerlj Božo"
-                       naslov0="Telovadba in človeško telo"
-                       source="Zdravniški vestnik"
-                       year="1935"
-                       volume="7"
-                       page="247-251"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-   </source>
-   <source>
-      <pubTitle>Zdravstveni vestnik</pubTitle>
-      <pubTitle>Zdravstveni vestnik. 40. 1971/3. str. 99-101</pubTitle>
-      <pubPlace>Ljubljana</pubPlace>
-      <year n="2006">
-         <volume>75</volume>
-         <issue>
-            <pubPart>
-               <author>Nedok S. Aleksander</author>
-               <title>Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918</title>
-               <page>193-208</page>
-               <citedIn count="1">
-                  <cit did="2063"
-                       cid="13"
-                       avtor0="Nedok S. Aleksander"
-                       naslov0="Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918"
-                       source="Zdravstveni vestnik"
-                       year="2006"
-                       volume="75"
-                       page="193-208"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pinter B., Čeh F., Verdenik I. et al.</author>
-               <title>Spolno vedenje slovenskih srednješolcev v letu 2004</title>
-               <page>615-619</page>
-               <citedIn count="1">
-                  <cit did="3030"
-                       cid="30"
-                       avtor0="Pinter B., Čeh F., Verdenik I. et al."
-                       naslov0="Spolno vedenje slovenskih srednješolcev v letu 2004"
-                       source="Zdravstveni vestnik"
-                       pubPlace="Ljubljana"
-                       year="2006"
-                       volume="75"
-                       page="615-619"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1997">
          <volume>66</volume>
          <issue>
@@ -53609,12 +53337,12 @@ izobrazbi</title>
                <title>Evgen Kansky dr. phil., dr. med., 1887-1977</title>
                <citedIn count="1">
                   <cit did="1639"
-                       cid="4"
-                       avtor0="Kansky Aleksej"
-                       naslov0="Evgen Kansky dr. phil., dr. med., 1887-1977"
-                       source="Zdravstveni vestnik"
-                       year="0"
-                       volume="66"/>
+                     cid="4"
+                     avtor0="Kansky Aleksej"
+                     naslov0="Evgen Kansky dr. phil., dr. med., 1887-1977"
+                     source="Zdravstveni vestnik"
+                     year="0"
+                     volume="66"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -53627,16 +53355,24 @@ izobrazbi</title>
                <page>35-36</page>
                <citedIn count="1">
                   <cit did="146"
-                       cid="10"
-                       avtor0="Andlovic Jože"
-                       naslov0="Težko prehojena pot"
-                       source="Zdravstveni vestnik"
-                       year="1995"
-                       page="35-36"/>
+                     cid="10"
+                     avtor0="Andlovic Jože"
+                     naslov0="Težko prehojena pot"
+                     source="Zdravstveni vestnik"
+                     year="1995"
+                     page="35-36"/>
                </citedIn>
             </pubPart>
          </issue>
       </year>
+   </source>
+   <source>
+      <pubTitle>Zdravstveni vestnik</pubTitle>
+      <pubTitle>glasilo Slovenskega zdravniškega društva</pubTitle>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Slovensko zdravniško društvo</publisher>
+      <pubCobiss>767236</pubCobiss>
+      <issn>0350-0063</issn>
       <year n="1990">
          <volume>59</volume>
          <issue n="7-8">
@@ -53656,6 +53392,71 @@ izobrazbi</title>
                        volume="59"
                        issue="7/8"
                        page="349-354"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1988">
+         <volume>57</volume>
+         <issue>
+            <pubPart>
+               <author>Andolšek Jeras Lidija</author>
+               <title>Zdravnica in njen poklic</title>
+               <page>7-9</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="20"
+                     avtor0="Andolšek Jeras Lidija"
+                     naslov0="Zdravnica in njen poklic"
+                     source="Zdravniški vestnik"
+                     year="1988"
+                     volume="57"
+                     page="7-9"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Jogan Maca</author>
+               <title>Androcentrična kultura in osvobajanje žensk</title>
+               <page>10-21</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="8"
+                     avtor0="Jogan Maca"
+                     naslov0="Androcentrična kultura in osvobajanje žensk"
+                     source="Zdravniški vestnik"
+                     year="1988"
+                     volume="57"
+                     page="10-21"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Toth Cvetka</author>
+               <title>O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in razumskega</title>
+               <page>33-80</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="16"
+                     avtor0="Toth Cvetka"
+                     naslov0="O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in razumskega"
+                     source="Zdravniški vestnik"
+                     year="1988"
+                     volume="57"
+                     page="33-80"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Ule Mirjana</author>
+               <title>Vzroki in meje feminizacije poklicev v industrijskih družbah</title>
+               <page>43-47</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="15"
+                     avtor0="Ule Mirjana"
+                     naslov0="Vzroki in meje feminizacije poklicev v industrijskih družbah"
+                     source="Zdravniški vestnik"
+                     year="1988"
+                     volume="57"
+                     page="43-47"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -53701,6 +53502,27 @@ izobrazbi</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1976">
+         <volume>45</volume>
+         <issue n="6">
+            <pubPart>
+               <author>Andolšek Jeras Lidija</author>
+               <title>Položaj in problemi slovenske zdravnice</title>
+               <page>353-354</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="19"
+                     avtor0="Andolšek Jeras Lidija"
+                     naslov0="Položaj in problemi slovenske zdravnice"
+                     source="Zdravniški vestnik, 45/6, (1976), str. 353-4"
+                     year="1976"
+                     volume="45"
+                     issue="6"
+                     page="353-354"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1971">
          <volume>40</volume>
          <issue>
@@ -53717,6 +53539,27 @@ izobrazbi</title>
                        year="1971"
                        volume="40"
                        page="99-101"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1968">
+         <volume>37</volume>
+         <issue n="7-8">
+            <pubPart>
+               <author>Andolšek Lidija</author>
+               <title>Kontracepcija po svetu in pri nas</title>
+               <page>270-273</page>
+               <citedIn count="1">
+                  <cit did="3127"
+                     cid="18"
+                     avtor0="Andolšek Lidija"
+                     naslov0="Kontracepcija po svetu in pri nas"
+                     source="Zdravniški vestnik"
+                     year="1968"
+                     volume="37"
+                     issue="7-8"
+                     page="270-273"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -53809,11 +53652,87 @@ izobrazbi</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1936">
+         <volume>8</volume>
+         <issue>
+            <pubPart>
+               <author>Furlan Tomaž</author>
+               <title>Zdravnikova služba pri jetičnem človeku</title>
+               <page>348-354</page>
+               <citedIn count="1">
+                  <cit did="1602"
+                     cid="6"
+                     avtor0="Furlan Tomaž"
+                     naslov0="Zdravnikova služba pri jetičnem človeku"
+                     source="Zdravniški vestnik"
+                     year="1936"
+                     volume="8"
+                     page="348-354"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1935">
+         <volume>7</volume>
+         <issue n="3">
+            <pubPart>
+               <author>Furlan Tomaž</author>
+               <title>Prekužni indeks za tuberkulozo na Gorenjskem</title>
+               <page>115-125</page>
+               <citedIn count="1">
+                  <cit did="1602"
+                     cid="4"
+                     avtor0="Furlan Tomaž"
+                     naslov0="Prekužni indeks za tuberkulozo na Gorenjskem"
+                     source="Zdravniški vestnik"
+                     year="1935"
+                     volume="7"
+                     issue="3"
+                     page="115-125"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+               <author>Munda Avgust</author>
+               <title>Indicirana odprava telesnega plodu in naš kazenski zakonik</title>
+               <page>19</page>
+               <citedIn count="1">
+                  <cit did="1327"
+                     cid="18"
+                     avtor0="Munda Avgust"
+                     naslov0="Indicirana odprava telesnega plodu in naš kazenski zakonik"
+                     source="Zdravniški vestnik"
+                     pubPlace="Ljubljana"
+                     year="1935"
+                     page="19"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Škerlj Božo</author>
+               <title>Telovadba in človeško telo</title>
+               <page>247-251</page>
+               <citedIn count="1">
+                  <cit did="2205"
+                     cid="8"
+                     avtor0="Škerlj Božo"
+                     naslov0="Telovadba in človeško telo"
+                     source="Zdravniški vestnik"
+                     year="1935"
+                     volume="7"
+                     page="247-251"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
    </source>
    <source>
       <pubTitle>Živa antika</pubTitle>
-      <pubTitle>Živa Antika</pubTitle>
+      <pubAddTitle>Antiquité vivante</pubAddTitle>
       <pubPlace>Skopje</pubPlace>
+      <publisher>Sojuz na društvata za antički studii na Makedonija</publisher>
+      <pubCobiss>16125698</pubCobiss>
+      <issn>0514-7727</issn>
       <year n="1997">
          <volume>47</volume>
          <issue>
