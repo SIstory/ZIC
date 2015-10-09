@@ -11421,7 +11421,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Zagradnik Maruša</author>
-            <author>Zagradnik Maruška (?)</author>
             <title>Procesi podržavljenja premoženja v Slovenskem Primorju po drugi svetovni vojni</title>
             <cobiss>2917425</cobiss>
             <page>133-143</page>
@@ -11456,7 +11455,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Babič Blaž</author>
             <title>Vzpostavitev parlamentarizma v polnem pomenu besede : "Parlamentarna demokracija vrača udarec"</title>
-            <title>Vzpostavitev parlamentarizma v polnem pomenu besede: »Parlamentarna demokracija vrača udarec«</title>
             <cobiss>2839668</cobiss>
             <page>48-58</page>
             <citedIn count="2">
@@ -11473,7 +11471,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Fink Hafner Danica</author>
+            <author>Fink-Hafner Danica</author>
             <author>Krašovec Alenka</author>
             <title>Modernizacija Državnega zbora Republike Slovenije in razvoj poslovnika</title>
             <cobiss>30047581</cobiss>
@@ -11572,7 +11570,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Zagorc Saša</author>
             <title>Poslanska nezdružljivost - potencial ali ovira za delo poslanca</title>
-            <title>Poslanska nezdružljivost-potencial ali ovira za delo poslanca</title>
             <cobiss>11326033</cobiss>
             <page>221-226</page>
             <citedIn count="2">
@@ -11609,17 +11606,14 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <editor>Komac, Miran</editor>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za narodnostna vprašanja</publisher>
-      <publisher>INV</publisher>
       <year>2007</year>
       <pubCobiss>236819200</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Bester R.</author>
             <author>Bešter Romana</author>
             <title>Integracija in model integracijske politike</title>
-            <title>Inetgracija in model integracijske politike</title>
             <cobiss>10944077</cobiss>
-            <page>105-135</page>
+            <page>105-134</page>
             <citedIn count="4">
                <cit did="3055" cid="3" avtor0="Bester R."
                   naslov0="Integracija in model integracijske politike" source="Priseljenci"
@@ -11641,6 +11635,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Bešter Romana</author>
             <title>Socialnoekonomska integracija priseljencev iz prostora nekdanje Jugoslavije in njihovih potomcev v Sloveniji</title>
+            <cobiss>10945101</cobiss>
             <page>219-255</page>
             <citedIn count="1">
                <cit did="2687" cid="5" avtor0="Bešter Romana"
@@ -11674,7 +11669,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Dolenc Danilo</author>
             <title>Priseljevanje v Slovenijo z območja nekdanje Jugoslavije po drugi svetovni vojni</title>
             <cobiss>10943821</cobiss>
-            <page>69-105</page>
+            <page>69-102</page>
             <citedIn count="4">
                <cit did="3151" cid="8" avtor0="Dolenc Danilo"
                   naslov0="Priseljevanje v Slovenijo z območja nekdanje Jugoslavije po drugi svetovni vojni"
@@ -11702,7 +11697,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Kejžar Barbara</author>
             <title>Dvojno državljanstvo kot element integracijske politike</title>
             <cobiss>10944589</cobiss>
-            <page>153-187</page>
+            <page>153-186</page>
             <citedIn count="5">
                <cit did="2699" cid="17" avtor0="Kejžar Barbara"
                   naslov0="Dvojno državljanstvo kot element integracijske politike"
@@ -11742,7 +11737,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Komac Miran</author>
             <title>Etnična podoba skozi statistične podatke</title>
-            <page>509-547</page>
+            <cobiss>10967885</cobiss>
+            <page>509-548</page>
             <citedIn count="1">
                <cit did="3151" cid="16" avtor0="Komac Miran"
                   naslov0="Etnična podoba skozi statistične podatke"
@@ -11753,6 +11749,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Komac Miran</author>
             <title>Mediji in 'nove' narodne manjšine</title>
+            <cobiss>10967629</cobiss>
             <page>373-389</page>
             <citedIn count="1">
                <cit did="2717" cid="9" avtor0="Komac Miran"
@@ -11765,7 +11762,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Komac Miran</author>
             <title>Spremna beseda</title>
             <cobiss>10943053</cobiss>
-            <page>1-7</page>
+            <page>1-3</page>
             <citedIn count="1">
                <cit did="3151" cid="14" avtor0="Komac Miran" naslov0="Spremna beseda"
                   cobiss="10943053"
@@ -11777,7 +11774,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Medved Felicita</author>
             <title>Državljani nove države v letu 1991 - inicialna opredelitev in korekcijske dopolnitve slovenskega državljanstva</title>
             <cobiss>10944333</cobiss>
-            <page>135-153</page>
+            <page>135-152</page>
             <citedIn count="3">
                <cit did="2687" cid="31" avtor0="Medved Felicita"
                   naslov0="Državljani nove države v letu 1991 - inicialna opredelitev in korekcijske dopolnitve slovenskega državljanstva"
@@ -11799,7 +11796,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Medvešek Mojca</author>
             <title>Razmišljanja o pojavih nestrpnosti in etnične distance v slovenski družbi</title>
             <cobiss>10944845</cobiss>
-            <page>187-217</page>
+            <page>188-217</page>
             <citedIn count="3">
                <cit did="2930" cid="13" avtor0="Medvešek Mojca"
                   naslov0="Razmišljanja o pojavih nestrpnosti in etnične distance v slovenski družbi"
@@ -11819,7 +11816,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pezdir Tatjana</author>
-            <title>Stiki in vezmi z izvornim okoljem</title>
+            <title>Stiki in vezi z izvornim okoljem : "ko ste v družbi svojih ljudi, gre za popolnoma drugačen občutek"</title>
+            <cobiss>10946381</cobiss>
             <page>423-445</page>
             <citedIn count="1">
                <cit did="2566" cid="13" avtor0="Pezdir Tatjana"
@@ -11831,10 +11829,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pirc Janez</author>
-            <title>Slovenija v sodobnem migracijskem kontekstu</title>
-            <title>Slovenija v sodobnem migracijskem kontekstu EU</title>
             <title>Slovenija v sodobnem migracijskem kontekstu Evropske Unije</title>
-            <title>Slovenija v sodobnem migracijskem kontekstu Evropske unije</title>
             <cobiss>10950989</cobiss>
             <page>449-475</page>
             <citedIn count="4">
@@ -11860,7 +11855,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Roter Petra</author>
             <title>Pojmovanje in opredeljevanje manjšin</title>
             <cobiss>10943309</cobiss>
-            <page>7-35</page>
+            <page>7-33</page>
             <citedIn count="3">
                <cit did="3151" cid="34" avtor0="Roter Petra"
                   naslov0="Pojmovanje in opredeljevanje manjšin" cobiss="10943309"
@@ -11906,9 +11901,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Gašparič Jure</author>
-            <title>Demokratičnost volitev v Dravski banovini: problemi demokracije na Slovenskem 1918-1941</title>
-            <title>Demokratičnost volitev v Dravski banovini?</title>
-            <cobiss>235234048</cobiss>
+            <title>Demokratičnost volitev v Dravski banovini : problemi demokracije na Slovenskem 1918-1941</title>
+            <cobiss>27171629</cobiss>
             <page>171-188</page>
             <citedIn count="2">
                <cit did="1818" cid="6" avtor0="Gašparič Jure"
@@ -11924,6 +11918,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Godeša Bojan</author>
             <title>Katoliški tabor in iskanje družbenega modela na predvečer okupacije</title>
+            <addTitle>the Catholic camp and its search of a social model on the eve of occupation</addTitle>
+            <cobiss>27183149</cobiss>
+            <page>341-351</page>
             <citedIn count="1">
                <cit did="2144" cid="21" avtor0="Godeša Bojan"
                   naslov0="Katoliški tabor in iskanje družbenega modela na predvečer okupacije"
@@ -11933,9 +11930,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Juhant Janez</author>
-            <author>Juhart Janez</author>
             <title>Ali je mogoče s totalitarizmom presojati demokracijo?</title>
-            <title>Ali je mogoče s totalitarizmom presojati demokracijo</title>
+            <addTitle>ist est möglich vom Totalitarismus die Demokratie zu begutachten?</addTitle>
+            <cobiss>27175213</cobiss>
             <page>35-51</page>
             <citedIn count="2">
                <cit did="2766" cid="19" avtor0="Juhant Janez"
@@ -11951,7 +11948,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Melik Jelka</author>
             <title>Kazensko pravo in Slovenci v prvi Jugoslaviji</title>
-            <cobiss>27303981</cobiss>
+            <addTitle>criminal law and Slovenians in the first Yugoslavia</addTitle>
+            <cobiss>27172909</cobiss>
             <page>211-217</page>
             <citedIn count="1">
                <cit did="3132" cid="10" avtor0="Melik Jelka"
@@ -11963,8 +11961,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pirjevec Jože</author>
             <title>Vatikanski arhivi</title>
+            <addTitle>Vatican archives</addTitle>
             <cobiss>27182637</cobiss>
-            <page>305-317</page>
+            <page>305-316</page>
             <citedIn count="3">
                <cit did="2769" cid="46" avtor0="Pirjevec Jože" naslov0="Vatikanski arhivi"
                   source="Problemi demokracije na Slovenskem v letih 1918-1941" pubPlace="Ljubljana"
@@ -11983,7 +11982,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pleterski Janko</author>
             <title>"Totalitarni duh" na Slovenskem tudi v katoliškem taboru</title>
-            <title>»Totalitarni duh« na Slovenskem tudi v katoliškem taboru</title>
+            <addTitle>"Totalitarian spirit" in Slovenia also in the Catholic camp</addTitle>
             <cobiss>27176493</cobiss>
             <page>75-100</page>
             <citedIn count="2">
@@ -12001,7 +12000,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Polajnar Janez</author>
-            <title>Narod bo obstal, samo če bo zdrav</title>
+            <title>Narod bo obstal, samo če bo zdrav : evgenika in njeni pogledi na slovenski narod in njegove možnosti za obstoj v času med obema vojnama</title>
+            <addTitle>nation shall prevail, if not frail Eugenics and its views of the Slovenian nation and its possibilities for survival in the period between the two World War</addTitle>
+            <cobiss>27173933</cobiss>
             <page>353-364</page>
             <citedIn count="1">
                <cit did="2417" cid="10" avtor0="Polajnar Janez"
@@ -12026,9 +12027,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ratej Mateja</author>
             <title>Koroščevo razumevanje demokracije v času njegove (1928) in Stojadinovićeve vlade (1935—1938)</title>
-            <title>Koroščevo razumevanje demokracije v času njegove in Stojadinovićeve vlade (1935-1938)</title>
+            <addTitle>Korošec's understanding of democracy in the period of his own (1928) and Stojadinović's government (1935-1938)</addTitle>
             <cobiss>27185197</cobiss>
-            <page>137-170</page>
+            <page>137-169</page>
             <citedIn count="2">
                <cit did="3213" cid="35" avtor0="Ratej Mateja"
                   naslov0="Koroščevo razumevanje demokracije v času njegove (1928) in Stojadinovićeve vlade (1935—1938)"
@@ -12043,9 +12044,11 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Odnos Slovenske ljudske stranke (SLS) do demokracije v viziji graditve krščanske korporacijske družbe in države v zadnjem desetletju pred aprilskim zlomom 1941</title>
+            <addTitle>attitude of the Slovenian People's Party towards democracy in its visions of the constructions of Christian corporative society and state in the last decade before the april 1941 capitulation</addTitle>
             <cobiss>27176749</cobiss>
+            <page>219-232</page>
             <citedIn count="1">
                <cit did="3133" cid="31" avtor0="Vidovič Miklavčič Anka"
                   naslov0="Odnos Slovenske ljudske stranke (SLS) do demokracije v viziji graditve krščanske korporacijske družbe in države v zadnjem desetletju pred aprilskim zlomom 1941"
@@ -12057,8 +12060,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>O slovenskih političnih tradicijah v času nastanka Kraljevine SHS leta 1918</title>
-            <title>O slovenskih političnih tradicijah v času nastanka Kraljevini Srbov Hrvatov in Slovencev</title>
-            <page>2-32</page>
+            <cobiss>27168045</cobiss>
+            <page>23-34</page>
             <citedIn count="2">
                <cit did="2766" cid="26" avtor0="Vodopivec Peter"
                   naslov0="O slovenskih političnih tradicijah v času nastanka Kraljevine SHS leta 1918"
