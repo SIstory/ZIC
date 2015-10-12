@@ -7889,9 +7889,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Jezemik Božidar</author>
                <title>Non cogito, ergo sum</title>
                <title>arheologija neke šale</title>
-               <page>850</page>
-               <page>663</page>
-               <page>533-534</page>
                <cobiss>45868288</cobiss>
                <citedIn count="3">
                   <cit did="93"
@@ -25782,7 +25779,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Krek Janez Evangelist</title>
                <title>Turški križ</title>
                <page>246-249</page>
-               http://cobiss5.izum.si/scripts/cobiss?command=DISPLAY&base=99999&rid=78392576&fmt=11&lani=si
+               <cobiss>78392576</cobiss>
                <citedIn count="1">
                   <cit did="907"
                        cid="3"
@@ -28603,9 +28600,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Tito Josip Broz</author>
-               <author>Krleža Miroslav</author>
+               <title>Tito - Krleža</title>
                <title>Predvojna srečanja</title>
-               <title>natis prevoda iz Književnosti</title>
                <page>113-116</page>
                <citedIn count="1">
                   <cit did="3022"
@@ -28625,9 +28621,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="21">
             <pubPart>
                <author>Tominšek Teodor</author>
-               <title>V Šempeterskih zaporih</title>
+               <title>V šempetrskih zaporih</title>
                <title>Iz spominov na pisatelja Prežihovega Voranca</title>
                <page>164</page>
+               <cobiss>41938944</cobiss>
                <citedIn count="1">
                   <cit did="3022"
                        cid="321"
@@ -28662,8 +28659,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="18">
             <pubPart>
                <author>Nećak Dušan</author>
-               <title>Primer kaže kje je pot. Dogovor avstrijskih parlamentarnih strank o ugotavljanju manjšine</title>
-               <title>Primež kaže kje je pot. Dogovor avstrijskih parlamentarnih strank o ugotavljanju manjšine</title>
+               <title>Primer kaže kje je pot</title>
+               <title>Dogovor avstrijskih parlamentarnih strank o ugotavljanju manjšine</title>
                <citedIn count="2">
                   <cit did="2940"
                        cid="109"
@@ -30552,6 +30549,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Avtonomija in slovenski katolicizem</title>
                <title>II. del</title>
                <page>663-672</page>
+               <cobiss>37550080</cobiss>
                <citedIn count="1">
                   <cit did="144"
                        cid="4"
@@ -30572,6 +30570,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Avtonomija in slovenski katolicizem</title>
                <title>III. del</title>
                <page>850-868</page>
+               <cobiss>37550080</cobiss>
                <citedIn count="1">
                   <cit did="144"
                        cid="5"
@@ -30592,6 +30591,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Avtonomija in slovenski katolicizem</title>
                <title>I. del</title>
                <page>279-298</page>
+               <cobiss>37550080</cobiss>
                <citedIn count="1">
                   <cit did="144"
                        cid="3"
@@ -30633,6 +30633,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Zveza mladih kulturnih delavcev Slovenije</title>
                <title>(1948-1950)</title>
                <page>1235-1245</page>
+               <cobiss>28387840</cobiss>
                <citedIn count="1">
                   <cit did="781"
                        cid="3"
@@ -30669,16 +30670,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Godeša Bojan</author>
                <title>Prispevek k poznavanju Dolomitske izjave</title>
-               <title>Prispevek k poznavanki Dolomitske izjave</title>
-               <title>Prispevek k poznavanju dolomitske izjave</title>
-               <title>Prispevki k spoznavanju Dolomitske izjave</title>
-               <page>605</page>
-               <page>592-608</page>
-               <page>455-460</page>
-               <page>266</page>
                <page>266-273</page>
-               <page>263-273</page>
-               <page>266-273, 455-460, 592-608</page>
+               <page>455-460</page>
+               <page>592-608</page>
                <cobiss>23699968</cobiss>
                <citedIn count="10">
                   <cit did="1510"
@@ -30944,9 +30938,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Perovšek Jurij</author>
                <title>Albin Prepeluh in Slovenska republikanska stranka kmetov in delavcev</title>
-               <title>Albin Preprluh in Slovenska republikanska stranka</title>
                <page>194-198</page>
-               <page>401</page>
                <cobiss>5773058</cobiss>
                <citedIn count="7">
                   <cit did="3213"
@@ -31225,8 +31217,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="61-62">
             <pubPart>
                <author>Rupel Dimitrij</author>
-               <title>Tipologija slovenskih intelektualcev I</title>
-               <title>Tipologija slovenskih intelektualcev I.</title>
+               <title>Tipologija slovenskih intelektualcev</title>
+               <title>I.</title>
                <page>923-938</page>
                <cobiss>13647709</cobiss>
                <citedIn count="2">
@@ -31269,9 +31261,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Goljevšček Alenka</author>
-               <title>Arhaičnost- civilnost</title>
-               <title>Prispevki za slovenski nacionalni program</title>
-               <page>119</page>
+               <title>Arhaičnost</title>
+               <title>civilnost</title>
                <citedIn count="1">
                   <cit did="17"
                        cid="8"
@@ -32324,6 +32315,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Smučišče v Triglavskem parku?</title>
                <title>Ali bodo res uničili Vrtaško planino?</title>
                <page>241-243</page>
+               <cobiss>615734</cobiss>
                <citedIn count="1">
                   <cit did="696"
                        cid="3"
@@ -33229,8 +33221,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <author>Mason P.</author>
                <author>Mason Philip F. J.</author>
                <title>Neolitska in eneolitska naselja v Beli Krajini...</title>
-               <title>Neolitska in eneolitska naselja v Beli krajini: naselja v Gradcu in izraba prostora v času od 5. do 3. tisočletja BC</title>
+               <title>naselje v Gradcu in izraba prostora v času od 5. do 3. tisočletja BC</title>
                <page>183-199</page>
+               <cobiss>73675520</cobiss>
                <citedIn count="2">
                   <cit did="2584"
                        cid="85"
@@ -33275,10 +33268,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Budja M.</author>
                <author>Budja Mihael</author>
-               <title>Pečatniki v slovenskih neolitskih naselbinskih kontekstih (Lehmstempel in dem slowenischen neolitisehen Siedlungskontexten)</title>
                <title>Pečatniki v slovenskih neolitskih naselbinskih kontekstih</title>
+               <addTitle>Lehmstempel in dem slowenischen neolitisehen Siedlungskontexten</addTitle>
                <page>95-109</page>
-               <page>95-108</page>
+               <cobiss>44104960</cobiss>
                <citedIn count="2">
                   <cit did="2584"
                        cid="13"
@@ -33542,9 +33535,6 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Bohte Borut, Škrk Mirjam</author>
                <author>Bohte Borut, Šrkk Mirjam</author>
                <title>Pomen Avstrijske državne pogodbe za Slovenijo in mednarodnopravni vidiki njenega nasledstva</title>
-               <title>"Pomen Avstrijske državne pogodbe za Slovenijo in mednarodnopravni vidiki njenega nasledstva"</title>
-               <title>Pomen Avstrijske državne pogodbe za Slovenijo in mednarodnepravne vidiki njenega nasledstva</title>
-               <page>601-630</page>
                <page>600-630</page>
                <cobiss>1739089</cobiss>
                <citedIn count="6">
@@ -33733,10 +33723,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Kyovski Rudi</author>
                <author>Kyovsky Rudi</author>
-               <title>Vloga dr. Vinka Kluna pri sprejemanju zakona o 'koalicijski svobodi'</title>
                <title>Vloga dr. Vinka Kluna pri sprejemanju zakona  "o koalicijski svobodi"</title>
                <page>130-140</page>
-               <page>133</page>
                <citedIn count="2">
                   <cit did="2871"
                        cid="76"
@@ -33856,8 +33844,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Tominšek Teodor</author>
                <title>Kočevski proces</title>
-               <title>sodba</title>
-               <page>408-458</page>
+               <title>sodba v imenu slovenske narodne oblasti</title>
+               <page>393-460</page>
                <citedIn count="1">
                   <cit did="1187"
                        cid="24"
@@ -34104,9 +34092,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="225">
             <pubPart>
                <author>Šušmelj Jože</author>
-               <title>Gorica na Pariških mirovnih pogajanjih 1946</title>
                <title>Gorica na pariških mirovnih pogajanjih 1946</title>
                <page>9-13</page>
+               <cobiss>6368305</cobiss>
                <citedIn count="2">
                   <cit did="1511"
                        cid="357"
@@ -34497,9 +34485,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="134-135">
             <pubPart>
                <author>Lovrič Metka</author>
-               <title>Hubert Bergant, organist in glasbeni pedagog : predstavljamo primorske strokovnjake</title>
                <title>Hubert Bergant, organist in glasbeni pedagog</title>
-               <page>427</page>
+               <title>predstavljamo primorske strokovnjake</title>
+               <page>427-432</page>
                <cobiss>56259328</cobiss>
                <citedIn count="2">
                   <cit did="3179"
@@ -34667,7 +34655,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Stres Peter</author>
-               <title>Zbor svečenikov sv.Pavla</title>
+               <title>Zbor svečenikov sv. Pavla</title>
                <title>politična in kulturna prizadevanja duhovnikov na Goriškem po prvi svetovni vojni za ohranitev slovenstva</title>
                <page>860-861</page>
                <cobiss>35659264</cobiss>
@@ -34745,8 +34733,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="11">
             <pubPart>
                <author>Harej Zorko</author>
-               <title>Kulturna dediščina kot kazen II</title>
-               <title>Gradovi naši ter preteklost in sedanjost v njih</title>
+               <title>Kulturna dediščina kot kazen</title>
+               <title>II, Gradovi naši ter preteklost in sedanjost v njih</title>
                <page>221-222</page>
                <citedIn count="1">
                   <cit did="375"
@@ -36620,10 +36608,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Pirjevec Jože</author>
-               <title>Trst v slovenski politični misli 1848-1947</title>
-               <title>Trst v slovenski politični misli: 1848-1947</title>
-               <page>75-76</page>
-               <page>127-128</page>
+               <title>Trst v slovenski politični misli</title>
+               <title>1848-1947</title>
                <page>49-82</page>
                <cobiss>19674205</cobiss>
                <citedIn count="3">
@@ -36834,7 +36820,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Gosar Andrej</author>
                <title>Glas vpijočega v puščavi</title>
-               <title>Andrej Gosar, Glas vpijočega v puščavi</title>
+               <title>dvajset let ideoloških trenj in težav v slovenskem krščanskem socialnem gibanju</title>
                <page>85-133</page>
                <citedIn count="2">
                   <cit did="3214"
@@ -36912,10 +36898,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Horvat Jožek Muc</author>
                <author>Horvat Jožek – Muc</author>
                <author>Jorvat Jožek Muc</author>
-               <title>Kronološki pregled aktivnosti Zveze Romov Slovenije od 2000 do 2004</title>
                <title>Kronološki pregled aktivnosti Zveze Romov Slovenije od 2000–2004</title>
-               <title>Kronološki pregled aktivnosti Zveze Romov Slovenije od 2000–2004.</title>
-               <title>Kronološki pregled aktivnosti Zveze Romov Slovenije od 2000-2004</title>
                <page>7-12</page>
                <citedIn count="4">
                   <cit did="3038"
@@ -37272,13 +37255,15 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
       <year n="1976">
          <volume>17</volume>
          <issue>
+            <!-- knjiga -->
             <pubPart>
                <author>Svoljšak Drago</author>
                <author>Knific Timotej</author>
                <author>Svoljšak Drago, Knific Timotej</author>
                <author>Svoljšak Drago, Kniflc Timotej</author>
-               <title>Vipavska dolina : Zgodnjesrednjeveška najdišča</title>
-               <title>Vipavska dolina : zgodnjesrednjeveška najdišča</title>
+               <title>Vipavska dolina</title>
+               <title>Zgodnjesrednjeveška najdišča</title>
+               <cobiss>3732737</cobiss>
                <citedIn count="3">
                   <cit did="1419"
                        cid="26"
@@ -37383,6 +37368,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <volume>56-57</volume>
          <volume>56/57</volume>
          <issue>
+            <pubTitle>Trubarjeva številka</pubTitle>
             <pubPart>
                <author>Juvan Marko</author>
                <title>Slovenski kulturni sindrom v nacionalni in primerjalni literarni zgodovini</title>
@@ -37401,9 +37387,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Müller Jakob</author>
                <title>Temelji slovenskega knjižnega jezika 16. stoletja</title>
-               <title>Temelji slovenskega knjižnega jezika v 16. stoletju</title>
                <page>165-187</page>
-               <page>166-171</page>
+               <cobiss>38783330</cobiss>
                <citedIn count="3">
                   <cit did="2428"
                        cid="25"
@@ -37617,9 +37602,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Šumrada Janez</author>
-               <title>Janez Nepomuk Primic in ustanovitev stolice za slovenski jezik na liceju v Gradcu</title>
-               <title>Janez Nepomuk Primic in ustanovitev stolice za slovenski jezik na liceju v gradcu 1811</title>
+               <title>Janez Nepomuk Primic in ustanovitev stolice za slovenski jezik na liceju v Gradcu 1811</title>
                <page>51-60</page>
+               <cobiss>18349922</cobiss>
                <citedIn count="2">
                   <cit did="3527"
                        cid="9"
@@ -37976,9 +37961,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Toporišič Janez</author>
                <author>Tororišič Jože</author>
-               <title>Kritične pripombe k Trubarjevemu  delu s strani slovenskih besedoljubov in kritikov</title>
-               <title>Kritične pripombe k Trubarjevem delu s strani slovenskih besedoljubov ib kritikov</title>
-               <page>251</page>
+               <title>Kritične pripombe k Trubarjevemu delu s strani slovenskih besedoljubov in kritikov</title>
+               <page>241-254</page>
+               <cobiss>31351808</cobiss>
                <citedIn count="2">
                   <cit did="2838"
                        cid="156"
@@ -38567,11 +38552,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Mihelič Stane</author>
-               <title>Kmetijska družba  in ustanovitev Novic</title>
                <title>Kmetijska družba in ustanovitev Novic</title>
-               <page>34</page>
                <page>27-58</page>
-               <page>30</page>
                <citedIn count="3">
                   <cit did="28"
                        cid="8"
@@ -38911,9 +38893,10 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Makarovič Marija</author>
-               <title>Kmečki posli. O življenju in kulturi večinskega prebivalstva na Slovenskem v 19. stoletju</title>
                <title>Kmečki posli</title>
+               <title>O življenju in kulturi večinskega prebivalstva na Slovenskem v 19. stoletju</title>
                <page>433-460</page>
+               <cobiss>36326656</cobiss>
                <citedIn count="2">
                   <cit did="2040"
                        cid="19"
@@ -38977,10 +38960,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Keršič Irena</author>
                <author>Krešič Irena</author>
-               <title>Oris stanovanjske kulture slovenskega kmečkega prebivalstva v 19. stoletja</title>
                <title>Oris stanovanjske kulture slovenskega kmečkega prebivalstva v 19. stoletju</title>
-               <page>331</page>
                <page>329-388</page>
+               <cobiss>36326144</cobiss>
                <citedIn count="2">
                   <cit did="876"
                        cid="7"
@@ -39002,7 +38984,6 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Makarovič Gorazd</author>
-               <title>Prehrana v 19. stoletju ba Slovenskem</title>
                <title>Prehrana v 19. stoletju na Slovenskem</title>
                <page>137</page>
                <page>147-148</page>
@@ -39263,10 +39244,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Umek Ema</author>
                <author>Umek Eva</author>
                <title>Prispevki k zgodovini ovčereje na Krasu in v slovenski Istri</title>
-               <title>Prispevki za zgodovino ovčereje na Krasu in v Slovenski Istri</title>
-               <title>Prispevek k zgodovini ovčereje na Krasu</title>
                <page>71-76</page>
-               <page>71</page>
                <citedIn count="3">
                   <cit did="751"
                        cid="63"
@@ -39324,8 +39302,6 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Žontar Josip</author>
                <author>Žontar Jože</author>
                <title>Soseski (cerkveni) "hisi" v Beli krajini</title>
-               <title>Soseskini (cerkveni) hiši v Beli krajini</title>
-               <page>77-78</page>
                <page>77-80</page>
                <citedIn count="2">
                   <cit did="3455"
@@ -39446,7 +39422,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Vilfan Hram</author>
                <author>Vilfan Sergij</author>
                <title>Od vinskega hrama do bajte</title>
-               <title>Od vinskega hrama do bajte : (prispevki k zgodovini bajtarstva in gostaštva v dolenjskih vinogradih)</title>
+               <title>prispevki k zgodovini bajtarstva in gostaštva v dolenjskih vinogradih</title>
                <page>107-142</page>
                <cobiss>239612928</cobiss>
                <citedIn count="3">
@@ -39821,9 +39797,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Žitko Salvator</author>
                <author>Žitko S.</author>
                <author>Žitko Salvatore</author>
-               <title>Solno tihotapstvo na območju piranskih, koprskih in miljskih solin v času beneške republike</title>
                <title>Solno tihotapstvo na območju piranskih, koprskih in miljskih solin v času Beneške republike</title>
                <page>79-95</page>
+               <cobiss>5755793</cobiss>
                <citedIn count="3">
                   <cit did="3134"
                        cid="6"
@@ -39954,8 +39930,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Sentočnik S.</author>
                <author>Sentočnik Sonja</author>
-               <title>Portfelj kot alternativna oblika učenčevega napredka - možnosti njegove uporabe v slovenskih šolah</title>
-               <title>Portfelj kot alternativna oblika vrednotenja učenčevega napredka : možnosti njegove uporabe v slovenskih šolah</title>
+               <title>Portfelj kot alternativna oblika učenčevega napredka</title>
+               <title>Možnosti njegove uporabe v slovenskih šolah</title>
                <page>70-90</page>
                <page>75</page>
                <citedIn count="2">
@@ -40003,9 +39979,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <author>Razdevšek Pucko C.</author>
                <author>Razdevšek Pučko Cveta</author>
                <title>Kakšnega učitelja potrebuje (pričakuje) današnja (in jutrišnja) šola?</title>
-               <title>Kakšnega učitelja potrebuje (pričakuje)
-današnja (in jutrišnja) šola?</title>
-               <page>71</page>
+               <page>52-74</page>
+               <cobiss>5602633</cobiss>
                <citedIn count="2">
                   <cit did="702"
                        cid="21"
@@ -40092,8 +40067,8 @@ današnja (in jutrišnja) šola?</title>
             </pubPart>
             <pubPart>
                <author>Razpotnik Jelka</author>
-               <title>Poučevanje zgodovine v 21. stoletju : vzgoja demokratičnih vrednot in strpnosti</title>
-               <title>Poučevanje zgodovine v 21. stoletju: vzgoja demokratičnih vrednot in strpnosti</title>
+               <title>Poučevanje zgodovine v 21. stoletju</title>
+               <title>vzgoja demokratičnih vrednot in strpnosti</title>
                <page>228-236</page>
                <cobiss>4575561</cobiss>
                <citedIn count="2">
@@ -40488,8 +40463,10 @@ današnja (in jutrišnja) šola?</title>
             </pubPart>
             <pubPart>
                <author>Vranc Ernest</author>
-               <title>Spominski utrinke s pedagoške poti, Popotnik - propagandno glasilo III. internacionale?</title>
+               <title>Spominski utrinke s pedagoške poti</title>
+               <title>Popotnik - propagandno glasilo III. internacionale?</title>
                <title>Ob 30-letnici »zelenega« in 20-letnici »rdečega« Popotnika, pedagoškega glasila učiteljstva</title>
+               <page>214</page>
                <citedIn count="1">
                   <cit did="3377"
                        cid="41"
@@ -40651,7 +40628,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Žanko Miloš</author>
                <title>Osnovni namen iz družbene naloge obveznega šolstva</title>
-               <title>Odlomki iz referata predloženega Komisji za reformo šolstva</title>
+               <title>Odlomki iz referata predloženega Komisiji za reformo šolstva</title>
                <page>1-5</page>
                <citedIn count="1">
                   <cit did="15"
@@ -41477,8 +41454,8 @@ današnja (in jutrišnja) šola?</title>
             </pubPart>
             <pubPart>
                <author>Zwitter Fran</author>
-               <title>Recenzija knjige</title>
-               <title>Jože Žontar : Zgodovina mesta Kranja</title>
+               <title>Jože Žontar</title>
+               <title>Zgodovina mesta Kranja</title>
                <page>474-475</page>
                <citedIn count="1">
                   <cit did="218"
@@ -41501,10 +41478,9 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Ziherl Boris</author>
                <author>Ziherl Boris (Poljanec A.)</author>
-               <title>Vloga slovanstva v preteklosti in sedanjosti</title>
                <title>Vloga slovenstva v preteklosti in sedanjosti</title>
                <page>318-329</page>
-               <page>318-329, 431-441</page>
+               <page>431-441</page>
                <citedIn count="2">
                   <cit did="2889"
                        cid="76"
@@ -41604,10 +41580,8 @@ današnja (in jutrišnja) šola?</title>
          <issue n="7-8">
             <pubPart>
                <author>Zwitter Fran</author>
-               <title>Bankrot slovenskega liberalizem</title>
                <title>Bankrot slovenskega liberalizma</title>
                <page>303-304</page>
-               <page>303</page>
                <citedIn count="4">
                   <cit did="1111"
                        cid="5"
@@ -42021,8 +41995,10 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Poljšak Tone</author>
                <title>Trideset let kasneje</title>
+               <title>Osimski sporazumi</title>
                <title>Organiziranost Jugoslavije in Slovenije za izvajanje Osimskih sporazumov</title>
                <page>9-10</page>
+               <cobiss>9867853</cobiss>
                <citedIn count="1">
                   <cit did="294"
                        cid="9"
@@ -42157,10 +42133,8 @@ današnja (in jutrišnja) šola?</title>
          <issue n="3-7">
             <pubPart>
                <author>Grafenauer Bogo</author>
-               <title>Miti o "Istri" in resnica istrskega polotoka: izvori različni, pa vsi enako "bosi"</title>
-               <title>Miti »o Istri« in resnica istrskega polotoka: izvori različni, pa vsi enako »bosi«</title>
-               <title>Miti o 'Istri' in resnica Istrskega polotoka</title>
-               <title>Miti o »Istri« in resnica istrskega polotoka</title>
+               <title>Miti o "Istri" in resnica istrskega polotoka</title>
+               <title>izvori različni, pa vsi enako "bosi"</title>
                <page>15-17</page>
                <cobiss>1020749</cobiss>
                <citedIn count="4">
@@ -42331,8 +42305,8 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Šuštar Branko</author>
                <title>Posebnosti razvoja učiteljskega društva Slomškova zveza v Idriji 1901-1924</title>
-               <title>Posebnosti razvoja učiteljskega društva Slomškova zveza v Idriji 1901- 1924</title>
                <page>41-60</page>
+               <cobiss>24987181</cobiss>
                <citedIn count="2">
                   <cit did="2055"
                        cid="17"
@@ -42471,8 +42445,6 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Svoljšak Petra</author>
                <title>Slovensko begunsko šolstvo med prvo svetovno vojno</title>
-               <title>Slovensko begunsko šolstvo pred prvo svetovno vojno</title>
-               <page>296-305</page>
                <page>296-302</page>
                <cobiss>23110189</cobiss>
                <citedIn count="2">
@@ -42722,12 +42694,10 @@ današnja (in jutrišnja) šola?</title>
          <issue n="1">
             <pubPart>
                <author>Vidmar Tadej</author>
-               <title>"Obena deshela ne meisto nr gmaina, ne mogo pres shul"</title>
+               <title>"Obena deshela, ne meisto ne gmaina, ne mogo pres shul"</title>
                <title>Usoda protestantskih šol v Ljubljani, Celovcu in Gradcu</title>
-               <title>"Obena deshela, ne meistu ne gmaina, ne mogo pres shul": usoda protestantskih deželnih šol v Ljubljani, Celovcu in Gradcu</title>
-               <title>'Obena deshela, ne meisto ne gmaina, ne mogo pres shul' - usoda protestantskih deželnih šol v Ljubljani, Celovcu in Gradcu</title>
-               <page>17-18</page>
-               <page>10</page>
+               <addTitle>"Obena deshela, ne meistu ne gmaina, ne mogo pres shul"</addTitle>
+               <addTitle>The destiny of Protestant schools of the States in Ljubljana, Klagenfurt and Graz</addTitle>
                <page>9-27</page>
                <cobiss>17127213</cobiss>
                <citedIn count="3">
@@ -43538,9 +43508,8 @@ današnja (in jutrišnja) šola?</title>
                <author>Vogrinčič Ana</author>
                <title>Tujec in tuje v učbenikih</title>
                <title>Kritična diskurzivna analiza izbranih primerov iz učbenika zgodovine</title>
-               <title>Tujec in tuje v učbenikih. Kritična diskurzivna analiza izbranih primerov iz učbenikov zgodovine</title>
-               <title>Tujec in tuje v učbenikih: Kritična dikurzivna analiza izbranih primerov iz učbenika zgodovine</title>
                <page>313-334</page>
+               <cobiss>22004317</cobiss>
                <citedIn count="3">
                   <cit did="2898"
                        cid="6"
@@ -43780,9 +43749,10 @@ današnja (in jutrišnja) šola?</title>
          <issue n="5">
             <pubPart>
                <author>Zavratnik Zimic Simona</author>
-               <title>Koncept   družbene i ključenosti v analizi marginalnih etničnih skupin</title>
-               <title>Koncept "družbene izključenosti" v analizi marginalnih etničnih skupin: primer začasnih beguncev in avtohtonih Romov</title>
+               <title>Koncept "družbene izključenosti" v analizi marginalnih etničnih skupin</title>
+               <title>primer začasnih beguncev in avtohtonih Romov</title>
                <page>832-848</page>
+               <cobiss>7580749</cobiss>
                <citedIn count="2">
                   <cit did="680"
                        cid="35"
@@ -43987,7 +43957,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Brezovšek Marjan</author>
                <title>Politična participacija</title>
-               <title>Politična participacija: : prispevek k analizi "participativne demokracije"</title>
+               <title>prispevek k analizi "participativne demokracije"</title>
                <page>199-211</page>
                <cobiss>15906141</cobiss>
                <citedIn count="2">
@@ -44058,8 +44028,8 @@ današnja (in jutrišnja) šola?</title>
          <issue n="3-4">
             <pubPart>
                <author>Dimitras Panajot Elias</author>
-               <title>Problem manjšin v "homogeni" državi: primer Grčije</title>
-               <title>Problem manjšin v homogeni državi: primer Grčije</title>
+               <title>Problem manjšin v "homogeni" državi</title>
+               <title>primer Grčije</title>
                <page>330-343</page>
                <cobiss>271949</cobiss>
                <citedIn count="2">
@@ -44090,9 +44060,8 @@ današnja (in jutrišnja) šola?</title>
                <author>Gellner E.</author>
                <author>Gellner Ernest</author>
                <title>Nacionalizem in politika v Vzhodni Evropi</title>
-               <title>Nacionalism in politika v Vzhodni Evropi</title>
-               <page>192</page>
-               <page>194</page>
+               <page>191-198</page>
+               <cobiss>271693</cobiss>
                <citedIn count="2">
                   <cit did="167"
                        cid="21"
@@ -44137,8 +44106,8 @@ današnja (in jutrišnja) šola?</title>
          <issue n="9-10">
             <pubPart>
                <author>Ribnikar Ivan</author>
-               <title>Družbena lastnina in narobe poskusi njene odprave : od leta 1989 do dandanes</title>
-               <title>Družbena lastnina in narobe poskusi njene odprave: od leta 1989 do dandanes</title>
+               <title>Družbena lastnina in narobe poskusi njene odprave</title>
+               <title>od leta 1989 do dandanes</title>
                <page>877-890</page>
                <cobiss>148946</cobiss>
                <citedIn count="2">
@@ -44169,8 +44138,8 @@ današnja (in jutrišnja) šola?</title>
          <issue n="7-8">
             <pubPart>
                <author>Komac Miran</author>
-               <title>Narodne manjšine - most med narodi ali subjekt lastnega razvoja</title>
-               <title>Narodne manjšine - most med narodi ali subjekti lastnega razvoja</title>
+               <title>Narodne manjšine </title>
+               <title>most med narodi ali subjekti lastnega razvoja</title>
                <page>670-681</page>
                <cobiss>1885517</cobiss>
                <citedIn count="2">
@@ -44321,8 +44290,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Repe Božo</author>
                <title>Utrinki iz bližnjega leta 1962</title>
-               <title>Utrinki iz bližnjega leta 1962 (2)</title>
-               <page>226-227</page>
+               <title>(2) : Nadaljevanje in konec</title>
                <page>224-231</page>
                <cobiss>14274141</cobiss>
                <citedIn count="2">
@@ -44389,9 +44357,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Repe Božo</author>
                <title>Utrinki iz bližnjega leta 1962</title>
-               <title>Utrinki iz bližnjega leta 1962 (1)</title>
-               <page>1501</page>
-               <page>1498-15111</page>
+               <title>(1)</title>
                <page>1498-1511</page>
                <cobiss>9765890</cobiss>
                <citedIn count="4">
@@ -44439,6 +44405,7 @@ današnja (in jutrišnja) šola?</title>
                <title>Italijani v Jugoslaviji</title>
                <title>Ob izginjanju ene od manjšin</title>
                <page>823-827</page>
+               <cobiss>7746050</cobiss>
                <citedIn count="1">
                   <cit did="1278"
                        cid="5"
@@ -44550,9 +44517,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Nekaj splošnih razmišljanj ter vprašanj o pojavu kolaboracije</title>
-               <title>Nekaj splošnih razmišljanj teh vprašanj o pojavu kolaboracije</title>
                <page>995-1002</page>
-               <page>996-997</page>
                <cobiss>8640000</cobiss>
                <citedIn count="3">
                   <cit did="2299"
@@ -44812,9 +44777,10 @@ današnja (in jutrišnja) šola?</title>
          <issue n="9-10">
             <pubPart>
                <author>Klemenčič Vladimir</author>
-               <title>Odprta meja med Italijo in Jugoslavijo in vloga manjšin</title>
                <title>Odprta meja med Jugoslavijo in Italijo in vloga manjšin</title>
-               <page>115-125</page>
+               <page>928-936</page>
+               <cobiss>42239330</cobiss>
+               <cobiss>4473949</cobiss>
                <citedIn count="2">
                   <cit did="2899"
                        cid="33"
@@ -45174,9 +45140,9 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Rutar Tone</author>
                <title>Kratek pregled delovanja ilegalne organizacije TIGR na Tolminskem 1927-1940</title>
-               <title>Kratek pregled delovanja ilegalne organizacije Tigr na Tolminskem 1927-1940</title>
+               <title>polilegalno protifašistično udejstvovanje</title>
                <page>315-361</page>
-               <page>331</page>
+               <cobiss>12765234</cobiss>
                <citedIn count="2">
                   <cit did="1914"
                        cid="125"
@@ -45310,7 +45276,7 @@ današnja (in jutrišnja) šola?</title>
                <author>Baš Angelos</author>
                <title>Šajkarstvo na Slovenskem</title>
                <title>transportno - prometna dejavnost</title>
-               <page>22</page>
+               <page>21-27</page>
                <cobiss>21585965</cobiss>
                <citedIn count="1">
                   <cit did="974"
@@ -45334,7 +45300,7 @@ današnja (in jutrišnja) šola?</title>
                <author>Baš Angelos</author>
                <title>Splavarstvo na Slovenskem</title>
                <title>transportno - prometna dejavnost</title>
-               <page>23</page>
+               <page>7-31</page>
                <cobiss>22216237</cobiss>
                <citedIn count="1">
                   <cit did="974"
@@ -45371,9 +45337,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Kržišnik Bukić Vera</author>
                <author>Kržišnik Bukič Vera</author>
-               <title>Slovenci v Hrvaški, Bosni in Hercegovini, Srbiji in Črni Gori ter Makedoniji - med preteklostjo in sedanjostjo</title>
                <title>Slovenci v Hrvaški, Bosni in Hercegovini, Srbiji in Črni gori ter Makedoniji med preteklostjo in sedanjostjo</title>
-               <title>Slovenci v Hrvaški, Bosni in Hercegovini, Srbiji in Črni gori ter Makedoniji med preteklostjo in prihodnostjo</title>
                <page>117-135</page>
                <cobiss>21942829</cobiss>
                <citedIn count="3">
@@ -45473,8 +45437,8 @@ današnja (in jutrišnja) šola?</title>
          <issue>
             <pubPart>
                <author>Muršič Rajko</author>
-               <title>"Razkritje krinke": O lokalno-globalnih identifikacijah</title>
-               <title>Razkritje krinke: O lokalno globalnih identifikacijah</title>
+               <title>"Razkritje krinke"</title>
+               <title>O lokalno-globalnih identifikacijah</title>
                <page>223-236</page>
                <cobiss>6595373</cobiss>
                <citedIn count="2">
@@ -46253,7 +46217,7 @@ današnja (in jutrišnja) šola?</title>
                <author>Granda Stane</author>
                <title>Cerkev na Slovenskem v letu 1848</title>
                <title>med revolucijo, liberalnim katolicizmom in strahom pred novo reformacijo</title>
-               <page>70</page>
+               <page>61-71</page>
                <cobiss>128039424</cobiss>
                <citedIn count="1">
                   <cit did="986"
@@ -46655,10 +46619,10 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Mason P.</author>
                <author>Mason P., Vareštvo N., Pinter I.</author>
-               <title>Črnomelj - Arheološko najdišče...</title>
-               <title>Črnomelj - Arheološko najdišče Starihova loza</title>
+               <title>Črnomelj</title>
+               <title>Arheološko najdišče Starihova loza</title>
                <page>29-35</page>
-               <page>18-20</page>
+               <cobiss>512559659</cobiss>
                <citedIn count="2">
                   <cit did="2585"
                        cid="19"
@@ -46761,6 +46725,23 @@ današnja (in jutrišnja) šola?</title>
          <volume>38</volume>
          <issue>
             <pubPart>
+               <author>Bratina Patricija</author>
+               <title>Tabor nad Zagorjem - Šilentabor</title>
+               <title>konservatorsko poročilo</title>
+               <page>130-131</page>
+               <citedIn count="1">
+                  <cit did="375"
+                     cid="112"
+                     avtor0="Bratina Patricija"
+                     naslov0="Tabor nad Zagorjem - Šilentabor"
+                     naslov1="konservatorsko poročilo"
+                     source="Varstvo spomenikov"
+                     year="1999"
+                     volume="XXXVIII"
+                     page="130-131"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
                <author>Lubej Uroš</author>
                <title>Cerkev sv. Petra v Dvoru pri Polhovem Gradcu</title>
                <title>Konservatrsko poročilo</title>
@@ -46830,36 +46811,16 @@ današnja (in jutrišnja) šola?</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1999">
-         <volume>XXXVIII</volume>
-         <issue>
-            <pubPart>
-               <author>Bratina Patricija</author>
-               <title>Tabor nad Zagorjem - Šilentabor</title>
-               <title>konservatorsko poročilo</title>
-               <page>130-131</page>
-               <citedIn count="1">
-                  <cit did="375"
-                       cid="112"
-                       avtor0="Bratina Patricija"
-                       naslov0="Tabor nad Zagorjem - Šilentabor"
-                       naslov1="konservatorsko poročilo"
-                       source="Varstvo spomenikov"
-                       year="1999"
-                       volume="XXXVIII"
-                       page="130-131"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1998">
          <volume>38</volume>
          <issue>
             <pubPart>
                <author>Peskar Robert</author>
                <title>Cerkev sv. Jožefa na Vinjem vrhu pri Beli Cerkvi</title>
-               <title>Stavbna zgodovina in problem prvotne funkcije</title>
-               <page>32 ...</page>
+               <title>stavbna zgodovina in problem prvotne funkcije</title>
+               <addTitle>The church of St Joseph in Vinji vrh pri Beli Cerkvi : its architectural history and original function</addTitle>
+               <page>32-49</page>
+               <cobiss>12236130</cobiss>
                <citedIn count="1">
                   <cit did="1298"
                        cid="98"
@@ -47395,7 +47356,6 @@ današnja (in jutrišnja) šola?</title>
          <issue>
             <pubPart>
                <author>Komelj Ivan</author>
-               <title>Grad kot spomeniškovarstveni problem med obema vojnama</title>
                <title>Grad kot spomeniškovarstveni problem v času med obema vojnama</title>
                <page>19-20</page>
                <citedIn count="4">
@@ -48494,8 +48454,6 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Zorn Tone</author>
                <title>Mednarodni vidiki koroškega vprašanja od druge svetovne vojne do avstrijske državne pogodbe</title>
-               <title>Mednarodni vidiki koroškega vprašanja od druge svetovne vojne od druge državne pogodbe</title>
-               <page>22-23</page>
                <page>21-36</page>
                <cobiss>1063636</cobiss>
                <citedIn count="2">
@@ -48544,7 +48502,6 @@ današnja (in jutrišnja) šola?</title>
          <issue n="2">
             <pubPart>
                <author>Zorn Tone</author>
-               <title>Zveza slovenskih organizacij na Koroškem in Narodni svet koroškig Slovencev</title>
                <title>Zveza slovenskih organizacij na Koroškem in Narodni svet koroških Slovencev</title>
                <citedIn count="2">
                   <cit did="3036"
@@ -48830,7 +48787,7 @@ današnja (in jutrišnja) šola?</title>
             <pubPart>
                <author>Koprivnikar Bogdan</author>
                <title>Priprave za usposabljanje nabornikov v TO</title>
-               <title>Priprave za usposabljanje nabornikov v TO, Priprave na vojno 1991</title>
+               <title> na vojno 1991</title>
                <page>71</page>
                <citedIn count="2">
                   <cit did="1529"
@@ -49553,8 +49510,9 @@ izobrazbi</title>
             <pubPart>
                <author>Pediček Franc</author>
                <title>Poračun</title>
-               <title>intervju - Darko Štrajn</title>
-               <page>48-49</page>
+               <title> intervju s Francem Pedičkom o "minulem delu"</title>
+               <page>46-52</page>
+               <cobiss>55950592</cobiss>
                <citedIn count="1">
                   <cit did="838"
                        cid="3"
@@ -49909,9 +49867,9 @@ izobrazbi</title>
             <pubPart>
                <author>Maček Janko</author>
                <author>Maček Jože</author>
-               <title>Križev pot od Ljubljanske bolnišnice do Brezarjevega brezna</title>
                <title>Križev pot od ljubljanske bolnišnice do Brezarjevega brezna</title>
                <page>48-53</page>
+               <cobiss>97976064</cobiss>
                <citedIn count="2">
                   <cit did="1897"
                        cid="73"
@@ -50295,9 +50253,7 @@ izobrazbi</title>
             <pubPart>
                <author>Vrbnjak Viktor</author>
                <title>Dogodki na Slovenjebistriškem med leti 1848 in 1875</title>
-               <title>Dogodki na Slovenjebistriškem med leti 1848-1875</title>
                <page>541-583</page>
-               <page>570</page>
                <citedIn count="2">
                   <cit did="3277"
                        cid="12"
@@ -50961,9 +50917,7 @@ izobrazbi</title>
             <pubPart>
                <author>Hanželič Rudolf</author>
                <title>O Antonu Korošcu</title>
-               <title>O dr. Antonu Korošcu</title>
                <page>295-302</page>
-               <page>300</page>
                <citedIn count="2">
                   <cit did="2260"
                        cid="7"
@@ -51103,10 +51057,8 @@ izobrazbi</title>
             <pubPart>
                <author>Krošelj Janko</author>
                <author>Krošelj Joško</author>
-               <title>Borba za konkordat in dr. Korošec</title>
                <title>Borba za konkordat in Korošec</title>
                <page>181-201</page>
-               <page>186-187</page>
                <citedIn count="4">
                   <cit did="2769"
                        cid="19"
@@ -51750,12 +51702,10 @@ izobrazbi</title>
                <author>Fagin Davis Lisa</author>
                <author>Davis Fagin</author>
                <author>Fagin David Lisa</author>
-               <title>Wolfgang Engelbert pl. Auersperg, bibliofil 17. stoletja</title>
-               <title>Wolfgang Engelbert pl. Auersperg, bibliofil 17. stoleta</title>
                <title>Wolfgang Engelbert pl. Auersperg</title>
                <title>Bibliofil 17. stoletja</title>
-               <page>193</page>
                <page>193-213</page>
+               <cobiss>13367394</cobiss>
                <citedIn count="4">
                   <cit did="453"
                        cid="40"
@@ -52404,9 +52354,7 @@ izobrazbi</title>
          <issue>
             <pubPart>
                <author>Stele France</author>
-               <title>Izidor Cankar</title>
                <title>Izidor Cankar utemeljitelj ljubljanske umetnostnozgodovinske šole</title>
-               <page>11</page>
                <page>9-30</page>
                <citedIn count="2">
                   <cit did="1580"
@@ -52454,14 +52402,8 @@ izobrazbi</title>
                <author>Lukman Ksaver Franc</author>
                <author>Lukman Ksaver Franz</author>
                <author>Lukmanc Franc</author>
-               <title>Zadnjih dest let dr. Avguština Stegenška</title>
                <title>Zadnjih deset let dr. Avguština Stegenška</title>
-               <page>119-224</page>
                <page>197-224</page>
-               <page>216</page>
-               <page>197</page>
-               <page>218</page>
-               <page>220</page>
                <citedIn count="8">
                   <cit did="1572"
                        cid="7"
@@ -53094,12 +53036,10 @@ izobrazbi</title>
          <issue>
             <pubPart>
                <author>Bufon Zmago</author>
-               <title>Naravoslovje v slovenskem narodnem prebujanju II</title>
-               <title>Začetki slovenskega meščanstva v industrijski družbi</title>
-               <title>Naravoslovje v slovenskem narodnem prebujanju II, Začetki slovenskega meščanstva v industrijski družbi</title>
-               <page>149</page>
+               <title>Naravoslovje v slovenskem narodnem prebujanju</title>
+               <title>2. Začetki slovenskega meščanstva v industrijski družbi</title>
                <page>117-162</page>
-               <cobiss>16028205</cobiss>
+               <cobiss>7620332</cobiss>
                <citedIn count="2">
                   <cit did="25"
                        cid="3"
@@ -53827,7 +53767,6 @@ izobrazbi</title>
          <issue>
             <pubPart>
                <author>Mirković M.</author>
-               <title>"Delmatae Scordis superati"</title>
                <title>Delmatae Scordisci superati</title>
                <page>145-152</page>
                <citedIn count="3">
