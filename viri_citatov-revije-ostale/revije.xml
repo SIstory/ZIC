@@ -12,7 +12,7 @@
          v slovenskih revijah, ki v zgodovinopisju niso pogosto citirani.</docNote>
    </docMetadata>
    <source>
-      <!-- Zbirka ne knjiga, oz včasih članki, večinoma knjige... -->
+      <!-- Zbirka ne revija, oz včasih članki, večinoma knjige... -->
       <pubTitle>Acta ecclesiastica Sloveniae</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za zgodovino Cerkve pri Teološki fakulteti Univerze v Ljubljani</publisher>
@@ -915,8 +915,10 @@
          <issue n="16">
             <pubPart>
                <author>Lavrič Ana</author>
-               <title>The Iconography of Saints in the Baroque Ljubljana. Per imagines ... sanctos, quorum illae similitudinem gerunt, veneremur</title>
+               <title>The Iconography of Saints in the Baroque Ljubljana</title>
+               <title>Per imagines ... sanctos, quorum illae similitudinem gerunt, veneremur</title>
                <page>45-69</page>
+               <cobiss>33515309</cobiss>
                <citedIn count="1">
                   <cit did="3538"
                        cid="11"
@@ -970,8 +972,10 @@
          <issue n="13">
             <pubPart>
                <author>Lavrič Ana</author>
-               <title>"Virtuti et musis". Karlov plemiški kolegij v Ljubljani na Dolničarjevih risanih medaljah</title>
+               <title>"Virtuti et musis"</title>
+               <title>Karlov plemiški kolegij v Ljubljani na Dolničarjevih risanih medaljah</title>
                <page>41-65</page>
+               <cobiss>29010221</cobiss>
                <citedIn count="1">
                   <cit did="2049"
                        cid="14"
@@ -1159,10 +1163,9 @@
             </pubPart>
             <pubPart>
                <author>Resman Blaž</author>
-               <title>Malčki</title>
                <title>Mački</title>
                <page>85-108</page>
-               <page>35-108</page>
+               <cobiss>21569837</cobiss>
                <citedIn count="3">
                   <cit did="2791"
                        cid="33"
@@ -1298,7 +1301,8 @@
             </pubPart>
             <pubPart>
                <author>Resman Blaž</author>
-               <title>Kipa frančiškanskih svetnikov v Šiški - Straubova ali Robbova?</title>
+               <title>Kipa frančiškanskih svetnikov v Šiški</title>
+               <title>Straubova ali Robbova?</title>
                <page>51-72</page>
                <cobiss>9358893</cobiss>
                <citedIn count="1">
@@ -2286,8 +2290,8 @@
             <pubPart>
                <author>Ludvik Čarni</author>
                <author>Čarni Ludvik</author>
-               <title>Prispevek k zgodovini sociološke misli na Slovenskem - Ferdo Kočevar (1838-1878)</title>
-               <title>Prispevek k zgodovini sociološki misli na Slovenskem - Ferdo Kočevar (1838-1878)</title>
+               <title>Prispevek k zgodovini sociološke misli na Slovenskem</title>
+               <title>Ferdo Kočevar (1838-1878)</title>
                <page>266-271</page>
                <cobiss>34061312</cobiss>
                <citedIn count="2">
@@ -2727,7 +2731,7 @@
             <pubPart>
                <author>Guštin Mitja</author>
                <title>Celjske čaše</title>
-               <title>Srednjeveško Celje</title>
+               <addTitle>Die Tonbecher vom Typ Celje</addTitle>
                <page>139-193</page>
                <cobiss>17638754</cobiss>
                <citedIn count="1">
@@ -2744,7 +2748,6 @@
             <pubPart>
                <author>Guštin Mitja, Jezeršek Mirjam, Prošek Nataša</author>
                <title>Katalog keramičnih najdb iz Celja</title>
-               <title>Srednjeveško Celje</title>
                <page>195-238</page>
                <cobiss>17640034</cobiss>
                <citedIn count="1">
@@ -2761,7 +2764,6 @@
             <pubPart>
                <author>Lazar Irena</author>
                <title>Srednjeveško steklo iz Celja</title>
-               <title>Srednjeveško Celje</title>
                <page>69-96</page>
                <cobiss>9935413</cobiss>
                <citedIn count="2">
@@ -3130,9 +3132,9 @@
          <issue>
             <pubPart>
                <author>Grahek L.</author>
-               <title>Halstatska gomila na Hribu v Metliki</title>
                <title>Halštatska gomila na Hribu v Metliki</title>
                <page>111-206</page>
+               <cobiss>22900781</cobiss>
                <citedIn count="3">
                   <cit did="1950"
                        cid="29"
@@ -3283,7 +3285,6 @@
             <pubPart>
                <author>Železnikar J.</author>
                <author>Železnikar Janja</author>
-               <title>Graščina v Polhovem  Gradcu</title>
                <title>Graščina v Polhovem Gradcu</title>
                <page>301-371</page>
                <cobiss>20280365</cobiss>
@@ -3324,10 +3325,10 @@
             <pubPart>
                <author>Božič D.</author>
                <author>Božič Dragan</author>
-               <title>Ljudi ob Krki in Kolpi v latenski dobi</title>
-               <title>Ljudje ob Krki in Kolpi v latenski dobi (Zur latenezeitlichen Bevölkerung an Krka und Kolpa)</title>
                <title>Ljudje ob Krki in Kolpi v latenski dobi</title>
+               <addTitle>Zur latenezeitlichen Bevölkerung an Krka und Kolpa</addTitle>
                <page>181-198</page>
+               <cobiss>18935597</cobiss>
                <citedIn count="3">
                   <cit did="2584"
                        cid="6"
@@ -3484,9 +3485,9 @@
             <pubPart>
                <author>Božič D.</author>
                <author>Božič Dragan</author>
-               <title>Die Erforschung der Latenezeit in Slovvenien seit Jahr 1964</title>
                <title>Die Erforschung der Latenezeit in Slowenien seit Jahr 1964</title>
                <page>189-213</page>
+               <cobiss>13227821</cobiss>
                <citedIn count="2">
                   <cit did="1748"
                        cid="116"
@@ -3508,9 +3509,10 @@
             </pubPart>
             <pubPart>
                <author>Ciglenečki Slavko</author>
-               <title>Izsledki in problemi poznoantične arheologije v Sloveniji</title>
                <title>Results and Problems in the Archeology of the Late Antiquity in Slovenia</title>
+               <addTitle>Izsledki in problemi poznoantične arheologije v Sloveniji</addTitle>
                <page>287-309</page>
+               <cobiss>13236269</cobiss>
                <citedIn count="2">
                   <cit did="2534"
                        cid="6"
@@ -3728,11 +3730,10 @@
             <pubPart>
                <author>Horvat Jana</author>
                <author>Horvat J.</author>
-               <title>Notranjska na začetku rimske dobe: Parti pri Stari Sušici, Ambroževo gradišče in Baba pri Slavini</title>
-               <title>Notranjska na začetku rimske dobe: Parti pri Stari Sušici, Ambroževo gradišče in Babe pri Slavini</title>
-               <title>Notranjska na začetku rimske dobe : Parti pri Stari Sušici</title>
+               <title>Notranjska na začetku rimske dobe</title>
+               <title>Parti pri Stari Sušici, Ambroževo gradišče in Babe pri Slavini</title>
                <page>177-216</page>
-               <page>187-207</page>
+               <cobiss>60185344</cobiss>
                <citedIn count="4">
                   <cit did="101"
                        cid="3"
@@ -3805,9 +3806,8 @@
             <pubPart>
                <author>Ciglenečki Slavko</author>
                <title>Höhenbefestigungen als Siedlungsgrundeinheit der Spätantike in Slowenien</title>
-               <title>Höhenbefestigungen als Siedlungsgrundheit der Spätantike in Slowenien</title>
                <page>239-266</page>
-               <page>239-254</page>
+               <cobiss>2150445</cobiss>
                <citedIn count="3">
                   <cit did="2534"
                        cid="4"
@@ -3838,8 +3838,8 @@
             <pubPart>
                <author>Kirigin B</author>
                <author>Kirigin B.</author>
-               <title>Grčko-italske amfore na Jadranu</title>
-               <title>Grško-italske amfore na Jadranu (Greco-Italic Amphorae in the Adriatic)</title>
+               <title>Grško-italske amfore na Jadranu</title>
+               <addTitle>(Greco-Italic Amphorae in the Adriatic)</addTitle>
                <page>15-24</page>
                <citedIn count="2">
                   <cit did="725"
@@ -3862,8 +3862,8 @@
             </pubPart>
             <pubPart>
                <author>Vičič B.</author>
-               <title>Zgodnjerimsko naselje pod Grajskim gricem v Ljubljani. Gornji trg 30, Stari trg 17 in 32</title>
-               <title>Zgodnjerimsko naselje pod Grajskim gričem v Ljubljani. Gornji trg 30, Stari trg 17 in 32</title>
+               <title>Zgodnjerimsko naselje pod Grajskim gričem v Ljubljani</title>
+               <title>Gornji trg 30, Stari trg 17 in 32</title>
                <page>25-80</page>
                <citedIn count="2">
                   <cit did="1748"
@@ -3940,9 +3940,11 @@
             </pubPart>
             <pubPart>
                <author>Vičič B.</author>
-               <title>Zgodnjerimsko naselje pod Grajskim gricem v Ljubljani, Gornji trg 15 (Frührömische Siedlung unter dem Schloßberg in Ljubljana, Gornji trg 15)</title>
-               <title>Zgodnjerimsko naselje pod Grajskim gričem v Ljubljani. Gornji trg 15</title>
+               <title>Zgodnjerimsko naselje pod Grajskim gričem v Ljubljani</title>
+               <title>Gornji trg 15</title>
+               <addTitle>(Frührömische Siedlung unter dem Schloßberg in Ljubljana, Gornji trg 15)</addTitle>
                <page>153-201</page>
+               <cobiss>1678637</cobiss>
                <citedIn count="2">
                   <cit did="1748"
                        cid="1070"
@@ -4104,9 +4106,9 @@
             </pubPart>
             <pubPart>
                <author>Stokin M.</author>
-               <title>Naselbinski ostanki iz 1. st. pr. n. š. v Fornadah pri Piranu</title>
                <title>Naselbinski ostanki iz 1. st. pr. n. št. v Fornačah pri Piranu</title>
                <page>79-92</page>
+               <cobiss>841261</cobiss>
                <citedIn count="2">
                   <cit did="1946"
                        cid="24"
@@ -4201,6 +4203,7 @@
                <title>Ciriaco d'Ancona v Dubrovniku</title>
                <title>Renesančna epigrafika, arheologija in obujanje antike v humanističnem okolju mestne državice sredi petnajstega stoletja</title>
                <page>663-697</page>
+               <cobiss>24968450</cobiss>
                <citedIn count="1">
                   <cit did="328"
                        cid="34"
@@ -5419,8 +5422,8 @@
                <author>Marušić Branko</author>
                <author>Marušič Branko</author>
                <title>Nekropole VII. i VIII. stoljeća u Istri</title>
-               <title>Nekropole VII. i VIII. stolječa u Istri</title>
                <page>333-347</page>
+               <cobiss>14353453</cobiss>
                <citedIn count="3">
                   <cit did="1998"
                        cid="21"
@@ -6421,10 +6424,9 @@
          <issue n="2">
             <pubPart>
                <author>Gabrič Aleš</author>
-               <title>Izključevanje Teološke fakultete iz Univerze v
-Ljubljani</title>
                <title>Izključevanje Teološke fakultete iz Univerze v Ljubljani</title>
                <page>255-280</page>
+               <cobiss>126556416</cobiss>
                <citedIn count="2">
                   <cit did="97"
                        cid="1"
@@ -7231,13 +7233,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kerec Darja</author>
                <author>Keréc Darja</author>
-               <title>Sobota na prelomu 19. in 20. stoletja</title>
                <title>Sóbota na prelomu 19. in 20. stoletja</title>
                <page>71-171</page>
-               <page>80</page>
-               <page>76</page>
-               <page>617-620</page>
-               <page>114-116</page>
                <cobiss>6324553</cobiss>
                <citedIn count="5">
                   <cit did="3125"
@@ -7307,10 +7304,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Repe Božo</author>
                <title>Poboji, zatiranja, preganjanja, izgoni in druge oblike represije po drugi svetovni vojni ter njihova vloga v nacionalni identiteti in kolektivnem spominu Slovencev</title>
-               <title>Poboji, zatiranja, preganjanja, izgoni in druge oblike represije po drugi svetovni vojni ter njihova vloga v nacionalni identiteti...</title>
-               <title>Poboji, zatiranja, preganjanja, izgoni in druge oblike represije po drugi svetovni vojni...</title>
                <page>11-30</page>
-               <page>598-602</page>
                <cobiss>20356450</cobiss>
                <citedIn count="4">
                   <cit did="3098"
@@ -7417,11 +7411,12 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kranjc Marijan</author>
                <author>Kranjc Stane</author>
-               <title>Slovenska vojaška inteligenca - generali in admirali</title>
-               <title>Skica za antropološko študijo, 1. del</title>
-               <title>Slovenska vojaška inteligenca – generali in admirali</title>
-               <page>304</page>
-               <page>304.</page>
+               <title>Slovenska vojaška inteligenca</title>
+               <title>generali in admirali</title>
+               <title>Skica za antropološko študijo</title>
+               <title>1. del</title>
+               <page>201-326</page>
+               <cobiss>3801118</cobiss>
                <citedIn count="2">
                   <cit did="825"
                        cid="4"
@@ -7450,11 +7445,10 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="561-563">
             <pubPart>
                <author>Repe Božo</author>
-               <title>Francija med drugo svetovno vojno: Vprašanje kolaboracije, odpora in epuracije ter možne primerjave s Slovenijo</title>
                <title>Francija med drugo svetovno vojno</title>
                <title>Vprašanje kolaboracije, odpora in epuracije ter možne primerjave s Slovenijo</title>
-               <page>8</page>
                <page>5-92</page>
+               <cobiss>6280269</cobiss>
                <citedIn count="2">
                   <cit did="1457"
                        cid="26"
@@ -7476,14 +7470,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Režek Mateja</author>
-               <title>Prvi poraz partijskega "liberalizma" : politični padec Milovana Đilasa</title>
-               <title>Prvi poraz partijskega Â»liberalizmaÂ«: politični padec Milovana Djilasa</title>
                <title>Prvi poraz partijskega "liberalizma"</title>
                <title>Politični padec Milovana Djilasa</title>
-               <title>Prvi poraz partijskega "liberalizma" : politični padec Milovana Djilasa</title>
                <page>301-313</page>
-               <page>302-305</page>
-               <page>303</page>
                <cobiss>18329949</cobiss>
                <citedIn count="4">
                   <cit did="73"
@@ -7567,10 +7556,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kacin Dominik</author>
                <author>Kacin D.</author>
-               <title>Dnevnik iz avstrijsko-ruske fronte na Karpatih in spomini iz vojaške bolnišnice v Romuniji iz let 1917-1918</title>
                <title>Dnevnik z avstrijsko-ruske fronte v Karpatih in spomini iz vojaške bolnišnice v Romuniji iz let 1917-1918</title>
-               <page>29-60</page>
                <page>23-60</page>
+               <cobiss>71945728</cobiss>
                <citedIn count="3">
                   <cit did="1745"
                        cid="6"
@@ -7784,13 +7772,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Prinčič Jože</author>
                <title>Načrtna likvidacija zasebne trgovine, 1945-1948</title>
-               <title>Načrtna likvidacija zasebne trgovine</title>
                <title>1945-1948</title>
-               <title>Načrtna likvidacija zasebne trgovine : 1945-1948</title>
-               <title>Načrtna likvidacija zasebne trgovine (1945-1948)</title>
                <page>375-383</page>
-               <page>378, 379</page>
-               <page>375-379</page>
                <cobiss>50915584</cobiss>
                <citedIn count="5">
                   <cit did="773"
@@ -7883,8 +7866,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="535-537">
             <pubPart>
                <author>Repe Božo</author>
-               <title>Vpliv Â»ĐilasovščineÂ« v Reviji 57 in Perspektivah</title>
+               <title>Vpliv "đilasovščine" na Revijo 57 in Perspektive</title>
                <page>928-940</page>
+               <cobiss>15763037</cobiss>
                <citedIn count="1">
                   <cit did="826"
                        cid="106"
@@ -7899,15 +7883,16 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
          </issue>
          <issue n="533-534">
+            <!-- Knjiga -->
             <pubPart>
                <author>Jezernik Božidar</author>
                <author>Jezemik Božidar</author>
-               <title>Non cogito, ergo sum : arheologija neke šole</title>
-               <title>Non cogito, ergo sum - arheologija neke šale</title>
-               <title>Non cogito ergo sum: arheologija neke šale</title>
+               <title>Non cogito, ergo sum</title>
+               <title>arheologija neke šale</title>
                <page>850</page>
                <page>663</page>
                <page>533-534</page>
+               <cobiss>45868288</cobiss>
                <citedIn count="3">
                   <cit did="93"
                        cid="9"
@@ -8010,7 +7995,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Klopčič France</author>
                <title>Slovenski nacionalni program med graditvijo socializma</title>
                <title>Teze o slovenski poti v prihodnost</title>
-               <page>301-318</page>
+               <page>299-380</page>
+               <cobiss>50704128</cobiss>
                <citedIn count="1">
                   <cit did="843"
                        cid="2"
@@ -8026,9 +8012,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Repe Božo</author>
-               <title>Orisi obravnave nacionalne problematike in nacionalnih programov v Sloveniji od konca druge svetovne vojne do začetka osemdesetih let</title>
                <title>Oris obravnave nacionalne problematike in nacionalnih programov v Sloveniji od konca druge svetovne vojne do začetka osemdesetih let</title>
-               <page>294-296,319-380</page>
                <page>286-289</page>
                <cobiss>4621316</cobiss>
                <citedIn count="4">
@@ -8089,12 +8073,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Repe Božo</author>
                <author>Repe, Božo</author>
-               <title>'Liberalizem' v Sloveniji</title>
-               <title>»Liberalizem« v Sloveniji</title>
-               <title>Â»LiberalizemÂ« v Sloveniji</title>
                <title>"Liberalizem" v Sloveniji</title>
                <page>673-949</page>
-               <page>123</page>
                <cobiss>32142848</cobiss>
                <citedIn count="9">
                   <cit did="1516"
@@ -8194,8 +8174,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Repe Božo</author>
                <title>Povojna opozicija (alternativa) v Jugoslaviji in v vzhodnoevropskih državah</title>
-               <title>Povojna opozicija (alternativa) v Jugoslaviji in vzhodnoevropskih državah</title>
-               <page>80-130</page>
+               <page>79-130</page>
+               <cobiss>4624644</cobiss>
                <citedIn count="2">
                   <cit did="1816"
                        cid="7"
@@ -8243,10 +8223,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Slovenska agitpropovska kulturna politika 1945-1952</title>
-               <title>Slovenska agitpropovska kulturna politika : 1945-1952</title>
-               <title>Slovenska agitropovska kulturna politika 1945-1952</title>
+               <title>1945-1952</title>
                <page>469-655</page>
-               <page>469-656</page>
                <cobiss>27393024</cobiss>
                <citedIn count="6">
                   <cit did="1418"
@@ -8316,11 +8294,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Biber Dušan</author>
                <title>Zavezniške in sovjetske misije ter obveščevalne službe v NOB</title>
-               <title>Zavezniške in sovjetske misije ter obveščevalne službe v NOB. Borec</title>
-               <title>Zaveziške in sovjetske misije ter obveščevalne službe v NOB</title>
                <page>77-138</page>
-               <page>99</page>
-               <page>115</page>
                <cobiss>29019650</cobiss>
                <citedIn count="11">
                   <cit did="376"
@@ -8426,11 +8400,10 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Dornik Marija</author>
                <author>Dornik Marija, Jože Lampret</author>
-               <title>Duhovnik in revolucionar, nekaj postaj na življenjski poti Jožeta Lampreta</title>
-               <title>Duhovnik in revolucionar, nekaj postaj na življenski poti Jožeta Lampreta</title>
-               <title>duhovnik in revolucionar</title>
+               <title>Duhovnik in revolucionar</title>
+               <title>nekaj postaj na življenjski poti Jožeta Lampreta</title>
                <page>912-945</page>
-               <page>924-930</page>
+               <cobiss>21180930</cobiss>
                <citedIn count="3">
                   <cit did="1436"
                        cid="2"
@@ -8464,8 +8437,10 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1">
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Nekaj drobtinic o vili v Šubičevi ilici 10 (o njenem nastanku, strukturi in prvih lastnikih)</title>
-               <title>Nekaj drobtinic o vili v Å ubiÄ&#x8d;evi ilici 10 (o njenem nastanku, strukturi in prvih lastnikih)</title>
+               <title>Nekaj drobtinic o vili v Šubičevi ilici 10</title>
+               <title>(o njenem nastanku, strukturi in prvih lastnikih)</title>
+               <page>144-151</page>
+               <cobiss>12328194</cobiss>
                <citedIn count="2">
                   <cit did="550"
                        cid="1"
@@ -8489,14 +8464,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Vidovič  Miklavčič Anka</author>
                <author>Vidovič Miklavčič Anka</author>
                <title>Kmečko stanovsko gibanje v klerikalnem taboru na Slovenskem 1935–1941</title>
-               <title>Kmečko stanovsko gibanje v klerikalnem taboru na Slovenskem 1935-1941</title>
-               <title>Kmečko-stanovsko gibanje v klerikalnem taboru na Slovenskem 1935-1941</title>
-               <page>84</page>
                <page>70-143</page>
-               <page>71-143</page>
-               <page>271</page>
-               <page>143</page>
-               <page>82-129</page>
                <cobiss>12326914</cobiss>
                <citedIn count="8">
                   <cit did="1512"
@@ -8581,12 +8549,8 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="5-6">
             <pubPart>
                <author>Guštin Damijan</author>
-               <title>Gradivo KUZOP kot podlaga za preučevanje problema žrtev med drugo svetovno na slovenskem</title>
                <title>Gradivo KUZOP kot podlaga za proučevanje problema žrtev med drugo svetovno vojno na Slovenskem</title>
-               <title>Gradivo KUZOP kot podlaga za preučevanje problema žrtev med drugo svetovno vojno na Slovenskem</title>
-               <page>601-603</page>
                <page>601-606</page>
-               <page>604</page>
                <cobiss>659572</cobiss>
                <citedIn count="4">
                   <cit did="1200"
@@ -8745,8 +8709,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Kacin - Wohinz Milica</author>
                <title>Tigr, Borba</title>
                <title>prvi oboroženi antifašizem</title>
-               <title>Tigr, Borba : Prvi oboroženi antifašizem</title>
                <page>13-31</page>
+               <cobiss>3709954</cobiss>
                <citedIn count="2">
                   <cit did="800"
                        cid="35"
@@ -8848,12 +8812,14 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
          </issue>
          <issue n="12">
+            <!-- Knjiga ne številka revije -->
             <pubPart>
                <author>Vadnjal Leopold</author>
-               <title>Zapiski vojaka 1914-1921</title>
-               <title>Stanko Janež: Zapiski vojaka 1914-1921</title>
-               <page>1236-1921</page>
-               <page>1235-1407</page>
+               <title>Zapiski vojaka</title>
+               <title>1914-1921</title>
+               <title>Stanko Janež</title>
+               <page>1236-1407</page>
+               <cobiss>15201280</cobiss>
                <citedIn count="4">
                   <cit did="3386"
                        cid="14"
@@ -9023,9 +8989,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Repe Božo</author>
-               <title>Program ZKJ in nacionalno vprašanje v šestdesetih in v začetku sedemdesetih let</title>
                <title>Program ZKJ in nacionalno vprašanje v šestdesetih letih in v začetku sedemdesetih let</title>
                <page>955-964</page>
+               <cobiss>3462914</cobiss>
                <citedIn count="2">
                   <cit did="826"
                        cid="102"
@@ -9226,14 +9192,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Biber Dušan</author>
                <title>Trst, Triest ali Trieste</title>
                <title>Geneza in dileme o tržaški krizi</title>
-               <title>Trst, Triest ali Trieste : geneza in dileme o
-tržaški krizi</title>
-               <title>Trst, Triest ali Trieste, Geneza in dileme o tržaški krizi</title>
-               <title>Trst, Triest ali Trieste. Geneza in dileme o tržaški krizi</title>
-               <title>Trst, Triest ali Trieste: Geneza in dileme o tržaški krizi</title>
-               <title>Trst, Triest ali Trieste: geneza in dileme o tržaški krizi</title>
-               <page>673-680</page>
-               <page>679-680</page>
+              <page>673-680</page>
                <cobiss>1731700</cobiss>
                <citedIn count="7">
                   <cit did="303"
@@ -9355,11 +9314,9 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Pirjevec Jože</author>
-               <title>Od prijateljev do sovražnikov (Odnos britanskega tiska do Jugoslavije leta 1945)</title>
-               <title>Od prijateljev do sovražnikov : odnos britanskega tiska do Jugoslavije leta 1945</title>
+               <title>Od prijateljev do sovražnikov</title>
+               <title>odnos britanskega tiska do Jugoslavije leta 1945</title>
                <page>681-686</page>
-               <page>683</page>
-               <page>684</page>
                <citedIn count="5">
                   <cit did="1511"
                        cid="295"
@@ -9451,9 +9408,7 @@ tržaški krizi</title>
             <pubPart>
                <author>Ferenc Tone</author>
                <title>Sodelovanje med slovenskim in hrvaškim NOB v Istri</title>
-               <title>Sodelovanje med slovenskim in hrvaškimi NOB v Istri</title>
-               <page>13</page>
-               <page>343</page>
+               <page>337-350</page>
                <cobiss>26800994</cobiss>
                <citedIn count="2">
                   <cit did="320"
@@ -10488,10 +10443,9 @@ tržaški krizi</title>
          <issue>
             <pubPart>
                <author>Cvelfar Bojan</author>
-               <title>Z narodnim domom se je celjskemu nemštvu razbila jedna čeljust …. Nacionalni izgredi v Celju na prelomu stoletja</title>
-               <title>»Z narodnim domom se je celjskemu nemštvu razbila jedna čeljust«: nacionalni izgredi v Celju na prelomu stoletja</title>
-               <title>„Z Narodnim domom se je celjskemu nemštvu razbila jedna čeljust...". Nacionalni izgredi v Celju na prelomu stoletja</title>
-               <page>7-8</page>
+               <title>Z narodnim domom se je celjskemu nemštvu razbila jedna čeljust</title>
+               <title>nacionalni izgredi v Celju na prelomu stoletja</title>
+               <page>7-44</page>
                <cobiss>3792181</cobiss>
                <citedIn count="3">
                   <cit did="2770"
@@ -10626,9 +10580,9 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Lazarević Žarko</author>
-               <title>Celje - prvotno središče slovenskega zadružništva</title>
-               <title>Celje - prvotno središče slovenskega zadružništva : od Zveze slovenskih posojilnic do Zadružne zveze v Celju 1883-1905</title>
-               <page>115</page>
+               <title>Celje</title>
+               <title>prvotno središče slovenskega zadružništva</title>
+               <title>od Zveze slovenskih posojilnic do Zadružne zveze v Celju 1883-1905</title>
                <page>109-133</page>
                <cobiss>60644608</cobiss>
                <citedIn count="3">
@@ -10705,7 +10659,6 @@ tržaški krizi</title>
             <pubPart>
                <author>Goropevšek Branko</author>
                <title>Razpad sloge na Slovenskem Štajerskem v letih 1906-1907</title>
-               <title>Razpad sloge na slovenskem Štajerskem v letih 1906-1907</title>
                <page>143-161</page>
                <cobiss>1766709</cobiss>
                <citedIn count="3">
@@ -10824,9 +10777,8 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Žižek Aleksander</author>
-               <title>Podoba Celjskih grofov v literaturi in dramatiki....</title>
-               <title>Podoba celjskih grofov v literaturi in dramatiki. Nekaj primerov iz obdobja med 1689 in 1974</title>
-               <title>Podoba celjskih grofov v literaturi in dramatiki: nekaj primerov iz obdobja med 1689 in 1974</title>
+               <title>Podoba Celjskih grofov v literaturi in dramatiki</title>
+               <title>Nekaj primerov iz obdobja med 1689 in 1974</title>
                <page>17-43</page>
                <cobiss>710453</cobiss>
                <citedIn count="3">
@@ -10876,9 +10828,9 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Himmelreich Bojan</author>
-               <title>Seznam leta 1941 usmrčenih bolnikov bolnice Novo Celje</title>
                <title>Seznam leta 1941 usmrčenih bolnikov umobolnice Novo Celje</title>
                <page>255-264</page>
+               <cobiss>314165</cobiss>
                <citedIn count="3">
                   <cit did="88"
                        cid="3"
@@ -10936,10 +10888,7 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Studen Andrej</author>
-               <title>Beseda dve o Nemški hiši v Celju</title>
-               <title>Beseda, dve o Nemški hiši</title>
                <title>Beseda, dve o Nemški hiši v Celju</title>
-               <page>40-47</page>
                <page>39-52</page>
                <cobiss>310325</cobiss>
                <citedIn count="5">
@@ -10992,11 +10941,9 @@ tržaški krizi</title>
          <issue>
             <pubPart>
                <author>Cvirn Janez</author>
-               <title>Thomas Fiirstbauer: Kronika mesta Celja 1892-1907 (1. del)</title>
-               <title>Thomas Fürstbauer: kronika mesta Celja 1892-1907</title>
-               <title>Thomas Fürstbauer: Kronika mesta Celja
-1892-1907 : I. del</title>
-               <page>227-258</page>
+               <title>Thomas Fürstbauer</title>
+               <title>Kronika mesta Celja 1892-1907</title>
+               <title>I. del</title>
                <page>227-260</page>
                <cobiss>20504066</cobiss>
                <citedIn count="3">
@@ -11169,8 +11116,7 @@ tržaški krizi</title>
             <pubPart>
                <author>Šlibar Vladimir</author>
                <title>Članki Alme Karlin v Cillier Zeitung 1920-1928</title>
-               <title>Članki Alme M. Karlin v Cillier Zeitung 1920-1928</title>
-               <page>191-198</page>
+              <page>191-198</page>
                <cobiss>8253184</cobiss>
                <citedIn count="2">
                   <cit did="1246"
@@ -11287,9 +11233,9 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Mikola Milko</author>
-               <title>Upravnopolitični razvoj celjske občine 1954 - 1963</title>
                <title>Upravnopolitični razvoj celjske občine 1954-1963</title>
-               <page>148-149</page>
+               <page>147-158</page>
+               <cobiss>330293</cobiss>
                <citedIn count="2">
                   <cit did="91"
                        cid="7"
@@ -11584,10 +11530,8 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Voje Ignacij</author>
-               <title>Katarina Celjska - Kotromanicka in njen pečat</title>
-               <title>Katarina Celjska - Kotromanička in njen pečat</title>
-               <title>Katarina Celjska- Kontromanićka in njen pečat</title>
-               <title>Katarina Celjska-Kotromanička in njen pečat</title>
+               <title>Katarina Celjska</title>
+               <title>Kotromanićka in njen pečat</title>
                <page>287-292</page>
                <cobiss>365877</cobiss>
                <citedIn count="4">
@@ -11880,8 +11824,7 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Terčak Stane</author>
-               <title>Revsova gestapovska skupina v Zgornji Savinjdki dolini</title>
-               <title>Revsova gestapovska skupina v zgornji Savinjski dolini</title>
+               <title>Revsova gestapovska skupina v Zgornji Savinjski dolini</title>
                <page>133-143</page>
                <citedIn count="2">
                   <cit did="1189"
@@ -12179,10 +12122,8 @@ tržaški krizi</title>
             <pubPart>
                <author>Baš Franjo</author>
                <title>Celjski grofi in njihova doba</title>
-               <title>Celjski grofje in njihova doba</title>
-               <page>7-20</page>
                <page>7-22</page>
-               <page>13</page>
+               <cobiss>1844533</cobiss>
                <citedIn count="4">
                   <cit did="2640"
                        cid="2"
@@ -12288,10 +12229,9 @@ tržaški krizi</title>
          <issue n="47">
             <pubPart>
                <author>Klemenčič Matjaž</author>
-               <title>Prihod slovenskih beguncev v ZDA</title>
                <title>Prihod slovenskih beguncev v ZDA po drugi svetovni vojni</title>
                <page>71-85</page>
-               <page>82</page>
+               <cobiss>7597060</cobiss>
                <citedIn count="3">
                   <cit did="73"
                        cid="111"
@@ -12899,6 +12839,7 @@ tržaški krizi</title>
                <title>Povojni trendi hiperreligioznosti in religijsko-nacionalnega ekskluzivizma v BiH</title>
                <title>študija primera Doboj in Makljenovac I, R. Srbska in Matuzići, Makljenovac II in Ularice, Federacija BiH</title>
                <page>243-265</page>
+               <cobiss>4230473</cobiss>
                <citedIn count="1">
                   <cit did="2861"
                        cid="25"
@@ -12916,9 +12857,10 @@ tržaški krizi</title>
          <issue n="204-206">
             <pubPart>
                <author>Brumen Borut</author>
-               <title>Pozabljeni od boga in prekleti od zgodovine: Tuaregi in njihovboj za prezivetje</title>
-               <title>Pozabljeni od boga in prekleti od zgodovine: Tuaregi in njihov boj za preživetje</title>
+               <title>Pozabljeni od boga in prekleti od zgodovine</title>
+               <title>Tuaregi in njihov boj za preživetje</title>
                <page>141-168</page>
+               <cobiss>17295202</cobiss>
                <citedIn count="2">
                   <cit did="2853"
                        cid="29"
@@ -12948,9 +12890,10 @@ tržaški krizi</title>
             <pubPart>
                <author>Šumi Irena</author>
                <author>Šumi I.</author>
-               <title>Slovensko narod(nost)no vprašanje: akademska tradicija ali ideologija?</title>
-               <title>Slovensko narod(nost)no vprašanje : akademska tradicija ali ideologija?</title>
+               <title>Slovensko narod(nost)no vprašanje</title>
+               <title>akademska tradicija ali ideologija?</title>
                <page>257-271</page>
+               <cobiss>7461965</cobiss>
                <citedIn count="3">
                   <cit did="2898"
                        cid="23"
@@ -13071,8 +13014,8 @@ tržaški krizi</title>
             </pubPart>
             <pubPart>
                <author>Luthar Breda</author>
-               <title>Ne tako visoka kultura - prepovedani užitki nakupovanja</title>
-               <title>Ne tako visoka kultura-prepovedani užitki nakupovanja</title>
+               <title>Ne tako visoka kultura</title>
+               <title>prepovedani užitki nakupovanja</title>
                <page>117-130</page>
                <cobiss>18670173</cobiss>
                <citedIn count="2">
@@ -13412,8 +13355,8 @@ tržaški krizi</title>
                <author>Rotar Drago Braco</author>
                <author>Rotar Braco</author>
                <title>Kje je Mediteran?</title>
-               <title>1993. Kje je Mediteran?</title>
                <page>15-24</page>
+               <cobiss>63793152</cobiss>
                <citedIn count="2">
                   <cit did="732"
                        cid="18"
@@ -13781,6 +13724,7 @@ tržaški krizi</title>
                <title>Feminizem inc.</title>
                <title>Branje "postfeminizma" v času antifeminizma</title>
                <page>9-33</page>
+               <cobiss>22881885</cobiss>
                <citedIn count="1">
                   <cit did="226"
                        cid="102"
@@ -13995,6 +13939,7 @@ tipi</title>
                <title>Rousseau in Wollstonecraft</title>
                <title>Drugič</title>
                <page>69-89</page>
+               <cobiss>582541</cobiss>
                <citedIn count="1">
                   <cit did="226"
                        cid="19"
@@ -14086,6 +14031,7 @@ tipi</title>
                <title>Žensko poglavje</title>
                <title>Zakaj je prav in naravno, da je žena podrejena možu?</title>
                <page>109-111</page>
+               <cobiss>114402048</cobiss>
                <citedIn count="1">
                   <cit did="226"
                        cid="125"
@@ -14109,7 +14055,8 @@ tipi</title>
                <author>Gouges O. de</author>
                <title>Pravice žensk</title>
                <title>Kraljici</title>
-               <page>67</page>
+               <page>65-74</page>
+               <cobiss>113849344</cobiss>
                <citedIn count="1">
                   <cit did="226"
                        cid="77"
@@ -15028,9 +14975,10 @@ tipi</title>
             </pubPart>
             <pubPart>
                <author>Švab A.</author>
-               <title>Med tradicionalno in permisivno seksualno kulturo: percepcije seksualnosti in prisotnost seksualnih imperativov pri študentkah</title>
-               <title>Med tradicionalno in permisivno seksualno kulturo: percepcije seksualnosti in prisotnost seksualnih imperativov pri Študentkah</title>
+               <title>Med tradicionalno in permisivno seksualno kulturo</title>
+               <title>percepcije seksualnosti in prisotnost seksualnih imperativov pri študentkah</title>
                <page>65-83</page>
+               <cobiss>30031453</cobiss>
                <citedIn count="2">
                   <cit did="3040"
                        cid="25"
@@ -15882,9 +15830,9 @@ tipi</title>
             </pubPart>
             <pubPart>
                <author>Vovko Andrej</author>
-               <title>Nekateri vidiki življenja primorskih priseljencev v Prekmurje med obema vojnama</title>
-               <title>Nekateri vidiki življenja primorskih priseljencev v Prekmurju med svetovnima vojnama</title>
+               <title>Nekateri vidiki življenja primorskih priseljencev v Prekmurje med svetovnima vojnama</title>
                <page>187-203</page>
+               <cobiss>25870125</cobiss>
                <citedIn count="3">
                   <cit did="2553"
                        cid="10"
@@ -15923,9 +15871,7 @@ tipi</title>
                <author>Drnovšek Marjan</author>
                <author>Drnovšek M.</author>
                <title>Izseljevanje Kočevarjev v Združene države Amerike</title>
-               <title>Izseljevanje Kočevarjev v Združene drzave Amerike</title>
                <page>7-34</page>
-               <cobiss>24242477</cobiss>
                <cobiss>23836461</cobiss>
                <citedIn count="7">
                   <cit did="3485"
@@ -16161,8 +16107,8 @@ tipi</title>
          <issue n="18">
             <pubPart>
                <author>Batič Ksenija</author>
-               <title>Domovina je tu in domovina je tarn: Raziskava med primorskimi izseljenci o njihovi vrnitvi v Slovenijo</title>
-               <title>»Domovina je tu in domovina je tam«. Raziskava med primorskimi Slovenci o njihovi vrnitvi v Slovenijo</title>
+               <title>Domovina je tu in domovina je tam</title>
+               <title>Raziskava med primorskimi Slovenci o njihovi vrnitvi v Slovenijo</title>
                <page>181-202</page>
                <cobiss>21724717</cobiss>
                <citedIn count="2">
@@ -16655,10 +16601,10 @@ tipi</title>
                <author>Stanonik janez</author>
                <author>Stanonik Janez</author>
                <author>Baraga Friderik</author>
-               <title>Friderik Baraga: ob dvestoletnici rojstva</title>
+               <title>Friderik Baraga</title>
                <title>Ob dvestoletnici rojstva</title>
                <page>15-32</page>
-               <page>15-31</page>
+               <cobiss>4519725</cobiss>
                <citedIn count="2">
                   <cit did="2837"
                        cid="51"
@@ -16690,9 +16636,8 @@ tipi</title>
             <pubPart>
                <author>Švent Rozina</author>
                <title>Begunski usodi naproti</title>
-               <title>Begunski usodi nasproti</title>
                <page>43-51</page>
-               <page>43-49</page>
+               <cobiss>70508800</cobiss>
                <citedIn count="3">
                   <cit did="2853"
                        cid="212"
@@ -16728,8 +16673,8 @@ tipi</title>
          <issue n="5">
             <pubPart>
                <author>Friš Darko</author>
-               <title>Jugoslovanska katoliška jednota (1898-1920)</title>
-               <title>Jugoslovanska katoliška jednota 1898–1920</title>
+               <title>Jugoslovanska katoliška jednota</title>
+               <title>1898–1920</title>
                <page>41-52</page>
                <cobiss>7176196</cobiss>
                <citedIn count="2">
@@ -16755,10 +16700,9 @@ tipi</title>
             </pubPart>
             <pubPart>
                <author>Mislej Irene</author>
-               <title>Primorski odbor - politično delovanje Primorskih Slovencev med drugo svetovno vojno v Argentini</title>
-               <title>Primorski odbor : politično delovanje primorskih Slovencev med drugo svetovno vojno v Argentini</title>
+               <title>Primorski odbor</title>
+               <title>politično delovanje primorskih Slovencev med drugo svetovno vojno v Argentini</title>
                <page>85-113</page>
-               <page>86</page>
                <cobiss>70500608</cobiss>
                <citedIn count="3">
                   <cit did="2853"
@@ -16792,8 +16736,8 @@ tipi</title>
             <pubPart>
                <author>Novak Bogdan C.</author>
                <author>Novak Bogdan</author>
-               <title>Adamic and Yugoslavia during World War II : the Slovene Catholic response</title>
-               <title>Adamic and Yugoslavia during World War II: the Slovene catholic response</title>
+               <title>Adamic and Yugoslavia during World War II</title>
+               <title>the Slovene catholic response</title>
                <page>63-83</page>
                <cobiss>70499584</cobiss>
                <citedIn count="2">
@@ -17204,9 +17148,10 @@ tipi</title>
             <pubPart>
                <author>Vranješ M.</author>
                <author>Vranješ Matej</author>
-               <title>Zelena puščava: kulturna krajina iz "domačinskega zornega kota"</title>
-               <title>Zelena puščava: kulturna krajina iz »domačinskega« zornega kota</title>
+               <title>Zelena puščava</title>
+               <title>kulturna krajina iz "domačinskega zornega kota"</title>
                <page>281-301</page>
+               <cobiss>734086</cobiss>
                <citedIn count="2">
                   <cit did="1994"
                        cid="66"
@@ -17274,8 +17219,8 @@ tipi</title>
             </pubPart>
             <pubPart>
                <author>Knific Bojan</author>
-               <title>Vprašanje narodne noše na Slovenskem : njen razvoj od srede 19. stoletja do 2. svetovne vojne</title>
                <title>Vprašanje narodne noše na Slovenskem</title>
+               <title>njen razvoj od srede 19. stoletja do 2. svetovne vojne</title>
                <page>435-468</page>
                <cobiss>563590</cobiss>
                <citedIn count="2">
@@ -17333,6 +17278,7 @@ tipi</title>
                <title>Slovenski likovni ustvarjalci v Avstraliji</title>
                <title>Vpliv izseljenske izkušnje na likovno umetnost</title>
                <page>469-484</page>
+               <cobiss>563846</cobiss>
                <citedIn count="1">
                   <cit did="599"
                        cid="13"
@@ -17479,9 +17425,10 @@ tipi</title>
          <issue n="7">
             <pubPart>
                <author>Kappus Elke-Nicole</author>
-               <title>Prihodnost za Trst ali o rekontekstualizaciji zgodovine</title>
-               <title>Eine Zukunft für Triest - oder - über eine Rekontextualisierung der Geschichte</title>
+               <title>Eine Zukunft für Triest oder über eine Rekontextualisierung der Geschichte</title>
+               <addTitle>Prihodnost za Trst ali o rekontekstualizaciji zgodovine</addTitle>
                <page>149-182</page>
+               <cobiss>102790</cobiss>
                <citedIn count="1">
                   <cit did="420"
                        cid="31"
@@ -17703,9 +17650,8 @@ tipi</title>
          <issue>
             <pubPart>
                <author>Kundegraber Maria</author>
-               <title>Die deutsche Sprachinsel Gottschee im 19. Jahrhundert / Kočevje - nemški jezikovni otok v 19. stoletju</title>
-               <title>Die deutsche Sprachinsel Gottschee im 19. Jahrhundert / Kočevje — nemški jezikovni otok v 19. stoletju</title>
-               <title>Die deutsche Sprachinsel Gottschee im 19. Jahrhundert: Kočevje - nemški jezikovni otok v 19. stoletju</title>
+               <title>Die deutsche Sprachinsel Gottschee im 19. Jahrhundert</title>
+               <addTitle>Kočevje - nemški jezikovni otok v 19. stoletju</addTitle>
                <page>82-120</page>
                <citedIn count="3">
                   <cit did="844"
@@ -17808,9 +17754,6 @@ tipi</title>
             <pubPart>
                <author>Kos Milko</author>
                <title>Iz metliškega mestnega arhiva</title>
-               <title>lz metliskega mestnega arhiva</title>
-               <page>35-37</page>
-               <page>25-49</page>
                <page>25-29</page>
                <cobiss>239363072</cobiss>
                <citedIn count="5">
@@ -17888,9 +17831,10 @@ tipi</title>
             <pubPart>
                <author>Županič N.</author>
                <author>Župančič Niko</author>
-               <title>O rasni estetiki ljudstva pri Jugoslovenih</title>
                <title>O rasni estetiki ljudstva pri Jugoslovanih</title>
-               <page>62</page>
+               <addTitle>Zur rassen-ästhetik der jugoslavischen landbevölkerung</addTitle>
+               <page>62-81</page>
+               <cobiss>239225856</cobiss>
                <citedIn count="2">
                   <cit did="2838"
                        cid="16"
@@ -17955,9 +17899,10 @@ tipi</title>
             <pubPart>
                <author>Stele France</author>
                <author>Stelè France</author>
-               <title>Umetnost Dolenjske : Kulturno geografski poskus k problemu slovenske umetnostne zgodovine</title>
-               <title>Umetnost Dolenjske; Kulturno geografski poskus k problemu slovenske umetnostne zgodovine</title>
+               <title>Umetnost Dolenjske</title>
+               <title>Kulturno geografski poskus k problemu slovenske umetnostne zgodovine</title>
                <page>177-200</page>
+               <cobiss>239250176</cobiss>
                <citedIn count="3">
                   <cit did="844"
                        cid="159"
@@ -18018,8 +17963,8 @@ tipi</title>
                <author>Luthar O., Luthar B.</author>
                <author>Luthar Oto</author>
                <author>Luthar Breda</author>
-               <title>Trio za orkester, resničnost, pripoved in pomen</title>
-               <title>Trio za orkester. Resničnost, pripoved in pomen</title>
+               <title>Trio za orkester</title>
+               <title>Resničnost, pripoved in pomen</title>
                <page>103-119</page>
                <cobiss>26810413</cobiss>
                <citedIn count="3">
@@ -18130,13 +18075,14 @@ tipi</title>
          <volume>25</volume>
          <volume>25/3</volume>
          <issue n="2">
+            <pubTitle>Copernicus and the philosophy of Copernican revolutions</pubTitle>
             <pubPart>
                <author>Barker Peter</author>
                <author>Barker Peter, Tredwell Katherene A.</author>
-               <title>Copernicus First Friends: Physical Copernicanism From 1543 to 1610</title>
-               <title>Copernicus ' First Friends: Physical Copernicanism From 1543 to 1610</title>
+               <title>Copernicus' First Friends</title>
+               <title>Physical Copernicanism From 1543 to 1610</title>
                <page>143-166</page>
-               <page>143</page>
+               <cobiss>23022893</cobiss>
                <citedIn count="2">
                   <cit did="453"
                        cid="29"
@@ -18161,9 +18107,10 @@ tipi</title>
             <pubPart>
                <author>Fernand Hallyn</author>
                <author>Halynn Fernand, Gemma Frisius</author>
-               <title>Gemma Frisius : A Convinced Copernican in 1555</title>
+               <title>Gemma Frisius</title>
                <title>A Convinced Copernican in 1555</title>
                <page>69-83</page>
+               <cobiss>23021869</cobiss>
                <citedIn count="2">
                   <cit did="453"
                        cid="5"
@@ -18280,10 +18227,10 @@ tipi</title>
             <pubPart>
                <author>Welsch W.</author>
                <author>Welsch Wolfgang</author>
-               <title>Transculturality : The Changing Form of Cultures Today</title>
-               <title>Transculturality: The Changing Form of Cultures Today</title>
-               <title>Transculturality: The changing form of cultures today</title>
+               <title>Transculturality</title>
+               <title>The Changing Form of Cultures Today</title>
                <page>59-86</page>
+               <cobiss>18320941</cobiss>
                <citedIn count="3">
                   <cit did="677"
                        cid="19"
@@ -18387,11 +18334,12 @@ tipi</title>
       <year n="1999">
          <volume>32</volume>
          <issue n="32">
+            <!-- kot knjiga ISBN 961-90443-4-7 -->
             <pubPart>
                <author>Zupanič Jernej</author>
                <author>Zupančič Jernej</author>
                <title>Slovenci v Avstriji</title>
-               <title>Slovenci v Avstriji = The Slovenes in Austria</title>
+               <addTitle>The Slovenes in Austria</addTitle>
                <page>246</page>
                <cobiss>105255936</cobiss>
                <citedIn count="11">
@@ -18501,13 +18449,12 @@ tipi</title>
       <year n="1993">
          <volume>24</volume>
          <issue n="24">
+            <pubTitle>Geografija in narodnosti</pubTitle>
             <pubPart>
                <author>Gosar A.</author>
                <author>Gosar Anton</author>
-               <title>Narodnosti Slovenije - spreminjanje etnične podobe v srednji Evropi</title>
-               <title>Narodnosti Slovenije – spreminjanje etnične podobe v Srednji Evropi</title>
-               <title>Narodnosti Slovenije – spreminjanje etnične podobe v srednji Evropi</title>
-               <page>33-50</page>
+               <title>Narodnosti Slovenije</title>
+               <title>spreminjanje etnične podobe v Srednji Evropi</title>
                <page>33–50</page>
                <cobiss>42093824</cobiss>
                <citedIn count="4">
@@ -18590,8 +18537,10 @@ tipi</title>
             </pubPart>
             <pubPart>
                <author>Kocsis Károly</author>
-               <title>Changes in the ethnic structure of the Carpato-Balkan regions</title>
+               <title>Changes in the ethnic structure of the Carpatho-Balkan regions</title>
                <title>A geographical approach</title>
+               <page>403-421</page>
+               <cobiss>34018048</cobiss>
                <citedIn count="1">
                   <cit did="3026"
                        cid="14"
@@ -18664,7 +18613,6 @@ pomen za sedanjo rabo tal</title>
          <issue n="8">
             <pubPart>
                <author>Klemenčič Vladimir</author>
-               <title>Grenzregion und nationale Minderheiten</title>
                <title>Grenzregionen und nationale Minderheiten</title>
                <page>7-20</page>
                <citedIn count="2">
@@ -18855,10 +18803,9 @@ pomen za sedanjo rabo tal</title>
          <issue n="2">
             <pubPart>
                <author>Petek Franci, Fridl Jerneja</author>
-               <title>Pretvarjanje listov zemljiško-katastrskega načrta v Gauss-Krugerjev koordinatni sistem</title>
                <title>Pretvarjanje listov zemljiško-katastrskega načrta v Gauss-Krügerjev koordinatni sistem</title>
+               <addTitle>The transformation of the sheets of the Franziscean cadastral map into the Gauss-Krüger coordinate system</addTitle>
                <page>75-87</page>
-               <page>75-84</page>
                <cobiss>23274797</cobiss>
                <citedIn count="2">
                   <cit did="2056"
@@ -18982,10 +18929,8 @@ pomen za sedanjo rabo tal</title>
             <pubPart>
                <author>Bufon M.</author>
                <author>Bufon Milan</author>
-               <title>Problematika tentorialnosti v politični in kulturni geografiji</title>
                <title>Problematika teritorialnosti v politični in kulturni geografiji</title>
                <page>91-103</page>
-               <page>91</page>
                <cobiss>13480493</cobiss>
                <citedIn count="5">
                   <cit did="1922"
@@ -19055,10 +19000,9 @@ pomen za sedanjo rabo tal</title>
          <issue>
             <pubPart>
                <author>Bufon Milan</author>
-               <title>Države, narodi, manjšine: politično-geografski oris</title>
-               <title>Države, narodi, manjšine: političnogeografski oris</title>
+               <title>Države, narodi, manjšine</title>
+               <title>političnogeografski oris</title>
                <page>93-114</page>
-               <page>114</page>
                <cobiss>6238797</cobiss>
                <citedIn count="2">
                   <cit did="673"
@@ -19085,7 +19029,6 @@ pomen za sedanjo rabo tal</title>
                <author>Zupančič Jernej</author>
                <title>Slovenci v Avstriji</title>
                <title>Število, način poselitve, struktura, identiteta</title>
-               <title>Slovenci v Avstriji: število, način poselitve, struktura, identiteta</title>
                <page>115-138</page>
                <citedIn count="3">
                   <cit did="209"
@@ -19143,9 +19086,9 @@ pomen za sedanjo rabo tal</title>
             <pubPart>
                <author>Stranj Pavel</author>
                <title>Razvoj družbene strukture na etnični meji dveh manjšin</title>
-               <title>Razvoj družbene strukture na etnični meji dveh manjšin: primer Slovencev in Furlanov v deželi Furlaniji - Julijski krajini</title>
-               <page>73-91</page>
+               <title>primer Slovencev in Furlanov v deželi Furlaniji - Julijski krajini</title>
                <page>73-93</page>
+               <cobiss>35004416</cobiss>
                <citedIn count="2">
                   <cit did="2793"
                        cid="48"
@@ -19276,10 +19219,9 @@ pomen za sedanjo rabo tal</title>
          <issue>
             <pubPart>
                <author>Moritsch Andreas</author>
-               <title>Socialnogeografski razvoj katastrske občine Šentpavel na Zilji</title>
-               <title>Socialnogeografski razvoj katastrske občine Šentpavel na Zilji od leta 1836 do danes</title>
-               <title>Socialnogeografski razvoj katastrske občine Šentpavel na Zli od leta 1836 do danes</title>
+               <title>Socialnogeografski razvoj katastrske občine Šentpavel na Zilji (St. Paul im Gailtal) od leta 1836 do danes</title>
                <page>79-95</page>
+               <cobiss>15077933</cobiss>
                <citedIn count="3">
                   <cit did="434"
                        cid="7"
@@ -19570,8 +19512,6 @@ pomen za sedanjo rabo tal</title>
                <author>Savnik R.</author>
                <author>Savnik Roman</author>
                <title>Solarstvo šavrinskega Primorja</title>
-               <title>Solarstvo šavrinskega primorja</title>
-               <title>Solarstvo Šavrinskega primorja</title>
                <page>137-155</page>
                <citedIn count="3">
                   <cit did="2614"
@@ -19807,8 +19747,6 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Maučec Matija</author>
                <title>Prenaseljenost in sezonsko izseljevanje v Prekmurju</title>
-               <title>Prenaseljenost in sezonsko izseljevanje iz Prekmurja</title>
-               <page>113</page>
                <page>107-117</page>
                <citedIn count="2">
                   <cit did="3395"
@@ -19920,10 +19858,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Zwitter Fran</author>
-               <title>Razvoj ljubljanskega mestnega teritorija</title>
                <title>Razvoj ljubljanskega teritorija</title>
                <page>138-154</page>
-               <page>147</page>
                <citedIn count="2">
                   <cit did="218"
                        cid="18"
@@ -20131,7 +20067,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Žiberna Igor</author>
                <title>Vpliv klime na lego in razširjenost vinogradov na primeru Srednjih Slovenskih goric</title>
-               <title>Geografski zbornik</title>
+               <page>51-139</page>
+               <cobiss>781101</cobiss>
                <citedIn count="1">
                   <cit did="300"
                        cid="10"
@@ -20240,10 +20177,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <author>Habič P.</author>
                <author>Habič Peter</author>
                <title>Vrhnika</title>
-               <title>Geografska monagrafija manjšega mesta</title>
-               <title>Vrhnika: Geografska monografija manjšega mesta</title>
-               <page>20-21</page>
+               <title>Geografska monografija manjšega mesta</title>
                <page>5-67</page>
+               <cobiss>14218797</cobiss>
                <citedIn count="2">
                   <cit did="254"
                        cid="6"
@@ -20377,8 +20313,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="1-2">
             <pubPart>
                <author>Voje Ignacij</author>
-               <title>Bitka pri Nikopolju pred 600 leti - prelomnica za Celjske grofe</title>
-               <title>Bitka pri Nikopolju pred 600 leti prelomnica za Celjske grofe</title>
+               <title>Bitka pri Nikopolju pred 600 leti</title>
+               <title>prelomnica za Celjske grofe</title>
                <page>26-32</page>
                <cobiss>3151714</cobiss>
                <citedIn count="3">
@@ -20464,11 +20400,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Perovšek Jurij</author>
-               <title>Lončarjevi narodni in idejno-politični pogledi v času med svetovnima vojnama</title>
                <title>Lončarjevi narodni in idejnopolitični pogledi v času med svetovnima vojnama</title>
                <page>42-54</page>
-               <page>53</page>
-               <page>48-53</page>
                <cobiss>1192525</cobiss>
                <citedIn count="8">
                   <cit did="2618"
@@ -20594,10 +20527,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="1-2">
             <pubPart>
                <author>Grafenauer Bogo</author>
-               <title>Jugoslovanske medrepubliške in zunanje meje: "administrativne" ali zgodovinsko zrasle?</title>
-               <title>Jugoslovanske medrepubliške in zunanje meje: »administrativne« ali zgodovinsko zrasle?</title>
+               <title>Jugoslovanske medrepubliške in zunanje meje</title>
+               <title>»administrativne« ali zgodovinsko zrasle?</title>
                <page>4-10</page>
-               <page>5</page>
                <cobiss>47786240</cobiss>
                <citedIn count="3">
                   <cit did="3072"
@@ -20855,9 +20787,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Muršič Rajko</author>
-               <title>Kultura v primežu globalizacijskih procesov in vseprisotne popularne kulture: Izločitev pojma iz strokovnega besednjaka?</title>
-               <title>Kultura v primežu globalizacijskih procesov in vseprisotne popularne kulture: izločitev pojma iz strokovnega besednjaka</title>
+               <title>Kultura v primežu globalizacijskih procesov in vseprisotne popularne kulture</title>
+               <title>izločitev pojma iz strokovnega besednjaka?</title>
                <page>4-10</page>
+               <cobiss>19852845</cobiss>
                <citedIn count="2">
                   <cit did="2853"
                        cid="157"
@@ -21344,6 +21277,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <title>Dva načina pisanja goriške zgodovine v 17. stoletju</title>
                <title>Gian Giacomo D'Ischia in pater Martin Bavčer</title>
                <page>243-253</page>
+               <cobiss>116738816</cobiss>
                <citedIn count="1">
                   <cit did="1423"
                        cid="1"
@@ -21380,7 +21314,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <author>Krečič Peter</author>
                <title>Dr. Alojzij Res</title>
                <title>Likovni kritik</title>
-               <page>46</page>
+               <page>39-46</page>
                <cobiss>62727680</cobiss>
                <citedIn count="1">
                   <cit did="50"
@@ -21584,7 +21518,6 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Sedmak Drago</author>
                <title>Telovadno društvo "Sokol" v Ajdovščini</title>
-               <title>Telovadno društvo 'Sokol' v Ajdovščini</title>
                <page>75-98</page>
                <cobiss>10977842</cobiss>
                <citedIn count="2">
@@ -21613,9 +21546,9 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Kacin Wohinz Milica</author>
-               <title>Iz arhiva KPI o akcijskem paktu med KPI in narodnorevolucionarnim gibanjem Slovencev in Hrvatov Julijske krajine, december 1935-marec 1936</title>
-               <title>Iz arhiva Komunistične partije Italije o Akcijskem paktu med KPI in Narodno-revolucionarnim gibanjem Slovencev in Hrvatov Julijske krajine, december 1935 - marec 1936</title>
+               <title>Iz arhiva Komunistične partije Italije o akcijskem paktu med KPI in narodno-revolucionarnim gibanjem Slovencev in Hrvatov Julijske Krajine december 1935 - 1936</title>
                <page>109-122</page>
+               <cobiss>16313650</cobiss>
                <citedIn count="2">
                   <cit did="800"
                        cid="28"
@@ -21778,10 +21711,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Marušič Branko</author>
                <title>O razmerju med slovenskim in italijanskim političnim gibanjem na goriškem in v Trstu v letih 1848-1849</title>
-               <title>O razmerju med slovenskim in italijanskim političnim gibanjem na Goriškem in v Trstu v letih 1848 - 1849</title>
-               <title>O razmerju med slovenskim in italijanskim političnim gibanjem na Goriškem in v Trstu v letih 1848-1849</title>
                <page>35-49</page>
-               <page>38</page>
+               <cobiss>11296562</cobiss>
                <citedIn count="3">
                   <cit did="1317"
                        cid="289"
@@ -21988,9 +21919,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Marušič Branko</author>
                <title>Iz neobjavljene ostaline Simona Rutarja</title>
-               <title>Iz neobljavljene</title>
-               <title>ostaline Simona Rutarja</title>
-               <page>91</page>
+               <title>dopisi uredniku "Ljubljanskega zvona" Franu Levcu</title>
+               <page>73-100</page>
                <cobiss>131144</cobiss>
                <citedIn count="2">
                   <cit did="3508"
@@ -22036,10 +21966,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Marušič Branko</author>
-               <title>Primorski tabori (1868-1871)</title>
-               <title>Primorski tabori : 1868-1871</title>
-               <page>62-63</page>
+               <title>Primorski tabori</title>
+               <title>1868-1871</title>
                <page>51-67</page>
+               <cobiss>127048</cobiss>
                <citedIn count="3">
                   <cit did="1317"
                        cid="342"
