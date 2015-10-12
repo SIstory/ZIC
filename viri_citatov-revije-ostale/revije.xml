@@ -3,6 +3,7 @@
  xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="NBH">Neja Blaj Hribar</docAuthor>
       <docTitle>Citiranost člankov v ostalih slovenskih revijah</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC BY 4.0</docRights>
@@ -11,6 +12,7 @@
          v slovenskih revijah, ki v zgodovinopisju niso pogosto citirani.</docNote>
    </docMetadata>
    <source>
+      <!-- Zbirka ne knjiga, oz včasih članki, večinoma knjige... -->
       <pubTitle>Acta ecclesiastica Sloveniae</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Inštitut za zgodovino Cerkve pri Teološki fakulteti Univerze v Ljubljani</publisher>
@@ -73,7 +75,7 @@
             <pubPart>
                <author>Likar Sebastjan</author>
                <author>Oblak Valentin</author>
-               <title>Valentin Oblak, kronika župnije Kropa 1914-1918</title>
+               <title>Valentin Oblak</title>
                <title>Kronika župnije Kropa 1914-1918</title>
                <cobiss>8718851</cobiss>
                <citedIn count="2">
@@ -120,9 +122,8 @@
             </pubPart>
             <pubPart>
                <author>Höfler Janez</author>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem : pražupnija Cerknica</title>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem. Pražupnija Cerknica</title>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem - Pražupnija Cerknica</title>
+               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</title>
+               <title>Pražupnija Cerknica</title>
                <page>125-191</page>
                <cobiss>30211426</cobiss>
                <citedIn count="3">
@@ -163,7 +164,6 @@
             <pubPart>
                <author>Ehrlich Lambert</author>
                <title>Pariška mirovna konferenca in Slovenci 1919/20</title>
-               <title>Pariška mirovna konference in Slovenci 1919/20</title>
                <page>70-218</page>
                <cobiss>127548928</cobiss>
                <citedIn count="2">
@@ -260,7 +260,6 @@
                <author>Znidaršič Golec Lilijana</author>
                <author>Žnidaršič Golec L.</author>
                <author>Žnidaršič Goleč Lilijana</author>
-               <title>Duhovniki kranjskega dela ljubljanske škofije do tridentinskega koncila</title>
                <title>Duhovniki kranjskega dela Ljubljanske škofije do Tridentinskega koncila</title>
                <page>263-264</page>
                <citedIn count="8">
