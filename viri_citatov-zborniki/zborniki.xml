@@ -12651,6 +12651,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Biber Dušan</author>
             <title>Federalna državnost Slovenije v zavezniških dokumentih do maja 1945</title>
+            <addTitle>Federal statehood of Slovenia in allied documents up to May 1945</addTitle>
+            <cobiss>2723373</cobiss>
             <page>261-267</page>
             <citedIn count="2">
                <cit did="1511" cid="41" avtor0="Biber Dušan"
@@ -12664,13 +12666,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Cvirn Janez</author>
-            <title>Slovenci in nemški  državnopravni programi (1848-1918)</title>
-            <title>Slovenci in nemški državnopravni program</title>
             <title>Slovenci in nemški državnopravni programi (1848-1918)</title>
-            <title>Slovenci in nemSki driavnopravni programi</title>
-            <title>Slovenci in nemški državnopravni programi 1848-1918</title>
             <cobiss>2691117</cobiss>
-            <page>73-88</page>
+            <page>73-82</page>
             <citedIn count="8">
                <cit did="2635" cid="4" avtor0="Cvirn Janez"
                   naslov0="Slovenci in nemški  državnopravni programi (1848-1918)"
@@ -12723,6 +12721,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Narodna dilema pri slovenskih intelektualcih v prvi Jugoslaviji</title>
+            <addTitle>The national dilemma among Slovene intellectuals in the first Yugoslavia</addTitle>
             <cobiss>2715181</cobiss>
             <page>201-206</page>
             <citedIn count="1">
@@ -12737,9 +12736,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Domej Teodor</author>
             <title>Slovenci v 19. stoletju v luči svojih lastnih oznak</title>
-            <title>Slovenci v 19.stoletju v luči svojih lastnih oznak</title>
+            <addTitle>Politische Autoportraits der Slowenen im 19. Jahrhundert</addTitle>
             <cobiss>2691885</cobiss>
-            <page>83-94</page>
+            <page>83-93</page>
             <citedIn count="3">
                <cit did="438" cid="20" avtor0="Domej Teodor"
                   naslov0="Slovenci v 19. stoletju v luči svojih lastnih oznak"
@@ -12759,7 +12758,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Ferenc Tone</author>
             <title>Oblikovanje slovenske (federalne) države 1941-1944</title>
             <cobiss>2715693</cobiss>
-            <page>213-225</page>
+            <page>213-223</page>
             <citedIn count="4">
                <cit did="1191" cid="5" avtor0="Ferenc Tone"
                   naslov0="Oblikovanje slovenske (federalne) države 1941-1944" cobiss="2715693"
@@ -12784,6 +12783,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Godeša Bojan</author>
             <title>Izza kočevskega zbora</title>
+            <addTitle>The background of the Kočevje assembly</addTitle>
             <cobiss>2716973</cobiss>
             <page>243-249</page>
             <citedIn count="2">
@@ -12798,6 +12798,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Gombač Boris M.</author>
             <title>Svobodno tržaško ozemlje kot poskus večnarodne države (1947-1954)</title>
+            <addTitle>Free territory of Triest - an attempt at setting up a multinational state (1945-1954)</addTitle>
+            <cobiss>2731565</cobiss>
             <page>337-344</page>
             <citedIn count="1">
                <cit did="1511" cid="118" avtor0="Gombač Boris M."
@@ -12808,6 +12810,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Hribar Tine</author>
             <title>Nova, osamosvojitvena volja Slovencev</title>
+            <addTitle>The new emancipatory will of Slovenes</addTitle>
+            <cobiss>2727981</cobiss>
             <page>279-294</page>
             <citedIn count="3">
                <cit did="2578" cid="6" avtor0="Hribar Tine"
@@ -12828,6 +12832,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Kresal France</author>
             <title>Oblikovanje slovenskega gospodarstva v okviru Jugoslavije 1918-1941</title>
+            <addTitle>Formation of Slovene economy within the Yugoslav framework (1918-1941)</addTitle>
+            <cobiss>2715437</cobiss>
+            <page>207-212</page>
             <citedIn count="1">
                <cit did="2028" cid="18" avtor0="Kresal France"
                   naslov0="Oblikovanje slovenskega gospodarstva v okviru Jugoslavije 1918-1941"
@@ -12835,10 +12842,11 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Malle Auguštin</author>
             <author>Malle Avguštin</author>
             <title>Koroški Slovenci in avstrijska država</title>
-            <page>153-164</page>
+            <addTitle>Carinthian Slovenes and the Austrian state</addTitle>
+            <cobiss>2699309</cobiss>
+            <page>153-163</page>
             <citedIn count="4">
                <cit did="205" cid="27" avtor0="Malle Auguštin"
                   naslov0="Koroški Slovenci in avstrijska država"
@@ -12862,8 +12870,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Slovenski državnopravni programi 1848-1918</title>
+            <addTitle>Slovene statehood programmes</addTitle>
             <cobiss>2690093</cobiss>
-            <page>60-72</page>
+            <page>67-72</page>
             <citedIn count="7">
                <cit did="2025" cid="21" avtor0="Melik Vasilij"
                   naslov0="Slovenski državnopravni programi 1848-1918" source="Slovenci in država"
@@ -12894,9 +12903,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Novak Bogdan</author>
             <author>Novak Bogdan C.</author>
             <title>Geneza slovenske državne ideje med emigracijo</title>
+            <addTitle>The genesis of the idea of the Slovene state among Slovene emigrants</addTitle>
             <cobiss>2729261</cobiss>
             <page>295-305</page>
             <citedIn count="7">
@@ -12931,14 +12940,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>SLovenska državna volja v prvem desetletju jugoslovanske krize</title>
-            <title>Slovenska državna volja v prvem desetletju
-jugoslovanske krize</title>
             <title>Slovenska državna volja v prvem desetletju jugoslovanske krize</title>
-            <title>Slovenska državna volja v prvem desetletju jugoslovanske krize, v:</title>
-            <title>(Razprave ; 17)</title>
             <cobiss>2696237</cobiss>
-            <page>51-134</page>
+            <page>121-134</page>
             <citedIn count="18">
                <cit did="1204" cid="2" avtor0="Perovšek Jurij"
                   naslov0="SLovenska državna volja v prvem desetletju jugoslovanske krize"
@@ -13030,6 +13034,8 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Prinčič Jože</author>
             <title>Mesto Slovenije v procesu industrializacije federativne Jugoslavije (1945-1956)</title>
+            <addTitle>The place of Slovenia in the process of industrialization of federative Yugoslavia (1945/1956)</addTitle>
+            <cobiss>2733101</cobiss>
             <page>345-354</page>
             <citedIn count="5">
                <cit did="667" cid="2" avtor0="Prinčič Jože"
@@ -13055,11 +13061,8 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Prunk Janko</author>
             <title>Slovenske predstave o avtonomiji (oziroma državnosti) in prizadevanja zanjo v Kraljevini Jugoslaviji</title>
-            <title>Slovenske predstave o avtonomiji (oziroma državnosti) in prizadevanje zanjo v Kraljevini Jugoslaviji</title>
-            <title>Slovenske predstave o avtonomiji in prizadevanja zanjo v Kraljevini Jugoslaviji</title>
-            <title>Slovenske predstave o avtonomiji (oziroma državnosti) in prizadevanja zanje v Kraljevini Jugoslaviji, Slovenci in država</title>
             <cobiss>2696749</cobiss>
-            <page>134-142</page>
+            <page>135-142</page>
             <citedIn count="11">
                <cit did="2254" cid="14" avtor0="Prunk Janko"
                   naslov0="Slovenske predstave o avtonomiji (oziroma državnosti) in prizadevanja zanjo v Kraljevini Jugoslaviji"
@@ -13114,6 +13117,8 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>Slovenci in federativna Jugoslavija</title>
+            <addTitle>Slovenes and federative Yugoslavia</addTitle>
+            <cobiss>2726189</cobiss>
             <page>269-277</page>
             <citedIn count="2">
                <cit did="1511" cid="453" avtor0="Repe Božo"
@@ -13127,7 +13132,8 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Ribičič Ciril</author>
             <title>Republika Slovenija v ustavah jugoslovanske federacije</title>
-            <cobiss>61054464</cobiss>
+            <addTitle>Republic of Slovenia in the constitutions of the Yugoslav federation</addTitle>
+            <cobiss>2733357</cobiss>
             <page>355-360</page>
             <citedIn count="3">
                <cit did="826" cid="118" avtor0="Ribičič Ciril"
@@ -13149,6 +13155,9 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Teodor Domej</author>
             <title>Slovenci v 19. stoletju v luči svojih lastnih oznak</title>
+            <addTitle>Politische Autoportraits der Slowenen im 19. Jahrhundert</addTitle>
+            <cobiss>2691885</cobiss>
+            <page>83-93</page>
             <citedIn count="1">
                <cit did="2770" cid="6" avtor0="Teodor Domej"
                   naslov0="Slovenci v 19. stoletju v luči svojih lastnih oznak"
@@ -13159,7 +13168,7 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Vilfan Sergij</author>
             <title>Država in dežela od 13. do 18. stoletja</title>
-            <title>Država in dežela od 13. stoletja do 18. stoletja</title>
+            <addTitle>State and province</addTitle>
             <cobiss>2687277</cobiss>
             <page>47-60</page>
             <citedIn count="6">
@@ -13188,12 +13197,10 @@ jugoslovanske krize</title>
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>Plemenske in državne tvorbe zgodnjega srednjega veka na slovanskem naselitvenem prostoru v vzhodnih Alpah</title>
-            <title>Plemenske in državne tvorbe zgodnjega srednjega veka na slovenskem....</title>
-            <title>Plemenske in državne tvorbe zgodnejga srednjega veka na slovanskem naselitvenem prostoru v Vzhodnih Alpah</title>
-            <title>Plemenske in državne tvorbe zgodnjega srednjega veka na slovenskem naselitvenem prostoru</title>
+            <title>Plemenske in državne tvorbe zgodnjega srednjega veka na slovanskem naselitvenem prostoru v Vzhodnih Alpah</title>
+            <addTitle>Die Frühmittelalterlichen Stammes- und Staatsbildungen im slawischen Siedlungsraum in den Ostalpen</addTitle>
             <cobiss>2686765</cobiss>
-            <page>21-42</page>
+            <page>21-45</page>
             <citedIn count="4">
                <cit did="1320" cid="28" avtor0="Štih Peter"
                   naslov0="Plemenske in državne tvorbe zgodnjega srednjega veka na slovanskem naselitvenem prostoru v vzhodnih Alpah"
@@ -13213,8 +13220,9 @@ jugoslovanske krize</title>
          </pubPart>
          <pubPart>
             <author>Žagar Mitja</author>
-            <title>Ustava Socialistične federativne republike Jugoslavije iz 1974 in osamosvajanje republike Slovenije</title>
-            <title>Ustava Socialistične federativne republike Jugoslavije iz leta 1974 in osamosvajanje republike Slovenije</title>
+            <title>Ustava Socialistične federativne republike Jugoslavije iz 1974 in osamosvajanje Republike Slovenije</title>
+            <addTitle>The 1974 constitution of the Socialist Federative Republic of Yugoslavia and the independence process of the Republic of Slovenia</addTitle>
+            <cobiss>2733869</cobiss>
             <page>367-378</page>
             <citedIn count="2">
                <cit did="2382" cid="1" avtor0="Žagar Mitja"
@@ -13241,7 +13249,6 @@ jugoslovanske krize</title>
       <chapters>
          <pubPart>
             <author>Andrejka Viktor</author>
-            <title>Razvoj vojaštva in vojaški dogodki do danes</title>
             <title>Razvoj vojaštva in vojaški dogodki od prevrata do danes</title>
             <page>269-295</page>
             <citedIn count="6">
@@ -13273,8 +13280,6 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Bogataj Lovro</author>
             <title>Uprava v Sloveniji od prevrata 1918 do izvršitve Vidovdanske ustave</title>
-            <title>Uprava v Sloveniji od prevrata 1918 od izvršitve vidovdanske ustave</title>
-            <title>Uprava v Sloveniji od prevrata 1918 do izvršitve vidovdanske ustave</title>
             <page>373-388</page>
             <citedIn count="3">
                <cit did="2274" cid="84" avtor0="Bogataj Lovro"
@@ -13336,7 +13341,6 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Hohnjec Josip</author>
             <title>O ustavi naše države</title>
-            <cobiss>1234145</cobiss>
             <page>295-338</page>
             <citedIn count="8">
                <cit did="2182" cid="7" avtor0="Hohnjec Josip" naslov0="O ustavi naše države"
@@ -13439,6 +13443,8 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Lovrenčič Jože (Chronista Sontiacus)</author>
             <title>Slovenci v Italiji</title>
+            <title>Slovenci v desetletju 1918-1928</title>
+            <cobiss>31034113</cobiss>
             <page>62-117</page>
             <citedIn count="1">
                <cit did="3288" cid="186" avtor0="Lovrenčič Jože (Chronista Sontiacus)"
@@ -13475,7 +13481,7 @@ jugoslovanske krize</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Narte Velikonja</author>
+            <author>Velikonja Narte</author>
             <title>Vseučilišče v Ljubljani</title>
             <page>692-696</page>
             <citedIn count="1">
@@ -13486,8 +13492,6 @@ jugoslovanske krize</title>
          </pubPart>
          <pubPart>
             <author>Pivec Melita</author>
-            <author>Pivec Melitta</author>
-            <author>Pivec Stele Melita</author>
             <title>Programi političnih strank in statistika volitev</title>
             <cobiss>93723648</cobiss>
             <page>357-776</page>
@@ -13530,6 +13534,7 @@ jugoslovanske krize</title>
          <pubPart>
             <author>Pivec Stele Melita</author>
             <title>Kronološki pregled glavnih dogodkov 1914-1928</title>
+            <cobiss>93725952</cobiss>
             <page>758-776</page>
             <citedIn count="1">
                <cit did="722" cid="12" avtor0="Pivec Stele Melita"
@@ -13540,7 +13545,6 @@ jugoslovanske krize</title>
          </pubPart>
          <pubPart>
             <author>Slavič Matija</author>
-            <title>Državni prevrat v Mariborski oblasti</title>
             <title>Državni prevrat v mariborski oblasti</title>
             <cobiss>94876928</cobiss>
             <page>215-269</page>
@@ -13585,7 +13589,7 @@ jugoslovanske krize</title>
          </pubPart>
          <pubPart>
             <author>Steska Viktor</author>
-            <title>Cerkvene razmere</title>
+            <title>Cerkvene razmere</title> <!-- nisem našla članka, naslov ni jasen -->
             <title>Cerkvene zadeve</title>
             <page>423-437</page>
             <citedIn count="2">
@@ -13598,10 +13602,8 @@ jugoslovanske krize</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Velikonja Arte</author>
             <author>Velikonja Narte</author>
             <title>Razvoj šolske uprave: splošni pregled s posebnim ozirom na osnovno šolstvo</title>
-            <title>Razvoj šolske uprave</title>
             <page>691-744</page>
             <citedIn count="4">
                <cit did="2191" cid="12" avtor0="Velikonja Arte"
