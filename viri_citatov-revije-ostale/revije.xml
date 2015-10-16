@@ -248,7 +248,7 @@
          <issue n="20">
             <pubPart>
                <author>Baraga France</author>
-               <title>Arhiv Glavarjevega beneficija. Teološka fakulteta, Inštitut za zgodovino Cerkve</title>
+               <title>Arhiv Glavarjevega beneficija</title><title>Teološka fakulteta, Inštitut za zgodovino Cerkve</title>
                <citedIn count="1">
                   <cit did="2604" cid="4" avtor0="Baraga France"
                      naslov0="Arhiv Glavarjevega beneficija. Teološka fakulteta, Inštitut za zgodovino Cerkve"
@@ -260,16 +260,10 @@
          <issue>
             <pubPart>
                <author>Höfler Janez</author>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem - Pražupnija Stara Loka in šentpeter pri Ljubljani</title>
                <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</title>
                <title>Pražupniji Stara Loka in Šentpeter pri Ljubljani</title>
-               <title>Gradivo za historično topografijo prejožefinskih župnij na Slovenskem</title>
-               <title>Pražupnija Stara Loka in Šempeter pri Ljubljani</title>
                <page>305-368</page>
-               <page>329-332</page>
-               <page>358</page>
                <cobiss>2088538</cobiss>
-               <cobiss>118326</cobiss>
                <citedIn count="4">
                   <cit did="2705" cid="20" avtor0="Höfler Janez"
                      naslov0="Gradivo za historično topografijo predjožefinskih župnij na Slovenskem - Pražupnija Stara Loka in šentpeter pri Ljubljani"
@@ -323,10 +317,7 @@
                <author>Baraga F.</author>
                <title>Kapiteljski arhiv Novo mesto</title>
                <title>Regesti listin in popis gradiva</title>
-               <title>Kapiteljski arhiv Novo mesto</title>
-               <title>Regesti lstin in popis gradiva</title>
-               <page>58-59,68,81,89,94,103,115,120-121,153,179,183 ...</page>
-               <page>335-343</page>
+               <cobiss>39181057</cobiss>
                <citedIn count="3">
                   <cit did="1298" cid="72" avtor0="Baraga France"
                      naslov0="Kapiteljski arhiv Novo mesto"
@@ -351,7 +342,7 @@
             <pubPart>
                <author>Benedik Metod</author>
                <author>Kralj Angel</author>
-               <title>pucini na Slovenskem v zgodovinskih tirih. Nekdanja štajerska kapucinska provinca</title>
+               <title>pucini na Slovenskem v zgodovinskih tirih</title><title>Nekdanja štajerska kapucinska provinca</title>
                <citedIn count="1">
                   <cit did="2598" cid="2" avtor0="Benedik Metod" avtor1="Kralj Angel"
                      naslov0="pucini na Slovenskem v zgodovinskih tirih. Nekdanja štajerska kapucinska provinca"
@@ -367,7 +358,7 @@
             <pubPart>
                <author>Kolar Bogdan</author>
                <title>K zgodovini malega semenišča v Kopru</title>
-               <page>58</page>
+               <page>58-68</page>
                <cobiss>74933504</cobiss>
                <citedIn count="1">
                   <cit did="1254" cid="2" avtor0="Kolar Bogdan"
@@ -380,6 +371,7 @@
                <author>Senica Marko</author>
                <title>Slovenske pridige kapucina p. Angelika iz Kranja iz let 1766-1771</title>
                <page>120-180</page>
+               <cobiss>74974976</cobiss>
                <citedIn count="1">
                   <cit did="1735" cid="72" avtor0="Senica Marko"
                      naslov0="Slovenske pridige kapucina p. Angelika iz Kranja iz let 1766-1771"
@@ -389,8 +381,9 @@
             </pubPart>
             <pubPart>
                <author>Škafar Vinko</author>
-               <title>Prošnje rolburšekemu nadškofu F. Schwarzentergu za priključitev slovenskih dekanij sekovske škofije...</title>
+               <title>Prošnje salzburškemu nadškofu F. Schwarzenbergu za priključitev slovenskih dekanij sekovske (graške) škofije k lavantinski škofiji leta 1848</title>
                <page>69-79</page>
+               <cobiss>6946820</cobiss>
                <citedIn count="1">
                   <cit did="2578" cid="19" avtor0="Škafar Vinko"
                      naslov0="Prošnje rolburšekemu nadškofu F. Schwarzentergu za priključitev slovenskih dekanij sekovske škofije..."
@@ -482,9 +475,8 @@
             <pubPart>
                <author>Höfler Janez</author>
                <author>Höfler janez</author>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem. Pražupniji Radovljica in Kranj</title>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem...</title>
-               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem, Pražupniji Radovljica in Kranj</title>
+               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</title>
+               <title>Pražupniji Radovljica in Kranj</title>
                <page>201-251</page>
                <cobiss>118326</cobiss>
                <citedIn count="4">
@@ -781,7 +773,7 @@
             </pubPart>
             <pubPart>
                <author>Murovec Barbara</author>
-               <title>Freske in slikane tapete v dvorcu Rothelstein pri Admontu. Fromillerjevo delo na avstrijskem Štajerskem</title>
+               <title>Freske in slikane tapete v dvorcu Rothelstein pri Admontu</title><title>Fromillerjevo delo na avstrijskem Štajerskem</title>
                <page>109-124</page>
                <citedIn count="1">
                   <cit did="2126" cid="11" avtor0="Murovec Barbara"
@@ -826,7 +818,8 @@
          <issue n="6">
             <pubPart>
                <author>Lavrič Ana</author>
-               <title>Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja. Statut Acade-miae trium Artium in Academiae incultorum</title>
+               <title>Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja.</title>
+               <title>Statut Acade-miae trium Artium in Academiae incultorum</title>
                <page>67-82</page>
                <citedIn count="1">
                   <cit did="3538" cid="10" avtor0="Lavrič Ana"
@@ -932,7 +925,7 @@
             </pubPart>
             <pubPart>
                <author>Resman Blaž</author>
-               <title>Veliki oltar v Svetem pri Komnu - goriško delo Angela Puttija</title>
+               <title>Veliki oltar v Svetem pri Komnu</title><title>goriško delo Angela Puttija</title>
                <page>67-76</page>
                <cobiss>5884205</cobiss>
                <citedIn count="1">
@@ -1034,7 +1027,7 @@
          <issue n="43">
             <pubPart>
                <author>Šimac Igor</author>
-               <title>MPP - Mariborski projekt prestrukturiranja</title>
+               <title>MPP</title><title>Mariborski projekt prestrukturiranja</title>
                <page>11-12</page>
                <citedIn count="1">
                   <cit did="3286" cid="207" avtor0="Šimac Igor"
@@ -1983,7 +1976,7 @@
             </pubPart>
             <pubPart>
                <author>Brišnik Danijela</author>
-               <title>Pečnice z gradu Salek. Drobci nekega vsakdana</title>
+               <title>Pečnice z gradu Salek</title><title>Drobci nekega vsakdana</title>
                <page>39-57</page>
                <cobiss>14841653</cobiss>
                <citedIn count="1">
@@ -2045,7 +2038,7 @@
             </pubPart>
             <pubPart>
                <author>Kramberger Taja</author>
-               <title>Pečnice z ljubljanskega gradu. Ljubljanski grad, pečnice.</title>
+               <title>Pečnice z ljubljanskega gradu</title><title>Ljubljanski grad, pečnice.</title>
                <page>69-137</page>
                <cobiss>21772386</cobiss>
                <citedIn count="1">
@@ -2097,7 +2090,7 @@
          <issue>
             <pubPart>
                <author>Gaspari A. et al.</author>
-               <title>Antični pristanški kompleks v Fizinah pri Portorožu - zaščitne raziskave leta 1998</title>
+               <title>Antični pristanški kompleks v Fizinah pri Portorožu</title><title>zaščitne raziskave leta 1998</title>
                <page>167-218</page>
                <citedIn count="1">
                   <cit did="1946" cid="10" avtor0="Gaspari A. et al."
@@ -2164,7 +2157,7 @@
          <issue>
             <pubPart>
                <author>Guštin M., Preložnik A.</author>
-               <title>Sajevce. Železno-dobno gomilno grobisce ob Krki</title>
+               <title>Sajevce</title><title>Železno-dobno gomilno grobisce ob Krki</title>
                <page>113-168</page>
                <citedIn count="1">
                   <cit did="1947" cid="7" avtor0="Guštin M., Preložnik A."
@@ -2184,7 +2177,7 @@
             </pubPart>
             <pubPart>
                <author>Velušček A.</author>
-               <title>Iška Loka - bronastodobno naselje na obrobju Ljubljanskega barja</title>
+               <title>Iška Loka</title><title>bronastodobno naselje na obrobju Ljubljanskega barja</title>
                <page>73-89</page>
                <citedIn count="1">
                   <cit did="1948" cid="34" avtor0="Velušček A."
@@ -2195,7 +2188,7 @@
             </pubPart>
             <pubPart>
                <author>Štular B.</author>
-               <title>Lončenina s kamniskega Malega gradu. Izkopavanja 1992</title>
+               <title>Lončenina s kamniskega Malega gradu</title><title>Izkopavanja 1992</title>
                <page>435-452</page>
                <citedIn count="1">
                   <cit did="1948" cid="33" avtor0="Štular B."
@@ -2243,7 +2236,7 @@
          <issue>
             <pubPart>
                <author>Kos P., Šemrov A.</author>
-               <title>Skupna najdba keltskih in rimskih novcev v reki Ljubljanici. Dobrinos h kronologiji novcev plemena Tavriskov</title>
+               <title>Skupna najdba keltskih in rimskih novcev v reki Ljubljanici</title><title>Dobrinos h kronologiji novcev plemena Tavriskov</title>
                <page>381-395</page>
                <citedIn count="1">
                   <cit did="1939" cid="49" avtor0="Kos P., Šemrov A."
@@ -2265,7 +2258,7 @@
             </pubPart>
             <pubPart>
                <author>Velušček A., Čufar K.</author>
-               <title>Založnica pri Kamniku pod Krimom na Ljubljanskem barju - naselbina kulture Somogyvar-Vinkovci</title>
+               <title>Založnica pri Kamniku pod Krimom na Ljubljanskem barju</title><title>naselbina kulture Somogyvar-Vinkovci</title>
                <page>123-158</page>
                <citedIn count="1">
                   <cit did="1948" cid="35" avtor0="Velušček A., Čufar K."
@@ -2476,8 +2469,10 @@
             </pubPart>
             <pubPart>
                <author>Dular Janez</author>
-               <title>Ältere. mittlere und jüngere Bronzezeil in Slowenien - Forsehungsstand und Probleme</title>
+               <title>Ältere, mittlere und jüngere Bronzezeit in Slowenien</title>
+               <title>Forschungsstand und Probleme</title>
                <page>81-96</page>
+               <cobiss>13223213</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="30" avtor0="Dular Janez"
                      naslov0="Ältere. mittlere und jüngere Bronzezeil in Slowenien - Forsehungsstand und Probleme"
@@ -2719,7 +2714,7 @@
          <issue>
             <pubPart>
                <author>Turk I. et al.</author>
-               <title>Podmol pri Kastelcu - novo večplastno arheološko najdišče na Krasu, Slovenija</title>
+               <title>Podmol pri Kastelcu</title><title>novo večplastno arheološko najdišče na Krasu, Slovenija</title>
                <page>45-96</page>
                <citedIn count="1">
                   <cit did="1950" cid="58" avtor0="Turk I. et al."
@@ -2895,7 +2890,7 @@
             </pubPart>
             <pubPart>
                <author>Oman D.</author>
-               <title>Brinjeva gora - 1953 (Obdelava prazgodovinske keramike)</title>
+               <title>Brinjeva gora</title><title>1953 (Obdelava prazgodovinske keramike)</title>
                <page>144-216</page>
                <citedIn count="1">
                   <cit did="1954" cid="24" avtor0="Oman D."
@@ -3066,7 +3061,7 @@
             </pubPart>
             <pubPart>
                <author>Teržan B.</author>
-               <title>Claus Dobiat, Das Hallstattzeitliche Gräberfeld von Kleinklein und seine Keramik. Schild von Steier, Beiheft 1, Graz 1980 (diskusija)</title>
+               <title>Claus Dobiat, Das Hallstattzeitliche Gräberfeld von Kleinklein und seine Keramik</title><title>Schild von Steier, Beiheft 1, Graz 1980 (diskusija)</title>
                <page>413-433</page>
                <citedIn count="1">
                   <cit did="1947" cid="19" avtor0="Teržan B."
@@ -3139,7 +3134,7 @@
             </pubPart>
             <pubPart>
                <author>Vuga Davorin</author>
-               <title>Moski grob 1885 z vrta Narodnega muzeja v Ljubljani. Poznorimske in barbarske ledvičaste pasne spone z ovalnim okovom</title>
+               <title>Moski grob 1885 z vrta Narodnega muzeja v Ljubljani</title><title>Poznorimske in barbarske ledvičaste pasne spone z ovalnim okovom</title>
                <page>237-254</page>
                <citedIn count="1">
                   <cit did="2532" cid="50" avtor0="Vuga Davorin"
@@ -3480,7 +3475,7 @@
             </pubPart>
             <pubPart>
                <author>Töth E.</author>
-               <title>"... protulique fines Illyrici ad ripam fluminis Danuvii."</title>
+               <title>... protulique fines Illyrici ad ripam fluminis Danuvii</title>
                <page>278-287</page>
                <citedIn count="1">
                   <cit did="1748" cid="1039" avtor0="Töth E."
@@ -4088,7 +4083,7 @@
          <issue n="11">
             <pubPart>
                <author>Lazarević Žarko</author>
-               <title>Luckmanni - tri generacije bančnikov</title>
+               <title>Luckmanni</title><title>tri generacije bančnikov</title>
                <page>53-56</page>
                <cobiss>1770100</cobiss>
                <citedIn count="1">
@@ -4124,7 +4119,7 @@
          <issue n="3">
             <pubPart>
                <author>Lazarević Žarko</author>
-               <title>Alojzij Tykač - Čeh na začasnem delu med Slovenci</title>
+               <title>Alojzij Tykač</title><title>Čeh na začasnem delu med Slovenci</title>
                <page>56-57</page>
                <cobiss>12558566</cobiss>
                <citedIn count="1">
@@ -4178,7 +4173,7 @@
          <issue n="9">
             <pubPart>
                <author>Lazarević Žarko</author>
-               <title>Ladislav Pečanka - utrjevalec zaupanja v slovensko bančništvo</title>
+               <title>Ladislav Pečanka</title><title>utrjevalec zaupanja v slovensko bančništvo</title>
                <page>48-49</page>
                <cobiss>13034726</cobiss>
                <citedIn count="1">
@@ -4981,7 +4976,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="621-625">
             <pubPart>
                <author>Kostov E.</author>
-               <title>Izseljevanje prebivalcev iz nekdanjega okraja Koper - cone B Svobodnega tržaškega ozemlja</title>
+               <title>Izseljevanje prebivalcev iz nekdanjega okraja Koper</title><title>cone B Svobodnega tržaškega ozemlja</title>
                <page>47-95</page>
                <citedIn count="1">
                   <cit did="734" cid="12" avtor0="Kostov E."
@@ -5315,7 +5310,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="526-528">
             <pubPart>
                <author>Mlakar Boris</author>
-               <title>Slovenski domobranci - prostovoljci ali mobiliziranci</title>
+               <title>Slovenski domobranci</title><title>prostovoljci ali mobiliziranci</title>
                <page>104-126</page>
                <page>25</page>
                <cobiss>50880000</cobiss>
@@ -5380,7 +5375,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Tršan Lojz</author>
-               <title>Propad Slavenske banke - največji finančni šok med obema vojnama v Sloveniji</title>
+               <title>Propad Slavenske banke</title><title>največji finančni šok med obema vojnama v Sloveniji</title>
                <page>368-374</page>
                <cobiss>262749</cobiss>
                <citedIn count="1">
@@ -5477,7 +5472,8 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Karlin Alma M.</author>
-               <title>Božja ura. Zgodba iz Bele Krajine, Krava. Zgodba iz Bele Krajine, Petrova puška. Partizanska zgodba</title>
+               <title>Božja ura</title><title>Zgodba iz Bele Krajine</title>
+               <title>Krava</title><title>Zgodba iz Bele Krajine, Petrova puška</title><title>Partizanska zgodba</title>
                <citedIn count="1">
                   <cit did="2289" cid="4" avtor0="Karlin Alma M."
                      naslov0="Božja ura. Zgodba iz Bele Krajine, Krava. Zgodba iz Bele Krajine, Petrova puška. Partizanska zgodba"
@@ -5596,7 +5592,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="4-6">
             <pubPart>
                <author>Nečak Dušan</author>
-               <title>Slovenija 1945 - čas evforije, shizofrenije in paranoje</title>
+               <title>Slovenija 1945</title><title>čas evforije, shizofrenije in paranoje</title>
                <page>443-450</page>
                <citedIn count="1">
                   <cit did="2570" cid="8" avtor0="Nečak Dušan"
@@ -5858,7 +5854,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Dežman Jože</author>
                <title>Žrtve druge svetovne vojne</title>
-               <title>očrt raziskave - občina Radovljica</title>
+               <title>očrt raziskave</title><title>občina Radovljica</title>
                <page>43-69</page>
                <citedIn count="1">
                   <cit did="1858" cid="1" avtor0="Dežman Jože"
@@ -6073,7 +6069,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Jagodic Karel</author>
-               <title>Med življenjem in smrtjo. Iz dnevnika in pisem iz 1. svetovne vojne</title>
+               <title>Med življenjem in smrtjo</title><title>Iz dnevnika in pisem iz 1. svetovne vojne</title>
                <page>659-766</page>
                <citedIn count="1">
                   <cit did="1745" cid="3" avtor0="Jagodic Karel"
@@ -6274,7 +6270,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Wheeler Mark</author>
-               <title>Beli orli in bela garda. Britanski vtisi o protikomunističnem uporu v Jugoslaviji leta 1945</title>
+               <title>Beli orli in bela garda</title><title>Britanski vtisi o protikomunističnem uporu v Jugoslaviji leta 1945</title>
                <page>732-741</page>
                <citedIn count="1">
                   <cit did="2558" cid="20" avtor0="Wheeler Mark"
@@ -7364,7 +7360,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Orožen Božena</author>
-               <title>Dom, domovina in jezik - Alma Karlin - ob 40-letnici smrti svetovne popotnice in pisateljice</title>
+               <title>Dom, domovina in jezik</title><title>Alma Karlin - ob 40-letnici smrti svetovne popotnice in pisateljice</title>
                <page>153-164</page>
                <citedIn count="1">
                   <cit did="3157" cid="23" avtor0="Orožen Božena"
@@ -7830,7 +7826,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Curk Jože</author>
-               <title>Stara grofija - poročilo o delovanju referata za spomeniško varstvo v Celju</title>
+               <title>Stara grofija</title><title>poročilo o delovanju referata za spomeniško varstvo v Celju</title>
                <page>257-267</page>
                <citedIn count="1">
                   <cit did="96" cid="10" avtor0="Curk Jože"
@@ -7934,7 +7930,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Jesenovec France</author>
-               <title>Celjske slovenske novine - ob 115 letnici njihovega izhajanja</title>
+               <title>Celjske slovenske novine</title><title>ob 115 letnici njihovega izhajanja</title>
                <page>249-276</page>
                <cobiss>525109</cobiss>
                <citedIn count="1">
@@ -7947,7 +7943,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Kislinger Juro</author>
-               <title>Likovni salon - novi celjski kulturni hram</title>
+               <title>Likovni salon</title><title>novi celjski kulturni hram</title>
                <page>287-294</page>
                <citedIn count="1">
                   <cit did="96" cid="22" avtor0="Kislinger Juro"
@@ -8217,7 +8213,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="37">
             <pubPart>
                <author>Šumrada Janez</author>
-               <title>Svetovni slovenski kongres v Sloveniji - Kako naprej?</title>
+               <title>Svetovni slovenski kongres v Sloveniji</title><title>Kako naprej?</title>
                <page>68-70</page>
                <citedIn count="1">
                   <cit did="1292" cid="11" avtor0="Šumrada Janez"
@@ -8307,7 +8303,8 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="23">
             <pubPart>
                <author>Rustja B.</author>
-               <title>Oko ni videlo ... (pogovor s profesorjem Alojzom Rebulo)</title>
+               <title>Oko ni videlo ... </title>
+               <title>(pogovor s profesorjem Alojzom Rebulo)</title>
                <page>57</page>
                <citedIn count="1">
                   <cit did="3081" cid="21" avtor0="Rustja B."
@@ -8442,7 +8439,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Palaić Tina</author>
                <author>Jazbinšek Simona</author>
-               <title>Zdravje - čovekova pravica? Prosilke in prosilci za mednarodno zaščito</title>
+               <title>Zdravje - čovekova pravica?</title>
+               <title>Prosilke in prosilci za mednarodno zaščito</title>
                <page>154-162</page>
                <citedIn count="1">
                   <cit did="2932" cid="44" avtor0="Palaić Tina" avtor1="Jazbinšek Simona"
@@ -8693,7 +8691,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="189">
             <pubPart>
                <author>Falk Pasi</author>
-               <title>Benetton-Toscani učinek - preiskušanje mej konvencionalnega oglaševanja</title>
+               <title>Benetton-Toscani učinek</title><title>preiskušanje mej konvencionalnega oglaševanja</title>
                <cobiss>18676573</cobiss>
                <citedIn count="1">
                   <cit did="948" cid="6" avtor0="Falk Pasi"
@@ -8812,7 +8810,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Zei Vida</author>
-               <title>Denar - nacionalna valuta, kultura, estetika in politika</title>
+               <title>Denar</title><title>nacionalna valuta, kultura, estetika in politika</title>
                <page>47-62</page>
                <page>42-62</page>
                <citedIn count="2">
@@ -8887,7 +8885,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="168-169">
             <pubPart>
                <author>Mol Arthur P.J.</author>
-               <title>Konec narave - narava v okolju refleksivne moderne in družbe tveganja</title>
+               <title>Konec narave</title><title>narava v okolju refleksivne moderne in družbe tveganja</title>
                <cobiss>15854429</cobiss>
                <citedIn count="1">
                   <cit did="948" cid="1" avtor0="Mol Arthur P.J."
@@ -9131,7 +9129,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="23-24">
             <pubPart>
                <author>Mastnak Tomaž</author>
-               <title>Obravnavanje marksizma v delih slovenskih teologov. Prispevek k razrednemu boju v »slovenski kulturi«</title>
+               <title>Obravnavanje marksizma v delih slovenskih teologov</title><title>Prispevek k razrednemu boju v »slovenski kulturi«</title>
                <page>72-74</page>
                <citedIn count="1">
                   <cit did="3253" cid="37" avtor0="Mastnak Tomaž"
@@ -9171,7 +9169,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1-2">
             <pubPart>
                <author>Bartky Lee Sandra</author>
-               <title>Foucault. ženskost in modernizacija patriarhalne oblasti</title>
+               <title>Foucault, ženskost in modernizacija patriarhalne oblasti</title>
                <page>59-86</page>
                <citedIn count="1">
                   <cit did="2417" cid="1" avtor0="Bartky Lee Sandra"
@@ -9186,7 +9184,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1-2">
             <pubPart>
                <author>Šauperl M.</author>
-               <title>Fanny Mongellaz - prezrti člen zgodovine evropskega feminizma</title>
+               <title>Fanny Mongellaz</title><title>prezrti člen zgodovine evropskega feminizma</title>
                <page>103-114</page>
                <citedIn count="1">
                   <cit did="2018" cid="315" avtor0="Šauperl M."
@@ -9277,7 +9275,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="3-4">
             <pubPart>
                <author>Drglin Z.</author>
-               <title>Študenske ženske študije - še neodkrita vrsta?</title>
+               <title>Študenske ženske študije</title><title>še neodkrita vrsta?</title>
                <page>63-69</page>
                <citedIn count="1">
                   <cit did="226" cid="56" avtor0="Drglin Z."
@@ -9304,7 +9302,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="3-4">
             <pubPart>
                <author>Gajgar M.</author>
-               <title>"Prva " ženska - morska deklica?</title>
+               <title>"Prva " ženska</title><title>morska deklica?</title>
                <page>29-64</page>
                <citedIn count="1">
                   <cit did="106" cid="234" avtor0="Gajgar M."
@@ -9628,7 +9626,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="7-8">
             <pubPart>
                <author>Šav Vlado</author>
-               <title>Grotowski in mi. Dialogi</title>
+               <title>Grotowski in mi</title><title>Dialogi</title>
                <page>27-43</page>
                <citedIn count="1">
                   <cit did="3084" cid="21" avtor0="Šav Vlado" naslov0="Grotowski in mi. Dialogi"
@@ -9642,7 +9640,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1-2">
             <pubPart>
                <author>Šav Vlado</author>
-               <title>Ritualno gledališče. Od svetega v profano in nazaj</title>
+               <title>Ritualno gledališče</title><title>Od svetega v profano in nazaj</title>
                <page>11-20</page>
                <citedIn count="1">
                   <cit did="3084" cid="18" avtor0="Šav Vlado"
@@ -9672,7 +9670,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="10">
             <pubPart>
                <author>Godina Golija Maja</author>
-               <title>Maribor 1919 - 1941</title>
+               <title>Maribor 1919</title><title>1941</title>
                <title>oris družabnega življenja</title>
                <page>43-44</page>
                <citedIn count="1">
@@ -9688,7 +9686,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="9-10">
             <pubPart>
                <author>Kuret Primož</author>
-               <title>Anton Rojic - skladatelj iz Celja</title>
+               <title>Anton Rojic</title><title>skladatelj iz Celja</title>
                <page>46</page>
                <citedIn count="1">
                   <cit did="370" cid="31" avtor0="Kuret Primož"
@@ -10168,7 +10166,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="39-40">
             <pubPart>
                <author>Malnar B.</author>
-               <title>Ekološke orientacije - trajne vrednote ali prehodni preplahi?</title>
+               <title>Ekološke orientacije</title><title>trajne vrednote ali prehodni preplahi?</title>
                <page>11-34</page>
                <citedIn count="1">
                   <cit did="417" cid="3" avtor0="Malnar B."
@@ -10203,7 +10201,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kramberger T.</author>
                <title>Doxa et fama</title>
-               <title>O produkciji "javnega mnenja" in strategijah pozabe - elementi za mikroštudijo</title>
+               <title>O produkciji "javnega mnenja" in strategijah pozabe</title><title>elementi za mikroštudijo</title>
                <page>63-100</page>
                <citedIn count="1">
                   <cit did="2018" cid="185" avtor0="Kramberger T."
@@ -10564,7 +10562,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="28">
             <pubPart>
                <author>Mlekuž Jernej</author>
-               <title>Čapac.si, or on burekalism and its bites. An analysis of selected images of immigrants and their descendants in Slovenian media and popular culture</title>
+               <title>Čapac.si, or on burekalism and its bites</title><title>An analysis of selected images of immigrants and their descendants in Slovenian media and popular culture</title>
                <page>23-37</page>
                <citedIn count="1">
                   <cit did="3059" cid="14" avtor0="Mlekuž Jernej"
@@ -10595,7 +10593,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Josipovič Damir</author>
                <title>Žumberk</title>
-               <title>meja, etničnost, veroizpoved, rodnost in migracije prebivalstva - demogeografska analiza</title>
+               <title>meja, etničnost, veroizpoved, rodnost in migracije prebivalstva</title><title>demogeografska analiza</title>
                <page>39-68</page>
                <cobiss>26695981</cobiss>
                <citedIn count="2">
@@ -10772,7 +10770,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="19">
             <pubPart>
                <author>Gantar Godina Irena</author>
-               <title>Slovenski intelektualci - izseljenci na Hrvaškem</title>
+               <title>Slovenski intelektualci</title><title>izseljenci na Hrvaškem</title>
                <title>Jernej Francelj (1821-1889)</title>
                <page>165-183</page>
                <citedIn count="1">
@@ -10944,7 +10942,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Mlekuž Jernej</author>
                <title>»Mali« prispevek k vprašanjem »povratništva«</title>
-               <title>Življenjske pripovedi migrantov povratnikov iz Beneške Slovenije - potovanje brez vrnitve?'</title>
+               <title>Življenjske pripovedi migrantov povratnikov iz Beneške Slovenije</title><title>potovanje brez vrnitve?'</title>
                <page>67-94</page>
                <citedIn count="1">
                   <cit did="2853" cid="149" avtor0="Mlekuž Jernej"
@@ -11307,7 +11305,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="4">
             <pubPart>
                <author>Drnovšek Marjan</author>
-               <title>Načrti in rezultati raziskovanja slovenskega izseljenstva do leta 1941 - s posebnim poudarkom na izseljevanju v Ameriko do prve svetovne vojne</title>
+               <title>Načrti in rezultati raziskovanja slovenskega izseljenstva do leta 1941</title><title>s posebnim poudarkom na izseljevanju v Ameriko do prve svetovne vojne</title>
                <page>11-41</page>
                <citedIn count="1">
                   <cit did="2671" cid="13" avtor0="Drnovšek Marjan"
@@ -11709,7 +11707,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Simikič Alenka</author>
-               <title>Bili so izkoriščeni. Življenjske zgodbe iz obdobja med letoma 1941–1945</title>
+               <title>Bili so izkoriščeni</title><title>Življenjske zgodbe iz obdobja med letoma 1941–1945</title>
                <page>247</page>
                <citedIn count="1">
                   <cit did="1895" cid="3" avtor0="Simikič Alenka"
@@ -11856,7 +11854,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Keršič Irena</author>
-               <title>Kolon in gospodar - dva načina življenja in dve stanovankski kulturi</title>
+               <title>Kolon in gospodar</title><title>dva načina življenja in dve stanovankski kulturi</title>
                <page>95-136</page>
                <citedIn count="1">
                   <cit did="2793" cid="22" avtor0="Keršič Irena"
@@ -11916,7 +11914,8 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Makarovič Gorazd</author>
-               <title>Grad Vodriž - spomenik zgodnjegotske viteske stanovanjske kulture</title>
+               <title>Grad Vodriž</title>
+               <title>spomenik zgodnjegotske viteske stanovanjske kulture</title>
                <page>30-80</page>
                <citedIn count="1">
                   <cit did="775" cid="123" avtor0="Makarovič Gorazd"
@@ -12222,7 +12221,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1">
             <pubPart>
                <author>Šumič Riha Jelica</author>
-               <title>Molk in realno. Pričevanje med nemožnostjo in dolžnostjo</title>
+               <title>Molk in realno</title><title>Pričevanje med nemožnostjo in dolžnostjo</title>
                <page>35-51</page>
                <citedIn count="1">
                   <cit did="2839" cid="57" avtor0="Šumič Riha Jelica"
@@ -12804,7 +12803,7 @@ pomen za sedanjo rabo tal</title>
             <pubPart>
                <author>Klemenčič Vladimir</author>
                <author>Zupančič Jernej</author>
-               <title>Regionalizem - nov izziv za geografijo</title>
+               <title>Regionalizem</title><title>nov izziv za geografijo</title>
                <title>primer slovenskega etničnega ozemlja</title>
                <page>157-167</page>
                <cobiss>35033600</cobiss>
@@ -13142,7 +13141,7 @@ pomen za sedanjo rabo tal</title>
          <issue>
             <pubPart>
                <author>Lipoglavšek Rakovec</author>
-               <title>Slovenski izseljenci. Geografski pregled predvojnega stanja</title>
+               <title>Slovenski izseljenci</title><title>Geografski pregled predvojnega stanja</title>
                <page>1-58</page>
                <citedIn count="1">
                   <cit did="2539" cid="14" avtor0="Lipoglavšek Rakovec"
@@ -13206,8 +13205,7 @@ pomen za sedanjo rabo tal</title>
          <issue n="1-4">
             <pubPart>
                <author>Ilešič Svetozar</author>
-               <title>Z. Dugački, Geografijski raspoređaj Hrvata.
-Izdanje "Hrvatske Revije", Zagreb l</title>
+               <title>Z. Dugački, Geografijski raspoređaj Hrvata</title><title>Izdanje "Hrvatske Revije", Zagreb l</title>
                <page>148</page>
                <cobiss>20853090</cobiss>
                <citedIn count="1">
@@ -13531,7 +13529,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="18">
             <pubPart>
                <author>Bračič Vladimir</author>
-               <title>Lendavske Gorice (Lendvahegy). Geografska Monografija</title>
+               <title>Lendavske Gorice (Lendvahegy)</title><title>Geografska Monografija</title>
                <page>1</page>
                <citedIn count="1">
                   <cit did="2834" cid="4" avtor0="Bračič Vladimir"
@@ -13631,7 +13629,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Vrišer Igor</author>
-               <title>Goriška brda - gospodarska geografija</title>
+               <title>Goriška brda</title><title>gospodarska geografija</title>
                <page>51-113</page>
                <citedIn count="1">
                   <cit did="2056" cid="69" avtor0="Vrišer Igor"
@@ -14114,7 +14112,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Slapšak Božidar, Kojič Svetlana</author>
-               <title>Šembilja - hudič na gorečem vozu</title>
+               <title>Šembilja</title><title>hudič na gorečem vozu</title>
                <page>27</page>
                <citedIn count="1">
                   <cit did="715" cid="32" avtor0="Slapšak Božidar, Kojič Svetlana"
@@ -14192,7 +14190,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Knific Timotej</author>
-               <title>Na stičišču treh svetov. Arheološki podatki o Goriški v zgodnjem srednjem veku</title>
+               <title>Na stičišču treh svetov</title><title>Arheološki podatki o Goriški v zgodnjem srednjem veku</title>
                <page>5-30</page>
                <citedIn count="1">
                   <cit did="2639" cid="150" avtor0="Knific Timotej"
@@ -14841,7 +14839,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Mencinger Jože</author>
                <title>Deset let pozneje</title>
-               <title>Tranzicija - uspeh, polom ali nekaj vmes?</title>
+               <title>Tranzicija</title><title>uspeh, polom ali nekaj vmes?</title>
                <page>25-42</page>
                <cobiss>3510609</cobiss>
                <citedIn count="6">
@@ -15233,7 +15231,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
                <author>Koražija Nataša</author>
                <title>Pravična bi bila deprivatizacija!</title>
                <title>Boštjan Penko</title>
-               <title>V slovenski tranziciji so deli gospodarske elite ugrabili državo. To je ena najnevarnejših oblik korupcije, ko zasebniki vzamejo državne oziroma politične mehanizme v svoje roke ...</title>
+               <title>V slovenski tranziciji so deli gospodarske elite ugrabili državo</title><title>To je ena najnevarnejših oblik korupcije, ko zasebniki vzamejo državne oziroma politične mehanizme v svoje roke ...</title>
                <page>30-33</page>
                <cobiss>908744</cobiss>
                <citedIn count="2">
@@ -15778,7 +15776,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="3-4">
             <pubPart>
                <author>Kolláth Anna</author>
-               <title>Detrianonizacija madžarskega jezika - izzivi in možnosti v tretjem tisočletju v osrčju Evrope</title>
+               <title>Detrianonizacija madžarskega jezika</title><title>izzivi in možnosti v tretjem tisočletju v osrčju Evrope</title>
                <page>85-102</page>
                <cobiss>15116552</cobiss>
                <citedIn count="1">
@@ -16045,7 +16043,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Orožen Martina</author>
-               <title>Dalmatinov register - prvi sinonimni slovarčekslovenskega knjižnega jezika</title>
+               <title>Dalmatinov register</title><title>prvi sinonimni slovarčekslovenskega knjižnega jezika</title>
                <citedIn count="1">
                   <cit did="2764" cid="77" avtor0="Orožen Martina"
                      naslov0="Dalmatinov register - prvi sinonimni slovarčekslovenskega knjižnega jezika"
@@ -17152,7 +17150,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>Srednjeveški obračuni freisinške škofije. Del 4, Obračuni gospostva Škofja Loka 1439-1442 = Medieval accounts of the Freising Diocese. Part 4, Accounts of the Škofja Loka estates 1439-1442</title>
+               <title>Srednjeveški obračuni freisinške škofije</title><title>Del 4, Obračuni gospostva Škofja Loka 1439-1442</title>
+               <addTitle>Medieval accounts of the Freising Diocese. Part 4, Accounts of the Škofja Loka estates 1439-1442</addTitle>
                <page>435-458</page>
                <cobiss>30033709</cobiss>
                <citedIn count="1">
@@ -17164,7 +17163,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>[Srednjeveški obračuni freisinške škofije]. Del 3, Obračuni gospostva Škofja Loka 1437-1439</title>
+               <title>[Srednjeveški obračuni freisinške škofije]</title><title>Del 3, Obračuni gospostva Škofja Loka 1437-1439</title>
                <page>353-380</page>
                <cobiss>30033453</cobiss>
                <citedIn count="1">
@@ -17191,7 +17190,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>Srednjeveški obračuni freisinške škofije. Del 2, Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400</title>
+               <title>Srednjeveški obračuni freisinške škofije</title><title>Del 2, Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400</title>
                <page>315-368</page>
                <cobiss>27445037</cobiss>
                <citedIn count="1">
@@ -17208,7 +17207,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>Srednjeveški obračuni freisinške škofije = Die mittelalterlichen Abrechnungen des Hochstifts Freising. Del 1, Obračuni gospostev Škofja Loka in Klevevž 1395-1401 = 1. Teil - Abrechnungen der Herrschaften Škofja Loka und Klevevž 1395-1401</title>
+               <title>Srednjeveški obračuni freisinške škofije</title>
+               <title>Del 1, Obračuni gospostev Škofja Loka in Klevevž 1395-1401</title>
+               <addTitle>Die mittelalterlichen Abrechnungen des Hochstifts Freising</addTitle>
+               <addTitle>1. Teil - Abrechnungen der Herrschaften Škofja Loka und Klevevž 1395-1401</addTitle>
                <page>11-14</page>
                <cobiss>25514285</cobiss>
                <citedIn count="1">
@@ -17251,7 +17253,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Golob France</author>
-               <title>Kari Jožef Prenner - loški muzealec ter njegove zgodovinske, topografske in umet-nostnozgodovinske razprave</title>
+               <title>Kari Jožef Prenner</title><title>loški muzealec ter njegove zgodovinske, topografske in umet-nostnozgodovinske razprave</title>
                <page>55-76</page>
                <citedIn count="1">
                   <cit did="2032" cid="6" avtor0="Golob France"
@@ -17291,7 +17293,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Pavlič Slavica</author>
-               <title>Mihael Peternel - duhovnik, učitelj in naravoslovec</title>
+               <title>Mihael Peternel</title><title>duhovnik, učitelj in naravoslovec</title>
                <page>27-38</page>
                <citedIn count="1">
                   <cit did="201" cid="8" avtor0="Pavlič Slavica"
@@ -17752,7 +17754,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Šribar V.</author>
-               <title>Obrtna dejavnost na Otoku pri Dobravi - freisinškem trgu Gutenwerth</title>
+               <title>Obrtna dejavnost na Otoku pri Dobravi</title><title>freisinškem trgu Gutenwerth</title>
                <page>58-74</page>
                <citedIn count="2">
                   <cit did="1945" cid="53" avtor0="Šribar V."
@@ -17869,7 +17871,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Blaznik Pavle</author>
-               <title>Historična topografija slovenske Štajerske in jugoslovanskega dela Koroške do leta 1500, I. II.</title>
+               <title>Historična topografija slovenske Štajerske in jugoslovanskega dela Koroške do leta 1500</title>
+               <title>I., II.</title>
                <page>37-43</page>
                <citedIn count="1">
                   <cit did="2640" cid="10" avtor0="Blaznik Pavle"
@@ -18096,7 +18099,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="3">
             <pubPart>
                <author>Dolenc Janez</author>
-               <title>Anton Žakelj - Rodoljub Ledinski</title>
+               <title>Anton Žakelj</title><title>Rodoljub Ledinski</title>
                <title>(odlomek iz monografije)</title>
                <page>205-216</page>
                <cobiss>6985270</cobiss>
@@ -18245,7 +18248,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="3-4">
             <pubPart>
                <author>Kramberger T.</author>
-               <title>Nemišljeno v slovenskem zgodovinopisju. Kritični pretres naturaliziranih razmerij med zgodovino in ideologijo</title>
+               <title>Nemišljeno v slovenskem zgodovinopisju</title><title>Kritični pretres naturaliziranih razmerij med zgodovino in ideologijo</title>
                <citedIn count="1">
                   <cit did="2018" cid="188" avtor0="Kramberger T."
                      naslov0="Nemišljeno v slovenskem zgodovinopisju. Kritični pretres naturaliziranih razmerij med zgodovino in ideologijo"
@@ -18282,7 +18285,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Rotar D. B.</author>
-               <title>Epuration comme forme de culture. La transformation des paradigmes mentaux en Carniole au XIXe siecle</title>
+               <title>Epuration comme forme de culture</title><title>La transformation des paradigmes mentaux en Carniole au XIXe siecle</title>
                <page>45-70</page>
                <citedIn count="1">
                   <cit did="2018" cid="279" avtor0="Rotar D. B."
@@ -18381,8 +18384,10 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Kramberger T.</author>
                <title>Marie-Elisabeth Ducreux (gostujoči predavanji)</title>
-               <title>1. Filologija in nacija. Debata o izvorih Slovanov med mitom in znanstve-nostjo. 2. Marijin kult v habsburškem prostoru v 17. stoletju</title>
+               <title>Filologija in nacija</title>
+               <title>Debata o izvorih Slovanov med mitom in znanstvenostjo &amp; Marijin kult v habsburškem prostoru v 17. stoletju</title>
                <page>214-217</page>
+               <cobiss>701069</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="186" avtor0="Kramberger T."
                      naslov0="Marie-Elisabeth Ducreux (gostujoči predavanji): 1. Filologija in nacija. Debata o izvorih Slovanov med mitom in znanstve-nostjo. 2. Marijin kult v habsburškem prostoru v 17. stoletju"
@@ -18662,7 +18667,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Kokole Metoda</author>
-               <title>Italijanske operne predstave pri Auerspergih sredi 17 stoletja - drobtinica k slovenskemu glasbenemu zgodovinopisju</title>
+               <title>Italijanske operne predstave pri Auerspergih sredi 17 stoletja</title><title>drobtinica k slovenskemu glasbenemu zgodovinopisju</title>
                <page>115-129</page>
                <citedIn count="1">
                   <cit did="2638" cid="127" avtor0="Kokole Metoda"
@@ -18761,7 +18766,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Frelih Darja</author>
-               <title>Viktor Parma - raziskovalna izhodišča</title>
+               <title>Viktor Parma</title><title>raziskovalna izhodišča</title>
                <page>39-58</page>
                <cobiss>56128768</cobiss>
                <citedIn count="1">
@@ -19332,7 +19337,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue n="21">
             <pubPart>
                <author>Cvetko C.</author>
-               <title>Slovenska opera v evropskem okviru - intervju</title>
+               <title>Slovenska opera v evropskem okviru</title><title>intervju</title>
                <citedIn count="1">
                   <cit did="727" cid="7" avtor0="Cvetko C."
                      naslov0="Slovenska opera v evropskem okviru - intervju" source="Naši razgledi"
@@ -21987,7 +21992,8 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             </pubPart>
             <pubPart>
                <author>Orel Tine</author>
-               <title>Ni umrl - ne sme umreti (Ob Badjurovi smrti)</title>
+               <title>Ni umrl - ne sme umreti</title>
+               <title>(Ob Badjurovi smrti)</title>
                <page>530-531</page>
                <citedIn count="1">
                   <cit did="3365" cid="215" avtor0="Orel Tine"
@@ -22288,7 +22294,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
          <issue>
             <pubPart>
                <author>Župnek Franjo</author>
-               <title>Pokluka - planinsko in športno središče</title>
+               <title>Pokluka</title><title>planinsko in športno središče</title>
                <page>157-160</page>
                <citedIn count="1">
                   <cit did="3365" cid="378" avtor0="Župnek Franjo"
@@ -22521,8 +22527,7 @@ Izdanje "Hrvatske Revije", Zagreb l</title>
             <pubPart>
                <author>Turk Ivan et al.</author>
                <title>Acijev spodmol pri Petrinjah, Slovenija</title>
-               <title>dr.
-Francu Lebnu-Aciju za petinšestdesetletnico</title>
+               <title>dr. Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <page>27-48</page>
                <citedIn count="1">
                   <cit did="423" cid="36" avtor0="Turk Ivan et al."
@@ -22595,7 +22600,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Harej Z.</author>
-               <title>Kolišče v Partih pri Igu na Ljubljanskem barju. Raziskovanja leta 1981</title>
+               <title>Kolišče v Partih pri Igu na Ljubljanskem barju</title><title>Raziskovanja leta 1981</title>
                <page>141-194</page>
                <citedIn count="1">
                   <cit did="1948" cid="16" avtor0="Harej Z."
@@ -22627,7 +22632,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Frelih M.</author>
-               <title>Breg pri Škofljici - mezolitsko najdišče na Ljubljanskem barju</title>
+               <title>Breg pri Škofljici</title><title>mezolitsko najdišče na Ljubljanskem barju</title>
                <page>21-58</page>
                <citedIn count="1">
                   <cit did="2584" cid="37" avtor0="Frelih M."
@@ -22654,7 +22659,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Pohar V.</author>
-               <title>Judovska hiša pri Moverni vasi - Prva paleolitska postaja v Beli krajini (Die Hohle Judovska hiša beim Dorf Moverna vas - Die erste Palaolilhsiation in der Bela Krajina)</title>
+               <title>Judovska hiša pri Moverni vasi</title><title>Prva paleolitska postaja v Beli krajini</title>
+               <addTitle>Die Hohle Judovska hiša beim Dorf Moverna vas. Die erste Palaolilhsiation in der Bela Krajina</addTitle>
                <page>7-15</page>
                <citedIn count="1">
                   <cit did="2584" cid="62" avtor0="Pohar V."
@@ -22811,7 +22817,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Škerlj Franc</author>
-               <title>Tržaško društvo "Pravnik" - prva podružnica osrednjega matičnega društva v Ljubljani</title>
+               <title>Tržaško društvo "Pravnik"</title><title>prva podružnica osrednjega matičnega društva v Ljubljani</title>
                <citedIn count="1">
                   <cit did="3335" cid="8" avtor0="Škerlj Franc"
                      naslov0="Tržaško društvo &#34;Pravnik&#34; - prva podružnica osrednjega matičnega društva v Ljubljani"
@@ -23262,7 +23268,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="155">
             <pubPart>
                <author>Prijatelj Anton</author>
-               <title>Dr. Fran Goestl - psihiater in publicist</title>
+               <title>Dr. Fran Goestl</title>
+               <title>psihiater in publicist</title>
                <page>134-136</page>
                <citedIn count="1">
                   <cit did="1881" cid="17" avtor0="Prijatelj Anton"
@@ -23664,7 +23671,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Belaj V.</author>
-               <title>Grom in strela v kmečki hiši - mitološko ozadje že pozabljenega verovanja</title>
+               <title>Grom in strela v kmečki hiši</title><title>mitološko ozadje že pozabljenega verovanja</title>
                <page>979-991</page>
                <citedIn count="1">
                   <cit did="715" cid="1" avtor0="Belaj V."
@@ -24050,7 +24057,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Kambič Mirko</author>
-               <title>Mlini na reki Krupi. Mlin na Dolenjcih</title>
+               <title>Mlini na reki Krupi</title><title>Mlin na Dolenjcih</title>
                <page>145-149</page>
                <cobiss>246667264</cobiss>
                <citedIn count="1">
@@ -24067,7 +24074,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="3-4">
             <pubPart>
                <author>Kambič Mirko</author>
-               <title>Mlini na reki Krupi. [Grajski mlin]</title>
+               <title>Mlini na reki Krupi</title><title>[Grajski mlin]</title>
                <page>346-351</page>
                <cobiss>246668288</cobiss>
                <citedIn count="1">
@@ -24174,7 +24181,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="3-4">
             <pubPart>
                <author>Zupančič Jernej</author>
-               <title>Kapnice - pomemben element kulturne dediščine dolenjskih kraških pokrajin</title>
+               <title>Kapnice</title><title>pomemben element kulturne dediščine dolenjskih kraških pokrajin</title>
                <cobiss>214955008</cobiss>
                <citedIn count="1">
                   <cit did="3131" cid="2" avtor0="Zupančič Jernej"
@@ -24437,7 +24444,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="5-8">
             <pubPart>
                <author>Ferenc Mitja</author>
-               <title>Kulturna dediščina kočevskih Nemcev - vzroki za njen propad</title>
+               <title>Kulturna dediščina kočevskih Nemcev</title><title>vzroki za njen propad</title>
                <page>429, 584-593</page>
                <citedIn count="1">
                   <cit did="844" cid="41" avtor0="Ferenc Mitja"
@@ -24967,7 +24974,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="13">
             <pubPart>
                <author>Klopčič Vera</author>
-               <title>regionalni projekt za jugovzhodno Evropo za povečanje možnosti za zaposlovanje Romov</title>
+               <title>Regionalni projekt za jugovzhodno Evropo za povečanje možnosti za zaposlovanje Romov</title>
                <title>Delavnica I - Slovenija</title>
                <title>delavnica za usposabljanje delavcev lokalnih zavodov za zaposlovanje. Zaposlitvene možnosti pripadnikov romske skupnosti</title>
                <page>3-5</page>
@@ -25008,7 +25015,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="4">
             <pubPart>
                <author>Avsec T.</author>
-               <title>Miss internacionalno Romani Majsuzi Chaj. Izbor mednarodne romske miss 98</title>
+               <title>Miss internacionalno Romani Majsuzi Chaj</title><title>Izbor mednarodne romske miss 98</title>
                <page>4-6</page>
                <citedIn count="1">
                   <cit did="3199" cid="3" avtor0="Avsec T."
@@ -25018,7 +25025,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Janko Spreizar A.</author>
-               <title>Položaj Romov v Evropi - seminar. Srečanje z dr. Rajkom Duričem</title>
+               <title>Položaj Romov v Evropi</title><title>seminar</title><title>Srečanje z dr. Rajkom Duričem</title>
                <page>4-6</page>
                <cobiss>7903565</cobiss>
                <citedIn count="1">
@@ -25034,7 +25041,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Avsec T.</author>
-               <title>Romi in svet. 8. april - svetovni dan Romov</title>
+               <title>Romi in svet. 8. april</title><title>svetovni dan Romov</title>
                <page>6</page>
                <citedIn count="1">
                   <cit did="3199" cid="2" avtor0="Avsec T."
@@ -25142,7 +25149,8 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="33">
             <pubPart>
                <author>Kos P., Semrov A.</author>
-               <title>Rimski novci in kontramarke iz 1. stoletja. Augustus - Traianus</title>
+               <title>Rimski novci in kontramarke iz 1. stoletja.</title>
+               <title>Augustus - Traianus</title>
                <title>Zbirka Numizmatičnega kabineta Narodnega muzeja</title>
                <citedIn count="1">
                   <cit did="1939" cid="47" avtor0="Kos P., Semrov A."
@@ -25583,7 +25591,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Hladnik Miran</author>
-               <title>Temeljni problemi zgodovinskega romana. 2. del</title>
+               <title>Temeljni problemi zgodovinskega romana</title><title>2. del</title>
                <page>183-200</page>
                <cobiss>54026240</cobiss>
                <citedIn count="1">
@@ -25625,7 +25633,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Vidovič Muha Ada</author>
-               <title>Glagolske sestavljenke - njihova skladenjska podstava in vezljivostne lastnosti (Z normativnim slovensko-nemškim vidikom)</title>
+               <title>Glagolske sestavljenke</title><title>njihova skladenjska podstava in vezljivostne lastnosti (Z normativnim slovensko-nemškim vidikom)</title>
                <page>161-192</page>
                <citedIn count="1">
                   <cit did="1623" cid="22" avtor0="Vidovič Muha Ada"
@@ -25641,7 +25649,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Rozman Andrej</author>
-               <title>Smolej Viktor - osemdesetletnik</title>
+               <title>Smolej Viktor</title><title>osemdesetletnik</title>
                <page>3-4</page>
                <citedIn count="1">
                   <cit did="1626" cid="242" avtor0="Rozman Andrej"
@@ -26953,7 +26961,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Pahor Miroslav</author>
-               <title>Senožeče - slovenska pomorska postojanka na kopnem</title>
+               <title>Senožeče</title><title>slovenska pomorska postojanka na kopnem</title>
                <page>21-79</page>
                <cobiss>5752209</cobiss>
                <citedIn count="1">
@@ -27184,7 +27192,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="7-8">
             <pubPart>
                <author>Marentič Požarnik B.</author>
-               <title>Akcijsko raziskovanje - spodbujanje učiteljevega razmišljanja in profesionalne rasti</title>
+               <title>Akcijsko raziskovanje</title><title>spodbujanje učiteljevega razmišljanja in profesionalne rasti</title>
                <page>347-359</page>
                <citedIn count="1">
                   <cit did="3189" cid="13" avtor0="Marentič Požarnik B."
@@ -27200,7 +27208,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1-2">
             <pubPart>
                <author>Marentič Požarnik B.</author>
-               <title>Izkustveno učenje - modna muha. skupek tehnik ali alternativni model pomembnega učenja?</title>
+               <title>Izkustveno učenje - modna muha</title><title>skupek tehnik ali alternativni model pomembnega učenja?</title>
                <page>1-16</page>
                <cobiss>44669184</cobiss>
                <citedIn count="1">
@@ -28028,7 +28036,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="3">
             <pubPart>
                <author>Matičetov Milko</author>
-               <title>Löl Kodič - Krpan iz Rezije</title>
+               <title>Löl Kodič</title><title>Krpan iz Rezije</title>
                <citedIn count="1">
                   <cit did="2625" cid="69" avtor0="Matičetov Milko"
                      naslov0="Löl Kodič - Krpan iz Rezije" source="Sodobnost" year="1963"
@@ -28423,7 +28431,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Vodušek Starič Jerca</author>
-               <title>Mesto želja. Skica političnega ozadja</title>
+               <title>Mesto želja</title><title>Skica političnega ozadja</title>
                <citedIn count="1">
                   <cit did="460" cid="19" avtor0="Vodušek Starič Jerca"
                      naslov0="Mesto želja. Skica političnega ozadja" source="Svobodna misel"
@@ -28494,7 +28502,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="28. 5. 1999">
             <pubPart>
                <author>Štefanec Tone</author>
-               <title>Pri Ivanu Gjonu Simoniju. Albanci se v Sloveniji dobro počutimo</title>
+               <title>Pri Ivanu Gjonu Simoniju</title><title>Albanci se v Sloveniji dobro počutimo</title>
                <page>12-13</page>
                <cobiss>7032653</cobiss>
                <citedIn count="1">
@@ -28512,7 +28520,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             <pubPart>
                <author>Fischer Jasna</author>
                <title>Nacionalna zbirka žrtev druge svetovne vojne</title>
-               <title>pogovor z dr. Jasno Fischer...</title>
+               <title>pogovor z dr. Jasno Fischer</title>
                <page>2-11</page>
                <citedIn count="1">
                   <cit did="1858" cid="2" avtor0="Fischer Jasna"
@@ -28524,7 +28532,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Korošec Branko</author>
-               <title>Italijanski načrt izkoriščanja in poselitve Kočevske. Genocidno uničevanje slovenskega prebivalstva in naselij ob Kolpi in Gorjancih</title>
+               <title>Italijanski načrt izkoriščanja in poselitve Kočevske</title><title>Genocidno uničevanje slovenskega prebivalstva in naselij ob Kolpi in Gorjancih</title>
                <citedIn count="1">
                   <cit did="2567" cid="17" avtor0="Korošec Branko"
                      naslov0="Italijanski načrt izkoriščanja in poselitve Kočevske. Genocidno uničevanje slovenskega prebivalstva in naselij ob Kolpi in Gorjancih"
@@ -28889,7 +28897,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="2">
             <pubPart>
                <author>Pavlič Slavica</author>
-               <title>Dr. Franjo Čibej (1901-1929) - ob stoletnici rojstva</title>
+               <title>Dr. Franjo Čibej (1901-1929)</title><title>ob stoletnici rojstva</title>
                <page>297-298</page>
                <cobiss>19156781</cobiss>
                <citedIn count="1">
@@ -29192,7 +29200,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="5-6">
             <pubPart>
                <author>Frančič Nace</author>
-               <title>Ivanki Primožič - Ireni v spomin</title>
+               <title>Ivanki Primožič</title><title>Ireni v spomin</title>
                <page>126-127</page>
                <citedIn count="1">
                   <cit did="146" cid="2" avtor0="Frančič Nace"
@@ -29435,7 +29443,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="6">
             <pubPart>
                <author>Valh Lopert Alenka</author>
-               <title>Nacionalni in komercialni radio - jezikoslovčev pogled na radijski jezik</title>
+               <title>Nacionalni in komercialni radio</title><title>jezikoslovčev pogled na radijski jezik</title>
                <page>770-784</page>
                <cobiss>29070941</cobiss>
                <citedIn count="1">
@@ -29633,7 +29641,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Vreg F.</author>
-               <title>Globalizacija in elektronska demokracija. Politološko-sociološki vidiki razvoja informacijske družbe</title>
+               <title>Globalizacija in elektronska demokracija</title><title>Politološko-sociološki vidiki razvoja informacijske družbe</title>
                <page>5-28</page>
                <citedIn count="1">
                   <cit did="2008" cid="67" avtor0="Vreg F."
@@ -30057,7 +30065,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="8-9">
             <pubPart>
                <author>Plut Dušan</author>
-               <title>Kako naprej - zeleni</title>
+               <title>Kako naprej</title><title>zeleni</title>
                <page>1030-1038</page>
                <citedIn count="1">
                   <cit did="417" cid="7" avtor0="Plut Dušan" naslov0="Kako naprej - zeleni"
@@ -30163,7 +30171,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="9-10">
             <pubPart>
                <author>Bavcon Ljubo</author>
-               <title>Le narodnoosvobodilna vojna - ali tudi državljanska vojna</title>
+               <title>Le narodnoosvobodilna vojna</title><title>ali tudi državljanska vojna</title>
                <page>1005</page>
                <citedIn count="1">
                   <cit did="644" cid="9" avtor0="Bavcon Ljubo"
@@ -30194,7 +30202,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Ževart Milan</author>
-               <title>Kolaboracija - posebnosti na Štajerskem</title>
+               <title>Kolaboracija</title><title>posebnosti na Štajerskem</title>
                <page>1006-1010</page>
                <citedIn count="1">
                   <cit did="2287" cid="88" avtor0="Ževart Milan"
@@ -30311,7 +30319,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="5-6">
             <pubPart>
                <author>Prunk Janko</author>
-               <title>Boj za enotnost delavskega razreda. Prizadevanja komunistične partije v Sloveniji za delavsko enotnost v letih 1935-1941 in Titova vloga pri tem</title>
+               <title>Boj za enotnost delavskega razreda</title><title>Prizadevanja komunistične partije v Sloveniji za delavsko enotnost v letih 1935-1941 in Titova vloga pri tem</title>
                <page>490-496</page>
                <cobiss>6301533</cobiss>
                <citedIn count="1">
@@ -30406,7 +30414,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Rugelj Janez</author>
-               <title>Polemika o stanju in razmerah v JLA - še enkrat</title>
+               <title>Polemika o stanju in razmerah v JLA</title><title>še enkrat</title>
                <page>99-108</page>
                <citedIn count="1">
                   <cit did="825" cid="9" avtor0="Rugelj Janez"
@@ -31220,7 +31228,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="5-6">
             <pubPart>
                <author>Riha Lenart</author>
-               <title>V Sloveniji kolaboracije ni bilo. Pogovor z dr. Markom Kremžarjem</title>
+               <title>V Sloveniji kolaboracije ni bilo</title><title>Pogovor z dr. Markom Kremžarjem</title>
                <citedIn count="1">
                   <cit did="2418" cid="38" avtor0="Riha Lenart"
                      naslov0="V Sloveniji kolaboracije ni bilo. Pogovor z dr. Markom Kremžarjem"
@@ -31419,7 +31427,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="9">
             <pubPart>
                <author>Mihelič Darja</author>
-               <title>Vstaja, imenovana "carmula". Karantanija, druga polovica 8. stoletja</title>
+               <title>Vstaja, imenovana "carmula"</title><title>Karantanija, druga polovica 8. stoletja</title>
                <page>78-88</page>
                <citedIn count="1">
                   <cit did="2318" cid="29" avtor0="Mihelič Darja"
@@ -31589,7 +31597,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Bratina P.</author>
-               <title>Grgar - gradišče Grasišče</title>
+               <title>Grgar</title><title>gradišče Grasišče</title>
                <page>47-49</page>
                <citedIn count="1">
                   <cit did="1953" cid="3" avtor0="Bratina P." naslov0="Grgar - gradišče Grasišče"
@@ -31647,7 +31655,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Gaspari  Andrej</author>
-               <title>Portorož - arheološko najdišče Fizine</title>
+               <title>Portorož</title><title>arheološko najdišče Fizine</title>
                <page>151-153</page>
                <citedIn count="1">
                   <cit did="419" cid="19" avtor0="Gaspari  Andrej"
@@ -31681,7 +31689,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Bratina Patricija</author>
-               <title>Tabor nad Zagorjem - Šilentabor</title>
+               <title>Tabor nad Zagorjem</title><title>Šilentabor</title>
                <title>konservatorsko poročilo</title>
                <page>130-131</page>
                <citedIn count="1">
@@ -31775,7 +31783,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Peskar Robert</author>
-               <title>Gotsko stensko slikarstvo na Dolenjskem in v Beli krajini - nova odkritja</title>
+               <title>Gotsko stensko slikarstvo na Dolenjskem in v Beli krajini</title><title>nova odkritja</title>
                <page>69-96</page>
                <page>75</page>
                <cobiss>73964800</cobiss>
@@ -31898,7 +31906,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Osmuk Nada</author>
-               <title>Podgrad pri Vremah - grad Švarcenek</title>
+               <title>Podgrad pri Vremah</title><title>grad Švarcenek</title>
                <title>konservatorsko poročilo</title>
                <page>229</page>
                <citedIn count="1">
@@ -32308,7 +32316,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Fister Peter</author>
-               <title>Tuštanj pri Moravčah. Konservatorska poročila</title>
+               <title>Tuštanj pri Moravčah</title><title>Konservatorska poročila</title>
                <citedIn count="1">
                   <cit did="2117" cid="5" avtor0="Fister Peter"
                      naslov0="Tuštanj pri Moravčah. Konservatorska poročila"
@@ -32458,7 +32466,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Mušič M.</author>
-               <title>Grad Otočec. Problemi njegove stavbne zgodovine in obnove</title>
+               <title>Grad Otočec</title><title>Problemi njegove stavbne zgodovine in obnove</title>
                <citedIn count="1">
                   <cit did="2619" cid="31" avtor0="Mušič M."
                      naslov0="Grad Otočec. Problemi njegove stavbne zgodovine in obnove"
@@ -32483,7 +32491,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Šumi Nace</author>
-               <title>Tuštanj. Konservatorska poročila 1959</title>
+               <title>Tuštanj</title><title>Konservatorska poročila 1959</title>
                <citedIn count="1">
                   <cit did="2117" cid="6" avtor0="Šumi Nace"
                      naslov0="Tuštanj. Konservatorska poročila 1959" source="Varstvo spomenikov"
@@ -32965,7 +32973,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Nanut Karlo</author>
-               <title>Uporaba in delovanje oklepno - mehaniziranih enot JLA</title>
+               <title>Uporaba in delovanje oklepno</title><title>mehaniziranih enot JLA</title>
                <citedIn count="1">
                   <cit did="3240" cid="23" avtor0="Nanut Karlo"
                      naslov0="Uporaba in delovanje oklepno - mehaniziranih enot JLA"
@@ -33070,7 +33078,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="1">
             <pubPart>
                <author>Grabnar Marjan</author>
-               <title>"Načrt Kamen - 10 let pozneje"</title>
+               <title>"Načrt Kamen</title><title>10 let pozneje"</title>
                <citedIn count="1">
                   <cit did="3235" cid="3" avtor0="Grabnar Marjan"
                      naslov0="&#34;Načrt Kamen - 10 let pozneje&#34;" source="Vojaška zgodovina"
@@ -33228,7 +33236,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="6">
             <pubPart>
                <author>Ciglar Jakob</author>
-               <title>Matija Malešič - vojni dnevnik 1914</title>
+               <title>Matija Malešič</title><title>vojni dnevnik 1914</title>
                <page>28-43</page>
                <citedIn count="1">
                   <cit did="3386" cid="24" avtor0="Ciglar Jakob"
@@ -33907,7 +33915,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="16">
             <pubPart>
                <author>Kragelj Jožko</author>
-               <title>Revolucija na Primorskem - anatomija nekega zločina</title>
+               <title>Revolucija na Primorskem</title><title>anatomija nekega zločina</title>
                <citedIn count="1">
                   <cit did="2554" cid="12" avtor0="Kragelj Jožko"
                      naslov0="Revolucija na Primorskem - anatomija nekega zločina" source="Zaveza"
@@ -34172,7 +34180,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Kuzmič Franc</author>
-               <title>Murska Sobota - kronologija mesta</title>
+               <title>Murska Sobota</title><title>kronologija mesta</title>
                <page>207-223</page>
                <cobiss>6897459</cobiss>
                <citedIn count="1">
@@ -34188,7 +34196,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="8">
             <pubPart>
                <author>Guštin Mitja</author>
-               <title>Starejša bronasta doba v Prekmurju. Horizont pramenaste (litzen) lončenine</title>
+               <title>Starejša bronasta doba v Prekmurju</title><title>Horizont pramenaste (litzen) lončenine</title>
                <page>85-98</page>
                <cobiss>4901171</cobiss>
                <citedIn count="1">
@@ -34226,7 +34234,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Šavel Irena</author>
-               <title>Najdišče za Raščico pri Krogu - naselbina kulture Somogyvár-Vinkovci</title>
+               <title>Najdišče za Raščico pri Krogu</title><title>naselbina kulture Somogyvár-Vinkovci</title>
                <page>39-84</page>
                <cobiss>4900403</cobiss>
                <citedIn count="1">
@@ -34772,7 +34780,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
             </pubPart>
             <pubPart>
                <author>Stare Miloš</author>
-               <title>Leto 1945 - usoden mejnik</title>
+               <title>Leto 1945</title><title>usoden mejnik</title>
                <page>217</page>
                <citedIn count="1">
                   <cit did="3133" cid="184" avtor0="Stare Miloš" naslov0="Leto 1945 - usoden mejnik"
@@ -34934,7 +34942,9 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Lazar Tomaž</author>
-               <title>Likovni viri za vojaško zgodovino poznega srednjega veka; Stensko in tabelno slikarstvo na Slovenskem in v sosednjih deželah, 2. del.</title>
+               <title>Likovni viri za vojaško zgodovino poznega srednjega veka</title>
+               <title>Stensko in tabelno slikarstvo na Slovenskem in v sosednjih deželah</title>
+               <title>2. del</title>
                <page>139-160</page>
                <citedIn count="1">
                   <cit did="3249" cid="15" avtor0="Lazar Tomaž"
@@ -35021,7 +35031,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="41">
             <pubPart>
                <author>Kemperl Metoda</author>
-               <title>Gašper Ignac Mauher - Novo ime med spodnještajerskimi baročnimi kiparji</title>
+               <title>Gašper Ignac Mauher</title><title>Novo ime med spodnještajerskimi baročnimi kiparji</title>
                <page>219 ...</page>
                <citedIn count="1">
                   <cit did="1298" cid="89" avtor0="Kemperl Metoda"
@@ -35138,7 +35148,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue>
             <pubPart>
                <author>Mihelič Breda</author>
-               <title>Kongresni trg z Zvezdo - spomenik urbane umetnosti zgodnjega 19. stoletja</title>
+               <title>Kongresni trg z Zvezdo</title><title>spomenik urbane umetnosti zgodnjega 19. stoletja</title>
                <page>114-145</page>
                <citedIn count="1">
                   <cit did="2156" cid="26" avtor0="Mihelič Breda"
@@ -36232,7 +36242,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="7-8">
             <pubPart>
                <author>Malačič Janez</author>
-               <title>Načrtovanje zdravega potomstva - odgovornost posameznika do družbe</title>
+               <title>Načrtovanje zdravega potomstva</title><title>odgovornost posameznika do družbe</title>
                <page>349-354</page>
                <cobiss>36236544</cobiss>
                <citedIn count="1">
@@ -36374,7 +36384,7 @@ Francu Lebnu-Aciju za petinšestdesetletnico</title>
          <issue n="11-12">
             <pubPart>
                <author>Stropnik Zlata</author>
-               <title>Marko Anton Plenčič - predhodnik moderne mikrobiologije</title>
+               <title>Marko Anton Plenčič</title><title>predhodnik moderne mikrobiologije</title>
                <page>329-331</page>
                <citedIn count="1">
                   <cit did="2610" cid="92" avtor0="Stropnik Zlata"
