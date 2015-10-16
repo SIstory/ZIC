@@ -13491,7 +13491,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Pivec Melita</author>
+            <author>Pivec Melitta</author>
             <title>Programi političnih strank in statistika volitev</title>
             <cobiss>93723648</cobiss>
             <page>357-776</page>
@@ -13532,7 +13532,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Pivec Stele Melita</author>
+            <author>Pivec Stele Melitta</author>
             <title>Kronološki pregled glavnih dogodkov 1914-1928</title>
             <cobiss>93725952</cobiss>
             <page>758-776</page>
@@ -13673,8 +13673,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Krošel Černelič A</author>
+            <author>Černelič Krošelj Alenka</author>
             <title>Družina Černelič v Zagrebu od začetka 20. stoletja do danes</title>
+            <addTitle>Obitelj Černelič u Zagrebu od početka 20. stolječa do danas</addTitle>
             <cobiss>9811873</cobiss>
             <page>241-257</page>
             <citedIn count="1">
@@ -13687,7 +13688,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kržišnik Bukić Vera</author>
+            <author>Kržišnik-Bukić Vera</author>
             <title>O Slovencih in slovenstvu na Hrvaškem od nekdaj do danes</title>
             <cobiss>10622285</cobiss>
             <page>15-87</page>
@@ -13794,7 +13795,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Smole Marko</author>
-            <title>Zgodba družine Čop iz hrvaške vasi Plešce v Čabranski dolini: kontinuiteta prepletanja hrvaške in slovenske tradicije na obmejnem podeželju?</title>
+            <title>Zgodba družine Čop iz hrvaške vasi Plešce v Čabranski dolini : kontinuiteta prepletanja hrvaške in slovenske tradicije na obmejnem podeželju?</title>
             <page>223-234</page>
             <citedIn count="1">
                <cit did="3072" cid="262" avtor0="Smole Marko"
@@ -13807,6 +13808,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Stanonik Marija</author>
             <title>Narečna poezija Zlatka Pochobradskega</title>
+            <addTitle>Dijalektološka poezija Zlatka Pochobradskog</addTitle>
             <cobiss>26071085</cobiss>
             <page>173-198</page>
             <citedIn count="1">
@@ -13820,7 +13822,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Strašek Franc</author>
             <title>Slovenci na Hrvaškem - samoorganiziranost nekdaj in danes</title>
-            <title>Slovenci na Hrvaškem: samoorganiziranost nekdaj in sedaj</title>
             <page>97-104</page>
             <citedIn count="2">
                <cit did="3072" cid="270" avtor0="Strašek Franc"
@@ -13837,8 +13838,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Tucović Vladka</author>
             <author>Mihurko Poniž Katja</author>
-            <title>Slovenske me več nočejo, Hrvatice me ne priznavajo čisto za svojo</title>
-            <title>Zofka Kveder o hrvaškem kulturnem življenju</title>
+            <title>"Slovenke me več nočejo, Hrvatice me ne priznavajo čisto za svojo"</title>
+            <title>(Zofka Kveder o hrvaškem kulturnem življenju)</title>
+            <cobiss>33663074</cobiss>
             <page>161-171</page>
             <citedIn count="1">
                <cit did="3072" cid="289" avtor0="Tucović Vladka" avtor1="Mihurko Poniž Katja"
@@ -13876,6 +13878,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pelikan Egon</author>
             <title>Slovenski politični katolicizem v tridesetih letih v luči evropskih izkušenj</title>
+            <cobiss>491731</cobiss>
             <page>105-144</page>
             <citedIn count="1">
                <cit did="2018" cid="249" avtor0="Pelikan Egon"
@@ -13889,7 +13892,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Rahten Andrej</author>
             <title>Trialistični koncepti velikoavstrijskih krogov in slovensko vprašanje</title>
-            <title>Trialistični koncepti velikoavstrijskih krogov na slovensko vprašanje</title>
             <cobiss>19528749</cobiss>
             <page>43-54</page>
             <citedIn count="6">
@@ -13926,7 +13928,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Štepec Marko</author>
             <title>Antisemitizem, Evropa in Slovenci</title>
-            <title>Antisemizem, Evropa in Slovenci</title>
             <cobiss>238444</cobiss>
             <page>61-85</page>
             <citedIn count="4">
@@ -13963,10 +13964,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Darovec Darko</author>
-            <title>Poskus opredelitve problematike naseljevanja Slovencev med Dragonjo in Mimo do 17. stoletja in njen vpliv na oblikovanje slovenske etnične meje v Istri</title>
             <title>Poskus opredelitve problematike naseljevanja Slovencev med Dragonjo in Mirno do 17. stoletja in njen vpliv na oblikovanje slovenske etnične meje v Istri</title>
-            <title>Poskus opredelitve problematike naseljevanja Slovencev med Dragonjo in Mirno do 17.stoletja in njen vpliv na oblikovanje slovenske etnične meje v Istri</title>
-            <title>Poskus opredelitve problematike naseljevenja Slovencev med Dragonjo in Mirno do 17. stoletja in njen vpliv na oblikovanje slovenske etnične meje v Istri</title>
             <cobiss>1453645</cobiss>
             <page>37-61</page>
             <citedIn count="5">
@@ -13995,9 +13993,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Slovenski izseljenci na Hrvaškem do 1914</title>
-            <title>Slovenski izseljenci na Hrvaškem do leta 1914</title>
             <cobiss>1455181</cobiss>
-            <page>107-115</page>
+            <page>107-113</page>
             <citedIn count="3">
                <cit did="2063" cid="8" avtor0="Drnovšek Marjan"
                   naslov0="Slovenski izseljenci na Hrvaškem do 1914" source="Slovenci v Hrvaški"
@@ -14014,7 +14011,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Jembrih Alojz</author>
-            <title>Prilog proučavanja doprinosa desetorice Slovenaca hrvatskom jezikoslovju, književnosti i kulturi od 16. do 19. stoljeća</title>
+            <title>Prilog proučavanju doprinosa desetorice Slovenaca hrvatskom jezikoslovlju, književnosti i kulturi od 16. do 19. stoljeća</title>
+            <cobiss>1454669</cobiss>
             <page>63-84</page>
             <citedIn count="1">
                <cit did="3072" cid="125" avtor0="Jembrih Alojz"
@@ -14024,7 +14022,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kržišnik Bukić Vera</author>
+            <author>Kržišnik-Bukić Vera</author>
             <title>O Slovencih v narodnostni sestavi prebivalstva po naseljih v obmejnih hrvaških občinah pred razpadom Jugoslavije</title>
             <cobiss>1460813</cobiss>
             <page>229-259</page>
@@ -14036,9 +14034,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kržišnik Bukić Vera</author>
             <author>Kržišnik-Bukić Vera</author>
-            <title>O narodnostnem in kulturnem samoorganiziranju</title>
             <title>O narodnostnem in kulturnem samoorganiziranju Slovencev na Hrvaškem v 20. stoletju</title>
             <cobiss>1455949</cobiss>
             <page>133-188</page>
@@ -14059,10 +14055,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kržišnik-Bukić Vera</author>
-            <author>Kržišnik Bukić Vera</author>
             <title>Vsebinsko-metodološki vidiki tematskega raziskovanja in proučevanja Slovencev na Hrvaškem/v Hrvaški</title>
             <cobiss>1452621</cobiss>
-            <page>19-35</page>
+            <page>19-34</page>
             <citedIn count="2">
                <cit did="29" cid="371" avtor0="Kržišnik-Bukić Vera"
                   naslov0="Vsebinsko-metodološki vidiki tematskega raziskovanja in proučevanja Slovencev na Hrvaškem/v Hrvaški"
@@ -14076,7 +14071,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Medica Karmen</author>
-            <title>Sodobno organizacijsko povezovanje Slovencev v hrvaški Istri</title>
+            <title>Sodobno organizacijsko povezovanje Slovencev v hrvaški Istri : prispevek k raziskovanju</title>
+            <cobiss>1469005</cobiss>
+            <page>391-400</page>
             <citedIn count="1">
                <cit did="2895" cid="9" avtor0="Medica Karmen"
                   naslov0="Sodobno organizacijsko povezovanje Slovencev v hrvaški Istri"
@@ -14085,8 +14082,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Mežnarić Silva</author>
-            <title>Slovenci u Hrvatskoj. Podaci i model jednog (sociologijskog) istraživanja</title>
-            <title>Slovenci u Hrvatskoj: podaci i model jednog (sociologijskog) istraživanja</title>
+            <title>Slovenci u Hrvatskoj : podaci i model jednog (sociologijskog) istraživanja</title>
             <cobiss>1460301</cobiss>
             <page>195-228</page>
             <citedIn count="2">
@@ -14103,7 +14099,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Nećak Lük Albina</author>
             <title>Slovenski jezik na Hrvaškem - nekaj vidikov raziskovanja</title>
             <cobiss>1467469</cobiss>
-            <page>297-308</page>
+            <page>297-307</page>
             <citedIn count="1">
                <cit did="3072" cid="211" avtor0="Nećak Lük Albina"
                   naslov0="Slovenski jezik na Hrvaškem - nekaj vidikov raziskovanja"
@@ -14114,6 +14110,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Repolusk Peter</author>
             <title>Elementi prebivalstvenega razvoja v obmejnih hrvaških občinah s poudarkom na Slovencih</title>
+            <cobiss>1461581</cobiss>
             <page>261-284</page>
             <citedIn count="1">
                <cit did="2763" cid="114" avtor0="Repolusk Peter"
@@ -14125,7 +14122,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Szabo Agneza</author>
             <title>Socijalna struktura Slovenaca u Kraljevini Hrvatskoj i Slavoniji između 1880. i 1910. godine</title>
-            <page>85-117</page>
+            <cobiss>1454925</cobiss>
+            <page>85-105</page>
             <citedIn count="1">
                <cit did="29" cid="372" avtor0="Szabo Agneza"
                   naslov0="Socijalna struktura Slovenaca u Kraljevini Hrvatskoj i Slavoniji između 1880. i 1910. godine"
@@ -14134,9 +14132,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Žagar Mitja</author>
-            <title>Ali so Slovenci na Hrvaškem narodna manjšina: Splošna terminološka vprašanja in pravna zaščita</title>
-            <title>Ali so Slovenci na Hrvaškem narodna manjšina?</title>
-            <title>Splošna terminološka vprašanja in pravna zaščita</title>
+            <title>Ali so Slovenci na Hrvaškem narodna manjšina : splošna terminološka vprašanja in pravna zaščita</title>
             <cobiss>1467981</cobiss>
             <page>323-353</page>
             <citedIn count="2">
@@ -14155,6 +14151,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Žibert Vinko</author>
             <title>Slovenci na Reki in na Hrvaškem</title>
             <cobiss>1469517</cobiss>
+            <page>401-406</page>
             <citedIn count="1">
                <cit did="29" cid="85" avtor0="Žibert Vinko"
                   naslov0="Slovenci na Reki in na Hrvaškem" cobiss="1469517"
@@ -14175,8 +14172,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Dolinar France M.</author>
-            <author>Dolinar M. France</author>
             <title>Katoliška Cerkev na Slovenskem med politiko in versko prakso</title>
+            <cobiss>274293</cobiss>
             <page>100-105</page>
             <citedIn count="2">
                <cit did="860" cid="94" avtor0="Dolinar France M."
@@ -14215,7 +14212,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Stefanija Leon</author>
-            <title>Glasba in slovenska glasba XX. Stoletja</title>
+            <title>Glasba in slovenska glasba XX. stoletja</title>
+            <cobiss>18051170</cobiss>
             <page>186-196</page>
             <citedIn count="1">
                <cit did="73" cid="136" avtor0="Stefanija Leon"
@@ -14226,7 +14224,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Pogled zgodovinarja</title>
-            <page>6-14</page>
+            <cobiss>1273972</cobiss>
+            <page>5-15</page>
             <citedIn count="3">
                <cit did="247" cid="100" avtor0="Vodopivec Peter" naslov0="Pogled zgodovinarja"
                   source="Slovenci v XX. stoletju" pubPlace="Ljubljana" year="2001" page="8"/>
@@ -14240,19 +14239,64 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       </chapters>
    </source>
    <source>
-      <pubTitle>Slovenj Gradec in Mislinjska dolina II.</pubTitle>
-      <!-- razdruži -->
-      <pubTitle>Slovenj Gradec in Mislinjska dolina I.</pubTitle>
-      <pubTitle>Slovenj Gradec in Mislinjska dolina I</pubTitle>
-      <pubTitle>Slovenj Gradec in Mislinjska dolina 1.</pubTitle>
+      <pubTitle>Slovenj Gradec in Mislinjska dolina</pubTitle>
+      <pubTitle>zbornik, I</pubTitle>
       <pubPlace>Slovenj Gradec</pubPlace>
-      <publisher>Mestna občina Slovenj Gradec in Občina Mislinja</publisher>
-      <year>1999</year>
+      <pubPlace>Mislinja</pubPlace>
+      <publisher>Mestna občina Slovenj Gradec</publisher>
+      <publisher> Občina Mislinja</publisher>
       <year>1995</year>
+      <pubCobiss>36796161</pubCobiss>
+      <chapters>
+         <pubPart>
+            <author>Mlinarič Jože</author>
+            <title>Župnija sv. Pankracija pri Slovenjem Gradcu do pridružitve ljubljanski škofiji leta 1533</title>
+            <cobiss>8074756</cobiss>
+            <page>101-146</page>
+            <citedIn count="2">
+               <cit did="2639" cid="216" avtor0="Mlinarič Jože"
+                  naslov0="Zupnija sv. Pankracija pri Slovenjem Gradcu do pridruzitve ljubljanski skofiji leta 1533"
+                  source="Slovenj Gradec in Mislinjska dolina 1." year="1995" page="101-146"/>
+               <cit did="2233" cid="39" avtor0="Mlinarič Jože"
+                  naslov0="Župnija sv. Pankracija pri Slovenjem Gradcu do pridružitve ljubljanski škofiji leta 1533"
+                  source="Slovenj Gradec in Mislinjska dolina I." pubPlace="Slovenj Gradec"
+                  publisher="Mestna občina Slovenj Gradec in Občina Mislinja" year="1995"
+                  page="101-146"/>
+            </citedIn>
+         </pubPart>
+         <pubPart>
+            <author>Strmčnik-Gulič Mira</author>
+            <title>Doneski k arheološki podobi slovenjgraškega okoliša</title>
+            <cobiss>57429248</cobiss>
+            <page>31-76</page>
+            <citedIn count="2">
+               <cit did="2639" cid="294" avtor0="Strmčnik Gulič Mira"
+                  naslov0="Doneski k arheološki podobi slovenjgraškega okoliša"
+                  source="Slovenj Gradec in Mislinjska dolina I." year="1995" page="31-76"/>
+               <cit did="2233" cid="54" avtor0="Strmčnik Gulič Mira"
+                  naslov0="Doneski k arheološki podobi slovenjgraškega okoliša"
+                  source="Slovenj Gradec in Mislinjska dolina I" pubPlace="Slovenj Gradec"
+                  publisher="Mestna občina Slovenj Gradec in Občina Mislinja" year="1995"
+                  page="31-76"/>
+            </citedIn>
+         </pubPart>
+      </chapters>
+   </source>
+   <source>
+      <pubTitle>Slovenj Gradec in Mislinjska dolina</pubTitle>
+      <pubTitle>zbornik, II</pubTitle>
+      <editor>Potočnik, Jože</editor>
+      <pubPlace>Slovenj Gradec</pubPlace>
+      <pubPlace>Mislinja</pubPlace>
+      <publisher>Mestna občina Slovenj Gradec</publisher>
+      <publisher>Občina Mislinja</publisher>
+      <year>1999</year>
+      <pubCobiss>512078700</pubCobiss>
       <chapters>
          <pubPart>
             <author>Curk Jože</author>
             <title>Prometne razmere med 11. in 20. stoletjem na širšem območju Mislinjske doline</title>
+            <cobiss>104152832</cobiss>
             <page>155-162</page>
             <citedIn count="1">
                <cit did="2240" cid="3" avtor0="Curk Jože"
@@ -14265,8 +14309,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Kos Peter</author>
             <title>Kovnica srebrnih novcev v Slovenj Gradcu v 12. in 13. stoletju</title>
-            <title>Kovnica srernih novcev v Slovenj Gradcu v 12. in 13. stoletju</title>
-            <page>103-108</page>
+            <cobiss>10790701</cobiss>
+            <page>103-110</page>
             <citedIn count="2">
                <cit did="2233" cid="27" avtor0="Kos Peter"
                   naslov0="Kovnica srebrnih novcev v Slovenj Gradcu v 12. in 13. stoletju"
@@ -14281,7 +14325,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Župnija sv. Martina v Šmartnem v srednjem veku</title>
-            <title>Župnija sv. Martina v Smartnem v srednjem veku</title>
+            <cobiss>104143872</cobiss>
             <page>63-74</page>
             <citedIn count="2">
                <cit did="2233" cid="38" avtor0="Mlinarič Jože"
@@ -14292,37 +14336,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
                <cit did="2639" cid="215" avtor0="Mlinarič Jože"
                   naslov0="Župnija sv. Martina v Smartnem v srednjem veku"
                   source="Slovenj Gradec in Mislinjska dolina II." page="63-74"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Mlinarič Jože</author>
-            <title>Zupnija sv. Pankracija pri Slovenjem Gradcu do pridruzitve ljubljanski skofiji leta 1533</title>
-            <title>Župnija sv. Pankracija pri Slovenjem Gradcu do pridružitve ljubljanski škofiji leta 1533</title>
-            <page>101-146</page>
-            <citedIn count="2">
-               <cit did="2639" cid="216" avtor0="Mlinarič Jože"
-                  naslov0="Zupnija sv. Pankracija pri Slovenjem Gradcu do pridruzitve ljubljanski skofiji leta 1533"
-                  source="Slovenj Gradec in Mislinjska dolina 1." year="1995" page="101-146"/>
-               <cit did="2233" cid="39" avtor0="Mlinarič Jože"
-                  naslov0="Župnija sv. Pankracija pri Slovenjem Gradcu do pridružitve ljubljanski škofiji leta 1533"
-                  source="Slovenj Gradec in Mislinjska dolina I." pubPlace="Slovenj Gradec"
-                  publisher="Mestna občina Slovenj Gradec in Občina Mislinja" year="1995"
-                  page="101-146"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Strmčnik Gulič Mira</author>
-            <title>Doneski k arheološki podobi slovenjgraškega okoliša</title>
-            <page>31-76</page>
-            <citedIn count="2">
-               <cit did="2639" cid="294" avtor0="Strmčnik Gulič Mira"
-                  naslov0="Doneski k arheološki podobi slovenjgraškega okoliša"
-                  source="Slovenj Gradec in Mislinjska dolina I." year="1995" page="31-76"/>
-               <cit did="2233" cid="54" avtor0="Strmčnik Gulič Mira"
-                  naslov0="Doneski k arheološki podobi slovenjgraškega okoliša"
-                  source="Slovenj Gradec in Mislinjska dolina I" pubPlace="Slovenj Gradec"
-                  publisher="Mestna občina Slovenj Gradec in Občina Mislinja" year="1995"
-                  page="31-76"/>
             </citedIn>
          </pubPart>
       </chapters>
@@ -14342,29 +14355,16 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Kahl Hans Dietrich</author>
-            <title>Der Staat der Karantanen, Fakten, Thesen und Fragen...</title>
-            <citedIn count="1">
+            <title>Der Staat der Karantanen, Fakten, Thesen und Fragen zu einer frühen slawischen Machtbildung im Ostalpenraum (7.-9. Jh.)</title>
+            <citedIn count="3">
                <cit did="2021" cid="7" avtor0="Kahl Hans Dietrich"
                   naslov0="Der Staat der Karantanen, Fakten, Thesen und Fragen..."
                   source="Slovenija in sosednje dežele med antiko in karolinško dobo..."
                   pubPlace="Ljubljana" year="2002"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Kahl Hans Dietrich</author>
-            <title>Der Staat der Karantanen. Fakten, Thesen und Fragen zu einer frühen slawischen Machtbildung im Ostalpenraum (7.-9. Jh.)</title>
-            <citedIn count="1">
                <cit did="3257" cid="38" avtor0="Kahl Hans Dietrich"
                   naslov0="Der Staat der Karantanen. Fakten, Thesen und Fragen zu einer frühen slawischen Machtbildung im Ostalpenraum (7.-9. Jh.)"
                   source="Slovenija in sosednje dežele med antiko in karolinško dobo. Začetki slovenske etnogeneze/ Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche. Anfänge der slowenischen Ethnogenese"
                   pubPlace="Ljubljana" year="2002"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Kahl Hans-Dietrich</author>
-            <title>Der Staat der Karantanen. Fakten, Thesen und Fragen zu einer frühen slawischen Machtbildung im Ostalpenraum (7.-9.-Jh.)</title>
-            <page>163-412</page>
-            <citedIn count="1">
                <cit did="1320" cid="14" avtor0="Kahl Hans-Dietrich"
                   naslov0="Der Staat der Karantanen. Fakten, Thesen und Fragen zu einer frühen slawischen Machtbildung im Ostalpenraum (7.-9.-Jh.)"
                   source="Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze/Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche : Anfänge der slowenischen Ethnogenese. Situla 39 - Razprave SAZU I/20"
@@ -14374,7 +14374,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Bratož Rajko</author>
-            <title>Das Patrirhat Grado im monotheletischen Streit</title>
+            <title>Das Patriarchat Grado im monotheletischen Streit</title>
+            <addTitle>Gradeški patriarhat v monoteletskem sporu</addTitle>
+            <cobiss>15140194</cobiss>
             <page>609-658</page>
             <citedIn count="1">
                <cit did="2171" cid="48" avtor0="Bratož Rajko"
@@ -14386,6 +14388,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Budak Neven</author>
             <title>Slavic ethnogenesies in modern northern Croatia</title>
+            <addTitle>Slovanske etnogeneze na ozemlju današnje severne Hrvaške</addTitle>
             <cobiss>18207789</cobiss>
             <page>395-402</page>
             <citedIn count="1">
@@ -14399,9 +14402,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Ciglenečki Slavko</author>
-            <title>Archeological investigations of the decline of the antiquity in Slovenia</title>
-            <title>Arheološke raziskave zatona antike v Sloveniji</title>
-            <page>119-140</page>
+            <title>Archaeological investigations of the decline of the antiquity in Slovenia</title>
+            <addTitle>Arheološke raziskave zatona antike v Sloveniji</addTitle>
+            <cobiss>17839405</cobiss>
+            <page>119-139</page>
             <citedIn count="3">
                <cit did="2165" cid="23" avtor0="Ciglenečki Slavko"
                   naslov0="Archeological investigations of the decline of the antiquity in Slovenia"
@@ -14421,7 +14425,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Dopsch Heinz</author>
             <title>Salzburg als Missions- und Kirchenzentrum</title>
-            <title>Salzburg als Missions_ und Kirchenzentrum</title>
+            <addTitle>Salzburg kot misijonsko in cerkveno središče</addTitle>
+            <cobiss>18207277</cobiss>
             <page>659-692</page>
             <citedIn count="3">
                <cit did="3192" cid="5" avtor0="Dopsch Heinz"
@@ -14440,7 +14445,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Glaser Franz</author>
             <title>Der Untergang der Antike und ihr Nachleben in Noricum</title>
-            <page>199-208</page>
+            <addTitle>Zaton antike in njeno preživetje v Noriku</addTitle>
+            <cobiss>18214445</cobiss>
+            <page>199-218</page>
             <citedIn count="2">
                <cit did="2165" cid="24" avtor0="Glaser Franz"
                   naslov0="Der Untergang der Antike und ihr Nachleben in Noricum"
@@ -14454,7 +14461,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Jarnut Jörg</author>
             <title>Die Langobarden zwischen Pannonien und Italien</title>
-            <page>153-189</page>
+            <addTitle>Langobardi med Panonijo in Italijo</addTitle>
+            <cobiss>18218541</cobiss>
+            <page>73-79</page>
             <citedIn count="1">
                <cit did="2532" cid="23" avtor0="Jarnut Jörg"
                   naslov0="Die Langobarden zwischen Pannonien und Italien"
@@ -14463,14 +14472,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kahl Hans Dietrich</author>
             <author>Kahl Hans-Dietrich</author>
-            <title>Slovenci in Karantanci. Evropski problem identitete / Slowenen und Karantanen. Ein europäisches Identitätsproblem</title>
-            <title>Slowenen und Karantanen</title>
-            <title>Ein europäisches Idnitätproblem</title>
-            <title>Slowenen und Karantanen. Ein europäisches Identitätsproblem</title>
-            <title>Ein europäisches Identitätsproblem</title>
-            <title>Slowenen und Karantaner</title>
+            <title>Slovenci in Karantanci : evropski problem identitete</title>
+            <addTitle>Slowenen und Karantanen. Ein europäisches Identitätsproblem</addTitle>
+            <cobiss>37124141</cobiss>
             <page>978-993</page>
             <citedIn count="6">
                <cit did="3393" cid="10" avtor0="Kahl Hans Dietrich"
@@ -14502,8 +14507,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Karpf Kurt</author>
-            <title>Repräsentation und Kirchenbau, zur Ausstattung karantanischer Eigenkirchen im 8./9. Jahrhundert</title>
             <title>Repräsentation und Kirchenbau: zur Ausstattung karantanischer Eigenkirchen im 8./9. Jahrhundert</title>
+            <addTitle>Reprezentančnost in gradnja cerkva: o opremi karantanskih lastniških cerkva v 8. in 9. stoletju</addTitle>
+            <cobiss>37115181</cobiss>
+            <page>711-730</page>
             <citedIn count="2">
                <cit did="2021" cid="44" avtor0="Karpf Kurt"
                   naslov0="Repräsentation und Kirchenbau, zur Ausstattung karantanischer Eigenkirchen im 8./9. Jahrhundert"
@@ -14515,10 +14522,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Krahwinkler Harald</author>
-            <author>Krähwinkler Harald</author>
-            <title>Ausgewählete slaven-Ethnonyme und ihre historische Deutung</title>
             <title>Ausgewählte Slaven-Ethnonyme und ihre historische Deutung</title>
-            <title>Ausgewälte Slaven-Ethnonyme und ihre historische Deutung</title>
+            <addTitle>Izbrani etnonimi, ki označujejo Slovane, in njihova zgodovinska razlaga</addTitle>
+            <cobiss>18233133</cobiss>
             <page>403-423</page>
             <citedIn count="4">
                <cit did="2165" cid="8" avtor0="Krahwinkler Harald"
@@ -14541,7 +14547,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Ladstätter Sabine</author>
-            <title>Von noricum Mediterraneum zur Provincia Sclaborum....</title>
+            <title>Von Noricum Mediterraneum zur Provincia Sclaborum : die Kontinuitätsfrage aus archäologischer Sicht</title>
+            <addTitle>Od sredozemskega Norika do "Provincie Sclaborum": vprašanje kontinuitete z vidika arheologije</addTitle>
+            <cobiss>18215469</cobiss>
+            <page>219-240</page>
             <citedIn count="1">
                <cit did="2165" cid="11" avtor0="Ladstätter Sabine"
                   naslov0="Von noricum Mediterraneum zur Provincia Sclaborum...."
@@ -14550,8 +14559,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Leben Seljak Petra</author>
-            <title>Etnogeneza Slovencev: rezultati antropoloških raziskav</title>
-            <page>554-556</page>
+            <title>Etnogeneza Slovencev : rezultati antropoloških raziskav</title>
+            <addTitle>The ethnogenesis of the Slovenes : the results of the anthropological researches</addTitle>
+            <cobiss>17838637</cobiss>
+            <page>549-558</page>
             <citedIn count="1">
                <cit did="1893" cid="15" avtor0="Leben Seljak Petra"
                   naslov0="Etnogeneza Slovencev: rezultati antropoloških raziskav"
@@ -14561,6 +14572,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Margetić Lujo</author>
             <title>L'Istria bizantina ed alcuni problemi del Placito di Risano</title>
+            <addTitle>Bizantinska Istra in nekatera vprašanja Rižanskega placita</addTitle>
+            <cobiss>18208045</cobiss>
             <page>81-95</page>
             <citedIn count="1">
                <cit did="747" cid="24" avtor0="Margetić Lujo"
@@ -14572,7 +14585,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Pomen zgodnjesrednjeveških etnogenez za nastanek moderne slovenske nacionalne identitete</title>
+            <addTitle>Die Bedeutung der frühmittelalterlichen Ethnogenesen für die Entstehung der modernen slowenischen Nationalidentität</addTitle>
             <cobiss>18206253</cobiss>
+            <page>15-26</page>
             <citedIn count="2">
                <cit did="864" cid="58" avtor0="Melik Vasilij"
                   naslov0="Pomen zgodnjesrednjeveških etnogenez za nastanek moderne slovenske nacionalne identitete"
@@ -14588,8 +14603,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Mihelič Darja</author>
             <title>Etnična podoba Karantanije in njenih prebivalcev v spisih zgodovinopiscev od 15. do 18. stoletja</title>
+            <addTitle>Das etnische Erscheinungsbild von Karantanien und seinen Einwohnern in Werken der Geschichtsschreiber des 15. bis 18. Jahrhunderts</addTitle>
             <cobiss>17969197</cobiss>
-            <cobiss>18279981</cobiss>
             <page>839-961</page>
             <citedIn count="9">
                <cit did="2197" cid="17" avtor0="Mihelič Darja"
@@ -14641,7 +14656,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pohl Walter</author>
             <title>Die Awaren und ihre Beziehungen zu den Slawen</title>
-            <title>Die Beziehungen der Awaren zu den Slawen</title>
+            <addTitle>Avari in njihovi odnosi do Slovanov</addTitle>
+            <cobiss>18225453</cobiss>
             <page>341-354</page>
             <citedIn count="2">
                <cit did="2207" cid="54" avtor0="Pohl Walter"
@@ -14656,9 +14672,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Mirnik Prezelj Irena</author>
-            <author>Prezelj Mirnik Irena</author>
-            <title>Re-thinking Ethnicity in Archeology</title>
             <title>Re-thinking Ethnicity in Archaeology</title>
+            <addTitle>Ponovno razmišljanje o etničnosti v arheologiji</addTitle>
+            <cobiss>18207533</cobiss>
             <page>581-605</page>
             <citedIn count="2">
                <cit did="1419" cid="21" avtor0="Mirnik Prezelj Irena"
@@ -14673,8 +14689,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Schvvarcz Andreas</author>
-            <title>Der Nordadria- und Westbalkanraum im 6. Jahrhundert zvvischen Goten und Byzantinern</title>
+            <author>Schwarcz Andreas</author>
+            <title>Der Nordadria- und Westbalkanraum im 6. Jahrhundert zwischen Goten und Byzantinern</title>
+            <addTitle>Severnojadranski prostor in zahodnobalkanski prostor med Goti in Bizantinci</addTitle>
+            <cobiss>18207021</cobiss>
             <page>59-71</page>
             <citedIn count="1">
                <cit did="2532" cid="34" avtor0="Schvvarcz Andreas"
@@ -14687,17 +14705,22 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Szameit Erik</author>
-            <title>Zum archäologishen Bild der frühen Slawen in Österreich</title>
+            <title>Zum archäologishen Bild der frühen Slawen in Österreich : mit Fragen zur ethnischen Bestimmung karolingerzeitlicher Gräberfelder im Ostalpenraumm</title>
+            <addTitle>Arheološka podoba Slovanov na ozemlju Avstrije : vprašanja etnične določitve grobišč iz karolinške dobe v vzhodnoalpskem prostoru</addTitle>
+            <cobiss>18226477</cobiss>
+            <page>507-547</page>
             <citedIn count="1">
                <cit did="2165" cid="13" avtor0="Szameit Erik"
                   naslov0="Zum archäologishen Bild der frühen Slawen in Österreich"
-                  source="Slovenija in sosednje dežele" pubPlace="Ljubljana" year="2000" page="507"
-               />
+                  source="Slovenija in sosednje dežele" pubPlace="Ljubljana" year="2000" page="507"/>
             </citedIn>
          </pubPart>
          <pubPart>
             <author>Tavano Sergio</author>
             <title>Arte altomedievale in Istria e in Friuli</title>
+            <addTitle>Zgodnjesrednjeveška umetnost v Furlaniji in Istri</addTitle>
+            <cobiss>15200306</cobiss>
+            <page> 693-709</page>
             <citedIn count="1">
                <cit did="759" cid="53" avtor0="Tavano Sergio"
                   naslov0="Arte altomedievale in Istria e in Friuli"
@@ -14708,10 +14731,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Wolf Hartmut</author>
             <author>Wolff Hartmut</author>
             <title>Vermutungen zum Ende antiker Lebensformen im südöstlichen Alpenraum</title>
-            <title>Vermutungen zum Ende antiker Lebensformen</title>
+            <addTitle>Domneve o koncu antičnih oblik življenja v jugovzhodnem alpskem prostoru</addTitle>
+            <cobiss>18224173</cobiss>
             <page>27-40</page>
             <citedIn count="2">
                <cit did="2535" cid="63" avtor0="Wolf Hartmut"
@@ -14728,11 +14751,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Štih Peter</author>
-            <title>Structure današnjega slovenskega prostora v zgodnjem srednjem veku</title>
-            <title>Struktura današnjega slovenskega prostora v zgodnjem srednjem veku</title>
             <title>Strukture današnjega slovenskega prostora v zgodnjem srednjem veku</title>
+            <addTitle>Die Strukturen des heutigen slowenischen territoriums im Frühmittelalter</addTitle>
             <cobiss>15139682</cobiss>
-            <page>335-394</page>
+            <page>355-394</page>
             <citedIn count="7">
                <cit did="2165" cid="26" avtor0="Štih Peter"
                   naslov0="Structure današnjega slovenskega prostora v zgodnjem srednjem veku"
@@ -14778,7 +14800,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Bjelajac Mile</author>
-            <title>JLA v šestdesetih in v prvi polovici sedemdesetih</title>
+            <title>JLA v šestdesetih in prvi polovici sedemdesetih</title>
+            <cobiss>2761588</cobiss>
+            <page>89-108</page>
             <citedIn count="1">
                <cit did="3210" cid="26" avtor0="Bjelajac Mile"
                   naslov0="JLA v šestdesetih in v prvi polovici sedemdesetih"
@@ -14789,6 +14813,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Borak Neven</author>
             <title>Jugoslavija med integracijo in dezintegracijo</title>
+            <cobiss>2761076</cobiss>
+            <page>29-40</page>
             <citedIn count="1">
                <cit did="3210" cid="27" avtor0="Borak Neven"
                   naslov0="Jugoslavija med integracijo in dezintegracijo"
@@ -14799,7 +14825,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Guštin Damijan</author>
             <title>Teritorialna obramba - vojaška potreba in politični projekt 1968 : 1988</title>
-            <title>Teritorialne obramba - vojaška potreba in politični projekt 1968:1988</title>
             <cobiss>2762612</cobiss>
             <page>279-294</page>
             <citedIn count="2">
@@ -14817,6 +14842,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Hadalin Jurij</author>
             <title>Tito in praška pomlad v jugoslovanskih diplomatskih virih</title>
             <cobiss>2757492</cobiss>
+            <page>143-166</page>
             <citedIn count="1">
                <cit did="3210" cid="81" avtor0="Hadalin Jurij"
                   naslov0="Tito in praška pomlad v jugoslovanskih diplomatskih virih"
@@ -14826,8 +14852,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Lorenčič Aleksander</author>
-            <title>Gospodarske razmere v Jugoslaviji v obdobju 1968- 1988: na poti v razpad</title>
-            <title>Gospodarske razmere v Jugoslaviji v obdobju 1968-1988 : na poti v razpad</title>
+            <title>Gospodarske razmere v Jugoslaviji v obdobju 1968 - 1988 : na poti v razpad</title>
             <cobiss>2762356</cobiss>
             <page>261-278</page>
             <citedIn count="2">
@@ -14844,10 +14869,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Nećak Dušan</author>
-            <author>Nečak Dušan</author>
-            <title>»Ostpolitik« Willyja Brandta in Jugoslavija (1966-1974). Ponovna vzpostavitev diplomatskih stikov</title>
-            <title>Ostpolitik Willyja Brandta in Jugoslavija (1966-1974). Ponovna navezava diplomatskih stikov med Zvezno Republiko Nemčijo in Jugoslavijo</title>
+            <title>"Ostpolitik" Willyja Brandta in Jugoslavija (1966-1974) : ponovna vzpostavitev diplomatskih stikov med Zvezno Republiko Nemčijo in Jugoslavijo</title>
             <cobiss>42055010</cobiss>
+            <page>183-230</page>
             <citedIn count="2">
                <cit did="3210" cid="143" avtor0="Nećak Dušan"
                   naslov0="»Ostpolitik« Willyja Brandta in Jugoslavija (1966-1974). Ponovna vzpostavitev diplomatskih stikov"
@@ -14879,7 +14903,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>Slovenski "liberalizem" šestdesetih let in vloga Staneta Kavčiča</title>
-            <title>Slovenski »liberalizem« šestdesetih let in vloga Staneta Kavčiča</title>
             <cobiss>42054242</cobiss>
             <page>109-120</page>
             <citedIn count="2">
@@ -14897,8 +14920,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Režek Mateja</author>
-            <title>Odmev praške pomladi in njenega zloma v Sloveniji in v Jugoslaviji</title>
+            <title>Odmev praške pomladi in njenega zloma v Sloveniji in Jugoslaviji</title>
             <cobiss>2762100</cobiss>
+            <page>143-166</page>
             <citedIn count="1">
                <cit did="3210" cid="182" avtor0="Režek Mateja"
                   naslov0="Odmev praške pomladi in njenega zloma v Sloveniji in v Jugoslaviji"
@@ -14933,6 +14957,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Vodušek Starič Jerca</author>
             <title>Brionski plenum 1966 - ocene in njegov vpliv</title>
             <cobiss>2761332</cobiss>
+            <page>67-88</page>
             <citedIn count="1">
                <cit did="3210" cid="225" avtor0="Vodušek Starič Jerca"
                   naslov0="Brionski plenum 1966 - ocene in njegov vpliv" cobiss="2761332"
@@ -14944,6 +14969,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Čepič Zdenko</author>
             <title>Jugoslovanske reforme v šestdesetih</title>
             <cobiss>2758772</cobiss>
+            <page>41-66</page>
             <citedIn count="1">
                <cit did="3210" cid="39" avtor0="Čepič Zdenko"
                   naslov0="Jugoslovanske reforme v šestdesetih" cobiss="2758772"
@@ -14954,7 +14980,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Žagar Mitja</author>
             <title>Ustava SFRJ in ustavni sistem 1974 : povzročitelj krize ali mehanizem za njeno razreševanje?</title>
-            <title>Ustava SFRJ in ustavni sistem 1974: povzročitelj krize ali mehanizem za njeno razreševanje?</title>
             <cobiss>11565901</cobiss>
             <page>231-256</page>
             <citedIn count="2">
