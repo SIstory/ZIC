@@ -15025,7 +15025,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Lukan Walter</author>
             <title>Janez Ev. Krek in Jugoslavija</title>
-            <title>Janez ev. Krek in Jugoslavija</title>
             <cobiss>15194210</cobiss>
             <page>68-77</page>
             <citedIn count="5">
@@ -15052,7 +15051,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Marušič Branko</author>
             <title>Politične koncepcije Henrika Tume leta 1918</title>
-            <title>Politične koncepcije Henrika Turne leta 1918</title>
             <cobiss>14842925</cobiss>
             <page>54-64</page>
             <citedIn count="4">
@@ -15078,7 +15076,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Melik Vasilij</author>
             <title>Ivan Hribar med Avstro-Ogrsko in Jugoslavijo</title>
             <cobiss>14843949</cobiss>
-            <page>65-633</page>
+            <page>65-67</page>
             <citedIn count="2">
                <cit did="1511" cid="219" avtor0="Melik Vasilij"
                   naslov0="Ivan Hribar med Avstro-Ogrsko in Jugoslavijo"
@@ -15093,6 +15091,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pelikan Egon</author>
             <title>Slovenci v Julijski krajini in Jugoslavija</title>
+            <cobiss>572627</cobiss>
             <page>143-157</page>
             <citedIn count="1">
                <cit did="1511" cid="270" avtor0="Pelikan Egon"
@@ -15120,6 +15119,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Pleterski Janko</author>
             <title>Pogledi Ivana Šušteršiča na jugoslovansko gibanje, samoodločbo in Jugoslavijo</title>
+            <cobiss>14841901</cobiss>
             <page>99-108</page>
             <citedIn count="2">
                <cit did="1512" cid="49" avtor0="Pleterski Janko"
@@ -15159,7 +15159,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Vodopivec Peter</author>
-            <title>Od Habsburžanov do Karadjordjevićev</title>
             <title>Od Habsburžanov h Karadjordjevićem</title>
             <cobiss>1062260</cobiss>
             <page>3-11</page>
@@ -15309,6 +15308,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Izseljevanje Slovencev v razvite evropske države do leta 1940</title>
+            <cobiss>10459949</cobiss>
             <page>29-60</page>
             <citedIn count="1">
                <cit did="130" cid="2" avtor0="Drnovšek Marjan"
@@ -15320,6 +15320,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Glušič Helga</author>
             <title>Književnost novih slovenskih priseljencev v ZDA po letu 1945</title>
+            <cobiss>10961965</cobiss>
             <page>289-304</page>
             <citedIn count="1">
                <cit did="2837" cid="16" avtor0="Glušič Helga"
@@ -15329,8 +15330,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Glušič Helga</author>
+            <author>Jurak Mirko</author>
             <title>Literarno ustvarjanje Slovencev v Kanadi</title>
+            <cobiss>10962989</cobiss>
+            <page>333-383</page>
             <citedIn count="1">
                <cit did="2745" cid="43" avtor0="Glušič Helga"
                   naslov0="Literarno ustvarjanje Slovencev v Kanadi"
@@ -15340,6 +15343,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Kuzmič Mihael</author>
             <title>Literarna dejavnost prekmurskih Slovencev v ZDA</title>
+            <cobiss>10961709</cobiss>
             <page>265-288</page>
             <citedIn count="1">
                <cit did="2837" cid="15" avtor0="Kuzmič Mihael"
@@ -15351,6 +15355,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Maver Igor</author>
             <title>Slovenci v Avstraliji</title>
+            <cobiss>10472237</cobiss>
             <page>261-265</page>
             <citedIn count="1">
                <cit did="2722" cid="6" avtor0="Maver Igor" naslov0="Slovenci v Avstraliji"
@@ -15360,8 +15365,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Petrič Jerneja</author>
-            <author>et al</author>
-            <title>Biografije in Bibliografije</title>
             <title>Biografije in bibliografije</title>
             <page>407-438</page>
             <citedIn count="2">
@@ -15375,9 +15378,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Petrič Jerneja</author>
-            <title>Književnost slovenskih priseljencev in njihovih potomcev v ZDA 1891–1945</title>
             <title>Književnost slovenskih priseljencev in njihovih potomcev v ZDA od leta 1891</title>
-            <page>89-246</page>
+            <cobiss>10956589</cobiss>
+            <page>89-263</page>
             <citedIn count="2">
                <cit did="2837" cid="14" avtor0="Petrič Jerneja"
                   naslov0="Književnost slovenskih priseljencev in njihovih potomcev v ZDA 1891–1945"
@@ -15392,6 +15395,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Stanonik Janez</author>
             <title>Književnost Slovencev pred letom 1891</title>
+            <cobiss>10956333</cobiss>
             <page>15-88</page>
             <citedIn count="1">
                <cit did="2837" cid="13" avtor0="Stanonik Janez"
@@ -15401,8 +15405,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Šuša Barbara</author>
+            <author>Suša Barbara</author>
             <title>Literarno ustvarjanje Slovencev v Avstraliji v slovenskem jeziku</title>
+            <cobiss>10472493</cobiss>
             <page>267-303</page>
             <citedIn count="1">
                <cit did="2722" cid="11" avtor0="Šuša Barbara"
@@ -15412,7 +15417,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Žitnik Janja</author>
+            <author>Žitnik Serafin Janja</author>
             <title>Književnost slovenskih priseljencev in njihovih potomcev</title>
             <page>212-223</page>
             <citedIn count="1">
@@ -15439,7 +15444,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Bučar France</author>
             <title>Ustavnopravni vidik slovenskega osamosvajanja</title>
-            <title>Ustavnopravni vidiki slovenskega osamosvajanja</title>
             <page>117-127</page>
             <citedIn count="3">
                <cit did="333" cid="2" avtor0="Bučar France"
@@ -15458,9 +15462,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Guštin Damijan</author>
-            <author>Guštin Damjan</author>
-            <title>Vojaško-politično dogajanje v jugoslovanski krizi in osamosvojitvi Slovenije</title>
-            <title>Vojaškopolitično dogajanje v jugoslovanski krizi in osamosvojitvi Slovenije</title>
             <title>Vojaškopolitično dogajanje v jugoslovanski krizi in osamosvojitev Slovenije</title>
             <cobiss>1354356</cobiss>
             <page>191-214</page>
@@ -15496,7 +15497,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Jamnik Anton</author>
             <title>Delež Cerkve pri slovenskem osamosvajanju</title>
             <cobiss>2996314</cobiss>
-            <page>170-175</page>
+            <page>163-177</page>
             <citedIn count="1">
                <cit did="333" cid="33" avtor0="Jamnik Anton"
                   naslov0="Delež Cerkve pri slovenskem osamosvajanju" cobiss="2996314"
@@ -15508,7 +15509,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Janša Janez</author>
             <title>Vojaške priprave na slovensko osamosvojitev</title>
-            <cobiss>18685794</cobiss>
             <page>145-150</page>
             <citedIn count="1">
                <cit did="333" cid="35" avtor0="Janša Janez"
@@ -15521,7 +15521,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Jelušič Ljubica</author>
             <title>Jugoslovanska ljudska armada leta 1991 v Sloveniji – začetek konca ene največjih evropskih vojsk po koncu hladne vojne</title>
-            <page>224-226</page>
+            <cobiss>21247581</cobiss>
+            <page>215-232</page>
             <citedIn count="1">
                <cit did="2384" cid="23" avtor0="Jelušič Ljubica"
                   naslov0="Jugoslovanska ljudska armada leta 1991 v Sloveniji – začetek konca ene največjih evropskih vojsk po koncu hladne vojne"
@@ -15558,13 +15559,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Prinčič Jože</author>
-            <title>Gospodarski vidik osamosvajanja Slovenije</title>
-            <title>1986-1991</title>
             <title>Gospodarski vidik osamosvajanja Slovenije (1986-1991)</title>
-            <title>Gospodarski vidik osamosvajanja Slovenije 1986-1991</title>
-            <title>Gospodarski vidiki osamosvajanja Slovenije</title>
-            <title>Gospodarski vidiki osamosvajanja Slovenije (1986 – 1991)</title>
-            <title>Gospodarski vidiki osamosvajanja Slovenije (1986-1991)</title>
             <cobiss>1422196</cobiss>
             <page>33-56</page>
             <citedIn count="6">
@@ -15600,9 +15595,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pučnik Jože</author>
-            <title>Politične priprave na osamosvojitev</title>
             <title>Politične priprave na osamosvojitev : pričevanje</title>
-            <title>Politične priprave na osamosvojitev: Pričevanje</title>
             <page>77-115</page>
             <citedIn count="4">
                <cit did="333" cid="62" avtor0="Pučnik Jože"
@@ -15627,8 +15620,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Repe Božo</author>
-            <title>Jugoslovanske notranjepolitične razmere in slovenska osamosvojitev 1991</title>
+            <title>Jugoslovanske notranjepolitične razmere in slovenska osamosvojitev</title>
             <cobiss>18684514</cobiss>
+            <page>23-32</page>
             <citedIn count="1">
                <cit did="333" cid="68" avtor0="Repe Božo"
                   naslov0="Jugoslovanske notranjepolitične razmere in slovenska osamosvojitev 1991"
@@ -15665,6 +15659,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Žigon Zvone</author>
             <title>Vloga Slovencev v tujini pri osamosvojitvi</title>
+            <addTitle>The role of Slovenes abroad in attaining independence</addTitle>
+            <cobiss>20627757</cobiss>
+            <page>179-190</page>
             <citedIn count="1">
                <cit did="2741" cid="9" avtor0="Žigon Zvone"
                   naslov0="Vloga Slovencev v tujini pri osamosvojitvi"
@@ -15686,7 +15683,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Damijan Viktor</author>
-            <author>Damjan Viktor</author>
             <title>Nastanek civilnega sodstva v NOB</title>
             <page>101-118</page>
             <citedIn count="2">
@@ -15701,7 +15697,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Hočevar France</author>
-            <title>Nastajanje novega prava in vloga pravnikov v nardnoosvobodilni borbi</title>
             <title>Nastajanje novega prava in vloga pravnikov v narodnoosvobodilni borbi</title>
             <citedIn count="2">
                <cit did="2280" cid="9" avtor0="Hočevar France"
@@ -15717,7 +15712,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Košir Fedor</author>
             <title>Delo in pomen komisije pri Predsedstvu SNOS za ugotavljanje zločinov okupatorjev in njihovih pomagačev</title>
-            <title>Delo in pomen komisje pri Predsedstvu SNOS za ugotavljanje zločincev okupatorjev in njihovi pomagačev</title>
             <page>131-136</page>
             <citedIn count="3">
                <cit did="756" cid="2" avtor0="Košir Fedor"
@@ -15744,7 +15738,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Polič Zoran</author>
-            <title>Vojaško sodstvo v Narodnoosvobodilni borbi</title>
             <title>Vojaško sodstvo v narodnoosvobodilni borbi</title>
             <page>35-50</page>
             <citedIn count="3">
@@ -15774,7 +15767,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Vivoda Marjan</author>
-            <title>Nastanek in razvoj javnega tožilstva med narodnoosvobodilno borbo</title>
             <title>Nastanek in razvoj javnega tožilstva v Sloveniji med narodnoosvobodilno borbo</title>
             <page>61-73</page>
             <citedIn count="3">
@@ -15816,8 +15808,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolinšek Divičić Marija</author>
+            <author>Dolinšek Divčić Marija</author>
             <title>Slovenci v Bosni in Hercegovini</title>
+            <cobiss>10900045</cobiss>
             <page>301-306</page>
             <citedIn count="1">
                <cit did="1279" cid="24" avtor0="Dolinšek Divičić Marija"
@@ -15830,6 +15823,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Izseljevanje Slovencev v Severno Ameriko</title>
+            <addTitle>The emigration of Slovenes to North America</addTitle>
+            <cobiss>18986541</cobiss>
+            <page>173-178</page>
             <citedIn count="1">
                <cit did="1279" cid="10" avtor0="Drnovšek Marjan"
                   naslov0="Izseljevanje Slovencev v Severno Ameriko"
@@ -15852,7 +15848,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Jurak Mirko</author>
             <title>Družbenokulturno ustvarjanje slovenskih izseljencev v Kanadi</title>
-            <page>194-195</page>
+            <addTitle>Social and cultural creativity of Slovene emigrants in Canada</addTitle>
+            <cobiss>17168482</cobiss>
+            <page>193-209</page>
             <citedIn count="1">
                <cit did="1279" cid="8" avtor0="Jurak Mirko"
                   naslov0="Družbenokulturno ustvarjanje slovenskih izseljencev v Kanadi"
@@ -15862,9 +15860,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kalc Aleks</author>
             <author>Kalc Aleksej</author>
             <title>Izseljevanje z zahodnega roba slovenskega etničnega prostora</title>
+            <cobiss>1860332</cobiss>
             <page>159-169</page>
             <citedIn count="3">
                <cit did="3283" cid="9" avtor0="Kalc Aleks"
@@ -15886,7 +15884,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <title>Odnos slovenskih izseljencev do stare domovine</title>
-            <page>57-62</page>
+            <addTitle>The relationship of Slovene emmigrants toward the homeland</addTitle>
+            <cobiss>11406344</cobiss>
+            <page>53-63</page>
             <citedIn count="1">
                <cit did="1279" cid="13" avtor0="Klemenčič Matjaž"
                   naslov0="Odnos slovenskih izseljencev do stare domovine"
@@ -15898,7 +15898,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <title>Slovenske naselbine v Združenih državah Amerike</title>
-            <page>181-184</page>
+            <addTitle>Slovene settlements in the United States of America</addTitle>
+            <cobiss>11424776</cobiss>
+            <page>179-186</page>
             <citedIn count="2">
                <cit did="2718" cid="21" avtor0="Klemenčič Matjaž"
                   naslov0="Slovenske naselbine v Združenih državah Amerike"
@@ -15913,9 +15915,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kolar Bogdan</author>
-            <title>Mesto cerkve med Slovenci po svetu in njen prispevek za ohranjanje narodnosti</title>
+            <title>Mesto Cerkve med Slovenci po svetu in njen prispevek za ohranjanje narodnosti</title>
+            <addTitle>The Catholic Church and Slovenes around the world - The Churchʹs role in maintaining slovene ethnic consciousness</addTitle>
             <cobiss>2847578</cobiss>
-            <page>125-148</page>
+            <page>125-147</page>
             <citedIn count="3">
                <cit did="2920" cid="155" avtor0="Kolar Bogdan"
                   naslov0="Mesto cerkve med Slovenci po svetu in njen prispevek za ohranjanje narodnosti"
@@ -16007,7 +16010,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Zupančič Jernej</author>
             <title>Slovensko izseljenstvo v Evropi po drugi svetovni vojni</title>
-            <page>293-296</page>
+            <cobiss>220589</cobiss>
+            <page>291-299</page>
             <citedIn count="1">
                <cit did="1279" cid="20" avtor0="Zupančič Jernej"
                   naslov0="Slovensko izseljenstvo v Evropi po drugi svetovni vojni"
@@ -16018,8 +16022,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Čebulj-Sajko Breda</author>
-            <author>Čebulj Sajko Breda</author>
             <title>Naselitev Slovencev v Avstraliji</title>
+            <addTitle>Slovene immigrants in Australia</addTitle>
+            <cobiss>18993965</cobiss>
             <page>259-268</page>
             <citedIn count="2">
                <cit did="1279" cid="17" avtor0="Čebulj-Sajko Breda"
@@ -16060,9 +16065,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Deavstrizacija v politiki, upravi in kulturi v Sloveniji</title>
-            <title>Entaustrifizierung der Politik, Verwaltung und Kultur in Slowenien</title>
-            <cobiss>1852276</cobiss>
-            <page>81-112</page>
+            <addTitle>Entaustrifizierung der Politik, Verwaltung und Kultur in Slowenien</addTitle>
+            <cobiss>1743988</cobiss>
+            <page>81-94</page>
             <citedIn count="4">
                <cit did="2569" cid="3" avtor0="Dolenc Ervin"
                   naslov0="Deavstrizacija v politiki, upravi in kulturi v Sloveniji"
@@ -16085,10 +16090,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolinar France</author>
             <author>Dolinar France M.</author>
             <title>Katoliška cerkev v Sloveniji v 20. stoletju</title>
-            <title>Katoliška Cerkev v Sloveniji v 20. stoletju</title>
+            <cobiss>555893</cobiss>
             <page>403-428</page>
             <citedIn count="3">
                <cit did="1911" cid="149" avtor0="Dolinar France"
@@ -16108,13 +16112,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ferenc Mitja</author>
             <author>Repe Božo</author>
-            <author>Ferenc Mitja, Repe Božo</author>
-            <author>Ferenc Tone</author>
             <title>Nemška manjšina v Sloveniji med obema vojnama</title>
-            <title>Nemška manjšina med obema vojnama</title>
-            <title>Nemška manjšina v Sloveniji med obema vojnama, Slovensko-avstrijski odnosi v 20. stoletju</title>
             <cobiss>27333730</cobiss>
-            <page>147-176</page>
+            <page>147-160</page>
             <citedIn count="6">
                <cit did="2446" cid="13" avtor0="Ferenc Mitja" avtor1="Repe Božo"
                   naslov0="Nemška manjšina v Sloveniji med obema vojnama"
@@ -16146,9 +16146,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ferenc Mitja</author>
             <author>Repe Božo</author>
-            <author>Ferenc Mitja, Repe Božo</author>
             <title>Slovensko-avstrijski odnosi po mednarodnem priznanju</title>
-            <page>611-706</page>
+            <cobiss>27340898</cobiss>
+            <page>611-653</page>
             <citedIn count="3">
                <cit did="2825" cid="63" avtor0="Ferenc Mitja" avtor1="Repe Božo"
                   naslov0="Slovensko-avstrijski odnosi po mednarodnem priznanju"
@@ -16171,6 +16171,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Ferenc Mitja</author>
             <author>Repe Božo</author>
             <title>Jugoslavija/Slovenija in Avstrija med vzhodom in zahodom, 1955-1991</title>
+            <cobiss>27340130</cobiss>
             <page>481-488</page>
             <citedIn count="1">
                <cit did="2560" cid="5" avtor0="Ferenc Mitja" avtor1="Repe Božo"
@@ -16182,13 +16183,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Ferenc Tone</author>
             <author>Godeša Bojan</author>
-            <author>Ferenc Tone, Godeša Bojan</author>
-            <title>Die Slowenen unter der nationalsozialistischen Herrschaft 1941-1945</title>
-            <title>Slovenci pod nacističnim gospostvom 1941-1945</title>
             <title>Slovenci pod nacističnim gospostvom</title>
-            <cobiss>1853044</cobiss>
             <cobiss>1744500</cobiss>
-            <page>177-268</page>
+            <page>177-218</page>
             <citedIn count="4">
                <cit did="1910" cid="4" avtor0="Ferenc Tone" avtor1="Godeša Bojan"
                   naslov0="Die Slowenen unter der nationalsozialistischen Herrschaft 1941-1945"
@@ -16214,6 +16211,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Jesih Boris</author>
             <title>Obdobje med 1945 in 1955</title>
+            <cobiss>9267533</cobiss>
             <page>459-468</page>
             <citedIn count="1">
                <cit did="1705" cid="3" avtor0="Jesih Boris" naslov0="Obdobje med 1945 in 1955"
@@ -16223,8 +16221,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Jesih Boris</author>
-            <title>Slovenska narodna manjšina v Republiki Avstriji. Kratek prerez zgodovinskega razvoja in oznaka trenutnega položaja</title>
-            <title>Slovenska narodna manjšina v Republiki Avstriji: kratek prerez zgodovinskega razvoja in oznaka trenutnega položaja</title>
+            <title>Slovenska narodna manjšina v Republiki Avstriji : kratek prerez zgodovinskega razvoja in oznaka trenutnega položaja</title>
+            <cobiss>9266765</cobiss>
             <page>269-304</page>
             <citedIn count="2">
                <cit did="2825" cid="72" avtor0="Jesih Boris"
@@ -16243,7 +16241,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Lazarević Žarko</author>
             <title>Gospodarsko sodelovanje Slovenije in Avstrije med obema vojnama</title>
             <cobiss>1744244</cobiss>
-            <page>122-124</page>
+            <page>113-127</page>
             <citedIn count="1">
                <cit did="3241" cid="179" avtor0="Lazarević Žarko"
                   naslov0="Gospodarsko sodelovanje Slovenije in Avstrije med obema vojnama"
@@ -16254,15 +16252,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Nećak Dušan</author>
-            <author>Nečak Dušan</author>
             <title>"Nemci" v Sloveniji 1938-1948</title>
-            <title>Nemci v Sloveniji 1938–1948</title>
-            <title>»Nemci« v Sloveniji 1938–1948</title>
-            <title>Â»NemciÂ« v Sloveniji 1938-1948</title>
-            <title>Nemci v Sloveniji 1938-1948. Slovensko - avstrijski odnosi v 20. stoletju. Slowenisch - österreichische Beziehungen im 20. Jahrhundert</title>
-            <title>»Nemci« v Sloveniji 1938-1948. Slovensko-avstrijski odnosi v 20. stoletju</title>
             <cobiss>27332962</cobiss>
-            <page>147-373</page>
+            <page>349-372</page>
             <citedIn count="6">
                <cit did="93" cid="4" avtor0="Nećak Dušan"
                   naslov0="&#34;Nemci&#34; v Sloveniji 1938-1948"
@@ -16289,8 +16281,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Prinčič Jože</author>
-            <title>Slovensko-avstrijski gospodarski odnosi
-1945-1991</title>
+            <title>Slovensko-avstrijski gospodarski odnosi 1945-1991</title>
+            <cobiss>1745012</cobiss>
+            <page>499-528</page>
             <citedIn count="1">
                <cit did="151" cid="2" avtor0="Prinčič Jože"
                   naslov0="Slovensko-avstrijski gospodarski odnosi&#xA;1945-1991"
@@ -16299,8 +16292,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Repe Božo, Ferenc Mitja</author>
+            <author>Repe Božo</author>
+            <author>Ferenc Mitja</author>
             <title>Slovensko-avstrijski odnosi po mednarodnem priznanju</title>
+            <cobiss>27340898</cobiss>
             <page>611-653</page>
             <citedIn count="1">
                <cit did="211" cid="18" avtor0="Repe Božo, Ferenc Mitja"
@@ -16312,9 +16307,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Rozman Franc</author>
-            <title>Odnos med Nemci in Slovenci na prelomu stoletja</title>
             <title>Odnos med Nemci in Slovenci na prelomu stoletja : primer socialne demokracije</title>
             <cobiss>13633800</cobiss>
+            <page>63-70</page>
             <citedIn count="2">
                <cit did="2866" cid="5" avtor0="Rozman Franc"
                   naslov0="Odnos med Nemci in Slovenci na prelomu stoletja" cobiss="13633800"
@@ -16327,11 +16322,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vodopivec  Peter</author>
             <author>Vodopivec Peter</author>
-            <title>Slovenci in Habsburška monar-hija/Die Slowenen und die Habsburgermonarchie</title>
             <title>Slovenci in Habsburška monarhija</title>
-            <title>Slovenci in habsburška monarhija</title>
             <cobiss>1741940</cobiss>
             <page>33-45</page>
             <citedIn count="7">
@@ -16384,10 +16376,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Biber Dušan</author>
             <title>Okupacija in razkosanje Slovenije - Londonski odmevi 1941-42</title>
-            <title>Okupacija in razkosanje Slovenije : Londonski
-odmevi 1941-42</title>
             <cobiss>53097984</cobiss>
-            <page>189-194</page>
+            <page>189-199</page>
             <citedIn count="2">
                <cit did="3133" cid="178" avtor0="Biber Dušan"
                   naslov0="Okupacija in razkosanje Slovenije - Londonski odmevi 1941-42"
@@ -16402,7 +16392,6 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Filipič France</author>
             <title>Politična usmeritev KPS od sredine 1940 do aprila 1941</title>
-            <title>Politična usmeritev KPS od sredine 1940 do aprila 1941.</title>
             <cobiss>763181</cobiss>
             <page>51-68</page>
             <citedIn count="3">
@@ -16422,12 +16411,9 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Godeša Bojan</author>
-            <title>"Priprave na revolucijo ali NOB"</title>
-            <title>Priprave na revolucijo ali NOB</title>
             <title>Priprave na revolucijo ali NOB?</title>
-            <title>Priprave na revolucijo ali na NOB?</title>
             <cobiss>763437</cobiss>
-            <page>69-95</page>
+            <page>69-85</page>
             <citedIn count="19">
                <cit did="860" cid="182" avtor0="Godeša Bojan"
                   naslov0="&#34;Priprave na revolucijo ali NOB&#34;" source="Slovenski upor"
@@ -16506,9 +16492,10 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Grafenauer Bogo</author>
-            <title>Diferenciacija in grupiranje političnih tokov v slovenskem političnem življenju od 1935 do konca 1940</title>
+            <title>Diferenciacija in grupiranje političnih tokov v slovenskem političnem življenju od 1935-1940</title>
+            <addTitle>The differentiation and grouping of political currents in Slovene political life from 1935 to 1940</addTitle>
             <cobiss>762413</cobiss>
-            <page>7-9</page>
+            <page>7-20</page>
             <citedIn count="2">
                <cit did="73" cid="108" avtor0="Grafenauer Bogo"
                   naslov0="Diferenciacija in grupiranje političnih tokov v slovenskem političnem življenju od 1935 do konca 1940"
@@ -16533,7 +16520,7 @@ odmevi 1941-42</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kacin Wohinz Milica</author>
+            <author>Kacin-Wohinz Milica</author>
             <title>Razmere na Primorskem pred napadom na Jugoslavijo</title>
             <cobiss>762669</cobiss>
             <page>21-35</page>
@@ -16557,8 +16544,8 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Klanjšček Zdravko</author>
-            <title>Osvobodilna fronta slovenskega naroda in oboroženi boj v letih 1941-1942</title>
             <title>Osvobodilna fronta slovenskega naroda in oboroženi boj v letih 1941/42</title>
+            <cobiss>53097728</cobiss>
             <page>173-187</page>
             <citedIn count="2">
                <cit did="3285" cid="117" avtor0="Klanjšček Zdravko"
@@ -16574,7 +16561,6 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Vzroki in oblike nasprotovanja Osvobodilni fronti v letu 1941/1942</title>
-            <title>Vzroki in oblike nasprotovanja osvobodilni fronti v letu 1941/1942</title>
             <cobiss>53099520</cobiss>
             <page>255-263</page>
             <citedIn count="3">
@@ -16594,9 +16580,7 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Mrvič Irena</author>
-            <author>Mrvič Irene</author>
             <title>Obveščevalno varnostna služba OF</title>
-            <title>Obveščevalno varnostna skužba OF</title>
             <cobiss>53100032</cobiss>
             <page>265-280</page>
             <citedIn count="4">
@@ -16645,7 +16629,8 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Novak Bogdan C.</author>
-            <title>Osvobodilna fronta v Trstu</title>
+            <title>Trst: Osvobodilna fronta (1941-1943) : osvobodilna fronta v Trstu</title>
+            <cobiss>53100288</cobiss>
             <page>281-296</page>
             <citedIn count="1">
                <cit did="1511" cid="248" avtor0="Novak Bogdan C."
@@ -16672,8 +16657,6 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Pleterski Janko</author>
-            <title>Problemi součinkovanja narodne in socialne revolucije v nastopu OF in pojav antikomunizma</title>
-            <title>Problemi součinkovanja narodne in socialne revolucije v nastopu Osvobodilne fronte in pojav antikomunizma</title>
             <title>Problemi součinkovanja narodne in socialne revolucije v nastopu Osvobodilne fronte in pojavov antikomunizma</title>
             <cobiss>53098496</cobiss>
             <page>215-238</page>
@@ -16724,9 +16707,10 @@ odmevi 1941-42</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Wohinz Kacin Milica</author>
-            <title>Razmere na Primorskem pred napadom na Jugoslavijo: slovenski upor 1941</title>
+            <author>Kacin-Wohinz Milica</author>
+            <title>Razmere na Primorskem pred napadom na Jugoslavijo</title>
             <cobiss>762669</cobiss>
+            <page>21-35</page>
             <citedIn count="1">
                <cit did="3133" cid="82" avtor0="Wohinz Kacin Milica"
                   naslov0="Razmere na Primorskem pred napadom na Jugoslavijo: slovenski upor 1941"
@@ -16736,11 +16720,10 @@ odmevi 1941-42</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Zevart Milan</author>
             <author>Ževart Milan</author>
             <title>Osvobodilna fronta in narodnoosvobodilni boj na slovenskem Štajerskem, v Mežiški dolini, na območju Dravograda in v Prekmurju 1941. leta z orisom nadaljnjega razvoja</title>
             <cobiss>764717</cobiss>
-            <page>87-172</page>
+            <page>87-104</page>
             <citedIn count="2">
                <cit did="2287" cid="91" avtor0="Zevart Milan"
                   naslov0="Osvobodilna fronta in narodnoosvobodilni boj na slovenskem Štajerskem, v Mežiški dolini, na območju Dravograda in v Prekmurju 1941. leta z orisom nadaljnjega razvoja"
@@ -16770,6 +16753,7 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Bergant Zvonko</author>
             <title>Liberalni katolicizem in slovenski narod</title>
+            <addTitle>Der liberale Katholizismus und die slowenische Nation</addTitle>
             <cobiss>2041178</cobiss>
             <page>150-157</page>
             <citedIn count="1">
@@ -16798,8 +16782,6 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Dolenc Ervin</author>
             <title>Leto 1918 kot kulturna prelomnica</title>
-            <title>Léto 1918 kot kulturná prelomnica</title>
-            <cobiss>606324</cobiss>
             <cobiss>613236</cobiss>
             <page>262-267</page>
             <citedIn count="8">
@@ -16840,7 +16822,8 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Dolinar France M.</author>
             <title>Cerkvena uprava in Slovenci</title>
-            <page>213-214</page>
+            <cobiss>644724</cobiss>
+            <page>198-215</page>
             <citedIn count="1">
                <cit did="723" cid="3" avtor0="Dolinar France M."
                   naslov0="Cerkvena uprava in Slovenci"
@@ -16851,9 +16834,8 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Friš Darko</author>
-            <title>SLS in slovensko nacionalno vprašanje med sprejetjem Vidovdanske ustave in Blejskim protokolom</title>
             <title>SLS in slovensko nacionalno vprašanje med sprejetjem Vidovdanske ustave in blejskim protokolom</title>
-            <title>SLS in slovensko nacionalno vprašanje med sprejetjem vidovdanske ustave in blejskim protokolom</title>
+            <addTitle>Die slowenische Volkspartei (Slovenska ljudska stranka/SLS) und die slowenische nationale Frage</addTitle>
             <cobiss>7762440</cobiss>
             <page>180-184</page>
             <citedIn count="3">
@@ -16874,6 +16856,7 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Fujs Metka</author>
             <title>Slovenska zavest in Slovenci v Prekmurju</title>
+            <cobiss>3183411</cobiss>
             <page>77-85</page>
             <citedIn count="4">
                <cit did="2131" cid="16" avtor0="Fujs Metka"
@@ -16896,6 +16879,7 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Gabrič Aleš</author>
             <title>Vloga intelektualca kot političnega subjekta v enostrankarskem sistemu</title>
+            <cobiss>607604</cobiss>
             <page>158-168</page>
             <citedIn count="3">
                <cit did="2074" cid="2" avtor0="Gabrič Aleš"
@@ -16916,6 +16900,7 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Gantar Godina Irena</author>
             <title>Iskanje rešitve v panslavizmu</title>
+            <cobiss>10458413</cobiss>
             <page>111-114</page>
             <citedIn count="2">
                <cit did="2130" cid="10" avtor0="Gantar Godina Irena"
@@ -16943,12 +16928,10 @@ odmevi 1941-42</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gombač Boris</author>
             <author>Gombač Boris M.</author>
             <title>Trst in slovenstvo</title>
-            <title>Trst in Slovenstvo</title>
             <cobiss>5180721</cobiss>
-            <page>95-101</page>
+            <page>90-103</page>
             <citedIn count="2">
                <cit did="1024" cid="8" avtor0="Gombač Boris" naslov0="Trst in slovenstvo"
                   cobiss="5180721" source="Slovenija 1848-1998: iskanje lastne poti"
@@ -16959,9 +16942,8 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Goropevšek Branko</author>
-            <title>Odmev in pomen septembrskih dogodkov leta 1908</title>
             <title>Odmev in pomen septembrskih dogodkov leta 1908 : (spomin na 90-letnico dogodkov)</title>
-            <title>Odmevi in pomen septemberskih dogodkov leta 1908</title>
+            <addTitle>Das Echo und die Bedeutung der Septemberereignisse des Jahres 1908</addTitle>
             <cobiss>7763720</cobiss>
             <page>115-123</page>
             <citedIn count="5">
@@ -16989,9 +16971,6 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Lazarević Žarko</author>
-            <author>Lazarevič Žarko</author>
-            <title>Od regionalnega k slovenskemu narodnemu gospodarstvu</title>
-            <title>Od regionalnega k slovenskemu narodnemu gospodarstvu (preobrazba slovenske gospodarske strukture v drugi polovici 19. in v 20. stoletju)</title>
             <title>Od regionalnega k slovenskemu narodnemu gospodarstvu : preobrazba slovenske gospodarske strukture v drugi polovici 19. in v 20. stoletju</title>
             <cobiss>605556</cobiss>
             <page>271-291</page>
@@ -17034,10 +17013,7 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Lukan Walter</author>
-            <title>Slovenci in Slovaki v revolucionarnih letih
-1948/49</title>
             <title>Slovenci in Slovaki v revolucionarnih letih 1848/49</title>
-            <title>Slovenci in Slovaki v revolucionarnih letih 1948/49</title>
             <cobiss>15192930</cobiss>
             <page>44-51</page>
             <citedIn count="3">
@@ -17060,7 +17036,7 @@ odmevi 1941-42</title>
             <author>Marušič Branko</author>
             <title>Beneški Slovenci in Slovenija</title>
             <cobiss>9567789</cobiss>
-            <page>104-235</page>
+            <page>104-110</page>
             <citedIn count="3">
                <cit did="1317" cid="295" avtor0="Marušič Branko"
                   naslov0="Beneški Slovenci in Slovenija" source="Slovenija 1848-1998"
@@ -17078,7 +17054,6 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Ideja Zedinjene Slovenije 1848-1991</title>
-            <title>Ideja Zedinjene slovenije 1848-1991</title>
             <cobiss>9399085</cobiss>
             <page>15-20</page>
             <citedIn count="4">
@@ -17106,6 +17081,7 @@ odmevi 1941-42</title>
             <author>Moritsch Andreas</author>
             <title>Koroški plebiscit</title>
             <cobiss>252372</cobiss>
+            <page>267-270</page>
             <citedIn count="1">
                <cit did="1072" cid="12" avtor0="Moritsch Andreas" naslov0="Koroški plebiscit"
                   cobiss="252372" source="Slovenija 1848-1998: iskanje lastne poti"
@@ -17127,11 +17103,8 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Perovšek Jurij</author>
             <title>Jugoslavija - pričakovanja in realnost</title>
-            <title>Jugoslavija- pričakovanja in realnost</title>
-            <title>Jugoslavija-pričakovanja in realnost</title>
             <cobiss>602484</cobiss>
-            <cobiss>612468</cobiss>
-            <page>53-256</page>
+            <page>234-256</page>
             <citedIn count="8">
                <cit did="29" cid="367" avtor0="Perovšek Jurij"
                   naslov0="Jugoslavija - pričakovanja in realnost" cobiss="602484"
@@ -17183,7 +17156,8 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Prunk Janko</author>
             <title>Slovenci v Jugoslaviji med centralizmom in federalizmom 1918-1991</title>
-            <page>169-178</page>
+            <cobiss>18855517</cobiss>
+            <page>169-179</page>
             <citedIn count="1">
                <cit did="1626" cid="197" avtor0="Prunk Janko"
                   naslov0="Slovenci v Jugoslaviji med centralizmom in federalizmom 1918-1991"
@@ -17194,6 +17168,7 @@ odmevi 1941-42</title>
          <pubPart>
             <author>Stavbar Vlasta</author>
             <title>Deklaracijsko gibanje</title>
+            <addTitle>Die Deklarationsbewegung</addTitle>
             <cobiss>7763464</cobiss>
             <page>257-261</page>
             <citedIn count="1">
@@ -17243,7 +17218,8 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Vodušek Starič Jerca</author>
-            <title>Med ljudsko demokracijo in demokracijo</title>
+            <title>Med "ljudsko demokracijo" in demokracijo</title>
+            <addTitle>Zwischen "Volksdemokratie" und Demokratie</addTitle>
             <cobiss>7756552</cobiss>
             <page>299-319</page>
             <citedIn count="2">
@@ -17318,9 +17294,7 @@ odmevi 1941-42</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gibianski Leonid</author>
-            <author>Gibianskij Leonid</author>
-            <title>Sovjetska zveza in Jugoslavija</title>
+            <author>Gibianskij Leonid Janovič</author>
             <title>Sovjetska zveza in Jugoslavija leta 1945</title>
             <page>54-70</page>
             <citedIn count="4">
@@ -17343,13 +17317,9 @@ odmevi 1941-42</title>
          </pubPart>
          <pubPart>
             <author>Griesser-Pečar Tamara</author>
-            <title>Pomen "osvoboditve" za slovensko katoliško
-cerkev</title>
             <title>Pomen "osvoboditve" za slovensko katoliško Cerkev</title>
-            <title>Pomen "osvoboditve" za slovensko katoliško cerkev</title>
-            <title>Pomen osvoboditve za slovensko katoliško Cerkev</title>
             <cobiss>318580</cobiss>
-            <page>11-137</page>
+            <page>111-138</page>
             <citedIn count="4">
                <cit did="97" cid="4" avtor0="Griesser-Pečar Tamara"
                   naslov0="Pomen &#34;osvoboditve&#34; za slovensko katoliško&#xA;cerkev"
@@ -17370,6 +17340,7 @@ cerkev</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Domobranstvo in konec vojne</title>
+            <cobiss>318324</cobiss>
             <page>37-43</page>
             <citedIn count="3">
                <cit did="1782" cid="235" avtor0="Mlakar Boris" naslov0="Domobranstvo in konec vojne"
@@ -17402,6 +17373,7 @@ cerkev</title>
          <pubPart>
             <author>Troha Nevenka</author>
             <title>Osvoboditev ali okupacija, narodna osvoboditev ali revolucija - Primorska in Trst v letu 1945</title>
+            <cobiss>257652</cobiss>
             <page>77-92</page>
             <citedIn count="3">
                <cit did="633" cid="2" avtor0="Troha Nevenka"
@@ -17418,10 +17390,8 @@ cerkev</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vodušek Starič Jera</author>
             <author>Vodušek Starič Jerca</author>
             <title>Prevzem oblasti po vojni in vloga Ozne - obračun</title>
-            <title>Prevzem oblasti po vojni in vloga OZNE - obračun</title>
             <cobiss>317300</cobiss>
             <page>93-110</page>
             <citedIn count="4">
