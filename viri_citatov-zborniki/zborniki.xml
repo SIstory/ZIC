@@ -17427,7 +17427,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Dolenc Ervin</author>
             <title>Slovenski intelektualci in njihove delitve</title>
             <cobiss>481908</cobiss>
-            <page>145-201</page>
+            <page>194-201</page>
             <citedIn count="3">
                <cit did="1125" cid="1" avtor0="Dolenc Ervin"
                   naslov0="Slovenski intelektualci in njihove delitve" cobiss="481908"
@@ -17467,6 +17467,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Kralj Lado</author>
             <title>Teatrski škandal zaradi "Veselega vinograda"</title>
+            <cobiss>3401826</cobiss>
             <page>150-157</page>
             <citedIn count="1">
                <cit did="1135" cid="12" avtor0="Kralj Lado"
@@ -17488,7 +17489,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kremenšek Slavko</author>
-            <title>Dileme in težnje v študenskem gibanju</title>
             <title>Dileme in težnje v študentskem gibanju</title>
             <page>75-80</page>
             <citedIn count="2">
@@ -17502,10 +17502,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kresal France</author>
-            <title>Gospodarski in socialni pogledi na trideseta
-leta v Sloveniji</title>
             <title>Gospodarski in socialni pogledi na trideseta leta v Sloveniji</title>
             <cobiss>461684</cobiss>
+            <page>110-117</page>
             <citedIn count="2">
                <cit did="127" cid="7" avtor0="Kresal France"
                   naslov0="Gospodarski in socialni pogledi na trideseta&#xA;leta v Sloveniji"
@@ -17517,12 +17516,8 @@ leta v Sloveniji</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Lazarević  Žarko</author>
             <author>Lazarević Žarko</author>
-            <title>Prebivalstvo, družba, gospodarstvo pri Slovencih v tridesetih letih</title>
-            <title>Prebivalstvo, družba in gospodarstvo pri
-Slovencih v tridesetih letih</title>
-            <title>Prebivalstvo, družba, gospodarstvo pri Slovencih v tridestih letih</title>
+            <title>Prebivalstvo, družba in gospodarstvo pri Slovencih v tridesetih letih</title>
             <cobiss>461428</cobiss>
             <page>33-42</page>
             <citedIn count="5">
@@ -17562,8 +17557,6 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Pelikan Egon</author>
             <title>Vizije "družbene prenove" v katoliškem taboru v tridesetih letih v Sloveniji</title>
-            <title>Vizije »družbene prenove« v katoliškem taboru v tridesetih letih v Sloveniji</title>
-            <cobiss>16120669</cobiss>
             <page>58-68</page>
             <citedIn count="3">
                <cit did="3292" cid="141" avtor0="Pelikan Egon"
@@ -17582,14 +17575,8 @@ Slovencih v tridesetih letih</title>
          </pubPart>
          <pubPart>
             <author>Perovšek Jurij</author>
-            <title>Slovenci in Jugoslavija</title>
             <title>Slovenci in Jugoslavija v tridesetih letih</title>
-            <title>Slovenci in Jugoslavija v tridesetih letih.</title>
-            <title>Slovenci in država v tridesetih letih</title>
-            <title>Slovenci in Jugoslavija v tridesetih letih. Slovenska trideseta leta</title>
-            <title>Slovenci in Jugoslavija v tridesetih letih: slovenska trideseta leta</title>
             <cobiss>816500</cobiss>
-            <cobiss>816-500</cobiss>
             <page>18-32</page>
             <citedIn count="40">
                <cit did="137" cid="1" avtor0="Perovšek Jurij" naslov0="Slovenci in Jugoslavija"
@@ -17748,7 +17735,7 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Pirc Jožko</author>
             <title>Cerkveni in duhovni tokovi</title>
-            <title>slovenski katoličani v labirintu preroštva in okostnelosti, utopičnosti in svetništva</title>
+            <title>slovenski katoličani v labirintu preroštva in okostenelosti, utopičnosti in svetništva</title>
             <page>118-138</page>
             <citedIn count="3">
                <cit did="1114" cid="12" avtor0="Pirc Jožko" naslov0="Cerkveni in duhovni tokovi"
@@ -17767,6 +17754,7 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Pleterski Janko</author>
             <title>Politika naroda v krizi družbe, države in idej</title>
+            <cobiss>6017581</cobiss>
             <page>43-57</page>
             <citedIn count="4">
                <cit did="1512" cid="143" avtor0="Pleterski Janko"
@@ -17800,9 +17788,9 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vidovič Miklavčič Anka</author>
+            <author>Vidovič-Miklavčič Anka</author>
             <title>Vloga in organiziranost mladine v jugoslovanskem delu Slovenije v letih 1929-1941</title>
-            <title>Vloga in organiziranost mladine v jugoslovanskem delu Slovenije v letih 1929−1941</title>
+            <cobiss>481652</cobiss>
             <page>97-109</page>
             <citedIn count="2">
                <cit did="2274" cid="191" avtor0="Vidovič Miklavčič Anka"
@@ -17837,12 +17825,10 @@ Slovencih v tridesetih letih</title>
       <pubCobiss>98253568</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Kržišnik Bukić Vera</author>
             <author>Kržišnik-Bukić Vera</author>
-            <title>Nekatere zgodovinopisne razsežnosti slovenstva v hrvaškem delu slovensko-hrvaškega obmejnega prostora, s poudarkom na Istri</title>
-            <title>Nekatere zgodovinopisne razsežnosti slovenstva v hrvaškem delu slovensko hrvaškega obmejnega prostora, s poudarkom na Istri in Zagrebu</title>
+            <title>Nekatere zgodovinopisne razsežnosti slovenstva v hrvaškem delu slovensko-hrvaškega obmejnega prostora, s poudarkom na Istri in Zagrebu</title>
             <cobiss>7140173</cobiss>
-            <page>144-265</page>
+            <page>257-266</page>
             <citedIn count="2">
                <cit did="3072" cid="169" avtor0="Kržišnik Bukić Vera"
                   naslov0="Nekatere zgodovinopisne razsežnosti slovenstva v hrvaškem delu slovensko-hrvaškega obmejnega prostora, s poudarkom na Istri"
@@ -17856,56 +17842,17 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Marušić Dario, Obranić Srđa</author>
+            <author>Marušić Dario</author>
+            <author>Obranić Srđa</author>
             <title>Antropolingvistički opis hrvatsko-slovenskih doticija na primjeru Kozlerove granice u Istri</title>
             <cobiss>7143245</cobiss>
-            <citedIn count="1">
+            <page>227-256</page>
+            <citedIn count="5">
                <cit did="334" cid="201" avtor0="Marušić Dario, Obranić Srđa"
                   naslov0="Antropolingvistički opis hrvatsko-slovenskih doticija na primjeru Kozlerove granice u Istri"
                   cobiss="7143245" source="Slovensko-hrvaški obmejni prostor: življenje ob meji"
                   pubPlace="Ljubljana" publisher="Inštitut za narodnostna vprašanja" year="1999"
                   page="249"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Medica K.</author>
-            <author>Medica Karmen</author>
-            <title>Mediji v obmejnem prostoru</title>
-            <cobiss>7142733</cobiss>
-            <page>121-134</page>
-            <citedIn count="2">
-               <cit did="731" cid="4" avtor0="Medica K." naslov0="Mediji v obmejnem prostoru"
-                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji : predstavitev rezultatov terenske raziskave"
-                  pubPlace="Ljubljana" year="1999" page="132"/>
-               <cit did="3072" cid="192" avtor0="Medica Karmen" naslov0="Mediji v obmejnem prostoru"
-                  cobiss="7142733"
-                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave"
-                  pubPlace="Ljubljana" publisher="INV" year="1999" page="121-134"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Medica Karmen</author>
-            <title>Vsakdanje življenje: podobnosti in različnosti na obeh straneh meje</title>
-            <cobiss>7142477</cobiss>
-            <page>107-119</page>
-            <citedIn count="1">
-               <cit did="3072" cid="191" avtor0="Medica Karmen"
-                  naslov0="Vsakdanje življenje: podobnosti in različnosti na obeh straneh meje"
-                  cobiss="7142477"
-                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave"
-                  pubPlace="Ljubljana" publisher="INV" year="1999" page="107-119"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Orbanić Srđa</author>
-            <author>Orbanić Srđa, Marušić Dario</author>
-            <author>Srđa Orbanić, Marušić Dario</author>
-            <title>Antropolingvostički opis hrvatsko-slovenskih doticaja na primjeru Kozlerove granice u Istri</title>
-            <title>Antropolingvistički opis hrvatsko-slovenskih doticaja na primjeru Kozlerove granice u Istri</title>
-            <title>Antropolingvistični opis hrvatsko-slovenskih doticaja na primjeru Kozlerove granice u Istri</title>
-            <cobiss>7143245</cobiss>
-            <page>227-256</page>
-            <citedIn count="4">
                <cit did="3072" cid="215" avtor0="Orbanić Srđa"
                   naslov0="Antropolingvostički opis hrvatsko-slovenskih doticaja na primjeru Kozlerove granice u Istri"
                   source="Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave"
@@ -17925,11 +17872,39 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
+            <author>Medica Karmen</author>
+            <title>Mediji v obmejnem prostoru</title>
+            <cobiss>7142733</cobiss>
+            <page>121-134</page>
+            <citedIn count="2">
+               <cit did="731" cid="4" avtor0="Medica K." naslov0="Mediji v obmejnem prostoru"
+                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji : predstavitev rezultatov terenske raziskave"
+                  pubPlace="Ljubljana" year="1999" page="132"/>
+               <cit did="3072" cid="192" avtor0="Medica Karmen" naslov0="Mediji v obmejnem prostoru"
+                  cobiss="7142733"
+                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave"
+                  pubPlace="Ljubljana" publisher="INV" year="1999" page="121-134"/>
+            </citedIn>
+         </pubPart>
+         <pubPart>
+            <author>Medica Karmen</author>
+            <title>Vsakdanje življenje - podobnosti in različnosti na obeh straneh meje</title>
+            <cobiss>7142477</cobiss>
+            <page>107-120</page>
+            <citedIn count="1">
+               <cit did="3072" cid="191" avtor0="Medica Karmen"
+                  naslov0="Vsakdanje življenje: podobnosti in različnosti na obeh straneh meje"
+                  cobiss="7142477"
+                  source="Slovensko-hrvaški obmejni prostor: življenje ob meji. Predstavitev rezultatov terenske raziskave"
+                  pubPlace="Ljubljana" publisher="INV" year="1999" page="107-119"/>
+            </citedIn>
+         </pubPart>
+         <pubPart>
             <author>Orbanić Srđa</author>
             <author>Marušič Dario</author>
             <title>Neke sociolingvističke značajke hrvatsko-slovenskog pograničnog pojasa</title>
             <cobiss>7142989</cobiss>
-            <page>157-183</page>
+            <page>157-184</page>
             <citedIn count="1">
                <cit did="3072" cid="216" avtor0="Orbanić Srđa" avtor1="Marušič Dario"
                   naslov0="Neke sociolingvističke značajke hrvatsko-slovenskog pograničnog pojasa"
@@ -17982,10 +17957,11 @@ Slovencih v tridesetih letih</title>
          </pubPart>
          <pubPart>
             <author>Zavratnik Zimic Simona</author>
-            <author>Medica Karmen et al</author>
+            <author>Medica Karmen</author>
+            <author>Repolusk Peter</author>
             <title>'Z in ob novi meji' - komentarji anketirancev : (ilustrativni pregled gradiva)</title>
             <cobiss>7141197</cobiss>
-            <page>185-205</page>
+            <page>185-212</page>
             <citedIn count="1">
                <cit did="3072" cid="296" avtor0="Zavratnik Zimic Simona"
                   avtor1="Medica Karmen et al"
@@ -17998,9 +17974,8 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Zavratnik Zimic Simona</author>
             <title>Slovensko-hrvaški prostor kot nov družbeni prostor : percepcija in identifikacije</title>
-            <title>Slovensko-hrvaški prostor kot nov družbeni prostor: percepcija in identifikacije</title>
             <cobiss>7141965</cobiss>
-            <page>135-155</page>
+            <page>135-156</page>
             <citedIn count="2">
                <cit did="731" cid="5" avtor0="Zavratnik Zimic Simona"
                   naslov0="Slovensko-hrvaški prostor kot nov družbeni prostor : percepcija in identifikacije"
@@ -18027,7 +18002,7 @@ Slovencih v tridesetih letih</title>
       <pubCobiss>34164</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Celso Macor</author>
+            <author>Macor Celso</author>
             <title>Prebivalstvo in poeti vzdolž reke Soče</title>
             <page>151-169</page>
             <citedIn count="1">
@@ -18049,7 +18024,9 @@ Slovencih v tridesetih letih</title>
          </pubPart>
          <pubPart>
             <author>Klemenčič Vladimir</author>
-            <title>Učinki sprememb poteka državnih meja na regionali razvoj Zgornjega Posočja</title>
+            <title>Učinki sprememb poteka državnih meja na regionalni razvoj Zgornjega Posočja</title>
+            <cobiss>3693154</cobiss>
+            <page>215-226</page>
             <citedIn count="1">
                <cit did="430" cid="62" avtor0="Klemenčič Vladimir"
                   naslov0="Učinki sprememb poteka državnih meja na regionali razvoj Zgornjega Posočja"
@@ -18060,6 +18037,7 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Kunaver Jurij</author>
             <title>Povojna usoda Bovškega v luči obmejnosti in perifernosti</title>
+            <cobiss>3650146</cobiss>
             <page>227-242</page>
             <citedIn count="2">
                <cit did="1633" cid="11" avtor0="Kunaver Jurij"
@@ -18075,6 +18053,7 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Marušič Branko</author>
             <title>Prispevki k zgodovini Tolminske</title>
+            <cobiss>4120109</cobiss>
             <page>191-200</page>
             <citedIn count="1">
                <cit did="448" cid="4" avtor0="Marušič Branko"
@@ -18105,8 +18084,9 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Podliping Karl</author>
+            <author>Podlipnig Karl</author>
             <title>Gospodarske povezave zgornje Soške, zgornje Savske, spodnje Ziljske in Kanalske doline skozi stoletja</title>
+            <cobiss>936264</cobiss>
             <page>209-214</page>
             <citedIn count="1">
                <cit did="448" cid="5" avtor0="Podliping Karl"
@@ -18116,11 +18096,8 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Rauchensteiner Manfred</author>
             <author>Rauchensteiner Manfried</author>
-            <author>Rauschensteiner Manfried</author>
             <title>Vojna ob Soči z vidika avstrijskega zgodovinarja</title>
-            <title>Vojna ob Soči iz vidika avstrijskega zgodovinarja</title>
             <page>15-26</page>
             <citedIn count="3">
                <cit did="1346" cid="8" avtor0="Rauchensteiner Manfred"
@@ -18139,7 +18116,8 @@ Slovencih v tridesetih letih</title>
          <pubPart>
             <author>Sedmak Drago</author>
             <title>Ekonomska in politična migracija prebivalstva na Bovškem v letih 1850 do 1940</title>
-            <page>79-128</page>
+            <cobiss>10980402</cobiss>
+            <page>79-125</page>
             <citedIn count="2">
                <cit did="448" cid="10" avtor0="Sedmak Drago"
                   naslov0="Ekonomska in politična migracija prebivalstva na Bovškem v letih 1850 do 1940"
@@ -18164,8 +18142,10 @@ Slovencih v tridesetih letih</title>
       <pubCobiss>122836224</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Budna Kodrič A.</author>
+            <author>Serše Aleksandra</author>
             <title>Poštne in občinske uradnice</title>
+            <cobiss>360309</cobiss>
+            <page>400-406</page>
             <citedIn count="1">
                <cit did="226" cid="33" avtor0="Budna Kodrič A."
                   naslov0="Poštne in občinske uradnice" source="Splošno žensko društvo : 1901-1945"
@@ -18175,9 +18155,7 @@ Slovencih v tridesetih letih</title>
          </pubPart>
          <pubPart>
             <author>Budna Kodrič Nataša</author>
-            <author>Kodrič Nataša Budna</author>
             <title>Žensko gibanje na Slovenskem do druge svetovne vojne</title>
-            <title>Žensko gibanje na Slovenske do druge svetovne vojne</title>
             <page>16-27</page>
             <citedIn count="4">
                <cit did="2635" cid="12" avtor0="Budna Kodrič Nataša"
@@ -18228,12 +18206,10 @@ Slovencih v tridesetih letih</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Drnovšek D.</author>
             <author>Drnovšek Darinka</author>
-            <title>Alojzija Štebi</title>
-            <title>Alojzija Štebi : borka za pravice žensk in
-mladine</title>
-            <page>188-210</page>
+            <title>Alojzija Štebi : borka za pravice žensk in mladine</title>
+            <cobiss>357749</cobiss>
+            <page>188-209</page>
             <citedIn count="3">
                <cit did="226" cid="57" avtor0="Drnovšek D." naslov0="Alojzija Štebi"
                   source="Splošno žensko društvo : 1901-1945 : Od dobrih deklet do feministk"
@@ -18283,6 +18259,8 @@ mladine</title>
          <pubPart>
             <author>Jeraj Mateja</author>
             <title>Vloga in položaj žensk v obdobju 1918-1941</title>
+            <cobiss>356725</cobiss>
+            <page>27-35</page>
             <citedIn count="1">
                <cit did="226" cid="100" avtor0="Jeraj Mateja"
                   naslov0="Vloga in položaj žensk v obdobju 1918-1941"
@@ -18314,6 +18292,7 @@ mladine</title>
          <pubPart>
             <author>Serše Aleksandra</author>
             <title>Ana Zalokar</title>
+            <cobiss>359029</cobiss>
             <page>248-254</page>
             <citedIn count="1">
                <cit did="2610" cid="85" avtor0="Serše Aleksandra" naslov0="Ana Zalokar"
@@ -18334,8 +18313,8 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Troha Nevenka</author>
-            <title>Slovensko gibanje v Trstu na prelomu 19. in 20. stoletja</title>
             <title>Slovensko žensko gibanje v Trstu na prelomu 19. in 20. stoletja</title>
+            <cobiss>1588852</cobiss>
             <page>44-58</page>
             <citedIn count="2">
                <cit did="2411" cid="4" avtor0="Troha Nevenka"
@@ -18352,7 +18331,7 @@ mladine</title>
             <author>Verginella Marta</author>
             <title>Mesto žensk pod steklenim stropom</title>
             <cobiss>20970082</cobiss>
-            <page>1-5</page>
+            <page>1-8</page>
             <citedIn count="2">
                <cit did="2635" cid="17" avtor0="Verginella Marta"
                   naslov0="Mesto žensk pod steklenim stropom"
@@ -18368,6 +18347,7 @@ mladine</title>
          <pubPart>
             <author>Vodopivec Nina</author>
             <title>Ivanka Anžič Klemenčič</title>
+            <cobiss>1187469</cobiss>
             <page>292-307</page>
             <citedIn count="1">
                <cit did="226" cid="219" avtor0="Vodopivec Nina" naslov0="Ivanka Anžič Klemenčič"
@@ -18378,6 +18358,8 @@ mladine</title>
          <pubPart>
             <author>Zemljič Igor</author>
             <title>Marica Nadlišek Bartol</title>
+            <cobiss>1456500</cobiss>
+            <page>278-292</page>
             <citedIn count="2">
                <cit did="491" cid="2" avtor0="Zemljič Igor" naslov0="Marica Nadlišek Bartol"
                   source="Splošno žensko društvo" pubPlace="Ljubljana" publisher="ARS" year="2003"/>
@@ -18400,7 +18382,6 @@ mladine</title>
          <pubPart>
             <author>Baš Franjo</author>
             <title>Muzeji, galerije, arhivi in spomeniško varstvo v Sloveniji 1918-1938</title>
-            <title>Muzeji, galerijr, arhivi in spomeniško varstvo v Sloveniji 1918-1938</title>
             <page>314-319</page>
             <citedIn count="2">
                <cit did="891" cid="2" avtor0="Baš Franjo"
@@ -18427,7 +18408,7 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Golia Vladimir</author>
-            <title>Slovensko pravosodje ob 20 letnici Jugoslavije</title>
+            <title>Slovensko pravosodje ob 20-letnici Jugoslavije</title>
             <citedIn count="1">
                <cit did="16" cid="47" avtor0="Golia Vladimir"
                   naslov0="Slovensko pravosodje ob 20 letnici Jugoslavije"
@@ -18466,9 +18447,7 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Kranjc Cene</author>
-            <title>Naše tiskarstvo v letih 1918 - 1938</title>
             <title>Naše tiskarstvo v letih 1918-1938</title>
-            <title>Naše tiskarstvo v letih 1918–1938</title>
             <cobiss>2104118</cobiss>
             <page>226-262</page>
             <citedIn count="3">
@@ -18503,7 +18482,6 @@ mladine</title>
          <pubPart>
             <author>Kranjec Silvo</author>
             <title>Slovenci na poti v Jugoslavijo</title>
-            <title>Slovenci na poti v Jugoslavijo. - Slovenci v Jugoslaviji</title>
             <cobiss>91724800</cobiss>
             <page>32-65</page>
             <citedIn count="3">
@@ -18522,9 +18500,7 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Kranjec Silvo</author>
-            <author>Kranjec S.</author>
             <title>Slovenci v Jugoslaviji</title>
-            <cobiss>17619201</cobiss>
             <page>66-108</page>
             <citedIn count="6">
                <cit did="1119" cid="1" avtor0="Kranjec Silvo" naslov0="Slovenci v Jugoslaviji"
@@ -18618,10 +18594,8 @@ mladine</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Martelanc I.</author>
             <author>Martelanc Ivan</author>
             <title>Zasebnopravno zavarovalstvo v Sloveniji</title>
-            <title>Zasebopravno zavarovalstvo v Sloveniji</title>
             <page>464-468</page>
             <citedIn count="3">
                <cit did="330" cid="7" avtor0="Martelanc I."
@@ -18641,8 +18615,6 @@ mladine</title>
          <pubPart>
             <author>Murko Vladimir</author>
             <title>Državne in samoupravne finance v Dravski banovini 1918-1938</title>
-            <title>Državne in samoupravne finance v dravski banovini v l. 1918-1938</title>
-            <title>Državne in samoupravne finance v letih 1918-1938</title>
             <page>473-482</page>
             <citedIn count="3">
                <cit did="1145" cid="2" avtor0="Murko Vladimir"
@@ -18662,7 +18634,8 @@ mladine</title>
          <pubPart>
             <author>Nagode Črtomir</author>
             <title>Naš promet</title>
-            <page>404-408</page>
+            <cobiss>45519616</cobiss>
+            <page>404-418</page>
             <citedIn count="1">
                <cit did="1140" cid="1" avtor0="Nagode Črtomir" naslov0="Naš promet"
                   source="Spominski zbornik Slovenije" pubPlace="Ljubljana" year="1939"
@@ -18670,9 +18643,7 @@ mladine</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Natlačen M.</author>
             <author>Natlačen Marko</author>
-            <title>Banovinske samouprave v okviru ustave od 3.9. 1931</title>
             <title>Banovinske samouprave v okviru ustave od 3. septembra 1931</title>
             <cobiss>17619201</cobiss>
             <page>129-134</page>
@@ -18720,7 +18691,7 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Pivec Stele Melita</author>
-            <title>Statistični pregled slovenskih publikacij  za leta 1919-1938</title>
+            <title>Statistični pregled slovenskih publikacij za leta 1919-1938</title>
             <page>262-264</page>
             <citedIn count="1">
                <cit did="1134" cid="10" avtor0="Pivec Stele Melita"
@@ -18769,11 +18740,10 @@ mladine</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Ruech Franc</author>
             <author>Rueh Franc</author>
-            <title>Elektrifikacija dravske banovine</title>
+            <title>Elektrifikacija Dravske banovine</title>
             <cobiss>9458593</cobiss>
-            <page>422-444</page>
+            <page>430-444</page>
             <citedIn count="3">
                <cit did="247" cid="78" avtor0="Ruech Franc"
                   naslov0="Elektrifikacija dravske banovine"
@@ -18838,7 +18808,7 @@ mladine</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Turk J.</author>
+            <author>Turk Josip</author>
             <title>Prosveta</title>
             <citedIn count="1">
                <cit did="3377" cid="37" avtor0="Turk J." naslov0="Prosveta"
@@ -18928,7 +18898,6 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Šink Fran</author>
-            <title>Razvoj trgovin</title>
             <title>Razvoj trgovine</title>
             <page>359-396</page>
             <citedIn count="3">
@@ -19094,7 +19063,8 @@ mladine</title>
          <pubPart>
             <author>Ftičar Jože</author>
             <title>Delež Božidarja Raiča v mladoslovenskem gibanju</title>
-            <page>247-381</page>
+            <cobiss>33082369</cobiss>
+            <page>346-381</page>
             <citedIn count="3">
                <cit did="1722" cid="4" avtor0="Ftičar Jože"
                   naslov0="Delež Božidarja Raiča v mladoslovenskem gibanju"
@@ -19110,6 +19080,7 @@ mladine</title>
          <pubPart>
             <author>Kolarič Rudolf</author>
             <title>Prleško narečje</title>
+            <cobiss>33104385</cobiss>
             <page>630-650</page>
             <citedIn count="1">
                <cit did="3465" cid="54" avtor0="Kolarič Rudolf" naslov0="Prleško narečje"
@@ -19120,6 +19091,7 @@ mladine</title>
          <pubPart>
             <author>Kotnik Stanko</author>
             <title>Trije drobci o narodnem prebujanju vzhodne Štajerske</title>
+            <cobiss>33135105</cobiss>
             <page>699-703</page>
             <citedIn count="1">
                <cit did="1288" cid="46" avtor0="Kotnik Stanko"
@@ -19130,6 +19102,7 @@ mladine</title>
          <pubPart>
             <author>Rigler Jakob</author>
             <title>Jezikovnokulturna orientacija Štajercev v starejših obdobjih</title>
+            <cobiss>33124865</cobiss>
             <page>661-681</page>
             <citedIn count="2">
                <cit did="1288" cid="3" avtor0="Rigler Jakob"
@@ -19174,9 +19147,7 @@ mladine</title>
          </pubPart>
          <pubPart>
             <author>Vrbnjak Viktor</author>
-            <title>Prvi slovenski tabor v Ljutomerju</title>
             <title>Prvi slovenski tabor v Ljutomeru</title>
-            <page>2-473</page>
             <citedIn count="6">
                <cit did="1722" cid="2" avtor0="Vrbnjak Viktor"
                   naslov0="Prvi slovenski tabor v Ljutomerju" source="Svet med Muro in Dravo"
@@ -19268,7 +19239,8 @@ mladine</title>
          <pubPart>
             <author>Malle Avguštin</author>
             <title>Koroški Slovenci po letu 1918</title>
-            <page>131-138</page>
+            <cobiss>757204</cobiss>
+            <page>127-140</page>
             <citedIn count="1">
                <cit did="858" cid="3" avtor0="Malle Avguštin"
                   naslov0="Koroški Slovenci po letu 1918"
@@ -19280,6 +19252,7 @@ mladine</title>
          <pubPart>
             <author>Pahor Milan</author>
             <title>Primorski Slovenci pod Italijo 1918-2000</title>
+            <cobiss>8548658</cobiss>
             <page>153-198</page>
             <citedIn count="3">
                <cit did="1620" cid="1" avtor0="Pahor Milan"
@@ -19300,8 +19273,6 @@ mladine</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Slovenci v 19. stoletju : miti in stvarnost</title>
-            <title>Slovenci v 19. stoletju: Miti in stvarnost</title>
-            <title>Slovenci v 19. stoletju: miti in stvarnost</title>
             <cobiss>1102964</cobiss>
             <page>71-84</page>
             <citedIn count="6">
