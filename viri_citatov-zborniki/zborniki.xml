@@ -19317,7 +19317,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <pubCobiss>79178240</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Dolinar F. M.</author>
+            <author>Dolinar France M.</author>
             <title>Katoliška Cerkev v Sloveniji po drugi svetovni vojni</title>
             <page>222-233</page>
             <citedIn count="1">
@@ -19350,6 +19350,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Gabrič Aleš</author>
             <title>Povojna usoda tigrovcev</title>
             <cobiss>628852</cobiss>
+            <page>163-167</page>
             <citedIn count="3">
                <cit did="3508" cid="46" avtor0="Gabrič Aleš" naslov0="Povojna usoda tigrovcev"
                   source="Temna stran meseca. Kratka zgodovina totalitarizma v Sloveniji 1945-1990"
@@ -19365,9 +19366,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Griesser Pečar Tamara</author>
-            <author>Griesser-Pečar Tamara</author>
             <title>Procesi proti duhovnikom in redovništvu po maju 1945</title>
-            <title>Procesi proti duhovnikom in redovništvu po letu 1945</title>
+            <cobiss>808581</cobiss>
             <page>113-125</page>
             <citedIn count="3">
                <cit did="1844" cid="1" avtor0="Griesser Pečar Tamara"
@@ -19418,7 +19418,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Komelj M.</author>
             <author>Komelj Milček</author>
             <title>Socialistična ideološka indoktrinacija in povojna slovenska likovna umetnost</title>
             <page>316-319</page>
@@ -19435,7 +19434,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Mikola Milko</author>
             <title>Povojne razlastitve premoženja v Sloveniji</title>
-            <title>Povojne nasilne razslastitve premoženja v Sloveniji</title>
             <page>53-64</page>
             <citedIn count="2">
                <cit did="860" cid="73" avtor0="Mikola Milko"
@@ -19449,7 +19447,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Pučnik Jože</author>
-            <title>"Množični povojni poboji"</title>
             <title>Množični povojni poboji</title>
             <page>39-52</page>
             <citedIn count="3">
@@ -19467,7 +19464,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Simoniti Vasko</author>
             <title>Permanentna revolucija, totalitarizem, strah</title>
-            <page>35-36</page>
+            <cobiss>9017442</cobiss>
+            <page>24-36</page>
             <citedIn count="2">
                <cit did="634" cid="12" avtor0="Simoniti Vasko"
                   naslov0="Permanentna revolucija, totalitarizem, strah" source="Temna stran meseca"
@@ -19481,7 +19479,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vovko Andrej</author>
             <title>Učilnice na temni strani meseca</title>
-            <page>195-204</page>
+            <cobiss>195-203</cobiss>
+            <page>195-203</page>
             <citedIn count="1">
                <cit did="1435" cid="15" avtor0="Vovko Andrej"
                   naslov0="Učilnice na temni strani meseca"
@@ -19491,10 +19490,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Šturm Lovro</author>
-            <author>Šturma Lovra</author>
             <title>O kratenju človekovih pravic in temeljnih svoboščin v Sloveniji v obdobju 1941-1990</title>
-            <title>O kratenju človekovih pravic in temeljnih svoboščin v Sloveniji v obdobju 1945-1990</title>
-            <title>"O kratenju človekovih pravic in temeljnih svoboščin..."</title>
             <page>53-102</page>
             <citedIn count="4">
                <cit did="634" cid="11" avtor0="Šturm Lovro"
@@ -19515,7 +19511,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Žajdela, Ivo</author>
-            <title>“Z zgodovino naj se ukvarjajo zgodovinarji”</title>
+            <title>Z zgodovino naj se ukvarjajo zgodovinarji</title>
             <page>359-364</page>
             <citedIn count="1">
                <cit did="3285" cid="218" avtor0="Žajdela, Ivo"
@@ -19548,7 +19544,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Loone Eero</author>
-            <title>Rational and Reasonable Justifiability of States: Ethnic Pluralism and the Concept Of Nation</title>
+            <title>Rational and reasonable justifiability of atates : ethnic pluralism and the concept of nation</title>
+            <cobiss>6951245</cobiss>
             <page>37-53</page>
             <citedIn count="1">
                <cit did="2749" cid="3" avtor0="Loone Eero"
@@ -19560,8 +19557,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Žagar Mitja</author>
             <author>Novak Aleš</author>
-            <title>Constitutional and International Protection of National Minorities in Central and Eastern Europe</title>
             <title>Constitutional and international protection of national minorities in Central and Eastern Europe</title>
+            <cobiss>6893901</cobiss>
             <page>177-214</page>
             <citedIn count="3">
                <cit did="2746" cid="75" avtor0="Žagar Mitja" avtor1="Novak Aleš"
@@ -19612,8 +19609,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Fugger Germadnik Rolanda</author>
-            <title>»Pri poljubu se ne sme cmokati in sliniti, marveč tenkoglasno vase cikniti, da se malo sliši, pa dosti čuti«</title>
-            <page>34-41</page>
+            <title>Pri poljubu se ne sme cmokati in sliniti, "marveč tenkoglasno vase cikniti, da se malo sliši, pa dosti čuti"</title>
+            <cobiss>3646261</cobiss>
+            <page>34-42</page>
             <citedIn count="1">
                <cit did="1744" cid="8" avtor0="Fugger Germadnik Rolanda"
                   naslov0="»Pri poljubu se ne sme cmokati in sliniti, marveč tenkoglasno vase cikniti, da se malo sliši, pa dosti čuti«"
@@ -19675,6 +19673,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Studen Andrej</author>
             <title>Meščanska stanovanjska kultura</title>
+            <cobiss>247924</cobiss>
             <page>10-18</page>
             <citedIn count="2">
                <cit did="563" cid="2" avtor0="Studen Andrej"
@@ -19691,6 +19690,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             <author>Šlibar Vladimir</author>
             <title>"Človek je, kar jé" : prispevek k zgodovini meščanske prehrane v 19. stoletju</title>
             <cobiss>3645749</cobiss>
+            <page>19-25</page>
             <citedIn count="1">
                <cit did="1043" cid="31" avtor0="Šlibar Vladimir"
                   naslov0="&#34;Človek je, kar jé&#34; : prispevek k zgodovini meščanske prehrane v 19. stoletju"
@@ -19739,8 +19739,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Gabrič Aleš</author>
-            <title>Boris Frulan - drugič obsojen na smrt</title>
             <title>Boris Furlan - drugič obsojen na smrt</title>
+            <cobiss>1183604</cobiss>
             <page>195-210</page>
             <citedIn count="2">
                <cit did="2618" cid="144" avtor0="Gabrič Aleš"
@@ -19756,9 +19756,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Godeša Bojan</author>
             <title>Angela Vode in medvojne dileme</title>
-            <title>Angela Vode in medvojne dileme:</title>
             <cobiss>1185396</cobiss>
-            <page>13-74</page>
+            <page>61-74</page>
             <citedIn count="7">
                <cit did="3218" cid="17" avtor0="Godeša Bojan"
                   naslov0="Angela Vode in medvojne dileme" cobiss="1185396"
@@ -19812,7 +19811,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Kranjc Janez</author>
             <title>Boris Furlan kot profesor in dekan Pravne fakultete v Ljubljani v dokumentih univerzitetnega arhiva in zapisnikih fakultetnega sveta Pravne fakultete</title>
-            <page>136-138</page>
+            <cobiss>4409169</cobiss>
+            <page>116-138</page>
             <citedIn count="1">
                <cit did="2618" cid="171" avtor0="Kranjc Janez"
                   naslov0="Boris Furlan kot profesor in dekan Pravne fakultete v Ljubljani v dokumentih univerzitetnega arhiva in zapisnikih fakultetnega sveta Pravne fakultete"
@@ -19823,6 +19823,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Melik Jelka</author>
             <title>Angela Vode prvič pred sodiščem</title>
+            <cobiss>228981</cobiss>
             <page>52-60</page>
             <citedIn count="1">
                <cit did="2461" cid="1" avtor0="Melik Jelka"
@@ -19834,7 +19835,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Sirc Ljubo</author>
             <title>Boris Furlan - moj profesor in soobsojenec</title>
-            <title>Boris Furlan – moj profesor in soobsojenec</title>
             <cobiss>7215926</cobiss>
             <page>99-109</page>
             <citedIn count="3">
@@ -19865,9 +19865,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Angela Vode (1892-1985)</title>
-            <title>Angela Vode (1892–1985)</title>
             <cobiss>1184628</cobiss>
-            <page>9-65</page>
+            <page>9-16</page>
             <citedIn count="3">
                <cit did="1414" cid="28" avtor0="Vodopivec Peter" naslov0="Angela Vode (1892-1985)"
                   cobiss="1184628"
@@ -19885,6 +19884,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vodopivec Peter</author>
             <title>Boris Furlan (1894-1957)</title>
+            <cobiss>1185652</cobiss>
             <page>89-98</page>
             <citedIn count="1">
                <cit did="2618" cid="237" avtor0="Vodopivec Peter" naslov0="Boris Furlan (1894-1957)"
@@ -19894,7 +19894,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Vodušek Starič Jerca</author>
-            <title>Boris Furlan: britanski agent ali zgolj povojna opozicija?</title>
+            <title>Boris Furlan: britanski agent ali zgolj povojna opozicija</title>
+            <cobiss>1190260</cobiss>
             <page>160-181</page>
             <citedIn count="1">
                <cit did="2618" cid="239" avtor0="Vodušek Starič Jerca"
@@ -19936,6 +19937,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Grafenauer Bogo</author>
             <title>Valvasorjevo mesto v samospoznavanju Slovencev kot posebnega naroda</title>
+            <cobiss>28187394</cobiss>
+            <page>7-16</page>
             <citedIn count="1">
                <cit did="2612" cid="40" avtor0="Grafenauer Bogo"
                   naslov0="Valvasorjevo mesto v samospoznavanju Slovencev kot posebnega naroda"
@@ -19946,8 +19949,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Oražem Stele M.</author>
-            <title>Dela Valvasorjeva leta 1989 v srednjeevropskih knjižnicah in njegov sodobnik Franz von Wützenstein</title>
+            <author>Oražem-Stele Majda</author>
+            <title>Dela Valvasorjeva leta 1989 v srednjeevropskih knjižnicah in njegov sodobnik pisatelj Franz von Wützenstein</title>
+            <cobiss>38116864</cobiss>
+            <page>247-257</page>
             <citedIn count="1">
                <cit did="259" cid="26" avtor0="Oražem Stele M."
                   naslov0="Dela Valvasorjeva leta 1989 v srednjeevropskih knjižnicah in njegov sodobnik Franz von Wützenstein"
@@ -19958,6 +19963,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Simoniti Vasko</author>
             <title>Janez Vajkard Valvasor - stotnik kranjskih deželnih stanov</title>
+            <cobiss>28189186</cobiss>
             <page>103-111</page>
             <citedIn count="2">
                <cit did="3263" cid="37" avtor0="Simoniti Vasko"
@@ -19974,6 +19980,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Sitar Sandi</author>
             <title>O prometu v Slavi Vojvodine Kranjske</title>
+            <cobiss>28189698</cobiss>
             <page>143-156</page>
             <citedIn count="1">
                <cit did="2218" cid="40" avtor0="Sitar Sandi"
@@ -19984,10 +19991,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Stone G.</author>
             <author>Stone Gerald</author>
             <title>Slovenski jezik v Valvasorjevi Slavi Vojvodine Kranjske</title>
-            <title>Slovenski jezik v Valvasorjevi Slavi vojvodine Kranjske</title>
             <cobiss>38111744</cobiss>
             <page>232-238</page>
             <citedIn count="5">
@@ -20017,8 +20022,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Vilfan Sergij</author>
             <title>Pravna ureditev Kranjske po Valvasorjevi Slavi</title>
-            <title>Pravna ureditev Kranjske po Valvasorjevi slavi</title>
-            <cobiss>679505</cobiss>
+            <cobiss>28188418</cobiss>
             <page>32-48</page>
             <citedIn count="3">
                <cit did="104" cid="4" avtor0="Vilfan Sergij"
@@ -20035,7 +20039,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Šumrada Janez</author>
-            <title>Valvasorjev angleški sodobnik Edward Browne v slovenskih deželah 1669</title>
+            <title>Valvasorjev angleški sodobnik Edward Browne v slovenskih deželah leta 1669</title>
+            <cobiss>28188930</cobiss>
+            <page>54-102</page>
             <citedIn count="1">
                <cit did="2612" cid="147" avtor0="Šumrada Janez"
                   naslov0="Valvasorjev angleški sodobnik Edward Browne v slovenskih deželah 1669"
@@ -20060,8 +20066,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Golec Boris</author>
             <title>Glavni poudarki k topografiji Kostanjevice v stoletjih mestne avtonomije</title>
+            <addTitle>Hauptakzente zur Topographie von Kostanjevica (Landstrass) in den Jahrhunderten der städtischen Autonomie</addTitle>
             <cobiss>20843565</cobiss>
-            <page>145-179</page>
+            <page>145-180</page>
             <citedIn count="5">
                <cit did="3159" cid="20" avtor0="Golec Boris"
                   naslov0="Glavni poudarki k topografiji Kostanjevice v stoletjih mestne avtonomije"
@@ -20093,8 +20100,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Komac Andrej</author>
-            <title>Kostanjeviski kastelani in njihove veje v. 13. in 14. stoletju</title>
-            <title>Kostanjeviški kastelani in njihove veje v 13. in 14. stoletju</title>
+            <title>Kostanjeviški kastelani in njihove veje v. 13. in 14. stoletju : Kostanjeviški, Sicherstaini in Sichelburgi</title>
             <cobiss>512142463</cobiss>
             <page>97-109</page>
             <citedIn count="3">
@@ -20114,8 +20120,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kosi Miha</author>
-            <title>Na meji imperija. Kostanjevica in oblikovanje državne meje na Dolenjskem v srednjem veku</title>
-            <title>Na meji imperija</title>
+            <title>Na meji imperija : Kostanjevica in oblikovanje državne meje na Dolenjskem v srednjem veku</title>
+            <cobiss>512142719</cobiss>
             <page>77-96</page>
             <citedIn count="2">
                <cit did="2639" cid="183" avtor0="Kosi Miha"
@@ -20130,8 +20136,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Maček Jože</author>
             <title>Paberki k zgodovini opatijskega gospodstva Kostanjevica</title>
+            <addTitle>Zur Geschichte der Abteiherrschaft Landstrass</addTitle>
             <cobiss>3675769</cobiss>
-            <page>123-131</page>
+            <page>123-132</page>
             <citedIn count="1">
                <cit did="888" cid="2" avtor0="Maček Jože"
                   naslov0="Paberki k zgodovini opatijskega gospodstva Kostanjevica" cobiss="3675769"
@@ -20139,7 +20146,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Predovnik K.</author>
             <author>Predovnik Katarina</author>
             <title>Arheološke raziskave najdišč mlajših obdobij v Kostanjevici in okolici</title>
             <page>41-53</page>
@@ -20155,9 +20161,10 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Šemrov A.</author>
+            <author>Šemrov Andrej</author>
             <title>Kovnica Kostanjevica (Landstrass-Landestrost) v obdobju visokega srednjega veka</title>
-            <page>181-191</page>
+            <cobiss>512141439</cobiss>
+            <page>195-211</page>
             <citedIn count="1">
                <cit did="1940" cid="37" avtor0="Šemrov A."
                   naslov0="Kovnica Kostanjevica (Landstrass-Landestrost) v obdobju visokega srednjega veka"
@@ -20168,10 +20175,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Rodbina koroških Spanheimov, prvih gospodov Kostanjevice</title>
-            <title>Rodbina koroških Spanheimov. prvih gospodov Kostanjevice</title>
-            <title>Rodbina koroških Spanheimov. prv ih gospodov Kostanjevice</title>
             <cobiss>21205602</cobiss>
-            <page>35-76</page>
+            <page>55-76</page>
             <citedIn count="6">
                <cit did="775" cid="223" avtor0="Štih Peter"
                   naslov0="Rodbina koroških Spanheimov, prvih gospodov Kostanjevice"
@@ -20215,8 +20220,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
       <chapters>
          <pubPart>
             <author>Bernhard Günther</author>
-            <title>Das Kloster Sittich und die Gesta Friderici. Neue Erkenntnisse zur überlieferungsge-schichte einer Handschrift</title>
-            <page>147-162</page>
+            <title>Das Kloster Sittich und die Gesta Friderici. Neue Erkenntnisse zur Überlieferungsgeschichte einer Handschrift</title>
+            <cobiss>15840557</cobiss>
+            <page>147-161</page>
             <citedIn count="1">
                <cit did="2535" cid="5" avtor0="Bernhard Günther"
                   naslov0="Das Kloster Sittich und die Gesta Friderici. Neue Erkenntnisse zur überlieferungsge-schichte einer Handschrift"
@@ -20226,9 +20232,9 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Bratož Rajko</author>
-            <title>Začetki oglejskega misijona med Slovani</title>
             <title>Začetki oglejskega misijona med Slovani in Avari : Sestanek škofov "ad ripas Danubii" in sinoda v Čedadu 796</title>
-            <title>Začetki oglejskega misijona med Slovani in Avari</title>
+            <addTitle>Die Anfänge der aquileiensischen Mission unter Slaven und Awaren : Die Bischofssynode "ad ripas Danubii" und die Synode von Cividale 796</addTitle>
+            <cobiss>11478573</cobiss>
             <page>79-111</page>
             <citedIn count="3">
                <cit did="2447" cid="29" avtor0="Bratož Rajko"
@@ -20245,8 +20251,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Brückmuller Ernst</author>
-            <title>Patriotismus und Geschichts-unterricht. Lehrpläne und Lehrbücher als Instrumente eines übernationalen Gesamtstaats-bewufitseins in den Gymnasien der späten Habsburgermonarchie</title>
+            <author>Bruckmüller Ernst</author>
+            <title>Patriotismus und Geschichts-unterricht : Lehrpläne und Lehrbücher als Instrumente eines übernationalen Gesamtstaats-bewufitseins in den Gymnasien der späten Habsburgermonarchie</title>
             <page>511-530</page>
             <citedIn count="1">
                <cit did="2044" cid="7" avtor0="Brückmuller Ernst"
@@ -20258,6 +20264,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Pravnik Ivan Tomšič in znanstveno proučevanje izseljenskega vprašanja</title>
+            <addTitle>The lawyer Ivan Tomšič and scientific research of the emigrant problematic</addTitle>
             <cobiss>11478317</cobiss>
             <page>589-602</page>
             <citedIn count="1">
@@ -20270,7 +20277,6 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Problem rezervne hrane za Ljubljano ob začetku 2. svetovne vojne</title>
             <title>Problem rezervne hrane za Ljubljano ob začetku druge svetovne vojne</title>
             <cobiss>803188</cobiss>
             <page>625-635</page>
@@ -20287,6 +20293,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          <pubPart>
             <author>Gestrin Ferdo</author>
             <title>Knjigovodstvo na Slovenskem v 16. stoletju</title>
+            <cobiss>15849773</cobiss>
             <page>257-262</page>
             <citedIn count="1">
                <cit did="2583" cid="80" avtor0="Gestrin Ferdo"
@@ -20296,7 +20303,7 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Janša Zorn Olga</author>
+            <author>Janša-Zorn Olga</author>
             <title>Prispevek k zgodovini delovanja Juridičnega društva v Ljubljani (1861-1868)</title>
             <cobiss>15868205</cobiss>
             <page>497-509</page>
@@ -20309,9 +20316,8 @@ sodelovanju v drugi polovici 19. in v začetku 20. stoletja</title>
          </pubPart>
          <pubPart>
             <author>Kambič Marko</author>
-            <title>Uboj zalotenega tatu - med naravnim pravom in
-recepcijo</title>
             <title>Uboj zalotenega tatu - med naravnim pravom in recepcijo</title>
+            <cobiss>232904</cobiss>
             <page>263-273</page>
             <citedIn count="2">
                <cit did="104" cid="32" avtor0="Kambič Marko"
@@ -20327,8 +20333,9 @@ recepcijo</title>
          </pubPart>
          <pubPart>
             <author>Melik Vasilij</author>
-            <title>Slovenci  v državnem zboru 1848-1918</title>
             <title>Slovenci v državnem zboru 1848-1918</title>
+            <cobiss>11410221</cobiss>
+            <page>539-543</page>
             <citedIn count="2">
                <cit did="1317" cid="286" avtor0="Melik Vasilij"
                   naslov0="Slovenci  v državnem zboru 1848-1918" source="Vilfanov zbornik"
@@ -20341,7 +20348,8 @@ recepcijo</title>
          <pubPart>
             <author>Moritsch Andrej</author>
             <title>Slovanski kongres v Pragi in Slovenci</title>
-            <page>405-411</page>
+            <cobiss>15860013</cobiss>
+            <page>405-410</page>
             <citedIn count="1">
                <cit did="167" cid="51" avtor0="Moritsch Andrej"
                   naslov0="Slovanski kongres v Pragi in Slovenci" source="Vilfanov zbornik"
@@ -20351,7 +20359,7 @@ recepcijo</title>
          <pubPart>
             <author>Pleterski Janko</author>
             <title>'Slovenja' država (ein 'windisches' Reich) Petra Radicsa</title>
-            <title>Slovenja’ država (ein â€˜windisches’ Reich) Petra Radicsa</title>
+            <addTitle>"Ein windisches Reich" bei Peter Radics</addTitle>
             <cobiss>11479085</cobiss>
             <page>491-495</page>
             <citedIn count="2">
@@ -20368,7 +20376,9 @@ recepcijo</title>
          <pubPart>
             <author>Rajšp Vincenc</author>
             <title>Karte ob novi razmejitvi škofij na področju Notranje Avstrije v času cesarja Jožefa II.</title>
+            <addTitle>Fünf Karten, die anläßlich der Diskussion über die Grenzen zwischen den Bistümern Innerösterreichs im 18. Jahrhundert entstanden sind</addTitle>
             <cobiss>11402285</cobiss>
+            <page>341-361</page>
             <citedIn count="2">
                <cit did="3282" cid="5" avtor0="Rajšp Vincenc"
                   naslov0="Karte ob novi razmejitvi škofij na področju Notranje Avstrije v času cesarja Jožefa II."
@@ -20382,8 +20392,6 @@ recepcijo</title>
          </pubPart>
          <pubPart>
             <author>Valentinitsch Helfried</author>
-            <title>Die Verfolgung von Hexen und Zauberern in
-der Untersteiermark und in Radkersburg (1546-1746)</title>
             <title>Die Verfolgung von Hexen und Zauberern in der Untersteiermark und in Radkersburg (1546-1746)</title>
             <cobiss>15854637</cobiss>
             <page>305-322</page>
@@ -20402,6 +20410,7 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
             <author>Čas Bojan</author>
             <title>Gumplowiczeva sociološka misel</title>
             <cobiss>11435053</cobiss>
+            <page>455-465</page>
             <citedIn count="1">
                <cit did="29" cid="341" avtor0="Čas Bojan" naslov0="Gumplowiczeva sociološka misel"
                   cobiss="11435053" source="Vilfanov zbornik" pubPlace="Ljubljana" year="1999"
@@ -20411,9 +20420,8 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
          <pubPart>
             <author>Štih Peter</author>
             <title>Dežela Grofija v Marki in Metliki</title>
-            <title>Dežela Grofija v Marko in Metliki</title>
             <cobiss>11468077</cobiss>
-            <page>123-146</page>
+            <page>123-145</page>
             <citedIn count="12">
                <cit did="2447" cid="47" avtor0="Štih Peter"
                   naslov0="Dežela Grofija v Marki in Metliki" source="Vilfanov zbornik"
@@ -20465,7 +20473,9 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
          <pubPart>
             <author>Šumrada Janez</author>
             <title>Državnopravni status Ilirskih provinc s kratkim pregledom upravne ureditve</title>
+            <addTitle>Le statut juridique des Provinces illiriennes et quelques problèmes relatifs à leur régime administratif</addTitle>
             <cobiss>8601352</cobiss>
+            <page>375-390</page>
             <citedIn count="1">
                <cit did="29" cid="6" avtor0="Šumrada Janez"
                   naslov0="Državnopravni status Ilirskih provinc s kratkim pregledom upravne ureditve"
@@ -20474,8 +20484,9 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Žnidaršič  Liljana</author>
+            <author>Žnidaršič Golec Liljana</author>
             <title>Materialni položaj duhovnikov kranjskega dela ljubljanske škofije od konca 15. do srede 16. stoletja</title>
+            <cobiss>869492</cobiss>
             <page>245-255</page>
             <citedIn count="1">
                <cit did="2583" cid="223" avtor0="Žnidaršič  Liljana"
@@ -20486,11 +20497,9 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
          </pubPart>
          <pubPart>
             <author>Žontar Jože</author>
-            <title>Občine v Sloveniji v letih 1918 do 1941</title>
             <title>Občine v Sloveniji v letih 1918-1941</title>
             <cobiss>231368</cobiss>
-            <cobiss>15891757</cobiss>
-            <page>603-613</page>
+            <page>603-623</page>
             <citedIn count="4">
                <cit did="2878" cid="12" avtor0="Žontar Jože"
                   naslov0="Občine v Sloveniji v letih 1918 do 1941" cobiss="231368"
@@ -20523,6 +20532,7 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <title>Delovanje slovenskih izseljencev v Avstraliji za neodvisno Slovenijo</title>
+            <cobiss>9665869</cobiss>
             <page>239-268</page>
             <citedIn count="1">
                <cit did="2744" cid="9" avtor0="Klemenčič Matjaž"
@@ -20569,7 +20579,8 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
          <pubPart>
             <author>Munda Hirnök Katalin</author>
             <title>Delovanje pripadnikov slovenske manjšine v Porabju na Madžarskem za neodvisno Slovenijo</title>
-            <page>78-84</page>
+            <cobiss>9642573</cobiss>
+            <page>75-84</page>
             <citedIn count="1">
                <cit did="2740" cid="9" avtor0="Munda Hirnök Katalin"
                   naslov0="Delovanje pripadnikov slovenske manjšine v Porabju na Madžarskem za neodvisno Slovenijo"
@@ -20622,11 +20633,9 @@ der Untersteiermark und in Radkersburg (1546-1746)</title>
       <chapters>
          <pubPart>
             <author>Bajc Gorazd</author>
-            <title>Pregled britanskih obveščevalnih služb ter
-njihovih misij, podmisij in operacij med partizani na Primorskem, v
-Furlaniji in v Karniji : 1943-1945</title>
-            <title>Pregled britanskih obveščevalnih služb ter njihovih misij, podmisij in operacij med partizani na Primorskem, v Furlaniji in v Karniji (1943—1945)</title>
-            <page>151-164</page>
+            <title>Pregled britanskih obveščevalnih služb ter njihovih misij, podmisij in operacij med partizani na Primorskem, v Furlaniji in v Karniji : 1943—1945</title>
+            <cobiss>998611</cobiss>
+            <page>151-164, 467-469</page>
             <citedIn count="2">
                <cit did="143" cid="9" avtor0="Bajc Gorazd"
                   naslov0="Pregled britanskih obveščevalnih služb ter&#xA;njihovih misij, podmisij in operacij med partizani na Primorskem, v&#xA;Furlaniji in v Karniji : 1943-1945"
@@ -20639,8 +20648,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Bajc Gorazd</author>
-            <title>Vloga dr. Aleša Beblerja v zvezi s Primorsko 1943-1954</title>
-            <page>119-128</page>
+            <title>Vloga dr. Aleša Beblerja v zvezi s Primorsko, 1943-1954</title>
+            <page>119-128, 459-461</page>
             <citedIn count="1">
                <cit did="1511" cid="23" avtor0="Bajc Gorazd"
                   naslov0="Vloga dr. Aleša Beblerja v zvezi s Primorsko 1943-1954"
@@ -20650,8 +20659,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Biber Dušan</author>
-            <title>Velika Slovenija - Združene države Evrope</title>
-            <page>147-150</page>
+            <title>Velika Slovenija - Združene države Evrope?</title>
+            <cobiss>1028819</cobiss>
+            <page>147-150, 465-467</page>
             <citedIn count="1">
                <cit did="1511" cid="45" avtor0="Biber Dušan"
                   naslov0="Velika Slovenija - Združene države Evrope"
@@ -20660,9 +20670,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gibianskij Leonid</author>
+            <author>Gibianskii Leonid J.</author>
             <title>The Trieste Issue and the Soviet Union in the 1940s</title>
-            <page>357-390</page>
+            <cobiss>1031635</cobiss>
+            <page>357-390, 494-496</page>
             <citedIn count="2">
                <cit did="3210" cid="74" avtor0="Gibianskij Leonid"
                   naslov0="The Trieste Issue and the Soviet Union in the 1940s"
@@ -20677,7 +20688,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Klabjan Borut</author>
             <title>Češkoslovaška in tržaško vprašanje</title>
-            <title>Češkoslovaška in tržaško vprašanje kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954</title>
             <cobiss>999635</cobiss>
             <page>165-182</page>
             <citedIn count="2">
@@ -20694,9 +20704,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Lipušček Uroš</author>
-            <title>You Will not be Robbed: Slovenci in velike sile od Londonskega pakta 1915 do Londonskega memoranduma 1954</title>
-            <title>You will not be robbed</title>
-            <page>47-58</page>
+            <title>You will not be robbed: Slovenci in velike sile od Londonskega pakta 1915 do Londonskega memoranduma 1954</title>
+            <cobiss>1027795</cobiss>
+            <page>47-58, 443-446</page>
             <citedIn count="2">
                <cit did="1511" cid="194" avtor0="Lipušček Uroš"
                   naslov0="You Will not be Robbed: Slovenci in velike sile od Londonskega pakta 1915 do Londonskega memoranduma 1954"
@@ -20735,9 +20745,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Opačič Vid Jaka</author>
+            <author>Opačić Vid Jakša</author>
             <title>Tršćanska kriza kroz odjeke u tisku</title>
-            <page>213-240</page>
+            <cobiss>1029843</cobiss>
+            <page>213-241, 476-477</page>
             <citedIn count="1">
                <cit did="1511" cid="251" avtor0="Opačič Vid Jaka"
                   naslov0="Tršćanska kriza kroz odjeke u tisku"
@@ -20747,9 +20758,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Pahor Milan</author>
-            <title>Viharni September 1943 v Trstu, Gorki, Benečiji in na Primorskem: prva svoboda</title>
             <title>Viharni september 1943 v Trstu, Gorici, Benečiji in na Primorskem: prva svoboda</title>
-            <page>47-66</page>
+            <cobiss>11771954</cobiss>
+            <page>59-66</page>
             <citedIn count="2">
                <cit did="1782" cid="260" avtor0="Pahor Milan"
                   naslov0="Viharni September 1943 v Trstu, Gorki, Benečiji in na Primorskem: prva svoboda"
@@ -20764,7 +20775,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Pelikan Egon</author>
             <title>Slovenska in hrvaška duhovščina v Julijski krajini ob koncu druge svetovne vojne</title>
-            <page>113-118</page>
+            <cobiss>998099</cobiss>
+            <page>113-118, 458-459</page>
             <citedIn count="1">
                <cit did="1511" cid="272" avtor0="Pelikan Egon"
                   naslov0="Slovenska in hrvaška duhovščina v Julijski krajini ob koncu druge svetovne vojne"
@@ -20775,7 +20787,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Repe Božo</author>
             <title>Slovensko-italijanski odnosi od Londonskega memoranduma do osamosvojitve Slovenije</title>
-            <page>323-337</page>
+            <cobiss>1031379</cobiss>
+            <page>323-337, 490-493</page>
             <citedIn count="1">
                <cit did="294" cid="11" avtor0="Repe Božo"
                   naslov0="Slovensko-italijanski odnosi od Londonskega memoranduma do osamosvojitve Slovenije"
@@ -20784,9 +20797,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Rutar Sa.</author>
-            <title>War, memorv and nation in the northeastern Adriatic: a contribution to methodology</title>
-            <page>241-254</page>
+            <author>Rutar Sabine</author>
+            <title>War, memory and nation in the northeastern Adriatic : a contribution to methodology</title>
+            <cobiss>1030099</cobiss>
+            <page>241-254, 477-478</page>
             <citedIn count="1">
                <cit did="1916" cid="34" avtor0="Rutar Sa."
                   naslov0="War, memorv and nation in the northeastern Adriatic: a contribution to methodology"
@@ -20797,9 +20811,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Troha Nevenka</author>
             <title>Svobodno tržaško ozemlje - politika levih strank v času do sprejetja resolucije Informbiroja (september 1947 - junij 1948)</title>
-            <title>Svobodno tržaško ozemlje: politika levih strank v času do sprejetja resolucije informbiroja</title>
             <cobiss>2082164</cobiss>
-            <page>201-212</page>
+            <page>201-211</page>
             <citedIn count="3">
                <cit did="3324" cid="16" avtor0="Troha Nevenka"
                   naslov0="Svobodno tržaško ozemlje - politika levih strank v času do sprejetja resolucije Informbiroja (september 1947 - junij 1948)"
@@ -20830,8 +20843,9 @@ Furlaniji in v Karniji : 1943-1945</title>
       <pubCobiss>98501632</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Božič D.</author>
+            <author>Božič Dragan</author>
             <title>Kako Metulum se Avgustu brani</title>
+            <cobiss>11439405</cobiss>
             <page>181-183</page>
             <citedIn count="1">
                <cit did="1748" cid="115" avtor0="Božič D." naslov0="Kako Metulum se Avgustu brani"
@@ -20842,6 +20856,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Ciglenečki Slavko</author>
             <title>Barbari prihajajo</title>
+            <cobiss>11489325</cobiss>
             <page>341-342</page>
             <citedIn count="1">
                <cit did="2532" cid="13" avtor0="Ciglenečki Slavko" naslov0="Barbari prihajajo"
@@ -20852,6 +20867,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Ciglenečki Slavko</author>
             <title>Kastel Karnij in njegova posadka</title>
+            <cobiss>11490605</cobiss>
             <page>356-358</page>
             <citedIn count="2">
                <cit did="2639" cid="29" avtor0="Ciglenečki Slavko"
@@ -20866,6 +20882,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Ciglenečki Slavko</author>
             <title>Langobardi na poti v obljubljeno deželo</title>
+            <cobiss>11489837</cobiss>
             <page>346-348</page>
             <citedIn count="1">
                <cit did="2532" cid="14" avtor0="Ciglenečki Slavko"
@@ -20877,6 +20894,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Ciglenečki Slavko</author>
             <title>Poslednji sijaj pod Teoderikovimi Goti</title>
+            <cobiss>11489581</cobiss>
             <page>343-345</page>
             <citedIn count="1">
                <cit did="2532" cid="15" avtor0="Ciglenečki Slavko"
@@ -20886,9 +20904,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dular J.</author>
+            <author>Dular Janez</author>
             <title>Most na Soči - naselje v zavetju rek</title>
-            <page>109-115</page>
+            <cobiss>11260205</cobiss>
+            <page>113-115</page>
             <citedIn count="1">
                <cit did="1950" cid="20" avtor0="Dular J."
                   naslov0="Most na Soči - naselje v zavetju rek"
@@ -20897,8 +20916,9 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Horvat J.</author>
+            <author>Horvat Jana</author>
             <title>Navport - naselje na začetku vodne poti</title>
+            <cobiss>11442733</cobiss>
             <page>232-234</page>
             <citedIn count="1">
                <cit did="1748" cid="489" avtor0="Horvat J."
@@ -20909,8 +20929,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Knific Timotej</author>
-            <title>Gradišče nad Basljem</title>
             <title>Gradišče nad Bašljem</title>
+            <cobiss>11262765</cobiss>
             <page>398-401</page>
             <citedIn count="2">
                <cit did="2639" cid="149" avtor0="Knific Timotej" naslov0="Gradišče nad Basljem"
@@ -20923,6 +20943,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Pleterski Andrej</author>
             <title>Karnij postane Kranj</title>
+            <cobiss>11493421</cobiss>
             <page>395-397</page>
             <citedIn count="1">
                <cit did="2639" cid="241" avtor0="Pleterski Andrej" naslov0="Karnij postane Kranj"
@@ -20932,6 +20953,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Pleterski Andrej</author>
             <title>Pogani in kristjani</title>
+            <cobiss>11492909</cobiss>
             <page>386-389</page>
             <citedIn count="1">
                <cit did="2639" cid="243" avtor0="Pleterski Andrej" naslov0="Pogani in kristjani"
@@ -20941,6 +20963,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Pleterski Andrej</author>
             <title>Razcvet Ptuja na ruševinah Petovione</title>
+            <cobiss>11493677</cobiss>
             <page>402-405</page>
             <citedIn count="1">
                <cit did="2639" cid="244" avtor0="Pleterski Andrej"
@@ -20994,8 +21017,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Šašel-Kos Marjeta</author>
+            <author>Šašel Kos Marjeta</author>
             <title>Viri za antično zgodovino</title>
+            <cobiss>11251501</cobiss>
+            <page>13-15</page>
             <citedIn count="1">
                <cit did="1375" cid="23" avtor0="Šašel-Kos Marjeta"
                   naslov0="Viri za antično zgodovino"
@@ -21030,7 +21055,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Bočić Neven</author>
-            <title>Severni del Karlovške kotline</title>
+            <title>Severni del Karlovške županije</title>
             <cobiss>28389933</cobiss>
             <page>85-98</page>
             <citedIn count="1">
@@ -21100,8 +21125,7 @@ Furlaniji in v Karniji : 1943-1945</title>
                <cit did="3072" cid="109" avtor0="Gregorčič Brigita" naslov0="Porečje Čabranke"
                   cobiss="28390189"
                   source="Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva = Vodniki Ljubljanskega geografskega društva, Evropa"
-                  pubPlace="Ljubljana" publisher="ZRC, ZRC SAZU" year="2008" issue="7" page="99-114"
-               />
+                  pubPlace="Ljubljana" publisher="ZRC, ZRC SAZU" year="2008" issue="7" page="99-114"/>
             </citedIn>
          </pubPart>
          <pubPart>
@@ -21121,6 +21145,7 @@ Furlaniji in v Karniji : 1943-1945</title>
             <author>Kladnik Drago</author>
             <title>Predgovor</title>
             <cobiss>28358701</cobiss>
+            <page>3</page>
             <citedIn count="1">
                <cit did="3072" cid="143" avtor0="Kladnik Drago" naslov0="Predgovor"
                   cobiss="28358701"
@@ -21145,13 +21170,12 @@ Furlaniji in v Karniji : 1943-1945</title>
             <author>Bašić Ksenija</author>
             <title>Zagrebška aglomeracija</title>
             <cobiss>28389421</cobiss>
-            <page>39-65</page>
+            <page>39-64</page>
             <citedIn count="1">
                <cit did="3072" cid="237" avtor0="Prelogović Vedran" avtor1="Bašić Ksenija"
                   naslov0="Zagrebška aglomeracija" cobiss="28389421"
                   source="Zamejska Hrvaška: ekskurzije Ljubljanskega geografskega društva, Evropa"
-                  pubPlace="Ljubljana" publisher="ZRC, ZRC SAZU" year="2008" issue="7" page="39-65"
-               />
+                  pubPlace="Ljubljana" publisher="ZRC, ZRC SAZU" year="2008" issue="7" page="39-65"/>
             </citedIn>
          </pubPart>
       </chapters>
@@ -21197,9 +21221,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Gombač Milan</author>
-            <title>Kratek pregled razvoja Varnostnoobveščevalne službe osvobodilne fornte</title>
-            <title>Kratek pregled razvoja Varnostnoobveščevalne službe osvobodilne fronte</title>
-            <title>Kratek pregled razvoja varnostno-obveščevalne službe osvobodilne fronte</title>
+            <title>Kratek pregled razvoja Varnostnoobveščevalne službe Osvobodilne fronte</title>
             <page>25-51</page>
             <citedIn count="3">
                <cit did="1166" cid="6" avtor0="Gombač Milan"
@@ -21218,7 +21240,7 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kavčič Niko in sodelavci</author>
+            <author>Kavčič Niko</author>
             <title>VOS OF na Gorenjskem</title>
             <citedIn count="1">
                <cit did="2287" cid="52" avtor0="Kavčič Niko in sodelavci"
@@ -21230,13 +21252,15 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Domobranstvo na Primorskem</title>
+            <cobiss>1876340</cobiss>
+            <page>241-256</page>
             <citedIn count="1">
                <cit did="507" cid="3" avtor0="Mlakar Boris" naslov0="Domobranstvo na Primorskem"
                   source="Zaščita narodnoosvobodilnega boja" pubPlace="Ljubljana" year="1979"/>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Černivec Anton et al.</author>
+            <author>Černivec Anton</author>
             <title>Varnostno obveščevalna služba osvobodilne fronte (VOS OF) na Štajerskem in Koroškem</title>
             <citedIn count="1">
                <cit did="2287" cid="10" avtor0="Černivec Anton et al."
@@ -21280,7 +21304,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Gestrin Ferdo</author>
-            <title>Obdobje fevdalizma na ozemlju Domžalske občine v luči zemljiškega gospostva Jablje</title>
             <title>Obdobje fevdalizma na ozemlju domžalske občine v luči zemljiškega gospostva Jablje</title>
             <page>23-31</page>
             <citedIn count="3">
@@ -21298,8 +21321,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Kobe Arzenšek Katarina</author>
-            <title>Iz preteklosti slamnikar-stva v domžalski okolici s poudarkom na domačih proizvajalcih</title>
+            <author>Kobe-Arzenšek Katarina</author>
+            <title>Iz preteklosti slamnikarstva v domžalski okolici s poudarkom na domačih proizvajalcih</title>
             <page>103-130</page>
             <citedIn count="1">
                <cit did="2039" cid="12" avtor0="Kobe Arzenšek Katarina"
@@ -21364,6 +21387,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Biber Dušan</author>
             <title>Ameriške misije, slovenski partizani in prodor na sever</title>
+            <addTitle>American missions, Slovene partisans and northern penetration</addTitle>
             <cobiss>21046573</cobiss>
             <page>417-425</page>
             <citedIn count="3">
@@ -21381,8 +21405,11 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deakin F. William</author>
-            <title>The German and Allied Plans for a Balkan Landing</title>
+            <author>Deakin William, Sir</author>
+            <title>The German and allied plans for a Balkan landing</title>
+            <addTitle>Nemški in zavezniški načrti za izkrcanje na Balkanu</addTitle>
+            <cobiss>21054253</cobiss>
+            <page>399-405</page>
             <citedIn count="1">
                <cit did="3210" cid="46" avtor0="Deakin F. William"
                   naslov0="The German and Allied Plans for a Balkan Landing"
@@ -21393,6 +21420,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Filipič France</author>
             <title>O življenju in delovanju Dušana Kermavnerja med leti 1903-1929</title>
+            <addTitle>On the life and work of Dušan Kermavner from 1903 to 1929</addTitle>
             <cobiss>21044781</cobiss>
             <page>331-347</page>
             <citedIn count="4">
@@ -21415,7 +21443,10 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Hanisch Ernst</author>
-            <title>Der politische Katholizismus, Staat und Kirche in Österreich von 1919 bis zur Gegenwart</title>
+            <title>Der politische Katholizismus : Staat und Kirche in Österreich von 1919 bis zur Gegenwart</title>
+            <addTitle>Politično katolištvo : država in cerkev v Avstriji od 1919 do danes</addTitle>
+            <cobiss>21048621</cobiss>
+            <page>527-537</page>
             <citedIn count="1">
                <cit did="2766" cid="11" avtor0="Hanisch Ernst"
                   naslov0="Der politische Katholizismus, Staat und Kirche in Österreich von 1919 bis zur Gegenwart"
@@ -21423,8 +21454,12 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>I.uthar Breda</author>
-            <title>Oto, Kolonizacija spomina - politika in tekstualnost domobranskih spomenikov po letu 1991</title>
+            <author>Luthar Breda</author>
+            <author>Luthar Oto</author>
+            <title>Kolonizacija spomina : politika in tekstualnost domobranskih spomenikov po letu 1991</title>
+            <addTitle>Collonisation of memory</addTitle>
+            <cobiss>21036845</cobiss>
+            <page>647-662</page>
             <citedIn count="1">
                <cit did="2418" cid="30" avtor0="I.uthar Breda"
                   naslov0="Oto, Kolonizacija spomina - politika in tekstualnost domobranskih spomenikov po letu 1991"
@@ -21432,9 +21467,9 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Janša Zorn Olga</author>
             <author>Janša-Zorn Olga</author>
             <title>Odnos slovenske politike do turističnih organizacij s posebnim ozirom na Kranjsko pred prvo svetovno vojno</title>
+            <addTitle>Das Verhältnis der slowenischen Politik zu touristischen Organisationen mit besonderer Rücksicht aud das Land Krain vom der ersten Weltkrieg</addTitle>
             <cobiss>21042989</cobiss>
             <page>213-228</page>
             <citedIn count="2">
@@ -21451,6 +21486,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Klemenčič Matjaž</author>
             <title>Pregled zgodovine Makedonije in Makedoncev od naselitve Slovanov v 6. stoletju do samostojne države s spornim imenom v 21. stoletju</title>
+            <addTitle>Survey of the history of Macedonia and Slavic Macedonians from the Slav settlement in the 6th century until 21st century</addTitle>
             <cobiss>21040429</cobiss>
             <page>91-105</page>
             <citedIn count="2">
@@ -21466,7 +21502,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Knight Robert</author>
-            <title>Peter Wilkinson and the Carinthian Slovenes</title>
+            <title>Peter Wilkinson and the Carinthian Slovenes : a report from April 1946</title>
+            <cobiss>21054509</cobiss>
+            <page>427-442</page>
             <citedIn count="1">
                <cit did="1648" cid="24" avtor0="Knight Robert"
                   naslov0="Peter Wilkinson and the Carinthian Slovenes"
@@ -21476,6 +21514,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Malle Avguštin</author>
             <title>Praznovanje 30-letnice koroškega plebiscita (1920-1950)</title>
+            <addTitle>Die 30-Jahrfeier der Volksabstimmung</addTitle>
             <cobiss>21047853</cobiss>
             <page>491-503</page>
             <citedIn count="1">
@@ -21487,7 +21526,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Marušič Branko</author>
-            <title>Prispevek k poznavanju stikov med slovenskimi in italijanskimi zgodovinarji</title>
+            <title>Prispevek k poznavanju stikov med slovenskimi in italijanskimi zgodovinarji (zgodovinopisjem)</title>
+            <addTitle>Contributo alla conoscenza dei contratti tra gli storici Sloveni e Italiani, tra la storiografia slovena e quella italiana</addTitle>
+            <cobiss>21037101</cobiss>
             <page>555-572</page>
             <citedIn count="1">
                <cit did="1317" cid="6" avtor0="Marušič Branko"
@@ -21498,8 +21539,10 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Melik Vasilij</author>
-            <title>Slovenski državni poslanci</title>
             <title>Slovenski državni poslanci 1873-1918</title>
+            <addTitle>Slowenische Reichsratsabgeordnete 1873-1918</addTitle>
+            <cobiss>21041709</cobiss>
+            <page>169-173</page>
             <citedIn count="2">
                <cit did="1317" cid="37" avtor0="Melik Vasilij" naslov0="Slovenski državni poslanci"
                   source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="169"/>
@@ -21510,16 +21553,10 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Moll Martin</author>
-            <author>Möll Martin</author>
-            <title>Erster Weltkrieg und Politische Justiz in Österreich-Ungarn: Empirische Befunde aus der slowenischen und deutschsprachingen Steiermark</title>
-            <title>Erster Weltkrieg und politische Justiz in Österreich-Ungarn : empirische Befunde aus der slowenischen und deutschsprachigen Steiermark</title>
-            <title>Erster Weltkrieg und politische Justiz in Österreich-Ungarn....</title>
-            <title>Prva svetovna vojna in politično sodstvo v Avstro-Ogrski: empirične ugotovitve iz slovenske in nemške Štajerske</title>
-            <title>Prva svetovna vojna in politično sosdstvo v Avstro-Ogrski</title>
-            <title>Erster Weltkrieg und politische Justiz in Österreich-Ungarn</title>
-            <title>Erster Weltkrieg und politische Justiz in Osterreich-Ungarn</title>
+            <title>Erster Weltkrieg und Politische Justiz in Österreich-Ungarn : empirische Befunde aus der slowenischen und deutschsprachingen Steiermark</title>
+            <addTitle>Prva svetovna vojna in politično sodstvo v Avstro-Ogrski : empirične ugotovitve iz slovenske in nemške Štajerske</addTitle>
             <cobiss>21067053</cobiss>
-            <page>252-283</page>
+            <page>253-283</page>
             <citedIn count="7">
                <cit did="629" cid="358" avtor0="Moll Martin"
                   naslov0="Erster Weltkrieg und Politische Justiz in Österreich-Ungarn: Empirische Befunde aus der slowenischen und deutschsprachingen Steiermark"
@@ -21548,18 +21585,22 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Promitzer Christian</author>
-            <title>Body, Race and the Border: Notes on the Paradigm of German National Thinking about the Slovenians</title>
+            <title>Body, race and the border : notes on the paradigm of German national thinking about the Slovenes</title>
+            <addTitle>Körper, Rasse und Grenze</addTitle>
+            <cobiss>21054765</cobiss>
             <page>597-608</page>
             <citedIn count="1">
                <cit did="1648" cid="14" avtor0="Promitzer Christian"
                   naslov0="Body, Race and the Border: Notes on the Paradigm of German National Thinking about the Slovenians"
-                  source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="597-608"
-               />
+                  source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="597-608"/>
             </citedIn>
          </pubPart>
          <pubPart>
             <author>Stergar Rok</author>
-            <title>Dr. Ivan Šušteršič proti grofu Jožefu Antonu Barbu-Waxensteinu : dvoboj, ki ga ni bilo</title>
+            <title>Dr. Ivan Šusteršič proti grofu Jožefu Antonu Barbu-Waxensteinu : dvoboj, ki ga ni bilo</title>
+            <addTitle>Dr. Ivan Šusteršič vs. count Joseph Anton Barbo-Waxenstein</addTitle>
+            <cobiss>21042733</cobiss>
+            <page>203-212</page>
             <citedIn count="1">
                <cit did="674" cid="3" avtor0="Stergar Rok"
                   naslov0="Dr. Ivan Šušteršič proti grofu Jožefu Antonu Barbu-Waxensteinu : dvoboj, ki ga ni bilo"
@@ -21570,6 +21611,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Stiplovšek Miroslav</author>
             <title>Prelomnica v avtonomističnih prizadevanjih Banskega sveta Dravske banovine sredi tridesetih let</title>
+            <addTitle>Ein Wendepunkt in den autonomischen Bemühungen des Banatsrats des Draubanats mitte der dreissiger Jahre</addTitle>
+            <cobiss>21045293</cobiss>
             <page>355-370</page>
             <citedIn count="1">
                <cit did="3211" cid="66" avtor0="Stiplovšek Miroslav"
@@ -21581,6 +21624,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Troha Nevenka</author>
             <title>Volitve v coni A Svobodnega tržaškega ozemlja</title>
+            <addTitle>Die Wahlen in der Zone A des Freies Territoriums Triest</addTitle>
+            <cobiss>21047597</cobiss>
             <page>475-490</page>
             <citedIn count="2">
                <cit did="1511" cid="381" avtor0="Troha Nevenka"
@@ -21594,9 +21639,10 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Vovko Andrej</author>
-            <title>Delovanje drustva Südmark na Slovenskem Stajerskem do leta 1914</title>
-            <title>Delovanje društva Südmark na Slovenskem Štajerskem do leta 1914</title>
-            <page>230-231</page>
+            <title>Delovanje društva Südmark na Slovenskem Štajerskem do leta 1914 v luči pisanja Slovenskega Branika</title>
+            <addTitle>Die Tätigkeit des Vereins Südmark in der Untersteiermark bis zum Jahre 1914 and Hand der Berichte im Slovenski Branik</addTitle>
+            <cobiss>21066797</cobiss>
+            <page>229-251</page>
             <citedIn count="2">
                <cit did="1783" cid="206" avtor0="Vovko Andrej"
                   naslov0="Delovanje drustva Südmark na Slovenskem Stajerskem do leta 1914"
@@ -21609,9 +21655,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Čepič  Zdenko</author>
             <author>Čepič Zdenko</author>
             <title>Čas prenoviteljstva : oris politike ZKS od aprila 1988 do aprila 1990</title>
+            <addTitle>Die Zeit der Erneuerung</addTitle>
+            <cobiss>21045805</cobiss>
             <page>505-526</page>
             <citedIn count="2">
                <cit did="1898" cid="15" avtor0="Čepič  Zdenko"
@@ -21619,8 +21666,7 @@ Furlaniji in v Karniji : 1943-1945</title>
                   source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="505-526"/>
                <cit did="1818" cid="3" avtor0="Čepič Zdenko"
                   naslov0="Čas prenoviteljstva : oris politike ZKS od aprila 1988 do aprila 1990"
-                  source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="505-526"
-               />
+                  source="Zbornik Janka Pleterskega" pubPlace="Ljubljana" year="2003" page="505-526"/>
             </citedIn>
          </pubPart>
       </chapters>
@@ -21644,8 +21690,9 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Marinac B.</author>
+            <author>Marinac Bogdana</author>
             <title>Ladjedelništvo</title>
+            <cobiss>4547889</cobiss>
             <page>136-139</page>
             <citedIn count="1">
                <cit did="2636" cid="86" avtor0="Marinac B." naslov0="Ladjedelništvo"
@@ -21676,6 +21723,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Terčon Nadja</author>
             <title>Ribja predelovalna industrija</title>
+            <cobiss>4548145</cobiss>
             <page>140-143</page>
             <citedIn count="1">
                <cit did="2636" cid="135" avtor0="Terčon Nadja"
@@ -21696,7 +21744,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Troha Nevenka</author>
             <title>STO - Svobodno tržaško ozemlje (1947-1954)</title>
-            <title>STO — Svobodno tržaško ozemlje (1947-1954)</title>
             <cobiss>481140</cobiss>
             <page>56-59</page>
             <citedIn count="3">
@@ -21735,7 +21782,6 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Zagradnik M.</author>
             <author>Zagradnik Maruša</author>
             <title>Optiranje in izseljevanje</title>
             <cobiss>488052</cobiss>
@@ -21778,6 +21824,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Okoliš Stane</author>
             <title>Gradnja Zavoda sv. Stanislava</title>
+            <cobiss>21923629</cobiss>
+            <page>95-121</page>
             <citedIn count="1">
                <cit did="2866" cid="24" avtor0="Okoliš Stane"
                   naslov0="Gradnja Zavoda sv. Stanislava"
@@ -21854,9 +21902,9 @@ Furlaniji in v Karniji : 1943-1945</title>
       <chapters>
          <pubPart>
             <author>Djurić Bojan</author>
-            <title>Terra gentis humanae memoria</title>
+            <title>Terra Gentis Humanae Memoria</title>
             <cobiss>28148578</cobiss>
-            <page>7-22</page>
+            <page>7-24</page>
             <citedIn count="1">
                <cit did="3053" cid="3" avtor0="Djurić Bojan" naslov0="Terra gentis humanae memoria"
                   cobiss="28148578"
@@ -21878,21 +21926,15 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Guštin Mitja</author>
+            <author>Knific Timotej</author>
             <title>Zgodnjeslovanska naselbina zemljank</title>
             <cobiss>4357984</cobiss>
-            <page>85-89</page>
-            <citedIn count="1">
+            <page>84-89</page>
+            <citedIn count="3">
                <cit did="3053" cid="7" avtor0="Guštin Mitja"
                   naslov0="Zgodnjeslovanska naselbina zemljank" cobiss="4357984"
                   source="Zemlja pod vašimi nogami. Arheologija na avtocestah Slovenije. Zbirka: Dnevi evropske kulturne dediščine"
                   pubPlace="Ljubljana" year="2003" page="85-89"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Guštin Mitja, Knific Timotej</author>
-            <title>Zgodnjeslovanska naselbina zemljank</title>
-            <page>84-88</page>
-            <citedIn count="2">
                <cit did="1766" cid="7" avtor0="Guštin Mitja, Knific Timotej"
                   naslov0="Zgodnjeslovanska naselbina zemljank"
                   source="Zemlja pod vašimi nogami: arheologija na avtocestah Slovenije"
@@ -21906,7 +21948,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Horvat Milena</author>
-            <title>Podrečje pri Viru - prazgodovinska naselbina</title>
+            <title>Podrečje pri Viru : (Dob - prazgodovinska naselbina)</title>
+            <cobiss>35750498</cobiss>
             <page>219-220</page>
             <citedIn count="1">
                <cit did="1375" cid="18" avtor0="Horvat Milena"
@@ -21918,7 +21961,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Kerman Branko</author>
-            <title>Keltska hiša, Kotare pri Murski Soboti, Pod kotom-sever</title>
+            <title>Keltska hiša, Kotare pri Murski Soboti, Pod kotom - sever</title>
             <page>61-215</page>
             <citedIn count="1">
                <cit did="3053" cid="15" avtor0="Kerman Branko"
@@ -21929,7 +21972,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Novšak Matjaž</author>
-            <title>Grofovsko pri Murski Soboti</title>
+            <title>Grofovsko pri Murski Soboti 1</title>
             <cobiss>1898918</cobiss>
             <page>144-145</page>
             <citedIn count="1">
@@ -21942,6 +21985,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Novšak Matjaž</author>
             <title>Križišče pri Sp. Škofijah</title>
+            <cobiss>9262641</cobiss>
+            <page>165-166</page>
             <citedIn count="1">
                <cit did="383" cid="11" avtor0="Novšak Matjaž" naslov0="Križišče pri Sp. Škofijah"
                   source="Zemlja pod vašimi nogami" pubPlace="Ljubljana"
@@ -21974,6 +22019,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Novšak Matjaž</author>
             <title>Školarice pri Spodnjih Škofijah</title>
+            <cobiss>9263921</cobiss>
             <page>258-259</page>
             <citedIn count="1">
                <cit did="383" cid="12" avtor0="Novšak Matjaž"
@@ -22020,7 +22066,6 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Turk P.</author>
             <author>Turk Peter</author>
             <title>Dragomelj</title>
             <title>Dragomelj - arheološko najdišče pri Kozolcu</title>
@@ -22085,6 +22130,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Kerman Branko</author>
             <title>Staroslovanska naselbina Kotare - baza pri Murski Soboti</title>
+            <author>Die altslawische Siedlung Kotare - baza bei Murska Sobota</author>
             <cobiss>4047411</cobiss>
             <page>17-26</page>
             <citedIn count="2">
@@ -22101,8 +22147,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Knific T.</author>
+            <author>Knific Timotej</author>
             <title>Lončenina v zgodnjesrednjeveških grobovih na Slovenskem</title>
+            <addTitle>Die Keramik in den frühmittelalterlichen Gräbern in Slowenien</addTitle>
+            <cobiss>3634528</cobiss>
             <page>115-128</page>
             <citedIn count="1">
                <cit did="1948" cid="23" avtor0="Knific T."
@@ -22115,6 +22163,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Novšak Matjaž</author>
             <title>Zgodnjesrednjeveške najdbe z najdišča Grofovsko pri Murski Soboti</title>
+            <addTitle>Frümittelalterliche Funde vom Fundort Grofovsko bei Murska Sobota</addTitle>
             <cobiss>4049971</cobiss>
             <page>27-32</page>
             <citedIn count="1">
@@ -22125,8 +22174,11 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Pleterski Andrej, Belak Mateja</author>
-            <title>Lončenina na Gorenjem Mokronogu in vprašanje prevzema lončarskih znanj</title>
+            <author>Pleterski Andrej</author>
+            <author>Belak Mateja</author>
+            <title>Lončenina z Gradu na Gorenjem Mokronogu in vprašanje prevzema lončarskih znanj</title>
+            <addTitle>Keramik vom Grad am Gorenji Mokronog und die Frage der Übernahme von Töpfereiwissen</addTitle>
+            <cobiss>20178989</cobiss>
             <page>98-103</page>
             <citedIn count="1">
                <cit did="2534" cid="29" avtor0="Pleterski Andrej, Belak Mateja"
@@ -22139,18 +22191,18 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Tiefengraber Georg</author>
             <author>Guštin Mitja</author>
-            <title>Oblike in kronologija zgodnjesrednjeveške lončenine na Novi tabli</title>
-            <page>65-66</page>
+            <title>Oblike in kronologija zgodnjesrednjeveške lončenine na Novi tabli pri Murski Soboti</title>
+            <addTitle>Formen und Chronologie frühmittelalterlicher Keramik in Nova tabla bei Murska Sobota</addTitle>
+            <cobiss>1051859</cobiss>
+            <page>42-62</page>
             <citedIn count="1">
                <cit did="2534" cid="20" avtor0="Tiefengraber Georg" avtor1="Guštin Mitja"
                   naslov0="Oblike in kronologija zgodnjesrednjeveške lončenine na Novi tabli"
                   source="Zgodnji Slovani. Zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp"
-                  pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="65-66"
-               />
+                  pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="65-66"/>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Tomanič Jevremov M.</author>
             <author>Tomanič Jevremov Marjana</author>
             <title>Zgodnjesrednjeveški grob iz Brstja pri Ptuju</title>
             <page>65-66</page>
@@ -22162,8 +22214,7 @@ Furlaniji in v Karniji : 1943-1945</title>
                <cit did="2534" cid="33" avtor0="Tomanič Jevremov Marjana"
                   naslov0="Zgodnjesrednjeveški grob iz Brstja pri Ptuju"
                   source="Zgodnji Slovani. Zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp"
-                  pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="65-66"
-               />
+                  pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="65-66"/>
             </citedIn>
          </pubPart>
          <pubPart>
@@ -22194,6 +22245,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Šavel Irena</author>
             <title>Zgodnjesrednjeveški objekt z najdišča Pod kotom - jug pri Krogu</title>
+            <addTitle>Ein frühmittelalterliches Objekt vom Fundort Pod Kotom - jug bei Krog</addTitle>
             <cobiss>4047155</cobiss>
             <page>11-16</page>
             <citedIn count="1">
@@ -22218,8 +22270,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Gombač Metka</author>
             <title>Denarni zavod Slovenije - podružnica za Slovensko primorje (1945)</title>
-            <title>Denarni zavod Slovenije - podružnica za slovensko Primorje (1945)</title>
-            <title>Denarni zavod Slovenije : podružnica za Slovensko Primorje (1945)</title>
             <page>119-124</page>
             <citedIn count="3">
                <cit did="714" cid="2" avtor0="Gombač Metka"
@@ -22239,8 +22289,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Granda Stane</author>
-            <title>Poskus organiziranja slovenske Ljubljanske občne banke (1872)</title>
             <title>Poskus organiziranja slovenske ljubljanske občne banke (1872)</title>
+            <cobiss>17111853</cobiss>
             <page>47-52</page>
             <citedIn count="2">
                <cit did="854" cid="21" avtor0="Granda Stane"
@@ -22255,7 +22305,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Guštin Damijan</author>
-            <title>Finančni viri in denarništvo narodnoosvobodilnega gibanja na Slovenskem 1941-1945</title>
             <title>Finančni viri in denarstvo narodnoosvobodilnega gibanja na Slovenskem 1941-1945</title>
             <page>81-129</page>
             <citedIn count="6">
@@ -22288,10 +22337,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Hočevar Toussaint</author>
-            <title>Slovensko poslovno bančništvo kot inovacijski dejavnik</title>
             <title>Slovensko poslovno bančništvo kot inovacijski dejavnik 1900-1930</title>
-            <title>Slovensko poslovno bančništvo kot inovacijski dejavnik 1900–1930</title>
-            <title>Slovensko poslovno bančništvo kot inovacijski dejavnik, 1900-1930</title>
             <page>61-74</page>
             <citedIn count="4">
                <cit did="854" cid="24" avtor0="Hočevar Toussaint"
@@ -22315,6 +22361,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Melik Vasilij</author>
             <title>Nekaj o cenah, plačah in kulturi v predmarčni dobi</title>
+            <cobiss>17112109</cobiss>
             <page>37-42</page>
             <citedIn count="2">
                <cit did="2610" cid="63" avtor0="Melik Vasilij"
@@ -22331,7 +22378,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Vilfan Sergij</author>
             <title>Temelji in razvoj denarnih sistemov v slovenskih deželah do 17. stoletja</title>
-            <page>23-32</page>
+            <cobiss>16425261</cobiss>
+            <page>19-32</page>
             <citedIn count="1">
                <cit did="663" cid="17" avtor0="Vilfan Sergij"
                   naslov0="Temelji in razvoj denarnih sistemov v slovenskih deželah do 17. stoletja"
@@ -22342,7 +22390,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Čepič Zdenko</author>
             <title>Prispevek k proučevanju valutarne reforme leta 1945</title>
-            <title>Prispevek k proučevanju valutne reforme leta 1945</title>
+            <cobiss>1905012</cobiss>
             <page>105-118</page>
             <citedIn count="3">
                <cit did="754" cid="2" avtor0="Čepič Zdenko"
@@ -22372,11 +22420,10 @@ Furlaniji in v Karniji : 1943-1945</title>
       <chapters>
          <pubPart>
             <author>Benedik Metod</author>
-            <title>Protireformacija in katoliška obnova</title>
             <title>Protireformacija in katoliška prenova</title>
             <cobiss>842842</cobiss>
             <page>113-152</page>
-            <citedIn count="2">
+            <citedIn count="4">
                <cit did="2590" cid="1" avtor0="Benedik Metod"
                   naslov0="Protireformacija in katoliška obnova"
                   source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje" year="1991"
@@ -22385,13 +22432,6 @@ Furlaniji in v Karniji : 1943-1945</title>
                   naslov0="Protireformacija in katoliška prenova" cobiss="842842"
                   source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje"
                   publisher="Mohorjeva družba" year="1991" page="113-152"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Benedik Metod</author>
-            <title>Reformacija in katoliška prenova</title>
-            <page>140-143</page>
-            <citedIn count="2">
                <cit did="2442" cid="9" avtor0="Benedik Metod"
                   naslov0="Reformacija in katoliška prenova" source="Zgodovina Cerkve na Slovenskem"
                   pubPlace="Celje" year="1991" page="140-143"/>
@@ -22403,6 +22443,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Bratož Rajko</author>
             <title>Krščanstvo v antiki</title>
+            <cobiss>54181632</cobiss>
+            <page>11-27</page>
             <citedIn count="1">
                <cit did="1298" cid="56" avtor0="Bratož Rajko" naslov0="Krščanstvo v antiki"
                   source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje"
@@ -22410,11 +22452,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Dolinar France M.</author>
             <author>Dolinar France Martin</author>
-            <title>Jožefinizem in Janzenizem</title>
             <title>Jožefinizem in janzenizem</title>
-            <title>Jožefizem in janzeizem</title>
             <cobiss>54182144</cobiss>
             <page>153-171</page>
             <citedIn count="4">
@@ -22436,7 +22475,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Juhant Janez</author>
-            <title>Versko in cerkveno življenje v dobi dozorevanja slovenskega naroda, idejno-politični tokovi in socialna dejavnost</title>
+            <title>Versko in cerkveno življenje v dobi dozorevanja slovenskega naroda : (idejno-politični tokovi in socialna dejavnost)</title>
+            <cobiss>843098</cobiss>
             <page>195-234</page>
             <citedIn count="1">
                <cit did="2606" cid="18" avtor0="Juhant Janez"
@@ -22460,7 +22500,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Mlinarič Jože</author>
             <title>Cerkev na Slovenskem v srednjem veku</title>
-            <page>75-84</page>
+            <cobiss>5395460</cobiss>
+            <page>61-91</page>
             <citedIn count="1">
                <cit did="2590" cid="35" avtor0="Mlinarič Jože"
                   naslov0="Cerkev na Slovenskem v srednjem veku"
@@ -22483,7 +22524,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Pangerl Viljem</author>
             <title>Cerkev v Sloveniji po drugi svetovni vojni</title>
-            <page>237-245</page>
+            <cobiss>54182656</cobiss>
+            <page>235-251</page>
             <citedIn count="3">
                <cit did="1664" cid="30" avtor0="Pangerl Viljem"
                   naslov0="Cerkev v Sloveniji po drugi svetovni vojni"
@@ -22502,7 +22544,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Škulj Edo</author>
             <title>Slovenska cerkvena glasba</title>
-            <page>396-398</page>
+            <cobiss>843866</cobiss>
+            <page>393-401</page>
             <citedIn count="1">
                <cit did="2635" cid="16" avtor0="Škulj Edo" naslov0="Slovenska cerkvena glasba"
                   source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje" year="1991"
@@ -22523,11 +22566,10 @@ Furlaniji in v Karniji : 1943-1945</title>
       <pubCobiss>14905857</pubCobiss>
       <chapters>
          <pubPart>
-            <author>Deželak Barič Vida</author>
             <author>Deželak-Barič Vida</author>
             <title>Organizacijski razvoj KPS v Ljubljani od aprila 1941 do septembra 1943</title>
             <cobiss>812404</cobiss>
-            <page>398-451</page>
+            <page>438-451</page>
             <citedIn count="4">
                <cit did="1166" cid="4" avtor0="Deželak Barič Vida"
                   naslov0="Organizacijski razvoj KPS v Ljubljani od aprila 1941 do septembra 1943"
@@ -22552,6 +22594,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Drnovšek Marjan</author>
             <title>Oris odnosa ljubljanskega občinskega sveta do mestnega razvoja 1850-1914 s posebnim poudarkom na Hribarjevi dobi</title>
+            <cobiss>9410093</cobiss>
             <page>212-237</page>
             <citedIn count="1">
                <cit did="2618" cid="140" avtor0="Drnovšek Marjan"
@@ -22562,10 +22605,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Ferenc Tone</author>
-            <title>Narodnoosvobodilni boj v Ljubljani</title>
             <title>Narodnoosvobodilni boj v Ljubljani : pregled</title>
             <cobiss>29123682</cobiss>
-            <page>405-414</page>
+            <page>403-437</page>
             <citedIn count="3">
                <cit did="1664" cid="6" avtor0="Ferenc Tone"
                   naslov0="Narodnoosvobodilni boj v Ljubljani" source="Zgodovina Ljubljane: Kronika"
@@ -22585,8 +22627,7 @@ Furlaniji in v Karniji : 1943-1945</title>
             <title>Ljubljana v 16. in 17. stoletju</title>
             <citedIn count="1">
                <cit did="3241" cid="236" avtor0="Gestrin Ferdo"
-                  naslov0="Ljubljana v 16. in 17. stoletju" source="Zgodovina Ljubljane" year="1955"
-               />
+                  naslov0="Ljubljana v 16. in 17. stoletju" source="Zgodovina Ljubljane" year="1955"/>
             </citedIn>
          </pubPart>
          <pubPart>
@@ -22639,9 +22680,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Melik Vasilij</author>
-            <author>Vasilj Melik</author>
             <title>Nekatere strani razvoja Ljubljane 1848-1941</title>
-            <title>Nekatere strani razvoja Ljubljane 1848–1941</title>
             <page>201-211</page>
             <citedIn count="3">
                <cit did="1043" cid="19" avtor0="Melik Vasilij"
@@ -22658,12 +22697,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Vilfan Sergej</author>
             <author>Vilfan Sergij</author>
             <title>Zgodovina Ljubljane do začetka 16. stoletja</title>
-            <title>Zgodovina Ljubljane do začetka 16. stoletje</title>
             <page>75-95</page>
-            <citedIn count="6">
+            <citedIn count="7">
                <cit did="249" cid="53" avtor0="Vilfan Sergej"
                   naslov0="Zgodovina Ljubljane do začetka 16. stoletja"
                   source="Zgodovina Ljubljana : Prispevki za monografijo" pubPlace="Ljubljana"
@@ -22687,13 +22724,6 @@ Furlaniji in v Karniji : 1943-1945</title>
                <cit did="3241" cid="235" avtor0="Vilfan Sergij"
                   naslov0="Zgodovina Ljubljane do začetka 16. stoletja" source="Zgodovina Ljubljane"
                   year="1955"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Vilfan Sergij</author>
-            <title>Zgodovina mesta Ljubljane do začetka 16. stoletja</title>
-            <page>75-95</page>
-            <citedIn count="1">
                <cit did="53" cid="269" avtor0="Vilfan Sergij"
                   naslov0="Zgodovina mesta Ljubljane do začetka 16. stoletja"
                   source="Zgodovina Ljubljane" pubPlace="Ljubljana" volume="1984" page="75-95"/>
@@ -22702,6 +22732,8 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Vovko Andrej</author>
             <title>Oris ljubljanskega šolstva od 1848 do 1945</title>
+            <cobiss>6470408</cobiss>
+            <page>274-278</page>
             <citedIn count="2">
                <cit did="1509" cid="148" avtor0="Vovko Andrej"
                   naslov0="Oris ljubljanskega šolstva od 1848 do 1945"
@@ -22759,10 +22791,8 @@ Furlaniji in v Karniji : 1943-1945</title>
       <year>1973</year>
       <chapters>
          <pubPart>
-            <author>Gestin Ferdo</author>
+            <author>Gestrin Ferdo</author>
             <author>Melik Vasilij</author>
-            <author>Gestrin Ferdo, Melik Anton</author>
-            <title>Afimacija slovenske narodne celote</title>
             <title>Afirmacija slovenske narodne celote</title>
             <page>468-492</page>
             <citedIn count="2">
@@ -22775,7 +22805,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gestrin Ferdo, Melik Vasilij</author>
+            <author>Gestrin Ferdo</author>
+            <author>Melik Vasilij</author>
             <title>Rast delavskega gibanja</title>
             <citedIn count="1">
                <cit did="1783" cid="53" avtor0="Gestrin Ferdo, Melik Vasilij"
@@ -22784,7 +22815,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gestrin Ferdo, Melik Vasilij</author>
+            <author>Gestrin Ferdo</author>
+            <author>Melik Vasilij</author>
             <title>Slogaštvo in njegovi problemi</title>
             <citedIn count="1">
                <cit did="1783" cid="54" avtor0="Gestrin Ferdo, Melik Vasilij"
@@ -22793,7 +22825,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gestrin Ferdo, Melik Vasilij</author>
+            <author>Gestrin Ferdo</author>
+            <author>Melik Vasilij</author>
             <title>Socialnodemokratska stranka</title>
             <citedIn count="1">
                <cit did="1783" cid="56" avtor0="Gestrin Ferdo, Melik Vasilij"
@@ -22802,8 +22835,8 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Gestrin Ferdo, Melik Vasilij</author>
-            <title>Taafejeva vlada in položaj Slovencev</title>
+            <author>Gestrin Ferdo</author>
+            <author>Melik Vasilij</author>
             <title>Taaffejeva vlada in položaj Slovencev</title>
             <citedIn count="2">
                <cit did="2199" cid="9" avtor0="Gestrin Ferdo, Melik Vasilij"
@@ -22837,7 +22870,7 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Petru P.</author>
+            <author>Petru Peter</author>
             <title>Arheološka obdobja</title>
             <page>17-93</page>
             <citedIn count="1">
@@ -22857,9 +22890,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Šorn Jože</author>
-            <title>Slovensko gospodarstvo med dvema vojnama</title>
             <title>Slovensko gospodarstvo med obema vojnama</title>
-            <title>Slovensko gospodarstvo med vojnama</title>
             <page>678-691</page>
             <citedIn count="4">
                <cit did="2880" cid="18" avtor0="Šorn Jože"
@@ -22889,7 +22920,8 @@ Furlaniji in v Karniji : 1943-1945</title>
       <chapters>
          <pubPart>
             <author>Bahovec Tina</author>
-            <title>"Povedati hočemo vsemu svetu, da imamo tudi me pravico in dolžnost odločevati, kje da mora biti naša državna meja" : Ženske in koroško vprašanje</title>
+            <title>"Povedati hočemo vsemu svetu, da imamo tudi me pravico in dolžnost odločevati, kje da mora biti naša državna meja" : ženske in koroško vprašanje 1918-1920</title>
+            <cobiss>1246932</cobiss>
             <page>89-94</page>
             <citedIn count="1">
                <cit did="2900" cid="35" avtor0="Bahovec Tina"
@@ -22899,10 +22931,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Deželak Barič Vida</author>
-            <title>Politizacija žensk v času druge svetovne vojne</title>
+            <author>Deželak-Barič Vida</author>
             <title>Politizacija ženske na Slovenskem v času druge svetovne vojne</title>
-            <page>22-317</page>
+            <cobiss>1708404</cobiss>
+            <page>317-322</page>
             <citedIn count="2">
                <cit did="2418" cid="2" avtor0="Deželak Barič Vida"
                   naslov0="Politizacija žensk v času druge svetovne vojne"
@@ -22916,11 +22948,10 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Domik Ljuba</author>
             <author>Dornik Šubelj Ljuba</author>
-            <title>Vloga žensk v obveščevalnih in varnostnih službah na Slovenskem, pred. med in po drugi svetovni vojni</title>
             <title>Vloga žensk v obveščevalnih in varnostnih službah na Slovenskem pred, med in po drugi svetovni vojni</title>
-            <page>159-170</page>
+            <cobiss>552053</cobiss>
+            <page>159-168</page>
             <citedIn count="2">
                <cit did="2418" cid="7" avtor0="Domik Ljuba"
                   naslov0="Vloga žensk v obveščevalnih in varnostnih službah na Slovenskem, pred. med in po drugi svetovni vojni"
@@ -22934,10 +22965,9 @@ Furlaniji in v Karniji : 1943-1945</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Fugger Germadnik R.</author>
             <author>Fugger Germadnik Rolanda</author>
-            <title>Podobe Barbare Celjske v slovenskem zgodovinopisju</title>
             <title>Podobe Barbare Celjske (?1394-1451) v slovenskem zgodovinopisju</title>
+            <cobiss>513133183</cobiss>
             <page>37-48</page>
             <citedIn count="3">
                <cit did="3439" cid="29" avtor0="Fugger Germadnik R."
@@ -22957,6 +22987,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Gombač Maja</author>
             <title>Slovenke in moda v času pred drugo svetovno vojno in po njej</title>
+            <cobiss>1704052</cobiss>
             <page>109-124</page>
             <citedIn count="1">
                <cit did="1325" cid="21" avtor0="Gombač Maja"
@@ -22969,6 +23000,7 @@ Furlaniji in v Karniji : 1943-1945</title>
          <pubPart>
             <author>Jogan Maca</author>
             <title>Opravičevanje podrejenega položaja žensk do začetka druge svetovne vojne na Slovenskem</title>
+            <addTitle>Justifying the inferior position of women in Slovenia before the second world war</addTitle>
             <cobiss>23333469</cobiss>
             <page>301-310</page>
             <citedIn count="1">
@@ -22982,7 +23014,9 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Kovačič Mojca</author>
-            <title>Poroka in položaj ženske znotraj zakonske zveze v srednjeveških istrskih...</title>
+            <title>Poroka in položaj ženske znotraj zakonske zveze v srednjeveških istrskih in celinskih mestih ter v Trstu</title>
+            <cobiss>513133951</cobiss>
+            <page>256-276</page>
             <citedIn count="1">
                <cit did="2450" cid="24" avtor0="Kovačič Mojca"
                   naslov0="Poroka in položaj ženske znotraj zakonske zveze v srednjeveških istrskih..."
@@ -22991,8 +23025,6 @@ Furlaniji in v Karniji : 1943-1945</title>
          </pubPart>
          <pubPart>
             <author>Kresal France</author>
-            <title>Ženske v gospodarstvu do druge svetovne vojne
-na Slovenskem</title>
             <title>Ženske v gospodarstvu do druge svetovne vojne na Slovenskem</title>
             <cobiss>1704308</cobiss>
             <page>171-176</page>
@@ -23015,6 +23047,7 @@ na Slovenskem</title>
          <pubPart>
             <author>Mahnič Žvanut Katja</author>
             <title>Srednjeveški ženski pečati</title>
+            <cobiss>26694498</cobiss>
             <page>31-36</page>
             <citedIn count="1">
                <cit did="2590" cid="31" avtor0="Mahnič Žvanut Katja"
@@ -23025,8 +23058,8 @@ na Slovenskem</title>
          </pubPart>
          <pubPart>
             <author>Stergar Janez</author>
-            <title>Dr. Angela Piskernik (1886-1967), koroška naravoslovka, naravovarstvenica in narodna delavka</title>
-            <title>Dr. Ángela Piskernik (1886–1967), koroška naravoslovka, naravovarstvenica in narodna delavka</title>
+            <title>Dr. Ángela Piskernik (1886 - 1967), koroška naravoslovka, naravovarstvenica in narodna delavka</title>
+            <cobiss>9219405</cobiss>
             <page>227-257</page>
             <citedIn count="3">
                <cit did="2900" cid="93" avtor0="Stergar Janez"
@@ -23047,11 +23080,8 @@ na Slovenskem</title>
          </pubPart>
          <pubPart>
             <author>Svoljšak Petra</author>
-            <title>"Tudi jaz sem pomagala do velike zmage!"</title>
-            <title>položaj in vloge žensk na Slovenskem med 1. svetovno vojno</title>
             <title>"Tudi jaz sem pomagala do velike zmage!" : položaj in vloge žensk na Slovenskem med 1. svetovno vojno</title>
-            <title>Tudi jaz sem pomagala do velike zmage</title>
-            <title>Tudi jaz sem pomagala do velike zmage. Položaj in vloge žensk na Slovenskem med 1. svetovno vojno</title>
+            <addTitle>"I too, have helped win the great victory!" - the position and role of women in Slovenia during the First world war</addTitle>
             <cobiss>22733613</cobiss>
             <page>153-158</page>
             <citedIn count="5">
@@ -23081,7 +23111,8 @@ na Slovenskem</title>
          </pubPart>
          <pubPart>
             <author>Čeč Dragica</author>
-            <title>"Svoje prsi pokažem raje hudiču kot tebi!" O detomoru kot enem izmed načinov ravnanja ob nezaželeni nosečnosti, o socialnih vezeh in strategijah hranjenja pred sodiščem na podlagi primerov iz 18. stoletja na Kranjskem</title>
+            <title>"Svoje prsi pokažem raje hudiču kot tebi!" : o detomoru kot enem izmed načinov ravnanja ob nezaželeni nosečnosti, o socialnih vezeh in strategijah branjenja pred sodiščem na podlagi primerov iz 18. stoletja na Kranjskem</title>
+            <cobiss>1056979</cobiss>
             <page>293-300</page>
             <citedIn count="1">
                <cit did="2018" cid="62" avtor0="Čeč Dragica"
@@ -23140,14 +23171,9 @@ na Slovenskem</title>
       <chapters>
          <pubPart>
             <author>Godeša Bojan</author>
-            <title>Ustanovitev SNOO in pomen njegovih odlokov....</title>
-            <title>Ustanovitev Slovenskega narodnoosvobodilnega odbora in pomen njegovih odlokov za nadaljni razvoj v Sloveniji</title>
             <title>Ustanovitev Slovenskega narodnoosvobodilnega odbora in pomen njegovih odlokov za nadaljnji razvoj v Sloveniji</title>
-            <title>Ustanovitev SNOO in pomen njegovih odlokov za nadaljni razvoj v Sloveniji</title>
-            <title>Ustanovitev SNOO in pomen njegovih odlokov za nadaljnji razvoj v Sloveniji</title>
-            <cobiss>1787764</cobiss>
             <cobiss>1930868</cobiss>
-            <page>3-44</page>
+            <page>29-33</page>
             <citedIn count="7">
                <cit did="3133" cid="182" avtor0="Godeša Bojan"
                   naslov0="Ustanovitev SNOO in pomen njegovih odlokov...." cobiss="1787764"
@@ -23192,10 +23218,7 @@ na Slovenskem</title>
          <pubPart>
             <author>Mlakar Boris</author>
             <title>Krogi nasilja med Slovenci v vojnih letih 1941-1945</title>
-            <title>Krogi nasilja med Slovenci v vojnih letih 1941–1945</title>
-            <title>Krogi nasilja med Slovenci v vojnih letih od 1941 do 1945</title>
             <cobiss>1901684</cobiss>
-            <cobiss>1786996</cobiss>
             <page>2-28</page>
             <citedIn count="9">
                <cit did="2279" cid="13" avtor0="Mlakar Boris"
@@ -23236,8 +23259,8 @@ na Slovenskem</title>
          </pubPart>
          <pubPart>
             <author>Prunk Janko</author>
-            <title>Pojmovanje revolucije v različnih segmentih OF</title>
             <title>Pojmovanje revolucije v različnih segmentih OF in NOB</title>
+            <cobiss>24240221</cobiss>
             <page>124-133</page>
             <citedIn count="2">
                <cit did="1517" cid="6" avtor0="Prunk Janko"
@@ -23250,17 +23273,12 @@ na Slovenskem</title>
             </citedIn>
          </pubPart>
          <pubPart>
-            <author>Tominšek Rihtar Tadeja</author>
             <author>Šorn Mojca</author>
-            <author>Tominšek Rihtar Tadeja,  Šorn Mojca</author>
-            <author>Tominšek Rihtar, Tadeja</author>
             <author>Tominšek Čehulić Tadeja</author>
-            <title>Žrtve druge svetovne vojne in zaradi nje</title>
-            <title>Žrtve druge svetovne vojne in zaradi nje (april 1941–januar 1946)</title>
             <title>Žrtve druge svetovne vojne in zaradi nje 1941-1946</title>
             <cobiss>1931124</cobiss>
-            <page>13-21</page>
-            <citedIn count="4">
+            <page>13-22</page>
+            <citedIn count="9">
                <cit did="1657" cid="3" avtor0="Tominšek Rihtar Tadeja" avtor1="Šorn Mojca"
                   naslov0="Žrtve druge svetovne vojne in zaradi nje"
                   source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2005"/>
@@ -23276,6 +23294,25 @@ na Slovenskem</title>
                   naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946" cobiss="1931124"
                   source="Žrtve vojne in revolucije : zbornik" pubPlace="Ljubljana"
                   publisher="Državni svet Republike Slovenije" year="2005"/>
+               <cit did="962" cid="62" avtor0="Šorn Mojca" avtor1="Tominšek Rihtar Tadeja"
+                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946" cobiss="1931124"
+                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana"
+                  publisher="Državni svet Republike Slovenije" year="2005"/>
+               <cit did="1418" cid="16" avtor0="Šorn Mojca" avtor1="Tominšek Čehulić Tadeja"
+                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946" cobiss="1931124"
+                  source="Žrtve vojne in revolucije : zbornik" pubPlace="Ljubljana"
+                  publisher="Državni svet Republike Slovenije" year="2005" page="13-21"/>
+               <cit did="1301" cid="14" avtor0="Tominšek Rihtar Tadeja, Šorn Mojca"
+                  naslov0="Žrtve druge svetovne vojne in zaradi nje"
+                  naslov1="(april 1941-januar 1946)"
+                  source="Žrtve vojne in revolucije, posvet, Državni svet" pubPlace="Ljubljana"
+                  year="2011"/>
+               <cit did="2299" cid="160" avtor0="Šorn Mojca" avtor1="Tominšek Rihtar Tadeja"
+                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946"
+                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2004" page="13-22"/>
+               <cit did="2299" cid="194" avtor0="Šorn Mojca, Tominšek Rihtar Tadeja"
+                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946"
+                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2004" page="13-22"/>
             </citedIn>
          </pubPart>
          <pubPart>
@@ -23298,7 +23335,6 @@ na Slovenskem</title>
             <author>Vodušek Starič Jerca</author>
             <title>Vrtinec političnega spora</title>
             <cobiss>14039560</cobiss>
-            <cobiss>1807732</cobiss>
             <page>35-46</page>
             <citedIn count="3">
                <cit did="2799" cid="33" avtor0="Vodušek Starič Jerca"
@@ -23328,46 +23364,12 @@ na Slovenskem</title>
          </pubPart>
          <pubPart>
             <author>Šturm Lovro</author>
-            <title>Pravo in nepravo</title>
             <title>Pravo in nepravo po letu 1941</title>
             <citedIn count="2">
                <cit did="2800" cid="7" avtor0="Šturm Lovro" naslov0="Pravo in nepravo"
                   source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2004"/>
                <cit did="2280" cid="3" avtor0="Šturm Lovro" naslov0="Pravo in nepravo po letu 1941"
                   source="Žrtve vojne in revolucije" page="101"/>
-            </citedIn>
-         </pubPart>
-         <pubPart>
-            <author>Šorn Mojca</author>
-            <author>Tominšek Rihtar Tadeja</author>
-            <author>Tominšek Čehulić Tadeja</author>
-            <author>Tominšek Rihtar Tadeja, Šorn Mojca</author>
-            <author>Šorn Mojca, Tominšek Rihtar Tadeja</author>
-            <title>Žrtve druge svetovne vojne in zaradi nje 1941-1946</title>
-            <title>Žrtve druge svetovne vojne in zaradi nje</title>
-            <title>(april 1941-januar 1946)</title>
-            <cobiss>1931124</cobiss>
-            <page>13-22</page>
-            <citedIn count="5">
-               <cit did="962" cid="62" avtor0="Šorn Mojca" avtor1="Tominšek Rihtar Tadeja"
-                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946" cobiss="1931124"
-                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana"
-                  publisher="Državni svet Republike Slovenije" year="2005"/>
-               <cit did="1418" cid="16" avtor0="Šorn Mojca" avtor1="Tominšek Čehulić Tadeja"
-                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946" cobiss="1931124"
-                  source="Žrtve vojne in revolucije : zbornik" pubPlace="Ljubljana"
-                  publisher="Državni svet Republike Slovenije" year="2005" page="13-21"/>
-               <cit did="1301" cid="14" avtor0="Tominšek Rihtar Tadeja, Šorn Mojca"
-                  naslov0="Žrtve druge svetovne vojne in zaradi nje"
-                  naslov1="(april 1941-januar 1946)"
-                  source="Žrtve vojne in revolucije, posvet, Državni svet" pubPlace="Ljubljana"
-                  year="2011"/>
-               <cit did="2299" cid="160" avtor0="Šorn Mojca" avtor1="Tominšek Rihtar Tadeja"
-                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946"
-                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2004" page="13-22"/>
-               <cit did="2299" cid="194" avtor0="Šorn Mojca, Tominšek Rihtar Tadeja"
-                  naslov0="Žrtve druge svetovne vojne in zaradi nje 1941-1946"
-                  source="Žrtve vojne in revolucije" pubPlace="Ljubljana" year="2004" page="13-22"/>
             </citedIn>
          </pubPart>
       </chapters>
