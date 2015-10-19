@@ -2882,7 +2882,6 @@
                <author>Dular Janez, Križ Borut, Svoljšak Drago, Tecco Hvala Sneža</author>
                <author>Dular Janez et al.</author>
                <title>Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini</title>
-               <page>65-198</page>
                <page>65-205</page>
                <citedIn count="2">
                   <cit did="381" cid="7"
@@ -23209,7 +23208,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Gregorič Milan</author>
                <title>Operacija fojbe (I.del, II.del)</title>
                <title>Anatomija nekega stanja duha; geneza (zadnjih) fojbarskih kampanij</title>
-               <page>730</page>
                <page>729-733</page>
                <cobiss>7218509</cobiss>
                <citedIn count="2">
@@ -23699,7 +23697,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Pickl O.</author>
                <title>Pomen Ptuja kot mednarodnega trgovskega mesta od 14. do 17. stoletja</title>
                <page>463-490</page>
-               <page>465-490</page>
                <cobiss>19071800</cobiss>
                <citedIn count="2">
                   <cit did="870" cid="9" avtor0="Pickl Othmar"
@@ -23887,7 +23884,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Penič Lojze</author>
                <title>Taborišča v Strnišču</title>
-               <page>154</page>
                <page>153-166</page>
                <citedIn count="2">
                   <cit did="16" cid="29" avtor0="Penič Lojze" naslov0="Taborišča v Strnišču"
@@ -24170,7 +24166,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Zupančič Jernej</author>
                <title>Dolenjski sledovi na robu ameriške prerije</title>
                <title>Slovenci v Pueblu, Kolorado</title>
-               <page>103-107</page>
                <page>101-108</page>
                <cobiss>10091853</cobiss>
                <citedIn count="2">
@@ -24578,7 +24573,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Jakopec Miloš</author>
                <title>Nova odkritja o Heinrichu Tandlerju in Francu Polaku</title>
                <page>138-144</page>
-               <page>138</page>
+               <cobiss>33373440</cobiss>
                <citedIn count="2">
                   <cit did="304" cid="26" avtor0="Jakopec Miloš"
                      naslov0="Nova odkritja o Heinrichu Tandlerju in Francu Polaku" source="Rast"
@@ -24745,7 +24740,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Kuljić Todor</author>
                <title>Kolektivni spomin in globalizacija</title>
                <page>45-63</page>
-               <page>153– 154–155, 45–63</page>
+               <cobiss>22118237</cobiss>
                <citedIn count="2">
                   <cit did="2823" cid="95" avtor0="Kuljić Todor"
                      naslov0="Kolektivni spomin in globalizacija" source="Revija 2000" year="2003"
@@ -24865,7 +24860,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Vidovič Miklavčič Anka</author>
                <title>Kmečko stanovsko gibanje v okviru SLS v zadnjem desetletju stare Jugoslavije</title>
                <page>213-234</page>
-               <page>219</page>
+               <cobiss>14103040</cobiss>
                <citedIn count="2">
                   <cit did="2274" cid="188" avtor0="Vidovič Miklavčič Anka"
                      naslov0="Kmečko stanovsko gibanje v okviru SLS v zadnjem desetletju stare Jugoslavije"
@@ -25592,8 +25587,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Stabej Marko</author>
                <title>Slovenski pesniški jezik jezikovnega načrtovanja do leta 1848</title>
-               <page>213</page>
-               <page>225</page>
+               <page>207-233</page>
                <cobiss>12569698</cobiss>
                <citedIn count="2">
                   <cit did="3093" cid="171" avtor0="Stabej Marko"
@@ -26136,8 +26130,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gspan Alfonz</author>
                <title>Prešernov grob v Kranju</title>
-               <page>32</page>
-               <page>33</page>
+               <page>30-50</page>
+               <cobiss>1651254</cobiss>
                <citedIn count="2">
                   <cit did="454" cid="1" avtor0="Gspan Alfonz" naslov0="Prešernov grob v Kranju"
                      source="Slavistična revija" year="1949" page="32"/>
@@ -26148,7 +26142,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Koblar France</author>
                <title>Ljubljanska dijaška »Zadruga«</title>
-               <page>85</page>
                <page>73-110</page>
                <citedIn count="2">
                   <cit did="1900" cid="5" avtor0="Koblar France"
@@ -26466,9 +26459,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Makarovič Gorazd</author>
                <title>Prehrana v 19. stoletju na Slovenskem</title>
-               <page>137</page>
-               <page>147-148</page>
-               <page>128</page>
                <page>127-205</page>
                <cobiss>36324096</cobiss>
                <citedIn count="4">
@@ -26659,7 +26649,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Vilfan Sergij</author>
                <title>K obdelavi polja v Slovenski Istri</title>
                <page>61-70</page>
-               <page>66</page>
+               <cobiss>239479040</cobiss>
                <citedIn count="2">
                   <cit did="2614" cid="2" avtor0="Vilfan Sergij"
                      naslov0="K obdelavi polja v Slovenski Istri" source="Slovenski etnograf"
@@ -26963,7 +26953,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Mihelič Darja</author>
                <title>Socida v Piranu od 1280 do 1340</title>
                <page>63-78</page>
-               <page>63-79</page>
                <cobiss>6607149</cobiss>
                <citedIn count="6">
                   <cit did="2950" cid="14" avtor0="Mihelič Darja"
@@ -27092,8 +27081,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Sentočnik Sonja</author>
                <title>Portfelj kot alternativna oblika učenčevega napredka</title>
                <title>Možnosti njegove uporabe v slovenskih šolah</title>
-               <page>70-90</page>
-               <page>75</page>
+               <page>70-91</page>
+               <cobiss>31613794</cobiss>
                <citedIn count="2">
                   <cit did="3189" cid="20" avtor0="Sentočnik S."
                      naslov0="Portfelj kot alternativna oblika učenčevega napredka - možnosti njegove uporabe v slovenskih šolah"
@@ -27344,9 +27333,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Strmčnik France</author>
                <title>Zveza društev pedagoških delavcev Slovenije v luči svoje pozitivne pedagoške tradicije</title>
-               <page>15-35, 81-97</page>
-               <page>28-29</page>
                <page>15-35</page>
+               <page>81-97</page>
+               <cobiss>32217442</cobiss>
                <citedIn count="3">
                   <cit did="1321" cid="11" avtor0="Strmčnik France"
                      naslov0="Zveza društev pedagoških delavcev Slovenije v luči svoje pozitivne pedagoške tradicije"
@@ -28924,8 +28913,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Žvanut Maja</author>
                <title>Vzgojni ideali v 17. stoletju</title>
-               <page>11</page>
+               <addTitle>Educational idelas in the 17th century</addTitle>
                <page>7-14</page>
+               <cobiss>20179245</cobiss>
                <citedIn count="2">
                   <cit did="259" cid="49" avtor0="Žvanut Maja"
                      naslov0="Vzgojni ideali v 17. stoletju"
@@ -28976,9 +28966,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Šuštar Branko</author>
                <title>Učiteljske organizacije na Slovenskem in njihova idejna usmeritev od srede 19. do sredine 20. stoletja</title>
-               <page>334-337</page>
-               <page>336-337</page>
                <page>329-339</page>
+               <cobiss>19245613</cobiss>
                <citedIn count="4">
                   <cit did="2141" cid="5" avtor0="Šuštar Branko"
                      naslov0="Učiteljske organizacije na Slovenskem in njihova idejna usmeritev od srede 19. do sredine 20. stoletja"
@@ -29562,8 +29551,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Knežević Hočevar Duška</author>
                <title>Medijska govorica o nacionalni reprodukciji v postsocialistični Sloveniji</title>
-               <page>335-356</page>
                <page>335–356</page>
+               <cobiss>22005085</cobiss>
                <citedIn count="3">
                   <cit did="2898" cid="11" avtor0="Knežević Hočevar Duška"
                      naslov0="Medijska govorica o nacionalni reprodukciji v postsocialistični Sloveniji"
@@ -30556,8 +30545,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Levstik Jože</author>
                <title>Polproletariat pri nas</title>
-               <page>372</page>
-               <page>373</page>
+               <page>368-378</page>
                <citedIn count="3">
                   <cit did="968" cid="7" avtor0="Levstik Jože" naslov0="Polproletariat pri nas"
                      source="Teorija in praksa" year="1966" volume="3" issue="3" page="372"/>
@@ -30636,9 +30624,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Italijanska oblast v Tolminu ob začetku druge svetovne vojne</title>
-               <page>228</page>
                <page>215-230</page>
-               <page>227-228</page>
                <cobiss>466292</cobiss>
                <citedIn count="4">
                   <cit did="2797" cid="19" avtor0="Mlakar Boris"
@@ -31111,8 +31097,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Žagar Janja</author>
                <title>Služkinje v Ljubljani</title>
-               <page>19-51</page>
                <page>19-49</page>
+               <cobiss>15418925</cobiss>
                <citedIn count="4">
                   <cit did="2815" cid="5" avtor0="Žagar Janja" naslov0="Služkinje v Ljubljani"
                      source="Traditiones" year="1986" volume="15"/>
@@ -31131,8 +31117,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kumer Zmaga</author>
                <title>Balada o rokovnjaču Matjonu</title>
-               <page>44</page>
-               <page>35-46</page>
+               <page>35-48</page>
+               <cobiss>15280429</cobiss>
                <citedIn count="2">
                   <cit did="528" cid="3" avtor0="Kumer Zmaga" naslov0="Balada o rokovnjaču Matjonu"
                      source="Traditiones" year="1984" issue="13" page="44"/>
@@ -31520,7 +31506,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Rahten Andrej</author>
                <title>Politika poslancev Katoliško-narodne stranke v kranjskem deželnem zboru 1892-1904</title>
                <page>124-130</page>
-               <page>126-129</page>
                <cobiss>13423661</cobiss>
                <citedIn count="3">
                   <cit did="629" cid="319" avtor0="Rahten Andrej"
@@ -31864,7 +31849,6 @@ Ljubljani in Teološko fakulteto</title>
                <title>Gotsko stensko slikarstvo na Dolenjskem in v Beli krajini</title>
                <title>nova odkritja</title>
                <page>69-96</page>
-               <page>75</page>
                <cobiss>73964800</cobiss>
                <citedIn count="2">
                   <cit did="3461" cid="24" avtor0="Peskar Robert"
@@ -32590,8 +32574,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Boltin E.</author>
                <title>Kaštelir nad Kortami</title>
-               <page>279</page>
-               <page>293</page>
+               <page>279-293</page>
                <citedIn count="2">
                   <cit did="1950" cid="8" avtor0="Boltin E." naslov0="Kaštelir nad Kortami"
                      source="Varstvo spomenikov" pubPlace="Ljubljana" year="1958" volume="7"
@@ -32620,7 +32603,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Baš Franjo</author>
                <title>Organizacija spomeniškega varstva v slovenski preteklosti</title>
-               <page>37</page>
                <page>13-37</page>
                <citedIn count="3">
                   <cit did="1584" cid="44" avtor0="Baš Franjo"
@@ -33795,8 +33777,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Fink Božidar</author>
                <title>Sodni odsek Slovenskega domobranstva</title>
-               <page>83</page>
-               <page>84</page>
                <citedIn count="2">
                   <cit did="60" cid="9" avtor0="Fink Božidar"
                      naslov0="Sodni odsek Slovenskega domobranstva" source="Zaveza"
@@ -34689,8 +34669,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Golec Januš</author>
                <title>Spomini</title>
-               <page>278</page>
-               <page>286</page>
+               <page>278-286</page>
                <citedIn count="2">
                   <cit did="531" cid="2" avtor0="Golec Januš" naslov0="Spomini"
                      source="Zbornik Svobodne Slovenije 1971-1972" pubPlace="Buenos Aires"
@@ -35190,7 +35169,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Premrl Božidar</author>
                <title>Kamnoseki Felicijani v luči arhivskih in epigrafskih virov</title>
                <page>282-311</page>
-               <page>282-310</page>
+               <cobiss>513164159</cobiss>
                <citedIn count="2">
                   <cit did="423" cid="14" avtor0="Premrl B."
                      naslov0="Kamnoseki Felicijani v luči arhivskih in epigrafskih virov"
@@ -35222,7 +35201,6 @@ Ljubljani in Teološko fakulteto</title>
                <author>Novak Klemenčič Renata</author>
                <title>Dubrovniška Velika fontana</title>
                <page>57-91</page>
-               <page>64</page>
                <cobiss>512490623</cobiss>
                <citedIn count="2">
                   <cit did="328" cid="59" avtor0="Novak  Klemenčič Renata"
@@ -36050,7 +36028,6 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Košir Matevž</author>
                <title>Brat Vega, prostozidar</title>
-               <page>105</page>
                <page>75-111</page>
                <cobiss>423285</cobiss>
                <citedIn count="4">
