@@ -82,6 +82,7 @@
                <author>Kolar Bogdan</author>
                <title>Začetki cerkvene organiziranosti Slovencev v Kaliforniji</title>
                <page>193-244</page>
+               <cobiss>3803482</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="9" avtor0="Kolar Bogdan"
                      naslov0="Začetki cerkvene organiziranosti Slovencev v Kaliforniji"
@@ -185,7 +186,7 @@
                <author>Žnidaršič Golec L.</author>
                <author>Žnidaršič Goleč Lilijana</author>
                <title>Duhovniki kranjskega dela Ljubljanske škofije do Tridentinskega koncila</title>
-               <page>263-264</page>
+               <cobiss>1871712</cobiss>
                <citedIn count="8">
                   <cit did="2623" cid="280" avtor0="Žnidaršič Golec Lilijana"
                      naslov0="Duhovniki kranjskega dela ljubljanske škofije do tridentinskega koncila"
@@ -248,7 +249,8 @@
             <pubPart>
                <author>Baraga France</author>
                <title>Arhiv Glavarjevega beneficija</title>
-               <title>Teološka fakulteta, Inštitut za zgodovino Cerkve</title>
+               <page>97-193</page>
+               <cobiss>2087770</cobiss>
                <citedIn count="1">
                   <cit did="2604" cid="4" avtor0="Baraga France"
                      naslov0="Arhiv Glavarjevega beneficija. Teološka fakulteta, Inštitut za zgodovino Cerkve"
@@ -283,8 +285,10 @@
             </pubPart>
             <pubPart>
                <author>Höfler Janez</author>
-               <title>Pražupniji Stara Loka in Šempeter pri Ljubljani</title>
+               <title>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</title>
+               <title>Pražupniji Stara Loka in Šentpeter pri Ljubljani</title>
                <page>305-368</page>
+               <cobiss>2088538</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="90" avtor0="Höfler Janez"
                      naslov0="Pražupniji Stara Loka in Šempeter pri Ljubljani" source="AES 20"
@@ -299,6 +303,8 @@
             <pubPart>
                <author>Baraga France</author>
                <title>Arhivska zapuščina škofa Tomaža Hrena</title>
+               <page>7-169</page>
+               <cobiss>2143834</cobiss>
                <citedIn count="1">
                   <cit did="2604" cid="3" avtor0="Baraga France"
                      naslov0="Arhivska zapuščina škofa Tomaža Hrena"
@@ -341,9 +347,10 @@
          <issue n="16">
             <pubPart>
                <author>Benedik Metod</author>
-               <author>Kralj Angel</author>
-               <title>pucini na Slovenskem v zgodovinskih tirih</title>
-               <title>Nekdanja štajerska kapucinska provinca</title>
+               <title>Kapucini na Slovenskem v zgodovinskih virih</title>
+               <title>Nekdanja Štajerska kapucinska provinca</title>
+               <page>9-80</page>
+               <cobiss>793178</cobiss>
                <citedIn count="1">
                   <cit did="2598" cid="2" avtor0="Benedik Metod" avtor1="Kralj Angel"
                      naslov0="pucini na Slovenskem v zgodovinskih tirih. Nekdanja štajerska kapucinska provinca"
@@ -503,6 +510,7 @@
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Župnije na Slovenskem Štajerskem v vizitacijskih zapisnikih arhidiakonata med Dravo in Muro 1656-1774</title>
+               <cobiss>4471041</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="58" avtor0="Mlinarič Jože"
                      naslov0="Župnije na Slovenskem Štajerskem v vizitacijskih zapisnikih arhidiakonata med Dravo in Muro 1656-1774"
@@ -517,6 +525,7 @@
             <pubPart>
                <author>Bratož Rajko</author>
                <title>Krščanstvo v Ogleju in na vzhodnem vplivnem območju oglejske cerkve od začetkov do nastopa verske svobode</title>
+               <cobiss>4470785</cobiss>
                <citedIn count="1">
                   <cit did="759" cid="12" avtor0="Bratož Rajko"
                      naslov0="Krščanstvo v Ogleju in na vzhodnem vplivnem območju oglejske cerkve od začetkov do nastopa verske svobode"
@@ -530,6 +539,7 @@
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Prizadevanje sekovskih škofov Martina Brennerja (1585 do 1615) in Jakoba Eberleina (1615-1633) kot generalnih vikarjev salzburških škofov za katoliško versko prenovo na Štajerskem v luči protokolov 1585-1614 in vizitacijskih zapisnikov iz 1607, 1608 in 16</title>
+               <cobiss>9313185</cobiss>
                <citedIn count="1">
                   <cit did="2612" cid="104" avtor0="Mlinarič Jože"
                      naslov0="Prizadevanje sekovskih škofov Martina Brennerja (1585 do 1615) in Jakoba Eberleina (1615-1633) kot generalnih vikarjev salzburških škofov za katoliško versko prenovo na Štajerskem v luči protokolov 1585-1614 in vizitacijskih zapisnikov iz 1607, 1608 in 16"
@@ -540,6 +550,7 @@
                <author>Zelko Ivan</author>
                <title>Frančiškani v Murski Soboti</title>
                <page>321-325</page>
+               <cobiss>3406131</cobiss>
                <citedIn count="1">
                   <cit did="3465" cid="125" avtor0="Zelko Ivan"
                      naslov0="Frančiškani v Murski Soboti"
@@ -551,8 +562,8 @@
             <pubPart>
                <author>Zelko Ivan</author>
                <title>Gradivo za prekmursko cerkveno zgodovino</title>
-               <title>Gradivo za prekmursko zgodovino</title>
                <page>227-320</page>
+               <cobiss>3405875</cobiss>
                <citedIn count="2">
                   <cit did="3465" cid="126" avtor0="Zelko Ivan"
                      naslov0="Gradivo za prekmursko cerkveno zgodovino"
@@ -749,6 +760,7 @@
                <author>Vidmar Luka</author>
                <title>Janez Gregor Dolničar v Loretu in Rimu leta 1679</title>
                <page>159-169</page>
+               <cobiss>23059757</cobiss>
                <citedIn count="1">
                   <cit did="2791" cid="48" avtor0="Vidmar Luka"
                      naslov0="Janez Gregor Dolničar v Loretu in Rimu leta 1679"
@@ -763,7 +775,8 @@
             <pubPart>
                <author>Lozar Štamcar Maja</author>
                <title>Upodobitev bidermajerskega interierja z gradu Šrajbarski turn</title>
-               <page>109-123</page>
+               <page>125-139</page>
+               <cobiss>21593389</cobiss>
                <citedIn count="1">
                   <cit did="2118" cid="16" avtor0="Lozar Štamcar Maja"
                      naslov0="Upodobitev bidermajerskega interierja z gradu Šrajbarski turn"
@@ -775,6 +788,7 @@
                <title>Freske in slikane tapete v dvorcu Rothelstein pri Admontu</title>
                <title>Fromillerjevo delo na avstrijskem Štajerskem</title>
                <page>109-124</page>
+               <cobiss>21570093</cobiss>
                <citedIn count="1">
                   <cit did="2126" cid="11" avtor0="Murovec Barbara"
                      naslov0="Freske in slikane tapete v dvorcu Rothelstein pri Admontu. Fromillerjevo delo na avstrijskem Štajerskem"
@@ -804,7 +818,9 @@
             <pubPart>
                <author>Osvald Monika</author>
                <title>Spomeniško varstvo in obnova Goriške po prvi svetovni vojni</title>
+               <title>arhitekt Maks Fabiani (1865-1962) ter cerkve v Ločniku, Šempetru pri Gorici in Vrtojbi</title>
                <page>123-134</page>
+               <cobiss>20125282</cobiss>
                <citedIn count="1">
                   <cit did="2221" cid="15" avtor0="Osvald Monika"
                      naslov0="Spomeniško varstvo in obnova Goriške po prvi svetovni vojni"
@@ -818,9 +834,10 @@
          <issue n="6">
             <pubPart>
                <author>Lavrič Ana</author>
-               <title>Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja.</title>
+               <title>Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja</title>
                <title>Statut Acade-miae trium Artium in Academiae incultorum</title>
                <page>67-82</page>
+               <cobiss>18997037</cobiss>
                <citedIn count="1">
                   <cit did="3538" cid="10" avtor0="Lavrič Ana"
                      naslov0="Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja. Statut Acade-miae trium Artium in Academiae incultorum"
@@ -856,6 +873,7 @@
                <author>Höfler J.</author>
                <title>O grafičnih virih za freske v Hrastovljah</title>
                <page>23-38</page>
+               <cobiss>9377581</cobiss>
                <citedIn count="1">
                   <cit did="712" cid="13" avtor0="Höfler J."
                      naslov0="O grafičnih virih za freske v Hrastovljah"
@@ -994,13 +1012,6 @@
                      pubPlace="Ljubljana"
                      publisher="Agencija Republike Slovenije za prestrukturiranje in privatizacijo : Sklad Republike Slovenije za razvoj"
                      year="1998" issue="64" page="2-5"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Novković Goran</author>
-               <title>Intervju z Andrejo Böhm</title>
-               <page>2-5</page>
-               <citedIn count="1">
                   <cit did="3230" cid="7" avtor0="Novković Goran" naslov0="Intervju z Andrejo Böhm"
                      source="Agens: časopis za privatizacijo, prestrukturiranje in razvoj"
                      year="1998" issue="64" page="2-5"/>
@@ -1455,6 +1466,7 @@
                <author>Flere Sergej</author>
                <title>Spol, osebnostne lastnosti po spolu, nizka samokontrola in kriminalnost</title>
                <page>215-226</page>
+               <cobiss>215815936</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="233" avtor0="Flere Sergej"
                      naslov0="Spol, osebnostne lastnosti po spolu, nizka samokontrola in kriminalnost"
@@ -1467,8 +1479,9 @@
          <issue n="4-6">
             <pubPart>
                <author>Avsec Andreja</author>
-               <title>Razlike med spoloma v vrednostnih ocenah, spolno stereotipnih osebnostnih lastnostinostnih lastnosti</title>
+               <title>Razlike med spoloma v vrednostnih ocenah, spolno stereotipnih osebnostnih lastnosti</title>
                <page>19-34</page>
+               <cobiss>21023074</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="219" avtor0="Avsec Andreja"
                      naslov0="Razlike med spoloma v vrednostnih ocenah, spolno stereotipnih osebnostnih lastnostinostnih lastnosti"
@@ -1481,8 +1494,9 @@
          <issue n="1-3">
             <pubPart>
                <author>Avsec Andreja</author>
-               <title>Povezanost maskulinosti in femininosti s komponentama samospoštovanjavanja</title>
+               <title>Povezanost maskulinosti in femininosti s komponentama samospoštovanja</title>
                <page>17-24</page>
+               <cobiss>20931421</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="218" avtor0="Avsec Andreja"
                      naslov0="Povezanost maskulinosti in femininosti s komponentama samospoštovanjavanja"
@@ -1494,6 +1508,7 @@
                <title>„Mislili smo, da je kaj takšnega možno samo na Marsu”</title>
                <title>kratka etnografija slovenstva skozi identifikacije evakuirancev Vlade Republike Slovenije in medvojne BiH</title>
                <page>239-262</page>
+               <cobiss>8175693</cobiss>
                <citedIn count="1">
                   <cit did="2861" cid="39" avtor0="Šumi Irena"
                      naslov0="„Mislili smo, da je kaj takšnega možno samo na Marsu”: kratka etnografija slovenstva skozi identifikacije evakuirancev Vlade Republike Slovenije in medvojne BiH"
@@ -1510,6 +1525,7 @@
                <author>Jogan M.</author>
                <title>Evropa (ne)enakih možnosti spolov</title>
                <page>142-148</page>
+               <cobiss>19357021</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="251" avtor0="Jogan M."
                      naslov0="Evropa (ne)enakih možnosti spolov" source="Anthropos" year="1999"
@@ -1520,6 +1536,7 @@
                <author>Repe Božo</author>
                <title>Slovenci, Balkan in Srednja Evropa</title>
                <page>301-312</page>
+               <cobiss>10832738</cobiss>
                <citedIn count="2">
                   <cit did="1911" cid="140" avtor0="Repe Božo"
                      naslov0="Slovenci, Balkan in Srednja Evropa" source="Anthropos" year="1999"
@@ -1533,6 +1550,7 @@
                <author>Toth C.</author>
                <title>Etika v sistemu filozofije</title>
                <page>85-95</page>
+               <cobiss>11430242</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="294" avtor0="Toth C." naslov0="Etika v sistemu filozofije"
                      source="Anthropos" year="1999" volume="31" issue="4-6" page="85-95"/>
@@ -1542,6 +1560,7 @@
                <author>Černigoj M.</author>
                <title>Osnovne značilnosti biološke organizacije kot temelj za razumevanje človekovega vedenja</title>
                <page>37-48</page>
+               <cobiss>10836834</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="227" avtor0="Černigoj M."
                      naslov0="Osnovne značilnosti biološke organizacije kot temelj za razumevanje človekovega vedenja"
@@ -1554,6 +1573,7 @@
                <author>Vec T.</author>
                <title>Socialne in kolektivne predstave</title>
                <page>247-268</page>
+               <cobiss>10039257</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="299" avtor0="Vec T."
                      naslov0="Socialne in kolektivne predstave" source="Anthropos" year="1999"
@@ -1583,8 +1603,9 @@
          <issue n="4-6">
             <pubPart>
                <author>Simoniti Vasko</author>
-               <title>Historične konstante na tleh nekdanje Jugoslavije in neupoštevanje le teh pri oblikovanju multinacionalne države</title>
+               <title>Historične konstante na tleh bivše Jugoslavije in neupoštevanje le-teh pri oblikovanju multinacionalne države</title>
                <page>214-237</page>
+               <cobiss>636253</cobiss>
                <citedIn count="1">
                   <cit did="2536" cid="45" avtor0="Simoniti Vasko"
                      naslov0="Historične konstante na tleh nekdanje Jugoslavije in neupoštevanje le teh pri oblikovanju multinacionalne države"
@@ -1626,6 +1647,7 @@
                <author>Musek Janek</author>
                <title>O osebnostnem profilu Slovencev</title>
                <page>270-286</page>
+               <cobiss>9790978</cobiss>
                <citedIn count="1">
                   <cit did="2625" cid="74" avtor0="Musek Janek"
                      naslov0="O osebnostnem profilu Slovencev" source="Anthropos" year="1989"
@@ -1649,8 +1671,9 @@
          <issue n="2">
             <pubPart>
                <author>Cufar Katarina, Lozar Stamcar Maja</author>
-               <title>Dendrokronološko datiranje lesenega stropa iz dvorca Steberk pri Cerkniškem jezeru</title>
+               <title>Dendrokronološko datiranje lesenega stropa iz dvorca Šteberk na Cerkniškem</title>
                <page>74-80</page>
+               <cobiss>4970336</cobiss>
                <citedIn count="1">
                   <cit did="2118" cid="3" avtor0="Cufar Katarina, Lozar Stamcar Maja"
                      naslov0="Dendrokronološko datiranje lesenega stropa iz dvorca Steberk pri Cerkniškem jezeru"
@@ -1664,8 +1687,10 @@
          <issue n="1">
             <pubPart>
                <author>Stare V.</author>
-               <title>Kovinski predmeti z jugovzhodnega dela naselja na Otoku pri Dobravi (Gutenwerth)</title>
+               <title>Kovinski predmeti z jugovzhodnega dela naselja na Otoku pri Dobravi</title>
+               <title>(Gutenwerth)</title>
                <page>18-43</page>
+               <cobiss>128663552</cobiss>
                <citedIn count="1">
                   <cit did="1945" cid="49" avtor0="Stare V."
                      naslov0="Kovinski predmeti z jugovzhodnega dela naselja na Otoku pri Dobravi (Gutenwerth)"
@@ -1676,6 +1701,7 @@
                <author>Nabergoj T.</author>
                <title>Meč iz Ljubljanice s kabalističnim napisom AGLA</title>
                <page>44-52</page>
+               <cobiss>3635552</cobiss>
                <citedIn count="1">
                   <cit did="2587" cid="12" avtor0="Nabergoj T."
                      naslov0="Meč iz Ljubljanice s kabalističnim napisom AGLA" source="Argo"
@@ -1689,8 +1715,9 @@
          <issue n="1">
             <pubPart>
                <author>Žargi Matija</author>
-               <title>Auerspergov knežji dvorec v Ljubljani kot raziskovalni problem</title>
+               <title>Auerspergov knežji dvorec v Ljubljani kot raziskovalni izziv</title>
                <page>153-154</page>
+               <cobiss>2753376</cobiss>
                <citedIn count="1">
                   <cit did="1207" cid="50" avtor0="Žargi Matija"
                      naslov0="Auerspergov knežji dvorec v Ljubljani kot raziskovalni problem"
@@ -1704,6 +1731,7 @@
                <title>Potapljači cesarsko kraljeve vojne mornarice na Vrhniki leta 1884</title>
                <title>Prve podvodne arheološke raziskave v strugi Ljubljanice</title>
                <page>48-52</page>
+               <cobiss>128636928</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="7" avtor0="Gaspari A."
                      naslov0="Potapljači cesarsko kraljeve vojne mornarice na Vrhniki leta 1884: Prve podvodne arheološke raziskave v strugi Ljubljanice"
@@ -1718,6 +1746,7 @@
                <author>Mihelič Darja</author>
                <title>Beseda proti predmetu</title>
                <page>40-46</page>
+               <cobiss>16015149</cobiss>
                <citedIn count="1">
                   <cit did="750" cid="7" avtor0="Mihelič Darja" naslov0="Beseda proti predmetu"
                      source="Argo" pubPlace="Ljubljana" year="2000" issue="1" page="40-46"/>
@@ -1732,6 +1761,7 @@
                <author>Nabergoj T.</author>
                <title>Srednjeveška keramika iz Ljubljane in Ljubljanice</title>
                <page>39-66</page>
+               <cobiss>863840</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="27" avtor0="Nabergoj T."
                      naslov0="Srednjeveška keramika iz Ljubljane in Ljubljanice" source="Argo"
@@ -1746,7 +1776,8 @@
             <pubPart>
                <author>Lozar Štamcar Maja</author>
                <title>Kabinetne omarice in zbirka v Narodnem muzeju</title>
-               <page>75-82</page>
+               <page>75-84</page>
+               <cobiss>4174381</cobiss>
                <citedIn count="1">
                   <cit did="2118" cid="8" avtor0="Lozar Štamcar Maja"
                      naslov0="Kabinetne omarice in zbirka v Narodnem muzeju" source="Argo"
@@ -1786,6 +1817,7 @@
                <author>Koter Darja</author>
                <title>Lesena pihala dunajskih izdelovalcev v Pokrajinskem muzeju Ptuj</title>
                <page>17-21</page>
+               <cobiss>59281664</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="67" avtor0="Koter Darja"
                      naslov0="Lesena pihala dunajskih izdelovalcev v Pokrajinskem muzeju Ptuj"
@@ -1818,6 +1850,7 @@
                <author>Lozar Štamcar Maja</author>
                <title>Tabernakeljske omare iz fonda Narodnega muzeja</title>
                <page>17-25</page>
+               <cobiss>46304000</cobiss>
                <citedIn count="1">
                   <cit did="2118" cid="14" avtor0="Lozar Štamcar Maja"
                      naslov0="Tabernakeljske omare iz fonda Narodnega muzeja" source="Argo"
@@ -1832,6 +1865,8 @@
             <pubPart>
                <author>Bučić Vesna</author>
                <title>Urarske krošnje in krošnjarjenje</title>
+               <page>7-9</page>
+               <cobiss>46027008</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="303" avtor0="Bučić Vesna"
                      naslov0="Urarske krošnje in krošnjarjenje" source="Argo" year="1992"/>
@@ -1841,6 +1876,7 @@
                <author>Lozar Štamcar Maja</author>
                <title>Baročne garderobne omare iz fonda Narodnega muzeja v Ljubljani</title>
                <page>16-27</page>
+               <cobiss>46028032</cobiss>
                <citedIn count="1">
                   <cit did="2118" cid="6" avtor0="Lozar Štamcar Maja"
                      naslov0="Baročne garderobne omare iz fonda Narodnega muzeja v Ljubljani"
@@ -1856,6 +1892,7 @@
                <author>Kolšek V.</author>
                <title>Ob 100-letnici celjskega Pokrajinskega muzeja</title>
                <page>3-26</page>
+               <cobiss>17808384</cobiss>
                <citedIn count="1">
                   <cit did="1943" cid="3" avtor0="Kolšek V."
                      naslov0="Ob 100-letnici celjskega Pokrajinskega muzeja" source="Argo"
@@ -1869,7 +1906,7 @@
          <issue>
             <pubPart>
                <author>Pegan Efrem</author>
-               <title>Najdba srednjeveških novcev na Blejskem otku</title>
+               <title>Najdba srednjeveških novcev na Blejskem otoku</title>
                <page>65-71</page>
                <citedIn count="1">
                   <cit did="414" cid="51" avtor0="Pegan Efrem"
