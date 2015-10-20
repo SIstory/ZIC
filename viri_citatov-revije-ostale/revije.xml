@@ -21055,7 +21055,6 @@ Ljubljani in Teološko fakulteto</title>
       </year>
       <year n="1988">
          <volume>7</volume>
-         <volume>77, 80, 81/82</volume>
          <issue n="78-79">
             <pubPart>
                <author>Djindijić Zoran</author>
@@ -21072,6 +21071,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Spomenka Hribar</author>
                <title>Samoobramba kot poraz</title>
                <page>1328</page>
+               <cobiss>16920064</cobiss>
                <citedIn count="1">
                   <cit did="848" cid="3" avtor0="Spomenka Hribar" naslov0="Samoobramba kot poraz"
                      source="Nova revija" year="0" volume="7" issue="77" page="1328"/>
@@ -21232,7 +21232,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Rupel Dimitrij</author>
                <title>Odgovor na slovensko narodno vprašanje</title>
-               <page>60</page>
+               <page>57-73</page>
                <cobiss>11662429</cobiss>
                <citedIn count="1">
                   <cit did="21" cid="75" avtor0="Rupel Dimitrij"
@@ -21414,8 +21414,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Švajncer Janez J.</author>
-               <title>"deklaracijske razglednice"</title>
-               <page>84</page>
+               <title>Deklaracijske razglednice</title>
+               <page>77-84</page>
+               <cobiss>98530816</cobiss>
                <citedIn count="1">
                   <cit did="2189" cid="4" avtor0="Švajncer Janez J."
                      naslov0="&#34;deklaracijske razglednice&#34;" source="Numizmatični vestnik"
@@ -21754,7 +21755,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja</title>
-               <page>82</page>
+               <page>81-98</page>
                <citedIn count="1">
                   <cit did="2611" cid="11" avtor0="Mlinarič Jože"
                      naslov0="Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja"
@@ -22183,7 +22184,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Dolenc Janez</author>
                <title>Rokovnjači v loškem pogorju</title>
-               <page>130</page>
+               <page>129-131</page>
+               <cobiss>2937910</cobiss>
                <citedIn count="1">
                   <cit did="528" cid="2" avtor0="Dolenc Janez" naslov0="Rokovnjači v loškem pogorju"
                      source="Planinski vestnik" year="1952" page="130"/>
@@ -23094,8 +23096,10 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="297">
             <pubPart>
                <author>Kajfež Tomislav</author>
-               <title>Antonio Lasciac (1856-1946), goriški arhitekt v Egiptu</title>
-               <page>297</page>
+               <title>Antonio Lasciac (1856-1946)</title>
+               <title>goriški arhitekt v Egiptu</title>
+               <page>13-18</page>
+               <cobiss>12385842</cobiss>
                <citedIn count="1">
                   <cit did="2222" cid="15" avtor0="Kajfež Tomislav"
                      naslov0="Antonio Lasciac (1856-1946), goriški arhitekt v Egiptu"
@@ -23179,7 +23183,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gregorič Milan</author>
                <title>Zakonska zaščita Slovencev v Italiji včeraj, danes in jutri</title>
-               <page>454</page>
+               <page>454-459</page>
+               <cobiss>7784753</cobiss>
                <citedIn count="1">
                   <cit did="1715" cid="28" avtor0="Gregorič Milan"
                      naslov0="Zakonska zaščita Slovencev v Italiji včeraj, danes in jutri"
@@ -23345,7 +23350,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Budin Pavel</author>
                <title>Orglarjeva razmišljanja</title>
-               <page>716</page>
+               <page>716-717</page>
                <cobiss>3023665</cobiss>
                <citedIn count="2">
                   <cit did="3179" cid="5" avtor0="Budin Pavel" naslov0="Orglarjeva razmišljanja"
@@ -23406,7 +23411,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Filipi Goran</author>
                <title>Jezikovna slika Istre</title>
-               <page>638</page>
+               <page>638-640</page>
+               <cobiss>286029</cobiss>
                <citedIn count="1">
                   <cit did="411" cid="7" avtor0="Filipi Goran" naslov0="Jezikovna slika Istre"
                      source="Primorska srečanja" pubPlace="Nova Gorica" year="1993" issue="18"
@@ -23623,18 +23629,12 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Pirnik Maks</author>
                <title>Vse je bilo ozvočeno, vse je pelo</title>
-               <page>123</page>
-               <citedIn count="1">
+               <page>121-126</page>
+               <cobiss>15418112</cobiss>
+               <citedIn count="2">
                   <cit did="569" cid="37" avtor0="Pirnik Maks"
                      naslov0="Vse je bilo ozvočeno, vse je pelo" source="Primorska srečanja"
                      year="1989" volume="XIII" issue="91/92" page="123"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pirnik Maks</author>
-               <title>Vse je bilo ozvočeno, vse je pelo</title>
-               <page>123</page>
-               <citedIn count="1">
                   <cit did="1911" cid="163" avtor0="Pirnik Maks"
                      naslov0="Vse je bilo ozvočeno, vse je pelo" source="Primorska srečanja"
                      year="1989" volume="91-92" page="123"/>
@@ -23718,7 +23718,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Domobranska propaganda na Primorskem</title>
-               <page>201</page>
+               <page>200-203</page>
                <cobiss>1877108</cobiss>
                <citedIn count="1">
                   <cit did="3239" cid="2" avtor0="Mlakar Boris"
@@ -23839,7 +23839,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Klasinc Peter</author>
                <title>Septemberski dogodki 1908</title>
-               <page>287-288</page>
+               <title>s posebnim poudarkom na arhivskih dokumentih iz Štajerskega deželnega arhiva v Gradcu</title>
+               <page>281-294</page>
+               <cobiss>143237</cobiss>
                <citedIn count="1">
                   <cit did="1775" cid="12" avtor0="Klasinc Peter"
                      naslov0="Septemberski dogodki 1908" source="Ptujski zbornik" pubPlace="Ptuj"
@@ -23859,8 +23861,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Rozman Jože</author>
-               <title>Viničsrji v boju za nov in pravičen viničarski red</title>
-               <page>271</page>
+               <title>Viničarji v boju za nov in pravičen viničarski red</title>
+               <page>271-280</page>
+               <cobiss>19087416</cobiss>
                <citedIn count="1">
                   <cit did="976" cid="30" avtor0="Rozman Jože"
                      naslov0="Viničsrji v boju za nov in pravičen viničarski red"
@@ -23875,7 +23878,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Gospoščina Negova na začetku 17. stoletja</title>
-               <page>220</page>
+               <page>201-221</page>
                <citedIn count="1">
                   <cit did="263" cid="10" avtor0="Mlinarič Jože"
                      naslov0="Gospoščina Negova na začetku 17. stoletja" source="Ptujski zbornik IV"
@@ -23905,7 +23908,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Vrišer Sergej</author>
                <title>Znamenja in javni spomeniki v Ptuju</title>
-               <page>302</page>
+               <page>295-305</page>
+               <cobiss>46813953</cobiss>
                <citedIn count="1">
                   <cit did="1904" cid="9" avtor0="Vrišer Sergej"
                      naslov0="Znamenja in javni spomeniki v Ptuju" source="Ptujski zbornik IV"
@@ -23965,8 +23969,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue>
             <pubPart>
                <author>Cevc Emilijan</author>
-               <title>Parlerjanske maske v okolici Ptuja</title>
-               <page>50</page>
+               <title>Parlerjanske maske v Ptuju in okolici</title>
+               <page>49-55</page>
+               <cobiss>13520685</cobiss>
                <citedIn count="1">
                   <cit did="1588" cid="9" avtor0="Cevc Emilijan"
                      naslov0="Parlerjanske maske v okolici Ptuja" source="Ptujski zbornik 1893-1953"
@@ -24074,7 +24079,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Šinkovec Stane</author>
                <title>Sodstvo na Gorenjskem (1941-1945)</title>
-               <page>158</page>
+               <page>157-162</page>
+               <cobiss>413750</cobiss>
                <cobiss>413750</cobiss>
                <citedIn count="1">
                   <cit did="16" cid="60" avtor0="Šinkovec Stane"
@@ -24085,7 +24091,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Žontar Jože</author>
                <title>Radovljiški podložniki v zadnjem obdobju fevdalnega družbenega reda</title>
-               <page>47</page>
+               <page>42-50</page>
+               <cobiss>410934</cobiss>
                <cobiss>410934</cobiss>
                <citedIn count="1">
                   <cit did="2958" cid="14" avtor0="Žontar Jože"
@@ -24511,7 +24518,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kuzmič Mihael</author>
                <title>Življenje in delo Jurija Dalmatina (1547-1589)</title>
-               <page>479</page>
+               <page>479-485</page>
+               <cobiss>7006263</cobiss>
                <cobiss>7006263</cobiss>
                <citedIn count="1">
                   <cit did="36" cid="3" avtor0="Kuzmič Mihael"
@@ -24606,6 +24614,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Baraga France</author>
                <title>Novoodkriti Valvasorjev nagrobni spomenik</title>
                <page>321</page>
+               <cobiss>871735</cobiss>
                <citedIn count="2">
                   <cit did="2157" cid="12" avtor0="Baraga F."
                      naslov0="Novoodkriti Valvasorjev nagrobni spomenik" source="Rast" year="1993"
@@ -24684,7 +24693,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gregorič Jože</author>
                <title>Beneficiji pri cerkvi sv. Miklavža</title>
-               <page>178</page>
+               <page>178-189</page>
+               <cobiss>60734464</cobiss>
                <citedIn count="1">
                   <cit did="1298" cid="29" avtor0="Gregorič Jože"
                      naslov0="Beneficiji pri cerkvi sv. Miklavža" source="Rast"
@@ -24695,6 +24705,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Gregorič Jože</author>
                <title>Novoodkriti gotski relikviarij</title>
                <page>184</page>
+               <cobiss>60761088</cobiss>
                <citedIn count="1">
                   <cit did="1298" cid="106" avtor0="Gregorič Jože"
                      naslov0="Novoodkriti gotski relikviarij" source="Rast" pubPlace="Novo mesto"
@@ -24910,8 +24921,8 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="50-51">
             <pubPart>
                <author>Kocbek Edvard</author>
-               <title>govor v CK KPS 4. oktobra 1946</title>
-               <page>215</page>
+               <title>Govor v CK KP Slovenije</title>
+               <page>215-232</page>
                <citedIn count="1">
                   <cit did="569" cid="42" avtor0="Kocbek Edvard"
                      naslov0="govor v CK KPS 4. oktobra 1946" source="Revija 2000" year="1990"
@@ -24982,6 +24993,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Prunk Janko</author>
                <title>Krekova tradicija</title>
                <page>3-23</page>
+               <cobiss>217576960</cobiss>
                <citedIn count="1">
                   <cit did="2618" cid="201" avtor0="Prunk Janko" naslov0="Krekova tradicija"
                      source="Revija 2000" year="1988" issue="40-41" page="3-23"/>
@@ -25154,8 +25166,8 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1">
             <pubPart>
                <author>Avsec T.</author>
-               <title>Romi in svet. 8. april</title>
-               <title>svetovni dan Romov</title>
+               <title>Romi in svet</title>
+               <title>8. april svetovni dan Romov</title>
                <page>6</page>
                <citedIn count="1">
                   <cit did="3199" cid="2" avtor0="Avsec T."
@@ -25878,7 +25890,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Juvan Marko</author>
                <title>Med identifikacijo in negacijo</title>
                <title>Pripovedkovni intertekst v Cankarjevi povesti Potepuh Marko in kralj Matjaž</title>
-               <page>479</page>
+               <page>471-487</page>
+               <cobiss>15248128</cobiss>
                <citedIn count="1">
                   <cit did="279" cid="40" avtor0="Juvan Marko"
                      naslov0="Med identifikacijo in negacijo : Pripovedkovni intertekst v Cankarjevi povesti Potepuh Marko in kralj Matjaž"
@@ -26145,8 +26158,8 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Rupel M.</author>
-               <title>Povabilo in odpoved gašperju Melissandru</title>
-               <page>219</page>
+               <title>Povabilo in odpoved Gašperju Melissandru</title>
+               <page>209-224</page>
                <citedIn count="1">
                   <cit did="2164" cid="8" avtor0="Rupel M."
                      naslov0="Povabilo in odpoved gašperju Melissandru" source="Slavistična revija"
@@ -26379,9 +26392,10 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="42">
             <pubPart>
                <author>Kos Boža</author>
-               <title>Boksarska vstaja</title>
                <title>»Upor proti tujim hudičem«</title>
-               <page>24</page>
+               <title>Boksarska vstaja</title>
+               <page>24-25</page>
+               <cobiss>71257344</cobiss>
                <citedIn count="1">
                   <cit did="1450" cid="13" avtor0="Kos Boža"
                      naslov0="Boksarska vstaja: »Upor proti tujim hudičem«"
@@ -26403,13 +26417,16 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
+      <year n="1997">
          <issue n="140-141">
             <pubPart>
                <author>Rustja Karel</author>
-               <title>Gradnja želežniških prog za frontno črto</title>
+               <title>Gradnja železniških prog za frontno črto</title>
                <title>vojaške ozkotirne proge</title>
+               <page>26-28</page>
                <page>28</page>
+               <cobiss>111894784</cobiss>
+               <cobiss>111896832</cobiss>
                <citedIn count="1">
                   <cit did="1304" cid="15" avtor0="Rustja Karel"
                      naslov0="Gradnja želežniških prog za frontno črto : vojaške ozkotirne proge"
@@ -26442,7 +26459,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Sedej Ivan</author>
                <title>Vsakdanje življenje večinskega prebivalstva na Slovenskem v 19. stoletju</title>
-               <page>9</page>
+               <page>7-23</page>
+               <cobiss>36320512</cobiss>
                <citedIn count="1">
                   <cit did="876" cid="14" avtor0="Sedej Ivan"
                      naslov0="Vsakdanje življenje večinskega prebivalstva na Slovenskem v 19. stoletju"
@@ -26860,7 +26878,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Baš Franjo</author>
                <title>Delo Zgodovinskega društva v Mariboru</title>
-               <page>114</page>
+               <page>114-115</page>
+               <cobiss>239863808</cobiss>
                <citedIn count="1">
                   <cit did="1003" cid="2" avtor0="Baš Franjo"
                      naslov0="Delo Zgodovinskega društva v Mariboru" source="Slovenski etnograf"
@@ -27517,7 +27536,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Vranc Ernest</author>
-               <title>Spominski utrinke s pedagoške poti</title>
+               <title>Spominski utrinki s pedagoške poti</title>
                <title>Popotnik - propagandno glasilo III. internacionale?</title>
                <title>Ob 30-letnici »zelenega« in 20-letnici »rdečega« Popotnika, pedagoškega glasila učiteljstva</title>
                <page>214</page>
@@ -27991,7 +28010,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kreft Ivan</author>
                <title>Obraz Dušana Kermaunerja</title>
-               <page>295</page>
+               <page>281-295</page>
+               <cobiss>41746944</cobiss>
                <citedIn count="1">
                   <cit did="1685" cid="1" avtor0="Kreft Ivan" naslov0="Obraz Dušana Kermaunerja"
                      source="Sodobnost" year="1980" volume="28" issue="3" page="295"/>
@@ -28406,7 +28426,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Cavazza Silvano</author>
                <title>Bonomo, Vergerij, Trubar</title>
-               <page>62</page>
+               <page>62-81</page>
+               <cobiss>35289698</cobiss>
                <citedIn count="1">
                   <cit did="1793" cid="2" avtor0="Cavazza Silvano"
                      naslov0="Bonomo, Vergerij, Trubar"
@@ -28417,7 +28438,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kranjc Vrečko Fanika</author>
                <title>Jože Rajhman in slovenski protestantizem 16. stoletja</title>
-               <page>92</page>
+               <page>9-21</page>
+               <cobiss>8920067</cobiss>
                <citedIn count="1">
                   <cit did="1793" cid="1" avtor0="Kranjc Vrečko Fanika"
                      naslov0="Jože Rajhman in slovenski protestantizem 16. stoletja"
@@ -28454,8 +28476,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Grdina Igor</author>
-               <title>Do fine make 00' mleto Trubarjevo vprašanje</title>
-               <page>204</page>
+               <title>Do "fine moke 00" mleto Trubarjevo vprašanje</title>
+               <page>202-235</page>
+               <cobiss>32907106</cobiss>
                <citedIn count="1">
                   <cit did="2660" cid="40" avtor0="Grdina Igor"
                      naslov0="Do fine make 00' mleto Trubarjevo vprašanje"
@@ -28469,7 +28492,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Glavan Mihael</author>
                <title>Slovenska Biblija v Schulpforti</title>
-               <page>68</page>
+               <page>63-71</page>
+               <cobiss>30549602</cobiss>
                <cobiss>30549602</cobiss>
                <citedIn count="1">
                   <cit did="36" cid="11" avtor0="Glavan Mihael"
@@ -28490,8 +28514,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Voglar Dušan</author>
-               <title>Theodor Elze (zgodovinar)</title>
-               <page>228</page>
+               <title>Theodor Elze</title>
+               <title>zgodovinar</title>
+               <page>228-232</page>
                <cobiss>30551906</cobiss>
                <citedIn count="1">
                   <cit did="36" cid="17" avtor0="Voglar Dušan" naslov0="Theodor Elze (zgodovinar)"
@@ -28682,6 +28707,7 @@ Ljubljani in Teološko fakulteto</title>
                <title>Mesto želja</title>
                <title>skica političnega ozadja</title>
                <page>30</page>
+               <cobiss>245069</cobiss>
                <citedIn count="1">
                   <cit did="140" cid="28" avtor0="Vodušek Starič Jerca"
                      naslov0="Mesto želja : skica političnega ozadja" source="Svobodna misel"
@@ -28719,7 +28745,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Ferenc Tone</author>
                <title>Kazen ali maščevanje?</title>
-               <page>85</page>
+               <page>17-18</page>
                <cobiss>761460</cobiss>
                <citedIn count="1">
                   <cit did="16" cid="55" avtor0="Ferenc Tone" naslov0="Kazen ali maščevanje?"
@@ -28736,6 +28762,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Stergar Janez</author>
                <title>Cena priznanja</title>
                <page>6</page>
+               <cobiss>7375693</cobiss>
                <citedIn count="1">
                   <cit did="211" cid="20" avtor0="Stergar Janez" naslov0="Cena priznanja"
                      source="Svobodna misel" pubPlace="Ljubljana" year="1972" volume="30" issue="3"
@@ -28998,7 +29025,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Stergar Janez</author>
                <title>Okruški spominov na Franceta Ostanka</title>
-               <page>258</page>
+               <page>257-260</page>
+               <cobiss>20641069</cobiss>
                <citedIn count="1">
                   <cit did="2899" cid="2" avtor0="Stergar Janez"
                      naslov0="Okruški spominov na Franceta Ostanka" source="Šolska kronika"
@@ -29059,7 +29087,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Šolski sistemi na slovenskem v 20. stoletju</title>
-               <page>2</page>
+               <page>236-250</page>
                <cobiss>19134509</cobiss>
                <citedIn count="1">
                   <cit did="3377" cid="9" avtor0="Gabrič Aleš"
@@ -30111,7 +30139,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Južnič Stanislav</author>
                <title>Ideologija razvoja</title>
-               <page>1186</page>
+               <page>1186-1200</page>
+               <cobiss>28811522</cobiss>
                <citedIn count="1">
                   <cit did="407" cid="4" avtor0="Južnič Stanislav" naslov0="Ideologija razvoja"
                      source="Teorija in praksa" pubPlace="Ljubljana" issue="10-11" page="1186"/>
@@ -30151,7 +30180,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Ferfila Bogomil</author>
                <title>Program je funkcija časa in razmer</title>
-               <page>123</page>
+               <page>122-124</page>
+               <cobiss>14268253</cobiss>
                <citedIn count="1">
                   <cit did="2285" cid="14" avtor0="Ferfila Bogomil"
                      naslov0="Program je funkcija časa in razmer" source="Teorija in praksa"
@@ -30295,9 +30325,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="9-10">
             <pubPart>
                <author>Bavcon Ljubo</author>
-               <title>Le narodnoosvobodilna vojna</title>
-               <title>ali tudi državljanska vojna</title>
-               <page>1005</page>
+               <title>Le narodnoosvobodilna - ali tudi državljanska vojna</title>
+               <page>1003-1006</page>
+               <cobiss>8640512</cobiss>
                <citedIn count="1">
                   <cit did="644" cid="9" avtor0="Bavcon Ljubo"
                      naslov0="Le narodnoosvobodilna vojna - ali tudi državljanska vojna"
@@ -30512,7 +30542,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Petrič Ernest</author>
                <title>Mednarodni odnosi v novi ustavi</title>
-               <page>268</page>
+               <page>262-271</page>
                <cobiss>4455261</cobiss>
                <citedIn count="1">
                   <cit did="2942" cid="10" avtor0="Petrič Ernest"
@@ -30597,7 +30627,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kavčič Stane</author>
                <title>Razvojne možnosti Slovenije</title>
-               <page>180</page>
+               <page>179-184</page>
+               <cobiss>24870749</cobiss>
                <citedIn count="1">
                   <cit did="823" cid="1" avtor0="Kavčič Stane" naslov0="Razvojne možnosti Slovenije"
                      source="Teorija in praksa" year="1968" volume="5" issue="2" page="180"/>
@@ -30629,7 +30660,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Klemenčič Vladimir</author>
                <title>Regionalni procesi in kmetijstvo Slovenije</title>
-               <page>606</page>
+               <page>604-614</page>
+               <cobiss>41871458</cobiss>
                <citedIn count="2">
                   <cit did="968" cid="5" avtor0="Klemenčič Vladimir"
                      naslov0="Regionalni procesi in kmetijstvo Slovenije" source="Teorija in praksa"
@@ -30755,7 +30787,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Rutar Marija</author>
                <title>Kulturno življenje v Tolminu od 1848 do druge svetovne vojne</title>
-               <page>59</page>
+               <page>55-63</page>
+               <cobiss>12527154</cobiss>
                <citedIn count="1">
                   <cit did="1315" cid="16" avtor0="Rutar Marija"
                      naslov0="Kulturno življenje v Tolminu od 1848 do druge svetovne vojne"
@@ -30996,7 +31029,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Druškovič Drago</author>
                <title>O etnografskih sestavinah Prežihove proze</title>
-               <page>125</page>
+               <page>125-131</page>
                <cobiss>63036416</cobiss>
                <citedIn count="1">
                   <cit did="3022" cid="53" avtor0="Druškovič Drago"
@@ -31097,7 +31130,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Smrdel Inja</author>
                <title>Trije  ovčarji</title>
-               <page>138</page>
+               <title>transhumanca na Pivki v času kapitalizma</title>
+               <page>137-146</page>
+               <cobiss>18016768</cobiss>
                <citedIn count="1">
                   <cit did="457" cid="14" avtor0="Smrdel Inja" naslov0="Trije  ovčarji"
                      source="Traditiones" year="1989" volume="18" page="138"/>
@@ -31244,7 +31279,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kastelic Jože</author>
                <title>Zlata koklja s piščeti</title>
-               <page>177</page>
+               <page>177-184</page>
+               <cobiss>13141037</cobiss>
                <citedIn count="1">
                   <cit did="1766" cid="8" avtor0="Kastelic Jože" naslov0="Zlata koklja s piščeti"
                      source="Traditiones" year="1976" volume="5-6" page="177"/>
@@ -31317,7 +31353,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Vilfan Sergij</author>
                <title>Komun v Črnotičah</title>
-               <page>155</page>
+               <page>155-172</page>
                <citedIn count="1">
                   <cit did="457" cid="6" avtor0="Vilfan Sergij" naslov0="Komun v Črnotičah"
                      source="Traditiones" pubPlace="Ljubljana" year="1972" volume="1" page="155"/>
@@ -31539,7 +31575,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Bahovec Igor</author>
                <title>Krščanska religioznost in družbeno nasilje</title>
-               <page>11</page>
+               <page>23-31</page>
+               <cobiss>23834717</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="314" avtor0="Bahovec Igor"
                      naslov0="Krščanska religioznost in družbeno nasilje" source="Tretji dan"
@@ -31609,7 +31646,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Grdina Igor</author>
                <title>Iz dnevnika Evgena Lampeta</title>
-               <page>33</page>
+               <page>31-33</page>
+               <cobiss>68146688</cobiss>
                <citedIn count="1">
                   <cit did="1304" cid="12" avtor0="Grdina Igor" naslov0="Iz dnevnika Evgena Lampeta"
                      source="Tretji dan" year="1996" issue="10" page="33"/>
@@ -31624,7 +31662,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Rebula Alojz</author>
                <title>Slovenska klasična gimnazija v Trstu</title>
                <title>ob 40-letnici obstoja</title>
-               <page>15</page>
+               <page>14-15</page>
+               <cobiss>112001280</cobiss>
                <citedIn count="1">
                   <cit did="3081" cid="15" avtor0="Rebula Alojz"
                      naslov0="Slovenska klasična gimnazija v Trstu: ob 40-letnici obstoja"
@@ -33095,7 +33134,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Bratun Zvonimir</author>
                <title>Učinek prostorskega dejavnika v osamosvojitveni vojni leta 1991</title>
-               <page>37</page>
+               <page>32-47</page>
+               <cobiss>233698048</cobiss>
                <citedIn count="1">
                   <cit did="3240" cid="9" avtor0="Bratun Zvonimir"
                      naslov0="Učinek prostorskega dejavnika v osamosvojitveni vojni leta 1991"
@@ -33239,8 +33279,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Koprivnikar Bogdan</author>
-               <title>Priprave za usposabljanje nabornikov v TO</title>
-               <title> na vojno 1991</title>
+               <title>Priprave za usposabljanje nabornikov v TO na vojno 1991</title>
                <page>71</page>
                <citedIn count="2">
                   <cit did="1529" cid="3" avtor0="Koprivnikar Bogdan"
@@ -33627,7 +33666,8 @@ Ljubljani in Teološko fakulteto</title>
                <title>Kompetence</title>
                <title>razmislek o razvoju koncepta splošne izobrazbe</title>
                <title>sklepno poročilo mednarodnega posveta o splošni izobrazbi</title>
-               <page>5</page>
+               <page>4-8</page>
+               <cobiss>26192994</cobiss>
                <citedIn count="1">
                   <cit did="273" cid="2" avtor0="Medveš Zdenko"
                      naslov0="Kompetence : razmislek o razvoju koncepta&#xA;splošne izobrazbe : sklepno poročilo mednarodnega posveta o splošni&#xA;izobrazbi"
@@ -33648,7 +33688,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Pušnik Mojca</author>
                <title>Od znanja h kompetencam</title>
-               <page>14</page>
+               <page>9-18</page>
+               <cobiss>699260</cobiss>
                <citedIn count="1">
                   <cit did="273" cid="4" avtor0="Pušnik Mojca" naslov0="Od znanja h kompetencam"
                      source="Vzgoja in izobraževanje" year="2004" volume="35" issue="3" page="14"/>
@@ -33656,8 +33697,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Razdevšek Pučko Cveta, Taštanovska Alenka, Plevnik Tatjana</author>
-               <title>Kakovost izobraževanja s poudarkom na izobraževanju učiteljev in drugih izobraževalcev</title>
-               <page>29</page>
+               <title>Kakovost izobraževanja s poudarkom na izobraževanju učiteljev in drugih izobražencev</title>
+               <page>27-31</page>
+               <cobiss>5810505</cobiss>
                <citedIn count="1">
                   <cit did="273" cid="10"
                      avtor0="Razdevšek Pučko Cveta, Taštanovska Alenka, Plevnik Tatjana"
@@ -33911,7 +33953,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Černej Janez</author>
                <title>Teharski grobovi</title>
-               <page>62</page>
+               <page>60-65</page>
+               <cobiss>108482048</cobiss>
                <citedIn count="1">
                   <cit did="1897" cid="57" avtor0="Černej Janez" naslov0="Teharski grobovi"
                      source="Zaveza" year="2002" issue="2" page="62"/>
@@ -33947,8 +33990,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="40">
             <pubPart>
                <author>Frančič-Berden Lojzka</author>
-               <title>Odhajali s o s smrtjo v očeh</title>
-               <page>70</page>
+               <title>Odhajali so s smrtjo v očeh</title>
+               <page>70-73</page>
+               <cobiss>112437248</cobiss>
                <citedIn count="1">
                   <cit did="146" cid="6" avtor0="Frančič-Berden Lojzka"
                      naslov0="Odhajali s o s smrtjo v očeh" source="Zaveza" year="2001" issue="40"
@@ -34033,7 +34077,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="26">
             <pubPart>
                <author>Stanovnik Justin</author>
-               <title>"Prispevki k zgodbi o slovenski neavtentičnosti"</title>
+               <title>Prispevki k zgodbi o slovenski neavtentičnosti</title>
                <page>2</page>
                <citedIn count="1">
                   <cit did="860" cid="164" avtor0="Stanovnik Justin"
@@ -34199,7 +34243,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Vrišer Sergej</author>
                <title>K problematiki baroka na Slovenjebistriškem</title>
-               <page>114</page>
+               <page>114-118</page>
+               <cobiss>70232064</cobiss>
                <citedIn count="1">
                   <cit did="1629" cid="6" avtor0="Vrišer Sergej"
                      naslov0="K problematiki baroka na Slovenjebistriškem"
@@ -34210,7 +34255,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Šerbelj Ferdo</author>
                <title>Kratka zgodovina grofov Attems</title>
-               <page>146</page>
+               <page>146-161</page>
                <cobiss>27610882</cobiss>
                <citedIn count="2">
                   <cit did="1629" cid="2" avtor0="Šerbelj Ferdo"
@@ -34443,7 +34488,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Hozjan Andrej</author>
                <title>Zapisniki uprave mesta Varaždina in slovenski prostor</title>
-               <page>223</page>
+               <page>221-225</page>
                <cobiss>6041603</cobiss>
                <citedIn count="1">
                   <cit did="869" cid="10" avtor0="Hozjan Andrej"
@@ -34709,7 +34754,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Debeljak Tine</author>
                <title>Slovenski narod in simboli njegove narodnosti in državnosti</title>
-               <page>166</page>
+               <page>132-172</page>
+               <cobiss>246022912</cobiss>
                <citedIn count="1">
                   <cit did="619" cid="24" avtor0="Debeljak Tine"
                      naslov0="Slovenski narod in simboli njegove narodnosti in državnosti"
@@ -34821,7 +34867,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Hren Ignacij</author>
-               <title>"moja srečanja z generalom Rupnikom"</title>
+               <title>Moja srečanja z generalom Rupnikom</title>
                <page>91</page>
                <citedIn count="1">
                   <cit did="860" cid="162" avtor0="Hren Ignacij"
@@ -36264,7 +36310,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Bufon Zmago</author>
                <title>Začetki slovenskega meščanstva v industrijski družbi</title>
-               <page>127</page>
+               <page>117-163</page>
+               <cobiss>14386738</cobiss>
                <citedIn count="1">
                   <cit did="1691" cid="9" avtor0="Bufon Zmago"
                      naslov0="Začetki slovenskega meščanstva v industrijski družbi"
