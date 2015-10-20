@@ -7637,7 +7637,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Jakhel Dregon Olga</author>
                <title>Prestrukturiranje celjskega gospodarstva</title>
-               <page>9 - 24</page>
+               <page>9-24</page>
                <citedIn count="1">
                   <cit did="94" cid="4" avtor0="Jakhel Dregon Olga"
                      naslov0="Prestrukturiranje celjskega gospodarstva" source="Celjski zbornik"
@@ -22073,7 +22073,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Kermavner Dušan</author>
                <title>Iz predzgodovine slovenskega planinskega društva</title>
-               <page>102-108, 153-159, 204-212</page>
+               <page>102-108</page>
+               <page>153-159</page>
+               <page>204-212</page>
                <citedIn count="1">
                   <cit did="3365" cid="155" avtor0="Kermavner Dušan"
                      naslov0="Iz predzgodovine slovenskega planinskega društva"
@@ -22115,7 +22117,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Škerlak Vladimir</author>
                <title>Zgodovina Alpinističnega kluba Skala</title>
-               <page>364-401, 701-709</page>
+               <page>364-401</page>
+               <page>701-709</page>
                <cobiss>12433822</cobiss>
                <citedIn count="2">
                   <cit did="3319" cid="10" avtor0="Škerlak Vladimir"
@@ -22341,7 +22344,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Zorzut Ludvik</author>
                <title>Pohorje (Smučarske poti)</title>
-               <page>45-48, 57-60</page>
+               <page>45-48</page>
+               <page>57-60</page>
                <citedIn count="1">
                   <cit did="3365" cid="385" avtor0="Zorzut Ludvik"
                      naslov0="Pohorje (Smučarske poti)" source="Planinski vestnik" year="1933"
@@ -24562,8 +24566,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Ferenc Mitja</author>
                <title>Kulturna dediščina kočevskih Nemcev</title>
-               <title>vzroki za njen propad</title>
-               <page>429, 584-593</page>
+               <title>njena usoda in vzroki za njen propad</title>
+               <page>420-429</page>
+               <page>584-593</page>
                <citedIn count="1">
                   <cit did="844" cid="41" avtor0="Ferenc Mitja"
                      naslov0="Kulturna dediščina kočevskih Nemcev - vzroki za njen propad"
@@ -27914,7 +27919,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Jeri Janko</author>
                <title>1918 in jadransko vprašanje</title>
-               <page>539-547, 708-718</page>
+               <page>539-547</page>
+               <page>708-718</page>
+               <cobiss>18447104</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="88" avtor0="Jeri Janko" naslov0="1918 in jadransko vprašanje"
                      source="Sodobnost" year="1990" volume="XXXVIII" issue="5, 6/7"
@@ -27941,7 +27948,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Jeri Janko</author>
                <title>1918 in jadransko vprašanje</title>
-               <page>531-543, 664-680</page>
+               <page>531-543</page>
+               <page>664-680</page>
+               <cobiss>13675264</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="87" avtor0="Jeri Janko" naslov0="1918 in jadransko vprašanje"
                      source="Sodobnost" year="1989" volume="XXXVII" issue="5, 6/7"
@@ -28347,7 +28356,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Jurčec Ruda</author>
                <title>Realizem v slovenski politiki</title>
-               <page>243-244, 247</page>
+               <page>243-247</page>
                <citedIn count="1">
                   <cit did="291" cid="39" avtor0="Jurčec Ruda"
                      naslov0="Realizem v slovenski politiki" source="Sodobnost" year="1934"
@@ -28809,7 +28818,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Hojan Tatjana</author>
                <title>Nemirni učitelj Maks Ivanetič (1856-1910)</title>
-               <page>109 - 116</page>
+               <page>109-116</page>
+               <cobiss>30637357</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="27" avtor0="Hojan Tatjana"
                      naslov0="Nemirni učitelj Maks Ivanetič (1856-1910)" source="Šolska kronika"
@@ -33559,7 +33569,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Slapar Janez</author>
                <title>Razvoj Teritorialne obrambe v Sloveniji</title>
-               <page>82-85, 94-109</page>
+               <page>82-109</page>
                <citedIn count="1">
                   <cit did="825" cid="13" avtor0="Slapar Janez"
                      naslov0="Razvoj Teritorialne obrambe v Sloveniji"
@@ -35540,7 +35550,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Pirkovič-Kocbek Jelka</author>
                <title>Oblikovni značaj Novega mesta</title>
-               <page>55, 57 ...</page>
+               <page>55-66</page>
+               <cobiss>1821635</cobiss>
                <citedIn count="1">
                   <cit did="1298" cid="30" avtor0="Pirkovič-Kocbek Jelka"
                      naslov0="Oblikovni značaj Novega mesta"
@@ -35565,7 +35576,7 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Lipoglavšek Marjana</author>
                <title>Iluzionistično slikarstvo 17. stoletja na Slovenskem</title>
-               <page>87, 88 ...</page>
+               <page>73-91</page>
                <citedIn count="1">
                   <cit did="1298" cid="91" avtor0="Lipoglavšek Marjana"
                      naslov0="Iluzionistično slikarstvo 17. stoletja na Slovenskem"
