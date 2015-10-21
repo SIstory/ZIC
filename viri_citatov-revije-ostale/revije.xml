@@ -2080,7 +2080,8 @@
             <pubPart>
                <author>Kramberger Taja</author>
                <title>Pečnice z ljubljanskega gradu</title>
-               <title>Ljubljanski grad, pečnice.</title>
+               <title>Ljubljanski grad</title>
+               <title>pečnice</title>
                <page>69-137</page>
                <cobiss>21772386</cobiss>
                <citedIn count="1">
@@ -2104,8 +2105,10 @@
          <issue>
             <pubPart>
                <author>Milavec Tina</author>
-               <title>Pregled raziskav zgodnjega srednjega veka v Sloveniji</title>
+               <title>A review of research into the Early Middle Ages in Slovenia</title>
+               <addTitle>Pregled raziskav zgodnjega srednjega veka v Sloveniji</addTitle>
                <page>249-270</page>
+               <cobiss>30737197</cobiss>
                <citedIn count="1">
                   <cit did="2534" cid="26" avtor0="Milavec Tina"
                      naslov0="Pregled raziskav zgodnjega srednjega veka v Sloveniji"
@@ -2119,6 +2122,8 @@
             <pubPart>
                <author>Gaspari A., Erič M.</author>
                <title>Bronastodobno kolišče Mali Otavnik pri Bistri na Ljubljanskem barju</title>
+               <page>57-89</page>
+               <cobiss>28885549</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="13" avtor0="Gaspari A., Erič M."
                      naslov0="Bronastodobno kolišče Mali Otavnik pri Bistri na Ljubljanskem barju"
@@ -2132,9 +2137,10 @@
          <issue>
             <pubPart>
                <author>Gaspari A. et al.</author>
-               <title>Antični pristanški kompleks v Fizinah pri Portorožu</title>
+               <title>Antični pristaniški kompleks v Fizinah pri Portorožu</title>
                <title>zaščitne raziskave leta 1998</title>
                <page>167-218</page>
+               <cobiss>27351085</cobiss>
                <citedIn count="1">
                   <cit did="1946" cid="10" avtor0="Gaspari A. et al."
                      naslov0="Antični pristanški kompleks v Fizinah pri Portorožu - zaščitne raziskave leta 1998"
@@ -2201,8 +2207,9 @@
             <pubPart>
                <author>Guštin M., Preložnik A.</author>
                <title>Sajevce</title>
-               <title>Železno-dobno gomilno grobisce ob Krki</title>
+               <title>Železnodobno gomilno grobisce ob Krki</title>
                <page>113-168</page>
+               <cobiss>24489773</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="7" avtor0="Guštin M., Preložnik A."
                      naslov0="Sajevce. Železno-dobno gomilno grobisce ob Krki"
@@ -2224,6 +2231,7 @@
                <title>Iška Loka</title>
                <title>bronastodobno naselje na obrobju Ljubljanskega barja</title>
                <page>73-89</page>
+               <cobiss>24490541</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="34" avtor0="Velušček A."
                      naslov0="Iška Loka - bronastodobno naselje na obrobju Ljubljanskega barja"
@@ -2233,9 +2241,10 @@
             </pubPart>
             <pubPart>
                <author>Štular B.</author>
-               <title>Lončenina s kamniskega Malega gradu</title>
+               <title>Lončenina s kamniškega Malega gradu</title>
                <title>Izkopavanja 1992</title>
                <page>435-452</page>
+               <cobiss>24487469</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="33" avtor0="Štular B."
                      naslov0="Lončenina s kamniskega Malega gradu. Izkopavanja 1992"
@@ -2245,8 +2254,9 @@
             </pubPart>
             <pubPart>
                <author>Žerjal Tina</author>
-               <title>Sigilata s Školarič pri Spodnjih Škofijah</title>
+               <title>Sigilata s Školaric pri Spodnjih Škofijah</title>
                <page>263-292</page>
+               <cobiss>24488493</cobiss>
                <citedIn count="1">
                   <cit did="2787" cid="46" avtor0="Žerjal Tina"
                      naslov0="Sigilata s Školarič pri Spodnjih Škofijah" source="Arheološki vestnik"
@@ -2285,6 +2295,7 @@
                <title>Skupna najdba keltskih in rimskih novcev v reki Ljubljanici</title>
                <title>Dobrinos h kronologiji novcev plemena Tavriskov</title>
                <page>381-395</page>
+               <cobiss>21683501</cobiss>
                <citedIn count="1">
                   <cit did="1939" cid="49" avtor0="Kos P., Šemrov A."
                      naslov0="Skupna najdba keltskih in rimskih novcev v reki Ljubljanici. Dobrinos h kronologiji novcev plemena Tavriskov"
@@ -2296,6 +2307,7 @@
                <author>Miškec A.</author>
                <title>The Early Romanization of the Southeastern Alpine Region in the Light of Numismatic Finds</title>
                <page>369-379</page>
+               <cobiss>21683245</cobiss>
                <citedIn count="1">
                   <cit did="1939" cid="58" avtor0="Miškec A."
                      naslov0="The Early Romanization of the Southeastern Alpine Region in the Light of Numismatic Finds"
@@ -2308,6 +2320,7 @@
                <title>Založnica pri Kamniku pod Krimom na Ljubljanskem barju</title>
                <title>naselbina kulture Somogyvar-Vinkovci</title>
                <page>123-158</page>
+               <cobiss>21681453</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="35" avtor0="Velušček A., Čufar K."
                      naslov0="Založnica pri Kamniku pod Krimom na Ljubljanskem barju - naselbina kulture Somogyvar-Vinkovci"
@@ -2333,6 +2346,7 @@
                <author>Pleterski Andrej, Belak Mateja</author>
                <title>Grobovi s Puščave nad Starim trgom pri Slovenj Gradcu</title>
                <page>233-300</page>
+               <cobiss>20280109</cobiss>
                <citedIn count="1">
                   <cit did="2233" cid="48" avtor0="Pleterski Andrej, Belak Mateja"
                      naslov0="Grobovi s Puščave nad Starim trgom pri Slovenj Gradcu"
@@ -2354,6 +2368,7 @@
                <author>Šašel Kos Marjeta</author>
                <title>The boundary stone between Aquileia and Emona</title>
                <page>373-382</page>
+               <cobiss>20280621</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="1004" avtor0="Šašel Kos Marjeta"
                      naslov0="The boundary stone between Aquileia and Emona"
@@ -2406,6 +2421,7 @@
                <author>Dular Janez</author>
                <title>Neolitska in eneolitska višinska naselja v osrednji Sloveniji</title>
                <page>89-106</page>
+               <cobiss>18934573</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="31" avtor0="Dular Janez"
                      naslov0="Neolitska in eneolitska višinska naselja v osrednji Sloveniji"
@@ -2438,8 +2454,9 @@
             </pubPart>
             <pubPart>
                <author>Strmčnik Gulič M.</author>
-               <title>Nov podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja</title>
-               <page>117-121</page>
+               <title>Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja</title>
+               <page>117-130</page>
+               <cobiss>18934829</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="65" avtor0="Strmčnik Gulič M."
                      naslov0="Nov podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja"
@@ -2448,8 +2465,9 @@
             </pubPart>
             <pubPart>
                <author>Svoljšak D.</author>
-               <title>Zametki urbanizma v zeležnodobni naselbini na Mostu na  Soči</title>
+               <title>Zametki urbanizma v železnodobni naselbini na Mostu na Soči</title>
                <page>131-138</page>
+               <cobiss>18927405</cobiss>
                <citedIn count="1">
                   <cit did="1942" cid="43" avtor0="Svoljšak D."
                      naslov0="Zametki urbanizma v zeležnodobni naselbini na Mostu na  Soči"
@@ -2464,7 +2482,8 @@
          <issue>
             <pubPart>
                <author>Pohar V.</author>
-               <title>Franc Osole (1920-2000).</title>
+               <title>Franc Osole</title>
+               <title>(1920-2000)</title>
                <page>257-258</page>
                <citedIn count="1">
                   <cit did="1915" cid="37" avtor0="Pohar V." naslov0="Franc Osole (1920-2000)."
@@ -2475,6 +2494,7 @@
                <author>Ravnikar Sabina</author>
                <title>Podoba moža na blejski zaponki</title>
                <page>225-232</page>
+               <cobiss>17141293</cobiss>
                <citedIn count="1">
                   <cit did="2237" cid="22" avtor0="Ravnikar Sabina"
                      naslov0="Podoba moža na blejski zaponki" source="Arheološki vestnik"
@@ -2530,8 +2550,10 @@
             </pubPart>
             <pubPart>
                <author>Gabrovec S.</author>
-               <title>50 let arheologije starejše železne dobe v Sloveniji</title>
+               <title>50 Jahre Archäologie der älteren Eisenzeit in Slowenien</title>
+               <addTitle>50 let arheologije starejše železne dobe v Sloveniji</addTitle>
                <page>145-189</page>
+               <cobiss>13226541</cobiss>
                <citedIn count="1">
                   <cit did="421" cid="13" avtor0="Gabrovec S."
                      naslov0="50 let arheologije starejše železne dobe v Sloveniji"
@@ -2554,7 +2576,9 @@
             <pubPart>
                <author>Teržan B.</author>
                <title>An Outline of the Urnfield Culture Period in Slovenia</title>
+               <addTitle>Oris obdobja kulture žarnih grobišč na Slovenskem</addTitle>
                <page>97-143</page>
+               <cobiss>13224493</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="73" avtor0="Teržan B."
                      naslov0="An Outline of the Urnfield Culture Period in Slovenia"
@@ -2563,8 +2587,10 @@
             </pubPart>
             <pubPart>
                <author>Velušček A.</author>
-               <title>Neolilhie and Eneolithic Investigations in Slovenia</title>
+               <title>Neolithic and Eneolithic Investigations in Slovenia</title>
+               <addTitle>Neolitske in eneolitske raziskave v Sloveniji</addTitle>
                <page>59-79</page>
+               <cobiss>13221933</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="79" avtor0="Velušček A."
                      naslov0="Neolilhie and Eneolithic Investigations in Slovenia"
@@ -2579,8 +2605,10 @@
          <issue>
             <pubPart>
                <author>Brodar M.</author>
-               <title>Le Paleolithique en ancienne Yougoslavie</title>
+               <title>Anta Montet-White</title>
+               <title>Le Paleolithique en ancienne Yougoslavie, Préhistoire d'Europe 4, Grenoble 1996</title>
                <page>395-400</page>
+               <cobiss>8645677</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="6" avtor0="Brodar M."
                      naslov0="Le Paleolithique en ancienne Yougoslavie" source="Arheološki vestnik"
@@ -2590,7 +2618,9 @@
             <pubPart>
                <author>Gabrovec S.</author>
                <title>50 Jahre des Instituts fur Archäologie</title>
+               <title>festrede anläßlich des 50jährigen Jubiläums des Instituts für Archäologie beim Zentrum für Wissenschaft und Forschung der Slowenischen Akademie der Wissenschaften und Künste am 20. November 1997</title>
                <page>14-16</page>
+               <cobiss>103483392</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="15" avtor0="Gabrovec S."
                      naslov0="50 Jahre des Instituts fur Archäologie" source="Arheološki vestnik"
@@ -2613,8 +2643,10 @@
             </pubPart>
             <pubPart>
                <author>Mussini E.</author>
-               <title>La rappresentazione del dio fluviale Acheloo in area slovena</title>
+               <title>La rappresentazione del dio fluviale Acheloo in area Slovena</title>
+               <addTitle>Upodobitve vodnega božanstva Aheloja v Sloveniji</addTitle>
                <page>261-270</page>
+               <cobiss>8672813</cobiss>
                <citedIn count="1">
                   <cit did="1943" cid="17" avtor0="Mussini E."
                      naslov0="La rappresentazione del dio fluviale Acheloo in area slovena"
@@ -2624,7 +2656,9 @@
             <pubPart>
                <author>Ogrin M.</author>
                <title>Trortasta fibula v Sloveniji</title>
+               <addTitle>Die Dreiknopffibel in Slowenien</addTitle>
                <page>101-132</page>
+               <cobiss>8636973</cobiss>
                <citedIn count="1">
                   <cit did="1953" cid="18" avtor0="Ogrin M." naslov0="Trortasta fibula v Sloveniji"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1998" volume="49"
@@ -2638,8 +2672,10 @@
          <issue>
             <pubPart>
                <author>Bavdek A.</author>
-               <title>Fundorte aus spätrepublikanischer und frühromischer Zeit in Razdrto am Fuße des Nanos (Najdišči iz poznorepublikanskega in zgodnjerimskega časa na Razdrtem pod Nanosom)</title>
+               <title>Fundorte aus spätrepublikanischer und frührömischer Zeit in Razdrto am Fuße des Nanos</title>
+               <addTitle>Najdišči iz poznorepublikanskega in zgodnjerimskega časa na Razdrtem pod Nanosom</addTitle>
                <page>297-306</page>
+               <cobiss>4616749</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="62" avtor0="Bavdek A."
                      naslov0="Fundorte aus spätrepublikanischer und frühromischer Zeit in Razdrto am Fuße des Nanos (Najdišči iz poznorepublikanskega in zgodnjerimskega časa na Razdrtem pod Nanosom)"
@@ -2677,6 +2713,7 @@
                <author>Turk I. et al.</author>
                <title>45.000 let stare fosilne dlake jamskega medveda iz najdišča Divje babe I v Sloveniji</title>
                <page>39-51</page>
+               <cobiss>60182016</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="42" avtor0="Turk I. et al."
                      naslov0="45.000 let stare fosilne dlake jamskega medveda iz najdišča Divje babe I v Sloveniji"
@@ -2692,6 +2729,8 @@
             <pubPart>
                <author>Bezecky Tamás</author>
                <title>Amphorae from the forum of Emona</title>
+               <page>81-89</page>
+               <cobiss>2141997</cobiss>
                <citedIn count="1">
                   <cit did="725" cid="2" avtor0="Bezecky Tamás"
                      naslov0="Amphorae from the forum of Emona" source="Arheološki vestnik"
@@ -2719,8 +2758,9 @@
                <author>Kirigin B</author>
                <author>Kirigin B.</author>
                <title>Grško-italske amfore na Jadranu</title>
-               <addTitle>(Greco-Italic Amphorae in the Adriatic)</addTitle>
+               <addTitle>Greco-Italic Amphorae in the Adriatic</addTitle>
                <page>15-24</page>
+               <cobiss>2137389</cobiss>
                <citedIn count="2">
                   <cit did="725" cid="25" avtor0="Kirigin B"
                      naslov0="Grčko-italske amfore na Jadranu" source="Arheološki vestnik"
@@ -2734,7 +2774,8 @@
                <author>Vičič B.</author>
                <title>Zgodnjerimsko naselje pod Grajskim gričem v Ljubljani</title>
                <title>Gornji trg 30, Stari trg 17 in 32</title>
-               <page>25-80</page>
+               <page>25-53</page>
+               <cobiss>2141741</cobiss>
                <citedIn count="2">
                   <cit did="1748" cid="1071" avtor0="Vičič B."
                      naslov0="Zgodnjerimsko naselje pod Grajskim gricem v Ljubljani. Gornji trg 30, Stari trg 17 in 32"
@@ -2766,6 +2807,7 @@
                <title>Podmol pri Kastelcu</title>
                <title>novo večplastno arheološko najdišče na Krasu, Slovenija</title>
                <page>45-96</page>
+               <cobiss>1674797</cobiss>
                <citedIn count="1">
                   <cit did="1950" cid="58" avtor0="Turk I. et al."
                      naslov0="Podmol pri Kastelcu - novo večplastno arheološko najdišče na Krasu, Slovenija"
@@ -2776,7 +2818,9 @@
             <pubPart>
                <author>Turk I., Verbič T.</author>
                <title>Uvodna razprava za posodobitev kronologije mlajšega pleistocena v Sloveniji</title>
+               <title>Starejši in srednji würm</title>
                <page>29-44</page>
+               <cobiss>1674541</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="44" avtor0="Turk I., Verbič T."
                      naslov0="Uvodna razprava za posodobitev kronologije mlajšega pleistocena v Sloveniji"
@@ -2804,6 +2848,7 @@
                <author>evremov Blagoj, Marjana Tomanič Jevremov, Slavko Ciglenečki</author>
                <title>Poznorimsko grobišče na Ptujskem gradu</title>
                <page>223-234</page>
+               <cobiss>1687085</cobiss>
                <citedIn count="1">
                   <cit did="2532" cid="24"
                      avtor0="evremov Blagoj, Marjana Tomanič Jevremov, Slavko Ciglenečki"
@@ -2813,8 +2858,10 @@
             </pubPart>
             <pubPart>
                <author>Šašel Kos Marjeta</author>
-               <title>Cadmus and Harmonia in Illyria (Kadmos in Harmonija v Iliriji)</title>
+               <title>Cadmus and Harmonia in Illyria</title>
+               <addTitle>Kadmos in Harmonija v Iliriji</addTitle>
                <page>113-136</page>
+               <cobiss>1676845</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="991" avtor0="Šašel Kos Marjeta"
                      naslov0="Cadmus and Harmonia in Illyria (Kadmos in Harmonija v Iliriji)"
@@ -2829,8 +2876,10 @@
          <issue>
             <pubPart>
                <author>Brodar M.</author>
-               <title>Mezolitsko najdišče Pod Crmukljo pri Sembijah (Die mesolitisehe Fundort Pod Crmukljo bei Sembije)</title>
+               <title>Mezolitsko najdišče Pod Crmukljo pri Sembijah</title>
+               <addTitle>Die mesolitisehe Fundort Pod Crmukljo bei Sembije</addTitle>
                <page>23-36</page>
+               <cobiss>839213</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="9" avtor0="Brodar M."
                      naslov0="Mezolitsko najdišče Pod Crmukljo pri Sembijah (Die mesolitisehe Fundort Pod Crmukljo bei Sembije)"
@@ -2839,8 +2888,10 @@
             </pubPart>
             <pubPart>
                <author>Dular J., Križ B., Svoljšak, D., Tecco Hvala S.</author>
-               <title>Utrjena prazgodovinska naselja v Mirnski in Temeniški dolini</title>
+               <title>Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini</title>
+               <addTitle>Befestigte prähistorische Siedlungen in der Mirenska dolina und der Temeniška dolina</addTitle>
                <page>65-198</page>
+               <cobiss>393517</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="5" avtor0="Dular J., Križ B., Svoljšak, D., Tecco Hvala S."
                      naslov0="Utrjena prazgodovinska naselja v Mirnski in Temeniški dolini"
@@ -2850,8 +2901,9 @@
             </pubPart>
             <pubPart>
                <author>Dular Janez</author>
-               <title>Zgodovina raziskovanj železnodobnih naselij in poselitve v osrednji Sloveniji</title>
+               <title>Zgodovina raziskovanj železnodobnih naselij in poselitev v osrednji Sloveniji</title>
                <page>37-52</page>
+               <cobiss>840493</cobiss>
                <citedIn count="2">
                   <cit did="2585" cid="10" avtor0="Dular Janez"
                      naslov0="Zgodovina raziskovanj železnodobnih naselij in poselitve v osrednji Sloveniji"
@@ -2864,7 +2916,9 @@
             <pubPart>
                <author>Ferluga Jadran</author>
                <title>L'Istria tra Giustiniano e Carlo Magno</title>
+               <addTitle>Istra med Justinjanom in Karlom Velikim</addTitle>
                <page>175-190</page>
+               <cobiss>843565</cobiss>
                <citedIn count="2">
                   <cit did="765" cid="11" avtor0="Ferluga Jadran"
                      naslov0="L'Istria tra Giustiniano e Carlo Magno" source="Arheološki vestnik"
@@ -2878,7 +2932,9 @@
                <author>Margetic L.</author>
                <author>Margetić Lujo</author>
                <title>Neka pitanja boravka Langobarda u Sloveniji</title>
+               <addTitle>Note su alcune questioni del soggiorno dei Langobardi nell'odierna Slovenia</addTitle>
                <page>149-173</page>
+               <cobiss>843309</cobiss>
                <citedIn count="2">
                   <cit did="751" cid="31" avtor0="Margetic L."
                      naslov0="Neka pitanja boravka Langobarda u Sloveniji"
@@ -2908,7 +2964,9 @@
             <pubPart>
                <author>Vidrih Perko V.</author>
                <title>Afriška sigilata v Emoni</title>
+               <addTitle>Terra sigillata africana ad Emona</addTitle>
                <page>93-104</page>
+               <cobiss>841517</cobiss>
                <citedIn count="1">
                   <cit did="2069" cid="46" avtor0="Vidrih Perko V."
                      naslov0="Afriška sigilata v Emoni" source="Arheološki vestnik" year="1992"
@@ -2926,6 +2984,7 @@
                <author>Dular Janez et al.</author>
                <title>Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini</title>
                <page>65-205</page>
+               <cobiss>393517</cobiss>
                <citedIn count="2">
                   <cit did="381" cid="7"
                      avtor0="Dular Janez, Križ Borut, Svoljšak Drago, Tecco Hvala Sneža"
@@ -2939,9 +2998,11 @@
             </pubPart>
             <pubPart>
                <author>Oman D.</author>
-               <title>Brinjeva gora</title>
-               <title>1953 (Obdelava prazgodovinske keramike)</title>
+               <title>Brinjeva gora - 1953</title>
+               <title>Obdelava prazgodovinske keramike</title>
+               <addTitle>Brinjeva gora near Slovenske Konjice, excavation 1953</addTitle>
                <page>144-216</page>
+               <cobiss>18173485</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="24" avtor0="Oman D."
                      naslov0="Brinjeva gora - 1953 (Obdelava prazgodovinske keramike)"
@@ -2971,6 +3032,7 @@
                <author>Marušić B.</author>
                <title>Še o istrski Kisi (Cissa) in kesenskem škofu</title>
                <page>403-429</page>
+               <cobiss>2401801</cobiss>
                <citedIn count="1">
                   <cit did="2171" cid="47" avtor0="Marušić B."
                      naslov0="Še o istrski Kisi (Cissa) in kesenskem škofu"
@@ -2981,6 +3043,7 @@
                <author>Strmčnik Gulič M.</author>
                <title>Podoba antične poselitve med vzhodnim Pohorjem in Dravo</title>
                <page>135-146</page>
+               <cobiss>24916482</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="12" avtor0="Strmčnik Gulič M."
                      naslov0="Podoba antične poselitve med vzhodnim Pohorjem in Dravo"
@@ -2992,6 +3055,8 @@
                <author>Teržan B.</author>
                <title>Polmesečaste fibule</title>
                <title>O kulturnih povezavah med Egejo in Caput Adriae</title>
+               <page>49-88</page>
+               <cobiss>24911874</cobiss>
                <citedIn count="1">
                   <cit did="725" cid="48" avtor0="Teržan B."
                      naslov0="Polmesečaste fibule: O kulturnih povezavah med Egejo in Caput Adriae"
@@ -3006,7 +3071,9 @@
             <pubPart>
                <author>Buršić Matijašić K.</author>
                <title>Gradina Vrčin u okviru brončanog doba Istre</title>
+               <addTitle>Der Ringwall Vrčin im Rahmen der Bronzezeit Istriens</addTitle>
                <page>475-494</page>
+               <cobiss>6450434</cobiss>
                <citedIn count="1">
                   <cit did="1988" cid="5" avtor0="Buršić Matijašić K."
                      naslov0="Gradina Vrčin u okviru brončanog doba Istre"
@@ -3022,7 +3089,8 @@
             <pubPart>
                <author>Bressan F.</author>
                <title>Le Valli del Natisone e la Kovačeva jama di Robič</title>
-               <page>519-528</page>
+               <page>519-532</page>
+               <cobiss>6453506</cobiss>
                <citedIn count="1">
                   <cit did="1950" cid="6" avtor0="Bressan F."
                      naslov0="Le Valli del Natisone e la Kovačeva jama di Robič"
@@ -3034,6 +3102,7 @@
                <author>Lamut B.</author>
                <title>Kronološka skica prazgodovinske naselbine v Ormožu</title>
                <page>235-276</page>
+               <cobiss>6444802</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="20" avtor0="Lamut B."
                      naslov0="Kronološka skica prazgodovinske naselbine v Ormožu"
@@ -3043,8 +3112,9 @@
             </pubPart>
             <pubPart>
                <author>Potočnik M.</author>
-               <title>Bakreno-  in  bronastodobne podvodne najdbe iz Bistre in Ljubljanice na Ljubljanskem barju</title>
+               <title>Bakreno- in bronastodobne najdbe iz Bistre in Ljubljanice na Ljubljanskem barju</title>
                <page>387-400</page>
+               <cobiss>6448642</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="28" avtor0="Potočnik M."
                      naslov0="Bakreno-  in  bronastodobne podvodne najdbe iz Bistre in Ljubljanice na Ljubljanskem barju"
@@ -3055,7 +3125,8 @@
             <pubPart>
                <author>Pus I.</author>
                <title>Bronastodobna naselbina pri Žlebiču</title>
-               <page>345-366</page>
+               <page>345-357</page>
+               <cobiss>6447874</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="29" avtor0="Pus I."
                      naslov0="Bronastodobna naselbina pri Žlebiču" source="Arheološki vestnik"
@@ -3065,7 +3136,9 @@
             <pubPart>
                <author>Svoljšak D.</author>
                <title>Posočje v bronasti dobi</title>
+               <addTitle>Das Sočagebiet in der Bronzezei</addTitle>
                <page>367-386</page>
+               <cobiss>6448386</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="30" avtor0="Svoljšak D." naslov0="Posočje v bronasti dobi"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1988" volume="39-40"
@@ -3080,8 +3153,9 @@
             <pubPart>
                <author>Marušič Branko</author>
                <title>Skeletni grobovi v Bujah in Buzetu</title>
-               <title> donesek k raziskovanju zgodnjega srednjega veka v Istri</title>
+               <title>donesek k raziskovanju zgodnjega srednjega veka v Istri</title>
                <page>331-362</page>
+               <cobiss>12366381</cobiss>
                <citedIn count="1">
                   <cit did="751" cid="33" avtor0="Marušič Branko"
                      naslov0="Skeletni grobovi v Bujah in Buzetu :  donesek k raziskovanju zgodnjega srednjega veka v Istri"
@@ -3091,8 +3165,10 @@
             </pubPart>
             <pubPart>
                <author>Mirnik I.</author>
-               <title>Circulation Of North African Etc. Currency In lllyricum</title>
+               <title>Circulation of North African etc. currency in Illyricum</title>
+               <addTitle>Opticaj sjevernoafričkog itd. novca u Iliriku</addTitle>
                <page>369-392</page>
+               <cobiss>12366893</cobiss>
                <citedIn count="1">
                   <cit did="1939" cid="56" avtor0="Mirnik I."
                      naslov0="Circulation Of North African Etc. Currency In lllyricum"
@@ -3104,6 +3180,7 @@
                <author>Pleterski Andrej</author>
                <title>Sebenjski zaklad</title>
                <page>237-280</page>
+               <cobiss>7186180</cobiss>
                <citedIn count="1">
                   <cit did="2787" cid="36" avtor0="Pleterski Andrej" naslov0="Sebenjski zaklad"
                      source="Arheološki vestnik" year="1987" volume="38" page="237-280"/>
@@ -3114,6 +3191,7 @@
                <title>Claus Dobiat, Das Hallstattzeitliche Gräberfeld von Kleinklein und seine Keramik</title>
                <title>Schild von Steier, Beiheft 1, Graz 1980 (diskusija)</title>
                <page>413-433</page>
+               <cobiss>19607085</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="19" avtor0="Teržan B."
                      naslov0="Claus Dobiat, Das Hallstattzeitliche Gräberfeld von Kleinklein und seine Keramik. Schild von Steier, Beiheft 1, Graz 1980 (diskusija)"
@@ -3128,8 +3206,9 @@
          <issue>
             <pubPart>
                <author>Dular J.</author>
-               <title>Ob petišestdesetletnici Mitje Brodarja</title>
+               <title>Ob petinšestdesetletnici Mitje Brodarja</title>
                <page>13-16</page>
+               <cobiss>6992429</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="13" avtor0="Dular J."
                      naslov0="Ob petišestdesetletnici Mitje Brodarja" source="Arheološki vestnik"
@@ -3156,6 +3235,7 @@
                <author>Brodar M.</author>
                <title>Iskanje novih paleolitskih postaj v letih 1971-1982</title>
                <page>25-38</page>
+               <cobiss>6903341</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="5" avtor0="Brodar M."
                      naslov0="Iskanje novih paleolitskih postaj v letih 1971-1982"
@@ -3166,7 +3246,9 @@
             <pubPart>
                <author>Pleterski Andrej</author>
                <title>Karantanski Slovani in Neslovani</title>
+               <addTitle>Die karantanischen Slawen und die Nichtslawen</addTitle>
                <page>351-357</page>
+               <cobiss>7208708</cobiss>
                <citedIn count="1">
                   <cit did="751" cid="47" avtor0="Pleterski Andrej"
                      naslov0="Karantanski Slovani in Neslovani" source="Arheološki vestnik"
@@ -3176,7 +3258,9 @@
             <pubPart>
                <author>Teržan Biba</author>
                <title>Poskus rekonstrukcije halštatske družbene strukture v dolenjskem kulturnem krogu</title>
+               <addTitle>Ein Rekonstruktionsversuch der Gesellschaftsstruktur im Dolenjsko - Kreis der Hallstattkultur</addTitle>
                <page>77-105</page>
+               <cobiss>7693357</cobiss>
                <citedIn count="1">
                   <cit did="2266" cid="31" avtor0="Teržan Biba"
                      naslov0="Poskus rekonstrukcije halštatske družbene strukture v dolenjskem kulturnem krogu"
@@ -3185,9 +3269,11 @@
             </pubPart>
             <pubPart>
                <author>Vuga Davorin</author>
-               <title>Moski grob 1885 z vrta Narodnega muzeja v Ljubljani</title>
+               <title>Moški grob</title>
+               <title>1885 z vrta Narodnega muzeja v Ljubljani</title>
                <title>Poznorimske in barbarske ledvičaste pasne spone z ovalnim okovom</title>
                <page>237-254</page>
+               <cobiss>6904621</cobiss>
                <citedIn count="1">
                   <cit did="2532" cid="50" avtor0="Vuga Davorin"
                      naslov0="Moski grob 1885 z vrta Narodnega muzeja v Ljubljani. Poznorimske in barbarske ledvičaste pasne spone z ovalnim okovom"
@@ -3212,8 +3298,10 @@
          <issue>
             <pubPart>
                <author>Knific Timotej, Svoljšak Drago</author>
-               <title>Grobovi langobardskih vojščakov iz Solkana (Nove Gorice)</title>
+               <title>Grobovi langobardskih vojščakov iz Solkana</title>
+               <title>Nove Gorice</title>
                <page>277-292</page>
+               <cobiss>6898989</cobiss>
                <citedIn count="1">
                   <cit did="751" cid="20" avtor0="Knific Timotej, Svoljšak Drago"
                      naslov0="Grobovi langobardskih vojščakov iz Solkana (Nove Gorice)"
@@ -3223,8 +3311,9 @@
             </pubPart>
             <pubPart>
                <author>Teržan B.</author>
-               <title>O jantarju z Debelega vrba nad Predgradom</title>
+               <title>O jantarju z Debelega vrha nad Predgradom</title>
                <page>110-118</page>
+               <cobiss>7691821</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="72" avtor0="Teržan B."
                      naslov0="O jantarju z Debelega vrba nad Predgradom" source="Arheološki vestnik"
@@ -3241,6 +3330,7 @@
                <author>Dular Janez</author>
                <title>Gomilno grobišče Loki pri Črnomlju</title>
                <page>219-244</page>
+               <cobiss>6895405</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="27" avtor0="Dular Janez"
                      naslov0="Gomilno grobišče Loki pri Črnomlju" source="Arheološki vestnik"
@@ -3249,7 +3339,10 @@
             </pubPart>
             <pubPart>
                <author>Korošec P.</author>
-               <title>Nekaj zanimivih kosov steklenih posod iz Rabeljčje vasi v Ptuju</title>
+               <title>Nekaj zanimivih kosov steklenih posod iz Rabelčje vasi v Ptuju</title>
+               <addTitle>Einige interessante Fragmente von Glasgefässen aus Rabelčja vas - Ptuj</addTitle>
+               <page>13-32</page>
+               <cobiss>6822701</cobiss>
                <citedIn count="1">
                   <cit did="2069" cid="18" avtor0="Korošec P."
                      naslov0="Nekaj zanimivih kosov steklenih posod iz Rabeljčje vasi v Ptuju"
@@ -3259,7 +3352,9 @@
             <pubPart>
                <author>Pahič Stanko</author>
                <title>Die Erforschung der Römerstrassen im nordostlichen Slowenien</title>
+               <addTitle>Raziskovanje rimskih cest v severovzhodni Sloveniji</addTitle>
                <page>247-287</page>
+               <cobiss>6895661</cobiss>
                <citedIn count="1">
                   <cit did="2233" cid="44" avtor0="Pahič Stanko"
                      naslov0="Die Erforschung der Römerstrassen im nordostlichen Slowenien"
@@ -3275,6 +3370,7 @@
                <author>Boltin Tome Elica</author>
                <title>Elementi ketlaške kulturne skupine na grobišču v Predloki</title>
                <page>600-606</page>
+               <cobiss>18165549</cobiss>
                <citedIn count="1">
                   <cit did="765" cid="1" avtor0="Boltin Tome Elica"
                      naslov0="Elementi ketlaške kulturne skupine na grobišču v Predloki"
@@ -3286,6 +3382,7 @@
                <author>Božič D.</author>
                <title>Relativna kronologija mlajše železne dobe v jugoslovanskem Podonavju</title>
                <page>315-347</page>
+               <cobiss>6696749</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="112" avtor0="Božič D."
                      naslov0="Relativna kronologija mlajše železne dobe v jugoslovanskem Podonavju"
@@ -3294,8 +3391,9 @@
             </pubPart>
             <pubPart>
                <author>Brodar M.</author>
-               <title>Odgovor na  ugovor</title>
+               <title>Odgovor na ugovor</title>
                <page>645-646</page>
+               <cobiss>6718253</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="4" avtor0="Brodar M." naslov0="Odgovor na  ugovor"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1981" volume="32"
@@ -3305,8 +3403,9 @@
             <pubPart>
                <author>Knific Timotej</author>
                <author>Pleterski Andrej</author>
-               <title>Staroslovansko grobisče Diese pri Bodeščah</title>
+               <title>Staroslovansko grobišče Dlesc pri Bodeščah</title>
                <page>482-523</page>
+               <cobiss>7207684</cobiss>
                <citedIn count="1">
                   <cit did="2448" cid="14" avtor0="Knific Timotej" avtor1="Pleterski Andrej"
                      naslov0="Staroslovansko grobisče Diese pri Bodeščah"
@@ -3316,7 +3415,8 @@
             <pubPart>
                <author>Pahič S.</author>
                <title>Brinjeva gora 1953</title>
-               <page>71-143</page>
+               <page>71-138</page>
+               <cobiss>6696493</cobiss>
                <citedIn count="1">
                   <cit did="1942" cid="26" avtor0="Pahič S." naslov0="Brinjeva gora 1953"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1981" volume="32"
@@ -3326,7 +3426,9 @@
             <pubPart>
                <author>Strmčnik Gulič Mira</author>
                <title>Antično grobišče v Starem trgu pri Slovenj Gradcu</title>
+               <addTitle>Roman cemetery at Stari trg near Slovenj Gradec</addTitle>
                <page>348-389</page>
+               <cobiss>6713645</cobiss>
                <citedIn count="1">
                   <cit did="2233" cid="53" avtor0="Strmčnik Gulič Mira"
                      naslov0="Antično grobišče v Starem trgu pri Slovenj Gradcu"
@@ -3353,7 +3455,9 @@
             <pubPart>
                <author>Korošec P.</author>
                <title>Skeletni grob z bloka B III in materialna kultura tega obdobja</title>
+               <addTitle>Das Skeletgrab aus dem Block B-III in Ptuj und die materielle Kultur dieses Zeitraums</addTitle>
                <page>38-54</page>
+               <cobiss>6532397</cobiss>
                <citedIn count="1">
                   <cit did="2069" cid="17" avtor0="Korošec P."
                      naslov0="Skeletni grob z bloka B III in materialna kultura tega obdobja"
@@ -3363,7 +3467,9 @@
             <pubPart>
                <author>Töth E.</author>
                <title>Die Entstehung der gemeinsamen Grenzen zwischen Pannonien und Noricum</title>
+               <addTitle>K nastanku meje med Norikom in Panonijo</addTitle>
                <page>80-88</page>
+               <cobiss>12197933</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="1040" avtor0="Töth E."
                      naslov0="Die Entstehung der gemeinsamen Grenzen zwischen Pannonien und Noricum"
@@ -3378,7 +3484,9 @@
             <pubPart>
                <author>Aichinger A.</author>
                <title>Die Reichsbeamten der römischen Macedonia der Prinzipatsepoche</title>
+               <addTitle>Provincialni namestniki v Makedoniji za principata k upravni zgodovini Makedonije v principatu</addTitle>
                <page>603-691</page>
+               <cobiss>12102189</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="2" avtor0="Aichinger A."
                      naslov0="Die Reichsbeamten der römischen Macedonia der Prinzipatsepoche"
@@ -3387,8 +3495,9 @@
             </pubPart>
             <pubPart>
                <author>Brodar M.</author>
-               <title>50 years of Palaeolithic research in Slovenia</title>
+               <title>50 years of Paleolithic research in Slovenia</title>
                <page>21-28</page>
+               <cobiss>6499373</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="2" avtor0="Brodar M."
                      naslov0="50 years of Palaeolithic research in Slovenia"
@@ -3397,8 +3506,10 @@
             </pubPart>
             <pubPart>
                <author>Brodar M.</author>
+               <title>Od Potočke zijalke do Blatenskega kastela</title>
                <title>Paleolitik v "Zgodovini Slovencev"</title>
                <page>528-543</page>
+               <cobiss>18299949</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="3" avtor0="Brodar M."
                      naslov0="Paleolitik v &#34;Zgodovini Slovencev&#34;"
@@ -3408,8 +3519,9 @@
             </pubPart>
             <pubPart>
                <author>Dular Janez</author>
-               <title>Žarno grobišče na Boršteku v Metliki</title>
+               <title>Žarno grobišče na Borštku v Metliki</title>
                <page>65-100</page>
+               <cobiss>6500397</cobiss>
                <citedIn count="2">
                   <cit did="2585" cid="6" avtor0="Dular Janez"
                      naslov0="Žarno grobišče na Boršteku v Metliki" source="Arheološki vestnik"
@@ -3422,7 +3534,9 @@
             <pubPart>
                <author>Gabrovec S.</author>
                <title>Thirty years of prehistoric archaeology in Arheološki vestnik</title>
+               <addTitle>Trideset let prazgodovinske arheologije v Arheološkem vestniku</addTitle>
                <page>13-20</page>
+               <cobiss>6933293</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="14" avtor0="Gabrovec S."
                      naslov0="Thirty years of prehistoric archaeology in Arheološki vestnik"
@@ -3436,8 +3550,9 @@
          <issue>
             <pubPart>
                <author>Ciglenečki S.</author>
-               <title>K problemu časovne in kulturne opredelitve nekaterih utrjenih prostorov v Sloveniji</title>
+               <title>K problemu kulturne in časovne opredelitve nekaterih utrjenih prostorov v Sloveniji</title>
                <page>482-494</page>
+               <cobiss>6232109</cobiss>
                <citedIn count="1">
                   <cit did="1945" cid="5" avtor0="Ciglenečki S."
                      naslov0="K problemu časovne in kulturne opredelitve nekaterih utrjenih prostorov v Sloveniji"
@@ -3449,6 +3564,7 @@
                <author>Marušić B.</author>
                <title>Kršćanstvo i poganstvo na tlu Istre u IV i V stoljeću</title>
                <page>549-572</page>
+               <cobiss>12026669</cobiss>
                <citedIn count="1">
                   <cit did="1998" cid="26" avtor0="Marušić B."
                      naslov0="Kršćanstvo i poganstvo na tlu Istre u IV i V stoljeću"
@@ -3492,7 +3608,9 @@
             <pubPart>
                <author>Truhlar F.</author>
                <title>Arheološki pomen toponima Dunaj</title>
+               <addTitle>Archäologische Bedeutung des ortnames Dunaj</addTitle>
                <page>753-756</page>
+               <cobiss>12068909</cobiss>
                <citedIn count="1">
                   <cit did="1766" cid="23" avtor0="Truhlar F."
                      naslov0="Arheološki pomen toponima Dunaj" source="Arheološki vestnik"
@@ -3531,6 +3649,7 @@
                <author>Töth E.</author>
                <title>... protulique fines Illyrici ad ripam fluminis Danuvii</title>
                <page>278-287</page>
+               <cobiss>12422957</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="1039" avtor0="Töth E."
                      naslov0="&#34;... protulique fines Illyrici ad ripam fluminis Danuvii.&#34;"
@@ -3547,6 +3666,7 @@
                <author>Hadži D., Cvek F.</author>
                <title>Smolni kit in premaz za žare</title>
                <page>128-133</page>
+               <cobiss>4387866</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="13" avtor0="Hadži D., Cvek F."
                      naslov0="Smolni kit in premaz za žare" source="Arheološki vestnik"
@@ -3557,6 +3677,7 @@
                <author>Korošec Paola</author>
                <title>Arheološke raziskave na Svetih gorah nad Sotlo</title>
                <page>483-517</page>
+               <cobiss>8743981</cobiss>
                <citedIn count="1">
                   <cit did="768" cid="14" avtor0="Korošec Paola"
                      naslov0="Arheološke raziskave na Svetih gorah nad Sotlo"
@@ -3567,7 +3688,9 @@
             <pubPart>
                <author>Puš I.</author>
                <title>Premazi in smolnati kit na prazgodovinskih posodah</title>
+               <addTitle>Überzüge und Harzkitt an vorgeschichtlichen Gefässen</addTitle>
                <page>122-127</page>
+               <cobiss>18062381</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="25" avtor0="Puš I."
                      naslov0="Premazi in smolnati kit na prazgodovinskih posodah"
@@ -3602,6 +3725,7 @@
                <author>Šribar V.</author>
                <title>Žgano srednjelatensko grobišče v Metliki</title>
                <page>319-332</page>
+               <cobiss>11988269</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="70" avtor0="Šribar V."
                      naslov0="Žgano srednjelatensko grobišče v Metliki" source="Arheološki vestnik"
@@ -3617,6 +3741,7 @@
                <author>Guštin M.</author>
                <title>Kronologija Notranjske skupine</title>
                <page>461-506</page>
+               <cobiss>12017197</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="4" avtor0="Guštin M."
                      naslov0="Kronologija Notranjske skupine" source="Arheološki vestnik"
@@ -3631,7 +3756,9 @@
             <pubPart>
                <author>Dular Janez</author>
                <title>Bela krajina v starohalštatskem obdobju</title>
+               <addTitle>Die Bela krajina in der frühen Hallstattzeit</addTitle>
                <page>544-591</page>
+               <cobiss>12017965</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="23" avtor0="Dular Janez"
                      naslov0="Bela krajina v starohalštatskem obdobju" source="Arheološki vestnik"
@@ -3642,6 +3769,7 @@
                <author>Guštin M.</author>
                <title>Kronologija notranjske skupine</title>
                <page>461-506</page>
+               <cobiss>12017197</cobiss>
                <citedIn count="1">
                   <cit did="1748" cid="437" avtor0="Guštin M."
                      naslov0="Kronologija notranjske skupine" source="Arheološki vestnik"
@@ -3652,6 +3780,7 @@
                <author>Kos P.</author>
                <title>Koritnica ob Bači</title>
                <page>848-873</page>
+               <cobiss>11358509</cobiss>
                <citedIn count="1">
                   <cit did="1953" cid="11" avtor0="Kos P." naslov0="Koritnica ob Bači"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1973" volume="24"
@@ -3661,6 +3790,8 @@
             <pubPart>
                <author>Teržan B., Trampuž N.</author>
                <title>Prispevek h kronologiji svetolucijske skupine</title>
+               <page>416-440</page>
+               <cobiss>12016941</cobiss>
                <citedIn count="1">
                   <cit did="1953" cid="22" avtor0="Teržan B., Trampuž N."
                      naslov0="Prispevek h kronologiji svetolucijske skupine"
@@ -3674,8 +3805,9 @@
          <issue n="2">
             <pubPart>
                <author>Šašel J.</author>
-               <title>Alpes luliana</title>
+               <title>Alpes Iuliana</title>
                <page>33-44</page>
+               <cobiss>13260589</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="67" avtor0="Šašel J." naslov0="Alpes luliana"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1971" volume="21"
@@ -3702,8 +3834,10 @@
             </pubPart>
             <pubPart>
                <author>Valič Andrej</author>
-               <title>Šmartno pri Cerkljah na Gorenjskem, Poznoantične in zgod-njesrednjeveške najdbe</title>
+               <title>Šmartno pri Cerkljah na Gorenjskem</title>
+               <title>Poznoantične in zgodnjesrednjeveške najdbe</title>
                <page>275-287</page>
+               <cobiss>13334573</cobiss>
                <citedIn count="1">
                   <cit did="768" cid="28" avtor0="Valič Andrej"
                      naslov0="Šmartno pri Cerkljah na Gorenjskem, Poznoantične in zgod-njesrednjeveške najdbe"
@@ -3720,6 +3854,7 @@
                <author>Gabrovec S., Frey O.-H., Foltiny S.</author>
                <title>Prvo poročilo o naselbinskih izkopavanjih v Stični</title>
                <page>177-196</page>
+               <cobiss>13941037</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="10" avtor0="Gabrovec S., Frey O.-H., Foltiny S."
                      naslov0="Prvo poročilo o naselbinskih izkopavanjih v Stični"
@@ -3730,7 +3865,9 @@
             <pubPart>
                <author>Kurz K.</author>
                <title>Zum Charakter der Geldwirtschaft im Japodengebiet</title>
+               <addTitle>O značaju denarnega gospodarstva na japodskem področju</addTitle>
                <page>27-34</page>
+               <cobiss>14098221</cobiss>
                <citedIn count="1">
                   <cit did="1939" cid="51" avtor0="Kurz K."
                      naslov0="Zum Charakter der Geldwirtschaft im Japodengebiet"
@@ -3746,7 +3883,9 @@
             <pubPart>
                <author>Boltin Tome Elica</author>
                <title>Antična stavba v Grubelcah</title>
+               <addTitle>Costruzione antica a Grubelce</addTitle>
                <page>129-138</page>
+               <cobiss>14253869</cobiss>
                <citedIn count="1">
                   <cit did="2787" cid="6" avtor0="Boltin Tome Elica"
                      naslov0="Antična stavba v Grubelcah" source="Arheološki vestnik" year="1968"
@@ -3760,8 +3899,10 @@
          <issue>
             <pubPart>
                <author>Boltin Tome  E.</author>
-               <title>Poročilo  o  raziskovanjih  na srednjem prečnem nasipu Kaštelirja pri Dvorih nad Izolo</title>
+               <title>Poročilo o raziskovanjih na srednjem prečnem nasipu Kaštelirja pri Dvorih nad Izolo</title>
+               <addTitle>Compte rendu sur les recherches effectuées sur la digue transversale moyenne de Kaštelir près de Dvori au-dessus d'Izola</addTitle>
                <page>163-178</page>
+               <cobiss>14328365</cobiss>
                <citedIn count="1">
                   <cit did="1950" cid="11" avtor0="Boltin Tome  E."
                      naslov0="Poročilo  o  raziskovanjih  na srednjem prečnem nasipu Kaštelirja pri Dvorih nad Izolo"
@@ -3772,7 +3913,9 @@
             <pubPart>
                <author>Brodar S.</author>
                <title>Razčlenitev pleistocena</title>
+               <addTitle>Die Gliederung des Pleistozäns</addTitle>
                <page>227-233</page>
+               <cobiss>14337581</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="11" avtor0="Brodar S." naslov0="Razčlenitev pleistocena"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1967" volume="18"
@@ -3824,6 +3967,7 @@
                <author>Valič Andrej</author>
                <title>Staroslovanski Kranj</title>
                <page>411-423</page>
+               <cobiss>3078966</cobiss>
                <citedIn count="1">
                   <cit did="2421" cid="85" avtor0="Valič Andrej" naslov0="Staroslovanski Kranj"
                      source="Arheološki vestnik" year="1967" volume="18" page="411-423"/>
@@ -3837,7 +3981,9 @@
             <pubPart>
                <author>Gabrovec S.</author>
                <title>Srednjelatensko obdobje v Sloveniji</title>
+               <addTitle>Zur Mittellatènezeit in Slowenien</addTitle>
                <page>169-242</page>
+               <cobiss>14550061</cobiss>
                <citedIn count="1">
                   <cit did="1953" cid="5" avtor0="Gabrovec S."
                      naslov0="Srednjelatensko obdobje v Sloveniji" source="Arheološki vestnik"
@@ -3848,6 +3994,7 @@
                <author>Katičič Radoslav</author>
                <title>Keltska osobna imena u antičkoj Sloveniji</title>
                <page>145-168</page>
+               <cobiss>14549805</cobiss>
                <citedIn count="1">
                   <cit did="1766" cid="9" avtor0="Katičič Radoslav"
                      naslov0="Keltska osobna imena u antičkoj Sloveniji" source="Arheološki vestnik"
@@ -3872,7 +4019,9 @@
             <pubPart>
                <author>Osole F.</author>
                <title>Paleolitik Slovenije</title>
+               <addTitle>Das Paläolithikum Sloweniens</addTitle>
                <page>9-20</page>
+               <cobiss>14660653</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="28" avtor0="Osole F." naslov0="Paleolitik Slovenije"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="1965" volume="15-16"
@@ -3886,8 +4035,9 @@
          <issue>
             <pubPart>
                <author>Gabrovec Stane</author>
-               <title>Halštatska kultura v Sloveniji</title>
+               <title>Halštatska kultura Slovenije</title>
                <page>21-64</page>
+               <cobiss>14687533</cobiss>
                <citedIn count="1">
                   <cit did="2266" cid="15" avtor0="Gabrovec Stane"
                      naslov0="Halštatska kultura v Sloveniji" source="Arheološki vestnik"
@@ -3901,8 +4051,9 @@
          <issue>
             <pubPart>
                <author>Osole F.</author>
-               <title>Akademik prof. dr. Srečko Brodar, sedemdesetletnik.</title>
+               <title>Akademik prof. dr. Srečko Brodar, sedemdesetletnik</title>
                <page>7-11</page>
+               <cobiss>14865197</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="26" avtor0="Osole F."
                      naslov0="Akademik prof. dr. Srečko Brodar, sedemdesetletnik."
@@ -3917,7 +4068,9 @@
             <pubPart>
                <author>Pahič Stanko</author>
                <title>Antične gomile v Prekmurju</title>
-               <page>103-146</page>
+               <addTitle>Die provinzialrömischen Hügelgräber in Prekmurje</addTitle>
+               <page>88-146</page>
+               <cobiss>15412781</cobiss>
                <citedIn count="1">
                   <cit did="3053" cid="23" avtor0="Pahič Stanko"
                      naslov0="Antične gomile v Prekmurju" source="Arheološki vestnik" year="1960"
@@ -3932,7 +4085,9 @@
             <pubPart>
                <author>Boltin E.</author>
                <title>Arheološke najdbe na Kaštelirju nad Kortami</title>
+               <addTitle>Ritrovamenti archeologici nel castelliere di Corte d'Isola</addTitle>
                <page>237-250</page>
+               <cobiss>15611437</cobiss>
                <citedIn count="1">
                   <cit did="1950" cid="7" avtor0="Boltin E."
                      naslov0="Arheološke najdbe na Kaštelirju nad Kortami"
@@ -3953,8 +4108,8 @@
             </pubPart>
             <pubPart>
                <author>Šribar  V.</author>
-               <title>Constatations  archeologico-topographiques dans  la  baie de Simon  pres  d'Izola</title>
-               <page>271-277</page>
+               <title>Constatations archeologico-topographiques dans la baie de Simon pres d'Izola</title>
+               <page>271-285</page>
                <citedIn count="1">
                   <cit did="1946" cid="22" avtor0="Šribar  V."
                      naslov0="Constatations  archeologico-topographiques dans  la  baie de Simon  pres  d'Izola"
@@ -3970,6 +4125,7 @@
                <author>Škerlj Božo</author>
                <title>Vloga in mesto neandertalcev v človeški evoluciji</title>
                <page>347-368</page>
+               <cobiss>16169261</cobiss>
                <citedIn count="1">
                   <cit did="2275" cid="10" avtor0="Škerlj Božo"
                      naslov0="Vloga in mesto neandertalcev v človeški evoluciji"
@@ -3996,6 +4152,7 @@
                <author>Škerlj B.</author>
                <title>Šestdesetletnica profesorja Srečka Brodarja</title>
                <page>349-350</page>
+               <cobiss>16450093</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="41" avtor0="Škerlj B."
                      naslov0="Šestdesetletnica profesorja Srečka Brodarja"
@@ -4012,6 +4169,7 @@
                <author>Cevc Emilijan</author>
                <title>Dvoje zgodnjesrednjeveskih figuralnih upodobitev na slovenskih tleh</title>
                <page>214-249</page>
+               <cobiss>13379629</cobiss>
                <citedIn count="1">
                   <cit did="2448" cid="8" avtor0="Cevc Emilijan"
                      naslov0="Dvoje zgodnjesrednjeveskih figuralnih upodobitev na slovenskih tleh"
@@ -4027,6 +4185,7 @@
                <author>Škerlj Božo</author>
                <title>Današnji problemi evolucije človeka</title>
                <page>40-59</page>
+               <cobiss>17898541</cobiss>
                <citedIn count="1">
                   <cit did="2275" cid="11" avtor0="Škerlj Božo"
                      naslov0="Današnji problemi evolucije človeka" source="Arheološki vestnik"
@@ -4039,6 +4198,7 @@
                <author>Korošec J.</author>
                <title>Prvo posvetovanje jugoslovanskih arheologov</title>
                <page>73-76</page>
+               <cobiss>17805613</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="20" avtor0="Korošec J."
                      naslov0="Prvo posvetovanje jugoslovanskih arheologov"
@@ -4054,6 +4214,7 @@
                <author>Brodar S.</author>
                <title>Prerez paleolitika na slovenskih tleh</title>
                <page>5-11</page>
+               <cobiss>17683245</cobiss>
                <citedIn count="1">
                   <cit did="1915" cid="9" avtor0="Brodar S."
                      naslov0="Prerez paleolitika na slovenskih tleh" source="Arheološki vestnik"
@@ -4064,6 +4225,7 @@
                <author>Pahič S.</author>
                <title>Gradišče Presek pri Črešnjevcu</title>
                <page>170-176</page>
+               <cobiss>17726509</cobiss>
                <citedIn count="1">
                   <cit did="1945" cid="28" avtor0="Pahič S."
                      naslov0="Gradišče Presek pri Črešnjevcu" source="Arheološki vestnik"
@@ -4080,6 +4242,7 @@
                <author>Kos Milko</author>
                <title>Naselitev Gorenjske v ranem srednjem veku</title>
                <page>7-16</page>
+               <cobiss>2473782</cobiss>
                <citedIn count="1">
                   <cit did="2421" cid="33" avtor0="Kos Milko"
                      naslov0="Naselitev Gorenjske v ranem srednjem veku" source="Arheološki vestnik"
@@ -4090,6 +4253,7 @@
                <author>Strmčnik Gulić M.</author>
                <title>Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja</title>
                <page>117-130</page>
+               <cobiss>18934829</cobiss>
                <citedIn count="1">
                   <cit did="1947" cid="15" avtor0="Strmčnik Gulić M."
                      naslov0="Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja"
