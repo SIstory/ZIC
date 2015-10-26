@@ -4278,6 +4278,7 @@
                <author>Pančur Andrej</author>
                <title>Avstrijski denarni sistem sredi 19. stoletja in Greshamov zakon</title>
                <page>77-79</page>
+               <cobiss>14321382</cobiss>
                <citedIn count="1">
                   <cit did="663" cid="57" avtor0="Pančur Andrej"
                      naslov0="Avstrijski denarni sistem sredi 19. stoletja in Greshamov zakon"
@@ -4289,7 +4290,8 @@
             <pubPart>
                <author>Pančur Andrej</author>
                <title>Pomanjkanje drobiža sredi 19. stoletja</title>
-               <page>56-57</page>
+               <page>55-57</page>
+               <cobiss>14544358</cobiss>
                <citedIn count="1">
                   <cit did="663" cid="56" avtor0="Pančur Andrej"
                      naslov0="Pomanjkanje drobiža sredi 19. stoletja" source="Bančni vestnik"
@@ -4353,8 +4355,10 @@
          <issue n="4">
             <pubPart>
                <author>Lazaravić Žarko</author>
-               <title>Dr. Ivan Slokar – zgodovinar, geograf, pravnik bančnik in izumitelj</title>
+               <title>Dr. Ivan Slokar</title>
+               <title>zgodovinar, geograf, pravnik bančnik in izumitelj</title>
                <page>47-49</page>
+               <cobiss>1402228</cobiss>
                <citedIn count="1">
                   <cit did="2304" cid="7" avtor0="Lazaravić Žarko"
                      naslov0="Dr. Ivan Slokar – zgodovinar, geograf, pravnik bančnik in izumitelj"
@@ -4410,6 +4414,7 @@
                <author>Lazarević  Žarko</author>
                <title>Slovenski bančniki in leto 1945</title>
                <page>55-57</page>
+               <cobiss>13102310</cobiss>
                <citedIn count="1">
                   <cit did="2304" cid="6" avtor0="Lazarević  Žarko"
                      naslov0="Slovenski bančniki in leto 1945" source="Bančni vestnik" year="2002"
@@ -4438,8 +4443,9 @@
          <issue n="5">
             <pubPart>
                <author>Mencinger Jože</author>
-               <title>Kako je nastal tolar?</title>
+               <title>Kako je nastajal tolar?</title>
                <page>28-31</page>
+               <cobiss>3946321</cobiss>
                <citedIn count="1">
                   <cit did="1293" cid="13" avtor0="Mencinger Jože" naslov0="Kako je nastal tolar?"
                      source="Bančni vestnik" year="2001" volume="50" issue="5" page="28-31"/>
@@ -4503,6 +4509,7 @@
                <author>Podpečnik Jože</author>
                <title>Novomeški zasilni denar</title>
                <page>420-423</page>
+               <cobiss>36485120</cobiss>
                <citedIn count="1">
                   <cit did="663" cid="61" avtor0="Podpečnik Jože" naslov0="Novomeški zasilni denar"
                      source="Bančni vestnik" year="1990" issue="12" page="420-423"/>
@@ -4535,6 +4542,7 @@
                <author>Kraigher Tomaž</author>
                <title>Slovenske izkušnje in nekatera vprašanja uporabe investicijskih meril na narodnogospodarski ravni</title>
                <page>172-182</page>
+               <cobiss>14690816</cobiss>
                <citedIn count="1">
                   <cit did="852" cid="4" avtor0="Gmeiner Pavle, Rop Anton" avtor1="Kraigher Tomaž"
                      naslov0="Slovenske izkušnje in nekatera vprašanja uporabe investicijskih meril na narodnogospodarski ravni"
@@ -4547,6 +4555,7 @@
                <author>Rupnik Ladislav</author>
                <title>Finančne značilnosti rasti izdatkov zveznega proračuna in problemi njenega kritja</title>
                <page>243-255</page>
+               <cobiss>14716160</cobiss>
                <citedIn count="1">
                   <cit did="831" cid="8" avtor0="Rupnik Ladislav"
                      naslov0="Finančne značilnosti rasti izdatkov zveznega proračuna in problemi njenega kritja"
@@ -4557,8 +4566,10 @@
          <issue n="12">
             <pubPart>
                <author>Hočevar Toussaint</author>
-               <title>Finančno posredovanje v večjezični državi – primer slovenskega delniškega bančništva v Avstriji, 1900–1912</title>
+               <title>Finančno posredovanje v večjezični državi</title>
+               <title>primer slovenskega delniškega bančništva v Avstriji, 1900–1912</title>
                <page>384-389</page>
+               <cobiss>14726144</cobiss>
                <citedIn count="1">
                   <cit did="2304" cid="15" avtor0="Hočevar Toussaint"
                      naslov0="Finančno posredovanje v večjezični državi – primer slovenskega delniškega bančništva v Avstriji, 1900–1912"
@@ -4607,12 +4618,14 @@
       <pubCobiss>8745472</pubCobiss>
       <issn>0006-5722</issn>
       <year n="2008">
-         <volume>3</volume>
+         <volume>68</volume>
          <issue n="3">
             <pubPart>
                <author>Rifel Tadej</author>
-               <title>Pogledi na Trubarja in reformacijo ob njegovi štiristoletnici, Sto let pozneje</title>
+               <title>Pogledi na Trubarja in reformacijo ob njegovi štiristoletnici</title>
+               <title>Sto let pozneje</title>
                <page>399-421</page>
+               <cobiss>4713818</cobiss>
                <citedIn count="1">
                   <cit did="2660" cid="43" avtor0="Rifel Tadej"
                      naslov0="Pogledi na Trubarja in reformacijo ob njegovi štiristoletnici, Sto let pozneje"
@@ -4628,6 +4641,7 @@
                <author>Vodopivec Peter</author>
                <title>Kulturno-duhovne razmere na Slovenskem v 19. stoletju</title>
                <page>9-17</page>
+               <cobiss>4023386</cobiss>
                <citedIn count="1">
                   <cit did="2041" cid="21" avtor0="Vodopivec Peter"
                      naslov0="Kulturno-duhovne razmere na Slovenskem v 19. stoletju"
@@ -4651,6 +4665,7 @@
                <author>Kovač Edvard</author>
                <title>Pojmovanje kulture pri Franu Kovačiču</title>
                <page>253-260</page>
+               <cobiss>4027482</cobiss>
                <citedIn count="1">
                   <cit did="1592" cid="12" avtor0="Kovač Edvard"
                      naslov0="Pojmovanje kulture pri Franu Kovačiču" source="Bogoslovni vestnik"
@@ -4681,6 +4696,7 @@
                <author>Kolar Bogdan</author>
                <title>Teološka fakulteta ponovno članica Univerze</title>
                <page>293-302</page>
+               <cobiss>8156675</cobiss>
                <citedIn count="1">
                   <cit did="97" cid="16" avtor0="Kolar Bogdan"
                      naslov0="Teološka fakulteta ponovno članica Univerze"
@@ -4690,9 +4706,9 @@
             </pubPart>
             <pubPart>
                <author>Valenčič Rafko</author>
-               <title>Prvi koraki zbliževanja med Univerzo v
-Ljubljani in Teološko fakulteto</title>
+               <title>Prvi koraki zbliževanja med Univerzo v Ljubljani in Teološko fakulteto</title>
                <page>281-291</page>
+               <cobiss>8156419</cobiss>
                <citedIn count="1">
                   <cit did="97" cid="15" avtor0="Valenčič Rafko"
                      naslov0="Prvi koraki zbliževanja med Univerzo v&#xA;Ljubljani in Teološko fakulteto"
@@ -4709,6 +4725,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Pirnat Alojz</author>
                <title>Dialog o problematiki feministične teologije danes</title>
                <page>47-62</page>
+               <cobiss>7861763</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="280" avtor0="Pirnat Alojz"
                      naslov0="Dialog o problematiki feministične teologije danes"
@@ -4719,8 +4736,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="2">
             <pubPart>
                <author>Ocvirk D.</author>
-               <title>Človekove pravice, religijske utemelitve dostojanstva in fundamentalizem</title>
+               <title>Človekove pravice, religijske utemeljitve dostojanstva in fundamentalizem</title>
                <page>187-209</page>
+               <cobiss>2975066</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="275" avtor0="Ocvirk D."
                      naslov0="Človekove pravice, religijske utemelitve dostojanstva in fundamentalizem"
@@ -4736,6 +4754,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Ocvirk D.</author>
                <title>Krščanstvo, človekove pravice in dostojanstvo</title>
                <page>299-315</page>
+               <cobiss>2375770</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="274" avtor0="Ocvirk D."
                      naslov0="Krščanstvo, človekove pravice in dostojanstvo"
@@ -4750,6 +4769,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Rode Franc</author>
                <title>Spor in sprava</title>
+               <page>257-270</page>
+               <cobiss>898650</cobiss>
                <citedIn count="1">
                   <cit did="1549" cid="7" avtor0="Rode Franc" naslov0="Spor in sprava"
                      source="Bogoslovni vestnik" year="1995" issue="3"/>
@@ -4812,6 +4833,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Janežič Stanko</author>
                <title>Duh krščanske edinosti v reviji Voditelj v bogoslovnih vedah (1898-1916)</title>
                <page>217-223</page>
+               <cobiss>29052928</cobiss>
                <citedIn count="1">
                   <cit did="1592" cid="14" avtor0="Janežič Stanko"
                      naslov0="Duh krščanske edinosti v reviji Voditelj v bogoslovnih vedah (1898-1916)"
@@ -4827,6 +4849,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Ocvirk D.</author>
                <title>Univerzalnost človekovih pravic in krščanske vere</title>
                <page>187-203</page>
+               <cobiss>15309824</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="273" avtor0="Ocvirk D."
                      naslov0="Univerzalnost človekovih pravic in krščanske vere"
@@ -4843,6 +4866,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Benedik Metod</author>
                <title>Janez Evangelist Krek in njegov čas</title>
                <page>5-11</page>
+               <cobiss>1886042</cobiss>
                <citedIn count="1">
                   <cit did="2618" cid="133" avtor0="Benedik Metod"
                      naslov0="Janez Evangelist Krek in njegov čas" source="Bogoslovni vestnik"
@@ -4853,6 +4877,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Juhant Janez</author>
                <title>Krekova osebnost</title>
                <page>13-19</page>
+               <cobiss>1223770</cobiss>
                <citedIn count="1">
                   <cit did="2618" cid="163" avtor0="Juhant Janez" naslov0="Krekova osebnost"
                      source="Bogoslovni vestnik" year="1988" issue="1" page="13-19"/>
@@ -4862,6 +4887,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Mahnič Mirko</author>
                <title>Krekovo leposlovno delo</title>
                <page>33-44</page>
+               <cobiss>11720237</cobiss>
                <citedIn count="1">
                   <cit did="2618" cid="180" avtor0="Mahnič Mirko" naslov0="Krekovo leposlovno delo"
                      source="Bogoslovni vestnik" year="1988" issue="1" page="33-44"/>
@@ -4889,6 +4915,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Ocvirk D.</author>
                <title>Dialog Cerkve s kulturo</title>
                <page>229-243</page>
+               <cobiss>453466</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="272" avtor0="Ocvirk D." naslov0="Dialog Cerkve s kulturo"
                      source="Bogoslovni vestnik" year="1985" volume="45" issue="3" page="229-243"/>
@@ -4964,7 +4991,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Juhant Janez</author>
                <title>Ali vemo, kaj je naš svet?</title>
-               <page>464-465</page>
+               <page>463-473</page>
+               <cobiss>599386</cobiss>
                <citedIn count="1">
                   <cit did="2635" cid="31" avtor0="Juhant Janez"
                      naslov0="Ali vemo, kaj je naš svet?" source="Bogoslovni vestnik" year="1979"
@@ -5019,6 +5047,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Smolnik Marijan</author>
                <title>Bibliografija prof. dr. Stanka Cajnkarja</title>
                <page>403-412</page>
+               <cobiss>2017370</cobiss>
                <citedIn count="1">
                   <cit did="178" cid="9" avtor0="Smolnik Marijan"
                      naslov0="Bibliografija prof. dr. Stanka Cajnkarja" source="Bogoslovni vestnik"
@@ -5032,8 +5061,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="4">
             <pubPart>
                <author>Zelko Ivan</author>
-               <title>Cerkvenozgodovinska vprašanja ob novih dogajanjih o družbeni in kolonizacijski  zgodovini turniške pražupanije</title>
-               <page>459-462</page>
+               <title>Cerkvenozgodovinska vprašanja ob novih dognanjih o družbeni in kolonizacijski zgodovini Turniške pražupnije</title>
+               <addTitle>Kirchenhistorische Fragen zu neuen Ergenbissen der Gesellschafts- und Kolonisations-Geschichte der Upfarrei Turnišče</addTitle>
+               <page>453-480</page>
                <citedIn count="1">
                   <cit did="2789" cid="21" avtor0="Zelko Ivan"
                      naslov0="Cerkvenozgodovinska vprašanja ob novih dogajanjih o družbeni in kolonizacijski  zgodovini turniške pražupanije"
@@ -5047,7 +5077,7 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="2-3">
             <pubPart>
                <author>Ambrožič Fran</author>
-               <title>Desetletna rast  slovenske KA</title>
+               <title>Desetletna rast slovenske KA</title>
                <page>277-281</page>
                <citedIn count="1">
                   <cit did="1100" cid="1" avtor0="Ambrožič Fran"
@@ -5196,9 +5226,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="621-625">
             <pubPart>
                <author>Kostov E.</author>
-               <title>Izseljevanje prebivalcev iz nekdanjega okraja Koper</title>
-               <title>cone B Svobodnega tržaškega ozemlja</title>
+               <title>Izseljevanje prebivalcev iz nekdanjega okraja Koper - cone B Svobodnega tržaškega ozemlja</title>
                <page>47-95</page>
+               <cobiss>9719885</cobiss>
                <citedIn count="1">
                   <cit did="734" cid="12" avtor0="Kostov E."
                      naslov0="Izseljevanje prebivalcev iz nekdanjega okraja Koper - cone B Svobodnega tržaškega ozemlja"
@@ -5212,6 +5242,7 @@ Ljubljani in Teološko fakulteto</title>
                <title>60 let od konca druge svetovne vojne</title>
                <title>O simbolih, praznikih in prevrednotenju zgodovine</title>
                <page>33-44</page>
+               <cobiss>29949794</cobiss>
                <citedIn count="1">
                   <cit did="569" cid="2" avtor0="Repe Božo"
                      naslov0="60 let od konca druge svetovne vojne"
@@ -5255,6 +5286,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Feštajn Simon</author>
                <title>V Sovjetskem raju</title>
                <page>145-245</page>
+               <cobiss>217415680</cobiss>
                <citedIn count="1">
                   <cit did="569" cid="31" avtor0="Feštajn Simon" naslov0="V Sovjetskem raju"
                      source="Borec" year="2004" volume="56" issue="612/616" page="145-245"/>
@@ -5295,6 +5327,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Biber Dušan</author>
                <title>NOB Slovenije v zavezniških dokumentih</title>
                <page>213-218</page>
+               <cobiss>124686336</cobiss>
                <citedIn count="1">
                   <cit did="1324" cid="39" avtor0="Biber Dušan"
                      naslov0="NOB Slovenije v zavezniških dokumentih" source="Borec"
@@ -5307,11 +5340,13 @@ Ljubljani in Teološko fakulteto</title>
          <volume>55</volume>
          <volume>52</volume>
          <issue n="603-607">
+            <!-- Knjiga ISBN 961-90628-6-8 -->
             <pubPart>
                <author>Ramšak Mojca</author>
                <title>Portret glasov</title>
                <title>Raziskave življenjskih zgodb v etnologiji</title>
                <title>na primeru koroških Slovencev</title>
+               <cobiss>125773056</cobiss>
                <citedIn count="1">
                   <cit did="1513" cid="144" avtor0="Ramšak Mojca"
                      naslov0="Portret glasov: Raziskave življenjskih zgodb v etnologiji: na primeru koroških Slovencev"
@@ -5407,7 +5442,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Kranjc Marjan</author>
                <title>Balkanski vojaški poligon</title>
                <title>varnostno-vojaški zapisi</title>
-               <page>258</page>
+               <page>11-339</page>
+               <cobiss>2411315</cobiss>
                <citedIn count="1">
                   <cit did="1530" cid="15" avtor0="Kranjc Marjan"
                      naslov0="Balkanski vojaški poligon: varnostno-vojaški zapisi" source="Borec"
@@ -5466,7 +5502,9 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Peternel Anton</author>
                <title>Razvoj OF v Poljanski dolini in poljanska vstaja</title>
-               <page>281-284</page>
+               <page>279-402</page>
+               <cobiss>71940608</cobiss>
+               <cobiss>2139702</cobiss>
                <citedIn count="1">
                   <cit did="1545" cid="1" avtor0="Peternel Anton"
                      naslov0="Razvoj OF v Poljanski dolini in poljanska vstaja" source="Borec"
@@ -5664,10 +5702,12 @@ Ljubljani in Teološko fakulteto</title>
       <year n="1993">
          <volume>45</volume>
          <issue n="1-2">
+            <!-- Knjiga  ISSN 0006-7725 -->
             <pubPart>
                <author>Jezernik Božidar</author>
                <title>Spol in spolnost in extremis</title>
                <title>Antropoloska studija o nemskih koncentracijskih taboriscih Dachau, Buchenwald, Mauthausen, Ravensbruck, Auschwitz 1933-1945</title>
+               <cobiss>33214208</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="99" avtor0="Jezernik Božidar"
                      naslov0="Spol in spolnost in extremis: Antropoloska studija o nemskih koncentracijskih taboriscih Dachau, Buchenwald, Mauthausen, Ravensbruck, Auschwitz 1933-1945"
@@ -5683,6 +5723,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Cesar Emil</author>
                <title>Svetovna popotnica in pisateljica Alma M. Karlin v partizanih</title>
                <page>221-230</page>
+               <cobiss>1803317</cobiss>
                <citedIn count="3">
                   <cit did="2292" cid="1" avtor0="Cesar Emil"
                      naslov0="Svetovna popotnica in pisateljica Alma M. Karlin v partizanih"
@@ -5699,9 +5740,8 @@ Ljubljani in Teološko fakulteto</title>
                <author>Karlin Alma M.</author>
                <title>Božja ura</title>
                <title>Zgodba iz Bele Krajine</title>
-               <title>Krava</title>
-               <title>Zgodba iz Bele Krajine, Petrova puška</title>
-               <title>Partizanska zgodba</title>
+               <page>244-246</page>
+               <cobiss>1804341</cobiss>
                <citedIn count="1">
                   <cit did="2289" cid="4" avtor0="Karlin Alma M."
                      naslov0="Božja ura. Zgodba iz Bele Krajine, Krava. Zgodba iz Bele Krajine, Petrova puška. Partizanska zgodba"
@@ -5745,6 +5785,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Strgar Milica</author>
                <title>Beg nekdanjih domobrancev iz taborišča Vetrinj</title>
                <page>382-386</page>
+               <cobiss>50704640</cobiss>
                <citedIn count="1">
                   <cit did="964" cid="19" avtor0="Strgar Milica"
                      naslov0="Beg nekdanjih domobrancev iz taborišča Vetrinj" source="Borec"
@@ -5791,7 +5832,9 @@ Ljubljani in Teološko fakulteto</title>
          <issue n="1-2">
             <pubPart>
                <author>Dežman Jože</author>
-               <title>Zlomljen pogled</title>
+               <title>Zlomljeni pogled</title>
+               <page>144-151</page>
+               <cobiss>50635264</cobiss>
                <citedIn count="1">
                   <cit did="634" cid="32" avtor0="Dežman Jože" naslov0="Zlomljen pogled"
                      source="Borec" year="1992" issue="1/2"/>
@@ -5823,6 +5866,7 @@ Ljubljani in Teološko fakulteto</title>
                <title>Slovenija 1945</title>
                <title>čas evforije, shizofrenije in paranoje</title>
                <page>443-450</page>
+               <cobiss>50440704</cobiss>
                <citedIn count="1">
                   <cit did="2570" cid="8" avtor0="Nečak Dušan"
                      naslov0="Slovenija 1945 - čas evforije, shizofrenije in paranoje"
@@ -6072,6 +6116,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Voje Ignacij</author>
                <title>Prepletanje legende in resničnosti</title>
                <page>1220-1226</page>
+               <cobiss>35705600</cobiss>
                <citedIn count="1">
                   <cit did="250" cid="14" avtor0="Voje Ignacij"
                      naslov0="Prepletanje legende in resničnosti" source="Borec" year="1989"
@@ -6086,6 +6131,7 @@ Ljubljani in Teološko fakulteto</title>
                <title>očrt raziskave</title>
                <title>občina Radovljica</title>
                <page>43-69</page>
+               <cobiss>3710722</cobiss>
                <citedIn count="1">
                   <cit did="1858" cid="1" avtor0="Dežman Jože"
                      naslov0="Žrtve druge svetovne vojne: očrt raziskave - občina Radovljica"
@@ -6129,6 +6175,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Kresal France</author>
                <title>Začetki delovanja zakonodaje za zaščito delavstva in vloga strokovnih (sindikalnih) organizacij</title>
                <page>230-246</page>
+               <cobiss>659828</cobiss>
                <citedIn count="1">
                   <cit did="1149" cid="1" avtor0="Kresal France"
                      naslov0="Začetki delovanja zakonodaje za zaščito delavstva in vloga strokovnih (sindikalnih) organizacij"
@@ -6184,7 +6231,7 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Janež Stanež</author>
-               <title>Motivi  prve  svetovne  vojne  in  njeni  odmevi  v  slovenski književnosti</title>
+               <title>Motivi prve svetovne vojne in njeni odmevi v slovenski književnosti</title>
                <page>1396-1407</page>
                <citedIn count="1">
                   <cit did="1307" cid="41" avtor0="Janež Stanež"
@@ -6250,6 +6297,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Reberšek F.</author>
                <title>Pisma slovenskega vojaka iz I. svetovne vojne</title>
                <page>767-814</page>
+               <cobiss>11245154</cobiss>
                <citedIn count="1">
                   <cit did="1313" cid="19" avtor0="Reberšek F."
                      naslov0="Pisma slovenskega vojaka iz I. svetovne vojne" source="Borec"
@@ -6261,7 +6309,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Prispevek k problematiki slovenske kulturne politike (1945-1952)</title>
-               <page>950-951</page>
+               <page>949-959</page>
+               <cobiss>3462658</cobiss>
                <citedIn count="1">
                   <cit did="1806" cid="3" avtor0="Gabrič Aleš"
                      naslov0="Prispevek k problematiki slovenske kulturne politike (1945-1952)"
@@ -6288,6 +6337,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Prunk Janko</author>
                <title>Slovenci in suverenost</title>
                <page>1003-1015</page>
+               <cobiss>3460354</cobiss>
                <citedIn count="1">
                   <cit did="3211" cid="51" avtor0="Prunk Janko" naslov0="Slovenci in suverenost"
                      source="Borec" year="1998" volume="40" issue="11" page="1003-1015"/>
@@ -6314,6 +6364,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Čepič Zdenko</author>
                <title>O ukrepih za spreminjanje družbenoekonomskih odnosov leta 1942 v Sloveniji</title>
                <page>643-665</page>
+               <cobiss>1906036</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="105" avtor0="Čepič Zdenko"
                      naslov0="O ukrepih za spreminjanje družbenoekonomskih odnosov leta 1942 v Sloveniji"
@@ -6361,6 +6412,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Ferenc Tone</author>
                <title>Slovensko narodnoosvobodilno gibanje in Furlanija 1942-1943</title>
                <page>2-28</page>
+               <cobiss>26805090</cobiss>
                <citedIn count="3">
                   <cit did="1782" cid="131" avtor0="Ferenc Tone"
                      naslov0="Slovensko narodnoosvobodilno gibanje in Furlanija 1942-1943"
@@ -6380,6 +6432,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Nećak Dušan</author>
                <title>Jugoslovanski odnos do tržaškega vprašanja (junij-september 1945)</title>
                <page>102-109</page>
+               <cobiss>35298402</cobiss>
                <citedIn count="1">
                   <cit did="1784" cid="10" avtor0="Nećak Dušan"
                      naslov0="Jugoslovanski odnos do tržaškega vprašanja (junij-september 1945)"
@@ -6702,6 +6755,7 @@ Ljubljani in Teološko fakulteto</title>
                <title>Odkritje protifašistične skupine v Ocizli in Klancu v Slovenski Istri</title>
                <title>ob štiridesetletnici</title>
                <page>641-665</page>
+               <cobiss>26647906</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="36" avtor0="Ferenc Tone"
                      naslov0="Odkritje protifašistične skupine v Ocizli in Klancu v Slovenski Istri: ob štiridesetletnici"
@@ -6712,9 +6766,11 @@ Ljubljani in Teološko fakulteto</title>
       </year>
       <year n="1979">
          <issue>
+            <!-- Knjiga -->
             <pubPart>
                <author>Ferenc Tone</author>
                <title>Satan, njegovo delo in smrt</title>
+               <cobiss>13976839</cobiss>
                <citedIn count="1">
                   <cit did="1545" cid="13" avtor0="Ferenc Tone"
                      naslov0="Satan, njegovo delo in smrt" source="Borec" pubPlace="Ljubljana"
@@ -7250,8 +7306,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Lazar I.</author>
-               <title>Arheoloske najdbe na obmocju Narodnega doma</title>
+               <title>Arheološke najdbe na območju Narodnega doma</title>
                <page>159-172</page>
+               <cobiss>3794229</cobiss>
                <citedIn count="1">
                   <cit did="1943" cid="9" avtor0="Lazar I."
                      naslov0="Arheoloske najdbe na obmocju Narodnega doma"
@@ -7270,8 +7327,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Stavbar Vlasta</author>
-               <title>Narodni dorn v Mariboru</title>
-               <page>96-98</page>
+               <title>Narodni dom v Mariboru</title>
+               <page>95-114</page>
+               <cobiss>3793205</cobiss>
                <citedIn count="1">
                   <cit did="1783" cid="178" avtor0="Stavbar Vlasta"
                      naslov0="Narodni dorn v Mariboru" source="Celjski zbornik" pubPlace="Celje"
@@ -7281,6 +7339,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Šuligoj Ljubica</author>
                <title>Ptujska čitalnica in njen Narodni dom</title>
+               <page>115-134</page>
+               <cobiss>6390280</cobiss>
                <citedIn count="1">
                   <cit did="1776" cid="4" avtor0="Šuligoj Ljubica"
                      naslov0="Ptujska čitalnica in njen Narodni dom"
@@ -7307,8 +7367,9 @@ Ljubljani in Teološko fakulteto</title>
             </pubPart>
             <pubPart>
                <author>Kos Dušan</author>
-               <title>Dediščine, dedno pravo in plemstvo na Kranjskem in slovenskem Štajerskem (posebej v 14. stoletju)</title>
+               <title>Dediščine, dedno pravo in plemstvo na Kranjskem in slovenskem Štajerskem v 13.in 14. stoletju</title>
                <page>35-56</page>
+               <cobiss>60637696</cobiss>
                <citedIn count="1">
                   <cit did="2629" cid="25" avtor0="Kos Dušan"
                      naslov0="Dediščine, dedno pravo in plemstvo na Kranjskem in slovenskem Štajerskem (posebej v 14. stoletju)"
@@ -7358,6 +7419,8 @@ Ljubljani in Teološko fakulteto</title>
             <pubPart>
                <author>Fugger Germadnik Rolanda</author>
                <title>Položaj ženske v celjski industriji v tridesetih letih 20. stoletja</title>
+               <page>181-197</page>
+               <cobiss>1767477</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="319" avtor0="Fugger Germadnik Rolanda"
                      naslov0="Položaj ženske v celjski industriji v tridesetih letih 20. stoletja"
@@ -7386,6 +7449,7 @@ Ljubljani in Teološko fakulteto</title>
                <author>Himmelreich Bojan</author>
                <title>Slovenski člani jugoslovanske delegacije na pariški mirovni konferenci 1919-1920</title>
                <page>163-179</page>
+               <cobiss>1767221</cobiss>
                <citedIn count="1">
                   <cit did="2274" cid="105" avtor0="Himmelreich Bojan"
                      naslov0="Slovenski člani jugoslovanske delegacije na pariški mirovni konferenci 1919-1920"
