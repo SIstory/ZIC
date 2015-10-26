@@ -7461,6 +7461,7 @@
                <author>Kos Dušan</author>
                <title>Lastniki, posestniki in prebivalci grajskih poslopij na Celjskem do začetka 15. stoletja</title>
                <page>17-60</page>
+               <cobiss>1763637</cobiss>
                <citedIn count="1">
                   <cit did="2604" cid="49" avtor0="Kos Dušan"
                      naslov0="Lastniki, posestniki in prebivalci grajskih poslopij na Celjskem do začetka 15. stoletja"
@@ -7470,7 +7471,9 @@
             </pubPart>
             <pubPart>
                <author>Žižek Aleksander</author>
-               <title>Kratek obris strukture in delovanja Štajerske domovinske zveze na Celjskem v letih 1941 do 1945</title>
+               <title>Kratek oris strukture in delovanja Štajerske domovinske zveze na Celjskem v letih 1941 do 1945</title>
+               <page>199-274</page>
+               <cobiss>1767733</cobiss>
                <citedIn count="1">
                   <cit did="2418" cid="62" avtor0="Žižek Aleksander"
                      naslov0="Kratek obris strukture in delovanja Štajerske domovinske zveze na Celjskem v letih 1941 do 1945"
@@ -7486,6 +7489,7 @@
                <author>Ravnikar Tone</author>
                <title>Gospodje Turnski v 13. stoletju</title>
                <page>7-16</page>
+               <cobiss>710197</cobiss>
                <citedIn count="2">
                   <cit did="2604" cid="96" avtor0="Ravnikar Tone"
                      naslov0="Gospodje Turnski v 13. stoletju" source="Celjski zbornik"
@@ -7534,6 +7538,7 @@
                <title>Thomas Fürstbauer</title>
                <title>Kronika mesta Celja 1892-1907 (2. del)</title>
                <page>211-254</page>
+               <cobiss>320309</cobiss>
                <citedIn count="1">
                   <cit did="2053" cid="3" avtor0="Cvirn Janez"
                      naslov0="Thomas Fürstbauer: Kronika mesta Celja 1892-1907 (2. del)"
@@ -7562,6 +7567,7 @@
                <author>Hozjan A.</author>
                <title>Pretok informacij v Celju 16. stoletja</title>
                <page>13-27</page>
+               <cobiss>3736580</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="71" avtor0="Hozjan A."
                      naslov0="Pretok informacij v Celju 16. stoletja" source="Celjski zbornik"
@@ -7572,6 +7578,7 @@
                <author>Mikola Milko</author>
                <title>Nacionalizacija zasebnih gospodarskih podjetij na Celjskem</title>
                <page>139-155</page>
+               <cobiss>311861</cobiss>
                <citedIn count="1">
                   <cit did="95" cid="6" avtor0="Mikola Milko"
                      naslov0="Nacionalizacija zasebnih gospodarskih podjetij na Celjskem"
@@ -7640,8 +7647,9 @@
             </pubPart>
             <pubPart>
                <author>Kolšek V.</author>
-               <title>Mala bronasta plastika iz Celja</title>
+               <title>Mala bronasta plastika iz Celeje</title>
                <page>7-26</page>
+               <cobiss>20499202</cobiss>
                <citedIn count="1">
                   <cit did="1943" cid="4" avtor0="Kolšek V."
                      naslov0="Mala bronasta plastika iz Celja" source="Celjski zbornik"
@@ -7650,9 +7658,10 @@
             </pubPart>
             <pubPart>
                <author>Orožen Božena</author>
-               <title>Dom, domovina in jezik</title>
-               <title>Alma Karlin - ob 40-letnici smrti svetovne popotnice in pisateljice</title>
+               <title>Dom, domovina in jezik - in Alma Karlin</title>
+               <title>ob 40-letnici smrti svetovne popotnice in pisateljice</title>
                <page>153-164</page>
+               <cobiss>316213</cobiss>
                <citedIn count="1">
                   <cit did="3157" cid="23" avtor0="Orožen Božena"
                      naslov0="Dom, domovina in jezik - Alma Karlin - ob 40-letnici smrti svetovne popotnice in pisateljice"
@@ -7660,27 +7669,22 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Orožen Janko</author>
-               <title>Zgodovina Celja in okolice. I. del</title>
-               <title>Od začetka do leta 1848</title>
-               <page>43-59</page>
-               <citedIn count="1">
-                  <cit did="1761" cid="156" avtor0="Orožen Janko"
-                     naslov0="Zgodovina Celja in okolice. I. del: Od začetka do leta 1848"
-                     source="Celjski zbornik" pubPlace="Celje" year="1990" page="43-59"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Voje Ignacij</author>
                <title>Celjski grofje in Dubrovnik</title>
                <page>27-41</page>
-               <citedIn count="2">
+               <citedIn count="4">
                   <cit did="3439" cid="190" avtor0="Voje Ignacij"
                      naslov0="Celjski grofje in Dubrovnik" source="Celjski zbornik" year="1990"
                      page="27-41"/>
                   <cit did="1761" cid="225" avtor0="Voje Ignacij"
                      naslov0="Celjski grofje in Dubrovnik" source="Celjski zbornik" year="1990"
                      page="27-41"/>
+                  <cit did="253" cid="50" avtor0="Voje Ignacij"
+                     naslov0="Celjski grofje in Dubrovnik" source="Celjski zbronik 1990"
+                     pubPlace="Celje" year="1989" page="27-41"/>
+                  <cit did="252" cid="47" avtor0="Voje Ignacij"
+                     naslov0="Celjski grofje in Dubrovnik" source="Celjski zbronik 1990"
+                     pubPlace="Celje" year="1989" page="27-41"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7700,19 +7704,6 @@
                   <cit did="123" cid="7" avtor0="Cvirn Janez"
                      naslov0="Celjska mestna policija v letih 1887-1914" source="Celjski zbornik"
                      pubPlace="Celje" volume="1989" page="319"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Voje Ignacij</author>
-               <title>Celjski grofje in Dubrovnik</title>
-               <page>27-41</page>
-               <citedIn count="2">
-                  <cit did="253" cid="50" avtor0="Voje Ignacij"
-                     naslov0="Celjski grofje in Dubrovnik" source="Celjski zbronik 1990"
-                     pubPlace="Celje" year="1989" page="27-41"/>
-                  <cit did="252" cid="47" avtor0="Voje Ignacij"
-                     naslov0="Celjski grofje in Dubrovnik" source="Celjski zbronik 1990"
-                     pubPlace="Celje" year="1989" page="27-41"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7736,8 +7727,9 @@
             </pubPart>
             <pubPart>
                <author>Silvester Martin</author>
-               <title>Medklubski sestanek jugoslovanskih Penklubov v Celju in Rogaški Slatini 1938</title>
+               <title>Medklubski sestanek jugoslovanskih Penklubov v Celju in Rogaški slatini</title>
                <page>149-162</page>
+               <cobiss>8251904</cobiss>
                <citedIn count="1">
                   <cit did="3154" cid="10" avtor0="Silvester Martin"
                      naslov0="Medklubski sestanek jugoslovanskih Penklubov v Celju in Rogaški Slatini 1938"
@@ -7764,8 +7756,10 @@
             </pubPart>
             <pubPart>
                <author>Zajc Cizelj Ivanka</author>
-               <title>K zgodovini glasbe v Celju (1824-1866)</title>
+               <title>K zgodovini glasbe v Celju</title>
+               <title>(1824-1866)</title>
                <page>305-306</page>
+               <cobiss>327477</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="164" avtor0="Zajc Cizelj Ivanka"
                      naslov0="K zgodovini glasbe v Celju (1824-1866)" source="Celjski zbornik"
@@ -7814,6 +7808,7 @@
                <author>Mikola Milko</author>
                <title>Vojna škoda, ki jo je Celje utrpelo med vojno 1941 - 1945</title>
                <page>197-202</page>
+               <cobiss>334389</cobiss>
                <citedIn count="1">
                   <cit did="95" cid="2" avtor0="Mikola Milko"
                      naslov0="Vojna škoda, ki jo je Celje utrpelo med vojno 1941 - 1945"
@@ -7822,8 +7817,10 @@
             </pubPart>
             <pubPart>
                <author>Novak Vlado</author>
-               <title>Študijska knjižnica v Celju (oris razvoja od 1946 do 1973)</title>
-               <page>8-9</page>
+               <title>Študijska knjižnica v Celju</title>
+               <title>(oris razvoja od 1946 do 1973)</title>
+               <page>7-13</page>
+               <cobiss>331317</cobiss>
                <citedIn count="1">
                   <cit did="96" cid="2" avtor0="Novak Vlado"
                      naslov0="Študijska knjižnica v Celju (oris razvoja od 1946 do 1973)"
@@ -7889,6 +7886,8 @@
             <pubPart>
                <author>Vurcer Jože</author>
                <title>Kozjansko 1944</title>
+               <page>31-63</page>
+               <cobiss>350005</cobiss>
                <citedIn count="1">
                   <cit did="1195" cid="18" avtor0="Vurcer Jože" naslov0="Kozjansko 1944"
                      source="Celjski zbornik" year="1984" volume="19"/>
@@ -7903,6 +7902,7 @@
                <author>Jakhel Dregon Olga</author>
                <title>Prestrukturiranje celjskega gospodarstva</title>
                <page>9-24</page>
+               <cobiss>354101</cobiss>
                <citedIn count="1">
                   <cit did="94" cid="4" avtor0="Jakhel Dregon Olga"
                      naslov0="Prestrukturiranje celjskega gospodarstva" source="Celjski zbornik"
@@ -7932,6 +7932,7 @@
                <author>Orožen Janko</author>
                <title>Problematičnost zgodovine grofov Celjanov</title>
                <page>183-200</page>
+               <cobiss>357173</cobiss>
                <citedIn count="2">
                   <cit did="1761" cid="154" avtor0="Orožen Janko"
                      naslov0="Problematičnost zgodovine grofov Celjanov" source="Celjski zbornik"
@@ -7969,9 +7970,11 @@
                </citedIn>
             </pubPart>
             <pubPart>
+               <!-- Celjski zbornik ; 1980. Posebna izdaja -->
                <author>Orožen Janko</author>
-               <title>Oris zgodovine Celja in njegove okolice (1941 - 1979)</title>
-               <page>52</page>
+               <title>Oris sodobne zgodovine Celja in okolice</title>
+               <title>1941-1979</title>
+               <cobiss>3285249</cobiss>
                <citedIn count="1">
                   <cit did="95" cid="4" avtor0="Orožen Janko"
                      naslov0="Oris zgodovine Celja in njegove okolice (1941 - 1979)"
@@ -7980,8 +7983,9 @@
             </pubPart>
             <pubPart>
                <author>Voje Ignacij</author>
-               <title>Katarina Celjska-Kotromanicka in njen pecat</title>
+               <title>Katarina Celjska - Kotromanićka in njen pečat</title>
                <page>287-292</page>
+               <cobiss>365877</cobiss>
                <citedIn count="1">
                   <cit did="2631" cid="371" avtor0="Voje Ignacij"
                      naslov0="Katarina Celjska-Kotromanicka in njen pecat"
@@ -7994,6 +7998,7 @@
       <year n="1977">
          <issue>
             <pubPart>
+               <!-- Napačno leto strani... V istem letu objavila avtorica tri članke... -->
                <author>Moškon Milena</author>
                <title>Občasne razstave Pokrajinskega muzeja v Celju v letih 1957-1967</title>
                <page>523-528</page>
@@ -8070,6 +8075,7 @@
                <author>Marolt Jože</author>
                <title>Deset let razstavne dejavnosti Muzeja revolucije v Celju</title>
                <page>533-558</page>
+               <cobiss>388149</cobiss>
                <citedIn count="1">
                   <cit did="96" cid="9" avtor0="Marolt Jože"
                      naslov0="Deset let razstavne dejavnosti Muzeja revolucije v Celju"
@@ -8082,8 +8088,10 @@
          <issue>
             <pubPart>
                <author>Roš Fran</author>
-               <title>Srečko Puncer njegovo življenje, delo in boj</title>
-               <page>209-233</page>
+               <title>Srečko Puncer</title>
+               <title>njegovo življenje, delo in boj</title>
+               <page>209-271</page>
+               <cobiss>391733</cobiss>
                <citedIn count="1">
                   <cit did="2432" cid="15" avtor0="Roš Fran"
                      naslov0="Srečko Puncer njegovo življenje, delo in boj" source="Celjski zbornik"
@@ -8098,6 +8106,7 @@
                <author>Terčak Stane</author>
                <title>Pet let dela Muzeja revolucije v Celju</title>
                <page>427-432</page>
+               <cobiss>421429</cobiss>
                <citedIn count="1">
                   <cit did="96" cid="8" avtor0="Terčak Stane"
                      naslov0="Pet let dela Muzeja revolucije v Celju" source="Celjski zbornik"
@@ -8111,6 +8120,8 @@
             <pubPart>
                <author>Sore Anton</author>
                <title>Razvoj obrtne dejavnosti v celjski občini po drugi svetovni vojni</title>
+               <page>31-47</page>
+               <cobiss>423733</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="267" avtor0="Sore Anton"
                      naslov0="Razvoj obrtne dejavnosti v celjski občini po drugi svetovni vojni"
@@ -8136,6 +8147,7 @@
                <author>Moškon Milena</author>
                <title>Celjska zbirka poslikanih panjskih končnic</title>
                <page>121-132</page>
+               <cobiss>429365</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="17" avtor0="Moškon Milena"
                      naslov0="Celjska zbirka poslikanih panjskih končnic" source="Celjski zbornik"
@@ -8180,6 +8192,8 @@
             <pubPart>
                <author>Jesenovec France</author>
                <title>Pogled v Hribarjevo celjsko Domovino</title>
+               <page>1818-194</page>
+               <cobiss>519733</cobiss>
                <citedIn count="2">
                   <cit did="3508" cid="37" avtor0="Jesenovec France"
                      naslov0="Pogled v Hribarjevo celjsko Domovino" source="Celjski zbornik"
@@ -8203,7 +8217,8 @@
             <pubPart>
                <author>Rode Matej</author>
                <title>Anton Aškerc v Bolgariji</title>
-               <page>195-200</page>
+               <page>195-250</page>
+               <cobiss>519989</cobiss>
                <citedIn count="1">
                   <cit did="152" cid="1" avtor0="Rode Matej" naslov0="Anton Aškerc v Bolgariji"
                      source="Celjski zbornik" pubPlace="Celje" year="1964" page="195-200"/>
@@ -8246,6 +8261,7 @@
                <title>Likovni salon</title>
                <title>novi celjski kulturni hram</title>
                <page>287-294</page>
+               <cobiss>525621</cobiss>
                <citedIn count="1">
                   <cit did="96" cid="22" avtor0="Kislinger Juro"
                      naslov0="Likovni salon - novi celjski kulturni hram" source="Celjski zbornik"
@@ -8303,6 +8319,7 @@
                <author>Orožen Janko</author>
                <title>Donesek k zgodovini Dobrne</title>
                <page>280-291</page>
+               <cobiss>1923637</cobiss>
                <citedIn count="3">
                   <cit did="2947" cid="9" avtor0="Orožen J." naslov0="Donesek k zgodovini Dobrne"
                      source="Celjski zbornik 1960" pubPlace="Celje" year="1960"/>
@@ -8336,6 +8353,7 @@
                <author>Grobelnik Ivan</author>
                <title>Nastanek in razvoj zdravilišča Dobrna</title>
                <page>107-118</page>
+               <cobiss>1916469</cobiss>
                <citedIn count="3">
                   <cit did="2947" cid="12" avtor0="Grobelnik I."
                      naslov0="Nastanek in razvoj zdravilišča Dobrna" source="Celjski zbornik"
@@ -8353,6 +8371,7 @@
                <author>Roš Fran</author>
                <title>Malgaj</title>
                <page>325-337</page>
+               <cobiss>1920309</cobiss>
                <citedIn count="1">
                   <cit did="2432" cid="9" avtor0="Roš Fran" naslov0="Malgaj"
                      source="Celjski zbornik 1959" pubPlace="Celje" year="1959" page="325-337"/>
@@ -8391,6 +8410,7 @@
                <author>Curk Jože</author>
                <title>Grad Gornje Celje</title>
                <page>103-152</page>
+               <cobiss>1903925</cobiss>
                <citedIn count="1">
                   <cit did="2053" cid="1" avtor0="Curk Jože" naslov0="Grad Gornje Celje"
                      source="Celjski zbornik" year="1957" page="103-152"/>
@@ -8400,6 +8420,7 @@
                <author>Roš Fran</author>
                <title>Maistrova celjska doba</title>
                <page>270-283</page>
+               <cobiss>1906485</cobiss>
                <citedIn count="1">
                   <cit did="3281" cid="2" avtor0="Roš Fran" naslov0="Maistrova celjska doba"
                      source="Celjski zbornik" pubPlace="Celje" year="1957" page="270-283"/>
@@ -8434,6 +8455,7 @@
                <author>Golia M.</author>
                <title>Obrtniško življenje v preteklosti</title>
                <page>39-53</page>
+               <cobiss>1845045</cobiss>
                <citedIn count="1">
                   <cit did="2614" cid="54" avtor0="Golia M."
                      naslov0="Obrtniško življenje v preteklosti" source="Celjski zbornik"
@@ -8442,8 +8464,9 @@
             </pubPart>
             <pubPart>
                <author>Grobelnik Gustav</author>
-               <title>Osemdesetlinica v nižjem trgovskem šolstvu v Celju</title>
+               <title>Osemdesetletnica v nižjem trgovskem šolstvu v Celju</title>
                <page>245-247</page>
+               <cobiss>1852725</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="358" avtor0="Grobelnik Gustav"
                      naslov0="Osemdesetlinica v nižjem trgovskem šolstvu v Celju" source="CZ"
@@ -8453,6 +8476,8 @@
             <pubPart>
                <author>Kač Lojze</author>
                <title>Hmeljarstvo v savinjski dolini</title>
+               <page>67-84</page>
+               <cobiss>1845557</cobiss>
                <citedIn count="1">
                   <cit did="3241" cid="273" avtor0="Kač Lojze"
                      naslov0="Hmeljarstvo v savinjski dolini" source="CZ" year="1951"/>
@@ -8461,7 +8486,9 @@
             <pubPart>
                <author>Strmšek P.</author>
                <title>Celjski literarni almanah</title>
+               <title>Ilustrovani narodni koledar 1890-1914</title>
                <page>240-243</page>
+               <cobiss>1852469</cobiss>
                <citedIn count="1">
                   <cit did="1232" cid="17" avtor0="Strmšek P." naslov0="Celjski literarni almanah"
                      source="Celjski zbornik 1951" pubPlace="Celje" year="1951" page="240-243"/>
@@ -8504,8 +8531,9 @@
          <issue>
             <pubPart>
                <author>Zupančič Jernej</author>
-               <title>Vloga Slovenske gimnazije v Celovcu</title>
+               <title>Vloga Slovenske gimnazije</title>
                <page>80-86</page>
+               <cobiss>1105997</cobiss>
                <citedIn count="1">
                   <cit did="2729" cid="29" avtor0="Zupančič Jernej"
                      naslov0="Vloga Slovenske gimnazije v Celovcu" source="Celovški zvon"
@@ -8536,6 +8564,7 @@
                <author>Klemenčič Matjaž</author>
                <title>Razvoj slovenskih far v Clevelandu</title>
                <page>51–60</page>
+               <cobiss>3012356</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="53" avtor0="Klemenčič Matjaž"
                      naslov0="Razvoj slovenskih far v Clevelandu" source="Celovški zvon"
@@ -8562,6 +8591,7 @@
                <author>Vospernik Reginald</author>
                <title>Iz koroških obzorij</title>
                <page>11-13</page>
+               <cobiss>36578304</cobiss>
                <citedIn count="1">
                   <cit did="1292" cid="3" avtor0="Vospernik Reginald" naslov0="Iz koroških obzorij"
                      source="Celovški zvon" year="1991" issue="32" page="11-13"/>
@@ -8576,6 +8606,7 @@
                <author>Ošlak Vinko</author>
                <title>Svetovni slovenski kongres</title>
                <page>71-76</page>
+               <cobiss>18145536</cobiss>
                <citedIn count="1">
                   <cit did="1292" cid="10" avtor0="Ošlak Vinko" naslov0="Svetovni slovenski kongres"
                      source="Celovški zvon" year="1990" volume="8" issue="26" page="71-76"/>
@@ -8585,6 +8616,7 @@
                <author>Pipp Marijan</author>
                <title>Koroški Slovenci smo potrebni demokratične prenove</title>
                <page>24-26</page>
+               <cobiss>18142720</cobiss>
                <citedIn count="1">
                   <cit did="1292" cid="1" avtor0="Pipp Marijan"
                      naslov0="Koroški Slovenci smo potrebni demokratične prenove"
@@ -8628,6 +8660,7 @@
                <author>Blažič Viktor</author>
                <title>Srednja Evropa</title>
                <page>21-31</page>
+               <cobiss>17544960</cobiss>
                <citedIn count="1">
                   <cit did="1552" cid="6" avtor0="Blažič Viktor" naslov0="Srednja Evropa"
                      source="Celovški zvon" year="1988" volume="5" issue="18" page="21-31"/>
@@ -8658,8 +8691,9 @@
             <pubPart>
                <author>Klemenčič M.</author>
                <author>Klemenčič Matjaž</author>
-               <title>Slovenci v ameriški statistiki v 19. in 20. stoletju</title>
+               <title>Slovenci v ameriški statistiki</title>
                <page>23-31</page>
+               <cobiss>5464068</cobiss>
                <citedIn count="2">
                   <cit did="2080" cid="14" avtor0="Klemenčič M."
                      naslov0="Slovenci v ameriški statistiki v 19. in 20. stoletju"
@@ -8687,6 +8721,7 @@
                <title>(Ne)zaželeni sosed</title>
                <title>Grožnja in varnost v diskurzu evropske imigracijske politike</title>
                <page>90-101</page>
+               <cobiss>28987229</cobiss>
                <citedIn count="1">
                   <cit did="2648" cid="8" avtor0="Banjac Marinko"
                      naslov0="(Ne)zaželeni sosed: Grožnja in varnost v diskurzu evropske imigracijske politike"
@@ -8698,6 +8733,7 @@
                <author>Flemin Fleming K. E.</author>
                <title>Orientalizem, Balkan in balkansko zgodovinopisje</title>
                <page>16-28</page>
+               <cobiss>28587613</cobiss>
                <citedIn count="1">
                   <cit did="3059" cid="5" avtor0="Flemin Fleming K. E."
                      naslov0="Orientalizem, Balkan in balkansko zgodovinopisje"
@@ -8709,6 +8745,7 @@
                <author>Ilc Blaž</author>
                <title>Trdoživost evroorientalizma</title>
                <page>29-44</page>
+               <cobiss>28584029</cobiss>
                <citedIn count="1">
                   <cit did="2648" cid="43" avtor0="Ilc Blaž" naslov0="Trdoživost evroorientalizma"
                      source="Časopis za kritiko znanosti" year="2009" volume="37" issue="235/236"
@@ -8732,11 +8769,13 @@
             </pubPart>
          </issue>
          <issue n="238">
+            <pubTitle>Horizont bojev : na lateralah, mejah in marginah</pubTitle>
             <pubPart>
                <author>Mozetič P.</author>
                <title>Nevidni delavci sveta</title>
                <title>zaposlovanje in delo »neevropskih« državljanov tretjih držav in režim delavskih domov</title>
                <page>31-50</page>
+               <cobiss>1396302</cobiss>
                <citedIn count="1">
                   <cit did="3055" cid="15" avtor0="Mozetič P."
                      naslov0="Nevidni delavci sveta: zaposlovanje in delo »neevropskih« državljanov tretjih držav in režim delavskih domov"
@@ -8747,9 +8786,10 @@
             <pubPart>
                <author>Palaić Tina</author>
                <author>Jazbinšek Simona</author>
-               <title>Zdravje - čovekova pravica?</title>
+               <title>Zdravje - človekova pravica?</title>
                <title>Prosilke in prosilci za mednarodno zaščito</title>
                <page>154-162</page>
+               <cobiss>1398862</cobiss>
                <citedIn count="1">
                   <cit did="2932" cid="44" avtor0="Palaić Tina" avtor1="Jazbinšek Simona"
                      naslov0="Zdravje - čovekova pravica? Prosilke in prosilci za mednarodno zaščito"
@@ -8782,6 +8822,7 @@
                <author>Polajnar Janez</author>
                <title>Prihod za sramežljivost in javno nravnost grobo škodljivih filmov na Slovensko</title>
                <page>11-31</page>
+               <cobiss>231914752</cobiss>
                <citedIn count="1">
                   <cit did="454" cid="41" avtor0="Polajnar Janez"
                      naslov0="Prihod za sramežljivost in javno nravnost grobo škodljivih filmov na Slovensko"
@@ -8794,6 +8835,7 @@
                <author>Vodeb Oliver</author>
                <title>Oblikovanje je javni govor</title>
                <page>301-316</page>
+               <cobiss>38567266</cobiss>
                <citedIn count="1">
                   <cit did="2011" cid="29" avtor0="Vodeb Oliver"
                      naslov0="Oblikovanje je javni govor" source="Časopis za kritiko znanosti"
@@ -8809,6 +8851,7 @@
                <author>Brumen Borut</author>
                <title>Migracije nigrskih Tuaregov v Libijo</title>
                <page>237-253</page>
+               <cobiss>29074530</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="30" avtor0="Brumen Borut"
                      naslov0="Migracije nigrskih Tuaregov v Libijo"
@@ -8821,6 +8864,7 @@
                <title>Migrant ali državljan</title>
                <title>Argentinski migranti v transnacionalnem prostoru</title>
                <page>223-236</page>
+               <cobiss>29073506</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="183" avtor0="Repič Jaka"
                      naslov0="Migrant ali državljan? Argentinski migranti v transnacionalnem prostoru"
@@ -8836,6 +8880,7 @@
                <author>Brumen Borut</author>
                <title>Privatizacija vojne ali kakšno zvezo ima Afrika z okupacijo Iraka</title>
                <page>76-90</page>
+               <cobiss>24217442</cobiss>
                <citedIn count="1">
                   <cit did="2656" cid="6" avtor0="Brumen Borut"
                      naslov0="Privatizacija vojne ali kakšno zvezo ima Afrika z okupacijo Iraka"
@@ -8852,6 +8897,7 @@
                <author>Baltić Admir</author>
                <title>Predsodki »Neslovencev« do Slovencev</title>
                <page>161–180</page>
+               <cobiss>123470592</cobiss>
                <citedIn count="1">
                   <cit did="2845" cid="3" avtor0="Baltić Admir"
                      naslov0="Predsodki »Neslovencev« do Slovencev"
@@ -8863,6 +8909,7 @@
                <author>Bougarel Xavier</author>
                <title>Avtoritarna reislamizacija in nove sestave v bosanskem islamu</title>
                <page>207-216</page>
+               <cobiss>123531520</cobiss>
                <citedIn count="1">
                   <cit did="2861" cid="13" avtor0="Bougarel Xavier"
                      naslov0="Avtoritarna reislamizacija in nove sestave v bosanskem islamu"
@@ -8875,6 +8922,7 @@
                <title>In hoc signo vinces</title>
                <title>verski simbolizem v vojnah na Balkanu 1991-1995</title>
                <page>193-206</page>
+               <cobiss>21789277</cobiss>
                <citedIn count="1">
                   <cit did="2861" cid="42" avtor0="Velikonja Mitja"
                      naslov0="In hoc signo vinces: verski simbolizem v vojnah na Balkanu 1991-1995"
@@ -8886,8 +8934,9 @@
          <issue n="207-208">
             <pubPart>
                <author>Breznik M.</author>
-               <title>»Spoznavna podlaga kulturne zgodovine«</title>
+               <title>Spoznavna podlaga kulturne zgodovine</title>
                <page>57-71</page>
+               <cobiss>21311581</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="36" avtor0="Breznik M."
                      naslov0="»Spoznavna podlaga kulturne zgodovine«"
@@ -8897,8 +8946,9 @@
             </pubPart>
             <pubPart>
                <author>Levi G.</author>
-               <title>Kaj je zgodovinska resnica?</title>
+               <title>O zgodovinski resnici</title>
                <page>43-55</page>
+               <cobiss>21311325</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="202" avtor0="Levi G." naslov0="Kaj je zgodovinska resnica?"
                      source="Časopis za kritiko znanosti" year="2002" volume="30" issue="207-208"
@@ -8976,6 +9026,7 @@
                <title>Arheologija etnosa</title>
                <title>Konstrukcija identitete</title>
                <page>111-126</page>
+               <cobiss>20242013</cobiss>
                <citedIn count="1">
                   <cit did="425" cid="85" avtor0="Jones SiÃ¢n"
                      naslov0="Arheologija etnosa, Konstrukcija identitete"
@@ -8987,6 +9038,7 @@
                <author>Novak Maja</author>
                <title>Grafit kot eden izmed načinov subkulturnega izražanja</title>
                <page>345-365</page>
+               <cobiss>20250717</cobiss>
                <citedIn count="1">
                   <cit did="2168" cid="1" avtor0="Novak Maja"
                      naslov0="Grafit kot eden izmed načinov subkulturnega izražanja"
@@ -9084,8 +9136,10 @@
             </pubPart>
             <pubPart>
                <author>Rener T.</author>
-               <title>Identitete in porabništvo â€” stara pravila nove igre</title>
+               <title>Identitete in porabništvo</title>
+               <title>stara pravila nove igre</title>
                <page>12-19</page>
+               <cobiss>18667101</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="283" avtor0="Rener T."
                      naslov0="Identitete in porabništvo â€” stara pravila nove igre"
@@ -9158,6 +9212,7 @@
                <title>Z domorodskega zornega kota</title>
                <title>o naravi antropološkega razumevanja</title>
                <page>91-105</page>
+               <cobiss>16948317</cobiss>
                <citedIn count="1">
                   <cit did="2660" cid="19" avtor0="Geertz Cliford"
                      naslov0="Z domorodskega zornega kota: o naravi antropološkega razumevanja"
@@ -9169,6 +9224,7 @@
                <title>Zakaj se Judje niso ustalili v slovenskem prostoru</title>
                <title>stereotipi o Judih na Slovenskem in Ahasver</title>
                <page>47-62</page>
+               <cobiss>16947293</cobiss>
                <citedIn count="1">
                   <cit did="1743" cid="5" avtor0="Hudelja Mihael"
                      naslov0="Zakaj se Judje niso ustalili v slovenskem prostoru: stereotipi o Judih na Slovenskem in Ahasver"
@@ -9184,6 +9240,8 @@
             <pubPart>
                <author>Mojzes Paul</author>
                <title>Mitski element</title>
+               <page>21-26</page>
+               <cobiss>16552029</cobiss>
                <citedIn count="1">
                   <cit did="2625" cid="73" avtor0="Mojzes Paul" naslov0="Mitski element"
                      source="Časopis za kritiko znanosti, domišljijo in novo antropologijo"
@@ -9236,6 +9294,7 @@
                <title>Svetničin mož</title>
                <title>Očetovska vloga, materinska vloga in italijanska politika</title>
                <page>133-146</page>
+               <cobiss>63807744</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="1" avtor0="Accati L." naslov0="Svetničin mož"
                      naslov1="Očetovska vloga, materinska vloga in italijanska politika"
@@ -9247,7 +9306,8 @@
                <author>Krese Baskar M., Baskar B.</author>
                <title>Mediteranska prehrana</title>
                <title>kje je Mediteran?</title>
-               <page>69-71</page>
+               <page>69-81</page>
+               <cobiss>949553</cobiss>
                <citedIn count="1">
                   <cit did="732" cid="11" avtor0="Krese Baskar M., Baskar B."
                      naslov0="Mediteranska prehrana : kje je Mediteran?"
@@ -9259,6 +9319,7 @@
                <author>Darovec Darko</author>
                <title>Migracije in (etnična) dihotomija mesto-podeželje v Istri do konca 18. stoletja</title>
                <page>179-193</page>
+               <cobiss>951089</cobiss>
                <citedIn count="1">
                   <cit did="1970" cid="2" avtor0="Darovec Darko"
                      naslov0="Migracije in (etnična) dihotomija mesto-podeželje v Istri do konca 18. stoletja"
@@ -9285,6 +9346,7 @@
                <author>Wraber T.</author>
                <title>Sredozemsko rastlinstvo na Slovenskem</title>
                <page>35-44</page>
+               <cobiss>948785</cobiss>
                <citedIn count="1">
                   <cit did="732" cid="21" avtor0="Wraber T."
                      naslov0="Sredozemsko rastlinstvo na Slovenskem"
@@ -9357,8 +9419,8 @@
             <pubPart>
                <author>De Kerckhove D.</author>
                <title>Virtualna resničnost za kolektivno kognitivno obdelavo</title>
-               <title>Virtualna resničnost</title>
                <page>25-35</page>
+               <cobiss>70979584</cobiss>
                <citedIn count="1">
                   <cit did="2008" cid="11" avtor0="De Kerckhove D."
                      naslov0="Virtualna resničnost za kolektivno kognitivno obdelavo: Virtualna resničnost"
@@ -9374,6 +9436,8 @@
                <author>Žagar Igor, Tancig Peter</author>
                <title>Računalniška analiza "napadov na JLA"</title>
                <page>141-149</page>
+               <cobiss>14472487</cobiss>
+               <cobiss>111774464</cobiss>
                <citedIn count="1">
                   <cit did="847" cid="5" avtor0="Žagar Igor, Tancig Peter"
                      naslov0="Računalniška analiza &#34;napadov na JLA&#34;"
@@ -9399,7 +9463,8 @@
             <pubPart>
                <author>Ule Mirjana</author>
                <title>Od dominacije potreb k stilizaciji življenja</title>
-               <page>103-104</page>
+               <page>103-116</page>
+               <cobiss>18669917</cobiss>
                <citedIn count="1">
                   <cit did="2526" cid="37" avtor0="Ule Mirjana"
                      naslov0="Od dominacije potreb k stilizaciji življenja"
@@ -9416,6 +9481,7 @@
                <author>Jezernik Božidar</author>
                <title>Zgodovina v zgodbah ustne tradicije</title>
                <page>239-277</page>
+               <cobiss>30344546</cobiss>
                <citedIn count="1">
                   <cit did="1635" cid="21" avtor0="Jezernik Božidar"
                      naslov0="Zgodovina v zgodbah ustne tradicije"
@@ -9443,7 +9509,8 @@
                <author>Mastnak Tomaž</author>
                <title>Obravnavanje marksizma v delih slovenskih teologov</title>
                <title>Prispevek k razrednemu boju v »slovenski kulturi«</title>
-               <page>72-74</page>
+               <page>1-326</page>
+               <cobiss>8476770</cobiss>
                <citedIn count="1">
                   <cit did="3253" cid="37" avtor0="Mastnak Tomaž"
                      naslov0="Obravnavanje marksizma v delih slovenskih teologov. Prispevek k razrednemu boju v »slovenski kulturi«"
@@ -9460,6 +9527,7 @@
                <author>Jogan M.</author>
                <title>Ralf Dahrendorf in razredni konflikt v 'industrijski' družbi</title>
                <page>46-71</page>
+               <cobiss>10226530</cobiss>
                <citedIn count="1">
                   <cit did="1936" cid="8" avtor0="Jogan M."
                      naslov0="Ralf Dahrendorf in razredni konflikt v 'industrijski' družbi"
@@ -9484,6 +9552,7 @@
                <author>Bartky Lee Sandra</author>
                <title>Foucault, ženskost in modernizacija patriarhalne oblasti</title>
                <page>59-86</page>
+               <cobiss>26228573</cobiss>
                <citedIn count="1">
                   <cit did="2417" cid="1" avtor0="Bartky Lee Sandra"
                      naslov0="Foucault. ženskost in modernizacija patriarhalne oblasti"
@@ -9500,6 +9569,7 @@
                <title>Fanny Mongellaz</title>
                <title>prezrti člen zgodovine evropskega feminizma</title>
                <page>103-114</page>
+               <cobiss>234574336</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="315" avtor0="Šauperl M."
                      naslov0="Fanny Mongellaz - prezrti člen zgodovine evropskega feminizma"
@@ -9516,6 +9586,7 @@
                <title>Med patološkim in normalnim spolom</title>
                <title>Jerry Springer vs. Tiskani oglasi</title>
                <page>99-117</page>
+               <cobiss>22882397</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="249" avtor0="Jakopič K."
                      naslov0="Med patološkim in normalnim spolom : Jerry Springer vs. Tiskani oglasi"
@@ -9526,6 +9597,7 @@
                <author>Jogan M., Lazar M.</author>
                <title>Konstrukcija bralke v ženski mesečni periodiki</title>
                <page>141-158</page>
+               <cobiss>22882909</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="253" avtor0="Jogan M., Lazar M."
                      naslov0="Konstrukcija bralke v ženski mesečni periodiki" source="Delta"
@@ -9547,8 +9619,9 @@
             </pubPart>
             <pubPart>
                <author>Oseli P.</author>
-               <title>Ženski spol v televizijski fikciiji Star Trek Voyager</title>
+               <title>Ženski spol v televizijski fikciji Star Trek Voyager</title>
                <page>79-98</page>
+               <cobiss>22882141</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="267" avtor0="Oseli P."
                      naslov0="Ženski spol v televizijski fikciiji Star Trek Voyager" source="Delta"
@@ -9557,8 +9630,9 @@
             </pubPart>
             <pubPart>
                <author>Vidmar K. H.</author>
-               <title>Spolne mitologije v dobi " globalne kulture</title>
+               <title>Spolne mitologije v dobi "globalne kulture"</title>
                <page>35-59</page>
+               <cobiss>23575650</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="302" avtor0="Vidmar K. H."
                      naslov0="Spolne mitologije v dobi &#34; globalne kulture" source="Delta"
@@ -9567,8 +9641,9 @@
             </pubPart>
             <pubPart>
                <author>Vidmar K. H.</author>
-               <title>Ženski žanri -feministična kultura?</title>
+               <title>Ženski žanri - feministična kultura?</title>
                <page>5-7</page>
+               <cobiss>23576418</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="301" avtor0="Vidmar K. H."
                      naslov0="Ženski žanri -feministična kultura?" source="Delta" year="2003"
@@ -9579,6 +9654,7 @@
                <author>Vogrinc J.</author>
                <title>Ali je ženska na fotografiji človek?</title>
                <page>61-78</page>
+               <cobiss>23576674</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="300" avtor0="Vogrinc J."
                      naslov0="Ali je ženska na fotografiji človek?" source="Delta" year="2003"
@@ -9589,9 +9665,10 @@
          <issue n="3-4">
             <pubPart>
                <author>Drglin Z.</author>
-               <title>Študenske ženske študije</title>
+               <title>Študentke ženskih študij</title>
                <title>še neodkrita vrsta?</title>
                <page>63-69</page>
+               <cobiss>1226981</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="56" avtor0="Drglin Z."
                      naslov0="Študenske ženske študije - še neodkrita vrsta?"
@@ -9603,6 +9680,7 @@
                <author>Gržinić M.</author>
                <title>Ženske študije na teritoriju Jugoslavije</title>
                <page>167-177</page>
+               <cobiss>22895661</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="84" avtor0="Gržinić M."
                      naslov0="Ženske študije na teritoriju Jugoslavije"
@@ -9617,9 +9695,10 @@
          <issue n="3-4">
             <pubPart>
                <author>Gajgar M.</author>
-               <title>"Prva " ženska</title>
+               <title>"Prva" ženska</title>
                <title>morska deklica?</title>
                <page>29-64</page>
+               <cobiss>22116445</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="234" avtor0="Gajgar M."
                      naslov0="&#34;Prva &#34; ženska - morska deklica?" source="Delta" year="2002"
@@ -9630,6 +9709,7 @@
                <author>Irigaray Luce</author>
                <title>Spolna razlika</title>
                <page>119-130</page>
+               <cobiss>22115421</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="248" avtor0="Irigaray Luce" naslov0="Spolna razlika"
                      source="Delta" year="2002" volume="8" issue="3-4" page="119-130"/>
@@ -9640,8 +9720,9 @@
             <pubPart>
                <author>Osipovich T.</author>
                <title>Po pošti naročene ruske neveste</title>
-               <title>seka, kriminal in kulturni stereo-tipi</title>
+               <title>seka, kriminal in kulturni stereotipi</title>
                <page>187-201</page>
+               <cobiss>21885021</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="268" avtor0="Osipovich T."
                      naslov0="Po pošti naročene ruske neveste : seka, kriminal in kulturni stereo-&#xA;tipi"
@@ -9657,6 +9738,7 @@
                <author>Pečarič H.</author>
                <title>Hendikepirano telo in nadzorovanje spola</title>
                <page>89-105</page>
+               <cobiss>21567325</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="279" avtor0="Pečarič H."
                      naslov0="Hendikepirano telo in nadzorovanje spola" source="Delta" year="2001"
@@ -9672,7 +9754,8 @@
             <pubPart>
                <author>Alajbegović - Pečovnik Z.</author>
                <title>Mesto žensk</title>
-               <page>161-163</page>
+               <page>161-164</page>
+               <cobiss>216581376</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="336" avtor0="Alajbegović - Pečovnik Z." naslov0="Mesto žensk"
                      source="Delta" year="1999" volume="1-2" page="161-163"/>
@@ -9695,6 +9778,7 @@
                <author>Haraway D.</author>
                <title>O pisanju slovarskega gesla "spol"</title>
                <page>151-155</page>
+               <cobiss>19876957</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="239" avtor0="Haraway D."
                      naslov0="O pisanju slovarskega gesla &#34;spol&#34;" source="Delta" year="1999"
@@ -9705,6 +9789,7 @@
                <author>Hays - Gilpin K.,  Whitley, D. S.</author>
                <title>Vpeljava spolov v preteklost</title>
                <page>175-184</page>
+               <cobiss>19877725</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="240" avtor0="Hays - Gilpin K.,  Whitley, D. S."
                      naslov0="Vpeljava spolov v preteklost" source="Delta" year="1999" volume="5"
@@ -9716,6 +9801,7 @@
                <title>Več zlih kot lepih</title>
                <title>podoba ženske v slovenskih osnovnošolskih berilih</title>
                <page>133-150</page>
+               <cobiss>559959</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="246" avtor0="Hrženjak M."
                      naslov0="Več zlih kot lepih : podoba ženske v slovenskih osnovnošolskih berilih"
@@ -9774,8 +9860,9 @@
             </pubPart>
             <pubPart>
                <author>Truth  S.</author>
-               <title>Al'nisem ženska?</title>
+               <title>Al' nisem ženska?</title>
                <page>75-76</page>
+               <cobiss>421207</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="296" avtor0="Truth  S." naslov0="Al'nisem ženska?"
                      source="Delta" year="1997" volume="3" issue="3-4" page="75-76"/>
@@ -9786,6 +9873,7 @@
                <title>Ženske v literaturi</title>
                <title>podobe, polemike in paradoksi</title>
                <page>41-51</page>
+               <cobiss>420695</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="303" avtor0="Vendramin V."
                      naslov0="Ženske v literaturi : podobe, polemike in paradoksi" source="Delta"
@@ -9801,6 +9889,7 @@
                <author>MacKinnon C. A.</author>
                <title>Spolno nadlegovanje kot spolna diskriminacija</title>
                <page>93-102</page>
+               <cobiss>105176064</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="255" avtor0="MacKinnon C. A."
                      naslov0="Spolno nadlegovanje kot spolna diskriminacija" source="Delta"
@@ -9810,7 +9899,8 @@
             <pubPart>
                <author>Šugman  K.</author>
                <title>Carol Gilligan ali ženska morala in pravo</title>
-               <page>71-88</page>
+               <page>71-92</page>
+               <cobiss>80370688</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="292" avtor0="Šugman  K."
                      naslov0="Carol Gilligan ali ženska morala in pravo" source="Delta" year="1996"
@@ -9821,8 +9911,9 @@
          <issue n="1-2">
             <pubPart>
                <author>Iveković Rada</author>
-               <title>Kako nacionalizem in vojna prizadaneta ženske</title>
-               <page>8-9</page>
+               <title>Kako nacionalizem in vojna prizadeneta ženske</title>
+               <page>7-12</page>
+               <cobiss>61971456</cobiss>
                <citedIn count="1">
                   <cit did="226" cid="93" avtor0="Iveković Rada"
                      naslov0="Kako nacionalizem in vojna prizadaneta ženske"
@@ -9834,6 +9925,8 @@
                <author>Vrečer Natalija</author>
                <title>Glasovi begunk</title>
                <title>etnografski vidik vsakdanjega življenja v begunskem zbirnem centru</title>
+               <page>39-49</page>
+               <cobiss>61972736</cobiss>
                <citedIn count="1">
                   <cit did="2907" cid="26" avtor0="Vrečer Natalija"
                      naslov0="Glasovi begunk: etnografski vidik vsakdanjega življenja v begunskem zbirnem centru"
@@ -9862,6 +9955,7 @@
                <author>Bahovec E. D.</author>
                <title>Žensko telo in oblast v mediju vizualnega</title>
                <page>19-40</page>
+               <cobiss>31575</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="223" avtor0="Bahovec E. D."
                      naslov0="Žensko telo in oblast v mediju vizualnega" source="Delta 1"
@@ -9928,8 +10022,10 @@
          <issue n="3-4">
             <pubPart>
                <author>Šav Vlado</author>
-               <title>Gledališka transgresija Jerzva Grotowskega ali zahodna duhovna iniciacija med Elevzino in Vroclavom</title>
+               <title>Gledališka transgresija Jerzyja Grotowskega</title>
+               <title>ali zahodna duhovna iniciacija med Elevzino in Vroclavom</title>
                <page>39-56</page>
+               <cobiss>118526720</cobiss>
                <citedIn count="1">
                   <cit did="3084" cid="22" avtor0="Šav Vlado"
                      naslov0="Gledališka transgresija Jerzva Grotowskega ali zahodna duhovna iniciacija med Elevzino in Vroclavom"
@@ -9944,8 +10040,8 @@
             <pubPart>
                <author>Šav Vlado</author>
                <title>Grotowski in mi</title>
-               <title>Dialogi</title>
                <page>27-43</page>
+               <cobiss>111714560</cobiss>
                <citedIn count="1">
                   <cit did="3084" cid="21" avtor0="Šav Vlado" naslov0="Grotowski in mi. Dialogi"
                      source="Dialogi" year="1999" volume="35" issue="7-8" page="27-43"/>
@@ -9961,6 +10057,7 @@
                <title>Ritualno gledališče</title>
                <title>Od svetega v profano in nazaj</title>
                <page>11-20</page>
+               <cobiss>76482048</cobiss>
                <citedIn count="1">
                   <cit did="3084" cid="18" avtor0="Šav Vlado"
                      naslov0="Ritualno gledališče. Od svetega v profano in nazaj" source="Dialogi"
@@ -9976,6 +10073,7 @@
                <author>Štrajn D.</author>
                <title>Študentska gibanja v ZDA, Nemčiji in Franciji</title>
                <page>13-23</page>
+               <cobiss>276311</cobiss>
                <citedIn count="1">
                   <cit did="2501" cid="6" avtor0="Štrajn D."
                      naslov0="Študentska gibanja v ZDA, Nemčiji in Franciji" source="Dialogi"
@@ -9987,12 +10085,13 @@
       <year n="1986">
          <volume>XXII</volume>
          <issue n="10">
+            <!-- Knjiga -->
             <pubPart>
                <author>Godina Golija Maja</author>
-               <title>Maribor 1919</title>
-               <title>1941</title>
+               <title>Maribor 1919-1941</title>
                <title>oris družabnega življenja</title>
                <page>43-44</page>
+               <cobiss>20916481</cobiss>
                <citedIn count="1">
                   <cit did="3289" cid="147" avtor0="Godina Golija Maja"
                      naslov0="Maribor 1919 - 1941 : oris družabnega življenja"
@@ -10022,6 +10121,8 @@
             <pubPart>
                <author>Rudolf Branko</author>
                <title>Spomini na Cirila Kosmača</title>
+               <page>193-195</page>
+               <cobiss>41805824</cobiss>
                <citedIn count="1">
                   <cit did="3333" cid="18" avtor0="Rudolf Branko"
                      naslov0="Spomini na Cirila Kosmača" source="Dialogi" year="1980" issue="4"/>
@@ -10033,8 +10134,10 @@
          <issue n="7-8">
             <pubPart>
                <author>Šiftar Vanek</author>
-               <title>Romi v Sloveniji (s posebnim poudarkom na njihov položaj v Prekmurju in občini Novo mesto)</title>
+               <title>Romi v Sloveniji</title>
+               <title>(s posebnim poudarkom na njihov položaj v Prekmurju in občini Novo mesto)</title>
                <page>426-442</page>
+               <cobiss>4789811</cobiss>
                <citedIn count="1">
                   <cit did="2906" cid="26" avtor0="Šiftar Vanek"
                      naslov0="Romi v Sloveniji (s posebnim poudarkom na njihov položaj v Prekmurju in občini Novo mesto)"
@@ -10050,7 +10153,8 @@
             <pubPart>
                <author>Šiftar Vanek</author>
                <title>Madžarizacija in prekmurski tisk v začetku XX. stoletja</title>
-               <page>209-211</page>
+               <page>205-212</page>
+               <cobiss>4760627</cobiss>
                <citedIn count="1">
                   <cit did="2131" cid="11" avtor0="Šiftar Vanek"
                      naslov0="Madžarizacija in prekmurski tisk v začetku XX. stoletja"
@@ -10061,21 +10165,16 @@
          <issue n="7">
             <pubPart>
                <author>Škafar Ivan</author>
-               <title>Slovenska narodna zavest</title>
-               <page>554-571</page>
-               <citedIn count="1">
-                  <cit did="2131" cid="33" avtor0="Škafar Ivan" naslov0="Slovenska narodna zavest"
-                     source="Dialogi" year="1970" volume="8-9" page="554-571"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Škafar Ivan</author>
                <title>Slovenska narodna zavest dr. Franca Ivanocyja in narodnostni pomen prekmurskega tiska v XX. stoletju</title>
-               <page>464-469</page>
-               <citedIn count="1">
+               <page>463-479</page>
+               <page>554-571</page>
+               <cobiss>4760883</cobiss>
+               <citedIn count="2">
                   <cit did="2131" cid="28" avtor0="Škafar Ivan"
                      naslov0="Slovenska narodna zavest dr. Franca Ivanocyja in narodnostni pomen prekmurskega tiska v XX. stoletju"
                      source="Dialogi" year="1970" volume="7" page="464-469"/>
+                  <cit did="2131" cid="33" avtor0="Škafar Ivan" naslov0="Slovenska narodna zavest"
+                     source="Dialogi" year="1970" volume="8-9" page="554-571"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10084,6 +10183,7 @@
                <author>Zorn Tone</author>
                <title>Sherman Miles in Koroška januarja in februarja 1919</title>
                <page>683-685</page>
+               <cobiss>1213908</cobiss>
                <citedIn count="1">
                   <cit did="2274" cid="197" avtor0="Zorn Tone"
                      naslov0="Sherman Miles in Koroška januarja in februarja 1919"
@@ -10096,7 +10196,7 @@
          <issue n="1-3">
             <pubPart>
                <author>Berkopec Oton</author>
-               <title>Prežihov Pankrac v luči praških arhivov</title>
+               <title>Prežihov Pankrác v luči praških arhivov</title>
                <citedIn count="1">
                   <cit did="3022" cid="178" avtor0="Berkopec Oton"
                      naslov0="Prežihov Pankrac v luči praških arhivov" source="Dialogi"
@@ -10378,6 +10478,7 @@
                <author>Bernik I.</author>
                <title>Spolnost v času individualizma in racionalnosti</title>
                <page>7-24</page>
+               <cobiss>30030685</cobiss>
                <citedIn count="1">
                   <cit did="3040" cid="5" avtor0="Bernik I."
                      naslov0="Spolnost v času individualizma in racionalnosti"
@@ -10390,6 +10491,7 @@
                <title>Ljubezen na prvi klik</title>
                <title>Uporaba interneta za spoznavanje intimnih in seksualnih partnerjev</title>
                <page>45-64</page>
+               <cobiss>30031197</cobiss>
                <citedIn count="1">
                   <cit did="3041" cid="13" avtor0="Kuhar R., Kogovšek T., Švab A."
                      naslov0="Ljubezen na prvi klik: Uporaba interneta za spoznavanje intimnih in seksualnih partnerjev"
@@ -10423,6 +10525,7 @@
                <author>Tomšič M.</author>
                <title>Kulturne značilnosti slovenskih elit luči evropskih integracijskih procesov</title>
                <page>73-91</page>
+               <cobiss>25078877</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="40" avtor0="Tomšič M."
                      naslov0="Kulturne značilnosti slovenskih elit luči evropskih integracijskih procesov"
@@ -10437,6 +10540,7 @@
                <author>Rončević Borut</author>
                <title>Etnične manjšine v slovenskih množičnih medijih</title>
                <page>45-65</page>
+               <cobiss>5599774</cobiss>
                <citedIn count="1">
                   <cit did="2717" cid="10" avtor0="Makarovič Matej" avtor1="Rončević Borut"
                      naslov0="Etnične manjšine v slovenskih množičnih medijih"
@@ -10469,8 +10573,9 @@
          <issue n="43">
             <pubPart>
                <author>Kramberger T.</author>
-               <title>Od Joiningthe Club h grotesknosti slovenske adaptacije na neoliberalizem</title>
+               <title>Od Joining the Club h grotesknosti slovenske adaptacije na neoliberalizem</title>
                <page>77-95</page>
+               <cobiss>595923</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="187" avtor0="Kramberger T."
                      naslov0="Od Joiningthe Club h grotesknosti slovenske adaptacije na neoliberalizem"
@@ -10490,6 +10595,7 @@
                <title>Ekološke orientacije</title>
                <title>trajne vrednote ali prehodni preplahi?</title>
                <page>11-34</page>
+               <cobiss>21348445</cobiss>
                <citedIn count="1">
                   <cit did="417" cid="3" avtor0="Malnar B."
                      naslov0="Ekološke orientacije - trajne vrednote ali prehodni preplahi?"
@@ -10499,8 +10605,9 @@
             </pubPart>
             <pubPart>
                <author>Šadl Zdenka</author>
-               <title>Emocionalno delo in intimni odnosi v pozni moderni</title>
+               <title>Emocionalno delo in intimni odnosi v pozni modernosti</title>
                <page>59-71</page>
+               <cobiss>21348957</cobiss>
                <citedIn count="1">
                   <cit did="3155" cid="26" avtor0="Šadl Zdenka"
                      naslov0="Emocionalno delo in intimni odnosi v pozni moderni"
@@ -10511,37 +10618,30 @@
          <issue n="41">
             <pubPart>
                <author>Kramberger Taja</author>
-               <title>Doxa et farna</title>
-               <title>o produkciji "javnega mnenja" in strategijah pozabe elementi za mikroštudijo</title>
+               <title>Doxa et fama</title>
+               <title>o produkciji "javnega mnenja" in strategijah pozabe - elementi za mikroštudijo</title>
                <page>63-100</page>
-               <citedIn count="1">
+               <cobiss>20786018</cobiss>
+               <citedIn count="2">
                   <cit did="727" cid="24" avtor0="Kramberger Taja"
                      naslov0="Doxa et farna : o produkciji &#34;javnega mnenja&#34; in strategijah pozabe elementi za mikroštudijo"
                      source="Družboslovne razprave" pubPlace="Ljubljana" year="2002" page="63-100"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kramberger T.</author>
-               <title>Doxa et fama</title>
-               <title>O produkciji "javnega mnenja" in strategijah pozabe</title>
-               <title>elementi za mikroštudijo</title>
-               <page>63-100</page>
-               <citedIn count="1">
                   <cit did="2018" cid="185" avtor0="Kramberger T."
                      naslov0="Doxa et fama: O produkciji &#34;javnega mnenja&#34; in strategijah pozabe - elementi za mikroštudijo"
                      source="Družboslovne razprave" volume="18" issue="41" page="63-100"/>
                </citedIn>
             </pubPart>
-         </issue>
+            </issue>
       </year>
       <year n="2001">
          <volume>17</volume>
          <issue n="36">
             <pubPart>
                <author>Tomšič Matevž</author>
-               <title>'Moč' kulture</title>
+               <title>"Moč" kulture</title>
                <title>Kulturna elita in politične spremembe v družbah vzhodne-srednje Evrope</title>
                <page>39-56</page>
+               <cobiss>20622685</cobiss>
                <citedIn count="1">
                   <cit did="2074" cid="12" avtor0="Tomšič Matevž"
                      naslov0="'Moč' kulture: Kulturna elita in politične spremembe v družbah vzhodne-srednje Evrope"
@@ -10555,11 +10655,13 @@
          <volume>15</volume>
          <volume>16</volume>
          <issue n="32-33">
+            <pubTitle>Mechanisms of social differentiation in Slovenia : tematska številka</pubTitle>
             <pubPart>
                <author>Adam F., Tomšič M.</author>
                <title>Transition Elites</title>
-               <title>Catalysts of Social Innovation or   Rent-Seekers</title>
+               <title>Catalysts of Social Innovation or Rent-Seekers</title>
                <page>223-245</page>
+               <cobiss>20049245</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="2" avtor0="Adam F., Tomšič M."
                      naslov0="Transition Elites: Catalysts of Social Innovation or   Rent-Seekers"
@@ -10572,6 +10674,7 @@
                <title>From Elite Reproduction to Elite Adaptation</title>
                <title>The Dynamics of Change in personal Net-vvorks of Slovenian Elite</title>
                <page>181-197</page>
+               <cobiss>20183645</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="21" avtor0="Iglič H., Rus A."
                      naslov0="From Elite Reproduction to Elite Adaptation: The Dynamics of Change in personal Net-vvorks of Slovenian Elite"
@@ -10581,10 +10684,12 @@
             </pubPart>
          </issue>
          <issue>
+            <pubTitle>Tranzicija in (ne)enakost med spoloma : tematska številka</pubTitle>
             <pubPart>
                <author>Černigoj - Sadar N.</author>
                <title>Spolne razlike v formalnem in neformalnem delu</title>
                <page>32-44</page>
+               <cobiss>20370013</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="228" avtor0="Černigoj - Sadar N."
                      naslov0="Spolne razlike v formalnem in neformalnem delu"
@@ -10601,6 +10706,7 @@
                <title>Social exclusion</title>
                <title>the concept and data  indicating  exclusion in Slovenia</title>
                <page>99-114</page>
+               <cobiss>17159517</cobiss>
                <citedIn count="1">
                   <cit did="680" cid="31" avtor0="Trbanc M."
                      naslov0="Social exclusion : the concept and data  indicating  exclusion in Slovenia"
@@ -10617,6 +10723,7 @@
                <author>Škerlep A.</author>
                <title>Krmilni mediji in posplošene forme komuniciranja</title>
                <page>63-73</page>
+               <cobiss>61642496</cobiss>
                <citedIn count="1">
                   <cit did="2007" cid="18" avtor0="Škerlep A."
                      naslov0="Krmilni mediji in posplošene forme komuniciranja"
@@ -10629,6 +10736,7 @@
                <author>Mandič Srna</author>
                <title>Prispevek k opisu stanovanjske preskrbe v Jugoslaviji ob koncu osemdesetih let</title>
                <page>66-89</page>
+               <cobiss>3902777</cobiss>
                <citedIn count="1">
                   <cit did="3436" cid="5" avtor0="Mandič Srna"
                      naslov0="Prispevek k opisu stanovanjske preskrbe v Jugoslaviji ob koncu osemdesetih let"
@@ -10639,6 +10747,7 @@
                <author>Novak M.</author>
                <title>Nekatere značilnosti kvalitete življenja migrantov v Jugoslaviji</title>
                <page>139-155</page>
+               <cobiss>3903801</cobiss>
                <citedIn count="1">
                   <cit did="680" cid="26" avtor0="Novak M."
                      naslov0="Nekatere značilnosti kvalitete življenja migrantov v Jugoslaviji"
@@ -10655,6 +10764,7 @@
                <author>Mommsen Wolfgang</author>
                <title>Sociološka zgodovina in historična sociologija</title>
                <page>109-125</page>
+               <cobiss>61597952</cobiss>
                <citedIn count="1">
                   <cit did="3262" cid="1" avtor0="Mommsen Wolfgang"
                      naslov0="Sociološka zgodovina in historična sociologija"
@@ -10668,6 +10778,7 @@
                <title>Od prostora krajev k prostoru tokov</title>
                <title>prestrukturiranje ali razkroj teritorialno-družbene organizacije</title>
                <page>15-44</page>
+               <cobiss>27246082</cobiss>
                <citedIn count="1">
                   <cit did="2891" cid="21" avtor0="Mlinar Zdravko"
                      naslov0="Od prostora krajev k prostoru tokov: prestrukturiranje ali razkroj teritorialno-družbene organizacije"
@@ -10679,17 +10790,24 @@
                <author>Mlinar Zdravko</author>
                <title>Prostor in sociologija</title>
                <page>3-12</page>
-               <citedIn count="1">
+               <cobiss>27245570</cobiss>
+               <citedIn count="3">
                   <cit did="415" cid="21" avtor0="Mlinar Zdravko" naslov0="Prostor in sociologija"
                      source="Družboslovne razprave" pubPlace="Ljubljana" year="1990" issue="10"
                      page="3-12"/>
+                  <cit did="2008" cid="41" avtor0="Mlinar Z." naslov0="Prostor in sociologija"
+                     source="Družboslovne razprave" year="1990" volume="7" issue="16" page="3-12"/>
+                  <cit did="2008" cid="43" avtor0="Mlinar Z." naslov0="Prostor in sociologija"
+                     source="Družboslovne razprave" pubPlace="Ljubljana" year="1990" volume="7"
+                     issue="16" page="3-12"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Williams O. P.</author>
                <title>Bivalne skupnosti in nova urbana oblika</title>
-               <title>postindustrijski urbanizem  in nove oblike socialne segregacije</title>
+               <title>post-industrijski urbanizem  in nove oblike socialne segregacije</title>
                <page>77-91</page>
+               <cobiss>27247106</cobiss>
                <citedIn count="1">
                   <cit did="680" cid="34" avtor0="Williams O. P."
                      naslov0="Bivalne skupnosti in nova urbana oblika : postindustrijski urbanizem  in nove oblike socialne segregacije"
@@ -10698,21 +10816,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="16">
-            <pubPart>
-               <author>Mlinar Z.</author>
-               <title>Prostor in sociologija</title>
-               <page>3-12</page>
-               <citedIn count="2">
-                  <cit did="2008" cid="41" avtor0="Mlinar Z." naslov0="Prostor in sociologija"
-                     source="Družboslovne razprave" year="1990" volume="7" issue="16" page="3-12"/>
-                  <cit did="2008" cid="43" avtor0="Mlinar Z." naslov0="Prostor in sociologija"
-                     source="Družboslovne razprave" pubPlace="Ljubljana" year="1990" volume="7"
-                     issue="16" page="3-12"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
+         </year>
       <year n="1989">
          <volume>6</volume>
          <issue n="7">
@@ -10759,6 +10863,7 @@
                <author>Ule Mirjana</author>
                <title>Kriza industrijske moderne in novi individualizem</title>
                <page>66-75</page>
+               <cobiss>7585538</cobiss>
                <citedIn count="1">
                   <cit did="170" cid="19" avtor0="Ule Mirjana"
                      naslov0="Kriza industrijske moderne in novi individualizem"
@@ -10775,6 +10880,7 @@
                <title>Odnos Slovencev do štirih razvojnih silnic in vrednot</title>
                <title>do partije in države, do svobode in okolja</title>
                <page>60-70</page>
+               <cobiss>7600130</cobiss>
                <citedIn count="1">
                   <cit did="417" cid="25" avtor0="Jambrek P."
                      naslov0="Odnos Slovencev do štirih razvojnih silnic in vrednot : do partije in države, do svobode in okolja"
@@ -10791,6 +10897,7 @@
                <author>Mandič Srna</author>
                <title>O distribuciji stanovanjskih virov v Sloveniji</title>
                <page>59-71</page>
+               <cobiss>11703901</cobiss>
                <citedIn count="2">
                   <cit did="3436" cid="4" avtor0="Mandič Srna"
                      naslov0="O distribuciji stanovanjskih virov v Sloveniji"
@@ -10809,6 +10916,7 @@
                <author>Mandič Srna</author>
                <title>O stanovanjski segregaciji</title>
                <page>133-146</page>
+               <cobiss>17480285</cobiss>
                <citedIn count="1">
                   <cit did="680" cid="19" avtor0="Mandič Srna" naslov0="O stanovanjski segregaciji"
                      source="Družboslovne razprave" pubPlace="Ljubljana" year="1984" page="133-146"
@@ -10819,6 +10927,7 @@
                <author>Žižek S.</author>
                <title>Krekovstvo</title>
                <page>147-164</page>
+               <cobiss>17480541</cobiss>
                <citedIn count="1">
                   <cit did="2014" cid="30" avtor0="Žižek S." naslov0="Krekovstvo"
                      source="Družboslovne razprave" pubPlace="Ljubljana" year="1984" page="147-164"
@@ -10857,8 +10966,9 @@
          <issue n="29">
             <pubPart>
                <author>Toplak K., Vah M.</author>
-               <title>Vpliv druzbene dinamike in vrednotenja patriotizma na zaposlovanje v Slovenski vojski</title>
+               <title>Vpliv družbene dinamike in vrednotenja patriotizma na zaposlovanje v Slovenski vojski</title>
                <page>53-68</page>
+               <cobiss>30052909</cobiss>
                <citedIn count="1">
                   <cit did="3059" cid="19" avtor0="Toplak K., Vah M."
                      naslov0="Vpliv druzbene dinamike in vrednotenja patriotizma na zaposlovanje v Slovenski vojski"
@@ -10875,6 +10985,7 @@
                <author>Kralj A.</author>
                <title>Medijske in politične konstrukcije tujcev v Sloveniji</title>
                <page>169-192</page>
+               <cobiss>28277293</cobiss>
                <citedIn count="1">
                   <cit did="3059" cid="10" avtor0="Kralj A."
                      naslov0="Medijske in politične konstrukcije tujcev v Sloveniji"
@@ -10888,6 +10999,7 @@
                <title>Čapac.si, or on burekalism and its bites</title>
                <title>An analysis of selected images of immigrants and their descendants in Slovenian media and popular culture</title>
                <page>23-37</page>
+               <cobiss>28935725</cobiss>
                <citedIn count="1">
                   <cit did="3059" cid="14" avtor0="Mlekuž Jernej"
                      naslov0="Čapac.si, or on burekalism and its bites. An analysis of selected images of immigrants and their descendants in Slovenian media and popular culture"
@@ -10960,6 +11072,7 @@
                <title>Izseljenska književnost in časopisje</title>
                <title>zgovorne statistike</title>
                <page>209-228</page>
+               <cobiss>26697517</cobiss>
                <citedIn count="1">
                   <cit did="2722" cid="12" avtor0="Žitnik Janja"
                      naslov0="Izseljenska književnost in časopisje: zgovorne statistike"
@@ -10973,6 +11086,7 @@
                <author>Strle Urška</author>
                <title>Odnos slovenskih izseljencev v Kanadi do domovine po drugi svetovni vojni</title>
                <page>117-142</page>
+               <cobiss>27330605</cobiss>
                <citedIn count="1">
                   <cit did="3113" cid="27" avtor0="Strle Urška"
                      naslov0="Odnos slovenskih izseljencev v Kanadi do domovine po drugi svetovni vojni"
@@ -11004,6 +11118,7 @@
                <title>Slovenski izobraženci na Hrvaškem po letu 1868</title>
                <title>Ivan Steklasa (1846-1921)</title>
                <page>153-166</page>
+               <cobiss>25864493</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="22" avtor0="Gantar Godina Irena"
                      naslov0="Slovenski izobraženci na Hrvaškem po letu 1868: Ivan Steklasa (1846-1921)"
@@ -11069,6 +11184,8 @@
             <pubPart>
                <author>Franjič Lidija</author>
                <title>Politika Socialistične zveze delovnega ljudstva Slovenije do zdomstva</title>
+               <page>185-206</page>
+               <cobiss>23839277</cobiss>
                <citedIn count="1">
                   <cit did="2559" cid="2" avtor0="Franjič Lidija"
                      naslov0="Politika Socialistične zveze delovnega ljudstva Slovenije do zdomstva"
@@ -11081,6 +11198,7 @@
                <author>Gantar Godina Irena</author>
                <title>Slovenski izobraženci iz Prage na Hrvaško</title>
                <page>197-218</page>
+               <cobiss>24460589</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="20" avtor0="Gantar Godina Irena"
                      naslov0="Slovenski izobraženci iz Prage na Hrvaško"
@@ -11099,6 +11217,7 @@
                <title>izseljenci na Hrvaškem</title>
                <title>Jernej Francelj (1821-1889)</title>
                <page>165-183</page>
+               <cobiss>22450733</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="19" avtor0="Gantar Godina Irena"
                      naslov0="Slovenski intelektualci - izseljenci na Hrvaškem: Jernej Francelj (1821-1889)"
@@ -11138,6 +11257,7 @@
                <author>Lukšič Hacin Marina</author>
                <title>Konceptualne dileme v razpravah o multikulturalizmu in globalizaciji</title>
                <page>107-120</page>
+               <cobiss>22449965</cobiss>
                <citedIn count="2">
                   <cit did="3043" cid="12" avtor0="Luksic-Hacin M."
                      naslov0="Konceptualne dileme v razpravah o multikulturalizmu in globalizaciji"
@@ -11151,6 +11271,7 @@
                <author>Lukšič Hacin Marina</author>
                <title>Vračanje Slovencev iz Argentine</title>
                <page>13-34</page>
+               <cobiss>22995757</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="131" avtor0="Lukšič Hacin Marina"
                      naslov0="Vračanje Slovencev iz Argentine" source="Dve domovini" year="2004"
@@ -11162,6 +11283,7 @@
                <title>Od zahteve po odrekanju materinščini do cenjenja dvojezičnosti</title>
                <title>šolski sistem v Avstraliji</title>
                <page>193-216</page>
+               <cobiss>23004717</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="39" avtor0="Peček Mojca"
                      naslov0="Od zahteve po odrekanju materinščini do cenjenja dvojezičnosti: šolski sistem v Avstraliji"
@@ -11170,9 +11292,10 @@
             </pubPart>
             <pubPart>
                <author>Toplak Kristina</author>
-               <title>Dobrodošli doma«?</title>
+               <title>"Dobrodošli doma?"</title>
                <title>Vračanje slovenskih izseljencev v Republiko Slovenijo</title>
                <page>35-51</page>
+               <cobiss>22996013</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="213" avtor0="Toplak Kristina"
                      naslov0="Dobrodošli doma«?: Vračanje slovenskih izseljencev v Republiko Slovenijo"
@@ -11203,8 +11326,10 @@
             </pubPart>
             <pubPart>
                <author>Drnovšek Marjan</author>
-               <title>Pismo Apolonije Noč od sv. Jožefa / St. joseph, Minnesota (1855)</title>
+               <title>Pismo Apolonije Noč od sv. Jožefa</title>
+               <addTitle>St. joseph, Minnesota (1855)</addTitle>
                <page>63-81</page>
+               <cobiss>21561133</cobiss>
                <citedIn count="1">
                   <cit did="2063" cid="6" avtor0="Drnovšek Marjan"
                      naslov0="Pismo Apolonije Noč od sv. Jožefa / St. joseph, Minnesota (1855)"
@@ -11232,8 +11357,9 @@
             </pubPart>
             <pubPart>
                <author>Kodrič Majda</author>
-               <title>Franc Pire in nastanek prvih slovenskih naselbin v Združenih državah Amerike</title>
+               <title>Franc Pirc in nastanek prvih slovenskih naselbin v Združenih državah Amerike</title>
                <page>53-62</page>
+               <cobiss>21537581</cobiss>
                <citedIn count="1">
                   <cit did="2063" cid="12" avtor0="Kodrič Majda"
                      naslov0="Franc Pire in nastanek prvih slovenskih naselbin v Združenih državah Amerike"
@@ -11244,6 +11370,7 @@
                <author>Kolar Bogdan</author>
                <title>Izvirne poteze delovanja misijonarja Franca Pirca</title>
                <page>35-52</page>
+               <cobiss>21537069</cobiss>
                <citedIn count="2">
                   <cit did="2837" cid="41" avtor0="Kolar Bogdan"
                      naslov0="Izvirne poteze delovanja misijonarja Franca Pirca"
@@ -11258,6 +11385,7 @@
                <author>Vovko Andrej</author>
                <title>Pomembnejši slovenski biografski prispevki o misijonarju in izseljenskem duhovniku Francu Pircu</title>
                <page>8-24</page>
+               <cobiss>21536301</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="43" avtor0="Vovko Andrej"
                      naslov0="Pomembnejši slovenski biografski prispevki o misijonarju in izseljenskem duhovniku Francu Pircu"
@@ -11272,6 +11400,7 @@
                <title>Življenjske pripovedi migrantov povratnikov iz Beneške Slovenije</title>
                <title>potovanje brez vrnitve?'</title>
                <page>67-94</page>
+               <cobiss>20926253</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="149" avtor0="Mlekuž Jernej"
                      naslov0="»Mali« prispevek k vprašanjem »povratništva«: Življenjske pripovedi migrantov povratnikov iz Beneške Slovenije - potovanje brez vrnitve?'"
@@ -11288,6 +11417,7 @@
                <author>Godina Irena Gantar</author>
                <title>Josip Vuga, slovenski znanstvenik v Čeških Budejovicah</title>
                <page>9-20</page>
+               <cobiss>20505901</cobiss>
                <citedIn count="1">
                   <cit did="1803" cid="5" avtor0="Godina Irena Gantar"
                      naslov0="Josip Vuga, slovenski znanstvenik v Čeških Budejovicah"
@@ -11297,8 +11427,9 @@
             </pubPart>
             <pubPart>
                <author>Lukšič Hacin Marina</author>
-               <title>Povratniki kot del migracijskega toka</title>
+               <title>Povratniki kot del migracijskega kroga</title>
                <page>179-193</page>
+               <cobiss>19685677</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="130" avtor0="Lukšič Hacin Marina"
                      naslov0="Povratniki kot del migracijskega toka" source="Dve domovini"
@@ -11326,6 +11457,7 @@
                <author>Klemenčič Matjaž</author>
                <title>Razvoj slovenske izseljenske skupnosti v Rock Springsu, Wyoming, od naselitve do začetka 30-let 20. stoletja</title>
                <page>73-99</page>
+               <cobiss>18849325</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="64" avtor0="Klemenčič Matjaž"
                      naslov0="Razvoj slovenske izseljenske skupnosti v Rock Springsu, Wyoming, od naselitve do začetka 30-let 20. stoletja"
@@ -11353,6 +11485,7 @@
                <author>Žigon Zvone</author>
                <title>Slovenska politična emigracija v Argentini</title>
                <page>111-132</page>
+               <cobiss>18803757</cobiss>
                <citedIn count="1">
                   <cit did="73" cid="147" avtor0="Žigon Zvone"
                      naslov0="Slovenska politična emigracija v Argentini"
@@ -11397,6 +11530,7 @@
                <title>Vloga »izvornega« prostora v narodnostnem opredeljevanju</title>
                <title>Primer devetih »slovenskih« izseljencev in njihovih potomcev, živečih v Mendozi v Argentini</title>
                <page>203-227</page>
+               <cobiss>17413165</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="148" avtor0="Mlekuž Jernej"
                      naslov0="Vloga »izvornega« prostora v narodnostnem opredeljevanju: Primer devetih »slovenskih« izseljencev in njihovih potomcev, živečih v Mendozi v Argentini"
@@ -11413,6 +11547,7 @@
                <title>Press and emigration</title>
                <title>roundtable discussion</title>
                <page>151-167</page>
+               <cobiss>13618221</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="39" avtor0="Giordano Aurelio" avtor1="Žitnik Janja et al"
                      naslov0="Press and emigration" naslov1="roundtable discussion"
@@ -11424,6 +11559,7 @@
                <author>Kolar Bogdan</author>
                <title>St. Joseph KSKJ Local Lodge, Bridgeport, Connecticut</title>
                <page>61-78</page>
+               <cobiss>13602093</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="8" avtor0="Kolar Bogdan"
                      naslov0="St. Joseph KSKJ Local Lodge, Bridgeport, Connecticut"
@@ -11438,7 +11574,8 @@
             <pubPart>
                <author>Kocijančič Cvetka</author>
                <title>Združevanje kanadskih Slovencev</title>
-               <page>149-158</page>
+               <page>149-160</page>
+               <cobiss>9671981</cobiss>
                <citedIn count="1">
                   <cit did="73" cid="112" avtor0="Kocijančič Cvetka"
                      naslov0="Združevanje kanadskih Slovencev" source="Dve domovini/Two Homelands 9"
@@ -11453,7 +11590,9 @@
          <issue n="8">
             <pubPart>
                <author>Drnovšek Marjan</author>
-               <title>Zgodovina izseljencev ni zgodovina naroda</title>
+               <title>"Zgodovina izseljencev ni zgodovina naroda"</title>
+               <page>207-212</page>
+               <cobiss>5936941</cobiss>
                <citedIn count="1">
                   <cit did="2539" cid="5" avtor0="Drnovšek Marjan"
                      naslov0="Zgodovina izseljencev ni zgodovina naroda"
@@ -11496,6 +11635,7 @@
                <author>Drnovšek Marjan</author>
                <title>Slovenska izseljenska društva v zahodnoevropskih državah med obema svetovnima vojnama</title>
                <page>33-49</page>
+               <cobiss>4521005</cobiss>
                <citedIn count="1">
                   <cit did="2671" cid="14" avtor0="Drnovšek Marjan"
                      naslov0="Slovenska izseljenska društva v zahodnoevropskih državah med obema svetovnima vojnama"
@@ -11504,8 +11644,10 @@
             </pubPart>
             <pubPart>
                <author>Kalc Aleks</author>
-               <title>Ladijske potniške evidence kot vir za zgodovino izseljenstva, s posebnim ozirom na izseljenske sezname tržaškega pristanišča</title>
+               <title>Ladijske potniške evidence kot vir za zgodovino izseljenstva</title>
+               <title>s posebnim ozirom na izseljenske sezname tržaškega pristanišča</title>
                <page>51-69</page>
+               <cobiss>4530733</cobiss>
                <citedIn count="1">
                   <cit did="2284" cid="3" avtor0="Kalc Aleks"
                      naslov0="Ladijske potniške evidence kot vir za zgodovino izseljenstva, s posebnim ozirom na izseljenske sezname tržaškega pristanišča"
@@ -11517,6 +11659,7 @@
                <title>Slovenci v Združenih državah</title>
                <title>obdobje 1848–1891</title>
                <page>113-129</page>
+               <cobiss>4522541</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="17" avtor0="Stanonik Janez"
                      naslov0="Slovenci v Združenih državah: obdobje 1848–1891" source="Dve domovini"
@@ -11620,8 +11763,9 @@
             </pubPart>
             <pubPart>
                <author>Švent Rozina</author>
-               <title>Štiridesetletnica delovanja SKA</title>
+               <title>Štiridesetletnica delovanja Slovenske kulturne akcije</title>
                <page>179-182</page>
+               <cobiss>7773485</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="211" avtor0="Švent Rozina"
                      naslov0="Štiridesetletnica delovanja SKA" source="Dve domovini" year="1994"
@@ -11637,6 +11781,7 @@
                <title>Načrti in rezultati raziskovanja slovenskega izseljenstva do leta 1941</title>
                <title>s posebnim poudarkom na izseljevanju v Ameriko do prve svetovne vojne</title>
                <page>11-41</page>
+               <cobiss>751949</cobiss>
                <citedIn count="1">
                   <cit did="2671" cid="13" avtor0="Drnovšek Marjan"
                      naslov0="Načrti in rezultati raziskovanja slovenskega izseljenstva do leta 1941 - s posebnim poudarkom na izseljevanju v Ameriko do prve svetovne vojne"
@@ -11664,8 +11809,9 @@
          <issue n="2-3">
             <pubPart>
                <author>Friš Darko</author>
-               <title>Delovanje šolskih sester Kongregacije sc. Frančiška Asiškega - Kristusa Kralja v ZDA med letoma 1909 in 1915</title>
+               <title>Delovanje šolskih sester Kongregacije sv. Frančiška Asiškega - Kristusa Kralja v ZDA med letoma 1909 in 1915</title>
                <page>371-389</page>
+               <cobiss>4205060</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="10" avtor0="Friš Darko"
                      naslov0="Delovanje šolskih sester Kongregacije sc. Frančiška Asiškega - Kristusa Kralja v ZDA med letoma 1909 in 1915"
@@ -11676,6 +11822,7 @@
                <author>Mislej Irene</author>
                <title>Slovenski tisk v Argentini po drugi svetovni vojni</title>
                <page>185-194</page>
+               <cobiss>698413</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="142" avtor0="Mislej Irene"
                      naslov0="Slovenski tisk v Argentini po drugi svetovni vojni"
@@ -11719,6 +11866,7 @@
                <author>Stanonik Janez</author>
                <title>The prehistory of Slovene journalism in the United States</title>
                <page>125-140</page>
+               <cobiss>697645</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="34" avtor0="Stanonik Janez"
                      naslov0="The prehistory of Slovene journalism in the United States"
@@ -11730,6 +11878,7 @@
                <author>Susel Rudolph M.</author>
                <title>Poslanstvo in vloga časopisa Ameriška domovina v zgodovini Ameriških Slovencev 1919-1991</title>
                <page>237-251</page>
+               <cobiss>700973</cobiss>
                <citedIn count="1">
                   <cit did="2718" cid="31" avtor0="Susel Rudolph M."
                      naslov0="Poslanstvo in vloga časopisa Ameriška domovina v zgodovini Ameriških Slovencev 1919-1991"
@@ -11744,7 +11893,8 @@
             <pubPart>
                <author>Cesar Nedzbala Polonca</author>
                <title>Rajska dolina</title>
-               <page>87-102</page>
+               <page>83-106</page>
+               <cobiss>14821634</cobiss>
                <citedIn count="1">
                   <cit did="2718" cid="8" avtor0="Cesar Nedzbala Polonca" naslov0="Rajska dolina"
                      source="Dve domovini/Two Homelands" year="1990" issue="1" page="87-102"/>
@@ -11752,8 +11902,10 @@
             </pubPart>
             <pubPart>
                <author>Lenček Rado</author>
-               <title>Problems and Perspectives on Ethnic Identification</title>
+               <title>Problems and Perspectives of Ethnic Identification</title>
+               <title>withering away or reaffirmation?</title>
                <page>205-218</page>
+               <cobiss>14826498</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="121" avtor0="Lenček Rado"
                      naslov0="Problems and Perspectives on Ethnic Identification"
@@ -11787,6 +11939,7 @@
                <author>Slavec Ingrid</author>
                <title>Etnološko preučevanje etnične identitete slovenskih izseljencev</title>
                <page>309-317</page>
+               <cobiss>14828802</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="196" avtor0="Slavec Ingrid"
                      naslov0="Etnološko preučevanje etnične identitete slovenskih izseljencev"
@@ -11810,6 +11963,7 @@
                <author>Vovko Andrej</author>
                <title>Udje družbe sv. Mohorja v ZDA do leta 1900</title>
                <page>121–135</page>
+               <cobiss>14822914</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="90" avtor0="Vovko Andrej"
                      naslov0="Udje družbe sv. Mohorja v ZDA do leta 1900" source="Dve domovini"
