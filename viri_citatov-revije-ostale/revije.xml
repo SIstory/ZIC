@@ -11987,6 +11987,7 @@
                <author>Baskar Bojan</author>
                <title>Martin Krpan ali habsburški mit kot sodobni slovenski mit</title>
                <page>75-94</page>
+               <cobiss>38174562</cobiss>
                <citedIn count="1">
                   <cit did="3153" cid="5" avtor0="Baskar Bojan"
                      naslov0="Martin Krpan ali habsburški mit kot sodobni slovenski mit"
@@ -12014,6 +12015,7 @@
                <author>Makarovič Gorazd</author>
                <title>Pričevanja o svetniških zavetništvih v Trubarjevem katekizmu iz leta 1575</title>
                <page>159-195</page>
+               <cobiss>869766</cobiss>
                <citedIn count="1">
                   <cit did="2423" cid="40" avtor0="Makarovič Gorazd"
                      naslov0="Pričevanja o svetniških zavetništvih v Trubarjevem katekizmu iz leta 1575"
@@ -12024,6 +12026,7 @@
                <author>Žagar Janja</author>
                <title>Primerno in lepo skozi bonton</title>
                <page>53-73</page>
+               <cobiss>868486</cobiss>
                <citedIn count="1">
                   <cit did="1744" cid="44" avtor0="Žagar Janja"
                      naslov0="Primerno in lepo skozi bonton" source="Etnolog" pubPlace="Ljubljana"
@@ -12080,6 +12083,7 @@
                <author>Hribar Daša</author>
                <title>O razstavi Slovenski priseljenci v Argentini v argentinskem Nacionalnem muzeju priseljevanja</title>
                <page>529-535</page>
+               <cobiss>564614</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="93" avtor0="Hribar Daša"
                      naslov0="O razstavi Slovenski priseljenci v Argentini v argentinskem Nacionalnem muzeju priseljevanja"
@@ -12139,8 +12143,9 @@
          <issue>
             <pubPart>
                <author>Makarovič Gorazd</author>
-               <title>O vsebinah stigme »žensko delo«</title>
+               <title>O vsebinah sintagme »žensko delo«</title>
                <page>63-80</page>
+               <cobiss>470918</cobiss>
                <citedIn count="1">
                   <cit did="3413" cid="21" avtor0="Makarovič Gorazd"
                      naslov0="O vsebinah stigme »žensko delo«"
@@ -12157,7 +12162,9 @@
             <pubPart>
                <author>Golež Kaučič Marjetka</author>
                <title>Odsev pravnega položaja in življenjskih razmer žensk v slovenskih ljudskih družinskih baladah</title>
+               <title>poskus zasnove orisa ženske kot subjekta pesmi v povezavi z nosilko pesmi</title>
                <page>157-175</page>
+               <cobiss>18870317</cobiss>
                <citedIn count="1">
                   <cit did="2040" cid="10" avtor0="Golež Kaučič Marjetka"
                      naslov0="Odsev pravnega položaja in življenjskih razmer žensk v slovenskih ljudskih družinskih baladah"
@@ -12169,6 +12176,7 @@
                <title>Udeležba žena v kazenskih procesih</title>
                <title>(Piran, 1302-1325)</title>
                <page>45-55</page>
+               <cobiss>18871597</cobiss>
                <citedIn count="1">
                   <cit did="1762" cid="108" avtor0="Mihelič Darja"
                      naslov0="Udeležba žena v kazenskih procesih: (Piran, 1302-1325)"
@@ -12209,6 +12217,7 @@
                <author>Dugac Ž.</author>
                <title>Frescos and Graffitos as Witnesses of Mass Death</title>
                <page>247-252</page>
+               <cobiss>177798</cobiss>
                <citedIn count="1">
                   <cit did="740" cid="14" avtor0="Dugac Ž."
                      naslov0="Frescos and Graffitos as Witnesses of Mass Death" source="Etnolog"
@@ -12219,6 +12228,8 @@
                <author>Vrečer Natalija</author>
                <title>Smrt in žalovanje v begunstvu</title>
                <title>Bošnjaki, Bošnjakinje v Sloveniji</title>
+               <page>321-338</page>
+               <cobiss>16493</cobiss>
                <citedIn count="1">
                   <cit did="2907" cid="27" avtor0="Vrečer Natalija"
                      naslov0="Smrt in žalovanje v begunstvu: Bošnjaki, Bošnjakinje v Sloveniji"
@@ -12253,6 +12264,7 @@
                <author>Mihelič Darja</author>
                <title>Srednjeveška Tržačanka v ogledalu mestnega statuta</title>
                <page>87-102</page>
+               <cobiss>7995437</cobiss>
                <citedIn count="1">
                   <cit did="2631" cid="213" avtor0="Mihelič Darja"
                      naslov0="Srednjeveška Tržačanka v ogledalu mestnega statuta" source="Etnolog"
@@ -12262,6 +12274,8 @@
             <pubPart>
                <author>Ramšak Mojca</author>
                <title>Mama me je s policijo gnala nazaj, ko sem dobila sina ali O nezakonskih otrocih na Koroškem v 19. in prvi polovici 20. stoletja</title>
+               <page>289-312</page>
+               <cobiss>2416692</cobiss>
                <citedIn count="2">
                   <cit did="2016" cid="104" avtor0="Ramšak Mojca"
                      naslov0="Mama me je s policijo gnala nazaj, ko sem dobila sina ali O nezakonskih otrocih na Koroškem v 19. in prvi polovici 20. stoletja"
@@ -12275,6 +12289,7 @@
                <author>Orehovec Martina</author>
                <title>Delo Istrank v Trstu</title>
                <page>115-129</page>
+               <cobiss>4932401</cobiss>
                <citedIn count="1">
                   <cit did="378" cid="14" avtor0="Orehovec Martina" naslov0="Delo Istrank v Trstu"
                      source="Etnolog" pubPlace="Ljubljana" volume="7" issue="58" page="115-129"/>
@@ -12323,8 +12338,10 @@
          <issue>
             <pubPart>
                <author>Brumen Borut</author>
-               <title>Prednosti odtujenega pogleda (Intervju s prof. Dr. Georgom Elwertom).</title>
+               <title>Prednosti odtujenega pogleda</title>
+               <title>(Intervju s prof. Dr. Georgom Elwertom)</title>
                <page>229-238</page>
+               <cobiss>48654080</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="24" avtor0="Brumen Borut"
                      naslov0="Prednosti odtujenega pogleda (Intervju s prof. Dr. Georgom Elwertom)."
@@ -12342,6 +12359,7 @@
                <title>Kolon in gospodar</title>
                <title>dva načina življenja in dve stanovankski kulturi</title>
                <page>95-136</page>
+               <cobiss>48560128</cobiss>
                <citedIn count="1">
                   <cit did="2793" cid="22" avtor0="Keršič Irena"
                      naslov0="Kolon in gospodar - dva načina življenja in dve stanovankski kulturi"
@@ -12361,6 +12379,7 @@
                <author>Kogej Katja</author>
                <title>Izdelovanje prunel v Brdih</title>
                <page>19-27</page>
+               <cobiss>48559360</cobiss>
                <citedIn count="1">
                   <cit did="2793" cid="24" avtor0="Kogej Katja" naslov0="Izdelovanje prunel v Brdih"
                      source="Etnolog" year="1992" volume="53" issue="2/1" page="19-27"/>
@@ -12370,6 +12389,7 @@
                <author>Šmitek Zmago, Jezernik Božidar</author>
                <title>Antropološka tradicija na Slovenskem</title>
                <page>259-266</page>
+               <cobiss>48563200</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="209" avtor0="Šmitek Zmago, Jezernik Božidar"
                      naslov0="Antropološka tradicija na Slovenskem" source="Etnolog" year="1992"
@@ -12386,6 +12406,7 @@
                <title>Die deutsche Sprachinsel Gottschee im 19. Jahrhundert</title>
                <addTitle>Kočevje - nemški jezikovni otok v 19. stoletju</addTitle>
                <page>82-120</page>
+               <cobiss>4042809</cobiss>
                <citedIn count="3">
                   <cit did="844" cid="104" avtor0="Kundegraber Maria"
                      naslov0="Die deutsche Sprachinsel Gottschee im 19. Jahrhundert / Kočevje - nemški jezikovni otok v 19. stoletju"
@@ -12403,6 +12424,7 @@
                <title>Grad Vodriž</title>
                <title>spomenik zgodnjegotske viteske stanovanjske kulture</title>
                <page>30-80</page>
+               <cobiss>4042297</cobiss>
                <citedIn count="1">
                   <cit did="775" cid="123" avtor0="Makarovič Gorazd"
                      naslov0="Grad Vodriž - spomenik zgodnjegotske viteske stanovanjske kulture"
@@ -12418,6 +12440,7 @@
                <author>Vilfan Sergij</author>
                <title>Pravni motivi v slovenskih narodnih pripovedkah in pripovednih pesmih</title>
                <page>3-28</page>
+               <cobiss>239365888</cobiss>
                <citedIn count="1">
                   <cit did="3105" cid="52" avtor0="Vilfan Sergij"
                      naslov0="Pravni motivi v slovenskih narodnih pripovedkah in pripovednih pesmih"
@@ -12440,6 +12463,8 @@
             <pubPart>
                <author>Zdešar Anton</author>
                <title>Nekaj drobcev stare slovenske besede iz mengeških krstnih knjig</title>
+               <page>288-300</page>
+               <cobiss>239571712</cobiss>
                <citedIn count="1">
                   <cit did="2612" cid="163" avtor0="Zdešar Anton"
                      naslov0="Nekaj drobcev stare slovenske besede iz mengeških krstnih knjig"
@@ -12565,6 +12590,7 @@
                <author>Županić N.</author>
                <title>Prazgodovinske topilnice na hribu Kučarju na Belokranjskem</title>
                <page>359-360</page>
+               <cobiss>239289600</cobiss>
                <citedIn count="1">
                   <cit did="1942" cid="51" avtor0="Županić N."
                      naslov0="Prazgodovinske topilnice na hribu Kučarju na Belokranjskem"
@@ -12613,6 +12639,7 @@
                <author>Ženko E.</author>
                <title>Mode-2 Aesthetics</title>
                <page>99-115</page>
+               <cobiss>26665773</cobiss>
                <citedIn count="1">
                   <cit did="1934" cid="32" avtor0="Ženko E." naslov0="Mode-2 Aesthetics"
                      source="Filozofski vestnik" pubPlace="Ljubljana" year="2007" volume="2"
@@ -12626,8 +12653,9 @@
          <issue n="1">
             <pubPart>
                <author>Canguilhem G.</author>
-               <title>»Vloga epistemologije v sodobnem znanstvenem zgodovinopisju«</title>
+               <title>Vloga epistemologije v sodobnem znanstvenem zgodovinopisju</title>
                <page>107-121</page>
+               <cobiss>23930157</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="50" avtor0="Canguilhem G."
                      naslov0="»Vloga epistemologije v sodobnem znanstvenem zgodovinopisju«"
@@ -12694,7 +12722,9 @@
             <pubPart>
                <author>Duve T. de</author>
                <title>Kaj storiti z avantgardo</title>
-               <title>Kaj ostaja od devetnajstega stoletja v umetnosti dvajsetega stoletja?</title>
+               <title>Ali: kaj ostaja od devetnajstega stoletja v umetnosti dvajsetega stoletja?</title>
+               <page>59-71</page>
+               <cobiss>23033645</cobiss>
                <citedIn count="1">
                   <cit did="385" cid="15" avtor0="Duve T. de"
                      naslov0="Kaj storiti z avantgardo? Kaj ostaja od devetnajstega stoletja v umetnosti dvajsetega stoletja?"
@@ -12711,6 +12741,7 @@
                <title>Molk in realno</title>
                <title>Pričevanje med nemožnostjo in dolžnostjo</title>
                <page>35-51</page>
+               <cobiss>21023277</cobiss>
                <citedIn count="1">
                   <cit did="2839" cid="57" avtor0="Šumič Riha Jelica"
                      naslov0="Molk in realno. Pričevanje med nemožnostjo in dolžnostjo"
@@ -12723,6 +12754,7 @@
                <author>Foucault Michel</author>
                <title>Predavanje 17. marca 1976</title>
                <page>151-169</page>
+               <cobiss>21739053</cobiss>
                <citedIn count="1">
                   <cit did="141" cid="3" avtor0="Foucault Michel"
                      naslov0="Predavanje 17. marca 1976" source="Filozofski vestnik" year="2003"
@@ -12733,6 +12765,7 @@
                <author>Foucault Michel</author>
                <title>Rojstvo biopolitike</title>
                <page>171-177</page>
+               <cobiss>21739309</cobiss>
                <citedIn count="1">
                   <cit did="141" cid="2" avtor0="Foucault Michel" naslov0="Rojstvo biopolitike"
                      source="Filozofski vestnik" year="2003" volume="XXIV" issue="3" page="171-177"
@@ -12743,6 +12776,7 @@
                <author>Klepec Peter</author>
                <title>Ob Foucaultovem pojmovanju biooblasti in biopolitike</title>
                <page>111-137</page>
+               <cobiss>21737517</cobiss>
                <citedIn count="1">
                   <cit did="141" cid="1" avtor0="Klepec Peter"
                      naslov0="Ob Foucaultovem pojmovanju biooblasti in biopolitike"
@@ -12783,8 +12817,9 @@
          <issue n="2">
             <pubPart>
                <author>Burke P.</author>
-               <title>»Historical facts and historical fictions«</title>
+               <title>Historical facts and historical fictions</title>
                <page>169-186</page>
+               <cobiss>2436141</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="42" avtor0="Burke P."
                      naslov0="»Historical facts and historical fictions«" source="Fiozofski vestnik"
@@ -12800,6 +12835,7 @@
                <author>Luthar Otto</author>
                <title>Zgodovina kot ideologija</title>
                <page>49-59</page>
+               <cobiss>15300354</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="210" avtor0="Luthar Otto" naslov0="Zgodovina kot ideologija"
                      source="Filozofski vestnik" year="1990" volume="11" issue="1" page="49-59"/>
@@ -12820,6 +12856,8 @@
             <pubPart>
                <author>Špes Metka</author>
                <title>Geografske značilnosti pokrajinsko ranljivih območij v Sloveniji</title>
+               <page>9-45</page>
+               <cobiss>105133</cobiss>
                <citedIn count="1">
                   <cit did="696" cid="20" avtor0="Špes Metka"
                      naslov0="Geografske značilnosti pokrajinsko ranljivih območij v Sloveniji"
@@ -12911,6 +12949,7 @@
                <author>Klemenčič Vladimir</author>
                <title>Narodne manjšine kot element demografske in prostorske stvarnosti v alpsko-jadransko-panonskem prostoru</title>
                <page>19-31</page>
+               <cobiss>42093568</cobiss>
                <citedIn count="1">
                   <cit did="2734" cid="1" avtor0="Klemenčič Vladimir"
                      naslov0="Narodne manjšine kot element demografske in prostorske stvarnosti v alpsko-jadransko-panonskem prostoru"
@@ -12921,6 +12960,7 @@
       </year>
       <year n="1992">
          <issue n="23">
+         <pubTitle>Socialna geografija v teoriji in praksi</pubTitle>
             <pubPart>
                <author>Belec Borut</author>
                <title>Nekaj značilnosti zemljiškoposestne in zaposlitvene povezanosti med republikama Slovenijo in Hrvatsko v obmejnih območjih severovzhodne Slovenije</title>
@@ -12949,6 +12989,8 @@
             <pubPart>
                <author>Vaishar Antonín</author>
                <title>Ethnic structure of the Czech Republic in the Census of 1991 and its connections</title>
+               <page>385-401</page>
+               <cobiss>34017536</cobiss>
                <citedIn count="1">
                   <cit did="3026" cid="28" avtor0="Vaishar Antonín"
                      naslov0="Ethnic structure of the Czech Republic in the Census of 1991 and its connections"
@@ -12978,11 +13020,13 @@
       </year>
       <year n="1987">
          <issue n="18">
+         <pubTitle>Pokrajinski učinki človekovih dejavnosti na življenjsko okolje : jugoslovansko posvetovanje z mednarodno udeležbo, Bled 21. do 24. sept. 1987</pubTitle>
             <pubPart>
                <author>Gams Ivan</author>
                <title>Kraške agromelioracije</title>
                <title>nastajanje, oblike in pomen za sedanjo rabo tal</title>
-               <page>168-169</page>
+               <page>168-182</page>
+               <cobiss>85165</cobiss>
                <citedIn count="1">
                   <cit did="86" cid="19" avtor0="Gams Ivan"
                      naslov0="Kraške agromelioracije : nastajanje, oblike in&#xA;pomen za sedanjo rabo tal"
@@ -12994,10 +13038,12 @@
       </year>
       <year n="1978">
          <issue n="8">
+         <pubTitle>Socialnogeografski problemi obmestnih in obmejnih območij : Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Geografskega inštituta Univerze v Frankfurtu, Frankfurt, 12.-15. maj 1977 in Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Gospodarskogeografskega inštituta Univerze v Münchenu, Portorož, 21.-23. februarja 1978</pubTitle>
             <pubPart>
                <author>Klemenčič Vladimir</author>
                <title>Grenzregionen und nationale Minderheiten</title>
                <page>7-20</page>
+               <cobiss>15044397</cobiss>
                <citedIn count="2">
                   <cit did="248" cid="6" avtor0="Klemenčič Vladimir"
                      naslov0="Grenzregion und nationale Minderheiten" source="Geographica Slovenica"
@@ -13025,6 +13071,7 @@
                <author>Zorn Matija</author>
                <title>Nekaj načinov preučevanja erozijskih procesov</title>
                <page>91-108</page>
+               <cobiss>29366317</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="81" avtor0="Zorn Matija"
                      naslov0="Nekaj načinov preučevanja erozijskih procesov"
@@ -13037,6 +13084,7 @@
                <author>Zorn Matija</author>
                <title>Erozijski procesi v hrvaškem delu "Sive Istre"</title>
                <page>29-52</page>
+               <cobiss>29387053</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="78" avtor0="Zorn Matija"
                      naslov0="Erozijski procesi v hrvaškem delu &#34;Sive Istre&#34;"
@@ -13050,8 +13098,9 @@
          <issue n="1">
             <pubPart>
                <author>Petek Franci</author>
-               <title>Spreminjanje rabe tal v severnih Goriških bridh</title>
+               <title>Spreminjanje rabe tal v severnih Goriških brdih</title>
                <page>9-23</page>
+               <cobiss>27938093</cobiss>
                <citedIn count="1">
                   <cit did="2793" cid="42" avtor0="Petek Franci"
                      naslov0="Spreminjanje rabe tal v severnih Goriških bridh"
@@ -13064,6 +13113,7 @@
                <author>Podobnikar Tomaž, Kokalj Žiga</author>
                <title>Analiza zgodovinskega kartografskega gradiva Triglavskega narodnega parka</title>
                <page>141-150</page>
+               <cobiss>27948077</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="57" avtor0="Podobnikar Tomaž, Kokalj Žiga"
                      naslov0="Analiza zgodovinskega kartografskega gradiva Triglavskega narodnega parka"
@@ -13074,6 +13124,7 @@
                <author>Zorn Matija</author>
                <title>Jožefinski vojaški zemljevid kot geografski vir</title>
                <page>129-140</page>
+               <cobiss>27947821</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="80" avtor0="Zorn Matija"
                      naslov0="Jožefinski vojaški zemljevid kot geografski vir"
@@ -13084,6 +13135,7 @@
                <author>Zorn Matija, Komac Blaž</author>
                <title>Naravni procesi v svetih knjigah</title>
                <page>97-117</page>
+               <cobiss>27947053</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="72" avtor0="Zorn Matija, Komac Blaž"
                      naslov0="Naravni procesi v svetih knjigah" source="Geografski vestnik"
@@ -13099,6 +13151,7 @@
                <author>Ferreira A.</author>
                <title>Ocena razvoja Zgornje Gorenjske z vidika okoljske, socialne in ekonomske trajnosti</title>
                <page>25-38</page>
+               <cobiss>33533026</cobiss>
                <citedIn count="1">
                   <cit did="2000" cid="7" avtor0="Ferreira A."
                      naslov0="Ocena razvoja Zgornje Gorenjske z vidika okoljske, socialne in ekonomske trajnosti"
@@ -13152,6 +13205,7 @@
                <author>Zorn Matija, Komac Blaž</author>
                <title>Pobočni procesi in drobirski tok v Logu pod Mangartom</title>
                <page>9-23</page>
+               <cobiss>20704045</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="73" avtor0="Zorn Matija, Komac Blaž"
                      naslov0="Pobočni procesi in drobirski tok v Logu pod Mangartom"
@@ -13164,6 +13218,7 @@
                <author>Nared Janez</author>
                <title>Razvitost slovenskih občin in nadaljnje razvojne perspektive</title>
                <page>33-45</page>
+               <cobiss>20682285</cobiss>
                <citedIn count="1">
                   <cit did="2892" cid="6" avtor0="Nared Janez"
                      naslov0="Razvitost slovenskih občin in nadaljnje razvojne perspektive"
@@ -13175,6 +13230,7 @@
                <author>Vintar Mally K.,</author>
                <title>Vrednotenje regionalnega razvoja Spodnjega Posavja z vidika sonaravnosti</title>
                <page>21-31</page>
+               <cobiss>21018210</cobiss>
                <citedIn count="1">
                   <cit did="2000" cid="15" avtor0="Vintar Mally K.,"
                      naslov0="Vrednotenje regionalnega razvoja Spodnjega Posavja z vidika sonaravnosti"
