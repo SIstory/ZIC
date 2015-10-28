@@ -13241,6 +13241,7 @@
                <author>Zorn Matija</author>
                <title>Podori na Dobraču</title>
                <page>9-20</page>
+               <cobiss>20682029</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="83" avtor0="Zorn Matija" naslov0="Podori na Dobraču"
                      source="Geografski vestnik" year="2002" volume="74" issue="2" page="9-20"/>
@@ -13253,8 +13254,9 @@
          <issue n="2">
             <pubPart>
                <author>Bufon Milan</author>
-               <title>Politično geografske podlage čezmejne komunikacije na območju tromeje med Slovenijo, Italijo in Avstrijo</title>
+               <title>Političnogeografske podlage čezmejne komunikacije na območju tromeje med Slovenijo, Italijo in Avstrijo</title>
                <page>11-21</page>
+               <cobiss>15325538</cobiss>
                <citedIn count="1">
                   <cit did="2733" cid="2" avtor0="Bufon Milan"
                      naslov0="Politično geografske podlage čezmejne komunikacije na območju tromeje med Slovenijo, Italijo in Avstrijo"
@@ -13332,6 +13334,7 @@
                <title>Slovenci v Avstriji</title>
                <title>Število, način poselitve, struktura, identiteta</title>
                <page>115-138</page>
+               <cobiss>27053</cobiss>
                <citedIn count="3">
                   <cit did="209" cid="15" avtor0="Zupančič Jernej" naslov0="Slovenci v Avstriji"
                      naslov1="Število, način poselitve, struktura, identiteta"
@@ -13388,6 +13391,7 @@
                <author>Bufon Milan</author>
                <title>Temeljni problemi geografskega preučevanja etničnih manjšin na primeru Slovencev v Italiji</title>
                <page>99–111</page>
+               <cobiss>36051</cobiss>
                <citedIn count="1">
                   <cit did="2727" cid="1" avtor0="Bufon Milan"
                      naslov0="Temeljni problemi geografskega preučevanja etničnih manjšin na primeru Slovencev v Italiji"
@@ -13419,7 +13423,8 @@
             <pubPart>
                <author>Kranjc Andrej</author>
                <title>O pokrajinskem imenu Pivka</title>
-               <page>141-142</page>
+               <page>141-143</page>
+               <cobiss>7688493</cobiss>
                <citedIn count="1">
                   <cit did="2392" cid="11" avtor0="Kranjc Andrej"
                      naslov0="O pokrajinskem imenu Pivka" source="Geografski vestnik" year="1987"
@@ -13490,7 +13495,9 @@
             <pubPart>
                <author>Medved Jakob</author>
                <title>Spremembe v izrabi zemljišča in preslajanje kmečkega prebivalstva v Sloveniji v zadnjih dveh desetletjih</title>
-               <page>9-10</page>
+               <addTitle>Changes in land use and occupation structure of agrarian population in Slovenia during the last two decades</addTitle>
+               <page>3-30</page>
+               <cobiss>20450146</cobiss>
                <citedIn count="1">
                   <cit did="828" cid="3" avtor0="Medved Jakob"
                      naslov0="Spremembe v izrabi zemljišča in preslajanje kmečkega prebivalstva v Sloveniji v zadnjih dveh desetletjih"
@@ -13506,6 +13513,7 @@
                <author>Kos Milko</author>
                <title>Gospodarska problematika Bovškega v preteklosti</title>
                <page>247-255</page>
+               <cobiss>12480301</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="106" avtor0="Kos Milko"
                      naslov0="Gospodarska problematika Bovškega v preteklosti"
@@ -13985,6 +13993,7 @@
                <author>Zorn Matija</author>
                <title>Rockfalls in Slovene Alps</title>
                <page>123-160</page>
+               <cobiss>20703789</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="84" avtor0="Zorn Matija" naslov0="Rockfalls in Slovene Alps"
                      source="Geografski zbornik" year="2002" volume="42" page="123-160"/>
@@ -14021,6 +14030,7 @@
                <author>Ravbar Marjan</author>
                <title>Slovene cities and suburbs in transformation</title>
                <page>64-109</page>
+               <cobiss>6099245</cobiss>
                <citedIn count="1">
                   <cit did="2892" cid="8" avtor0="Ravbar Marjan"
                      naslov0="Slovene cities and suburbs in transformation"
@@ -14036,6 +14046,7 @@
                <author>Zupančič Jernej</author>
                <title>The Ethnic Identity of Hungarians in the Demographically threatened area of Prekmurje</title>
                <page>131–139</page>
+               <cobiss>1500973</cobiss>
                <citedIn count="1">
                   <cit did="2729" cid="26" avtor0="Zupančič Jernej"
                      naslov0="The Ethnic Identity of Hungarians in the Demographically threatened area of Prekmurje"
@@ -14067,6 +14078,7 @@
                <author>Gams Ivan</author>
                <title>Sistemi prilagoditve primorskega dinarskega krasa na kmetijsko rabo tal</title>
                <page>5-106</page>
+               <cobiss>30149632</cobiss>
                <citedIn count="1">
                   <cit did="86" cid="46" avtor0="Gams Ivan"
                      naslov0="Sistemi prilagoditve primorskega dinarskega krasa na kmetijsko rabo tal"
@@ -14100,6 +14112,7 @@
                <title>Krajna vas</title>
                <title>Študija o prirodnih pogojih in agrarnem izkoriščanju Krasa</title>
                <page>221-264</page>
+               <cobiss>11413037</cobiss>
                <citedIn count="1">
                   <cit did="86" cid="48" avtor0="Gams Ivan, Lovrenčak Franc, Ingolič Borut"
                      naslov0="Krajna vas : Študija o prirodnih pogojih in agrarnem izkoriščanju Krasa"
@@ -14152,6 +14165,7 @@
                <author>Gams Ivan</author>
                <title>Geomorfologija in izraba tal v Pomurju</title>
                <page>205-251</page>
+               <cobiss>10342445</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="14" avtor0="Gams Ivan"
                      naslov0="Geomorfologija in izraba tal v Pomurju" source="Geografski zbornik"
@@ -14167,6 +14181,7 @@
                <author>Briški A.</author>
                <title>Agrarna geografija Šavrinskega gričevja</title>
                <page>221-274</page>
+               <cobiss>14033965</cobiss>
                <citedIn count="1">
                   <cit did="2614" cid="5" avtor0="Briški A."
                      naslov0="Agrarna geografija Šavrinskega gričevja" source="Geografski zbornik"
@@ -14183,6 +14198,7 @@
                <title>Goriška brda</title>
                <title>gospodarska geografija</title>
                <page>51-113</page>
+               <cobiss>13987117</cobiss>
                <citedIn count="1">
                   <cit did="2056" cid="69" avtor0="Vrišer Igor"
                      naslov0="Goriška brda - gospodarska geografija" source="Geografski zbornik"
@@ -14220,6 +14236,7 @@
                <author>Grdina Igor</author>
                <title>Osemnajsto stoletje in Žiga Zois</title>
                <page>112-117</page>
+               <cobiss>27258925</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="114" avtor0="Grdina Igor"
                      naslov0="Osemnajsto stoletje in Žiga Zois"
@@ -14372,6 +14389,8 @@
             <pubPart>
                <author>Vodopivec Peter</author>
                <title>O Kocbekovem prispevku k razpravi o Srednji Evropi</title>
+               <page>60-62</page>
+               <cobiss>47785728</cobiss>
                <citedIn count="1">
                   <cit did="484" cid="1" avtor0="Vodopivec Peter"
                      naslov0="O Kocbekovem prispevku k razpravi o Srednji Evropi"
@@ -14442,6 +14461,7 @@
                <title>Načini potovanja in orientalistično potopisje v avstro-ogrski provinci</title>
                <title>primer Aniona Aškerca</title>
                <page>24-35</page>
+               <cobiss>38176610</cobiss>
                <citedIn count="1">
                   <cit did="3157" cid="2" avtor0="Baskar Bojan"
                      naslov0="Načini potovanja in orientalistično potopisje v avstro-ogrski provinci: primer Aniona Aškerca"
@@ -14458,6 +14478,7 @@
                <author>Studen Andrej</author>
                <title>Slovenci, problem alkoholizma in katoliška morala pred prvo svetovno vojno</title>
                <page>15-24</page>
+               <cobiss>2218356</cobiss>
                <citedIn count="7">
                   <cit did="2310" cid="16" avtor0="Studen Andrej"
                      naslov0="Slovenci, problem alkoholizma in katoliška morala pred prvo svetovno vojno"
@@ -14498,6 +14519,7 @@
                <title>Etnološka muzeologija in razvoj</title>
                <title>od raziskovanja preteklosti k načrtovanju razvoja</title>
                <page>48-53</page>
+               <cobiss>19854893</cobiss>
                <citedIn count="1">
                   <cit did="1622" cid="2" avtor0="Gačnik Aleš"
                      naslov0="Etnološka muzeologija in razvoj: od raziskovanja preteklosti k načrtovanju razvoja"
@@ -14526,7 +14548,10 @@
          <issue n="1-2">
             <pubPart>
                <author>Brumen Borut</author>
-               <title>"Revolucija" slovenske etnologije in kulturneantropologije</title>
+               <title>"Refolucija" slovenske etnologije in kulturneantropologije</title>
+               <addTitle>The refolution of Slovene ethnology and cultural anthropology</addTitle>
+               <page>8-16</page>
+               <cobiss>18048045</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="27" avtor0="Brumen Borut"
                      naslov0="&#34;Revolucija&#34; slovenske etnologije in kulturneantropologije"
@@ -14537,7 +14562,9 @@
                <author>Vrečer Natalija</author>
                <title>Ali je koncept človekovih pravic relevanten za antropologijo</title>
                <title>Primer beguncev in begunk v Sloveniji</title>
+               <addTitle>Is the concept of human rights relevant to anthropology?</addTitle>
                <page>52-54</page>
+               <cobiss>18050349</cobiss>
                <citedIn count="1">
                   <cit did="2907" cid="29" avtor0="Vrečer Natalija"
                      naslov0="Ali je koncept človekovih pravic relevanten za antropologijo? Primer beguncev in begunk v Sloveniji"
@@ -14551,6 +14578,7 @@
                <title>Slovenska etnologija in marksizem</title>
                <title>V vrtincu stoterih možnosti</title>
                <page>19-26</page>
+               <cobiss>18048557</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="156" avtor0="Muršič Rajko"
                      naslov0="Slovenska etnologija in marksizem: V vrtincu stoterih možnosti"
@@ -14581,6 +14609,7 @@
                <title>World music</title>
                <title>Marginalizirani svetovi med eksploatacijo in emancipacijo</title>
                <page>111-119</page>
+               <cobiss>14977837</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="154" avtor0="Muršič Rajko"
                      naslov0="World music: Marginalizirani svetovi med eksploatacijo in emancipacijo"
@@ -14596,6 +14625,7 @@
                <author>Lukšič Hacin Marina</author>
                <title>Enodimenzionalno pojmovanje nacionalne identitete nasproti heterogenosti etnične identitete pri izseljencih</title>
                <page>76-82</page>
+               <cobiss>13217325</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="129" avtor0="Lukšič Hacin Marina"
                      naslov0="Enodimenzionalno pojmovanje nacionalne identitete nasproti heterogenosti etnične identitete pri izseljencih"
@@ -14607,6 +14637,7 @@
                <title>Slovenci v Mendozi</title>
                <title>Poskus »prostorsko-antropološke« študije</title>
                <page>29-36</page>
+               <cobiss>13212717</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="147" avtor0="Mlekuž Jernej"
                      naslov0="Slovenci v Mendozi: Poskus »prostorsko-antropološke« študije"
@@ -14638,6 +14669,8 @@
             <pubPart>
                <author>Čebulj Sajko Breda</author>
                <title>Nekaj o slovenskih izseljencih in povratnikih iz Avstralije</title>
+               <page>86-88</page>
+               <cobiss>12672813</cobiss>
                <citedIn count="1">
                   <cit did="2853" cid="47" avtor0="Čebulj Sajko Breda"
                      naslov0="Nekaj o slovenskih izseljencih in povratnikih iz Avstralije"
@@ -14651,7 +14684,10 @@
          <issue n="2">
             <pubPart>
                <author>Kuret Niko</author>
-               <title>Sveti Šentjuripotrka na duri...</title>
+               <title>Sveti Šentjuri potrka na duri...</title>
+               <title>obisk v Ledenicah v Rožu 23. aprila 1974</title>
+               <page>28</page>
+               <cobiss>16203309</cobiss>
                <citedIn count="1">
                   <cit did="1742" cid="27" avtor0="Kuret Niko"
                      naslov0="Sveti Šentjuripotrka na duri..."
@@ -14690,6 +14726,7 @@
                <author>Verginella M.</author>
                <title>Mit o slovenskem Trstu</title>
                <page>91-104</page>
+               <cobiss>513807231</cobiss>
                <citedIn count="1">
                   <cit did="3013" cid="55" avtor0="Verginella M." naslov0="Mit o slovenskem Trstu"
                      source="Goriški letnik" pubPlace="Nova Gorica" year="2005" volume="30-31"
@@ -14700,6 +14737,7 @@
                <author>Šerbelj Ferdinand</author>
                <title>Portreti goriških Attemsov v zbirkah Narodne galerije v Ljubljani</title>
                <page>357-366</page>
+               <cobiss>11791922</cobiss>
                <citedIn count="1">
                   <cit did="3126" cid="20" avtor0="Šerbelj Ferdinand"
                      naslov0="Portreti goriških Attemsov v zbirkah Narodne galerije v Ljubljani"
@@ -14729,6 +14767,7 @@
                <author>Rejec Tatjana</author>
                <title>O povezavah TIGRa z Angleži 1939-1941</title>
                <page>135-155</page>
+               <cobiss>5960521</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="120" avtor0="Rejec Tatjana"
                      naslov0="O povezavah TIGRa z Angleži 1939-1941" source="Goriški letnik"
@@ -14742,6 +14781,7 @@
                <title>Na stičišču treh svetov</title>
                <title>Arheološki podatki o Goriški v zgodnjem srednjem veku</title>
                <page>5-30</page>
+               <cobiss>4885600</cobiss>
                <citedIn count="1">
                   <cit did="2639" cid="150" avtor0="Knific Timotej"
                      naslov0="Na stičišču treh svetov. Arheološki podatki o Goriški v zgodnjem srednjem veku"
@@ -14750,8 +14790,10 @@
             </pubPart>
             <pubPart>
                <author>Marušič Branko</author>
-               <title>Vrtovinski rojak Janko Stibiel Vukasović v balkanskih vojnah (1875-1878)</title>
+               <title>Vrtovinski rojak Janko Stibiel Vukasović v balkanskih vojnah</title>
+               <title>(1875-1878)</title>
                <page>311-316</page>
+               <cobiss>23043373</cobiss>
                <citedIn count="1">
                   <cit did="1317" cid="44" avtor0="Marušič Branko"
                      naslov0="Vrtovinski rojak Janko Stibiel Vukasović v balkanskih vojnah (1875-1878)"
@@ -14762,6 +14804,7 @@
                <author>Mihelič Darja</author>
                <title>K podobi Gorice v srednjem veku</title>
                <page>55-65</page>
+               <cobiss>23038253</cobiss>
                <citedIn count="1">
                   <cit did="2639" cid="205" avtor0="Mihelič Darja"
                      naslov0="K podobi Gorice v srednjem veku" source="Goriški letnik" year="2002"
@@ -14777,6 +14820,7 @@
                <author>Pavlin Vojko</author>
                <title>Primer uveljavljanja kupnega prava in kolonata na Goriškem 16. stoletja</title>
                <page>289-302</page>
+               <cobiss>125735424</cobiss>
                <citedIn count="2">
                   <cit did="2793" cid="41" avtor0="Pavlin Vojko"
                      naslov0="Primer uveljavljanja kupnega prava in kolonata na Goriškem 16. stoletja"
@@ -14791,7 +14835,9 @@
             <pubPart>
                <author>Granda Stane</author>
                <title>Dober glas seže v deveto vas</title>
+               <title>prispevek k biografiji Valentina Staniča</title>
                <page>303-308</page>
+               <cobiss>125743872</cobiss>
                <citedIn count="1">
                   <cit did="1317" cid="244" avtor0="Granda Stane"
                      naslov0="Dober glas seže v deveto vas" source="Goriški letnik" year="2001"
@@ -14820,6 +14866,7 @@
                <author>Bratož Rajko</author>
                <title>Soča in prehodi čez reko v antiki</title>
                <page>27-50</page>
+               <cobiss>16581986</cobiss>
                <citedIn count="3">
                   <cit did="2639" cid="22" avtor0="Bratož Rajko"
                      naslov0="Soča in prehodi čez reko v antiki" source="Goriški letnik" year="2000"
@@ -14863,8 +14910,9 @@
             </pubPart>
             <pubPart>
                <author>Štih Peter</author>
-               <title>O goriških grofih v Bavčarjevi Zgodovini Norika in Furlanije ter o konceptu in predlogah tega dela</title>
+               <title>O goriških grofih v Bavčerjevi zgodovini Norika in Furlanije ter o konceptu in predlogah tega dela</title>
                <page>221-234</page>
+               <cobiss>16524898</cobiss>
                <citedIn count="1">
                   <cit did="2042" cid="26" avtor0="Štih Peter"
                      naslov0="O goriških grofih v Bavčarjevi Zgodovini Norika in Furlanije ter o konceptu in predlogah tega dela"
@@ -15002,7 +15050,8 @@
             <pubPart>
                <author>Marušič Branko</author>
                <title>Slovenska in politična zavest na Primorskem pred letom 1848</title>
-               <page>63-64</page>
+               <page>61-73</page>
+               <cobiss>11331634</cobiss>
                <citedIn count="1">
                   <cit did="2578" cid="11" avtor0="Marušič Branko"
                      naslov0="Slovenska in politična zavest na Primorskem pred letom 1848"
@@ -15058,8 +15107,10 @@
          <issue n="8">
             <pubPart>
                <author>Vidmar Cvetko</author>
-               <title>Oris zavezniške vojaške uprave v Slovenskem primorju 12.6. 1945-15.9. 1947</title>
+               <title>Oris zavezniške vojaške uprave v Slovenskem primorju</title>
+               <title>12.6. 1945-15.9. 1947</title>
                <page>173-222</page>
+               <cobiss>16307250</cobiss>
                <citedIn count="1">
                   <cit did="785" cid="1" avtor0="Vidmar Cvetko"
                      naslov0="Oris zavezniške vojaške uprave v Slovenskem primorju 12.6. 1945-15.9. 1947"
@@ -15070,6 +15121,7 @@
                <author>Vuk Marko</author>
                <title>Poročilo o krilnem oltarju v Kojskem iz leta 1916</title>
                <page>223-227</page>
+               <cobiss>16307506</cobiss>
                <citedIn count="1">
                   <cit did="1428" cid="45" avtor0="Vuk Marko"
                      naslov0="Poročilo o krilnem oltarju v Kojskem iz leta 1916"
@@ -15085,6 +15137,7 @@
                <author>Sedmak Drago</author>
                <title>Ustanovitev slovenske vladne stranke na Goriškem 1922</title>
                <page>115-136</page>
+               <cobiss>10977074</cobiss>
                <citedIn count="1">
                   <cit did="3216" cid="47" avtor0="Sedmak Drago"
                      naslov0="Ustanovitev slovenske vladne stranke na Goriškem 1922"
@@ -15095,8 +15148,9 @@
          <issue>
             <pubPart>
                <author>Gombač Boris</author>
-               <title>karakterizacija stavk in mezdnih bojev v Trstu v desetletjih pred prvo svetovno vojno</title>
+               <title>Karakterizacija stavk in mezdnih bojev v Trstu v desetletjih pred razpadom Avstroogrske</title>
                <page>93-113</page>
+               <cobiss>4217184</cobiss>
                <citedIn count="1">
                   <cit did="2299" cid="40" avtor0="Gombač Boris"
                      naslov0="karakterizacija stavk in mezdnih bojev v Trstu v desetletjih pred prvo svetovno vojno"
@@ -15119,7 +15173,8 @@
             <pubPart>
                <author>Pavšič Tone</author>
                <title>Spomeniki in spominske plošče osebam v občinah Ajdovščina, Idrija, Nova Gorica, Sežana in Tolmin</title>
-               <page>342-343</page>
+               <page>337-401</page>
+               <cobiss>464755</cobiss>
                <citedIn count="1">
                   <cit did="2197" cid="14" avtor0="Pavšič Tone"
                      naslov0="Spomeniki in spominske plošče osebam v občinah Ajdovščina, Idrija, Nova Gorica, Sežana in Tolmin"
@@ -15129,6 +15184,8 @@
             <pubPart>
                <author>Rozman Franc</author>
                <title>Zbiranje prispevkov za bosansko-hercegovske begunce na Goriškem</title>
+               <page>63-66</page>
+               <cobiss>6843140</cobiss>
                <citedIn count="1">
                   <cit did="525" cid="1" avtor0="Rozman Franc"
                      naslov0="Zbiranje prispevkov za bosansko-hercegovske begunce na Goriškem"
@@ -15211,8 +15268,10 @@
             <pubPart>
                <author>Cremonesi A.</author>
                <author>Cremonesi Arduino</author>
-               <title>Zadnji turški vpad v Furlanijo (1499)</title>
+               <title>Zadnji turški vpad v Furlanijo</title>
+               <title>(1499)</title>
                <page>124-129</page>
+               <cobiss>11291186</cobiss>
                <citedIn count="2">
                   <cit did="2112" cid="4" avtor0="Cremonesi A."
                      naslov0="Zadnji turški vpad v Furlanijo (1499)" source="Goriški letnik"
@@ -15226,6 +15285,7 @@
                <author>Gabrovec S.</author>
                <title>Železnodobna nekropola v Kobaridu</title>
                <page>44-64</page>
+               <cobiss>137800</cobiss>
                <citedIn count="1">
                   <cit did="1953" cid="6" avtor0="Gabrovec S."
                      naslov0="Železnodobna nekropola v Kobaridu" source="Goriški letnik"
@@ -15260,7 +15320,8 @@
             <pubPart>
                <author>Križnar Naško</author>
                <title>Stanovanjska kultura na Gori v luči spreminjanja hišnih oblik</title>
-               <page>43-58</page>
+               <page>43-61</page>
+               <cobiss>463219</cobiss>
                <citedIn count="1">
                   <cit did="1438" cid="5" avtor0="Križnar Naško"
                      naslov0="Stanovanjska kultura na Gori v luči spreminjanja hišnih oblik"
@@ -15473,6 +15534,7 @@
                <author>Krnc Janez</author>
                <title>Revizije predhodnega lastninjenja</title>
                <page>71-74</page>
+               <cobiss>110564864</cobiss>
                <citedIn count="1">
                   <cit did="3286" cid="125" avtor0="Krnc Janez"
                      naslov0="Revizije predhodnega lastninjenja" source="Gospodarska gibanja"
@@ -15487,8 +15549,9 @@
          <issue n="265">
             <pubPart>
                <author>Štiblar Franjo</author>
-               <title>Razvoj trgov Ex-Jugoslavije</title>
+               <title>Razvoj trgov ex-Jugoslavije</title>
                <page>23-43</page>
+               <cobiss>903505</cobiss>
                <citedIn count="1">
                   <cit did="2383" cid="6" avtor0="Štiblar Franjo"
                      naslov0="Razvoj trgov Ex-Jugoslavije" source="Gospodarska gibanja" year="1995"
@@ -15633,6 +15696,7 @@
                <author>Bajt Aleksander</author>
                <title>Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo</title>
                <page>25-42</page>
+               <cobiss>8076333</cobiss>
                <citedIn count="1">
                   <cit did="1293" cid="7" avtor0="Bajt Aleksander"
                      naslov0="Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo"
@@ -15735,19 +15799,6 @@
       <publisher>Gospodarski vestnik</publisher>
       <pubCobiss>744964</pubCobiss>
       <issn>0432-1146</issn>
-      <year n="2017">
-         <volume>51</volume>
-         <issue n="50">
-            <pubPart>
-               <author>Mencinger Jože</author>
-               <title>Plesala je eno polletje</title>
-               <citedIn count="1">
-                  <cit did="1899" cid="17" avtor0="Mencinger Jože" naslov0="Plesala je eno polletje"
-                     source="Gospodarski vestnik," year="2017" volume="51" issue="50"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="2011">
          <issue n="79">
             <pubPart>
@@ -15758,21 +15809,6 @@
                   <cit did="2315" cid="9" avtor0="Žužek Nande"
                      naslov0="Zagotoviti pogoje in klimo za integracijske procese v tekstilni industriji"
                      source="Gospodarski vestnik" year="2011" issue="79" page="3"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="2007">
-         <issue n="14">
-            <pubPart>
-               <author>Koražija Nataša</author>
-               <title>Pravična bi bila deprivatizacija!</title>
-               <title>intervju z Boštjanom Penkom</title>
-               <page>30-33</page>
-               <citedIn count="1">
-                  <cit did="2286" cid="18" avtor0="Koražija Nataša"
-                     naslov0="Pravična bi bila deprivatizacija!: intervju z Boštjanom Penkom"
-                     source="Gospodarski vestnik" year="2007" issue="14" page="30-33"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15789,7 +15825,7 @@
                <title>To je ena najnevarnejših oblik korupcije, ko zasebniki vzamejo državne oziroma politične mehanizme v svoje roke ...</title>
                <page>30-33</page>
                <cobiss>908744</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="3286" cid="182" avtor0="Penko Boštjan" avtor1="Koražija Nataša"
                      naslov0="Pravična bi bila deprivatizacija! : Boštjan Penko: V slovenski tranziciji so deli gospodarske elite ugrabili državo. To je ena najnevarnejših oblik korupcije, ko zasebniki vzamejo državne oziroma politične mehanizme v svoje roke ..."
                      cobiss="908744"
@@ -15799,6 +15835,9 @@
                   <cit did="3114" cid="6" avtor0="Koražija Nataša"
                      naslov0="Pravična bi bila deprivatizacija! Intervju z Boštjanom Penkom"
                      source="Gospodarski vestnik" year="7" volume="52" issue="14" page="30-33"/>
+                  <cit did="2286" cid="18" avtor0="Koražija Nataša"
+                     naslov0="Pravična bi bila deprivatizacija!: intervju z Boštjanom Penkom"
+                     source="Gospodarski vestnik" year="2007" issue="14" page="30-33"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15823,6 +15862,7 @@
                <author>Dernovšek Igor</author>
                <title>Poslovno podzemlje se razrašča</title>
                <page>21-26</page>
+               <cobiss>714696</cobiss>
                <citedIn count="1">
                   <cit did="3114" cid="3" avtor0="Dernovšek Igor"
                      naslov0="Poslovno podzemlje se razrašča" source="Gospodarski vestnik" year="15"
@@ -15882,9 +15922,11 @@
             </pubPart>
          </issue>
          <issue>
+            <!-- Knjiga ISBN 86-7061-196-1 -->
             <pubPart>
                <author>Kaučič Igor, Grad France</author>
                <title>Ustavna ureditev Slovenije</title>
+               <cobiss>100001536</cobiss>
                <citedIn count="1">
                   <cit did="826" cid="65" avtor0="Kaučič Igor, Grad France"
                      naslov0="Ustavna ureditev Slovenije" source="Gospodarski vestnik"
@@ -15908,10 +15950,12 @@
             </pubPart>
          </issue>
          <issue>
+            <!-- knjiga ISBN 86-7061-177-5 -->
             <pubPart>
                <author>Fischer R., Ury W.</author>
                <title>Kako doseči dogovor</title>
                <title>umetnost pogajanja</title>
+               <cobiss>78333184</cobiss>
                <citedIn count="1">
                   <cit did="377" cid="3" avtor0="Fischer R., Ury W."
                      naslov0="Kako doseči dogovor : umetnost pogajanja" source="Gospodarski vestnik"
@@ -15965,8 +16009,9 @@
                      source="Gospodarski vestnik" year="1992" volume="41" issue="50" page="4-5"/>
                   <cit did="3286" cid="75" avtor0="Mencinger Kože" naslov0="Plesala je eno polletje"
                      source="Gospodarski vestnik : slovenski poslovni tednik" pubPlace="Ljubljana"
-                     publisher="Gospodarski vestnik" year="1992" volume="XLI" issue="50" page="4-5"
-                  />
+                     publisher="Gospodarski vestnik" year="1992" volume="XLI" issue="50" page="4-5"/>
+                  <cit did="1899" cid="17" avtor0="Mencinger Jože" naslov0="Plesala je eno polletje"
+                     source="Gospodarski vestnik," year="2017" volume="51" issue="50"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15990,10 +16035,11 @@
       </year>
       <year n="1958">
          <issue>
+            <!-- Knjiga -->
             <pubPart>
                <author>Winkler Venceslav</author>
                <title>O šolskih odborih</title>
-               <page>36-38</page>
+               <cobiss>35483137</cobiss>
                <citedIn count="1">
                   <cit did="15" cid="91" avtor0="Winkler Venceslav" naslov0="O šolskih odborih"
                      source="Gospodarski vestnik" pubPlace="Ljubljana" year="1958" page="36-38"/>
@@ -16044,6 +16090,8 @@
                <author>Flego Stanko</author>
                <title>Poliške zgodbe</title>
                <title>ustno izročilo iz vasi Police pri Cerknem</title>
+               <page>88-95</page>
+               <cobiss>246397184</cobiss>
                <citedIn count="1">
                   <cit did="1742" cid="15" avtor0="Flego Stanko"
                      naslov0="Poliške zgodbe: ustno izročilo iz vasi Police pri Cerknem"
@@ -16057,7 +16105,7 @@
          <issue n="2">
             <pubPart>
                <author>Flego Stanko</author>
-               <title>Dve zgodnjosrednjeveški nadbi iz Polic pri Cerknem</title>
+               <title>Dve zgodnjesrednjeveški najdbi iz Polic pri Cerknem </title>
                <page>96-99</page>
                <citedIn count="1">
                   <cit did="250" cid="1" avtor0="Flego Stanko"
@@ -16069,6 +16117,7 @@
                <author>Viler Darko</author>
                <title>Mejniki 20. stoletja</title>
                <page>100-114</page>
+               <cobiss>3785627</cobiss>
                <citedIn count="1">
                   <cit did="2556" cid="20" avtor0="Viler Darko" naslov0="Mejniki 20. stoletja"
                      source="Idrijski razgledi" year="2004" volume="49" issue="2" page="100-114"/>
@@ -16081,8 +16130,9 @@
          <issue>
             <pubPart>
                <author>Hvala Renata</author>
-               <title>Vojaška zgodovina vojskarske planote</title>
+               <title>Iz vojaške zgodovine Vojskarske planote</title>
                <page>77-83</page>
+               <cobiss>113773568</cobiss>
                <citedIn count="1">
                   <cit did="2556" cid="5" avtor0="Hvala Renata"
                      naslov0="Vojaška zgodovina vojskarske planote" source="Idrijski razgledi"
@@ -16097,6 +16147,7 @@
                <author>Pavšič Franc</author>
                <title>Idrija pred drugo svetovno vojno</title>
                <page>79-81</page>
+               <cobiss>54046976</cobiss>
                <citedIn count="1">
                   <cit did="2556" cid="10" avtor0="Pavšič Franc"
                      naslov0="Idrija pred drugo svetovno vojno" source="Idrijski razgledi"
@@ -16113,6 +16164,7 @@
                <author>Pavšič Franc</author>
                <title>Atentat na davkarja</title>
                <page>67-69</page>
+               <cobiss>35237632</cobiss>
                <citedIn count="1">
                   <cit did="2556" cid="9" avtor0="Pavšič Franc" naslov0="Atentat na davkarja"
                      source="Idrijski razgledi" year="1991" volume="36" issue="1" page="67-69"/>
@@ -16124,6 +16176,7 @@
                <author>Medvešček Stanko</author>
                <title>Obnova cerkve Žalostne Matere božje v Idriji</title>
                <page>57-58</page>
+               <cobiss>35261184</cobiss>
                <citedIn count="1">
                   <cit did="2221" cid="14" avtor0="Medvešček Stanko"
                      naslov0="Obnova cerkve Žalostne Matere božje v Idriji"
@@ -16134,6 +16187,7 @@
                <author>Štucin Ana</author>
                <title>Leto 1941 na Cerkljanskem</title>
                <page>21-33</page>
+               <cobiss>35246592</cobiss>
                <citedIn count="1">
                   <cit did="2221" cid="20" avtor0="Štucin Ana" naslov0="Leto 1941 na Cerkljanskem"
                      source="Idrijski razgledi" year="1991" volume="2" page="21-33"/>
@@ -16178,6 +16232,8 @@
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Domobranstvo na Primorskem</title>
+               <page>116-122</page>
+               <cobiss>1878900</cobiss>
                <citedIn count="1">
                   <cit did="499" cid="1" avtor0="Mlakar Boris" naslov0="Domobranstvo na Primorskem"
                      source="Idrijski razgledi" year="1986" volume="29"/>
@@ -16204,7 +16260,8 @@
          <issue>
             <pubPart>
                <author>Štucin Anica, Lipužič Olga</author>
-               <title>Gradivo za zgodovino OF na Idrijskem in Cerkljanskem (1941–april 1943)</title>
+               <title>Gradivo za zgodovino OF na Idrijskem in Cerkljanskem</title>
+               <title>(1941–april 1943)</title>
                <page>25-46</page>
                <citedIn count="1">
                   <cit did="1510" cid="111" avtor0="Štucin Anica, Lipužič Olga"
@@ -16258,7 +16315,7 @@
          <issue n="4">
             <pubPart>
                <author>Župančič Jože</author>
-               <title>proslave ob 100-letnici rojtsva skladatelja Petra Jereba</title>
+               <title>Proslave ob 100-letnici rojstva skladatelja Petra Jereba</title>
                <page>81-84</page>
                <citedIn count="1">
                   <cit did="3484" cid="2" avtor0="Župančič Jože"
@@ -16320,8 +16377,9 @@
          <issue n="6">
             <pubPart>
                <author>Cergol J.</author>
-               <title>Percepcija klasicno grsko-rimskih Sozotskih kategorij v delih slovenskega pisatelja Alojza Rebule</title>
+               <title>Percepcija klasičnih grško-rimskih filozofskih kategorij v delih slovenskega pisatelja Alojza Rebule</title>
                <page>67-79</page>
+               <cobiss>33945698</cobiss>
                <citedIn count="1">
                   <cit did="3081" cid="5" avtor0="Cergol J."
                      naslov0="Percepcija klasicno grsko-rimskih Sozotskih kategorij v delih slovenskega pisatelja Alojza Rebule"
@@ -16352,6 +16410,7 @@
                <author>Novak Popov Irena</author>
                <title>»Pozabljena« slovenska pričevanja iz vélike vojne</title>
                <page>9-24</page>
+               <cobiss>29093986</cobiss>
                <citedIn count="1">
                   <cit did="2735" cid="60" avtor0="Novak Popov Irena"
                      naslov0="»Pozabljena« slovenska pričevanja iz vélike vojne"
@@ -16365,6 +16424,7 @@
                <author>Köstler Erwin</author>
                <title>Literatura in odpor, odpor v literaturi</title>
                <page>105-115</page>
+               <cobiss>29821538</cobiss>
                <citedIn count="1">
                   <cit did="2839" cid="35" avtor0="Leben Andrej" avtor1="Köstler Erwin"
                      naslov0="Literatura in odpor, odpor v literaturi" source="Jezik in slovstvo"
@@ -16373,8 +16433,9 @@
             </pubPart>
             <pubPart>
                <author>Paternu Boris</author>
-               <title>Po sledovih jezikovnih travm v sodobni slovenski književnosti</title>
+               <title>Po sledeh jezikovnih travm v sodobni slovenski književnosti</title>
                <page>63-77</page>
+               <cobiss>29789538</cobiss>
                <citedIn count="1">
                   <cit did="2839" cid="48" avtor0="Paternu Boris"
                      naslov0="Po sledovih jezikovnih travm v sodobni slovenski književnosti"
@@ -16385,8 +16446,10 @@
          <issue n="5">
             <pubPart>
                <author>Kernc Boštjan</author>
-               <title>Značilnosti političnega govora v totalitarni in demokratični družbi (na primeru slovenskih parlamentarnih govorov)</title>
+               <title>Značilnosti političnega govora v totalitarni in demokratični družbi</title>
+               <title>(na primeru slovenskih parlamentarnih govorov)</title>
                <page>49-63</page>
+               <cobiss>31018594</cobiss>
                <citedIn count="1">
                   <cit did="1733" cid="6" avtor0="Kernc Boštjan"
                      naslov0="Značilnosti političnega govora v totalitarni in demokratični družbi (na primeru slovenskih parlamentarnih govorov)"
@@ -16399,6 +16462,7 @@
                <author>Svetina Pirih Nataša, Ferbežar Ina</author>
                <title>Slovenščine tujejezičnih govorcev</title>
                <page>3-15</page>
+               <cobiss>31162978</cobiss>
                <citedIn count="1">
                   <cit did="1554" cid="18" avtor0="Svetina Pirih Nataša, Ferbežar Ina"
                      naslov0="Slovenščine tujejezičnih govorcev" source="Jezik in slovstvo"
@@ -16432,6 +16496,7 @@
                <author>Mikolič Vesna</author>
                <title>Medkulturna pragmatika pri pouku slovenščine kot J2</title>
                <page>103-121</page>
+               <cobiss>26028642</cobiss>
                <citedIn count="2">
                   <cit did="1984" cid="11" avtor0="Mikolič V."
                      naslov0="Medkulturna pragmatika pri pouku slovenščine kot J2"
@@ -16450,6 +16515,7 @@
                <author>Čop D.</author>
                <title>Prisank in Kofce</title>
                <page>282-283</page>
+               <cobiss>2092342</cobiss>
                <citedIn count="1">
                   <cit did="423" cid="27" avtor0="Čop D." naslov0="Prisank in Kofce"
                      source="Jezik in slovstvo" pubPlace="Ljubljana" year="1996" volume="41"
@@ -16464,6 +16530,8 @@
             <pubPart>
                <author>Ožbot M.</author>
                <title>Romanske jezikovne prvine v besedilu Rapsodija v treh stavkih Mirana Košute</title>
+               <page>379-385</page>
+               <cobiss>3180849</cobiss>
                <citedIn count="1">
                   <cit did="1984" cid="12" avtor0="Ožbot M."
                      naslov0="Romanske jezikovne prvine v besedilu Rapsodija v treh stavkih Mirana Košute"
@@ -16475,8 +16543,10 @@
          <issue n="6">
             <pubPart>
                <author>Juvan Marko</author>
-               <title>Veno Taufer – življenje in delo</title>
+               <title>Veno Taufer</title>
+               <title>življenje in delo</title>
                <page>295–308</page>
+               <cobiss>2015074</cobiss>
                <citedIn count="1">
                   <cit did="2839" cid="24" avtor0="Juvan Marko"
                      naslov0="Veno Taufer – življenje in delo" source="Jezik in slovstvo"
@@ -16509,6 +16579,7 @@
                <author>Jesenšek Marko</author>
                <title>Jezikovni sistemi v slovenskem (alpskem in panonskem) govornem območju</title>
                <page>173-181</page>
+               <cobiss>3710468</cobiss>
                <citedIn count="1">
                   <cit did="1731" cid="4" avtor0="Jesenšek Marko"
                      naslov0="Jezikovni sistemi v slovenskem (alpskem in panonskem) govornem območju"
@@ -16524,6 +16595,7 @@
                <author>Grdina Igor</author>
                <title>Celjska kronika, spomenik srednjeveške književnosti na Slovenskem</title>
                <page>41-49</page>
+               <cobiss>3871029</cobiss>
                <citedIn count="2">
                   <cit did="3439" cid="38" avtor0="Grdina Igor"
                      naslov0="Celjska kronika, spomenik srednjeveške književnosti na Slovenskem"
@@ -16577,6 +16649,7 @@
                <author>Kos Janko</author>
                <title>Izviri in razvoj slovenske vaške zgodbe</title>
                <page>2-10</page>
+               <cobiss>7700525</cobiss>
                <citedIn count="1">
                   <cit did="442" cid="53" avtor0="Kos Janko"
                      naslov0="Izviri in razvoj slovenske vaške zgodbe" source="Jezik in slovstvo"
@@ -16592,6 +16665,7 @@
                <author>Nartnik Vlado</author>
                <title>K rabi in smislu barvnih izrazov v Cankarjevem Kurentu</title>
                <page>194-199</page>
+               <cobiss>6755629</cobiss>
                <citedIn count="1">
                   <cit did="279" cid="18" avtor0="Nartnik Vlado"
                      naslov0="K rabi in smislu barvnih izrazov v Cankarjevem Kurentu"
@@ -16602,6 +16676,8 @@
                <author>Orožen Martina</author>
                <title>Dalmatinov register</title>
                <title>prvi sinonimni slovarčekslovenskega knjižnega jezika</title>
+               <page>196-201</page>
+               <cobiss>243952640</cobiss>
                <citedIn count="1">
                   <cit did="2764" cid="77" avtor0="Orožen Martina"
                      naslov0="Dalmatinov register - prvi sinonimni slovarčekslovenskega knjižnega jezika"
@@ -16617,6 +16693,7 @@
                <author>Hafner S.</author>
                <title>O problemu funkcijskih zvrsti slovenskega ljudskega jezika</title>
                <page>54-61</page>
+               <cobiss>243814912</cobiss>
                <citedIn count="1">
                   <cit did="729" cid="2" avtor0="Hafner S."
                      naslov0="O problemu funkcijskih zvrsti slovenskega ljudskega jezika"
@@ -16650,6 +16727,7 @@
                <author>Koruza J.</author>
                <title>K problematiki slovenskega preroda</title>
                <page>107-111</page>
+               <cobiss>244060928</cobiss>
                <citedIn count="2">
                   <cit did="288" cid="38" avtor0="Koruza Jože"
                      naslov0="K problematiki slovenskega preroda" source="Jezik in slovstvo"
@@ -16664,6 +16742,8 @@
             <pubPart>
                <author>Kudělka Viktor</author>
                <title>Delež Jána Kollárja pri južnoslovanskem prerodu</title>
+               <page>187-198</page>
+               <cobiss>244069632</cobiss>
                <citedIn count="1">
                   <cit did="167" cid="40" avtor0="Kudělka Viktor"
                      naslov0="Delež Jána Kollárja pri južnoslovanskem prerodu"
@@ -16722,9 +16802,9 @@
          <issue n="4">
             <pubPart>
                <author>Skaza Aleksander</author>
-               <title>V spomin</title>
                <title>Nikolaj Fjodorovič Preobraženski</title>
                <page>112-113</page>
+               <cobiss>16539693</cobiss>
                <citedIn count="1">
                   <cit did="1639" cid="12" avtor0="Skaza Aleksander"
                      naslov0="V spomin: Nikolaj Fjodorovič Preobraženski" source="Jezik in slovstvo"
@@ -16740,6 +16820,7 @@
                <author>Avšič Jaka</author>
                <title>O poveljevalnem jeziku NOB Slovenije</title>
                <page>97-103</page>
+               <cobiss>12433197</cobiss>
                <citedIn count="1">
                   <cit did="827" cid="3" avtor0="Avšič Jaka"
                      naslov0="O poveljevalnem jeziku NOB Slovenije" source="Jezik in slovstvo"
@@ -16752,6 +16833,7 @@
                <author>Logar T.</author>
                <title>Praslovanska a-sklanjatev v slovenskih narečjih</title>
                <page>104-109</page>
+               <cobiss>12432941</cobiss>
                <citedIn count="1">
                   <cit did="1989" cid="8" avtor0="Logar T."
                      naslov0="Praslovanska a-sklanjatev v slovenskih narečjih"
@@ -16769,6 +16851,7 @@
                <author>Avšič Jaka</author>
                <title>Za enakopravnost slovenskega jezika</title>
                <page>96-98</page>
+               <cobiss>13080109</cobiss>
                <citedIn count="2">
                   <cit did="827" cid="2" avtor0="Avšič Jaka"
                      naslov0="Za enakopravnost slovenskega jezika" source="Jezik in slovstvo"
@@ -16787,6 +16870,7 @@
                <author>Barbarič S.</author>
                <title>Tema morja v novejši slovenski prozi</title>
                <page>59-67</page>
+               <cobiss>631601</cobiss>
                <citedIn count="1">
                   <cit did="3080" cid="1" avtor0="Barbarič S."
                      naslov0="Tema morja v novejši slovenski prozi" source="Jezik in slovstvo"
@@ -16802,6 +16886,7 @@
                <author>Gantar Kajetan</author>
                <title>Herman de Carinthia</title>
                <page>223-232</page>
+               <cobiss>14235181</cobiss>
                <citedIn count="1">
                   <cit did="3192" cid="10" avtor0="Gantar Kajetan" naslov0="Herman de Carinthia"
                      source="Jezik in slovstvo" year="1965" volume="10" page="223-232"/>
@@ -16831,6 +16916,8 @@
             <pubPart>
                <author>Gestrin Ferdo</author>
                <title>Še o tradiciji Martina Krpana</title>
+               <page>191-192</page>
+               <cobiss>16044589</cobiss>
                <citedIn count="1">
                   <cit did="2625" cid="26" avtor0="Gestrin Ferdo"
                      naslov0="Še o tradiciji Martina Krpana" source="Jezik in slovstvo"
@@ -16844,7 +16931,9 @@
          <issue n="3-4">
             <pubPart>
                <author>Štampar Emil</author>
-               <title>Panorama hrvatske književnost ob južnovzhodni slovenski meji</title>
+               <title>Panorama hrvatske književnosti ob južnovzhodni slovenski meji</title>
+               <page>161-165</page>
+               <cobiss>15353133</cobiss>
                <citedIn count="1">
                   <cit did="3154" cid="4" avtor0="Štampar Emil"
                      naslov0="Panorama hrvatske književnost ob južnovzhodni slovenski meji"
@@ -16898,7 +16987,8 @@
             <pubPart>
                <author>Eržen Andreja</author>
                <title>Svete žene Andeške</title>
-               <page>81-86</page>
+               <page>81-93</page>
+               <cobiss>512741759</cobiss>
                <citedIn count="1">
                   <cit did="2211" cid="50" avtor0="Eržen Andreja" naslov0="Svete žene Andeške"
                      source="Kamniški zbornik" year="2004" volume="17" page="81-86"/>
@@ -16925,6 +17015,7 @@
                <author>Horvat Jana</author>
                <title>Arheološki sledovi v slovenskem visokogorju</title>
                <page>193-202</page>
+               <cobiss>19395629</cobiss>
                <citedIn count="1">
                   <cit did="751" cid="16" avtor0="Horvat Jana"
                      naslov0="Arheološki sledovi v slovenskem visokogorju" source="Kamniški zbornik"
@@ -17128,8 +17219,9 @@
          <issue>
             <pubPart>
                <author>Djura Jelenko Saša</author>
-               <title>Poznosrednjeveške in zgodnjenovoveške lončene čase iz Slovenj Gradca</title>
+               <title>Poznosrednjeveške in zgodnjenovoveške lončene čaše iz Slovenj Gradca</title>
                <page>21-40</page>
+               <cobiss>7541044</cobiss>
                <citedIn count="1">
                   <cit did="2237" cid="7" avtor0="Djura Jelenko Saša"
                      naslov0="Poznosrednjeveške in zgodnjenovoveške lončene čase iz Slovenj Gradca"
@@ -17140,6 +17232,7 @@
                <author>Kos Marjan</author>
                <title>Preselitev sedeža sreza Dravograd s Prevalj v Dravograd</title>
                <page>69-81</page>
+               <cobiss>7542068</cobiss>
                <citedIn count="1">
                   <cit did="2231" cid="3" avtor0="Kos Marjan"
                      naslov0="Preselitev sedeža sreza Dravograd s Prevalj v Dravograd"
@@ -17152,6 +17245,7 @@
                <author>Lazar Irena</author>
                <title>Odlomki srednjeveškega stekla iz Slovenj Gradca</title>
                <page>14-20</page>
+               <cobiss>7540788</cobiss>
                <citedIn count="1">
                   <cit did="2237" cid="18" avtor0="Lazar Irena"
                      naslov0="Odlomki srednjeveškega stekla iz Slovenj Gradca"
@@ -17167,6 +17261,7 @@
                <author>Krivograd Alojz</author>
                <title>Prispevek k poznavanju oglarjenja pri nekdanji Mislinjski železarni</title>
                <page>5-29</page>
+               <cobiss>5146420</cobiss>
                <citedIn count="1">
                   <cit did="2241" cid="5" avtor0="Krivograd Alojz"
                      naslov0="Prispevek k poznavanju oglarjenja pri nekdanji Mislinjski železarni"
@@ -17197,8 +17292,9 @@
             </pubPart>
             <pubPart>
                <author>Snoj Damjan</author>
-               <title>Srednjeveško mestno obzidje v Slovenj Gradcu, Poročilo o arheoloških izkopavanjih 2.</title>
+               <title>Srednjeveško mestno obzidje v Slovenj Gradcu, Poročilo o arheoloških izkopavanjih 2</title>
                <page>135-160</page>
+               <cobiss>113515264</cobiss>
                <citedIn count="1">
                   <cit did="2237" cid="24" avtor0="Snoj Damjan"
                      naslov0="Srednjeveško mestno obzidje v Slovenj Gradcu, Poročilo o arheoloških izkopavanjih 2."
@@ -17214,6 +17310,7 @@
                <author>Košan Marko</author>
                <title>Ciklus fresk v podružnični cerkvi sv. Janeza v Šentjanžu nad Dravčami</title>
                <page>31-36</page>
+               <cobiss>113489664</cobiss>
                <citedIn count="1">
                   <cit did="2235" cid="9" avtor0="Košan Marko"
                      naslov0="Ciklus fresk v podružnični cerkvi sv. Janeza v Šentjanžu nad Dravčami"
@@ -17225,6 +17322,7 @@
                <author>Skuk Johann</author>
                <title>Zgodovina župnije Slovenj Gradec (1. del)</title>
                <page>7-29</page>
+               <cobiss>113489152</cobiss>
                <citedIn count="2">
                   <cit did="2639" cid="279" avtor0="Skuk Johann"
                      naslov0="Zgodovina župnije Slovenj Gradec (1. del)" source="Koroški zbornik 1"
@@ -17239,6 +17337,7 @@
                <author>Snoj Damjan</author>
                <title>Srednjeveško mestno obzidje v Slovenj Gradcu</title>
                <page>115-133</page>
+               <cobiss>113494784</cobiss>
                <citedIn count="1">
                   <cit did="2237" cid="23" avtor0="Snoj Damjan"
                      naslov0="Srednjeveško mestno obzidje v Slovenj Gradcu" source="Koroški zbornik"
@@ -17251,8 +17350,9 @@
          <issue>
             <pubPart>
                <author>Tomšič Ivan</author>
-               <title>Plebiscit na Koroškem spravne strani</title>
+               <title>Plebiscit na Koroškem s pravne strani</title>
                <page>421-491</page>
+               <cobiss>120788</cobiss>
                <citedIn count="1">
                   <cit did="3300" cid="29" avtor0="Tomšič Ivan"
                      naslov0="Plebiscit na Koroškem spravne strani" source="Koroški zbornik"
@@ -17274,7 +17374,8 @@
             <pubPart>
                <author>Benedik Franc</author>
                <title>Kranj v času nacistične okupacije</title>
-               <page>37-39</page>
+               <page>35-44</page>
+               <cobiss>11177270</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="42" avtor0="Benedik Franc"
                      naslov0="Kranj v času nacistične okupacije" source="Kranjski zbornik 2005"
@@ -17283,8 +17384,9 @@
             </pubPart>
             <pubPart>
                <author>Grdina Igor</author>
-               <title>Pavel Weiner v navskrižjih časa</title>
-               <page>364</page>
+               <title>Pavel Wiener v navzkrižjih časa</title>
+               <page>361-369</page>
+               <cobiss>24524589</cobiss>
                <citedIn count="1">
                   <cit did="2023" cid="7" avtor0="Grdina Igor"
                      naslov0="Pavel Weiner v navskrižjih časa" source="Kranjski zbornik"
@@ -17306,6 +17408,7 @@
                <author>Kos Dušan</author>
                <title>Zakonske težave Kranjčanov pred tremi stoletji</title>
                <page>345-354</page>
+               <cobiss>11228214</cobiss>
                <citedIn count="1">
                   <cit did="1735" cid="108" avtor0="Kos Dušan"
                      naslov0="Zakonske težave Kranjčanov pred tremi stoletji"
@@ -17328,6 +17431,7 @@
                <author>Sagadin Milan</author>
                <title>Rezultati raziskav kranjskega mestnega obzidja</title>
                <page>7-18</page>
+               <cobiss>11176758</cobiss>
                <citedIn count="2">
                   <cit did="2639" cid="261" avtor0="Sagadin Milan"
                      naslov0="Rezultati raziskav kranjskega mestnega obzidja"
@@ -17340,8 +17444,9 @@
             </pubPart>
             <pubPart>
                <author>Stariha Gorazd</author>
-               <title>Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od leta 1855 do leta 1865</title>
+               <title>Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od 1855 do 1865</title>
                <page>63-74</page>
+               <cobiss>11178038</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="28" avtor0="Stariha Gorazd"
                      naslov0="Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od leta 1855 do leta 1865"
@@ -17353,6 +17458,7 @@
                <author>Žontar Majda</author>
                <title>Pomembnejše gradnje v Kranju v tridesetih letih prejšnjega stoletja</title>
                <page>87-96</page>
+               <cobiss>11178550</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="40" avtor0="Žontar Majda"
                      naslov0="Pomembnejše gradnje v Kranju v tridesetih letih prejšnjega stoletja"
@@ -17368,6 +17474,7 @@
                <author>Stariha Gorazd</author>
                <title>Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od nastanka leta 1850 do leta 1855</title>
                <page>35-47</page>
+               <cobiss>6224182</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="27" avtor0="Stariha Gorazd"
                      naslov0="Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od nastanka leta 1850 do leta 1855"
@@ -17395,6 +17502,7 @@
                <author>Knific Timotej</author>
                <title>Vojščaki iz mesta Karnija</title>
                <page>23-40</page>
+               <cobiss>1681718</cobiss>
                <citedIn count="2">
                   <cit did="2639" cid="151" avtor0="Knific Timotej"
                      naslov0="Vojščaki iz mesta Karnija" source="Kranjski zbornik" pubPlace="Kranj"
@@ -17419,6 +17527,7 @@
                <author>Stariha Gorazd</author>
                <title>Zgodbe o Kranjčanih, kot jih je pisalo življenje v prejšnjem stoletju</title>
                <page>106-121</page>
+               <cobiss>1705526</cobiss>
                <citedIn count="2">
                   <cit did="2032" cid="27" avtor0="Stariha Gorazd"
                      naslov0="Zgodbe o Kranjčanih, kot jih je pisalo življenje v prejšnjem stoletju"
@@ -17468,6 +17577,7 @@
                <author>Holynski Nada</author>
                <title>Razvoj upravnih in samoupravnih teritorialnih enot na območju kranjske občine po letu 1945</title>
                <page>234-245</page>
+               <cobiss>276534</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="43" avtor0="Holynski Nada"
                      naslov0="Razvoj upravnih in samoupravnih teritorialnih enot na območju kranjske občine po letu 1945"
@@ -17478,7 +17588,9 @@
             <pubPart>
                <author>Valič Andrej</author>
                <title>Osnovna izhodišča arheoloških proučevanj mesta Kranja</title>
+               <title>(Carnium)</title>
                <page>88-94</page>
+               <cobiss>268854</cobiss>
                <citedIn count="2">
                   <cit did="2639" cid="326" avtor0="Valič Andrej"
                      naslov0="Osnovna izhodišča arheoloških proučevanj mesta Kranja"
@@ -17492,7 +17604,8 @@
             <pubPart>
                <author>Žontar Jože</author>
                <title>Prispevki k zgodovini Kranja med obema svetovnima vojnama</title>
-               <page>119-122</page>
+               <page>118-136</page>
+               <cobiss>271414</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="36" avtor0="Žontar Jože"
                      naslov0="Prispevki k zgodovini Kranja med obema svetovnima vojnama"
@@ -17550,6 +17663,7 @@
                <author>Dežman Jože</author>
                <title>Prispevek k zgodovini naprednega mladinskega gibanja na Gorenjskem v obdobju 1920-1945</title>
                <page>35-46</page>
+               <cobiss>1311542</cobiss>
                <citedIn count="1">
                   <cit did="1545" cid="10" avtor0="Dežman Jože"
                      naslov0="Prispevek k zgodovini naprednega mladinskega gibanja na Gorenjskem v obdobju 1920-1945"
@@ -17560,6 +17674,7 @@
                <author>Žontar Jože</author>
                <title>Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja</title>
                <page>144-162</page>
+               <cobiss>1317686</cobiss>
                <citedIn count="1">
                   <cit did="1227" cid="43" avtor0="Žontar Jože"
                      naslov0="Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja"
@@ -17570,6 +17685,7 @@
                <author>Žontar Majda</author>
                <title>Kulturni razvoj Kranja in okolice od šestdesetih let 19. stoletja do prve svetovne vojne</title>
                <page>163-181</page>
+               <cobiss>1375286</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="29" avtor0="Žontar Majda"
                      naslov0="Kulturni razvoj Kranja in okolice od šestdesetih let 19. stoletja do prve svetovne vojne"
@@ -17585,6 +17701,7 @@
                <author>Fučić B.</author>
                <title>Pisani mojster na Bregu ob Kokri</title>
                <page>197-198</page>
+               <cobiss>1629238</cobiss>
                <citedIn count="1">
                   <cit did="1996" cid="7" avtor0="Fučić B."
                      naslov0="Pisani mojster na Bregu ob Kokri" source="Kranjski zbornik"
@@ -17594,7 +17711,8 @@
             <pubPart>
                <author>Valič Andrej</author>
                <title>Oris 20-letnih raziskovanj grobišča v Kranju</title>
-               <page>159-163</page>
+               <page>159-167</page>
+               <cobiss>1615414</cobiss>
                <citedIn count="2">
                   <cit did="2421" cid="83" avtor0="Valič Andrej"
                      naslov0="Oris 20-letnih raziskovanj grobišča v Kranju"
@@ -17609,6 +17727,7 @@
                <author>Žontar Majda</author>
                <title>Pota in promet čez Ljubelj, Koren in Jezerski vrh</title>
                <page>177-184</page>
+               <cobiss>1620534</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="11" avtor0="Žontar Majda"
                      naslov0="Pota in promet čez Ljubelj, Koren in Jezerski vrh"
@@ -17624,6 +17743,7 @@
                <author>Benedetič Ana</author>
                <title>Partizanske tehnike in tiskarne na Gorenjskem</title>
                <page>32-42</page>
+               <cobiss>3663670</cobiss>
                <citedIn count="1">
                   <cit did="1545" cid="31" avtor0="Benedetič Ana"
                      naslov0="Partizanske tehnike in tiskarne na Gorenjskem"
@@ -17633,7 +17753,8 @@
             <pubPart>
                <author>Benedik Franc</author>
                <title>Partizanska saniteta na Gorenjskem</title>
-               <page>46-47</page>
+               <page>42-55</page>
+               <cobiss>3663926</cobiss>
                <citedIn count="1">
                   <cit did="1545" cid="30" avtor0="Benedik Franc"
                      naslov0="Partizanska saniteta na Gorenjskem" source="Kranjski zbornik"
@@ -17644,6 +17765,7 @@
                <author>Janša Zorn Olga</author>
                <title>Zgodovina gimnazije v Kranju do leta 1918</title>
                <page>349-361</page>
+               <cobiss>3675446</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="30" avtor0="Janša Zorn Olga"
                      naslov0="Zgodovina gimnazije v Kranju do leta 1918"
@@ -17655,6 +17777,7 @@
                <author>Žontar Jože</author>
                <title>Kranj in njegova širša okolica v prvi polovici 19. stoletja</title>
                <page>298-300</page>
+               <cobiss>3669558</cobiss>
                <citedIn count="1">
                   <cit did="422" cid="19" avtor0="Žontar Jože"
                      naslov0="Kranj in njegova širša okolica v prvi polovici 19. stoletja"
@@ -17666,6 +17789,7 @@
                <author>Žontar Jože</author>
                <title>Pomembni kranjski zdravniki preteklosti</title>
                <page>343-348</page>
+               <cobiss>3673398</cobiss>
                <citedIn count="1">
                   <cit did="2610" cid="128" avtor0="Žontar Jože"
                      naslov0="Pomembni kranjski zdravniki preteklosti"
@@ -17698,6 +17822,7 @@
             <pubPart>
                <author>Švent Rozina</author>
                <title>Gradivo za bibliografijo Tineta Debeljaka</title>
+               <cobiss>247324928</cobiss>
                <citedIn count="1">
                   <cit did="2944" cid="3" avtor0="Švent Rozina"
                      naslov0="Gradivo za bibliografijo Tineta Debeljaka"
@@ -17747,6 +17872,7 @@
                <author>Bizjak Matjaž</author>
                <title>Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400</title>
                <page>317-368</page>
+               <cobiss>27445037</cobiss>
                <citedIn count="1">
                   <cit did="2034" cid="1" avtor0="Bizjak Matjaž"
                      naslov0="Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400"
@@ -17771,6 +17897,7 @@
       <year n="2005">
          <volume>52</volume>
          <issue>
+            <pubTitle>Blaznikov zbornik : In memoriam Pavle Blaznik</pubTitle>
             <pubPart>
                <author>Bizjak Matjaž</author>
                <title>Srednjeveški obračuni freisinške škofije</title>
@@ -17790,6 +17917,7 @@
                <author>Štih Peter</author>
                <title>Izvor in začetki škofijske posesti na današnjem slovenskem ozemlju</title>
                <page>35-48</page>
+               <cobiss>29322082</cobiss>
                <citedIn count="1">
                   <cit did="2421" cid="72" avtor0="Štih Peter"
                      naslov0="Izvor in začetki škofijske posesti na današnjem slovenskem ozemlju"
@@ -17806,6 +17934,7 @@
                <author>Koman Dušan</author>
                <title>Crngrobska cerkev v strokovni literaturi</title>
                <page>113-141</page>
+               <cobiss>24682029</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="10" avtor0="Koman Dušan"
                      naslov0="Crngrobska cerkev v strokovni literaturi" source="Loški razgledi"
@@ -17820,8 +17949,9 @@
             <pubPart>
                <author>Golob France</author>
                <title>Kari Jožef Prenner</title>
-               <title>loški muzealec ter njegove zgodovinske, topografske in umet-nostnozgodovinske razprave</title>
+               <title>loški muzealec ter njegove zgodovinske, topografske in umetnostnozgodovinske razprave</title>
                <page>55-76</page>
+               <cobiss>513085823</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="6" avtor0="Golob France"
                      naslov0="Kari Jožef Prenner - loški muzealec ter njegove zgodovinske, topografske in umet-nostnozgodovinske razprave"
@@ -17832,6 +17962,7 @@
                <author>Koman Dušan</author>
                <title>Vodnik Karla Prennerja po Crngrobu in okolici</title>
                <page>43-54</page>
+               <cobiss>22724397</cobiss>
                <citedIn count="1">
                   <cit did="2032" cid="9" avtor0="Koman Dušan"
                      naslov0="Vodnik Karla Prennerja po Crngrobu in okolici" source="Loški razgledi"
@@ -17848,6 +17979,7 @@
                <author>Florjančič Alojzij Pavel</author>
                <title>Povojna grobišča v Crngrobu</title>
                <page>217-244</page>
+               <cobiss>124085248</cobiss>
                <citedIn count="2">
                   <cit did="1301" cid="41" avtor0="Florjančič Alojz Pavel"
                      naslov0="Povojna grobišča v Crngrobu" source="Loški razgledi" year="2001"
@@ -17863,6 +17995,7 @@
                <title>Mihael Peternel</title>
                <title>duhovnik, učitelj in naravoslovec</title>
                <page>27-38</page>
+               <cobiss>124041216</cobiss>
                <citedIn count="1">
                   <cit did="201" cid="8" avtor0="Pavlič Slavica"
                      naslov0="Mihael Peternel - duhovnik, učitelj in naravoslovec"
@@ -17896,6 +18029,7 @@
                <author>Bizjak Matjaž</author>
                <title>Žitne mere freisinških gospostev Škofja Loka in Klevevž</title>
                <page>141-151</page>
+               <cobiss>103367168</cobiss>
                <citedIn count="1">
                   <cit did="2583" cid="56" avtor0="Bizjak Matjaž"
                      naslov0="Žitne mere freisinških gospostev Škofja Loka in Klevevž"
@@ -17906,6 +18040,7 @@
                <author>Budna Nataša</author>
                <title>Vojaki s Škofjeloškega v prvi svetovni vojni</title>
                <page>367-384</page>
+               <cobiss>113231872</cobiss>
                <citedIn count="1">
                   <cit did="1051" cid="1" avtor0="Budna Nataša"
                      naslov0="Vojaki s Škofjeloškega v prvi svetovni vojni" source="Loški razgledi"
@@ -17981,6 +18116,8 @@
             <pubPart>
                <author>Zajc Alfonz</author>
                <title>Spomenik zamolčanim žrtvam v Žireh</title>
+               <page>310-312</page>
+               <cobiss>51554048</cobiss>
                <citedIn count="1">
                   <cit did="444" cid="3" avtor0="Zajc Alfonz"
                      naslov0="Spomenik zamolčanim žrtvam v Žireh" source="LR" year="1994" issue="41"
@@ -18009,6 +18146,7 @@
                <author>Bučič Vesna</author>
                <title>Urarski rod Oblakov iz Prelesja, Suhega dola in Lučin</title>
                <page>19-26</page>
+               <cobiss>310070</cobiss>
                <citedIn count="1">
                   <cit did="2396" cid="2" avtor0="Bučič Vesna"
                      naslov0="Urarski rod Oblakov iz Prelesja, Suhega dola in Lučin"
@@ -18174,7 +18312,8 @@
             <pubPart>
                <author>Sterle M.</author>
                <title>Platnarstvo na Loškem od sredine 18. stoletja do danes</title>
-               <page>131-149</page>
+               <page>131-150</page>
+               <cobiss>278150</cobiss>
                <citedIn count="1">
                   <cit did="2614" cid="70" avtor0="Sterle M."
                      naslov0="Platnarstvo na Loškem od sredine 18. stoletja do danes"
@@ -18190,6 +18329,7 @@
                <author>Rant A.</author>
                <title>Pfenig freisinškega škofa Otona II. iz kovnice Gutenwert in problematika loškega grba</title>
                <page>33-36</page>
+               <cobiss>768393</cobiss>
                <citedIn count="1">
                   <cit did="1940" cid="29" avtor0="Rant A."
                      naslov0="Pfenig freisinškega škofa Otona II. iz kovnice Gutenwert in problematika loškega grba"
@@ -18235,7 +18375,7 @@
             </pubPart>
             <pubPart>
                <author>Sterle M.</author>
-               <title>M. Sterle, Klobučarska obrt v Škofji Loki od srede 18. do srede 19. stoletja</title>
+               <title>Klobučarska obrt v Škofji Loki od srede 18. do srede 19. stoletja</title>
                <page>96-113</page>
                <citedIn count="1">
                   <cit did="2614" cid="79" avtor0="Sterle M."
@@ -18275,7 +18415,7 @@
             </pubPart>
             <pubPart>
                <author>Šribar V.</author>
-               <title>K poznavanju žezarske dejavnosti na freisinški posesti v Sloveniji</title>
+               <title>K poznavanju železarske dejavnosti na freisinški posesti v Sloveniji</title>
                <citedIn count="1">
                   <cit did="2614" cid="90" avtor0="Šribar V."
                      naslov0="K poznavanju žezarske dejavnosti na freisinški posesti v Sloveniji"
@@ -18304,7 +18444,8 @@
          <issue>
             <pubPart>
                <author>Blaznik Pavle</author>
-               <title>"Aljažev stolp na Triglavu- v mejah loškega gospostva</title>
+               <title>Aljažev stolp na Triglavu</title>
+               <title>v mejah loškega gospostva</title>
                <page>37-39</page>
                <citedIn count="1">
                   <cit did="414" cid="16" avtor0="Blaznik Pavle"
@@ -18314,7 +18455,7 @@
             </pubPart>
             <pubPart>
                <author>Zupanc Ciril</author>
-               <title>Okupacija Selške dolina</title>
+               <title>Okupacija Selške doline</title>
                <page>277-285</page>
                <citedIn count="1">
                   <cit did="16" cid="85" avtor0="Zupanc Ciril" naslov0="Okupacija Selške dolina"
@@ -18345,6 +18486,7 @@
                <author>Stanoik M.</author>
                <title>Zgodovina žirovskega čevljarstva</title>
                <page>128-146</page>
+               <cobiss>4868653</cobiss>
                <citedIn count="1">
                   <cit did="2614" cid="58" avtor0="Stanoik M."
                      naslov0="Zgodovina žirovskega čevljarstva" source="Loški razgledi" year="1971"
@@ -18791,6 +18933,7 @@
                <author>Levi Giovanni</author>
                <title>Rabe biografije</title>
                <page>255-265</page>
+               <cobiss>250822656</cobiss>
                <citedIn count="1">
                   <cit did="2571" cid="8" avtor0="Levi Giovanni" naslov0="Rabe biografije"
                      source="Monitor ZSA" year="2008" volume="10" page="255-265"/>
@@ -18819,6 +18962,8 @@
                <author>Kramberger T.</author>
                <title>Nemišljeno v slovenskem zgodovinopisju</title>
                <title>Kritični pretres naturaliziranih razmerij med zgodovino in ideologijo</title>
+               <page>38-44</page>
+               <cobiss>1784531</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="188" avtor0="Kramberger T."
                      naslov0="Nemišljeno v slovenskem zgodovinopisju. Kritični pretres naturaliziranih razmerij med zgodovino in ideologijo"
@@ -18831,6 +18976,7 @@
                <author>Medica Karmen</author>
                <title>Večkulturnost in diskriminacija v evropskem kulturnem okolju in medijskih diskurzih</title>
                <page>117-131</page>
+               <cobiss>1262221</cobiss>
                <citedIn count="1">
                   <cit did="2706" cid="26" avtor0="Medica Karmen"
                      naslov0="Večkulturnost in diskriminacija v evropskem kulturnem okolju in medijskih diskurzih"
@@ -18844,9 +18990,9 @@
          <issue n="1-2">
             <pubPart>
                <author>Ranke L. von</author>
-               <title>Documenta temporis</title>
-               <title>Predgovor k prvi izdaji zgodovin romanskih in germanskih ljudstev od 1494 do 1514</title>
+               <title>Predgovor k prvi izdaji "Zgodovin romanskih in germanskih ljudstev od 1494-1514"</title>
                <page>107-117</page>
+               <cobiss>225182720</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="262" avtor0="Ranke L. von"
                      naslov0="Documenta temporis: Predgovor k prvi izdaji zgodovin romanskih in germanskih ljudstev od 1494 do 1514"
@@ -18858,6 +19004,7 @@
                <title>Epuration comme forme de culture</title>
                <title>La transformation des paradigmes mentaux en Carniole au XIXe siecle</title>
                <page>45-70</page>
+               <cobiss>225168384</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="279" avtor0="Rotar D. B."
                      naslov0="Epuration comme forme de culture. La transformation des paradigmes mentaux en Carniole au XIXe siecle"
@@ -18884,6 +19031,7 @@
                <author>Baskar B.</author>
                <title>H krajinski antropologiji</title>
                <page>1-12</page>
+               <cobiss>27801186</cobiss>
                <citedIn count="1">
                   <cit did="1994" cid="9" avtor0="Baskar B." naslov0="H krajinski antropologiji"
                      source="Monitor ZSA" pubPlace="Ljubljana" year="2004" volume="6" issue="3-4"
@@ -18896,6 +19044,7 @@
                <author>Medica Karmen</author>
                <title>Perspektive medijev etničnih skupin/manjšin z območja bivše Jugoslavije v Sloveniji</title>
                <page>93-122</page>
+               <cobiss>1141133</cobiss>
                <citedIn count="1">
                   <cit did="2706" cid="25" avtor0="Medica Karmen"
                      naslov0="Perspektive medijev etničnih skupin/manjšin z območja bivše Jugoslavije v Sloveniji"
@@ -18922,6 +19071,7 @@
                <title>Tekstna kritika in kulturna zgodovina</title>
                <title>Tekst in glas, XVI.-XVIII. stoletje</title>
                <page>112-123</page>
+               <cobiss>21360994</cobiss>
                <citedIn count="1">
                   <cit did="1920" cid="15" avtor0="Chartier R."
                      naslov0="Tekstna kritika in kulturna zgodovina: Tekst in glas, XVI.-XVIII. stoletje"
@@ -18970,6 +19120,7 @@
                <title>Mentalitete</title>
                <title>Dvoumna zgodovina</title>
                <page>173-185</page>
+               <cobiss>702605</cobiss>
                <citedIn count="1">
                   <cit did="740" cid="26" avtor0="Le Goff J."
                      naslov0="Mentalitete : Dvoumna zgodovina" source="Monitor ISH"
@@ -18978,14 +19129,14 @@
             </pubPart>
             <pubPart>
                <author>Rotar Drago Braco</author>
-               <title>La quête de I' dentité</title>
+               <title>La quête de l'identité</title>
                <title>die Judenfrage et la produktion de I'dentité ethnique dans un pays sans Juifs</title>
                <page>15-27</page>
+               <cobiss>32102754</cobiss>
                <citedIn count="1">
                   <cit did="380" cid="27" avtor0="Rotar Drago Braco"
                      naslov0="La quête de I' dentité : die Judenfrage et la produktion de I'dentité ethnique dans un pays sans Juifs"
-                     source="Monitor ISH" pubPlace="Ljubljana" year="2001" issue="1/2" page="15-27"
-                  />
+                     source="Monitor ISH" pubPlace="Ljubljana" year="2001" issue="1/2" page="15-27"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -18994,6 +19145,7 @@
                <title>les transformations de s paradigmes mentaux en Carniole au XIX siecle</title>
                <title>une Contribution à la conceptualisation de I'histoire provinciale</title>
                <page>45-70</page>
+               <cobiss>225168384</cobiss>
                <citedIn count="1">
                   <cit did="380" cid="28" avtor0="Rotar Drago Braco"
                      naslov0="Épuration comme forme de culture : les transformations de s paradigmes mentaux en Carniole au XIX siecle : une Contribution à la conceptualisation de I'histoire provinciale"
@@ -19005,6 +19157,7 @@
                <author>Valensi L., Wachtel N.</author>
                <title>Zgodovinska antropologija</title>
                <page>155-172</page>
+               <cobiss>700045</cobiss>
                <citedIn count="1">
                   <cit did="2018" cid="337" avtor0="Valensi L., Wachtel N."
                      naslov0="Zgodovinska antropologija" source="Monitor LSH" year="2001" volume="3"
@@ -19107,6 +19260,7 @@
                <author>Špendal Manica</author>
                <title>Prispevek k verodostojnosti podatkov o ustanovitvi čitalnic na Slovenskem</title>
                <page>107-111</page>
+               <cobiss>36256610</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="64" avtor0="Špendal Manica"
                      naslov0="Prispevek k verodostojnosti podatkov o ustanovitvi čitalnic na Slovenskem"
@@ -19121,6 +19275,7 @@
                <author>Cigoj Krstulovič Nataša</author>
                <title>Priložnostne skladbe v čast cesarju, monarhiji in panslavizmu kot odraz nekaterih staroslovenskih političnih načel in idej po letu 1848</title>
                <page>67-82</page>
+               <cobiss>27396909</cobiss>
                <citedIn count="1">
                   <cit did="2270" cid="1" avtor0="Cigoj Krstulovič Nataša"
                      naslov0="Priložnostne skladbe v čast cesarju, monarhiji in panslavizmu kot odraz nekaterih staroslovenskih političnih načel in idej po letu 1848"
@@ -19133,6 +19288,7 @@
                <author>Kokole Metoda</author>
                <title>Sequamini o socii' ali vesela glasbena druščina s kranjske in Štajerske</title>
                <page>67-90</page>
+               <cobiss>27398957</cobiss>
                <citedIn count="1">
                   <cit did="2693" cid="21" avtor0="Kokole Metoda"
                      naslov0="Sequamini o socii' ali vesela glasbena druščina s kranjske in Štajerske"
@@ -19149,6 +19305,7 @@
                <author>Tomašević Katarina</author>
                <title>Contribution of Czech Musicians to the Serbian Music in the 19th Century</title>
                <page>127-137</page>
+               <cobiss>33953378</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="76" avtor0="Tomašević Katarina"
                      naslov0="Contribution of Czech Musicians to the Serbian Music in the 19th Century"
@@ -19161,6 +19318,7 @@
                <author>Tyrrell John</author>
                <title>Genre in Janáček's operas</title>
                <page>139-146</page>
+               <cobiss>33953122</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="77" avtor0="Tyrrell John" naslov0="Genre in Janáček's operas"
                      source="Muzikološki zbornik" pubPlace="Ljubljana"
@@ -19172,6 +19330,7 @@
                <author>Weiss Jernej</author>
                <title>The Transcription of the Correspondence between Leoš Janáček (1854-1928) and Emerik Beran (1868-1940)</title>
                <page>147-164</page>
+               <cobiss>33901154</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="91" avtor0="Weiss Jernej"
                      naslov0="The Transcription of the Correspondence between Leoš Janáček (1854-1928) and Emerik Beran (1868-1940)"
@@ -19186,6 +19345,7 @@
                <author>Kos Koraljka</author>
                <title>Začeci solo pjesme kao umjetničke vrste u Hrvatskoj</title>
                <page>25-39</page>
+               <cobiss>34984034</cobiss>
                <citedIn count="1">
                   <cit did="3154" cid="8" avtor0="Kos Koraljka"
                      naslov0="Začeci solo pjesme kao umjetničke vrste u Hrvatskoj"
@@ -19203,6 +19363,7 @@
                <title>The forgotten correspondence between two friends</title>
                <title>Leoš Janáček (1854-1928) and Emerik Beran (1868-1940)</title>
                <page>91-98</page>
+               <cobiss>31410018</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="90" avtor0="Weiss Jernej"
                      naslov0="The forgotten correspondence between two friends: Leoš Janáček (1854-1928) and Emerik Beran (1868-1940)"
@@ -19242,6 +19403,7 @@
                <title>Italijanske operne predstave pri Auerspergih sredi 17 stoletja</title>
                <title>drobtinica k slovenskemu glasbenemu zgodovinopisju</title>
                <page>115-129</page>
+               <cobiss>13673005</cobiss>
                <citedIn count="1">
                   <cit did="2638" cid="127" avtor0="Kokole Metoda"
                      naslov0="Italijanske operne predstave pri Auerspergih sredi 17 stoletja - drobtinica k slovenskemu glasbenemu zgodovinopisju"
@@ -19252,6 +19414,7 @@
                <author>Koter Darja</author>
                <title>Izdelovalci pihal na Slovenskem in njihova dediščina</title>
                <page>147-165</page>
+               <cobiss>11809890</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="72" avtor0="Koter Darja"
                      naslov0="Izdelovalci pihal na Slovenskem in njihova dediščina"
@@ -19267,6 +19430,7 @@
                <author>Koter Darja</author>
                <title>Musikinstrumente österreichischer Klavierbauer im Landesmuseum Ptuj</title>
                <page>65-80</page>
+               <cobiss>6956552</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="70" avtor0="Koter Darja"
                      naslov0="Musikinstrumente österreichischer Klavierbauer im Landesmuseum Ptuj"
@@ -19282,6 +19446,7 @@
                <author>Cigoj Krstulović Nataša</author>
                <title>Uvod v glasbeno delo čitalnic na Slovenskem</title>
                <page>61-73</page>
+               <cobiss>4099117</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="12" avtor0="Cigoj Krstulović Nataša"
                      naslov0="Uvod v glasbeno delo čitalnic na Slovenskem"
@@ -19294,6 +19459,7 @@
                <author>Kokole Metoda</author>
                <title>Instrumentalna zbirka Musicalische Ehrenfreudt (1618) skladatelja Isaaca Poscha</title>
                <page>5-50</page>
+               <cobiss>3989549</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="64" avtor0="Kokole Metoda"
                      naslov0="Instrumentalna zbirka Musicalische Ehrenfreudt (1618) skladatelja Isaaca Poscha"
@@ -19309,6 +19475,7 @@
                <author>Špendal Manica</author>
                <title>Slavko Osterc v Mariboru</title>
                <page>25-31</page>
+               <cobiss>8373764</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="66" avtor0="Špendal Manica"
                      naslov0="Slavko Osterc v Mariboru" source="Muzikološki zbornik"
@@ -19323,8 +19490,9 @@
          <issue>
             <pubPart>
                <author>Höfler Janez</author>
-               <title>Življenje in delo Antona Tarsia</title>
+               <title>Življenje in delo Antonia Tarsia</title>
                <page>17-28</page>
+               <cobiss>56151296</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="54" avtor0="Höfler Janez"
                      naslov0="Življenje in delo Antona Tarsia" source="Muzikoloski zbornik"
@@ -19355,6 +19523,7 @@
                <author>Sivec Jože</author>
                <title>Stilna orientacija glasbe protestantizma na Slovenskem</title>
                <page>17-29</page>
+               <cobiss>18340397</cobiss>
                <citedIn count="1">
                   <cit did="2693" cid="4" avtor0="Sivec Jože"
                      naslov0="Stilna orientacija glasbe protestantizma na Slovenskem"
@@ -19370,6 +19539,7 @@
                <author>Ravnikar B.</author>
                <title>Tartini in kombinacijski toni</title>
                <page>41-46</page>
+               <cobiss>56124672</cobiss>
                <citedIn count="1">
                   <cit did="387" cid="30" avtor0="Ravnikar B."
                      naslov0="Tartini in kombinacijski toni" source="Muzikološki zbornik"
@@ -19384,6 +19554,7 @@
                <author>Pokorn Danilo</author>
                <title>Glasbena zbirka opatijske cerkve sv. Danijela v Celju</title>
                <page>107-120</page>
+               <cobiss>27586048</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="111" avtor0="Pokorn Danilo"
                      naslov0="Glasbena zbirka opatijske cerkve sv. Danijela v Celju"
@@ -19414,6 +19585,7 @@
                <author>Kuret Primož</author>
                <title>Jubilejna koncertna sezona ljubljanske Filharmonične družbe</title>
                <page>41-49</page>
+               <cobiss>18342701</cobiss>
                <citedIn count="1">
                   <cit did="370" cid="29" avtor0="Kuret Primož"
                      naslov0="Jubilejna koncertna sezona ljubljanske Filharmonične družbe"
@@ -19428,8 +19600,9 @@
          <issue n="2">
             <pubPart>
                <author>Höfler Janez</author>
-               <title>Glasbena kapela Ijubljanske stolnice 1800-1810</title>
+               <title>Glasbena kapela ljubljanske stolnice 1800-1810</title>
                <page>7-21</page>
+               <cobiss>17106733</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="53" avtor0="Höfler Janez"
                      naslov0="Glasbena kapela Ijubljanske stolnice 1800-1810"
@@ -19440,7 +19613,8 @@
          <issue>
             <pubPart>
                <author>Jiranek Jaroslav</author>
-               <title>Janaček's Aesthetics</title>
+               <title>Janáček's aesthetics</title>
+               <cobiss>17100589</cobiss>
                <page>51-62</page>
                <citedIn count="1">
                   <cit did="2196" cid="27" avtor0="Jiranek Jaroslav" naslov0="Janaček's Aesthetics"
@@ -19458,6 +19632,7 @@
                <author>Šaban Ladislav</author>
                <title>Orgulje slovenskih graditelja u Hrvatskoj</title>
                <page>13-41</page>
+               <cobiss>16983597</cobiss>
                <citedIn count="2">
                   <cit did="2121" cid="10" avtor0="Šaban Ladislav"
                      naslov0="Orgulje slovenskih graditelja u Hrvatskoj"
@@ -19474,8 +19649,9 @@
          <issue>
             <pubPart>
                <author>Štedron Bohumir</author>
-               <title>Ugotavljanje tipičnosti nekaterih melodičnih struktur v vokalni melodiki Janáčkové opere »Slučaj Makropulos«</title>
+               <title>Ugotavljanje tipičnosti nekaterih melodičnih struktur v vokalni melodiki Janačkove opere "Slučaj Makropulos"</title>
                <page>5-14</page>
+               <cobiss>16680493</cobiss>
                <citedIn count="1">
                   <cit did="2196" cid="74" avtor0="Štedron Bohumir"
                      naslov0="Ugotavljanje tipičnosti nekaterih melodičnih struktur v vokalni melodiki Janáčkové opere »Slučaj Makropulos«"
@@ -19491,7 +19667,10 @@
          <issue n="5-7">
             <pubPart>
                <author>Gestrin Ferdo</author>
-               <title>Piskač Andrej iz Ljubljane (ok.leta 1472)</title>
+               <title>Piskač Andrej iz Ljubljane</title>
+               <title>(ok.leta 1472)</title>
+               <page>5-7</page>
+               <cobiss>16623661</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="34" avtor0="Gestrin Ferdo"
                      naslov0="Piskač Andrej iz Ljubljane (ok.leta 1472)"
@@ -19505,8 +19684,9 @@
          <issue>
             <pubPart>
                <author>Kuret Primož</author>
-               <title>Angeli z glasbili v Srednji vasi pri Senčurju in v Gostečah</title>
+               <title>Angeli z glasbili v Srednji vasi pri Šenčurju in v Gostečah</title>
                <page>41-46</page>
+               <cobiss>16391725</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="77" avtor0="Kuret Primož"
                      naslov0="Angeli z glasbili v Srednji vasi pri Senčurju in v Gostečah"
@@ -19548,6 +19728,7 @@
                <author>Kuret Primož</author>
                <title>Štajerski deželni trobentač Jakob Globočnik</title>
                <page>26-36</page>
+               <cobiss>16354861</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="79" avtor0="Kuret Primož"
                      naslov0="Štajerski deželni trobentač Jakob Globočnik"
@@ -19558,6 +19739,7 @@
                <author>Rijavec Andrej</author>
                <title>Ljubljanski mestni muziki</title>
                <page>37-51</page>
+               <cobiss>16359213</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="118" avtor0="Rijavec Andrej"
                      naslov0="Ljubljanski mestni muziki" source="Muzikološki zbornik" year="1966"
@@ -19573,6 +19755,7 @@
                <author>Kuret Primož</author>
                <title>Slovenski glasbeniki v graškem Ferdinandeju</title>
                <page>21-36</page>
+               <cobiss>16315437</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="76" avtor0="Kuret Primož"
                      naslov0="Slovenski glasbeniki v graškem Ferdinandeju"
@@ -19583,6 +19766,7 @@
                <author>Rijavec Andrej</author>
                <title>Glasba v šolskih redih ljubljanske protestantske stanovske šole</title>
                <page>9-21</page>
+               <cobiss>16315181</cobiss>
                <citedIn count="1">
                   <cit did="2693" cid="27" avtor0="Rijavec Andrej"
                      naslov0="Glasba v šolskih redih ljubljanske protestantske stanovske šole"
