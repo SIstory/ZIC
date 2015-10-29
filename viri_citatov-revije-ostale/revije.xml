@@ -10631,7 +10631,7 @@
                      source="Družboslovne razprave" volume="18" issue="41" page="63-100"/>
                </citedIn>
             </pubPart>
-            </issue>
+         </issue>
       </year>
       <year n="2001">
          <volume>17</volume>
@@ -10816,7 +10816,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         </year>
+      </year>
       <year n="1989">
          <volume>6</volume>
          <issue n="7">
@@ -12960,7 +12960,7 @@
       </year>
       <year n="1992">
          <issue n="23">
-         <pubTitle>Socialna geografija v teoriji in praksi</pubTitle>
+            <pubTitle>Socialna geografija v teoriji in praksi</pubTitle>
             <pubPart>
                <author>Belec Borut</author>
                <title>Nekaj značilnosti zemljiškoposestne in zaposlitvene povezanosti med republikama Slovenijo in Hrvatsko v obmejnih območjih severovzhodne Slovenije</title>
@@ -13020,7 +13020,7 @@
       </year>
       <year n="1987">
          <issue n="18">
-         <pubTitle>Pokrajinski učinki človekovih dejavnosti na življenjsko okolje : jugoslovansko posvetovanje z mednarodno udeležbo, Bled 21. do 24. sept. 1987</pubTitle>
+            <pubTitle>Pokrajinski učinki človekovih dejavnosti na življenjsko okolje : jugoslovansko posvetovanje z mednarodno udeležbo, Bled 21. do 24. sept. 1987</pubTitle>
             <pubPart>
                <author>Gams Ivan</author>
                <title>Kraške agromelioracije</title>
@@ -13038,7 +13038,7 @@
       </year>
       <year n="1978">
          <issue n="8">
-         <pubTitle>Socialnogeografski problemi obmestnih in obmejnih območij : Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Geografskega inštituta Univerze v Frankfurtu, Frankfurt, 12.-15. maj 1977 in Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Gospodarskogeografskega inštituta Univerze v Münchenu, Portorož, 21.-23. februarja 1978</pubTitle>
+            <pubTitle>Socialnogeografski problemi obmestnih in obmejnih območij : Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Geografskega inštituta Univerze v Frankfurtu, Frankfurt, 12.-15. maj 1977 in Medinštitutski simpozij Inštituta za geografijo Univerze v Ljubljani in Gospodarskogeografskega inštituta Univerze v Münchenu, Portorož, 21.-23. februarja 1978</pubTitle>
             <pubPart>
                <author>Klemenčič Vladimir</author>
                <title>Grenzregionen und nationale Minderheiten</title>
@@ -19136,7 +19136,8 @@
                <citedIn count="1">
                   <cit did="380" cid="27" avtor0="Rotar Drago Braco"
                      naslov0="La quête de I' dentité : die Judenfrage et la produktion de I'dentité ethnique dans un pays sans Juifs"
-                     source="Monitor ISH" pubPlace="Ljubljana" year="2001" issue="1/2" page="15-27"/>
+                     source="Monitor ISH" pubPlace="Ljubljana" year="2001" issue="1/2" page="15-27"
+                  />
                </citedIn>
             </pubPart>
             <pubPart>
@@ -19784,35 +19785,6 @@
       <publisher>Delo</publisher>
       <pubCobiss>751876</pubCobiss>
       <issn>0547-3276</issn>
-      <year n="2009">
-         <issue>
-            <pubPart>
-               <author>Biber Dušan</author>
-               <title>Jugoslavija 1954 v britanskih očeh</title>
-               <title>zaupno poročilo veleposlanika v Beogradu Iva Malleta zunanjemu ministru Anthonyju Ednu</title>
-               <page>467-468</page>
-               <citedIn count="1">
-                  <cit did="826" cid="9" avtor0="Biber Dušan"
-                     naslov0="Jugoslavija 1954 v britanskih očeh : zaupno poročilo veleposlanika v Beogradu Iva Malleta zunanjemu ministru Anthonyju Ednu"
-                     source="Naši razgledi" year="2009" page="468"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="2007">
-         <issue>
-            <pubPart>
-               <author>Tomšič Ivan</author>
-               <title>Razpad Avstro-Ogrske in nastajanje slovenske državnosti</title>
-               <page>625-626</page>
-               <citedIn count="1">
-                  <cit did="2274" cid="183" avtor0="Tomšič Ivan"
-                     naslov0="Razpad Avstro-Ogrske in nastajanje slovenske državnosti"
-                     source="Naši razgledi" year="2007" page="625-626"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1999">
          <issue>
             <pubPart>
@@ -19824,21 +19796,6 @@
                   <cit did="2926" cid="8" avtor0="Medved Felicita"
                      naslov0="Begunci med nasiljem in birokracijo" cobiss="19071837"
                      source="Naši razgledi" year="1999" issue="12. maj 1999" page="6-7"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1996">
-         <volume>11</volume>
-         <issue n="11">
-            <pubPart>
-               <author>Pediček Franc</author>
-               <title>Razmišljanje o gimnazijski maturi</title>
-               <page>206-207</page>
-               <citedIn count="1">
-                  <cit did="838" cid="4" avtor0="Pediček Franc"
-                     naslov0="Razmišljanje o gimnazijski maturi" source="Naši razgledi" year="1996"
-                     volume="11" issue="11" page="206-207"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -19862,6 +19819,9 @@
             <pubPart>
                <author>Le Goff Jacques</author>
                <title>Iznajdba duše</title>
+               <title>pogovor s francoskim zgodovinarjem Jacquesom Le Goffom</title>
+               <page>280-281</page>
+               <cobiss>64920576</cobiss>
                <citedIn count="1">
                   <cit did="432" cid="23" avtor0="Le Goff Jacques" naslov0="Iznajdba duše"
                      source="Naši razgledi" year="0"/>
@@ -19872,7 +19832,8 @@
             <pubPart>
                <author>Šturm Marjan</author>
                <title>Izhodišča za nov narodnostni program koroških Slovencev</title>
-               <page>1-2</page>
+               <page>285-286</page>
+               <cobiss>64925952</cobiss>
                <citedIn count="1">
                   <cit did="1292" cid="2" avtor0="Šturm Marjan"
                      naslov0="Izhodišča za nov narodnostni program koroških Slovencev"
@@ -19900,7 +19861,11 @@
          <issue n="17">
             <pubPart>
                <author>Bajt Aleksander</author>
-               <title>Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo!</title>
+               <title>Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo</title>
+               <title>vse proizvodne, denarne ipd. težave se bodo pripisovale zgolj in samo osamosvojitvi Slovenije, čeprav bodo v resnici posledica nedomišljenosti ekonomske politike</title>
+               <page>453-455</page>
+               <page>478-479</page>
+               <cobiss>65606656</cobiss>
                <citedIn count="1">
                   <cit did="1899" cid="6" avtor0="Bajt Aleksander"
                      naslov0="Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo!"
@@ -19915,6 +19880,8 @@
             <pubPart>
                <author>Vodopivec Peter</author>
                <title>O svetlobi in barvi tridesetih let</title>
+               <page>224-225</page>
+               <cobiss>17780224</cobiss>
                <citedIn count="2">
                   <cit did="569" cid="36" avtor0="Vodopivec Peter"
                      naslov0="O svetlobi in barvi tridesetih let" source="Naši razgledi" year="0"/>
@@ -19926,7 +19893,7 @@
          <issue n="24">
             <pubPart>
                <author>Pahor Samo</author>
-               <title>Openska Bršljanovca in bazoviški Šoht</title>
+               <title>Openska Bršljanovca in bazovski Šoht</title>
                <page>738-740</page>
                <citedIn count="1">
                   <cit did="784" cid="4" avtor0="Pahor Samo"
@@ -19939,6 +19906,8 @@
             <pubPart>
                <author>Roter Zdenko</author>
                <title>Nevarne igre</title>
+               <page>1919</page>
+               <cobiss>14338397</cobiss>
                <citedIn count="1">
                   <cit did="2712" cid="152" avtor0="Roter Zdenko" naslov0="Nevarne igre"
                      source="Naši razgledi, 6. 4. 1990" year="1990"/>
@@ -19968,7 +19937,9 @@
             <pubPart>
                <author>Dahrendorf R.</author>
                <title>Čudni konec socializma</title>
+               <title>Čisti in navidez preprosti sistemi ne funkcionirajo</title>
                <page>542-544</page>
+               <cobiss>28969984</cobiss>
                <citedIn count="1">
                   <cit did="1936" cid="7" avtor0="Dahrendorf R." naslov0="Čudni konec socializma"
                      source="Naši razgledi" pubPlace="Ljubljana" year="1989" volume="38" issue="18"
@@ -20038,12 +20009,43 @@
          <issue>
             <pubPart>
                <author>Jembrih Alojz</author>
-               <title>Postila« Antuna Vramca</title>
+               <title>"Postila" Antuna Vramca</title>
                <citedIn count="1">
                   <cit did="2612" cid="47" avtor0="Jembrih Alojz" naslov0="Postila« Antuna Vramca"
                      source="Naši razgledi, 28. marec 1986" pubPlace="Ljubljana" year="1986"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1985">
+         <issue>
+            <pubPart>
+               <author>Biber Dušan</author>
+               <title>Jugoslavija 1954 v britanskih očeh</title>
+               <title>zaupno poročilo veleposlanika v Beogradu Iva Malleta zunanjemu ministru Anthonyju Ednu</title>
+               <page>467-468</page>
+               <citedIn count="1">
+                  <cit did="826" cid="9" avtor0="Biber Dušan"
+                     naslov0="Jugoslavija 1954 v britanskih očeh : zaupno poročilo veleposlanika v Beogradu Iva Malleta zunanjemu ministru Anthonyju Ednu"
+                     source="Naši razgledi" year="2009" page="468"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1984">
+         <issue>
+            <pubPart>
+               <author>Prunk Janko</author>
+               <title>"Pluralizem v OF kot zgodovinsko vprašanje"</title>
+               <citedIn count="1">
+                  <cit did="860" cid="108" avtor0="Prunk Janko"
+                     naslov0="&#34;Pluralizem v OF kot zgodovinsko vprašanje&#34;"
+                     source="Naši razgledi" year="0"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart/>
          </issue>
       </year>
       <year n="1983">
@@ -20078,16 +20080,29 @@
                      source="NRazgl" year="1983" issue="23.10." page="714"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Zwitter Fran</author>
+               <title>Sodobna zgodovinska zavest</title>
+               <citedIn count="1">
+                  <cit did="217" cid="25" avtor0="Zwitter Fran" naslov0="Sodobna zgodovinska zavest"
+                     source="Naši razgledi" year="0"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1982">
          <volume>31</volume>
          <issue n="4">
             <pubPart>
-               <author>Očak Ivan</author>
-               <title>Tito - Krleža, predvojna srečanja</title>
+               <author>Tito Josip Broz</author>
+               <title>Tito - Krleža</title>
+               <title>Predvojna srečanja</title>
                <page>113-116</page>
+               <cobiss>45718784</cobiss>
                <citedIn count="1">
+                  <cit did="3022" cid="180" avtor0="Tito Josip Broz" avtor1="Krleža Miroslav"
+                     naslov0="Predvojna srečanja" naslov1="natis prevoda iz Književnosti"
+                     source="Naši razgledi" year="1982" page="113-116"/>
                   <cit did="3022" cid="156" avtor0="Očak Ivan"
                      naslov0="Tito - Krleža, predvojna srečanja" source="NRazgl" year="1982"
                      issue="4" page="113-116"/>
@@ -20099,23 +20114,12 @@
                <author>Cvetko C.</author>
                <title>Slovenska opera v evropskem okviru</title>
                <title>intervju</title>
+               <page>624</page>
+               <cobiss>16010797</cobiss>
                <citedIn count="1">
                   <cit did="727" cid="7" avtor0="Cvetko C."
                      naslov0="Slovenska opera v evropskem okviru - intervju" source="Naši razgledi"
                      pubPlace="Ljubljana" year="1982" volume="31" issue="21"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Tito Josip Broz</author>
-               <title>Tito - Krleža</title>
-               <title>Predvojna srečanja</title>
-               <page>113-116</page>
-               <citedIn count="1">
-                  <cit did="3022" cid="180" avtor0="Tito Josip Broz" avtor1="Krleža Miroslav"
-                     naslov0="Predvojna srečanja" naslov1="natis prevoda iz Književnosti"
-                     source="Naši razgledi" year="1982" page="113-116"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20139,7 +20143,7 @@
          <issue>
             <pubPart>
                <author>Klopčič Franc</author>
-               <title>Ali je bla potrebna Profinterna</title>
+               <title>Ali je bila potrebna Profinterna</title>
                <page>612-613</page>
                <citedIn count="1">
                   <cit did="3022" cid="133" avtor0="Klopčič Franc"
@@ -20172,6 +20176,9 @@
             <pubPart>
                <author>Medved A.</author>
                <title>Terapia provocatoria</title>
+               <title>skupina Konstruktor v koprski galeriji Loža</title>
+               <page>77</page>
+               <cobiss>66620416</cobiss>
                <citedIn count="1">
                   <cit did="385" cid="39" avtor0="Medved A." naslov0="Terapia provocatoria"
                      source="Naši razgledi" pubPlace="Ljubljana" year="1972" volume="12"/>
@@ -20199,10 +20206,13 @@
                <author>Tomšič Ivan</author>
                <title>Razpad Avstro-Ogrske in nastajanje slovenske državnosti</title>
                <page>625-626</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1061" cid="6" avtor0="Tomšič Ivan"
                      naslov0="Razpad Avstro-Ogrske in nastajanje slovenske državnosti"
                      source="Naši razgledi" year="1969" volume="18" issue="21" page="625-626"/>
+                  <cit did="2274" cid="183" avtor0="Tomšič Ivan"
+                     naslov0="Razpad Avstro-Ogrske in nastajanje slovenske državnosti"
+                     source="Naši razgledi" year="2007" page="625-626"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20254,7 +20264,9 @@
             <pubPart>
                <author>Pogačnik Jože</author>
                <title>Mladi Prežihov Voranc</title>
+               <title>ob izidu I. knjige zbranih del</title>
                <page>201-202</page>
+               <cobiss>12269357</cobiss>
                <citedIn count="1">
                   <cit did="3022" cid="119" avtor0="Pogačnik Jože" naslov0="Mladi Prežihov Voranc"
                      source="NRazgl" year="1963" page="201-202"/>
@@ -20278,9 +20290,12 @@
                <author>Pediček Franc</author>
                <title>Razmišljanje o gimnazijski maturi</title>
                <page>206-207</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="15" cid="57" avtor0="Pediček Franc"
                      naslov0="Razmišljanje o gimnazijski maturi" source="Naši razgled" year="1962"
+                     volume="11" issue="11" page="206-207"/>
+                  <cit did="838" cid="4" avtor0="Pediček Franc"
+                     naslov0="Razmišljanje o gimnazijski maturi" source="Naši razgledi" year="1996"
                      volume="11" issue="11" page="206-207"/>
                </citedIn>
             </pubPart>
@@ -20309,6 +20324,16 @@
                <citedIn count="1">
                   <cit did="15" cid="81" avtor0="Crvenkovski Krste" naslov0="Reforma univerze"
                      source="Naši razgledi" year="1959" volume="8" issue="24" page="563"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Pirjevec Dušan</author>
+               <title>Ideje, ocene, metode</title>
+               <title>Pretres Slodnjakove Geschichte der slowenischen Literatur</title>
+               <citedIn count="1">
+                  <cit did="234" cid="36" avtor0="Pirjevec Dušan" naslov0="Ideje, ocene, metode"
+                     naslov1="Pretres Slodnjakove Geschichte der slowenischen Literatur"
+                     source="Naši razgledi" year="0" volume="8"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20587,16 +20612,6 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Pirjevec Dušan</author>
-               <title>Ideje, ocene, metode</title>
-               <title>Pretres Slodnjakove Geschichte der slowenischen Literatur</title>
-               <citedIn count="1">
-                  <cit did="234" cid="36" avtor0="Pirjevec Dušan" naslov0="Ideje, ocene, metode"
-                     naslov1="Pretres Slodnjakove Geschichte der slowenischen Literatur"
-                     source="Naši razgledi" year="0" volume="8"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Požar Danilo</author>
                <title>Kje je načelnost ali ne živimo od kritike</title>
                <page>381</page>
@@ -20604,23 +20619,6 @@
                   <cit did="244" cid="29" avtor0="Požar Danilo"
                      naslov0="Kje je načelnost ali ne živimo od kritike" source="Naši razgledi"
                      year="0" page="381"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Prunk Janko</author>
-               <title>"Pluralizem v OF kot zgodovinsko vprašanje"</title>
-               <citedIn count="1">
-                  <cit did="860" cid="108" avtor0="Prunk Janko"
-                     naslov0="&#34;Pluralizem v OF kot zgodovinsko vprašanje&#34;"
-                     source="Naši razgledi" year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Zwitter Fran</author>
-               <title>Sodobna zgodovinska zavest</title>
-               <citedIn count="1">
-                  <cit did="217" cid="25" avtor0="Zwitter Fran" naslov0="Sodobna zgodovinska zavest"
-                     source="Naši razgledi" year="0"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20637,6 +20635,7 @@
          <volume>3</volume>
          <volume>1986</volume>
          <issue n="3">
+            <!-- Notranjski list 3, cobiss 36115713 -->
             <pubPart>
                <author>Boris Rozman</author>
                <title>Sokolsko društvo Dolenji Logatec 1908 - 1941</title>
@@ -20722,6 +20721,7 @@
       </year>
       <year n="1981">
          <issue>
+            <!-- Not. listi II, cobiss 19372545 -->
             <pubPart>
                <author>Avsec Anton, Šumrada Janez</author>
                <title>Kratek oris priprav na množično vstajo in na oblikovanje osvobojenega ozemlja na Notranjskem pozimi 1941–1942</title>
@@ -20768,6 +20768,7 @@
          <volume>1</volume>
          <volume>1977</volume>
          <issue>
+            <!-- Not. listi I, cobiss 3503968 -->
             <pubPart>
                <author>Kranjc Janez</author>
                <title>Privilegij mesta Lož iz leta 1477</title>
@@ -20815,6 +20816,7 @@
                <author>Senegačnik Brane</author>
                <title>Svetovalci za Zeitgeist</title>
                <page>201-219</page>
+               <cobiss>265591552</cobiss>
                <citedIn count="1">
                   <cit did="2986" cid="14" avtor0="Senegačnik Brane"
                      naslov0="Svetovalci za Zeitgeist" source="Nova revija" year="2010" volume="29"
@@ -20829,7 +20831,8 @@
             <pubPart>
                <author>Senegačnik Brane</author>
                <title>Dva robova literature</title>
-               <page>330-332</page>
+               <page>293-306</page>
+               <cobiss>255227392</cobiss>
                <citedIn count="1">
                   <cit did="2986" cid="13" avtor0="Senegačnik Brane" naslov0="Dva robova literature"
                      source="Nova revija" year="2009" volume="28" page="330-332"/>
@@ -20862,8 +20865,9 @@
          <issue n="293-294">
             <pubPart>
                <author>Adam, F., Makarovič M., Tomšič M., Lah. P.</author>
-               <title>Nazorski   in  politični  pluralizem  v okviru  slovenskih tiskanih medijev</title>
+               <title>Nazorski in politični pluralizem v okviru slovenskih tiskanih medijev</title>
                <page>2-32</page>
+               <cobiss>25688157</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="4" avtor0="Adam, F., Makarovič M., Tomšič M., Lah. P."
                      naslov0="Nazorski   in  politični  pluralizem  v okviru  slovenskih tiskanih medijev"
@@ -20892,6 +20896,7 @@
                <author>Štih Peter</author>
                <title>Nacionalizirana zgodovina</title>
                <page>1-20</page>
+               <cobiss>30396770</cobiss>
                <citedIn count="1">
                   <cit did="425" cid="16" avtor0="Štih Peter" naslov0="Nacionalizirana zgodovina"
                      source="Nova revija" year="2005" volume="24" issue="280/281" page="1-20"/>
@@ -20919,8 +20924,10 @@
          <issue n="271-272">
             <pubPart>
                <author>Hribar Tine</author>
-               <title>Zločin brez kazni</title>
-               <page>29, 30</page>
+               <title>Zločin brez zločincev</title>
+               <title>v spomin prijatelju Jožetu Pučniku</title>
+               <page>1-35</page>
+               <cobiss>23459629</cobiss>
                <citedIn count="1">
                   <cit did="1301" cid="15" avtor0="Hribar Tine" naslov0="Zločin brez kazni"
                      source="Nova revija" year="0" volume="23" issue="271/272" page="29, 30"/>
@@ -20943,9 +20950,11 @@
             </pubPart>
          </issue>
          <issue>
+            <!-- Knjiga! ISBN 961-6352-70-9 -->
             <pubPart>
                <author>Vode Angela</author>
                <title>Skriti spomin</title>
+               <cobiss>214030592</cobiss>
                <citedIn count="1">
                   <cit did="1872" cid="40" avtor0="Vode Angela" naslov0="Skriti spomin"
                      source="Nova revija" pubPlace="Ljubljana" year="2004"/>
@@ -20959,6 +20968,8 @@
             <pubPart>
                <author>Grdina Igor</author>
                <title>Bo kdaj anahronizem biti, kar si?</title>
+               <page>331-340</page>
+               <cobiss>22047074</cobiss>
                <citedIn count="1">
                   <cit did="431" cid="30" avtor0="Grdina Igor"
                      naslov0="Bo kdaj anahronizem biti, kar si?" source="Nova revija"
@@ -20986,8 +20997,9 @@
          <issue n="247-248">
             <pubPart>
                <author>Urbančič Ivan</author>
-               <title>To se ne bi smelo dogajati</title>
+               <title>"To se ne bi smelo dogajati"</title>
                <page>102-112</page>
+               <cobiss>122692864</cobiss>
                <citedIn count="1">
                   <cit did="2986" cid="16" avtor0="Urbančič Ivan"
                      naslov0="To se ne bi smelo dogajati" source="Nova revija" year="2002"
@@ -21004,6 +21016,7 @@
                <title>Civilna družba</title>
                <title>poskusi za oživitev močne demokracije</title>
                <page>252-262</page>
+               <cobiss>3681310</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="5" avtor0="Barber B."
                      naslov0="Civilna družba: poskusi za oživitev močne demokracije"
@@ -21016,6 +21029,7 @@
                <author>Tomšič M.</author>
                <title>Oblikovanje političnega prostora in političnih elit na Slovenskem</title>
                <page>260-277</page>
+               <cobiss>7515981</cobiss>
                <citedIn count="1">
                   <cit did="2012" cid="38" avtor0="Tomšič M."
                      naslov0="Oblikovanje političnega prostora in političnih elit na Slovenskem"
@@ -21068,6 +21082,7 @@
                <author>Gadamer Hans Georg</author>
                <title>Platon in pesniki</title>
                <page>133-152</page>
+               <cobiss>3932190</cobiss>
                <citedIn count="1">
                   <cit did="2971" cid="1" avtor0="Gadamer Hans Georg" naslov0="Platon in pesniki"
                      source="Nova revija" year="2000" volume="19" page="133-152"/>
@@ -21080,8 +21095,10 @@
          <issue n="202-203">
             <pubPart>
                <author>Kacin Wohinz Milica</author>
-               <title>Hrvaški »zgodovinski dolg« Slovencem, O dejavnosti primorskih Slovencev v korist ohranitve hrvaške nacionalnosti v Istri</title>
+               <title>Hrvaški "zgodovinski dolg" Slovencem</title>
+               <title>O dejavnosti primorskih Slovencev v korist ohranitve hrvaške nacionalnosti v Istri</title>
                <page>249-254</page>
+               <cobiss>6947149</cobiss>
                <citedIn count="1">
                   <cit did="1511" cid="142" avtor0="Kacin Wohinz Milica"
                      naslov0="Hrvaški »zgodovinski dolg« Slovencem, O dejavnosti primorskih Slovencev v korist ohranitve hrvaške nacionalnosti v Istri"
@@ -21091,8 +21108,9 @@
             <pubPart>
                <author>Meri Lennart</author>
                <title>Estonec potrebuje (vsaj) majhen hrib</title>
-               <title>pogovor z estonskim predsednikom</title>
-               <page>15-16</page>
+               <title>Adam Michnik in Aleksander Kaczowski sta se pogovarjala z estonskim predsednikom Lennartom Merijem</title>
+               <page>12-19</page>
+               <cobiss>100270848</cobiss>
                <citedIn count="1">
                   <cit did="1457" cid="44" avtor0="Meri Lennart"
                      naslov0="Estonec potrebuje (vsaj) majhen hrib: pogovor z estonskim predsednikom"
@@ -21109,17 +21127,10 @@
                <author>Alan John Percivale Tavlor</author>
                <title>Trst</title>
                <page>260-278</page>
+               <cobiss>99450624</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="146" avtor0="Alan John Percivale Tavlor" naslov0="Trst"
                      source="Nova revija" year="1998" volume="7" issue="190-192" page="260-278"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Taylor A. J. P.</author>
-               <title>Triest</title>
-               <title>London in New York 1945</title>
-               <page>260-278</page>
-               <citedIn count="1">
                   <cit did="1511" cid="362" avtor0="Taylor A. J. P."
                      naslov0="Triest: London in New York 1945" source="Nova revija"
                      pubPlace="Triest" year="1998" volume="17" issue="190-192" page="260-278"/>
@@ -21139,7 +21150,11 @@
          <issue n="193">
             <pubPart>
                <author>Pirjevec Dušan</author>
-               <title>Zapis iz zapora (1948)</title>
+               <title>Zapis iz zapora</title>
+               <title>(1948)</title>
+               <page>87-90</page>
+               <page>150-155</page>
+               <cobiss>99536128</cobiss>
                <citedIn count="1">
                   <cit did="3248" cid="9" avtor0="Pirjevec Dušan" naslov0="Zapis iz zapora (1948)"
                      source="Nova revija" year="1998" volume="17" issue="193"/>
@@ -21151,6 +21166,7 @@
                <author>Beck Ulrich</author>
                <title>Evropa kot odgovor na globalizacijo</title>
                <page>54-59</page>
+               <cobiss>18928733</cobiss>
                <citedIn count="1">
                   <cit did="2823" cid="14" avtor0="Beck Ulrich"
                      naslov0="Evropa kot odgovor na globalizacijo" source="Nova revija" year="1998"
@@ -21182,6 +21198,7 @@
                <author>Rovan J.</author>
                <title>Evropa domovin ali evropski narod?</title>
                <page>104-111</page>
+               <cobiss>4595021</cobiss>
                <citedIn count="1">
                   <cit did="407" cid="11" avtor0="Rovan J."
                      naslov0="Evropa domovin ali evropski narod?" source="Nova revija"
@@ -21190,8 +21207,9 @@
             </pubPart>
             <pubPart>
                <author>Taylor Charles</author>
-               <title>Nacionalism in moderna</title>
+               <title>Nacionalizem in moderna</title>
                <page>112-127</page>
+               <cobiss>4595277</cobiss>
                <citedIn count="1">
                   <cit did="2823" cid="156" avtor0="Taylor Charles" naslov0="Nacionalism in moderna"
                      source="Nova revija" year="1996" volume="15" issue="167" page="112-127"/>
@@ -21245,6 +21263,8 @@
             <pubPart>
                <author>Pučnik Jože</author>
                <title>Perverzne proslave</title>
+               <page>1-12</page>
+               <cobiss>51267584</cobiss>
                <citedIn count="1">
                   <cit did="1549" cid="4" avtor0="Pučnik Jože" naslov0="Perverzne proslave"
                      source="Nova revija" year="1995" issue="156-157"/>
@@ -21255,6 +21275,8 @@
             <pubPart>
                <author>Hribar Tine</author>
                <title>Poročilo o stanju duha na Slovenskem</title>
+               <page>1-12</page>
+               <cobiss>4390221</cobiss>
                <citedIn count="1">
                   <cit did="1872" cid="11" avtor0="Hribar Tine"
                      naslov0="Poročilo o stanju duha na Slovenskem" source="Nova revija"
@@ -21266,6 +21288,9 @@
             <pubPart>
                <author>Urbančič Ivan</author>
                <title>O sovraštvu in spravi</title>
+               <title>zgodovinsko psihološka skica</title>
+               <page>172-192</page>
+               <cobiss>53340928</cobiss>
                <citedIn count="1">
                   <cit did="1872" cid="35" avtor0="Urbančič Ivan" naslov0="O sovraštvu in spravi"
                      source="Nova revija" year="1995" issue="159-160"/>
@@ -21300,6 +21325,7 @@
                <author>Jambrek Peter</author>
                <title>Sedež svetega moderne nacije</title>
                <page>1-7</page>
+               <cobiss>895053</cobiss>
                <citedIn count="1">
                   <cit did="860" cid="53" avtor0="Jambrek Peter"
                      naslov0="Sedež svetega moderne nacije" source="Nova revija"
@@ -21361,6 +21387,8 @@
             <pubPart>
                <author>Pirjevec Dušan</author>
                <title>Sem nepopustljiv kot Cankarjev Hvastja</title>
+               <page>VI-X</page>
+               <cobiss>46685696</cobiss>
                <citedIn count="1">
                   <cit did="3248" cid="5" avtor0="Pirjevec Dušan"
                      naslov0="Sem nepopustljiv kot Cankarjev Hvastja" source="Nova revija"
@@ -21389,7 +21417,9 @@
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Polemika o slovenskih impresionistih v letu 1949</title>
+               <title>razmišljanja o prvi povojni diskusiji v Sloveniji</title>
                <page>1217-1226</page>
+               <cobiss>48710400</cobiss>
                <citedIn count="1">
                   <cit did="781" cid="4" avtor0="Gabrič Aleš"
                      naslov0="Polemika o slovenskih impresionistih v letu 1949" source="Nova revija"
@@ -21398,8 +21428,11 @@
             </pubPart>
             <pubPart>
                <author>Inkret Andrej</author>
-               <title>1961 - Kocbekova vrnitev v javnost</title>
+               <title>1961</title>
+               <title>Kocbekova vrnitev v javnost</title>
+               <title>pesnik in totalitarizem</title>
                <page>1198-1216</page>
+               <cobiss>48709120</cobiss>
                <citedIn count="1">
                   <cit did="823" cid="6" avtor0="Inkret Andrej"
                      naslov0="1961 - Kocbekova vrnitev v javnost" source="Nova revija" year="1992"
@@ -21454,6 +21487,7 @@
                <author>Dragoš Srečo</author>
                <title>Avtoriteta in svoboda</title>
                <page>466-486</page>
+               <cobiss>37584640</cobiss>
                <citedIn count="1">
                   <cit did="144" cid="2" avtor0="Dragoš Srečo" naslov0="Avtoriteta in svoboda"
                      source="Nova revija" year="1992" volume="XI" issue="120" page="466-486"/>
@@ -21481,7 +21515,8 @@
             <pubPart>
                <author>Hribar Tine</author>
                <title>Začetek in konec Demosa</title>
-               <page>I</page>
+               <page>I-XVII</page>
+               <cobiss>28566784</cobiss>
                <citedIn count="1">
                   <cit did="1284" cid="3" avtor0="Hribar Tine" naslov0="Začetek in konec Demosa"
                      source="Nova revija" year="1991" volume="10" issue="116" page="I"/>
@@ -21563,6 +21598,9 @@
             <pubPart>
                <author>Adam Frane</author>
                <title>Slovenija, Srbija, Jugoslavija</title>
+               <title>narcisizem malih razlik ali strukturno (zgodovinsko) pogojeni divergentni koncepti razvoja?</title>
+               <page>429-436</page>
+               <cobiss>18857984</cobiss>
                <citedIn count="1">
                   <cit did="433" cid="10" avtor0="Adam Frane"
                      naslov0="Slovenija, Srbija, Jugoslavija" source="Nova revija" year="1990"
@@ -21571,8 +21609,10 @@
             </pubPart>
             <pubPart>
                <author>Janša Janez</author>
-               <title>Osamosvojitvena Slovenija in vojaško vprašanje</title>
+               <title>Osamosvojena Slovenija in vojaško vprašanje</title>
+               <title>(skica za reševanje vojaškega vprašanja osamosvojene Slovenije)</title>
                <page>591-593</page>
+               <cobiss>18903552</cobiss>
                <citedIn count="1">
                   <cit did="3232" cid="9" avtor0="Janša Janez"
                      naslov0="Osamosvojitvena Slovenija in vojaško vprašanje" source="Nova revija"
@@ -21613,8 +21653,10 @@
          <issue n="104">
             <pubPart>
                <author>Apih Milan</author>
-               <title>Spravi nasproti</title>
-               <page>1745</page>
+               <title>Spravi naproti</title>
+               <title>(nekaj pripomb k TV omizju 22.10.1990)</title>
+               <page>1744-1747</page>
+               <cobiss>22547968</cobiss>
                <citedIn count="1">
                   <cit did="1180" cid="1" avtor0="Apih Milan" naslov0="Spravi nasproti"
                      source="Nova revija" year="1990" volume="9" issue="104" page="1745"/>
@@ -21630,6 +21672,7 @@
                <author>Rozman Tatjana</author>
                <title>Ideološke vsebine šolske zgodovine na Slovenskem</title>
                <page>1240-1257</page>
+               <cobiss>15097344</cobiss>
                <citedIn count="1">
                   <cit did="432" cid="13" avtor0="Rozman Tatjana"
                      naslov0="Ideološke vsebine šolske zgodovine na Slovenskem" source="Nova revija"
@@ -21718,7 +21761,8 @@
             <pubPart>
                <author>Djindijić Zoran</author>
                <title>Enotnost ali svoboda</title>
-               <page>1547</page>
+               <page>1547-1551</page>
+               <cobiss>16990464</cobiss>
                <citedIn count="1">
                   <cit did="1519" cid="28" avtor0="Djindijić Zoran" naslov0="Enotnost ali svoboda"
                      source="Nova revija" year="1988" volume="7" issue="78-79" page="1547"/>
@@ -21758,7 +21802,7 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Jeglič Anton Bonaventura.</author>
+               <author>Jeglič Anton Bonaventura</author>
                <author>Bonaventura Jeglič Anton</author>
                <title>Dnevnik (1919 in 1920)</title>
                <citedIn count="2">
@@ -21819,7 +21863,8 @@
          <issue n="57">
             <pubPart>
                <author>Bučar France</author>
-               <title>Pravna ureditev položaja Slovencev kot naroda, Prispevki za slovenski nacionalni program</title>
+               <title>Pravna ureditev položaja Slovencev kot naroda</title>
+               <title>Prispevki za slovenski nacionalni program</title>
                <page>150-160</page>
                <citedIn count="1">
                   <cit did="2712" cid="5" avtor0="Bučar France"
@@ -21831,6 +21876,8 @@
                <author>Goljevšček Alenka</author>
                <title>Arhaičnost</title>
                <title>civilnost</title>
+               <page>15-17</page>
+               <cobiss>51093248</cobiss>
                <citedIn count="1">
                   <cit did="17" cid="8" avtor0="Goljevšček Alenka" naslov0="Arhaičnost- civilnost"
                      naslov1="Prispevki za slovenski nacionalni program" source="Nova revija"
@@ -21840,6 +21887,8 @@
             <pubPart>
                <author>Hribar Spomenka</author>
                <title>Avantgardno sovraštvo in sprava</title>
+               <page>74-103</page>
+               <cobiss>11662685</cobiss>
                <citedIn count="2">
                   <cit did="634" cid="23" avtor0="Hribar Spomenka"
                      naslov0="Avantgardno sovraštvo in sprava" source="Nova revija" year="1987"
@@ -21850,8 +21899,9 @@
             </pubPart>
             <pubPart>
                <author>Hribar Tine</author>
-               <title>Slovenska državnost, Prispevki za slovenski nacionalni program</title>
+               <title>Slovenska državnost</title>
                <page>3-29</page>
+               <cobiss>11661917</cobiss>
                <citedIn count="1">
                   <cit did="2712" cid="17" avtor0="Hribar Tine"
                      naslov0="Slovenska državnost, Prispevki za slovenski nacionalni program"
@@ -21860,7 +21910,7 @@
             </pubPart>
             <pubPart>
                <author>Jambrek Peter</author>
-               <title>Pravica do samoodločbe slovenskega naroda, Prispevki za slovenski nacionalni program</title>
+               <title>Pravica do samoodločbe slovenskega naroda</title>
                <page>161-174</page>
                <citedIn count="1">
                   <cit did="2712" cid="18" avtor0="Jambrek Peter"
@@ -21880,7 +21930,7 @@
             </pubPart>
             <pubPart>
                <author>Pučnik Jože</author>
-               <title>Politični sistem civilne družbe, Prispevki za slovenski nacionalni program</title>
+               <title>Politični sistem civilne družbe</title>
                <page>130-143</page>
                <citedIn count="1">
                   <cit did="2712" cid="50" avtor0="Pučnik Jože"
@@ -21973,8 +22023,9 @@
          <issue n="41-42">
             <pubPart>
                <author>Hribar Spomenka</author>
-               <title>Zapisnik 1</title>
+               <title>Zapisnik I</title>
                <page>1238-1262</page>
+               <cobiss>10106461</cobiss>
                <citedIn count="1">
                   <cit did="153" cid="4" avtor0="Hribar Spomenka" naslov0="Zapisnik 1"
                      source="Nova revija" pubPlace="Ljubljana" year="1985" volume="4" issue="41/42"
@@ -21995,7 +22046,7 @@
             </pubPart>
             <pubPart>
                <author>Hribar Spomenka</author>
-               <title>Zapisnik 2</title>
+               <title>Zapisnik II</title>
                <page>1581-1597</page>
                <citedIn count="1">
                   <cit did="153" cid="5" avtor0="Hribar Spomenka" naslov0="Zapisnik 2"
@@ -22020,7 +22071,7 @@
          <issue n="5">
             <pubPart>
                <author>Struna Lavoslav</author>
-               <title>Razvoj športa u Sloveniji</title>
+               <title>Razvoj športa v Sloveniji</title>
                <page>126-132</page>
                <citedIn count="1">
                   <cit did="1800" cid="2" avtor0="Struna Lavoslav"
@@ -22059,7 +22110,8 @@
             <pubPart>
                <author>Rant A.</author>
                <title>Skupno kovanje goriškega grofa Meinharda III. in Ulrika III. Spanheima v Kamniku</title>
-               <page>75-755</page>
+               <page>750-755</page>
+               <cobiss>244789248</cobiss>
                <citedIn count="1">
                   <cit did="1940" cid="30" avtor0="Rant A."
                      naslov0="Skupno kovanje goriškega grofa Meinharda III. in Ulrika III. Spanheima v Kamniku"
@@ -22091,6 +22143,7 @@
                <author>Oražem F.</author>
                <title>Dodatek k Pogačnikovemu katalogu "Srednjeveške kovnice na Slovenskem"</title>
                <page>589-595</page>
+               <cobiss>72328192</cobiss>
                <citedIn count="1">
                   <cit did="1940" cid="19" avtor0="Oražem F."
                      naslov0="Dodatek k Pogačnikovemu katalogu &#34;Srednjeveške kovnice na Slovenskem&#34;"
@@ -22105,9 +22158,10 @@
          <issue>
             <pubPart>
                <author>Pogačnik A.</author>
-               <title>Srednjeveške kovnice na Slovenskem (5)</title>
-               <title>Kovnica Ljubljana</title>
+               <title>Srednjeveške kovnice na Slovenskem</title>
+               <title>5, Kovnica Ljubljana</title>
                <page>515-526</page>
+               <cobiss>65928960</cobiss>
                <citedIn count="1">
                   <cit did="1940" cid="26" avtor0="Pogačnik A."
                      naslov0="Srednjeveške kovnice na Slovenskem (5): Kovnica Ljubljana"
@@ -22122,9 +22176,10 @@
          <issue>
             <pubPart>
                <author>Pogačnik A.</author>
-               <title>Srednjeveške kovnice na Slovenskem (4)</title>
-               <title>Otok pri Dobravi (Gutenwert)</title>
+               <title>Srednjeveške kovnice na Slovenskem</title>
+               <title>4, Otok pri Dobravi (Gutenwert)</title>
                <page>479-507</page>
+               <cobiss>65921536</cobiss>
                <citedIn count="1">
                   <cit did="1940" cid="25" avtor0="Pogačnik A."
                      naslov0="Srednjeveške kovnice na Slovenskem (4): Otok pri Dobravi (Gutenwert)"
@@ -22139,8 +22194,8 @@
          <issue>
             <pubPart>
                <author>Pogačnik A.</author>
-               <title>Srednjeveške kovnice na Slovenskem (3)</title>
-               <title>Brezice - Rajhenburg - Kostanjevica - Catez-Sv. Kriz.</title>
+               <title>Srednjeveške kovnice na Slovenskem</title>
+               <title>3, Brežice - Rajhenburg - Kostanjevica - Čatez-Sv. Križ</title>
                <page>429-459</page>
                <citedIn count="1">
                   <cit did="1940" cid="24" avtor0="Pogačnik A."
@@ -22155,8 +22210,8 @@
          <issue>
             <pubPart>
                <author>Pogačnik A.</author>
-               <title>Srednjeveške kovnice na Slovenskem (2)</title>
-               <title>Slovenj Gradec - Ptuj - Celje</title>
+               <title>Srednjeveške kovnice na Slovenskem</title>
+               <title>2, Slovenj Gradec - Ptuj - Celje</title>
                <page>371-392</page>
                <citedIn count="1">
                   <cit did="1940" cid="23" avtor0="Pogačnik A."
@@ -22195,6 +22250,7 @@
                <author>Belec Robert</author>
                <title>Božidar Raič</title>
                <page>716-739</page>
+               <cobiss>2479251</cobiss>
                <citedIn count="1">
                   <cit did="1732" cid="7" avtor0="Belec Robert" naslov0="Božidar Raič"
                      source="Ormož skozi stoletja, II." pubPlace="Ormož" year="2005" page="716-739"
@@ -22216,8 +22272,10 @@
             </pubPart>
             <pubPart>
                <author>Mele M.</author>
-               <title>Hajndl pri Ormožu - naselbina iz starejše železne dobe</title>
+               <title>Hajndl pri Ormožu</title>
+               <title>naselbina iz starejše železne dobe</title>
                <page>126-143</page>
+               <cobiss>2488467</cobiss>
                <citedIn count="1">
                   <cit did="1954" cid="23" avtor0="Mele M."
                      naslov0="Hajndl pri Ormožu - naselbina iz starejše železne dobe"
@@ -22227,8 +22285,10 @@
             </pubPart>
             <pubPart>
                <author>Ogrizek Emica</author>
-               <title>Do božiča smo doma!</title>
-               <page>304-315</page>
+               <title>!Do božiča smo doma!"</title>
+               <title>Padli in pogrešani vojaki iz ormoškega območja v prvi svetovni vojni</title>
+               <page>302-315</page>
+               <cobiss>722053</cobiss>
                <citedIn count="1">
                   <cit did="1902" cid="5" avtor0="Ogrizek Emica" naslov0="Do božiča smo doma!"
                      source="Ormož skozi stoletja V/1" pubPlace="Ormož" year="2005" page="304-315"/>
@@ -22237,7 +22297,8 @@
             <pubPart>
                <author>Šuligoj Ljubica</author>
                <title>Odmevi deklaracijskega gibanja na območju ormoškega sodnega okraja v letih 1917-1918</title>
-               <page>276-291</page>
+               <page>284-301</page>
+               <cobiss>2485139</cobiss>
                <citedIn count="1">
                   <cit did="1902" cid="12" avtor0="Šuligoj Ljubica"
                      naslov0="Odmevi deklaracijskega gibanja na območju ormoškega sodnega okraja v letih 1917-1918"
@@ -22254,6 +22315,7 @@
                <author>Fournier Gernot</author>
                <title>Sodni protokol ormoškega mestnega sodnika 1721-1762</title>
                <page>186-216</page>
+               <cobiss>48434944</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="19" avtor0="Fournier Gernot"
                      naslov0="Sodni protokol ormoškega mestnega sodnika 1721-1762"
@@ -22262,8 +22324,9 @@
             </pubPart>
             <pubPart>
                <author>Jurkovič Nada</author>
-               <title>Stanje obrti v Ormožu leta 1834</title>
+               <title>Stanje obrti v Ormožu v letu 1834</title>
                <page>152-157</page>
+               <cobiss>48432640</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="35" avtor0="Jurkovič Nada"
                      naslov0="Stanje obrti v Ormožu leta 1834" source="Ormož skozi stoletja IV"
@@ -22285,7 +22348,8 @@
             <pubPart>
                <author>Nemanič Ivan</author>
                <title>Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935</title>
-               <page>218-219</page>
+               <page>281-294</page>
+               <cobiss>48440576</cobiss>
                <citedIn count="1">
                   <cit did="695" cid="4" avtor0="Nemanič Ivan"
                      naslov0="Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935"
@@ -22308,6 +22372,7 @@
                <author>Vogrin p. Marjan</author>
                <title>Samostan manjših bratov observantov v Ormožu</title>
                <page>9-14</page>
+               <cobiss>48421888</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="66" avtor0="Vogrin p. Marjan"
                      naslov0="Samostan manjših bratov observantov v Ormožu"
@@ -22324,6 +22389,7 @@
                <author>Fournier Gernot, Hernja Masten Marija</author>
                <title>Hiše in hišni posestniki v mestu Ormož</title>
                <page>79-136</page>
+               <cobiss>284550</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="20" avtor0="Fournier Gernot, Hernja Masten Marija"
                      naslov0="Hiše in hišni posestniki v mestu Ormož"
@@ -22334,28 +22400,15 @@
                <author>Jurkovič Nada</author>
                <title>Šolstvo (1676- 1847) in bratovščina sv. Rešnjega Telesa (1661-1787) v Ormožu</title>
                <page>165-173</page>
-               <citedIn count="1">
+               <citedIn count="3">
                   <cit did="3465" cid="46" avtor0="Jurkovič Nada"
                      naslov0="Šolstvo (1676- 1847) in bratovščina sv. Rešnjega Telesa (1661-1787) v Ormožu"
                      source="Ormož skozi stoletja III." pubPlace="Ormož"
                      publisher="Skupščine občine" year="1988" page="165-173"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jurkovič Nada</author>
-               <title>Šolstvo (1676-1847) in bratovščina sv Rešnjega telesa (1661-1787) v Ormožu</title>
-               <citedIn count="1">
                   <cit did="3387" cid="68" avtor0="Jurkovič Nada"
                      naslov0="Šolstvo (1676-1847) in bratovščina sv Rešnjega telesa (1661-1787) v Ormožu"
                      source="Ormož skozi stoletja III" pubPlace="Ormož" publisher="Skupščina občine"
                      year="1988"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jurkovič Nada</author>
-               <title>Šolstvo (1676-1847) in bratovščina sv. Rešnjega Telesa (1661-1787) v Ormožu</title>
-               <page>165-173</page>
-               <citedIn count="1">
                   <cit did="1288" cid="36" avtor0="Jurkovič Nada"
                      naslov0="Šolstvo (1676-1847) in bratovščina sv. Rešnjega Telesa (1661-1787) v Ormožu"
                      source="Ormož skozi stoletja III" pubPlace="Ormož" year="1988" page="165-173"/>
@@ -22393,7 +22446,7 @@
             <!-- cobiss 1118217 -->
             <pubPart>
                <author>Curk Jože</author>
-               <title>Razvoj urbarnih naselbin na območju občine Ormož</title>
+               <title>Razvoj urbanih naselbin na območju občine Ormož</title>
                <page>61-80</page>
                <citedIn count="1">
                   <cit did="2647" cid="37" avtor0="Curk Jože"
@@ -22403,7 +22456,7 @@
             </pubPart>
             <pubPart>
                <author>Ganser Gerald</author>
-               <title>Tako imenovani Â»Tanzhoferjev frajovžÂ« v Ormožu</title>
+               <title>Tako imenovani »Tanzhoferjev frajovž« v Ormožu</title>
                <page>163-168</page>
                <citedIn count="1">
                   <cit did="1288" cid="22" avtor0="Ganser Gerald"
@@ -22415,28 +22468,14 @@
                <author>Mlinarič Jože</author>
                <title>Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja</title>
                <page>81-98</page>
-               <citedIn count="1">
+               <citedIn count="3">
                   <cit did="2611" cid="11" avtor0="Mlinarič Jože"
                      naslov0="Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja"
                      source="Ormož skozi stoletja" pubPlace="Ormož" year="1983" page="82"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Mlinarič Jože</author>
-               <title>Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja</title>
-               <page>81-98</page>
-               <citedIn count="1">
                   <cit did="3387" cid="18" avtor0="Mlinarič Jože"
                      naslov0="Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja"
                      source="Ormož skozi stoletja II" pubPlace="Ormož" publisher="Skupščina občine"
                      year="1983" page="81-98"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Mlinarič Jože</author>
-               <title>Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja</title>
-               <page>81-98</page>
-               <citedIn count="1">
                   <cit did="1288" cid="57" avtor0="Mlinarič Jože"
                      naslov0="Križniške župnije Velika Nedelja, Ormož, Središče in Miklavž do konca 18. stoletja"
                      source="Ormož&#xA;skozi stoletja II" pubPlace="Ormož" year="1983" page="81-98"
@@ -22462,17 +22501,12 @@
             <pubPart>
                <author>Bračič Vladimir</author>
                <title>Ormož in njegova gospoščina leta 1542</title>
-               <citedIn count="1">
+               <page>134-141</page>
+               <cobiss>513035391</cobiss>
+               <citedIn count="2">
                   <cit did="2612" cid="19" avtor0="Bračič Vladimir"
                      naslov0="Ormož in njegova gospoščina leta 1542" source="Ormož skozi stoletja"
                      pubPlace="Maribor" year="1973"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Bračič Vladimir</author>
-               <title>Ormož in njegova gospoščina leta 1542</title>
-               <page>134-141</page>
-               <citedIn count="1">
                   <cit did="1288" cid="42" avtor0="Bračič Vladimir"
                      naslov0="Ormož in njegova gospoščina leta 1542" source="Ormož skozi stoletja"
                      pubPlace="Maribor" year="1973" page="134-141"/>
@@ -22482,6 +22516,7 @@
                <author>Klasinc Anton</author>
                <title>Gradivo za zgodovino Ormoža in njegovega okraja</title>
                <page>101-133</page>
+               <cobiss>313989</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="38" avtor0="Klasinc Anton"
                      naslov0="Gradivo za zgodovino Ormoža in njegovega okraja"
@@ -22491,17 +22526,12 @@
             <pubPart>
                <author>Klasinc Anton</author>
                <title>Ormož skozi stoletja v luči arhivskih virov</title>
-               <citedIn count="1">
+               <page>50-100</page>
+               <cobiss>313733</cobiss>
+               <citedIn count="2">
                   <cit did="2612" cid="57" avtor0="Klasinc Anton"
                      naslov0="Ormož skozi stoletja v luči arhivskih virov"
                      source="Ormož skozi stoletja" pubPlace="Maribor" year="1973"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Klasinc Anton</author>
-               <title>Ormož skozi stoletja v luči arhivskih virov</title>
-               <page>50-100</page>
-               <citedIn count="1">
                   <cit did="1288" cid="39" avtor0="Klasinc Anton"
                      naslov0="Ormož skozi stoletja v luči arhivskih virov"
                      source="Ormož skozi stoletja" pubPlace="Maribor" year="1973" page="50-100"/>
@@ -22511,6 +22541,7 @@
                <author>Klasinc Peter</author>
                <title>Ubožni špital v Ormožu</title>
                <page>152-157</page>
+               <cobiss>149637</cobiss>
                <citedIn count="1">
                   <cit did="1288" cid="40" avtor0="Klasinc Peter" naslov0="Ubožni špital v Ormožu"
                      source="Ormož skozi stoletja" pubPlace="Maribor" year="1973" page="152-157"/>
@@ -22547,7 +22578,9 @@
             <pubPart>
                <author>Škodič Dušan</author>
                <title>Noč dolgih senc</title>
+               <title>spomin na rokovnjače</title>
                <page>12-15</page>
+               <cobiss>11137846</cobiss>
                <citedIn count="1">
                   <cit did="528" cid="6" avtor0="Škodič Dušan" naslov0="Noč dolgih senc"
                      source="Planinski vestnik" year="2005" issue="10" page="12-15"/>
@@ -22562,6 +22595,7 @@
                <author>Uhan Franz</author>
                <title>Kako se je delala cesta na Vršič</title>
                <page>151-163</page>
+               <cobiss>2444854</cobiss>
                <citedIn count="1">
                   <cit did="1304" cid="17" avtor0="Uhan Franz"
                      naslov0="Kako se je delala cesta na Vršič" source="Planinski vestnik" year="0"
@@ -22594,21 +22628,11 @@
                <author>Novak Dušan</author>
                <title>Z gora vse priteče v doline</title>
                <page>66-67</page>
+               <cobiss>40568064</cobiss>
                <citedIn count="1">
                   <cit did="696" cid="14" avtor0="Novak Dušan" naslov0="Z gora vse priteče v doline"
                      source="Planinski vestnik" pubPlace="Ljubljana" year="1993" issue="2"
                      page="66-67"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Lindtner Henrik</author>
-               <title>Planinski piparji</title>
-               <page>169</page>
-               <citedIn count="1">
-                  <cit did="2885" cid="4" avtor0="Lindtner Henrik" naslov0="Planinski piparji"
-                     source="Planinski vestnik" year="1993" page="169"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -22635,7 +22659,8 @@
             <pubPart>
                <author>Šumrada Janez</author>
                <title>Angleška popotnika v slovenskem alpskem svetu</title>
-               <page>291-296</page>
+               <page>291-298</page>
+               <cobiss>8153348</cobiss>
                <citedIn count="1">
                   <cit did="2036" cid="13" avtor0="Šumrada Janez"
                      naslov0="Angleška popotnika v slovenskem alpskem svetu"
@@ -22651,6 +22676,7 @@
                <title>Osp</title>
                <title>Vas, stena, dolina</title>
                <page>352-356</page>
+               <cobiss>4628529</cobiss>
                <citedIn count="1">
                   <cit did="1916" cid="13" avtor0="Dernikovič A. J."
                      naslov0="Osp: Vas, stena, dolina" source="Planinski vestnik"
@@ -22679,6 +22705,7 @@
             <pubPart>
                <author>Petkovšek Viktor</author>
                <title>Scopoli in Triglav</title>
+               <page>403-406</page>
                <citedIn count="1">
                   <cit did="3156" cid="13" avtor0="Petkovšek Viktor" naslov0="Scopoli in Triglav"
                      source="Planinski vestnik" year="1978" issue="7"/>
@@ -22995,7 +23022,10 @@
             <pubPart>
                <author>Lindtner Henrik</author>
                <title>Planinski piparji</title>
+               <page>167-175</page>
                <citedIn count="1">
+                  <cit did="2885" cid="4" avtor0="Lindtner Henrik" naslov0="Planinski piparji"
+                     source="Planinski vestnik" year="1993" page="169"/>
                   <cit did="3156" cid="12" avtor0="Lindtner Henrik" naslov0="Planinski piparji"
                      source="Planinski vestnik" year="1933"/>
                </citedIn>
@@ -23194,12 +23224,13 @@
       <issn>1318-6701</issn>
       <year n="2003">
          <volume>30</volume>
-         <issue>
+         <issue> <!-- Naslov revije tak do leta 1997, po tem Documenta Praehistorica, tako da prvi naveden članek že pod tem naslovom. -->
             <pubPart>
                <author>Budja Mihael</author>
                <title>Seals, contracts and tokens in the Balkans Early Neolithic</title>
                <title>where in the puzzle</title>
                <page>115-130</page>
+               <cobiss>23174498</cobiss>
                <citedIn count="1">
                   <cit did="381" cid="6" avtor0="Budja Mihael"
                      naslov0="Seals, contracts and tokens in the Balkans Early Neolithic : where in the puzzle"
@@ -23213,8 +23244,9 @@
          <issue>
             <pubPart>
                <author>Miracle P.</author>
-               <title>Early Holocene foragers in the karst ol northem Istria</title>
+               <title>Early Holocene foragers in the karst of northem Istria</title>
                <page>43-61</page>
+               <cobiss>79118336</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="55" avtor0="Miracle P."
                      naslov0="Early Holocene foragers in the karst ol northem Istria"
@@ -23224,8 +23256,9 @@
             </pubPart>
             <pubPart>
                <author>Tomaž A.</author>
-               <title>Tehnološka raziskava ločenine iz Moverne vasi v Beli krajini</title>
+               <title>Tehnološka raziskava lončenine iz Moverne vasi v Beli krajini</title>
                <page>113-142</page>
+               <cobiss>79124224</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="74" avtor0="Tomaž A."
                      naslov0="Tehnološka raziskava ločenine iz Moverne vasi v Beli krajini"
@@ -23262,7 +23295,8 @@
          <issue>
             <pubPart>
                <author>Buršič Matijašič K.</author>
-               <title>Clay Seals of Caput Adriae (Pintadere na področju Caput Adriae)</title>
+               <title>Clay Seals of Caput Adriae</title>
+               <title>(Pintadere na področju Caput Adriae)</title>
                <page>7-14</page>
                <citedIn count="1">
                   <cit did="2584" cid="14" avtor0="Buršič Matijašič K."
@@ -23299,6 +23333,7 @@
                <title>Acijev spodmol pri Petrinjah, Slovenija</title>
                <title>dr. Francu Lebnu-Aciju za petinšestdesetletnico</title>
                <page>27-48</page>
+               <cobiss>44084480</cobiss>
                <citedIn count="1">
                   <cit did="423" cid="36" avtor0="Turk Ivan et al."
                      naslov0="Acijev spodmol pri Petrinjah, Slovenija : dr.&#xA;Francu Lebnu-Aciju za petinšestdesetletnico"
@@ -23312,8 +23347,9 @@
          <issue>
             <pubPart>
                <author>Leben F.</author>
-               <title>Veliki zjot, bakreno</title>
+               <title>Veliki zjot, bakreno- in bronastodobno jamsko bivališče v Beli krajini</title>
                <page>169-191</page>
+               <cobiss>68740352</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="49" avtor0="Leben F." naslov0="Veliki zjot, bakreno"
                      source="Poročilo o razikovanju paleolita. neolita in eneolita v Sloveniji"
@@ -23324,6 +23360,7 @@
                <author>Turk I.</author>
                <title>Opis ostankov lavne iz Velikega zjota</title>
                <page>189</page>
+               <cobiss>68740352</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="76" avtor0="Turk I."
                      naslov0="Opis ostankov lavne iz Velikega zjota"
@@ -23338,9 +23375,10 @@
             <pubPart>
                <author>Budja M.</author>
                <title>Arheološka stratigrafija</title>
-               <title>straligrafska konceptualizacija neo-eneolitskih kultur in preteklega časa ( Die archaologische Stratigraphie</title>
-               <title>stratigraphische Konzeptualisation der neo-aneolithischen Kulturen und der Vergangenheit)</title>
-               <page>113-131</page>
+               <title>straligrafska konceptualizacija neo-eneolitskih kultur in preteklega časa</title>
+               <addTitle>Die archaologische Stratigraphie stratigraphische Konzeptualisation der neo-aneolithischen Kulturen und der Vergangenheit)</addTitle>
+               <page>113-134</page>
+               <cobiss>68643840</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="12" avtor0="Budja M."
                      naslov0="Arheološka stratigrafija: straligrafska konceptualizacija neo-eneolitskih kultur in preteklega časa ( Die archaologische Stratigraphie: stratigraphische Konzeptualisation der neo-aneolithischen Kulturen und der Vergangenheit)"
@@ -23357,6 +23395,7 @@
                <author>Budja M.</author>
                <title>Arheološki zapisi na površju, palimpsesti preteklih stanj</title>
                <page>83-102</page>
+               <cobiss>27707648</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="11" avtor0="Budja M."
                      naslov0="Arheološki zapisi na površju, palimpsesti preteklih stanj"
@@ -23389,6 +23428,7 @@
                <author>Frelih M.</author>
                <title>Novo odkrita prazgodovinska plana najdišča na Ljubljanskem barju</title>
                <page>109-125</page>
+               <cobiss>378835</cobiss>
                <citedIn count="1">
                   <cit did="1948" cid="6" avtor0="Frelih M."
                      naslov0="Novo odkrita prazgodovinska plana najdišča na Ljubljanskem barju"
@@ -23405,7 +23445,8 @@
                <author>Frelih M.</author>
                <title>Breg pri Škofljici</title>
                <title>mezolitsko najdišče na Ljubljanskem barju</title>
-               <page>21-58</page>
+               <page>21-53</page>
+               <cobiss>378579</cobiss>
                <citedIn count="1">
                   <cit did="2584" cid="37" avtor0="Frelih M."
                      naslov0="Breg pri Škofljici - mezolitsko najdišče na Ljubljanskem barju"
@@ -23415,7 +23456,9 @@
             </pubPart>
             <pubPart>
                <author>Pohar V.</author>
-               <title>Kostni ostanki iz mezolitskega najdišča Pod Črmukljo pri Šembijah (Ilirska Bistrica) (Knochenreste aus dem mesolitisehen Fundort Pod Črmukljo pri Šembijah</title>
+               <title>Kostni ostanki iz mezolitskega najdišča Pod Črmukljo pri Šembijah</title>
+               <title>(Ilirska Bistrica)</title>
+               <addTitle>(Knochenreste aus dem mesolitisehen Fundort Pod Črmukljo pri Šembijah</addTitle>
                <page>7-15</page>
                <citedIn count="1">
                   <cit did="2584" cid="63" avtor0="Pohar V."
@@ -23606,8 +23649,8 @@
             <pubPart>
                <author>Kyovski Rudi</author>
                <author>Kyovsky Rudi</author>
-               <title>Vloga dr. Vinka Kluna pri sprejemanju zakona  "o koalicijski svobodi"</title>
-               <page>130-140</page>
+               <title>Vloga dr. Vinka Kluna pri sprejemanju zakona "o koalicijski svobodi"</title>
+               <page>121-136</page>
                <citedIn count="2">
                   <cit did="2871" cid="76" avtor0="Kyovski Rudi"
                      naslov0="Vloga dr. Vinka Kluna pri sprejemanju zakona o 'koalicijski svobodi'"
@@ -23624,7 +23667,8 @@
             <pubPart>
                <author>Kristan Ivan</author>
                <title>Razvoj jugoslovanskega federalizma do leta 1974</title>
-               <page>317-319</page>
+               <page>317-351</page>
+               <cobiss>580433</cobiss>
                <citedIn count="1">
                   <cit did="531" cid="61" avtor0="Kristan Ivan"
                      naslov0="Razvoj jugoslovanskega federalizma do leta 1974" source="Pravnik"
@@ -23748,6 +23792,7 @@
                <author>Gomiršek Tanja</author>
                <title>Prva svetovna vojna v Gradnem in Višnjeviku</title>
                <page>43-60</page>
+               <cobiss>236633344</cobiss>
                <citedIn count="1">
                   <cit did="3161" cid="19" avtor0="Gomiršek Tanja"
                      naslov0="Prva svetovna vojna v Gradnem in Višnjeviku"
@@ -23775,6 +23820,7 @@
                <author>Fatur Silvo</author>
                <title>Simon Gregorčič in njegov mecen Josip Gorup pl. Slavinski</title>
                <page>20-26</page>
+               <cobiss>234222336</cobiss>
                <citedIn count="1">
                   <cit did="2398" cid="6" avtor0="Fatur Silvo"
                      naslov0="Simon Gregorčič in njegov mecen Josip Gorup pl. Slavinski"
@@ -23808,6 +23854,7 @@
                <author>Hoyer S. A.</author>
                <title>Vrnitev v Italijo odnesenih umetnin iz Slovenske Istre</title>
                <page>2-12</page>
+               <cobiss>8845105</cobiss>
                <citedIn count="1">
                   <cit did="1978" cid="10" avtor0="Hoyer S. A."
                      naslov0="Vrnitev v Italijo odnesenih umetnin iz Slovenske Istre"
@@ -23821,7 +23868,9 @@
          <issue n="255">
             <pubPart>
                <author>Gregorič Milan</author>
-               <title>Dajmo Krpanu stalno bivališče!</title>
+               <title>Dajmo Krpanu stalno bivališče</title>
+               <page>28</page>
+               <cobiss>8743217</cobiss>
                <citedIn count="1">
                   <cit did="2625" cid="35" avtor0="Gregorič Milan"
                      naslov0="Dajmo Krpanu stalno bivališče!" source="Primorska srečanja"
@@ -23833,6 +23882,8 @@
             <pubPart>
                <author>Pelicon Lucijan</author>
                <title>Kaj je tihotapil Krpan?</title>
+               <page>36-37</page>
+               <cobiss>8840241</cobiss>
                <citedIn count="1">
                   <cit did="2625" cid="89" avtor0="Pelicon Lucijan"
                      naslov0="Kaj je tihotapil Krpan?" source="Primorska srečanja"
@@ -23863,7 +23914,9 @@
             <pubPart>
                <author>Matičetov Milko</author>
                <title>Škržadja antologija</title>
-               <page>587-597</page>
+               <page>587-589</page>
+               <page>596-597</page>
+               <cobiss>6865457</cobiss>
                <citedIn count="1">
                   <cit did="1005" cid="4" avtor0="Matičetov Milko" naslov0="Škržadja antologija"
                      source="Primorska srečanja" year="2000" issue="32" page="587-597"/>
@@ -23889,8 +23942,9 @@
          <issue n="228">
             <pubPart>
                <author>Rejec Tatjana</author>
-               <title>Še Tigr in komunistična partija</title>
+               <title>Še TIGR in komunistična partija</title>
                <page>275-279</page>
+               <cobiss>6738481</cobiss>
                <citedIn count="1">
                   <cit did="452" cid="24" avtor0="Rejec Tatjana"
                      naslov0="Še Tigr in komunistična partija" source="Primorska srečanja"
@@ -23902,7 +23956,8 @@
             <pubPart>
                <author>Gaberc Slavko</author>
                <title>Tiha asimilacija istrskih Židov</title>
-               <page>347-349</page>
+               <page>345-349</page>
+               <cobiss>3013047</cobiss>
                <citedIn count="1">
                   <cit did="2311" cid="24" avtor0="Gaberc Slavko"
                      naslov0="Tiha asimilacija istrskih Židov" source="Primorska srečanja"
@@ -23913,8 +23968,9 @@
          <issue n="233">
             <pubPart>
                <author>Koloini Borut</author>
-               <title>O pismih Antonu Černetu, slovenskemu poslancu</title>
+               <title>Ob pismih Antonu Černetu, slovenskemu poslancu</title>
                <page>655-660</page>
+               <cobiss>6891569</cobiss>
                <citedIn count="1">
                   <cit did="3507" cid="16" avtor0="Koloini Borut"
                      naslov0="O pismih Antonu Černetu, slovenskemu poslancu"
@@ -23927,6 +23983,7 @@
                <author>Kacin Wohinz Milica</author>
                <title>Reševanje "jadranskega vprašanja"</title>
                <page>370-371</page>
+               <cobiss>6692145</cobiss>
                <citedIn count="1">
                   <cit did="303" cid="91" avtor0="Kacin Wohinz Milica"
                      naslov0="Reševanje &#34;jadranskega vprašanja&#34;" source="Primorska srečanja"
@@ -23963,6 +24020,7 @@
                <author>Zuljan - Kumar Danila</author>
                <title>Ljudsko pesništvo Kanalske doline</title>
                <page>394-398</page>
+               <cobiss>7058253</cobiss>
                <citedIn count="1">
                   <cit did="442" cid="111" avtor0="Zuljan - Kumar Danila"
                      naslov0="Ljudsko pesništvo Kanalske doline" source="Primorska srečanja"
@@ -23978,6 +24036,7 @@
                <author>Šušmelj Jože</author>
                <title>Italijanski pogled na tržaško krizo</title>
                <page>462-465</page>
+               <cobiss>6650957</cobiss>
                <citedIn count="2">
                   <cit did="1511" cid="358" avtor0="Šušmelj Jože"
                      naslov0="Italijanski pogled na tržaško krizo" source="Primorska srečanja"
@@ -24031,6 +24090,7 @@
                <author>Marušič Branko</author>
                <title>Pater Martin Bavčer in zgodovinopisje protireformacije</title>
                <page>204-207</page>
+               <cobiss>1967409</cobiss>
                <citedIn count="1">
                   <cit did="1423" cid="21" avtor0="Marušič Branko"
                      naslov0="Pater Martin Bavčer in zgodovinopisje protireformacije"
@@ -24044,9 +24104,10 @@
          <issue n="155">
             <pubPart>
                <author>Prijatelj Anton</author>
-               <title>Dr. Fran Goestl</title>
+               <title>Dr. Fran Göstl</title>
                <title>psihiater in publicist</title>
                <page>134-136</page>
+               <cobiss>1493809</cobiss>
                <citedIn count="1">
                   <cit did="1881" cid="17" avtor0="Prijatelj Anton"
                      naslov0="Dr. Fran Goestl - psihiater in publicist" source="Primorska srečanja"
@@ -24058,7 +24119,9 @@
             <pubPart>
                <author>Župančič Matej</author>
                <title>V glino tiskana beseda</title>
+               <title>Prikaz: I laterizi di età romana nell'area nordadriatica...</title>
                <page>600-601</page>
+               <cobiss>1461809</cobiss>
                <citedIn count="1">
                   <cit did="765" cid="24" avtor0="Župančič Matej" naslov0="V glino tiskana beseda"
                      source="Primorska srečanja" pubPlace="Nova gorica - Koper - Idrija" year="1994"
@@ -24107,6 +24170,7 @@
                <author>Kacin Wohinz Milica</author>
                <title>Pripomba k članku Branka Marušiča</title>
                <page>510-511</page>
+               <cobiss>751153</cobiss>
                <citedIn count="1">
                   <cit did="1914" cid="70" avtor0="Kacin Wohinz Milica"
                      naslov0="Pripomba k članku Branka Marušiča" source="Primorska srečanja"
@@ -24117,8 +24181,9 @@
          <issue n="151">
             <pubPart>
                <author>Markovič I.</author>
-               <title>Fond Benghi včeraj in danes</title>
+               <title>Fond Besenghi včeraj in danes</title>
                <page>813-816</page>
+               <cobiss>900657</cobiss>
                <citedIn count="1">
                   <cit did="251" cid="14" avtor0="Markovič I." naslov0="Fond Benghi včeraj in danes"
                      source="Primorska srečanja" year="1993" issue="151" page="813-816"/>
@@ -24130,6 +24195,7 @@
                <author>Hladnik Miran</author>
                <title>Mohorjeva in njeno leposlovje</title>
                <page>134-138</page>
+               <cobiss>439857</cobiss>
                <citedIn count="1">
                   <cit did="442" cid="50" avtor0="Hladnik Miran"
                      naslov0="Mohorjeva in njeno leposlovje" source="Primorska srečanja" year="1993"
@@ -24164,6 +24230,7 @@
                <title>Dr. Jože Andlovic</title>
                <title>zdravnikova življenjska potovanja in vzpenjanja</title>
                <page>514-518</page>
+               <cobiss>56358912</cobiss>
                <citedIn count="1">
                   <cit did="146" cid="11" avtor0="Prijatelj Anton"
                      naslov0="Dr. Jože Andlovic : zdravnikova življenjska potovanja in vzpenjanja"
@@ -24180,6 +24247,7 @@
                <author>Koloni Borut</author>
                <title>Prispevki k raziskavi slovenskega nacionalnega značaja</title>
                <page>393-394</page>
+               <cobiss>48004864</cobiss>
                <citedIn count="1">
                   <cit did="1610" cid="4" avtor0="Koloni Borut"
                      naslov0="Prispevki k raziskavi slovenskega nacionalnega značaja"
@@ -24207,6 +24275,7 @@
                <author>Marušič Branko</author>
                <title>O TIGR-u in tigrovcih po drugi svetovni vojni</title>
                <page>948-949</page>
+               <cobiss>48395520</cobiss>
                <citedIn count="1">
                   <cit did="1511" cid="203" avtor0="Marušič Branko"
                      naslov0="O TIGR-u in tigrovcih po drugi svetovni vojni"
@@ -24217,8 +24286,9 @@
          <issue>
             <pubPart>
                <author>Vovko Andrej</author>
-               <title>Časopis »Istra« o izseljevanju iz Primorske</title>
+               <title>Časopis "Istra" o izseljevanju iz Primorske</title>
                <page>22-24</page>
+               <cobiss>47385088</cobiss>
                <citedIn count="1">
                   <cit did="2553" cid="8" avtor0="Vovko Andrej"
                      naslov0="Časopis »Istra« o izseljevanju iz Primorske"
@@ -24252,7 +24322,10 @@
             <pubPart>
                <author>Požar Tone</author>
                <title>Čedermaci na Tržaškem</title>
-               <page>857-859</page>
+               <title>delež slovenske duhovščine v dobi narodnega prebujenja</title>
+               <page>857-861</page>
+               <cobiss>27758594</cobiss>
+               <cobiss>35659008</cobiss>
                <citedIn count="1">
                   <cit did="1433" cid="6" avtor0="Požar Tone" naslov0="Čedermaci na Tržaškem"
                      source="Primorska srečanja" year="0" volume="14" page="857-859"/>
@@ -24277,6 +24350,7 @@
                <author>Šuštar Branko</author>
                <title>Slovensko učiteljsko društvo v Istri pred I. svetovno vojno</title>
                <page>569-574</page>
+               <cobiss>35521536</cobiss>
                <citedIn count="1">
                   <cit did="2546" cid="45" avtor0="Šuštar Branko"
                      naslov0="Slovensko učiteljsko društvo v Istri pred I. svetovno vojno"
@@ -24311,7 +24385,8 @@
                <author>Harej Zorko</author>
                <title>Kulturna dediščina kot kazen</title>
                <title>II, Gradovi naši ter preteklost in sedanjost v njih</title>
-               <page>221-222</page>
+               <page>219-222</page>
+               <cobiss>13857024</cobiss>
                <citedIn count="1">
                   <cit did="375" cid="34" avtor0="Harej Zorko"
                      naslov0="Kulturna dediščina kot kazen II"
@@ -24444,6 +24519,7 @@
                <title>Grom in strela v kmečki hiši</title>
                <title>mitološko ozadje že pozabljenega verovanja</title>
                <page>979-991</page>
+               <cobiss>19078456</cobiss>
                <citedIn count="1">
                   <cit did="715" cid="1" avtor0="Belaj V."
                      naslov0="Grom in strela v kmečki hiši - mitološko ozadje že pozabljenega verovanja"
@@ -24467,6 +24543,7 @@
                <author>Koter Darja</author>
                <title>Podobe starodavnega Ptuja z utrinki glasbenega življenja</title>
                <page>895-914</page>
+               <cobiss>5644552</cobiss>
                <citedIn count="1">
                   <cit did="1912" cid="68" avtor0="Koter Darja"
                      naslov0="Podobe starodavnega Ptuja z utrinki glasbenega življenja"
@@ -24491,8 +24568,9 @@
             </pubPart>
             <pubPart>
                <author>Jevremov B.</author>
-               <title>Novosti o obrtniški dejavnostih in nekaj drobcev z arheoloških izkopavanj 1970-1980</title>
+               <title>Novosti o obrtniških dejavnostih in nekaj drobcev iz arheoloških izkopavanj v letih 1970-1980</title>
                <page>419-430</page>
+               <cobiss>19090744</cobiss>
                <citedIn count="1">
                   <cit did="2069" cid="12" avtor0="Jevremov B."
                      naslov0="Novosti o obrtniški dejavnostih in nekaj drobcev z arheoloških izkopavanj 1970-1980"
@@ -24672,6 +24750,7 @@
                <author>Gestrin Ferdo</author>
                <title>Trgovina in obrt v Radovljici do 17. stoletja</title>
                <page>58-76</page>
+               <cobiss>1796406</cobiss>
                <citedIn count="1">
                   <cit did="2640" cid="46" avtor0="Gestrin Ferdo"
                      naslov0="Trgovina in obrt v Radovljici do 17. stoletja"
@@ -24779,6 +24858,8 @@
             <pubPart>
                <author>Mercina Marija</author>
                <title>Ciril Kosmač na Dolenjskem</title>
+               <page>41-44</page>
+               <cobiss>44651618</cobiss>
                <citedIn count="1">
                   <cit did="3333" cid="12" avtor0="Mercina Marija"
                      naslov0="Ciril Kosmač na Dolenjskem" source="Rast" year="2010" issue="4-5"/>
@@ -24916,6 +24997,21 @@
             </pubPart>
          </issue>
       </year>
+      <year n="2005">
+         <issue n="6">
+            <pubPart>
+               <author>Lozar Štamcar Maja</author>
+               <title>Stanovanjska oprema gradu Grm v 18. stoletju</title>
+               <page>593-597</page>
+               <cobiss>16182327</cobiss>
+               <citedIn count="1">
+                  <cit did="2118" cid="12" avtor0="Lozar Štamcar Maja"
+                     naslov0="Stanovanjska oprema gradu Grm v 18. stoletju" source="Rast," year="0"
+                     volume="16" issue="6" page="593-597"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="2004">
          <volume>15</volume>
          <issue>
@@ -25034,6 +25130,7 @@
                <author>Skrabl Zorka</author>
                <title>Trg Žužemberk po letu 1849</title>
                <page>290-296</page>
+               <cobiss>10839863</cobiss>
                <citedIn count="1">
                   <cit did="3291" cid="47" avtor0="Skrabl Zorka"
                      naslov0="Trg Žužemberk po letu 1849"
@@ -25090,7 +25187,8 @@
             <pubPart>
                <author>Žvanut Maja</author>
                <title>Grad Grm in Mordaksi</title>
-               <page>185-205</page>
+               <page>195-203</page>
+               <cobiss>9518903</cobiss>
                <citedIn count="1">
                   <cit did="259" cid="48" avtor0="Žvanut Maja" naslov0="Grad Grm in Mordaksi"
                      source="Rast" year="2001" volume="12" issue="2" page="185-205"/>
@@ -25173,6 +25271,33 @@
                      source="Rast" year="2000" volume="11" issue="1" page="71-77"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+                  <author>Breščak Danilo</author>
+                  <title>Arheološko izkopavanje na Kapitelju</title>
+                  <page>31-33</page>
+                  <cobiss>8247863</cobiss>
+                  <citedIn count="1">
+                     <cit did="1298" cid="7" avtor0="Breščak Danilo"
+                        naslov0="Arheološko izkopavanje na Kapitlju" source="Rast"
+                        pubPlace="Novo mesto" year="0" volume="XI" issue="1" page="31-33"/>
+                  </citedIn>
+               </pubPart>
+         </issue>
+      </year>
+      <year n="1999">
+         <issue n="3-4">
+            <pubPart>
+               <author>Matijevič Meta</author>
+               <title>Stiški Gradec ali Bajnofški turn</title>
+               <title>o nastanku Novega mesta</title>
+               <page>281-284</page>
+               <cobiss>7711031</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="9" avtor0="Matijevič Meta"
+                     naslov0="Stiški Gradec ali Bajnofški turn" source="Rast" pubPlace="Novo mesto"
+                     year="0" volume="X" issue="3/4" page="281 ..."/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1998">
@@ -25215,6 +25340,9 @@
             <pubPart>
                <author>Filli Marta</author>
                <title>Ciril Kosmač (1910-1980)</title>
+               <title>petnajst let kasneje</title>
+               <page>50-52</page>
+               <cobiss>2488119</cobiss>
                <citedIn count="1">
                   <cit did="3333" cid="4" avtor0="Filli Marta" naslov0="Ciril Kosmač (1910-1980)"
                      source="Rast" year="1995" issue="31-32"/>
@@ -25228,6 +25356,7 @@
                <title>njena usoda in vzroki za njen propad</title>
                <page>420-429</page>
                <page>584-593</page>
+               <cobiss>1754189</cobiss>
                <citedIn count="1">
                   <cit did="844" cid="41" avtor0="Ferenc Mitja"
                      naslov0="Kulturna dediščina kočevskih Nemcev - vzroki za njen propad"
@@ -25261,11 +25390,61 @@
             <pubPart>
                <author>Bučar France</author>
                <title>Kostanjevica na Krki in njena imena</title>
+               <title>izvor njenih zgodovinskih imen Landestrost, Landstrass in Kostanjevica</title>
                <page>549-557</page>
+               <cobiss>3091511</cobiss>
                <citedIn count="1">
                   <cit did="2604" cid="11" avtor0="Bučar France"
                      naslov0="Kostanjevica na Krki in njena imena" source="Rast"
                      pubPlace="Novo mesto" volume="6" issue="7-8" page="549-557"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1994">
+         <issue n="1. izr. št.">
+            <pubPart>
+               <author>Gregorič Jože</author>
+               <title>Beneficiji pri cerkvi sv. Miklavža</title>
+               <page>178-189</page>
+               <cobiss>60734464</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="29" avtor0="Gregorič Jože"
+                     naslov0="Beneficiji pri cerkvi sv. Miklavža" source="Rast"
+                     pubPlace="Novo mesto" year="0" issue="1. izr.štev." page="178"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Gregorič Jože</author>
+               <title>Novoodkriti gotski relikviarij</title>
+               <page>184</page>
+               <cobiss>60761088</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="106" avtor0="Gregorič Jože"
+                     naslov0="Novoodkriti gotski relikviarij" source="Rast" pubPlace="Novo mesto"
+                     year="0" issue="1. izr. št." page="184"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Gregorič Jože</author>
+               <title>Okna v kapiteljskem prezbiteriju</title>
+               <page>152-153</page>
+               <cobiss>60729344</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="107" avtor0="Gregorič Jože"
+                     naslov0="Okna v kapiteljskem prezbiteriju" source="Rast" pubPlace="Novo mesto"
+                     year="0" issue="1. izr. št." page="152-153"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Gregorič Jože</author>
+               <title>Restavracija kapiteljske kripte</title>
+               <page>166-168</page>
+               <cobiss>60732416</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="36" avtor0="Gregorič Jože"
+                     naslov0="Restavracija kapiteljske kripte" source="Rast" pubPlace="Novo mesto"
+                     year="0" issue="1. izr. št." page="166-168"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -25286,6 +25465,19 @@
                   <cit did="3250" cid="4" avtor0="Baraga France"
                      naslov0="Novoodkriti Valvasorjev nagrobni spomenik" source="Rast"
                      pubPlace="Novo mesto" year="1993" volume="4" issue="5-6"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue n="7-8">
+            <pubPart>
+               <author>Peskar Robert</author>
+               <title>Prezbiterij kapiteljske cerkve v Novem mestu</title>
+               <page>508-514</page>
+               <cobiss>936503</cobiss>
+               <citedIn count="1">
+                  <cit did="1298" cid="25" avtor0="Peskar Robert"
+                     naslov0="Prezbiterij kapiteljske cerkve v Novem mestu" source="Rast"
+                     pubPlace="Novo mesto" year="0" volume="IV" issue="7/8" page="508 ..."/>
                </citedIn>
             </pubPart>
          </issue>
@@ -25324,105 +25516,7 @@
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>X</volume>
-         <volume>IV</volume>
-         <volume>XI</volume>
-         <volume>16</volume>
-         <issue n="3-4">
-            <pubPart>
-               <author>Matijevič Meta</author>
-               <title>Stiški Gradec ali Bajnofški turn</title>
-               <page>281 ...</page>
-               <citedIn count="1">
-                  <cit did="1298" cid="9" avtor0="Matijevič Meta"
-                     naslov0="Stiški Gradec ali Bajnofški turn" source="Rast" pubPlace="Novo mesto"
-                     year="0" volume="X" issue="3/4" page="281 ..."/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="7-8">
-            <pubPart>
-               <author>Peskar Robert</author>
-               <title>Prezbiterij kapiteljske cerkve v Novem mestu</title>
-               <page>508 ...</page>
-               <citedIn count="1">
-                  <cit did="1298" cid="25" avtor0="Peskar Robert"
-                     naslov0="Prezbiterij kapiteljske cerkve v Novem mestu" source="Rast"
-                     pubPlace="Novo mesto" year="0" volume="IV" issue="7/8" page="508 ..."/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="1. izr. št.">
-            <pubPart>
-               <author>Gregorič Jože</author>
-               <title>Beneficiji pri cerkvi sv. Miklavža</title>
-               <page>178-189</page>
-               <cobiss>60734464</cobiss>
-               <citedIn count="1">
-                  <cit did="1298" cid="29" avtor0="Gregorič Jože"
-                     naslov0="Beneficiji pri cerkvi sv. Miklavža" source="Rast"
-                     pubPlace="Novo mesto" year="0" issue="1. izr.štev." page="178"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Gregorič Jože</author>
-               <title>Novoodkriti gotski relikviarij</title>
-               <page>184</page>
-               <cobiss>60761088</cobiss>
-               <citedIn count="1">
-                  <cit did="1298" cid="106" avtor0="Gregorič Jože"
-                     naslov0="Novoodkriti gotski relikviarij" source="Rast" pubPlace="Novo mesto"
-                     year="0" issue="1. izr. št." page="184"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Gregorič Jože</author>
-               <title>Okna v kapiteljskem prezbiteriju</title>
-               <page>152-153</page>
-               <citedIn count="1">
-                  <cit did="1298" cid="107" avtor0="Gregorič Jože"
-                     naslov0="Okna v kapiteljskem prezbiteriju" source="Rast" pubPlace="Novo mesto"
-                     year="0" issue="1. izr. št." page="152-153"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Gregorič Jože</author>
-               <title>Restavracija kapiteljske kripte</title>
-               <page>166-168</page>
-               <citedIn count="1">
-                  <cit did="1298" cid="36" avtor0="Gregorič Jože"
-                     naslov0="Restavracija kapiteljske kripte" source="Rast" pubPlace="Novo mesto"
-                     year="0" issue="1. izr. št." page="166-168"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="1">
-            <pubPart>
-               <author>Breščak Danilo</author>
-               <title>Arheološko izkopavanje na Kapitlju</title>
-               <page>31-33</page>
-               <citedIn count="1">
-                  <cit did="1298" cid="7" avtor0="Breščak Danilo"
-                     naslov0="Arheološko izkopavanje na Kapitlju" source="Rast"
-                     pubPlace="Novo mesto" year="0" volume="XI" issue="1" page="31-33"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="6">
-            <pubPart>
-               <author>Lozar Štamcar Maja</author>
-               <title>Stanovanjska oprema gradu Grm v 18. stoletju</title>
-               <page>593-597</page>
-               <citedIn count="1">
-                  <cit did="2118" cid="12" avtor0="Lozar Štamcar Maja"
-                     naslov0="Stanovanjska oprema gradu Grm v 18. stoletju" source="Rast," year="0"
-                     volume="16" issue="6" page="593-597"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-   </source>
+      </source>
    <source>
       <pubTitle>2000</pubTitle>
       <pubTitle>revija za krščanstvo in kulturo</pubTitle>
