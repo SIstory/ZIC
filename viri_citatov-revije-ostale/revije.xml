@@ -2457,10 +2457,14 @@
                <title>Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja</title>
                <page>117-130</page>
                <cobiss>18934829</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2584" cid="65" avtor0="Strmčnik Gulič M."
                      naslov0="Nov podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja"
                      source="Arheološki restnik" pubPlace="Ljubljana" volume="52" page="117-121"/>
+                  <cit did="1947" cid="15" avtor0="Strmčnik Gulić M."
+                     naslov0="Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja"
+                     source="Arheološki vestnik" pubPlace="Ljubljana" year="0" volume="52"
+                     page="117-130"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -3845,6 +3849,17 @@
                      page="275-287"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Kos Milko</author>
+               <title>Naselitev Gorenjske v ranem srednjem veku</title>
+               <page>7-16</page>
+               <cobiss>2473782</cobiss>
+               <citedIn count="1">
+                  <cit did="2421" cid="33" avtor0="Kos Milko"
+                     naslov0="Naselitev Gorenjske v ranem srednjem veku" source="Arheološki vestnik"
+                     year="0" volume="21-22" page="7-16"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1969">
@@ -4230,35 +4245,6 @@
                   <cit did="1945" cid="28" avtor0="Pahič S."
                      naslov0="Gradišče Presek pri Črešnjevcu" source="Arheološki vestnik"
                      pubPlace="Ljubljana" year="1950" volume="1" page="170-176"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>21-22</volume>
-         <volume>52</volume>
-         <issue>
-            <pubPart>
-               <author>Kos Milko</author>
-               <title>Naselitev Gorenjske v ranem srednjem veku</title>
-               <page>7-16</page>
-               <cobiss>2473782</cobiss>
-               <citedIn count="1">
-                  <cit did="2421" cid="33" avtor0="Kos Milko"
-                     naslov0="Naselitev Gorenjske v ranem srednjem veku" source="Arheološki vestnik"
-                     year="0" volume="21-22" page="7-16"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Strmčnik Gulić M.</author>
-               <title>Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja</title>
-               <page>117-130</page>
-               <cobiss>18934829</cobiss>
-               <citedIn count="1">
-                  <cit did="1947" cid="15" avtor0="Strmčnik Gulić M."
-                     naslov0="Nova podoba prazgodovinske poselitve na zahodnem obrobju Dravskega polja"
-                     source="Arheološki vestnik" pubPlace="Ljubljana" year="0" volume="52"
-                     page="117-130"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15813,6 +15799,37 @@
             </pubPart>
          </issue>
       </year>
+      <year n="2007">
+       <issue n="47">
+         <pubPart>
+            <author>Pauko F.</author>
+            <author>Pauko Franc</author>
+            <title>Izhodišča in pogoji načrtovanja turističnih dejavnosti</title>
+            <page>73</page>
+            <citedIn count="2">
+               <cit did="332" cid="2" avtor0="Pauko F."
+                  naslov0="Izhodišča in pogoji načrtovanja turističnih dejavnosti"
+                  source="Gospodarski vestnik" year="0" issue="47" page="73"/>
+               <cit did="683" cid="5" avtor0="Pauko Franc"
+                  naslov0="Izhodišča in pogoji načrtovanja turističnih dejavnosti"
+                  source="Gospodarski vestnik" year="0" issue="47" page="73"/>
+            </citedIn>
+         </pubPart>
+       </issue>
+      </year>
+      <year n="2005">
+         <issue n="45">
+            <pubPart>
+               <author>Avšič Vera</author>
+               <title>Tekstilni horoskop za šest let</title>
+               <citedIn count="1">
+                  <cit did="1461" cid="19" avtor0="Avšič Vera"
+                     naslov0="Tekstilni horoskop za šest let" source="Gospodarski vestnik" year="0"
+                     issue="45"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="2003">
          <volume>52</volume>
          <issue n="14">
@@ -16043,35 +16060,6 @@
                <citedIn count="1">
                   <cit did="15" cid="91" avtor0="Winkler Venceslav" naslov0="O šolskih odborih"
                      source="Gospodarski vestnik" pubPlace="Ljubljana" year="1958" page="36-38"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <issue n="45">
-            <pubPart>
-               <author>Avšič Vera</author>
-               <title>Tekstilni horoskop za šest let</title>
-               <citedIn count="1">
-                  <cit did="1461" cid="19" avtor0="Avšič Vera"
-                     naslov0="Tekstilni horoskop za šest let" source="Gospodarski vestnik" year="0"
-                     issue="45"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="47">
-            <pubPart>
-               <author>Pauko F.</author>
-               <author>Pauko Franc</author>
-               <title>Izhodišča in pogoji načrtovanja turističnih dejavnosti</title>
-               <page>73</page>
-               <citedIn count="2">
-                  <cit did="332" cid="2" avtor0="Pauko F."
-                     naslov0="Izhodišča in pogoji načrtovanja turističnih dejavnosti"
-                     source="Gospodarski vestnik" year="0" issue="47" page="73"/>
-                  <cit did="683" cid="5" avtor0="Pauko Franc"
-                     naslov0="Izhodišča in pogoji načrtovanja turističnih dejavnosti"
-                     source="Gospodarski vestnik" year="0" issue="47" page="73"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -30368,11 +30356,12 @@
             </pubPart>
          </issue>
       </year>
-      <year n="0">
+      <year n="1926">
          <issue n="138">
             <pubPart>
                <author>Novačan Anton</author>
-               <title>Predavanja o celjskih grofih</title>
+               <title>Predavanja pisatelja dr. A. Novačana</title>
+               <page>4</page>
                <citedIn count="1">
                   <cit did="439" cid="17" avtor0="Novačan Anton"
                      naslov0="Predavanja o celjskih grofih" source="Tabor 7" year="0" issue="138"/>
@@ -30383,12 +30372,15 @@
             <pubPart>
                <author>Novačan Anton</author>
                <title>Predavanja o celjskih grofih</title>
+               <page>2</page>
                <citedIn count="1">
                   <cit did="439" cid="18" avtor0="Novačan Anton"
                      naslov0="Predavanja o celjskih grofih" source="Tabor 7" year="0" issue="143"/>
                </citedIn>
             </pubPart>
          </issue>
+      </year>
+      <year n="0">
          <issue>
             <pubPart>
                <author>Rehar Radivoj</author>
@@ -34063,7 +34055,8 @@
                <citedIn count="1">
                   <cit did="3232" cid="7" avtor0="Krajnc Viktor"
                      naslov0="Organizacija in značilnosti vodenja in poveljevanja v osamosvajanju Slovenije"
-                     cobiss="233699072" source="Vojaška zgodovina" pubPlace="Ljubljana" year="2005"/>
+                     cobiss="233699072" source="Vojaška zgodovina" pubPlace="Ljubljana" year="2005"
+                  />
                </citedIn>
             </pubPart>
          </issue>
@@ -34393,7 +34386,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         </year>
+      </year>
       <year n="2000">
          <volume>4</volume>
          <issue n="4">
