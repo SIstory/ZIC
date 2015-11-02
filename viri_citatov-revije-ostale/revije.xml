@@ -34778,7 +34778,8 @@
             <pubPart>
                <author>Maček Janko</author>
                <title>Zvestoba izročilu prednikov</title>
-               <page>27-28</page>
+               <page>21-29</page>
+               <cobiss>235997952</cobiss>
                <citedIn count="1">
                   <cit did="146" cid="7" avtor0="Maček Janko" naslov0="Zvestoba izročilu prednikov"
                      source="Zaveza" year="2006" issue="60" page="27-28"/>
@@ -34807,7 +34808,10 @@
          <issue n="52">
             <pubPart>
                <author>Fink Božidar</author>
-               <title>Anketa Mlakarjevo Slovensko domobranstvo</title>
+               <title>Mlakarjevo Slovensko domobranstvo</title>
+               <title>Anketa</title>
+               <page>80-98</page>
+               <cobiss>215576064</cobiss>
                <citedIn count="1">
                   <cit did="1872" cid="5" avtor0="Fink Božidar"
                      naslov0="Anketa Mlakarjevo Slovensko domobranstvo" source="Zaveza"
@@ -34819,6 +34823,8 @@
             <pubPart>
                <author>Urbančič Ivan</author>
                <title>Osebno pismo Justinu Stanovniku o nezasebnih vprašanjih</title>
+               <page>46-56</page>
+               <cobiss>235780608</cobiss>
                <citedIn count="1">
                   <cit did="1872" cid="39" avtor0="Urbančič Ivan"
                      naslov0="Osebno pismo Justinu Stanovniku o nezasebnih vprašanjih"
@@ -34849,8 +34855,10 @@
          <issue n="2">
             <pubPart>
                <author>Cerar Jože</author>
+               <title>Teharski arhiv</title>
                <title>Iti skozi Teharje in ostati živ</title>
                <page>52-59</page>
+               <cobiss>108480512</cobiss>
                <citedIn count="1">
                   <cit did="1897" cid="59" avtor0="Cerar Jože"
                      naslov0="Iti skozi Teharje in ostati živ" source="Zaveza" year="2002" issue="2"
@@ -34871,8 +34879,9 @@
          <issue n="3">
             <pubPart>
                <author>Stanovnik Justin</author>
-               <title>Množična morija mladoletnih domobrancev na Teharjah</title>
+               <title>Množična morija mladoletnih domobrancev v Teharjah</title>
                <page>66-71</page>
+               <cobiss>123577088</cobiss>
                <citedIn count="2">
                   <cit did="1897" cid="60" avtor0="Stanovnik Justin"
                      naslov0="Množična morija mladoletnih domobrancev na Teharjah" source="Zaveza"
@@ -34886,6 +34895,7 @@
                <author>Velikonja Tine</author>
                <title>Stari Hrastnik</title>
                <page>40-66</page>
+               <cobiss>123572992</cobiss>
                <citedIn count="1">
                   <cit did="1301" cid="30" avtor0="Velikonja Tine" naslov0="Stari Hrastnik"
                      source="Zaveza" year="0" volume="12" issue="3" page="40-66"/>
@@ -34929,6 +34939,7 @@
                <author>Velikonja Tine</author>
                <title>Fojbe v Trnovskem gozdu</title>
                <page>78-88</page>
+               <cobiss>104089600</cobiss>
                <citedIn count="1">
                   <cit did="1301" cid="7" avtor0="Velikonja Tine" naslov0="Fojbe v Trnovskem gozdu"
                      source="Zaveza" year="0" volume="9" issue="2" page="78-88"/>
@@ -34940,6 +34951,7 @@
                <author>Velikonja Tine</author>
                <title>Človek s srebrno cigaretnico</title>
                <page>48-50</page>
+               <cobiss>105424896</cobiss>
                <citedIn count="1">
                   <cit did="1301" cid="49" avtor0="Velikonja Tine"
                      naslov0="Človek s srebrno cigaretnico" source="Zaveza" year="1999" volume="9"
@@ -34974,6 +34986,7 @@
                <author>Okoliš Stane</author>
                <title>Žrtve državljanske vojne po padcu Turjaka v Velikih Laščah in obsojeni na Kočevskem procesu v jeseni leta 1943</title>
                <page>74-85</page>
+               <cobiss>68945408</cobiss>
                <citedIn count="1">
                   <cit did="860" cid="88" avtor0="Okoliš Stane"
                      naslov0="Žrtve državljanske vojne po padcu Turjaka v Velikih Laščah in obsojeni na Kočevskem procesu v jeseni leta 1943"
@@ -34984,7 +34997,7 @@
          <issue n="26">
             <pubPart>
                <author>Stanovnik Justin</author>
-               <title>Prispevki k zgodbi o slovenski neavtentičnosti</title>
+               <title>Prispevek k zgodbi o slovenski neavtentičnosti</title>
                <page>2</page>
                <citedIn count="1">
                   <cit did="860" cid="164" avtor0="Stanovnik Justin"
@@ -35040,6 +35053,7 @@
                <author>Grum Janez</author>
                <title>Zakaj ni četniška ilegala v letih 1942/43 dosegla večjega razmaha?</title>
                <page>68-71</page>
+               <cobiss>55432960</cobiss>
                <citedIn count="1">
                   <cit did="3253" cid="31" avtor0="Grum Janez"
                      naslov0="Zakaj ni četniška ilegala v letih 1942/43 dosegla večjega razmaha?"
@@ -35050,7 +35064,10 @@
          <issue n="14">
             <pubPart>
                <author>Kogej Pavel</author>
-               <title>Odrezani-novomeški domobranci od koncu vojne</title>
+               <title>Odrezani</title>
+               <title>Novomeški domobranci ob koncu vojne</title>
+               <page>34-44</page>
+               <cobiss>55537152</cobiss>
                <citedIn count="1">
                   <cit did="1199" cid="3" avtor0="Kogej Pavel"
                      naslov0="Odrezani-novomeški domobranci od koncu vojne" source="Zaveza"
@@ -35065,6 +35082,7 @@
                <author>Kogej Pavel</author>
                <title>Poboj mladoletnih domobrancev</title>
                <page>4-9</page>
+               <cobiss>54664704</cobiss>
                <citedIn count="2">
                   <cit did="1897" cid="61" avtor0="Kogej Pavel"
                      naslov0="Poboj mladoletnih domobrancev" source="Zaveza" year="1992" issue="3"
@@ -35080,6 +35098,7 @@
                <author>Stanovnik Justin</author>
                <title>Teharska nedelja</title>
                <page>9-13</page>
+               <cobiss>54667776</cobiss>
                <citedIn count="1">
                   <cit did="446" cid="5" avtor0="Stanovnik Justin" naslov0="Teharska nedelja"
                      source="Zaveza" year="1992" issue="6" page="9-13"/>
@@ -35089,7 +35108,7 @@
       </year>
    </source>
    <source>
-      <!-- Zbornik ne revija ISBN 978-961-91537-4-1 (zv. 3)-->
+      <!-- Zbornik ne revija ISBN 978-961-91537-4-1 (zv. 3) cobiss 2140932-->
       <pubTitle>Zbornik občine Slovenska Bistrica</pubTitle>
       <pubPlace>Slovenska Bistrica</pubPlace>
       <publisher>Skupščina občine</publisher>
@@ -35101,6 +35120,8 @@
             <pubPart>
                <author>Ferenc Mitja</author>
                <title>Usodna odločenost Bistričanov</title>
+               <page>333-347</page>
+               <cobiss>39513442</cobiss>
                <citedIn count="1">
                   <cit did="3530" cid="9" avtor0="Ferenc Mitja"
                      naslov0="Usodna odločenost Bistričanov"
@@ -35112,6 +35133,7 @@
                <author>Hazler Vito</author>
                <title>Vinske kleti na Slovenjebistriškem</title>
                <page>205-253</page>
+               <cobiss>38879074</cobiss>
                <citedIn count="1">
                   <cit did="2128" cid="3" avtor0="Hazler Vito"
                      naslov0="Vinske kleti na Slovenjebistriškem"
@@ -35127,6 +35149,8 @@
             <pubPart>
                <author>Koropec Jože</author>
                <title>Matične knjige iz 17. stoletja za župnijo Slovenska Bistrica</title>
+               <page>33-66</page>
+               <cobiss>27601410</cobiss>
                <citedIn count="1">
                   <cit did="2612" cid="62" avtor0="Koropec Jože"
                      naslov0="Matične knjige iz 17. stoletja za župnijo Slovenska Bistrica"
@@ -35216,8 +35240,9 @@
             </pubPart>
             <pubPart>
                <author>Pahič S.</author>
-               <title>Bistriski svet v davnini</title>
-               <page>39-90</page>
+               <title>Bistriški svet v davnini</title>
+               <page>65-66</page>
+               <cobiss>16583469</cobiss>
                <citedIn count="1">
                   <cit did="1945" cid="32" avtor0="Pahič S." naslov0="Bistriski svet v davnini"
                      source="Zbornik občine Slovenska Bistrica I." pubPlace="Slovenska Bistrica"
@@ -35356,6 +35381,7 @@
                <author>Fujs Metka</author>
                <title>Zaplembe premoženja v Prekmurju</title>
                <page>63-76</page>
+               <cobiss>3600947</cobiss>
                <citedIn count="1">
                   <cit did="2565" cid="6" avtor0="Fujs Metka"
                      naslov0="Zaplembe premoženja v Prekmurju" source="Zbornik soboškega muzeja"
@@ -35366,6 +35392,7 @@
                <author>Kuzmič Franc</author>
                <title>Iz bibliografije o Židih v Sloveniji</title>
                <page>137-143</page>
+               <cobiss>8229709</cobiss>
                <citedIn count="1">
                   <cit did="2574" cid="9" avtor0="Kuzmič Franc"
                      naslov0="Iz bibliografije o Židih v Sloveniji"
@@ -35391,7 +35418,7 @@
       </year>
       <year n="1995">
          <volume>4</volume>
-         <issue n="4">
+         <issue>
             <pubPart>
                <author>Hozjan Andrej</author>
                <title>Zapisniki uprave mesta Varaždina in slovenski prostor</title>
@@ -35423,14 +35450,16 @@
                   <cit did="764" cid="7" avtor0="Šteiner Martin"
                      naslov0="Volitve v konstituanto 11.11. 1945 v Prekmurju"
                      source="Zbornik soboškega muzeja" year="1995" issue="4" page="111-124"/>
+                  <cit did="2565" cid="22" avtor0="Steiner Martin"
+                     naslov0="Volitve v konstituanto 11.11.1945 v Prekmurju"
+                     source="Zbornik soboškega muzeja" year="1995" volume="4" page="111-126"/>
                </citedIn>
             </pubPart>
-         </issue>
-         <issue>
             <pubPart>
                <author>Brumen Borut</author>
                <title>Panonskost Murske Sobote med letoma 1919 in 1941</title>
                <page>91-102</page>
+               <cobiss>1671987</cobiss>
                <citedIn count="1">
                   <cit did="2565" cid="2" avtor0="Brumen Borut"
                      naslov0="Panonskost Murske Sobote med letoma 1919 in 1941"
@@ -35441,6 +35470,7 @@
                <author>Kuzmič Franc</author>
                <title>Bibliografija o protestantizmu na Slovenskem</title>
                <page>139-216</page>
+               <cobiss>1672755</cobiss>
                <citedIn count="1">
                   <cit did="2660" cid="30" avtor0="Kuzmič Franc"
                      naslov0="Bibliografija o protestantizmu na Slovenskem"
@@ -35459,16 +35489,6 @@
                   <cit did="2612" cid="121" avtor0="Radovanovič Sašo"
                      naslov0="Duhovščina med leti 1645 in 1700 v slovenskih župnijah arhidiakonata med Dravo in Muro"
                      source="Zbornik soboškega muzeja 4" pubPlace="Murska Sobota" year="1995"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Steiner Martin</author>
-               <title>Volitve v konstituanto 11.11.1945 v Prekmurju</title>
-               <page>111-126</page>
-               <citedIn count="1">
-                  <cit did="2565" cid="22" avtor0="Steiner Martin"
-                     naslov0="Volitve v konstituanto 11.11.1945 v Prekmurju"
-                     source="Zbornik soboškega muzeja" year="1995" volume="4" page="111-126"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -35521,6 +35541,7 @@
                <author>Zelko Ivan</author>
                <title>Cerkvenoupravni položaj Slovenske krajine od 798 do 1958</title>
                <page>39-48</page>
+               <cobiss>56610048</cobiss>
                <citedIn count="1">
                   <cit did="3465" cid="124" avtor0="Zelko Ivan"
                      naslov0="Cerkvenoupravni položaj Slovenske krajine od 798 do 1958"
@@ -35550,6 +35571,7 @@
                <author>Fujs Metka</author>
                <title>Madžarska vojaška in civilna uprava v Prekmurju v drugi svetovni vojni</title>
                <page>89-100</page>
+               <cobiss>24439810</cobiss>
                <citedIn count="1">
                   <cit did="2565" cid="3" avtor0="Fujs Metka"
                      naslov0="Madžarska vojaška in civilna uprava v Prekmurju v drugi svetovni vojni"
@@ -35560,6 +35582,7 @@
                <author>Fujs Metka</author>
                <title>Obnova v Prekmurju</title>
                <page>33-42</page>
+               <cobiss>50364928</cobiss>
                <citedIn count="1">
                   <cit did="2565" cid="4" avtor0="Fujs Metka" naslov0="Obnova v Prekmurju"
                      source="Zbornik soboškega muzeja" year="1991" volume="2" page="33-42"/>
@@ -35569,6 +35592,7 @@
                <author>Kuzmič Franc</author>
                <title>Bibliografija Franca Šebjaniča</title>
                <page>123-133</page>
+               <cobiss>50371072</cobiss>
                <citedIn count="1">
                   <cit did="2789" cid="9" avtor0="Kuzmič Franc"
                      naslov0="Bibliografija Franca Šebjaniča" source="Zbornik soboškega muzeja 2"
@@ -35583,6 +35607,7 @@
                <author>Kuzmič Franc</author>
                <title>Časopisje raznih strank v Prekmurju</title>
                <page>75-88</page>
+               <cobiss>24439042</cobiss>
                <citedIn count="1">
                   <cit did="891" cid="23" avtor0="Kuzmič Franc"
                      naslov0="Časopisje raznih strank v Prekmurju" source="Zbornik soboškega muzeja"
@@ -35604,7 +35629,11 @@
          <issue>
             <pubPart>
                <author>Kozar Mukič Marija</author>
-               <title>Marija Kozar-Mukič, »Zaj lepau pride ono, ka mergemo, pa nede nas več?</title>
+               <title>Zaj lepau pride ono, ka mergemo, pa nede nas več?</title>
+               <title>(Slovenci v Toranyu)</title>
+               <page>101-116</page>
+               <cobiss>50161920</cobiss>
+               <cobiss>24440322</cobiss>
                <citedIn count="1">
                   <cit did="2612" cid="80" avtor0="Kozar Mukič Marija"
                      naslov0="Marija Kozar-Mukič, »Zaj lepau pride ono, ka mergemo, pa nede nas več?"
@@ -36035,6 +36064,7 @@
                <title>Stensko in tabelno slikarstvo na Slovenskem in v sosednjih deželah</title>
                <title>2. del</title>
                <page>139-160</page>
+               <cobiss>37989986</cobiss>
                <citedIn count="1">
                   <cit did="3249" cid="15" avtor0="Lazar Tomaž"
                      naslov0="Likovni viri za vojaško zgodovino poznega srednjega veka; Stensko in tabelno slikarstvo na Slovenskem in v sosednjih deželah, 2. del."
@@ -36044,8 +36074,9 @@
             </pubPart>
             <pubPart>
                <author>Novak Klemenčič Renata, Klemenčič Matej</author>
-               <title>Franz Ignaz Flurer in slika sv. Dizme v Zagorju pri Pilštanju</title>
-               <page>248</page>
+               <title>Franz Ignaz Flurer in slika sv. Dizme v Zagorju pri Pilštajnu</title>
+               <page>248-262</page>
+               <cobiss>37980770</cobiss>
                <citedIn count="1">
                   <cit did="2049" cid="17" avtor0="Novak Klemenčič Renata, Klemenčič Matej"
                      naslov0="Franz Ignaz Flurer in slika sv. Dizme v Zagorju pri Pilštanju"
@@ -36092,6 +36123,7 @@
                <author>Mikuž Jure</author>
                <title>Erotizacija svetniških likov v poznem srednjem veku in renesansi</title>
                <page>258-280</page>
+               <cobiss>513957503</cobiss>
                <citedIn count="1">
                   <cit did="1735" cid="49" avtor0="Mikuž Jure"
                      naslov0="Erotizacija svetniških likov v poznem srednjem veku in renesansi"
@@ -36122,7 +36154,8 @@
                <author>Kemperl Metoda</author>
                <title>Gašper Ignac Mauher</title>
                <title>Novo ime med spodnještajerskimi baročnimi kiparji</title>
-               <page>219 ...</page>
+               <page>218-225</page>
+               <cobiss>30746210</cobiss>
                <citedIn count="1">
                   <cit did="1298" cid="89" avtor0="Kemperl Metoda"
                      naslov0="Gašper Ignac Mauher - Novo ime med spodnještajerskimi baročnimi kiparji"
@@ -36163,6 +36196,8 @@
             <pubPart>
                <author>Pahor Daša</author>
                <title>Mojster Anže Felicijan in arhitektura 17. stoletja med Brkini, Krasom in Istro</title>
+               <page>127-156</page>
+               <cobiss>513162879</cobiss>
                <citedIn count="1">
                   <cit did="375" cid="160" avtor0="Pahor Daša"
                      naslov0="Mojster Anže Felicijan in arhitektura 17. stoletja med Brkini, Krasom in Istro"
@@ -36176,6 +36211,7 @@
                <title>Hat Conrad Laib Antonio Vivarini gekannt</title>
                <title>Marginalie zu Laibs Verbindungen mit Italien</title>
                <page>61-70</page>
+               <cobiss>27637346</cobiss>
                <citedIn count="1">
                   <cit did="711" cid="14" avtor0="Höfler J."
                      naslov0="Hat Conrad Laib Antonio Vivarini gekannt? Marginalie zu Laibs Verbindungen mit Italien"
@@ -36208,6 +36244,7 @@
                <author>Murovec Barbara</author>
                <title>Likovni viri za baročno stropno slikarstvo v Sloveniji</title>
                <page>92-141</page>
+               <cobiss>21463085</cobiss>
                <citedIn count="1">
                   <cit did="2126" cid="12" avtor0="Murovec Barbara"
                      naslov0="Likovni viri za baročno stropno slikarstvo v Sloveniji"
@@ -36241,6 +36278,7 @@
                <title>Kongresni trg z Zvezdo</title>
                <title>spomenik urbane umetnosti zgodnjega 19. stoletja</title>
                <page>114-145</page>
+               <cobiss>1845699</cobiss>
                <citedIn count="1">
                   <cit did="2156" cid="26" avtor0="Mihelič Breda"
                      naslov0="Kongresni trg z Zvezdo - spomenik urbane umetnosti zgodnjega 19. stoletja"
@@ -36257,6 +36295,7 @@
                <author>Osvald Monika</author>
                <title>Ikonografija rimskega kulta vladarja in cesarske apoteoze</title>
                <page>97-147</page>
+               <cobiss>16295778</cobiss>
                <citedIn count="1">
                   <cit did="2156" cid="32" avtor0="Osvald Monika"
                      naslov0="Ikonografija rimskega kulta vladarja in cesarske apoteoze"
@@ -36268,7 +36307,6 @@
       </year>
       <year n="1999">
          <volume>35</volume>
-         <volume>n.v. 35</volume>
          <issue n="35">
             <pubPart>
                <author>Fagin Davis Lisa</author>
@@ -36301,8 +36339,10 @@
          <issue>
             <pubPart>
                <author>Leben Nika</author>
-               <title>Figuralne stenske poslikave na Gorenjskem, odkritja zadnjih let</title>
+               <title>Figuralne stenske poslikave na Gorenjskem</title>
+               <title>odkritja v zadnjih letih</title>
                <page>160-191</page>
+               <cobiss>9353826</cobiss>
                <citedIn count="2">
                   <cit did="2126" cid="7" avtor0="Leben Nika"
                      naslov0="Figuralne stenske poslikave na Gorenjskem, odkritja zadnjih let"
@@ -36316,8 +36356,9 @@
             </pubPart>
             <pubPart>
                <author>Pirkovič Jelka</author>
-               <title>Morfologija mesta in ljubljanski organizem</title>
+               <title>Morfologija mesta in ljubljanski urbanizem</title>
                <page>243-257</page>
+               <cobiss>9028194</cobiss>
                <citedIn count="1">
                   <cit did="1762" cid="129" avtor0="Pirkovič Jelka"
                      naslov0="Morfologija mesta in ljubljanski organizem"
@@ -36332,7 +36373,8 @@
             <pubPart>
                <author>Menaše Lev</author>
                <title>Brezmadežna kot Patrona Austriae v bratovščinski knjigi ljubljanske kongregacije Marijinega brezmadežnega spočetja</title>
-               <page>53-58</page>
+               <page>53-88</page>
+               <cobiss>58838528</cobiss>
                <citedIn count="1">
                   <cit did="1738" cid="19" avtor0="Menaše Lev"
                      naslov0="Brezmadežna kot Patrona Austriae v bratovščinski knjigi ljubljanske kongregacije Marijinega brezmadežnega spočetja"
@@ -36372,8 +36414,9 @@
          <issue>
             <pubPart>
                <author>Höfler Janez</author>
-               <title>O kapelah in oltarjih šibeniške stolice za časa Jurija Dalmatinca</title>
+               <title>O kapelah in oltarjih šibeniške stolnice za časa Jurija Dalmatinca</title>
                <page>57-83</page>
+               <cobiss>38277474</cobiss>
                <citedIn count="1">
                   <cit did="328" cid="23" avtor0="Höfler Janez"
                      naslov0="O kapelah in oltarjih šibeniške stolice za časa Jurija Dalmatinca"
@@ -36484,12 +36527,12 @@
          </issue>
       </year>
       <year n="1981">
-         <volume>33-65</volume>
-         <volume>N.V. 17</volume>
+         <volume>17</volume>
          <issue>
             <pubPart>
                <author>Sagadin Milan</author>
                <title>Plastika s pleteninasto ornamentiko v Sloveniji</title>
+               <page>33-65</page>
                <citedIn count="1">
                   <cit did="765" cid="19" avtor0="Sagadin Milan"
                      naslov0="Plastika s pleteninasto ornamentiko v Sloveniji"
@@ -36511,13 +36554,16 @@
          </issue>
       </year>
       <year n="1979">
-         <volume>14/15</volume>
+         <volume>14-15</volume>
          <issue>
             <pubPart>
                <author>Šerbelj Ferdinand</author>
                <title>Katalog Cebejevih del</title>
                <page>81-113</page>
-               <citedIn count="1">
+               <citedIn count="2">
+                  <cit did="3538" cid="34" avtor0="Šerbelj Ferdinand"
+                     naslov0="Katalog Cebejevih del" source="Zbornik za umetnostno zgodovino"
+                     year="1978" volume="n. v. 14 - 15" page="81-113"/>
                   <cit did="3094" cid="25" avtor0="Šerbelj Ferdinand"
                      naslov0="Katalog Cebejevih del" source="Zbornik za umetnostno zgodovino"
                      pubPlace="Ljubljana" publisher="Slovensko umentnostnozgodovinsko društvo"
@@ -36526,29 +36572,13 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1978">
-         <volume>n. v. 14 - 15</volume>
-         <issue>
-            <pubPart>
-               <author>Šerbelj Ferdinand</author>
-               <title>Katalog Cebejevih del</title>
-               <page>81-113</page>
-               <citedIn count="1">
-                  <cit did="3538" cid="34" avtor0="Šerbelj Ferdinand"
-                     naslov0="Katalog Cebejevih del" source="Zbornik za umetnostno zgodovino"
-                     year="1978" volume="n. v. 14 - 15" page="81-113"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1977">
          <volume>18</volume>
          <volume>13</volume>
-         <volume>n. v. 13</volume>
          <issue>
             <pubPart>
                <author>Fučić B.</author>
-               <title>Biblia pauperum i istarske freske</title>
+               <title>Biblia pauperumi istarske freske</title>
                <page>143-152</page>
                <citedIn count="1">
                   <cit did="712" cid="8" avtor0="Fučić B."
@@ -37048,6 +37078,7 @@
             <pubPart>
                <author>Košir Matevž</author>
                <title>Brat Vega, prostozidar</title>
+               <title>baron Jurij Vega, prostozidar : ob 200. obletnici smrti</title>
                <page>75-111</page>
                <cobiss>423285</cobiss>
                <citedIn count="4">
@@ -37085,7 +37116,8 @@
             <pubPart>
                <author>Sitar Sandi</author>
                <title>O razvoju vprežnih vozov</title>
-               <page>13-14</page>
+               <page>261-290</page>
+               <cobiss>358263</cobiss>
                <citedIn count="1">
                   <cit did="2634" cid="45" avtor0="Sitar Sandi" naslov0="O razvoju vprežnih vozov"
                      source="Zbornik za zgodovino naravoslovja in tehnike. Zvezek 13-14."
@@ -37125,7 +37157,8 @@
             </pubPart>
             <pubPart>
                <author>Jurca Jože</author>
-               <title>Poročilo dr. Marka Gerbca o goveji kugi na Kranjskem, 1713</title>
+               <title>Poročilo dr. Marka Gerbca o goveji kugi na Kranjskem</title>
+               <title>1713</title>
                <page>109-138</page>
                <citedIn count="1">
                   <cit did="2049" cid="9" avtor0="Jurca Jože"
@@ -37140,7 +37173,8 @@
          <issue n="8">
             <pubPart>
                <author>Hribovšek Avgust</author>
-               <title>Dr. Štefan Kočevar, delavec na slovenski narodni in zdravstveni ledini</title>
+               <title>Dr. Štefan Kočevar</title>
+               <title>delavec na slovenski narodni in zdravstveni ledini</title>
                <page>104</page>
                <citedIn count="1">
                   <cit did="70" cid="7" avtor0="Hribovšek Avgust"
@@ -37174,6 +37208,7 @@
                <author>Kranjc Andrej</author>
                <title>Delež Slovencev v speleologiji</title>
                <page>13-93</page>
+               <cobiss>24978733</cobiss>
                <citedIn count="1">
                   <cit did="2638" cid="115" avtor0="Habe France" avtor1="Kranjc Andrej"
                      naslov0="Delež Slovencev v speleologiji"
@@ -37183,7 +37218,8 @@
             </pubPart>
             <pubPart>
                <author>Turk Srdjan</author>
-               <title>Mihael Štrukel (Štrukelj), prvi redni profesor med slovenkimi geadbeniki</title>
+               <title>Mihael Štrukel (Štrukelj)</title>
+               <title>prvi redni profesor med slovenskimi gradbeniki</title>
                <page>267-282</page>
                <citedIn count="1">
                   <cit did="1029" cid="3" avtor0="Turk Srdjan"
@@ -37236,6 +37272,7 @@
                <author>Bufon Zmago</author>
                <title>Naravoslovje v slovenskem narodnem prebujanju</title>
                <page>15-77</page>
+               <cobiss>7620076</cobiss>
                <citedIn count="1">
                   <cit did="3402" cid="36" avtor0="Bufon Zmago"
                      naslov0="Naravoslovje v slovenskem narodnem prebujanju"
@@ -37260,6 +37297,7 @@
                <author>Nedok S. Aleksander</author>
                <title>Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918</title>
                <page>193-208</page>
+               <cobiss>232672512</cobiss>
                <citedIn count="1">
                   <cit did="2063" cid="13" avtor0="Nedok S. Aleksander"
                      naslov0="Prvi slovenski zdravniki in njihovi potomci v sanitetni službi srbske vojske od 1864 do 1918"
@@ -37270,6 +37308,7 @@
                <author>Pinter B., Čeh F., Verdenik I. et al.</author>
                <title>Spolno vedenje slovenskih srednješolcev v letu 2004</title>
                <page>615-619</page>
+               <cobiss>21991641</cobiss>
                <citedIn count="1">
                   <cit did="3030" cid="30" avtor0="Pinter B., Čeh F., Verdenik I. et al."
                      naslov0="Spolno vedenje slovenskih srednješolcev v letu 2004"
@@ -37286,6 +37325,7 @@
                <author>Žunter Nagy Marija, Kocmur Marga</author>
                <title>Poklicne obremenitve zdravnikov</title>
                <page>67-72</page>
+               <cobiss>7994329</cobiss>
                <citedIn count="1">
                   <cit did="3127" cid="36" avtor0="Žunter Nagy Marija, Kocmur Marga"
                      naslov0="Poklicne obremenitve zdravnikov" source="Zdravniški vestnik"
@@ -37299,7 +37339,9 @@
          <issue>
             <pubPart>
                <author>Kansky Aleksej</author>
-               <title>Evgen Kansky dr. phil., dr. med., 1887-1977</title>
+               <title>Evgen Kansky dr. phil.</title>
+               <title>dr. med., 1887-1977</title>
+               <cobiss>7084505</cobiss>
                <citedIn count="1">
                   <cit did="1639" cid="4" avtor0="Kansky Aleksej"
                      naslov0="Evgen Kansky dr. phil., dr. med., 1887-1977"
@@ -37354,6 +37396,7 @@
                <author>Andolšek Jeras Lidija</author>
                <title>Zdravnica in njen poklic</title>
                <page>7-9</page>
+               <cobiss>5722329</cobiss>
                <citedIn count="1">
                   <cit did="3127" cid="20" avtor0="Andolšek Jeras Lidija"
                      naslov0="Zdravnica in njen poklic" source="Zdravniški vestnik" year="1988"
@@ -37364,6 +37407,7 @@
                <author>Jogan Maca</author>
                <title>Androcentrična kultura in osvobajanje žensk</title>
                <page>10-21</page>
+               <cobiss>17367901</cobiss>
                <citedIn count="1">
                   <cit did="3127" cid="8" avtor0="Jogan Maca"
                      naslov0="Androcentrična kultura in osvobajanje žensk"
@@ -37374,7 +37418,8 @@
                <author>Toth Cvetka</author>
                <title>O racionalnem in emocionalnem polu dojemanja</title>
                <title>razmerje čustvenega in razumskega</title>
-               <page>33-80</page>
+               <page>33-38</page>
+               <cobiss>5723353</cobiss>
                <citedIn count="1">
                   <cit did="3127" cid="16" avtor0="Toth Cvetka"
                      naslov0="O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in razumskega"
@@ -37385,6 +37430,7 @@
                <author>Ule Mirjana</author>
                <title>Vzroki in meje feminizacije poklicev v industrijskih družbah</title>
                <page>43-47</page>
+               <cobiss>17368157</cobiss>
                <citedIn count="1">
                   <cit did="3127" cid="15" avtor0="Ule Mirjana"
                      naslov0="Vzroki in meje feminizacije poklicev v industrijskih družbah"
@@ -37398,8 +37444,10 @@
          <issue n="3">
             <pubPart>
                <author>Pertl E.</author>
-               <title>Zdravljenje za kugo bolnih v razobju od 1349 do 1716 v severovzhodnem delu današnje Slovenije (SRS)</title>
-               <page>151-152</page>
+               <title>Zdravljenje za kugo bolnih v razdobju od 1349 do 1716 v severovzhodnem delu današnje Slovenije</title>
+               <title>(SRS)</title>
+               <page>151-153</page>
+               <cobiss>2676185</cobiss>
                <citedIn count="1">
                   <cit did="1977" cid="18" avtor0="Pertl E."
                      naslov0="Zdravljenje za kugo bolnih v razobju od 1349 do 1716 v severovzhodnem delu današnje Slovenije (SRS)"
@@ -37620,7 +37668,8 @@
          <issue>
             <pubPart>
                <author>Lučič J.</author>
-               <title>O migracijama ilirskog plemena Ardijejaca (Sur les migrations des Ardieens, peuple illyrien)</title>
+               <title>O migracijama ilirskog plemena Ardijejaca</title>
+               <title>(Sur les migrations des Ardieens, peuple illyrien)</title>
                <page>245-254</page>
                <citedIn count="1">
                   <cit did="1748" cid="597" avtor0="Lučič J."
@@ -37649,7 +37698,8 @@
          <issue n="1">
             <pubPart>
                <author>Margetić Lujo</author>
-               <title>Neka pitanja u vezi s Istrom (I-VII stoljeće)</title>
+               <title>Neka pitanja u vezi s Istrom</title>
+               <title>(I-VII stoljeće)</title>
                <page>53-82</page>
                <citedIn count="1">
                   <cit did="759" cid="34" avtor0="Margetić Lujo"
@@ -37680,7 +37730,8 @@
          <issue>
             <pubPart>
                <author>Katičić R.</author>
-               <title>Peonci i njihov jezik (The Paeonians and Their Language)</title>
+               <title>Peonci i njihov jeziky</title>
+               <title>(The Paeonians and Their Language)</title>
                <page>25-31</page>
                <citedIn count="1">
                   <cit did="1748" cid="529" avtor0="Katičić R."
@@ -37710,7 +37761,8 @@
          <issue>
             <pubPart>
                <author>Katičić R.</author>
-               <title>Epirska plemena i njihov jezik (Die epirotische Stämme und ihre Sprache)</title>
+               <title>Epirska plemena i njihov jezik</title>
+               <title>(Die epirotische Stämme und ihre Sprache)</title>
                <page>375-380</page>
                <citedIn count="1">
                   <cit did="1748" cid="524" avtor0="Katičić R."
@@ -37862,7 +37914,8 @@
          <issue>
             <pubPart>
                <author>Josifović S.</author>
-               <title>Oktavijanovo ratovanje u Iliriku (Der illyrische Feldzug Octavians)</title>
+               <title>Oktavijanovo ratovanje u Iliriku</title>
+               <title>(Der illyrische Feldzug Octavians)</title>
                <page>138-165</page>
                <citedIn count="1">
                   <cit did="1748" cid="509" avtor0="Josifović S."
