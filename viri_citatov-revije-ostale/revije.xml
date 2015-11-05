@@ -2891,19 +2891,6 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Dular J., Križ B., Svoljšak, D., Tecco Hvala S.</author>
-               <title>Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini</title>
-               <addTitle>Befestigte prähistorische Siedlungen in der Mirenska dolina und der Temeniška dolina</addTitle>
-               <page>65-198</page>
-               <cobiss>393517</cobiss>
-               <citedIn count="1">
-                  <cit did="1954" cid="5" avtor0="Dular J., Križ B., Svoljšak, D., Tecco Hvala S."
-                     naslov0="Utrjena prazgodovinska naselja v Mirnski in Temeniški dolini"
-                     source="Arheološki vestnik" pubPlace="Ljubljana" year="1992" volume="42"
-                     page="65-198"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Dular Janez</author>
                <title>Zgodovina raziskovanj železnodobnih naselij in poselitev v osrednji Sloveniji</title>
                <page>37-52</page>
@@ -2987,9 +2974,9 @@
                <author>Dular Janez, Križ Borut, Svoljšak Drago, Tecco Hvala Sneža</author>
                <author>Dular Janez et al.</author>
                <title>Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini</title>
-               <page>65-205</page>
+               <page>65-198</page>
                <cobiss>393517</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="381" cid="7"
                      avtor0="Dular Janez, Križ Borut, Svoljšak Drago, Tecco Hvala Sneža"
                      naslov0="Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini"
@@ -2998,6 +2985,10 @@
                   <cit did="2584" cid="33" avtor0="Dular Janez et al."
                      naslov0="Utrjena prazgodovinska naselja v Mirenski in Temeniški dolini"
                      source="Arheološki reslnik" pubPlace="Ljubljana" volume="42" page="65-205"/>
+                  <cit did="1954" cid="5" avtor0="Dular J., Križ B., Svoljšak, D., Tecco Hvala S."
+                     naslov0="Utrjena prazgodovinska naselja v Mirnski in Temeniški dolini"
+                     source="Arheološki vestnik" pubPlace="Ljubljana" year="1992" volume="42"
+                     page="65-198"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -3738,22 +3729,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1975">
-         <volume>24</volume>
-         <issue>
-            <pubPart>
-               <author>Guštin M.</author>
-               <title>Kronologija Notranjske skupine</title>
-               <page>461-506</page>
-               <cobiss>12017197</cobiss>
-               <citedIn count="1">
-                  <cit did="1947" cid="4" avtor0="Guštin M."
-                     naslov0="Kronologija Notranjske skupine" source="Arheološki vestnik"
-                     pubPlace="Ljubljana" year="1975" volume="24" page="461-506"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1973">
          <volume>24</volume>
          <issue>
@@ -3774,10 +3749,13 @@
                <title>Kronologija notranjske skupine</title>
                <page>461-506</page>
                <cobiss>12017197</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1748" cid="437" avtor0="Guštin M."
                      naslov0="Kronologija notranjske skupine" source="Arheološki vestnik"
                      year="1973" volume="24" page="461-506"/>
+                  <cit did="1947" cid="4" avtor0="Guštin M."
+                     naslov0="Kronologija Notranjske skupine" source="Arheološki vestnik"
+                     pubPlace="Ljubljana" year="1975" volume="24" page="461-506"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -5430,18 +5408,10 @@
                <title>varnostno-vojaški zapisi</title>
                <page>11-339</page>
                <cobiss>2411315</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1530" cid="15" avtor0="Kranjc Marjan"
                      naslov0="Balkanski vojaški poligon: varnostno-vojaški zapisi" source="Borec"
                      year="1998" volume="50" page="258"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kranjc Marjan</author>
-               <title>Balkanski vojaški poligon</title>
-               <page>11-339</page>
-               <cobiss>2411315</cobiss>
-               <citedIn count="1">
                   <cit did="1898" cid="18" avtor0="Kranjc Marjan"
                      naslov0="Balkanski vojaški poligon" source="Borec" year="0" page="113-115"/>
                </citedIn>
@@ -5477,12 +5447,15 @@
             <pubPart>
                <author>Jerina-Lah Pavla</author>
                <title>Ljubljansko zdravstvo in OF</title>
-               <page>92-99</page>
+               <page>5-216</page>
                <cobiss>71930112</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="16" cid="53" avtor0="Jerina-Lah Pavla"
                      naslov0="Ljubljansko zdravstvo in OF" cobiss="71930112" source="Borec"
                      year="1996" issue="548-550" page="92-99"/>
+                  <cit did="1509" cid="128" avtor0="Jerina-Lah Pavla"
+                     naslov0="Ljubljansko zdravstvo in OF Borec" source="Borec" year="1996"
+                     issue="546-547" page="211"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -5505,19 +5478,6 @@
                   <cit did="1509" cid="129" avtor0="Vulikić Velimir"
                      naslov0="Delovanje zobozdravstvenih delavcev" source="Borec 1941-1945"
                      pubPlace="Ljubljana" year="1996" page="217"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="548-550">
-            <pubPart>
-               <author>Jerina-Lah Pavla</author>
-               <title>Ljubljansko zdravstvo in OF Borec</title>
-               <page>5-216</page>
-               <cobiss>71930112</cobiss>
-               <citedIn count="1">
-                  <cit did="1509" cid="128" avtor0="Jerina-Lah Pavla"
-                     naslov0="Ljubljansko zdravstvo in OF Borec" source="Borec" year="1996"
-                     issue="546-547" page="211"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -6842,7 +6802,7 @@
             </pubPart>
             <pubPart>
                <author>Ferenc Tone</author>
-               <title>Nemška policija v operacijski coni Jadransko primorje 1943-1945</title>
+               <title>Nemška policija v operacijski coni "Jadransko primorje" 1943-1945</title>
                <page>90-91</page>
                <cobiss>26603874</cobiss>
                <citedIn count="1">
@@ -7034,17 +6994,10 @@
                <author>Križnar Ivo</author>
                <title>Vstaja in začetki NOB na Gorenjskem</title>
                <page>410-420</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1168" cid="13" avtor0="Križnar Ivo"
                      naslov0="Vstaja in začetki NOB na Gorenjskem" source="Borec" year="1971"
                      volume="23" issue="6-7" page="410-420"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Križnar Ivan</author>
-               <title>Vstaja in začetki NOB na Gorenjskem</title>
-               <page>6-7</page>
-               <citedIn count="1">
                   <cit did="1510" cid="33" avtor0="Križnar Ivan"
                      naslov0="Vstaja in začetki NOB na Gorenjskem" source="Borec" year="1971"
                      page="6-7"/>
@@ -7057,18 +7010,10 @@
                <title>Množična vstaja na Gorenjskem decembra 1941</title>
                <page>741-783</page>
                <cobiss>26336610</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1168" cid="4" avtor0="Ferenc Tone"
                      naslov0="Množična vstaja na Gorenjskem decembra 1941" cobiss="26336610"
                      source="Borec" year="1971" volume="23" issue="12" page="741-783"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Ferenc Tone</author>
-               <title>Množična vstaja na Gorenjskem decembra 1941</title>
-               <page>741-783</page>
-               <cobiss>26336610</cobiss>
-               <citedIn count="1">
                   <cit did="1510" cid="77" avtor0="Ferenc Tone"
                      naslov0="Množična vstaja na Gorenjskem decembra 1941" source="Borec"
                      year="1971" page="12"/>
@@ -7522,7 +7467,8 @@
             <pubPart>
                <author>Cvirn Janez</author>
                <title>Thomas Fürstbauer</title>
-               <title>Kronika mesta Celja 1892-1907 (2. del)</title>
+               <title>Kronika mesta Celja 1892-1907</title>
+               <title>(2. del)</title>
                <page>211-254</page>
                <cobiss>320309</cobiss>
                <citedIn count="1">
@@ -7932,8 +7878,7 @@
       </year>
       <year n="1981">
          <issue>
-            <!-- Knjiga, ne članek cobiss 12020993, source CZ je Cankarjeva založba, ne Celjski zbornik -->
-            <pubPart>
+            <pubPart> <!-- Knjiga, ne članek cobiss 12020993, source CZ je Cankarjeva založba, ne Celjski zbornik -->
                <author>Mikeln Miloš</author>
                <title>Pekel 1941</title>
                <page>85</page>
@@ -7972,11 +7917,22 @@
                <title>Katarina Celjska - Kotromanićka in njen pečat</title>
                <page>287-292</page>
                <cobiss>365877</cobiss>
-               <citedIn count="1">
+               <citedIn count="5">
                   <cit did="2631" cid="371" avtor0="Voje Ignacij"
                      naslov0="Katarina Celjska-Kotromanicka in njen pecat"
-                     source="Celjski zbornik 1977- 1981" pubPlace="Celje" year="1981" page="287-292"
-                  />
+                     source="Celjski zbornik 1977- 1981" pubPlace="Celje" year="1981" page="287-292"/>
+                  <cit did="3439" cid="186" avtor0="Voje Ignacij"
+                     naslov0="Katarina Celjska - Kotromanicka in njen pečat" cobiss="365877"
+                     source="Celjski zbornik" year="1977" page="287-292"/>
+                  <cit did="1761" cid="221" avtor0="Voje Ignacij"
+                     naslov0="Katarina Celjska - Kotromanička in njen pečat"
+                     source="Celjski zbornik" year="1977" page="287-292"/>
+                  <cit did="253" cid="51" avtor0="Voje Ignacij"
+                     naslov0="Katarina Celjska- Kontromanićka in njen pečat"
+                     source="Celjski zbornik" year="1977" page="287-292"/>
+                  <cit did="253" cid="46" avtor0="Voje Ignacij"
+                     naslov0="Katarina Celjska-Kotromanička in njen pečat" source="Celjski zbornik"
+                     year="1977" page="287-292"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7994,28 +7950,7 @@
                      source="Celjski zbornik" year="1977" page="523-528"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Voje Ignacij</author>
-               <title>Katarina Celjska</title>
-               <title>Kotromanićka in njen pečat</title>
-               <page>287-292</page>
-               <cobiss>365877</cobiss>
-               <citedIn count="4">
-                  <cit did="3439" cid="186" avtor0="Voje Ignacij"
-                     naslov0="Katarina Celjska - Kotromanicka in njen pečat" cobiss="365877"
-                     source="Celjski zbornik" year="1977" page="287-292"/>
-                  <cit did="1761" cid="221" avtor0="Voje Ignacij"
-                     naslov0="Katarina Celjska - Kotromanička in njen pečat"
-                     source="Celjski zbornik" year="1977" page="287-292"/>
-                  <cit did="253" cid="51" avtor0="Voje Ignacij"
-                     naslov0="Katarina Celjska- Kontromanićka in njen pečat"
-                     source="Celjski zbornik" year="1977" page="287-292"/>
-                  <cit did="253" cid="46" avtor0="Voje Ignacij"
-                     naslov0="Katarina Celjska-Kotromanička in njen pečat" source="Celjski zbornik"
-                     year="1977" page="287-292"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+            </issue>
       </year>
       <year n="1975">
          <issue>
@@ -8178,23 +8113,15 @@
             <pubPart>
                <author>Jesenovec France</author>
                <title>Pogled v Hribarjevo celjsko Domovino</title>
-               <page>1818-194</page>
+               <page>118-194</page>
                <cobiss>519733</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="3508" cid="37" avtor0="Jesenovec France"
                      naslov0="Pogled v Hribarjevo celjsko Domovino" source="Celjski zbornik"
                      year="1964" volume="9"/>
                   <cit did="2844" cid="36" avtor0="Jesenovec France"
                      naslov0="Pogled v Hribarjevo celjsko Domovino" source="Celjski zbornik"
                      year="1964" volume="9"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jesenovec France</author>
-               <title>Pogled v Hribarjevo celjsko Domovino</title>
-               <page>181-194</page>
-               <cobiss>519733</cobiss>
-               <citedIn count="1">
                   <cit did="45" cid="8" avtor0="Jesenovec France"
                      naslov0="Pogled v Hribarjevo celjsko Domovino" cobiss="519733"
                      source="Celjski zbornik" year="1964" volume="9" page="185"/>
@@ -9138,12 +9065,16 @@
                <title>Od dominacije potreb k stilizaciji življenja</title>
                <page>103-116</page>
                <cobiss>18669917</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3289" cid="199" avtor0="Ule Mirjana"
                      naslov0="Od dominacije potreb k stilizaciji življenja" cobiss="18669917"
                      source="Časopis za kritiko znanosti, domišljijo in novo antropologijo"
                      pubPlace="Ljubljana" publisher="Študentska založba" year="1998" volume="26"
                      issue="189" page="103-116"/>
+                  <cit did="2526" cid="37" avtor0="Ule Mirjana"
+                     naslov0="Od dominacije potreb k stilizaciji življenja"
+                     source="Časopis za kritiko znanosti" year="1988" volume="36" issue="189"
+                     page="103-104"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -9439,23 +9370,6 @@
                <citedIn count="1">
                   <cit did="2712" cid="6" avtor0="Bučar France" naslov0="Usodne odločitve"
                      source="Časopis za kritiko znanosti" pubPlace="Ljubljana" year="1989"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1988">
-         <volume>36</volume>
-         <issue n="189">
-            <pubPart>
-               <author>Ule Mirjana</author>
-               <title>Od dominacije potreb k stilizaciji življenja</title>
-               <page>103-116</page>
-               <cobiss>18669917</cobiss>
-               <citedIn count="1">
-                  <cit did="2526" cid="37" avtor0="Ule Mirjana"
-                     naslov0="Od dominacije potreb k stilizaciji življenja"
-                     source="Časopis za kritiko znanosti" year="1988" volume="36" issue="189"
-                     page="103-104"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -11884,6 +11798,9 @@
                <citedIn count="1">
                   <cit did="2718" cid="8" avtor0="Cesar Nedzbala Polonca" naslov0="Rajska dolina"
                      source="Dve domovini/Two Homelands" year="1990" issue="1" page="87-102"/>
+                  <cit did="2920" cid="163" avtor0="Nedzbala Cesar Polonca" naslov0="Rajska dolina"
+                     cobiss="14821634" source="Dve domovini/Two Homelands" year="1990" issue="1"
+                     page="83-106"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -11899,17 +11816,6 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Nedzbala Cesar Polonca</author>
-               <title>Rajska dolina</title>
-               <page>83-106</page>
-               <cobiss>14821634</cobiss>
-               <citedIn count="1">
-                  <cit did="2920" cid="163" avtor0="Nedzbala Cesar Polonca" naslov0="Rajska dolina"
-                     cobiss="14821634" source="Dve domovini/Two Homelands" year="1990" issue="1"
-                     page="83-106"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Slavec Gradišnik Ingrid</author>
                <title>Etnološko preučevanje etnične identitete slovenskih izseljencev</title>
                <page>309-317</page>
@@ -11919,14 +11825,6 @@
                      naslov0="Etnološko preučevanje etnične identitete slovenskih izseljencev"
                      cobiss="14828802" source="Dve domovini : razprave o izseljenstvu" year="1990"
                      volume="1" page="309-317"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Slavec Ingrid</author>
-               <title>Etnološko preučevanje etnične identitete slovenskih izseljencev</title>
-               <page>309-317</page>
-               <cobiss>14828802</cobiss>
-               <citedIn count="1">
                   <cit did="2853" cid="196" avtor0="Slavec Ingrid"
                      naslov0="Etnološko preučevanje etnične identitete slovenskih izseljencev"
                      source="Dve domovini" year="1990" volume="1" page="309-317"/>
@@ -11982,7 +11880,7 @@
             </pubPart>
             <pubPart>
                <author>Jezernik Božidar</author>
-               <title>'Svoji k svojim!</title>
+               <title>Svoji k svojim!</title>
                <title>Politične in družbene dimenzije slovenskega narodnega vprašanja.'</title>
                <page>65-74</page>
                <cobiss>38174050</cobiss>
@@ -13437,22 +13335,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1972">
-         <issue>
-            <pubPart>
-               <author>Klemenčič Vladimir</author>
-               <title>Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva</title>
-               <page>5-56</page>
-               <cobiss>11412781</cobiss>
-               <citedIn count="1">
-                  <cit did="2997" cid="16" avtor0="Klemenčič Vladimir"
-                     naslov0="Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva"
-                     cobiss="11412781" source="Geografski vestnik" pubPlace="Ljubljana" year="1972"
-                     page="5-56"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1971">
          <volume>43</volume>
          <issue>
@@ -14110,7 +13992,7 @@
                <title>Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva</title>
                <page>135-220</page>
                <cobiss>11412781</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="3395" cid="1" avtor0="Klemenčič Vladimir"
                      naslov0="Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva"
                      cobiss="11412781" source="Geografski zbornik" year="1971" volume="12"
@@ -14118,6 +14000,10 @@
                   <cit did="2892" cid="2" avtor0="Klemenčič Vladimir"
                      naslov0="Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva"
                      source="Geografski zbornik" pubPlace="Ljubljana" year="1971" page="135-211"/>
+                  <cit did="2997" cid="16" avtor0="Klemenčič Vladimir"
+                     naslov0="Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva"
+                     cobiss="11412781" source="Geografski vestnik" pubPlace="Ljubljana" year="1972"
+                     page="5-56"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15532,26 +15418,13 @@
       </year>
       <year n="1995">
          <volume>12</volume>
-         <issue n="265">
-            <pubPart>
-               <author>Štiblar Franjo</author>
-               <title>Razvoj trgov ex-Jugoslavije</title>
-               <page>23-43</page>
-               <cobiss>903505</cobiss>
-               <citedIn count="1">
-                  <cit did="2383" cid="6" avtor0="Štiblar Franjo"
-                     naslov0="Razvoj trgov Ex-Jugoslavije" source="Gospodarska gibanja" year="1995"
-                     volume="12" issue="265" page="23-43"/>
-               </citedIn>
-            </pubPart>
-         </issue>
          <issue n="267">
             <pubPart>
                <author>Štiblar Franjo</author>
                <title>Razvoj trgov ex-Jugoslavije</title>
                <page>24-43</page>
                <cobiss>903505</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="3230" cid="10" avtor0="Štiblar Franjo"
                      naslov0="Razvoj trgov Ex-Jugoslavije" cobiss="903505"
                      source="Gospodarska gibanja" year="1995" volume="12" issue="267" page="23-43"/>
@@ -15560,6 +15433,9 @@
                      source="Gospodarska gibanja" pubPlace="Ljubljana"
                      publisher="Ekonomski institut Pravne fakultete" year="1995" issue="267"
                      page="24-43"/>
+                  <cit did="2383" cid="6" avtor0="Štiblar Franjo"
+                     naslov0="Razvoj trgov Ex-Jugoslavije" source="Gospodarska gibanja" year="1995"
+                     volume="12" issue="265" page="23-43"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15867,21 +15743,13 @@
                <title>Poslovno podzemlje se razrašča</title>
                <page>21-26</page>
                <cobiss>714696</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3286" cid="179" avtor0="Dernovšek Igor"
                      naslov0="Poslovno podzemlje se razrašča" cobiss="714696"
                      source="Gospodarski vestnik : slovenski poslovni tednik (15.-21. apr. 2002)"
                      pubPlace="Ljubljana" publisher="Gospodarski vestnik" year="2002" volume="51"
                      issue="15" page="21-26"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dernovšek Igor</author>
-               <title>Poslovno podzemlje se razrašča</title>
-               <page>21-26</page>
-               <cobiss>714696</cobiss>
-               <citedIn count="1">
-                  <cit did="3114" cid="3" avtor0="Dernovšek Igor"
+                 <cit did="3114" cid="3" avtor0="Dernovšek Igor"
                      naslov0="Poslovno podzemlje se razrašča" source="Gospodarski vestnik" year="15"
                      volume="51" issue="15" page="21-26"/>
                </citedIn>
@@ -17012,21 +16880,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1973">
-         <volume>2</volume>
-         <issue>
-            <pubPart>
-               <author>Otorepec Božo</author>
-               <title>Prebivalstvo Kamnika v srednjem veku</title>
-               <page>67-100</page>
-               <citedIn count="1">
-                  <cit did="2647" cid="251" avtor0="Otorepec Božo"
-                     naslov0="Prebivalstvo Kamnika v srednjem veku" source="Kamniški zbornik"
-                     year="1973" volume="2" page="67-100"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1969">
          <volume>12</volume>
          <volume>13</volume>
@@ -17153,8 +17006,7 @@
                <author>Otorepec Božo</author>
                <title>Prebivalstvo Kamnika v srednjem veku</title>
                <page>67-100</page>
-               <cobiss>1606003</cobiss>
-               <citedIn count="3">
+               <citedIn count="4">
                   <cit did="2583" cid="147" avtor0="Otorepec Božo"
                      naslov0="Prebivalstvo Kamnika v srednjem veku" source="Kamniški zbornik"
                      year="1956" volume="2" page="67-100"/>
@@ -17164,6 +17016,9 @@
                   <cit did="775" cid="153" avtor0="Otorepec Božo"
                      naslov0="Prebivalstvo Kamnika v srednjem veku" source="Kamniški zbornik"
                      year="1956" page="67-100"/>
+                  <cit did="2647" cid="251" avtor0="Otorepec Božo"
+                     naslov0="Prebivalstvo Kamnika v srednjem veku" source="Kamniški zbornik"
+                     year="1973" volume="2" page="67-100"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -17189,6 +17044,7 @@
                      naslov0="Kamniške meščanske hiše in njihovi lastniki v dve sto letih"
                      cobiss="14172461" source="Kamniški zbornik" pubPlace="Kamnik"
                      publisher="Občina" year="1955" volume="1" page="51-110"/>
+                  
                </citedIn>
             </pubPart>
          </issue>
@@ -17308,7 +17164,8 @@
             </pubPart>
             <pubPart>
                <author>Skuk Johann</author>
-               <title>Zgodovina župnije Slovenj Gradec (1. del)</title>
+               <title>Zgodovina župnije Slovenj Gradec</title>
+               <title>(1. del)</title>
                <page>7-29</page>
                <cobiss>113489152</cobiss>
                <citedIn count="2">
@@ -17631,19 +17488,7 @@
                      year="1980" page="61"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Žontar Jože</author>
-               <title>Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja</title>
-               <page>144-162</page>
-               <cobiss>1317686</cobiss>
-               <citedIn count="1">
-                  <cit did="1234" cid="15" avtor0="Žontar Jože"
-                     naslov0="Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja"
-                     cobiss="1317686" source="Kranjski zbornik" pubPlace="Kranj" year="1981"
-                     page="144-162"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+          </issue>
       </year>
       <year n="1980">
          <issue>
@@ -17663,10 +17508,14 @@
                <title>Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja</title>
                <page>144-162</page>
                <cobiss>1317686</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1227" cid="43" avtor0="Žontar Jože"
                      naslov0="Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja"
                      source="Kranjski zbornik" pubPlace="Kranj" year="1980" page="144-162"/>
+                  <cit did="1234" cid="15" avtor0="Žontar Jože"
+                     naslov0="Položaj podložnikov gospostva Brdo pri Kranju v drugi polovici 18. stoletja"
+                     cobiss="1317686" source="Kranjski zbornik" pubPlace="Kranj" year="1981"
+                     page="144-162"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -18116,7 +17965,8 @@
          <issue>
             <pubPart>
                <author>Budna Kodrič Nataša</author>
-               <title>Prva svetovna vojna iz župnijskih kronik, leto 1914</title>
+               <title>Prva svetovna vojna iz župnijskih kronik</title>
+               <title>leto 1914</title>
                <page>113-130</page>
                <cobiss>1266486</cobiss>
                <citedIn count="1">
@@ -19835,27 +19685,16 @@
                <title>Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo</title>
                <title>vse proizvodne, denarne ipd. težave se bodo pripisovale zgolj in samo osamosvojitvi Slovenije, čeprav bodo v resnici posledica nedomišljenosti ekonomske politike</title>
                <page>478-479</page>
+               <page>453-455</page>
                <cobiss>65606656</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3286" cid="52" avtor0="Bajt Aleksander"
                      naslov0="Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo : vse proizvodne, denarne ipd. težave se bodo pripisovale zgolj in samo osamosvojitvi Slovenije, čeprav bodo v resnici posledica nedomišljenosti ekonomske politike"
                      cobiss="65606656"
                      source="Naši razgledi : NR : štirinajstdnevnik za politična, gospodarska in kulturna vprašanja"
                      pubPlace="Ljubljana" publisher="Delo" year="1991" volume="40" issue="16"
                      page="478-479"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="17">
-            <pubPart>
-               <author>Bajt Aleksander</author>
-               <title>Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo</title>
-               <title>vse proizvodne, denarne ipd. težave se bodo pripisovale zgolj in samo osamosvojitvi Slovenije, čeprav bodo v resnici posledica nedomišljenosti ekonomske politike</title>
-               <page>453-455</page>
-               <page>478-479</page>
-               <cobiss>65606656</cobiss>
-               <citedIn count="1">
-                  <cit did="1899" cid="6" avtor0="Bajt Aleksander"
+                 <cit did="1899" cid="6" avtor0="Bajt Aleksander"
                      naslov0="Zdaj bi pa že bil čas, da se kaj stori za gospodarstvo!"
                      source="Naši razgledi" year="0" volume="40" issue="17"/>
                </citedIn>
@@ -20263,10 +20102,14 @@
             <pubPart>
                <author>Požar Danilo</author>
                <title>Kje je načelnost ali ne živimo od kritike</title>
-               <citedIn count="1">
+               <page>381</page>
+               <citedIn count="2">
                   <cit did="2838" cid="266" avtor0="Požar Danilo"
                      naslov0="Kje je načelnost ali ne živimo od kritike"
                      source="Naši razgledi, 5.10.1963" year="1963"/>
+                  <cit did="244" cid="29" avtor0="Požar Danilo"
+                     naslov0="Kje je načelnost ali ne živimo od kritike" source="Naši razgledi"
+                     year="0" page="381"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -20430,7 +20273,7 @@
          <issue n="10">
             <pubPart>
                <author>Mencin Rudolf</author>
-               <title>Ob razpravi  o bodočem šolanju učiteljskega kadra</title>
+               <title>Ob razpravi o bodočem šolanju učiteljskega kadra</title>
                <page>243-244</page>
                <citedIn count="1">
                   <cit did="15" cid="31" avtor0="Mencin Rudolf"
@@ -20599,17 +20442,7 @@
                      year="0"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Požar Danilo</author>
-               <title>Kje je načelnost ali ne živimo od kritike</title>
-               <page>381</page>
-               <citedIn count="1">
-                  <cit did="244" cid="29" avtor0="Požar Danilo"
-                     naslov0="Kje je načelnost ali ne živimo od kritike" source="Naši razgledi"
-                     year="0" page="381"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+        </issue>
       </year>
    </source>
    <source>
@@ -22326,20 +22159,12 @@
                <title>Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935</title>
                <page>281-294</page>
                <cobiss>48440576</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1250" cid="5" avtor0="Nemanič Ivan"
                      naslov0="Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935"
                      cobiss="48440576" source="Ormož skozi stoletja IV." pubPlace="Ormož"
                      year="1993" page="281-294"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Nemanič Ivan</author>
-               <title>Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935</title>
-               <page>281-294</page>
-               <cobiss>48440576</cobiss>
-               <citedIn count="1">
-                  <cit did="695" cid="4" avtor0="Nemanič Ivan"
+                 <cit did="695" cid="4" avtor0="Nemanič Ivan"
                      naslov0="Utrinki iz zgodovine mesta Ormož ob dokumentarnem filmu iz leta 1935"
                      source="Ormož skozi stoletja, zbornik" pubPlace="Ormož" year="1993"
                      page="218-219"/>
@@ -22354,20 +22179,12 @@
                   <cit did="1250" cid="7" avtor0="Vogrin Marjan"
                      naslov0="Samostan manjših bratov observantov v Ormožu" cobiss="48421888"
                      source="Ormož skozi stoletja IV." pubPlace="Ormož" year="1993" page="9-12"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vogrin p. Marjan</author>
-               <title>Samostan manjših bratov observantov v Ormožu</title>
-               <page>9-14</page>
-               <cobiss>48421888</cobiss>
-               <citedIn count="1">
                   <cit did="1288" cid="66" avtor0="Vogrin p. Marjan"
                      naslov0="Samostan manjših bratov observantov v Ormožu"
                      source="Ormož skozi stoletja" pubPlace="Ormož" year="1993" page="9-14"/>
                </citedIn>
             </pubPart>
-         </issue>
+          </issue>
       </year>
       <year n="1988">
          <issue>
@@ -23020,7 +22837,8 @@
             </pubPart>
             <pubPart>
                <author>Zorzut Ludvik</author>
-               <title>Pohorje (Smučarske poti)</title>
+               <title>Pohorje</title>
+               <title>(Smučarske poti)</title>
                <page>45-48</page>
                <page>57-60</page>
                <citedIn count="1">
@@ -23263,7 +23081,7 @@
             <pubPart>
                <author>Mason P.</author>
                <author>Mason Philip F. J.</author>
-               <title>Neolitska in eneolitska naselja v Beli Krajini...</title>
+               <title>Neolitska in eneolitska naselja v Beli Krajini</title>
                <title>naselje v Gradcu in izraba prostora v času od 5. do 3. tisočletja BC</title>
                <page>183-199</page>
                <cobiss>73675520</cobiss>
@@ -24926,21 +24744,11 @@
                <title>[Grajski mlin]</title>
                <page>346-351</page>
                <cobiss>246668288</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3426" cid="19" avtor0="Kambič Mirko"
                      naslov0="Mlini na reki Krupi. [Grajski mlin]" cobiss="246668288"
                      source="Rast : revija za literaturo, kulturo in družbena vprašanja" year="2007"
                      volume="18" issue="3/4" page="346-351"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="6">
-            <pubPart>
-               <author>Kambič Mirko</author>
-               <title>Mlini na reki Krupi</title>
-               <page>651-655</page>
-               <cobiss>246668288</cobiss>
-               <citedIn count="1">
                   <cit did="3426" cid="20" avtor0="Kambič Mirko" naslov0="Mlini na reki Krupi"
                      cobiss="246668288"
                      source="Rast : revija za literaturo, kulturo in družbena vprašanja" year="2007"
@@ -29232,11 +29040,14 @@
                <title>Bonomo, Vergerij, Trubar</title>
                <page>62-81</page>
                <cobiss>35289698</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1793" cid="2" avtor0="Cavazza Silvano"
                      naslov0="Bonomo, Vergerij, Trubar"
                      source="Stati inu obstati: Revija za vprašanja protestantizma"
                      pubPlace="Ljubljana" year="0" issue="5-6" page="62"/>
+                  <cit did="2695" cid="4" avtor0="Cavazza Silvano"
+                     naslov0="Bonomo, Vergerij, Trubar" source="Stati inu obstati" year="2007"
+                     volume="5-6" page="62-81"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -29249,19 +29060,6 @@
                      naslov0="Jože Rajhman in slovenski protestantizem 16. stoletja"
                      source="Stati inu obstati: Revija za vprašanja protestantizma" year="2007"
                      issue="5-6" page="92"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Cavazza Silvano</author>
-               <title>Bonomo, Vergerij, Trubar</title>
-               <page>62-81</page>
-               <cobiss>35289698</cobiss>
-               <citedIn count="1">
-                  <cit did="2695" cid="4" avtor0="Cavazza Silvano"
-                     naslov0="Bonomo, Vergerij, Trubar" source="Stati inu obstati" year="2007"
-                     volume="5-6" page="62-81"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -29309,7 +29107,8 @@
             </pubPart>
             <pubPart>
                <author>Kuret Primož</author>
-               <title>Theodor Elze (skladatelj)</title>
+               <title>Theodor Elze</title>
+               <title>(skladatelj)</title>
                <page>233-237</page>
                <cobiss>893063</cobiss>
                <citedIn count="1">
@@ -30074,18 +29873,6 @@
          </issue>
          <issue>
             <pubPart>
-               <author>Cencič Majda</author>
-               <title>Raziskovanje šolske zgodovine</title>
-               <page>13-18</page>
-               <cobiss>50386944</cobiss>
-               <citedIn count="1">
-                  <cit did="3176" cid="1" avtor0="Cencič Majda"
-                     naslov0="Raziskovanje šolske zgodovine" cobiss="50386944"
-                     source="Šolska kronika - Zbornik za zgodovino šolstva" year="1994" volume="26"
-                     page="13-18"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Friš Darko</author>
                <title>Slovenske župnijske osnovne šole v Ameriki 1895-1941</title>
                <page>42-57</page>
@@ -30118,7 +29905,7 @@
                <title>Raziskovanje šolske zgodovine</title>
                <page>13-18</page>
                <cobiss>50386944</cobiss>
-               <citedIn count="3">
+               <citedIn count="4">
                   <cit did="3172" cid="1" avtor0="Cencič Majda"
                      naslov0="Raziskovanje šolske zgodovine"
                      source="Šolska kronika - Zbornik za zgodovino šolstva" year="1993" volume="26"
@@ -30130,6 +29917,10 @@
                   <cit did="2048" cid="2" avtor0="Cencič Majda"
                      naslov0="Raziskovanje šolske zgodovine"
                      source="Šolska kronika - Zbornik za zgodovino šolstva" year="1993" volume="26"
+                     page="13-18"/>
+                  <cit did="3176" cid="1" avtor0="Cencič Majda"
+                     naslov0="Raziskovanje šolske zgodovine" cobiss="50386944"
+                     source="Šolska kronika - Zbornik za zgodovino šolstva" year="1994" volume="26"
                      page="13-18"/>
                </citedIn>
             </pubPart>
@@ -30143,18 +29934,10 @@
                <title>Pouk kemije na Slovenskem do prve svetovne vojne</title>
                <page>38-55</page>
                <cobiss>50375680</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2544" cid="9" avtor0="Jozelj S."
                      naslov0="Pouk kemije na Slovenskem do prve svetovne vojne"
                      source="Šolska kronika" year="1992" volume="25" page="38-47"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jozelj Sonja</author>
-               <title>Pouk kemije na Slovenskem do prve svetovne vojne</title>
-               <page>39-55</page>
-               <cobiss>50375680</cobiss>
-               <citedIn count="1">
                   <cit did="3402" cid="33" avtor0="Jozelj Sonja"
                      naslov0="Pouk kemije na Slovenskem do prve svetovne vojne" cobiss="50375680"
                      source="Šolska kronika : zbornik za zgodovino šolstva in vzgoje : glasilo Slovenskega šolskega muzeja"
@@ -30922,7 +30705,7 @@
          <issue n="7-8">
             <pubPart>
                <author>Komac Miran</author>
-               <title>Narodne manjšine </title>
+               <title>Narodne manjšine</title>
                <title>most med narodi ali subjekti lastnega razvoja</title>
                <page>670-681</page>
                <cobiss>1885517</cobiss>
@@ -31026,7 +30809,7 @@
             <pubPart>
                <author>Repe Božo</author>
                <title>Utrinki iz bližnjega leta 1962</title>
-               <title>(2) </title>
+               <title>(2)</title>
                <title>Nadaljevanje in konec</title>
                <page>224-231</page>
                <cobiss>14274141</cobiss>
@@ -33142,7 +32925,8 @@
          <issue>
             <pubPart>
                <author>Zupan Olga</author>
-               <title>Tuštanj pri Moravčah, Konservatorska poročila</title>
+               <title>Tuštanj pri Moravčah</title>
+               <title>Konservatorska poročila</title>
                <citedIn count="1">
                   <cit did="2117" cid="11" avtor0="Zupan Olga"
                      naslov0="Tuštanj pri Moravčah, Konservatorska poročila"
@@ -33189,13 +32973,12 @@
       </year>
       <year n="1983">
          <volume>25</volume>
-         <volume>XXV</volume>
          <issue>
             <pubPart>
                <author>Komelj Ivan</author>
                <title>Grad kot spomeniškovarstveni problem v času med obema vojnama</title>
-               <page>19-20</page>
-               <citedIn count="4">
+               <page>13-32</page>
+               <citedIn count="5">
                   <cit did="1240" cid="6" avtor0="Komelj Ivan"
                      naslov0="Grad kot spomeniškovarstveni problem med obema vojnama"
                      source="Varstvo spomenikov : Revija za teorijo in prakso spomeniškega varstva"
@@ -33209,6 +32992,10 @@
                   <cit did="2619" cid="19" avtor0="Komelj Ivan"
                      naslov0="Grad kot spomeniškovarstveni problem v času med obema vojnama"
                      source="Varstvo spomenikov XXV." pubPlace="Ljubljana" year="1983"/>
+                  <cit did="1234" cid="3" avtor0="Komej Ivan"
+                        naslov0="Grad kot spomeniškovarstveni problem v času med obema vojnama"
+                        source="Varstvo spomenikov" year="1951" volume="25" page="13-32"/>
+                  
                </citedIn>
             </pubPart>
             <pubPart>
@@ -33635,16 +33422,6 @@
       <year n="1951">
          <volume>25</volume>
          <issue>
-            <pubPart>
-               <author>Komej Ivan</author>
-               <title>Grad kot spomeniškovarstveni problem v času med obema vojnama</title>
-               <page>13-32</page>
-               <citedIn count="1">
-                  <cit did="1234" cid="3" avtor0="Komej Ivan"
-                     naslov0="Grad kot spomeniškovarstveni problem v času med obema vojnama"
-                     source="Varstvo spomenikov" year="1951" volume="25" page="13-32"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Komelj Ivan</author>
                <title>Vprašanje naših gradov</title>
@@ -34150,7 +33927,7 @@
          <issue n="1">
             <pubPart>
                <author>Grabnar Marjan</author>
-               <title>"Načrt Kamen</title>
+               <title>Načrt Kamen</title>
                <title>10 let pozneje"</title>
                <citedIn count="1">
                   <cit did="3235" cid="3" avtor0="Grabnar Marjan"
@@ -34700,7 +34477,7 @@
             <pubPart>
                <author>Pediček Franc</author>
                <title>Poračun</title>
-               <title> intervju s Francem Pedičkom o "minulem delu"</title>
+               <title>intervju s Francem Pedičkom o "minulem delu"</title>
                <page>46-52</page>
                <cobiss>55950592</cobiss>
                <citedIn count="1">
@@ -35505,11 +35282,15 @@
                <title>Cerkvenoupravni položaj Slovenske Krajine od 798 do 1958</title>
                <page>39-47</page>
                <cobiss>56610048</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3052" cid="3" avtor0="Zelko Ivan"
                      naslov0="Cerkvenoupravni položaj Slovenske Krajine od 798 do 1958"
                      cobiss="56610048" source="Zbornik soboškega muzeja" pubPlace="Murska Sobota"
                      year="1994" issue="3" page="39-47"/>
+                  <cit did="3465" cid="124" avtor0="Zelko Ivan"
+                     naslov0="Cerkvenoupravni položaj Slovenske krajine od 798 do 1958"
+                     source="Zbornik soboškega muzeja 3." pubPlace="Murska Sobota"
+                     publisher="Pokrajinski muzej" year="1993" page="39-48"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -35526,20 +35307,6 @@
                      naslov0="Poročilo o arheološkem izkopavanju v Bukovnici leta 1992"
                      cobiss="56616448" source="Zbornik soboškega muzeja" year="1993" issue="3"
                      page="111-114"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Zelko Ivan</author>
-               <title>Cerkvenoupravni položaj Slovenske krajine od 798 do 1958</title>
-               <page>39-48</page>
-               <cobiss>56610048</cobiss>
-               <citedIn count="1">
-                  <cit did="3465" cid="124" avtor0="Zelko Ivan"
-                     naslov0="Cerkvenoupravni položaj Slovenske krajine od 798 do 1958"
-                     source="Zbornik soboškega muzeja 3." pubPlace="Murska Sobota"
-                     publisher="Pokrajinski muzej" year="1993" page="39-48"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -35746,16 +35513,6 @@
                      source="Zbornik Svobodne Slovenije 1971/1972" page="289-290"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Krošelj Joško</author>
-               <title>Borba za konkordat in dr. Korošec</title>
-               <page>181-201</page>
-               <citedIn count="1">
-                  <cit did="3133" cid="8" avtor0="Krošelj Joško"
-                     naslov0="Borba za konkordat in dr. Korošec"
-                     source="Zbornik svobodne Slovenije 1971-1972" year="1971" page="181-201"/>
-               </citedIn>
-            </pubPart>
          </issue>
       </year>
       <year n="1969">
@@ -35823,9 +35580,9 @@
             <pubPart>
                <author>Krošelj Janko</author>
                <author>Krošelj Joško</author>
-               <title>Borba za konkordat in Korošec</title>
+               <title>Borba za konkordat in dr. Korošec</title>
                <page>181-201</page>
-               <citedIn count="4">
+               <citedIn count="5">
                   <cit did="2769" cid="19" avtor0="Krošelj Janko"
                      naslov0="Borba za konkordat in dr. Korošec"
                      source="Zbornik svobodne Slovenije 1966" pubPlace="Buenos Aires"
@@ -35839,6 +35596,9 @@
                   <cit did="2248" cid="10" avtor0="Krošelj Joško"
                      naslov0="Borba za konkordat in dr. Korošec" source="Zbornik Svobodne Slovenije"
                      year="1966" page="186-187"/>
+                  <cit did="3133" cid="8" avtor0="Krošelj Joško"
+                     naslov0="Borba za konkordat in dr. Korošec"
+                     source="Zbornik svobodne Slovenije 1971-1972" year="1971" page="181-201"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -37529,17 +37289,6 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue>
-            <pubPart>
-               <author>Plesničar Stojan</author>
-               <title>Kuga v Istri</title>
-               <page>345-350</page>
-               <citedIn count="1">
-                  <cit did="872" cid="17" avtor0="Plesničar Stojan" naslov0="Kuga v Istri"
-                     source="Zdravstveni vestnik" year="1962" volume="8" page="345-350"/>
-               </citedIn>
-            </pubPart>
-         </issue>
       </year>
       <year n="1957">
          <volume>26</volume>
@@ -37548,12 +37297,15 @@
                <author>Plesničar S.</author>
                <title>Kuga v Istri</title>
                <page>345-350</page>
-               <citedIn count="2">
+               <cobiss>17621977</cobiss>
+               <citedIn count="3">
                   <cit did="740" cid="31" avtor0="Plesničar S." naslov0="Kuga v Istri"
                      source="Zdravstveni vestnik" year="1957" volume="26" issue="8" page="345-350"/>
                   <cit did="1977" cid="19" avtor0="Plesničar S." naslov0="Kuga v Istri"
                      source="Zdravstveni vestnik" pubPlace="Ljubljana" year="1957" volume="26"
                      page="345-350"/>
+                  <cit did="872" cid="17" avtor0="Plesničar Stojan" naslov0="Kuga v Istri"
+                     source="Zdravstveni vestnik" year="1962" volume="8" page="345-350"/>
                </citedIn>
             </pubPart>
          </issue>
