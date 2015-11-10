@@ -2141,11 +2141,14 @@
                <title>zaščitne raziskave leta 1998</title>
                <page>167-218</page>
                <cobiss>27351085</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1946" cid="10" avtor0="Gaspari A. et al."
                      naslov0="Antični pristanški kompleks v Fizinah pri Portorožu - zaščitne raziskave leta 1998"
                      source="Arheološki vestnik" pubPlace="Ljubljana" year="2007" volume="58"
                      page="167-218"/>
+                  <cit did="419" cid="20" avtor0="Gaspari Andrej et al."
+                     naslov0="Antični pristaniški kompleks v Fizinah pri Portorožu : zaščitne raziskave leta 1998"
+                     source="Arheološki vestnik" pubPlace="Ljubljana" year="2006"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -2182,20 +2185,6 @@
                      naslov0="O puščičnih osteh za lok in samostrel z območja srednjeveške Škoije Loke"
                      cobiss="27352365" source="Arheološki vestnik" year="2007" volume="58"
                      page="367-374"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="2006">
-         <issue>
-            <pubPart>
-               <author>Gaspari Andrej et al.</author>
-               <title>Antični pristaniški kompleks v Fizinah pri Portorožu</title>
-               <title>zaščitne raziskave leta 1998</title>
-               <citedIn count="1">
-                  <cit did="419" cid="20" avtor0="Gaspari Andrej et al."
-                     naslov0="Antični pristaniški kompleks v Fizinah pri Portorožu : zaščitne raziskave leta 1998"
-                     source="Arheološki vestnik" pubPlace="Ljubljana" year="2006"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7421,21 +7410,13 @@
                <title>Gospodje Turnski v 13. stoletju</title>
                <page>7-16</page>
                <cobiss>710197</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="2604" cid="96" avtor0="Ravnikar Tone"
                      naslov0="Gospodje Turnski v 13. stoletju" source="Celjski zbornik"
                      pubPlace="Celje" year="1992" page="7-16"/>
                   <cit did="775" cid="186" avtor0="Ravnikar Tone"
                      naslov0="Gospodje Turnski v 13. stoletju" source="Celjski zbornik"
                      pubPlace="Celje" year="1992" page="7-16"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Ravnikar Tone</author>
-               <title>Gospodje Turnski v srednjem veku</title>
-               <page>7-16</page>
-               <cobiss>710197</cobiss>
-               <citedIn count="1">
                   <cit did="53" cid="223" avtor0="Ravnikar Tone"
                      naslov0="Gospodje Turnski v srednjem veku" cobiss="710197"
                      source="Celjski zbornik" year="1992" page="7-16"/>
@@ -11795,7 +11776,7 @@
                <title>Rajska dolina</title>
                <page>83-106</page>
                <cobiss>14821634</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2718" cid="8" avtor0="Cesar Nedzbala Polonca" naslov0="Rajska dolina"
                      source="Dve domovini/Two Homelands" year="1990" issue="1" page="87-102"/>
                   <cit did="2920" cid="163" avtor0="Nedzbala Cesar Polonca" naslov0="Rajska dolina"
@@ -11820,7 +11801,7 @@
                <title>Etnološko preučevanje etnične identitete slovenskih izseljencev</title>
                <page>309-317</page>
                <cobiss>14828802</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3395" cid="18" avtor0="Slavec Gradišnik Ingrid"
                      naslov0="Etnološko preučevanje etnične identitete slovenskih izseljencev"
                      cobiss="14828802" source="Dve domovini : razprave o izseljenstvu" year="1990"
@@ -22106,7 +22087,7 @@
             </pubPart>
             <pubPart>
                <author>Ogrizek Emica</author>
-               <title>!Do božiča smo doma!"</title>
+               <title>"Do božiča smo doma"</title>
                <title>Padli in pogrešani vojaki iz ormoškega območja v prvi svetovni vojni</title>
                <page>302-315</page>
                <cobiss>722053</cobiss>
@@ -22175,7 +22156,7 @@
                <title>Samostan manjših bratov observantov v Ormožu</title>
                <page>9-12</page>
                <cobiss>48421888</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="1250" cid="7" avtor0="Vogrin Marjan"
                      naslov0="Samostan manjših bratov observantov v Ormožu" cobiss="48421888"
                      source="Ormož skozi stoletja IV." pubPlace="Ormož" year="1993" page="9-12"/>
@@ -28511,7 +28492,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="5, 6/7">
+         <issue n="6/7">
             <pubPart>
                <author>Jeri Janko</author>
                <title>1918 in jadransko vprašanje</title>
@@ -28540,7 +28521,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="5, 6/7">
+         <issue n="5">
             <pubPart>
                <author>Jeri Janko</author>
                <title>1918 in jadransko vprašanje</title>
