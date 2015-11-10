@@ -3,6 +3,7 @@
  xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="NBH">Neja Blaj Hribar</docAuthor>
       <docTitle>Citiranost člankov v tujih revijah</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC BY 4.0</docRights>
@@ -12,11 +13,10 @@
    </docMetadata>
    <source>
       <pubTitle>American Sociological Review</pubTitle>
-      <pubTitle>American sociological review</pubTitle>
-      <pubTitle>American Sociological Review, V</pubTitle>
-      <pubTitle>American Sociological Review, 13. Columbus</pubTitle>
-      <pubTitle>American Sociological Revievv</pubTitle>
       <pubPlace>New York</pubPlace>
+      <publisher>Sage</publisher>
+      <pubCobiss>3833098</pubCobiss>
+      <issn>0003-1224</issn>
       <year n="2004">
          <volume>69</volume>
          <issue n="5">
@@ -364,21 +364,18 @@
       </year>
    </source>
    <source>
-      <pubTitle>AMSl (Atti e memorie della Societd istriana di archeologia e storia patria): vol. VIII</pubTitle>
-      <pubTitle>AMSl</pubTitle>
-      <pubTitle>AMSIA</pubTitle>
-      <pubTitle>AMSI. n.s.</pubTitle>
-      <pubTitle>AMSI, vol. VIM</pubTitle>
-      <pubTitle>AMSI NS</pubTitle>
-      <pubTitle>AMSI</pubTitle>
+      <pubTitle>Atti e Memorie della Società Istriana di Archeologia e Storia Patria</pubTitle>
+      <pubAddTitle>AMSI</pubAddTitle>
       <pubPlace>Trst</pubPlace>
-      <pubPlace>Trieste</pubPlace>
       <pubPlace>Venezia</pubPlace>
       <pubPlace>Poreč</pubPlace>
       <pubPlace>Pola</pubPlace>
       <pubPlace>Parenzo</pubPlace>
       <pubPlace>Milano</pubPlace>
       <publisher>Societa istriana di archeologia e storia patria. Tipografia Gaetano Coana</publisher>
+      <publisher>Tipografia-Litografia Moderna</publisher>
+      <issn>0392-0321</issn>
+      <pubCobiss>29767168</pubCobiss>
       <year n="1989">
          <volume>37</volume>
          <issue>
@@ -1572,29 +1569,11 @@
    </source>
    <source>
       <pubTitle>Archeografo Triestino</pubTitle>
-      <pubTitle>Archeografo triestino : Serie 4</pubTitle>
-      <pubTitle>Archeografo triestino</pubTitle>
-      <pubTitle>Archeografo Triestino. N. S.</pubTitle>
-      <pubTitle>Archeografo Triestino, ser. IV, vol. LIX.</pubTitle>
-      <pubTitle>Archeografo Triestino, s. Ill, vol. II</pubTitle>
-      <pubTitle>Archeografo Triestino, N. S.</pubTitle>
-      <pubTitle>Archeografo Triestino, III serie, vol. XIII, (XLI).</pubTitle>
-      <pubTitle>Archeografo Triestino,</pubTitle>
-      <pubTitle>Archeografo Triestino ser.</pubTitle>
-      <pubTitle>Archeografo Triestino XXIX</pubTitle>
-      <pubTitle>Archeografo Triestino 62</pubTitle>
-      <pubTitle>Archeografo Triestino 45. Trieste. 101-239.</pubTitle>
-      <pubTitle>Archeografo Triestino (AT), n. s., s. III., vol. XXI</pubTitle>
-      <pubTitle>Archeografo Trieslino. nuova serie, vol. IX.</pubTitle>
-      <pubTitle>Archeografo Trieslino. Serie III., vol. XIX..</pubTitle>
-      <pubTitle>Archeografo Trieslino, serie IV.</pubTitle>
-      <pubTitle>Archeografo Trestino</pubTitle>
-      <pubTitle>Archeografo  Triestino</pubTitle>
-      <pubTitle>Archeogr Triest</pubTitle>
+      <pubTitle>Serie 4</pubTitle>
       <pubPlace>Trieste</pubPlace>
-      <pubPlace>Trst</pubPlace>
-      <publisher>Minerva</publisher>
       <publisher>Società di Minerva</publisher>
+      <pubCobiss>24994048</pubCobiss>
+      <issn>0392-0038</issn>
       <year n="2005">
          <issue>
             <pubPart>
@@ -2602,9 +2581,13 @@ alla fine del quattrocento</title>
       </year>
    </source>
    <source>
-      <pubTitle>Austrian History Yearbook</pubTitle>
       <pubTitle>Austrian history yearbook</pubTitle>
+      <pubPlace>Huston</pubPlace>
+      <pubPlace>Texas</pubPlace>
       <publisher>Center for Austrian Studies, University of Minnesota</publisher>
+      <publisher>RICE University</publisher>
+      <pubCobiss>25044480</pubCobiss>
+      <issn>0067-2378</issn>
       <year n="2004">
          <volume>35</volume>
          <issue>
@@ -3017,30 +3000,15 @@ culture, and modernity in nineteenth-century Central Europe</title>
       </year>
    </source>
    <source>
-      <pubTitle>Carinthia</pubTitle>
-      <pubTitle>Garinthia I</pubTitle>
-      <pubTitle>Carinthial 1</pubTitle>
-      <pubTitle>Carinthial</pubTitle>
-      <pubTitle>CarinthiaI165 (1975), str. 125-151.</pubTitle>
-      <pubTitle>Carinthia l</pubTitle>
-      <pubTitle>Carinthia I. Geschichtliche und volkskundliche Beiträge zur Heimatkunde Kärntens</pubTitle>
-      <pubTitle>Carinthia I. : Geschichtliche und volkskundliche Beitrage zur Heimatkunde Kärntens</pubTitle>
-      <pubTitle>Carinthia I.</pubTitle>
-      <pubTitle>Carinthia I, Zeitschrift für geschichtliche Landeskunde von Kärnten</pubTitle>
-      <pubTitle>Carinthia I : Zeitschrift für Geschichtliche
-Landeskunde von Kärnten</pubTitle>
-      <pubTitle>Carinthia I 190</pubTitle>
-      <pubTitle>Carinthia I 186</pubTitle>
       <pubTitle>Carinthia I</pubTitle>
-      <pubTitle>Carinthia 1195</pubTitle>
-      <pubTitle>Carinthia 1150</pubTitle>
-      <pubTitle>Carinthia 1</pubTitle>
-      <pubTitle>Carinihia I 161 (1 95-123.</pubTitle>
-      <pubTitle>Carinihia I</pubTitle>
-      <pubTitle>Carimhia I</pubTitle>
+      <pubTitle>Mittheilungen des Geschichtsvereines für Kärnten</pubTitle>
+      <pubTitle>Geschichtliche und volkskundliche Beiträge zur Heimatkunde Kärntens</pubTitle>
+      <pubTitle>Zeitschrift für Geschichtliche Landeskunde von Kärnten</pubTitle>
+      <pubTitle>Geschichtsvereines für Kärnten</pubTitle>
       <pubPlace>Klagenfurt</pubPlace>
-      <pubPlace>Garz</pubPlace>
-      <pubPlace>Wolfsberg - Klagenfurt</pubPlace>
+      <publisher>J. Leon</publisher>
+      <pubCobiss>25196032</pubCobiss>
+      <issn>0008-6606</issn>
       <year n="2010">
          <issue>
             <pubPart>
@@ -5111,18 +5079,14 @@ Landeskunde von Kärnten</pubTitle>
    </source>
    <source>
       <pubTitle>Časopis za suvremenu povijest</pubTitle>
-      <pubTitle>Časopis za suvrmenu povijest</pubTitle>
-      <pubTitle>Časopis za suvremenu povjest</pubTitle>
-      <pubTitle>Časopis za suvremenu povijest, III</pubTitle>
-      <pubTitle>Časopis za suvremenu povijest, 2007</pubTitle>
-      <pubTitle>Časopis za suvremenu povijest II</pubTitle>
-      <pubTitle>Časopis za suvremenu povijest 30</pubTitle>
-      <pubTitle>Časopis za suvremenu povijest (dalje ČSP)</pubTitle>
-      <pubTitle>Časopis za suvremenu povijes</pubTitle>
-      <pubTitle>Časopis za suvremeno povijest</pubTitle>
-      <pubTitle>ČSP</pubTitle>
+      <pubAddTitle>Journal of contemporary history</pubAddTitle>
+      <pubAddTitle>Magazine of contemporary history</pubAddTitle>
+      <pubAddTitle>Revue d'histoire contemporaine</pubAddTitle>
+      <pubAddTitle>Voprosy sovremennoj istorii</pubAddTitle>
       <pubPlace>Zagreb</pubPlace>
-      <pubPlace>Zahreb</pubPlace>
+      <publisher>Hrvatski institut za povijest</publisher>
+      <pubCobiss>4056066</pubCobiss>
+      <issn>0590-9597</issn>
       <year n="2011">
          <volume>43</volume>
          <issue n="1">
@@ -6171,11 +6135,14 @@ Landeskunde von Kärnten</pubTitle>
    </source>
    <source>
       <pubTitle>Ethnic and Racial Studies</pubTitle>
-      <pubTitle>Ethnic and racial studies</pubTitle>
-      <pubTitle>Ethnic and Racial, Studies</pubTitle>
-      <pubPlace>Ljubljana</pubPlace>
       <pubPlace>London</pubPlace>
-      <publisher>Routledge &amp; Kegan Paul</publisher>
+      <pubPlace>Abingdon</pubPlace>
+      <publisher>Routledge</publisher>
+      <publisher>Taylor&amp;Francis</publisher>
+      <pubCobiss>25418496</pubCobiss>
+      <pubCobiss>520598553</pubCobiss>
+      <issn>0141-9870</issn>
+      <issn>1466-4356</issn>
       <year n="2009">
          <volume>32</volume>
          <issue n="6">
@@ -6699,6 +6666,23 @@ Landeskunde von Kärnten</pubTitle>
                        page="447-462"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Glick Schiller</author>
+               <author>Fouron Georges G.</author>
+               <title>Terrains of blood and nation: Haitian transnational social fields</title>
+               <page>340-361</page>
+               <citedIn count="1">
+                  <cit did="2671"
+                     cid="21"
+                     avtor0="Glick Schiller"
+                     avtor1="Fouron Georges G."
+                     naslov0="Terrains of blood and nation: Haitian transnational social fields"
+                     source="Ethnic and Racial Studies"
+                     year="1999"
+                     issue="22"
+                     page="340-361"/>
+               </citedIn>
+            </pubPart>
          </issue>
          <issue n="4">
             <pubPart>
@@ -6718,22 +6702,20 @@ Landeskunde von Kärnten</pubTitle>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="22">
+         <issue n="5">
             <pubPart>
-               <author>Glick Schiller</author>
-               <author>Fouron Georges G.</author>
-               <title>Terrains of blood and nation: Haitian transnational social fields</title>
-               <page>340-361</page>
+               <author>Halliday F.</author>
+               <title>Islamophobia</title>
+               <page>892-902</page>
                <citedIn count="1">
-                  <cit did="2671"
-                       cid="21"
-                       avtor0="Glick Schiller"
-                       avtor1="Fouron Georges G."
-                       naslov0="Terrains of blood and nation: Haitian transnational social fields"
-                       source="Ethnic and Racial Studies"
-                       year="1999"
-                       issue="22"
-                       page="340-361"/>
+                  <cit did="379"
+                     cid="7"
+                     avtor0="Halliday F."
+                     naslov0="Islamophobia"
+                     source="Ethnic and Racial Studies"
+                     pubPlace="London"
+                     year="0"
+                     page="892-902"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7139,34 +7121,13 @@ Landeskunde von Kärnten</pubTitle>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <issue>
-            <pubPart>
-               <author>Halliday F.</author>
-               <title>Islamophobia</title>
-               <page>892-902</page>
-               <citedIn count="1">
-                  <cit did="379"
-                       cid="7"
-                       avtor0="Halliday F."
-                       naslov0="Islamophobia"
-                       source="Ethnic and Racial Studies"
-                       pubPlace="London"
-                       year="0"
-                       page="892-902"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
    </source>
    <source>
       <pubTitle>International Migration Review</pubTitle>
-      <pubTitle>International migration review</pubTitle>
-      <pubTitle>International Migration Review, vol. 29</pubTitle>
-      <pubTitle>International Migration Review, vol. 26</pubTitle>
-      <pubTitle>International Migration Review, vol. 23</pubTitle>
-      <pubPlace>New York</pubPlace>
+      <pubPlace>Staten Island (NY)</pubPlace>
       <publisher>Center for Migration Studies</publisher>
+      <pubCobiss>25660672</pubCobiss>
+      <issn>0197-9183</issn>
       <year n="2008">
          <issue n="4">
             <pubPart>
@@ -7562,18 +7523,12 @@ Landeskunde von Kärnten</pubTitle>
    </source>
    <source>
       <pubTitle>Jadranski zbornik</pubTitle>
-      <pubTitle>Jadranski zbornik, 2.</pubTitle>
-      <pubTitle>Jadranski zbornik : prilozi za povijest Istre, Rijeke i Hrvatskog Primorja</pubTitle>
-      <pubTitle>Jadranski zbornik 5</pubTitle>
-      <pubTitle>Jadranski zbornik 10</pubTitle>
-      <pubPlace>Pula - Rijeka</pubPlace>
-      <pubPlace>Rijeka-Pula</pubPlace>
-      <pubPlace>Pula-Rijeka</pubPlace>
-      <pubPlace>Pula-rijeka</pubPlace>
-      <pubPlace>Pula, Rijeka</pubPlace>
-      <pubPlace>Rijeka - Pula</pubPlace>
-      <pubPlace>Rijeka Pula</pubPlace>
-      <pubPlace>Rijeka - Pulj</pubPlace>
+      <pubPlace>Pula</pubPlace>
+      <pubPlace>Rijeka</pubPlace>
+      <publisher>Povijesno društvo Istre</publisher>
+      <publisher>Povijesno društvo Rijeke</publisher>
+      <pubCobiss>9969666</pubCobiss>
+      <issn>0448-1216</issn>
       <year n="1985">
          <volume>12</volume>
          <issue>
@@ -8127,10 +8082,11 @@ Landeskunde von Kärnten</pubTitle>
    </source>
    <source>
       <pubTitle>Journal of Ethnic and Migration Studies</pubTitle>
-      <pubTitle>Journal of ethnic and migration studies</pubTitle>
       <pubPlace>Brighton</pubPlace>
-      <pubPlace>Torpoint</pubPlace>
-      <publisher>Torpoint</publisher>
+      <publisher>JEMS</publisher>
+      <publisher>Sussex centre for migration research, University of Sussex</publisher>
+      <pubCobiss>6388045</pubCobiss>
+      <issn>1469-9451</issn>
       <year n="2008">
          <volume>34</volume>
          <issue n="12">
@@ -8190,7 +8146,8 @@ Landeskunde von Kärnten</pubTitle>
          <issue n="4">
             <pubPart>
                <author>Čolić Peisker Val</author>
-               <title>‘At Least You’re the Right Colour’ : Identity and Social Inclusion of Bosnian Refugees in Australia</title>
+               <title>‘At Least You’re the Right Colour’</title>
+               <title>Identity and Social Inclusion of Bosnian Refugees in Australia</title>
                <page>615-638</page>
                <citedIn count="1">
                   <cit did="2861"
@@ -8509,62 +8466,11 @@ Landeskunde von Kärnten</pubTitle>
       </year>
    </source>
    <source>
-      <pubTitle>Mittheilungen des Instituts für österreichische Geschichtsforschung</pubTitle>
       <pubTitle>Mittheilungen des Instituts für Österreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mittheilungen des Instituts für oesterreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mittheilungen des Instituts für Oesterreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mittheilungen des Instituts fur osterreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Österreichischen Instituts für Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des instituts für österreichische Geschichtsforschung 99</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreischische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung : Ergänzungsband 41</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung : Ergänzungsband 4</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung 74</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung 38</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung 19</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung 111</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichtesforschung 110</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichte, Erg. Bd. 17</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für österreichische Geschichte</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichsische Geschitsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Gesichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtsforschung. Ergänzungsband 41.</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtsforschung. 26.</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtsforschung, Ergbd. 31</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtsforschung : Ergänzungsband 9</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichtforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für Österreichische Geschichte, Erganzungs-band 19</pubTitle>
-      <pubTitle>Mitteilungen des Instituts für ostereichische Geschichtforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts fiir Österreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituts fiir osterreichische Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Instituis für Österreichischen Geschichtsforschung</pubTitle>
-      <pubTitle>Mitteilungen des Insituts für österreichische Geschichtsforshung</pubTitle>
-      <pubTitle>Mitteilungen des Insituts fur österreichische Geschichtsforshung</pubTitle>
-      <pubTitle>Mitteilungen   des   Instituts   für   österreichische Geschichtsforschung</pubTitle>
-      <pubTitle>MIÖg</pubTitle>
-      <pubTitle>MIÖG. Erganzungsband</pubTitle>
-      <pubTitle>MIÖG.</pubTitle>
-      <pubTitle>MIÖG Ergänzungsband</pubTitle>
-      <pubTitle>MIÖG Ergbd. 41</pubTitle>
-      <pubTitle>MIÖG Erg. Bd.lll</pubTitle>
-      <pubTitle>MIÖG Erg. Bd. XIX</pubTitle>
-      <pubTitle>MIÖG</pubTitle>
-      <pubTitle>Ein Beitrag zur  österreichischen Rechtsgeschichte</pubTitle>
-      <pubPlace>Wien-München</pubPlace>
-      <pubPlace>Wien - München</pubPlace>
-      <pubPlace>Wien -München</pubPlace>
-      <pubPlace>Wien-Munchen</pubPlace>
       <pubPlace>Wien</pubPlace>
-      <pubPlace>Wien-Köln-Graz</pubPlace>
-      <pubPlace>Graz-Köln</pubPlace>
-      <pubPlace>Graz - Köln</pubPlace>
-      <pubPlace>Innsbruck</pubPlace>
-      <publisher>R. Oldenbourg</publisher>
       <publisher>Oldenbourg</publisher>
-      <publisher>MIÖG</publisher>
+      <pubCobiss>25964544</pubCobiss>
+      <issn>0073-8484</issn>
       <year n="2005">
          <volume>1896-1903</volume>
          <issue>
@@ -10649,17 +10555,12 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
    </source>
    <source>
       <pubTitle>Österreichische Osthefte</pubTitle>
-      <pubTitle>Österreichisches Osthefte</pubTitle>
-      <pubTitle>Österreichische Osthefte : Zeitschrift für Mittel-, Ost- und Südosteuropaforschung</pubTitle>
-      <pubTitle>Österreichische Osthefte 33</pubTitle>
-      <pubTitle>Osterreicbische Osthefte</pubTitle>
-      <pubTitle>Klio ohne Fesseln? Historiographie im östlichen Europa nach dem Zusammenbruch des Kommunismus. Österreichische Osthefte, H.</pubTitle>
-      <pubTitle>Klio ohne Fesseln? Historiographie im Östlichen Europa nach dem Zusammenbruch des Kommunismus. Österreichische Osthefte, H.</pubTitle>
-      <pubPlace>Wien</pubPlace>
+      <pubTitle>Zeitschrift für Mittel-, Ost- und Südosteuropaforschung</pubTitle>
       <pubPlace>Münster</pubPlace>
-      <pubPlace>Dunaj</pubPlace>
-      <publisher>Peter Lang-Verlagsgruppe</publisher>
+      <pubPlace>[et al.]</pubPlace>
       <publisher>Lit Verlag</publisher>
+      <pubCobiss>1769732</pubCobiss>
+      <issn>0029-9375</issn>
       <year n="2004">
          <volume>46</volume>
          <issue n="3">
@@ -11405,18 +11306,12 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       </year>
    </source>
    <source>
-      <pubTitle>Slovene Studies: Journal of the Society for Slovene Studies</pubTitle>
-      <pubTitle>Slovene studies. Journal of the society for Slovene studies</pubTitle>
-      <pubTitle>Slovene studies : journal of the Society for Slovene studies</pubTitle>
-      <pubTitle>Slovene studies</pubTitle>
-      <pubTitle>Slovene Studies. Journal of the Society for Slovene Studies</pubTitle>
-      <pubTitle>Slovene Studies : Journal of the Society for Slovene Studies</pubTitle>
       <pubTitle>Slovene Studies</pubTitle>
+      <pubAddTitle>Journal of the Society for Slovene Studies</pubAddTitle>
       <pubPlace>Bloomington</pubPlace>
-      <pubPlace>Columbus, Ohio</pubPlace>
-      <pubPlace>Bloomington, IN</pubPlace>
-      <pubPlace>Columbus, OH</pubPlace>
       <publisher>Society for Slovene studies</publisher>
+      <pubCobiss>1149700</pubCobiss>
+      <issn>0193-1075</issn>
       <year n="2009">
          <volume>31</volume>
          <issue n="1">
@@ -11953,16 +11848,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
    </source>
    <source>
       <pubTitle>Qualestoria</pubTitle>
-      <pubTitle>Qualstoria</pubTitle>
-      <pubTitle>Qualestoria: La grande Guerra nell' Isontino</pubTitle>
-      <pubTitle>Qualestoria: La Grande Guerra nell' Isontino e sul Carso</pubTitle>
-      <pubTitle>Qualestoria, 1.</pubTitle>
-      <pubTitle>Qualestoria : bollettino dell'istituto regionale per la storia del movimento di liberazione nel Friuli-Venezia Giulia</pubTitle>
+      <pubTitle>Bollettino dell'istituto regionale per la storia del movimento di liberazione nel Friuli-Venezia Giulia</pubTitle>
       <pubPlace>Trieste</pubPlace>
-      <pubPlace>Trst</pubPlace>
       <publisher>Istituto regionale per la storia del movimento di liberazione nel Friuli-Venezia Giulia</publisher>
-      <publisher>Istituto regionale per la storia del Movimento di Liberazione nel Friuli - Venezia Giulia</publisher>
-      <publisher>TriIstituto regionale per la storia del movimento di liberazione nel Friuli-Venezia Giulia</publisher>
+      <pubCobiss>2486537</pubCobiss>
+      <issn>0393-6082</issn>
       <year n="2010">
          <volume>28</volume>
          <issue n="2">
@@ -12799,11 +12689,12 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       </year>
    </source>
    <source>
-      <pubTitle>Quaderni storici</pubTitle>
       <pubTitle>Quaderni Storici</pubTitle>
-      <pubPlace>Bologna</pubPlace>
-      <pubPlace>Roma</pubPlace>
-      <publisher>Il Mulino</publisher>
+      <pubTitle>Nuova serie</pubTitle>
+      <pubPlace>Ancona</pubPlace>
+      <publisher>Istituto di storia e sociologia dell'Universita Urbinate</publisher>
+      <pubCobiss>28147968</pubCobiss>
+      <issn>0301-6307</issn>
       <year n="2005">
          <volume>1</volume>
          <issue>
@@ -13239,23 +13130,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
    </source>
    <source>
       <pubTitle>Zeitschrift des historischen Vereines für Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des historischen Vereins für Steiermark : Sonderband 2</pubTitle>
-      <pubTitle>Zeitschrift des historischen Vereins für Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des Historisches Vereines für Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des Historischen vereines für Steiermark (Festschrift : 150 Jahre Historischer Verein)</pubTitle>
-      <pubTitle>Zeitschrift des Historischen Verereines für Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des Historischen Vereinsfür Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des Historischen Vereins für Steiermark</pubTitle>
-      <pubTitle>Zeitschrift des Historischen Vereines für Steirmark</pubTitle>
-      <pubTitle>Zeitschrift des Historischen Vereines für Steiermark</pubTitle>
-      <pubTitle>ZHVSt5</pubTitle>
-      <pubTitle>ZHVSt.</pubTitle>
-      <pubTitle>ZHVSt</pubTitle>
-      <pubTitle>ZHVS</pubTitle>
       <pubPlace>Graz</pubPlace>
-      <pubPlace>Graz - Wien</pubPlace>
-      <publisher>42</publisher>
-      <publisher>23</publisher>
+      <publisher>Selbstverlag des Historischen Vereines für Steiermark</publisher>
+      <pubCobiss>5129226</pubCobiss>
+      <issn>0437-5890</issn>
       <year n="2004">
          <issue n="95">
             <pubPart>
