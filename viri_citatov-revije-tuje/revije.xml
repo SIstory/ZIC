@@ -64,11 +64,13 @@
          </issue>
       </year>
       <year n="2000">
-         <issue n="65">
+         <volume>65</volume>
+         <issue n="2">
             <pubPart>
                <author>Kalleberg Arne L.</author>
                <author>Reskin Barbara F. et al</author>
-               <title>Bad Jobs in America: Standard and Nonstandard Employment Relations and Job Quality in the United States</title>
+               <title>Bad Jobs in America</title>
+               <title>Standard and Nonstandard Employment Relations and Job Quality in the United States</title>
                <page>256-278</page>
                <citedIn count="1">
                   <cit did="2681"
@@ -126,12 +128,13 @@
          </issue>
       </year>
       <year n="1991">
-         <issue n="56">
+         <volume>56</volume>
+         <issue n="1">
             <pubPart>
                <author>Feagin Joe R.</author>
-               <title>The Continuing Significance of Race: Antiblack Discrimination in Public Places</title>
-               <page>101–106</page>
-               <page>101-106</page>
+               <title>The Continuing Significance of Race</title>
+               <title>Antiblack Discrimination in Public Places</title>
+               <page>101–116</page>
                <citedIn count="2">
                   <cit did="2860"
                        cid="14"
@@ -253,7 +256,8 @@
          </issue>
       </year>
       <year n="1976">
-         <issue n="41">
+         <volume>41</volume>
+         <issue>
             <pubPart>
                <author>Yancey William L.</author>
                <author>Ericksen Eugene P.</author>
@@ -345,6 +349,7 @@
          </issue>
       </year>
       <year n="1940">
+         <volume>5</volume>
          <issue>
             <pubPart>
                <author>Stouffer S. A.</author>
@@ -366,6 +371,7 @@
    <source>
       <pubTitle>Atti e Memorie della Società Istriana di Archeologia e Storia Patria</pubTitle>
       <pubAddTitle>AMSI</pubAddTitle>
+      <!-- Nuova serie od cca leta 1950+. od takrat drugi volume... -->
       <pubPlace>Trieste</pubPlace>
       <publisher>Tipografia-Litografia Moderna</publisher>
       <issn>0392-0321</issn>
@@ -655,7 +661,6 @@
          </issue>
       </year>
       <year n="1964">
-         <volume>62-64</volume>
          <issue>
             <pubPart>
                <author>De Franceschi C.</author>
@@ -699,11 +704,10 @@
          </issue>
       </year>
       <year n="1956">
-         <volume>56</volume>
          <issue>
             <pubPart>
                <author>Degrassi A.</author>
-               <title>L’esportazione di olio e di olive istriane nell’età romana</title>
+               <title>L'esportazione di olio e olive istriane nell'età romana</title>
                <page>104-116</page>
                <citedIn count="1">
                   <cit did="3539"
@@ -719,10 +723,11 @@
          </issue>
       </year>
       <year n="1949">
-         <issue>
+         <volume>61</volume>
+         <issue n="1">
             <pubPart>
                <author>Quarantotto G.</author>
-               <title>Sviluppi storici dell'idea nazionale e unitaria a Trieste e Istria</title>
+               <title>Sviluppi storici dell’idea nazionale e unitaria a Trieste e in Istria</title>
                <page>115-144</page>
                <citedIn count="1">
                   <cit did="726"
@@ -737,13 +742,13 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1940">
+      <year n="1939-1940">
          <volume>51-52</volume>
          <issue>
             <pubPart>
                <author>De Totto G.</author>
-               <title>Feudi e feudatari nell'Istria veneta</title>
-               <citedIn count="1">
+               <title>Feudi e feudatari nell’Istria veneta</title>
+               <citedIn count="2">
                   <cit did="2873"
                        cid="186"
                        avtor0="De Totto G."
@@ -751,29 +756,18 @@
                        source="AMSI"
                        year="1940"
                        volume="51-52"/>
+                  <cit did="2595"
+                     cid="30"
+                     avtor0="De Totto G."
+                     naslov0="Feudi e feudacari dell' Istria veneta"
+                     source="AMSI"
+                     year="1939"
+                     volume="41-42"
+                     page="58-107"/>
                </citedIn>
             </pubPart>
          </issue>
-      </year>
-      <year n="1939">
-         <volume>41-42</volume>
-         <volume>49</volume>
          <issue>
-            <pubPart>
-               <author>De Totto G.</author>
-               <title>Feudi e feudacari dell' Istria veneta</title>
-               <page>58-107</page>
-               <citedIn count="1">
-                  <cit did="2595"
-                       cid="30"
-                       avtor0="De Totto G."
-                       naslov0="Feudi e feudacari dell' Istria veneta"
-                       source="AMSI"
-                       year="1939"
-                       volume="41-42"
-                       page="58-107"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>De Totto G.</author>
                <title>Il patriziato di Capodistria</title>
@@ -802,7 +796,7 @@
                        volume="49"/>
                </citedIn>
             </pubPart>
-         </issue>
+         </issue>   
       </year>
       <year n="1938">
          <volume>50</volume>
@@ -964,24 +958,31 @@
             </pubPart>
             <pubPart>
                <author>De Vergottini G.</author>
-               <title>La costituzione provinciale dell'Istria nel tardo Medio Evo</title>
+               <title>La costituzione provinciale dell'Istria nel tardo Medioevo</title>
+               <title>[parte seconda]</title>
                <page>9-60</page>
-               <citedIn count="1">
+               <citedIn count="2">
+                  <cit did="1762"
+                     cid="41"
+                     avtor0="De Vergottini G."
+                     naslov0="La costituzione provinciale dell'Istria nel tardo Medio Evo"
+                     source="AMSI"
+                     year="1926"
+                     volume="38-39"/>
                   <cit did="2594"
-                       cid="6"
-                       avtor0="De Vergottini G."
-                       naslov0="La costituzione provinciale dell'Istria nel tardo Medio Evo"
-                       source="AMSI"
-                       year="1927"
-                       volume="38"
-                       page="9-60"/>
+                        cid="6"
+                        avtor0="De Vergottini G."
+                        naslov0="La costituzione provinciale dell'Istria nel tardo Medio Evo"
+                        source="AMSI"
+                        year="1927"
+                        volume="38"
+                        page="9-60"/>
                </citedIn>
             </pubPart>
          </issue>
       </year>
       <year n="1926">
          <volume>38</volume>
-         <volume>38-39</volume>
          <issue>
             <pubPart>
                <author>De Franceschi Cam.</author>
@@ -1005,38 +1006,22 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>De Vergottini G.</author>
-               <title>La costituzione provinciale dell'Istria nel tardo Medio Evo</title>
-               <citedIn count="1">
-                  <cit did="1762"
-                       cid="41"
-                       avtor0="De Vergottini G."
-                       naslov0="La costituzione provinciale dell'Istria nel tardo Medio Evo"
-                       source="AMSI"
-                       year="1926"
-                       volume="38-39"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1925">
-         <volume>38</volume>
-         <issue>
-            <pubPart>
                <author>De Vergottini Giovanni</author>
-               <title>La costituzione provinciale dell'Istria nei I Medio Evo</title>
+               <title>La costituzione provinciale dell'Istria nel tardo Medioevo</title>
+               <title>[parte prima]</title>
                <page>81-127</page>
                <citedIn count="1">
                   <cit did="2873"
-                       cid="97"
-                       avtor0="De Vergottini Giovanni"
-                       naslov0="La costituzione provinciale dell'Istria nei I Medio Evo"
-                       source="AMSI"
-                       year="1925"
-                       volume="38"
-                       page="81-127"/>
+                     cid="97"
+                     avtor0="De Vergottini Giovanni"
+                     naslov0="La costituzione provinciale dell'Istria nei I Medio Evo"
+                     source="AMSI"
+                     year="1925"
+                     volume="38"
+                     page="81-127"/>
                </citedIn>
             </pubPart>
+            
          </issue>
       </year>
       <year n="1924">
@@ -1113,13 +1098,15 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1912">
-         <volume>28-30</volume>
-         <volume>28</volume>
+      <year n="1913-1914">
+         <volume>29-30</volume>
          <issue>
             <pubPart>
                <author>Babudri F.</author>
                <title>Le antiche chiese di Parenzo</title>
+               <title>I., II.</title>
+               <page>83-207</page>
+               <page>157-196</page>
                <citedIn count="2">
                   <cit did="2873"
                        cid="150"
@@ -1352,6 +1339,7 @@
          </issue>
       </year>
       <year n="1897">
+         <volume>13</volume>
          <issue>
             <pubPart>
                <author>Benussi B.</author>
@@ -1898,7 +1886,7 @@ alla fine del quattrocento</title>
          <issue>
             <pubPart>
                <author>De Franceschi C.</author>
-               <title>Cib che resta e si sa di Due  Castelli, la citta morta   dell'lstria</title>
+               <title>Cib che resta e si sa di Due Castelli, la citta morta dell'lstria</title>
                <page>321-335</page>
                <citedIn count="1">
                   <cit did="1998"
@@ -1934,6 +1922,8 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1947">
+         <volume>60
+         </volume>
          <issue>
             <pubPart>
                <author>Tassini A.</author>
@@ -1953,6 +1943,7 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1946">
+         <volume>59</volume>
          <issue>
             <pubPart>
                <author>Berlam A.</author>
@@ -1986,12 +1977,12 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1945">
-         <volume>VIII-IX</volume>
+         <volume>58</volume>
          <issue>
             <pubPart>
                <author>Tassini Liliana</author>
                <title>Il governo francese a Trieste (1797-1813)</title>
-               <page>463</page>
+               <page>190-222</page>
                <citedIn count="1">
                   <cit did="3315"
                        cid="2"
@@ -2058,6 +2049,7 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1936">
+         <volume>49</volume>
          <issue>
             <pubPart>
                <author>Cusin F.</author>
@@ -2113,19 +2105,14 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1932">
-         <volume>3</volume>
          <volume>17</volume>
          <volume>45</volume>
-         <issue n="17">
+         <issue n="3">
             <pubPart>
                <author>Udina R.</author>
-               <title>II Placito del Risano : istituzioni giuridiche e sociali dell'Istria durante il dominio bizantino</title>
-               <title>II Placito del Risano. Istituzioni giuridiche e sociali dell'Istria durante il dominio bizantino</title>
-               <title>Il Placito del Risano</title>
                <title>II Placito del Risano</title>
-               <title>II Placito del Risano, Archeografo Triestino</title>
+               <title>Istituzioni giuridiche e sociali dell'Istria durante il dominio bizantino</title>
                <page>1-84</page>
-               <page>61-82</page>
                <citedIn count="6">
                   <cit did="759"
                        cid="54"
@@ -2204,9 +2191,8 @@ alla fine del quattrocento</title>
          </issue>
       </year>
       <year n="1929">
-         <volume>3</volume>
          <volume>15</volume>
-         <issue n="15">
+         <issue n="3">
             <pubPart>
                <author>Degrassi A.</author>
                <title>Ricerche sui limiti della Giapidia</title>
@@ -2227,7 +2213,8 @@ alla fine del quattrocento</title>
          <issue>
             <pubPart>
                <author>Morpurgo Giulio</author>
-               <title>Documenti del 1848 : il proclama di Graziadio Ascoli</title>
+               <title>Documenti del 1848</title>
+               <title>il proclama di Graziadio Ascoli</title>
                <page>421-437</page>
                <citedIn count="1">
                   <cit did="1317"
@@ -2394,13 +2381,31 @@ alla fine del quattrocento</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1892"> 
+         <issue>
+            <pubPart>
+               <author>Caprin Guiseppe</author>
+               <title>Documenti per la storia di Grado</title>
+               <page>325-362</page>
+               <citedIn count="1">
+                  <cit did="747"
+                     cid="6"
+                     avtor0="Caprin Guiseppe"
+                     naslov0="Documenti per la storia di Grado"
+                     source="Archeografo Triestino"
+                     year="0"
+                     page="325-362"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1887">
          <volume>13</volume>
          <issue>
             <pubPart>
                <author>Joppi V.</author>
                <title>Documenti goriziani del secolo XIV</title>
-               <page>78-79</page>
+               <page>49-99</page>
                <citedIn count="1">
                   <cit did="3075"
                        cid="18"
@@ -2410,6 +2415,41 @@ alla fine del quattrocento</title>
                        year="1887"
                        volume="13"
                        page="78-79"/>
+               </citedIn>
+            </pubPart>
+         
+         <pubPart>
+            <author>Joppi V.</author>
+            <title>Documento inedito</title>
+            <page>459</page>
+            <citedIn count="1">
+               <cit did="1998"
+                  cid="9"
+                  avtor0="Joppi V."
+                  naslov0="Documento inedito"
+                  source="Archeografo triestino"
+                  year="0"
+                  volume="17"
+                  page="459"/>
+            </citedIn>
+         </pubPart>
+         </issue>
+      </year>
+      <year n="1883">
+         <volume>9</volume>
+         <issue>
+            <pubPart>
+               <author>Joppi Vincenzo</author>
+               <title>Antonio Burlo ed i Turchi in Friuli</title>
+               <page>300-308</page>
+               <citedIn count="1">
+                  <cit did="2414"
+                     cid="31"
+                     avtor0="Joppi Vincenzo"
+                     naslov0="Antonio Burlo ed i Turchi in Friuli (1500)"
+                     source="Archeografo Trieslino. nuova serie, vol. IX."
+                     year="0"
+                     page="300-308"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2431,159 +2471,135 @@ alla fine del quattrocento</title>
                        page="399-443"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>2</volume>
-         <volume>3</volume>
-         <volume>17</volume>
-         <volume>8</volume>
-         <issue>
-            <pubPart>
-               <author>Buttazzoni Carlo</author>
-               <title>Incursioni turchesche nel secolo XV.</title>
-               <page>393-398</page>
-               <citedIn count="1">
-                  <cit did="2543"
-                       cid="7"
-                       avtor0="Buttazzoni Carlo"
-                       naslov0="Incursioni turchesche nel secolo XV."
-                       source="Archeografo Triestino"
-                       year="0"
-                       volume="2"
-                       page="393-398"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Caprin Guiseppe</author>
-               <title>Documenti per la storia di Grado</title>
-               <page>325-362</page>
-               <citedIn count="1">
-                  <cit did="747"
-                       cid="6"
-                       avtor0="Caprin Guiseppe"
-                       naslov0="Documenti per la storia di Grado"
-                       source="Archeografo Triestino"
-                       year="0"
-                       page="325-362"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dellagiacoma S.</author>
-               <title>Fortunato da Trieste, Patriarca di Grado (803-825) : frammento della Storia dei Carolingi in Italia</title>
-               <page>317-397</page>
-               <citedIn count="1">
-                  <cit did="747"
-                       cid="11"
-                       avtor0="Dellagiacoma S."
-                       naslov0="Fortunato da Trieste, Patriarca di Grado (803-825) : frammento della Storia dei Carolingi in Italia"
-                       source="Archeografo Triestino"
-                       year="0"
-                       volume="3"
-                       page="317-397"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Fontana C. d'O.</author>
-               <title>lllustrazione di una serie di monete dei vescovi di Trieste</title>
-               <page>303-327</page>
-               <citedIn count="1">
-                  <cit did="1940"
-                       cid="9"
-                       avtor0="Fontana C. d'O."
-                       naslov0="lllustrazione di una serie di monete dei vescovi di Trieste"
-                       source="Archeografo Triestino,"
-                       pubPlace="Trieste"
-                       year="0"
-                       volume="3"
-                       page="303-327"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Joppi V.</author>
-               <title>Documento inedito</title>
-               <page>459</page>
-               <citedIn count="1">
-                  <cit did="1998"
-                       cid="9"
-                       avtor0="Joppi V."
-                       naslov0="Documento inedito"
-                       source="Archeografo triestino"
-                       year="0"
-                       volume="17"
-                       page="459"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Joppi Vincenzo</author>
-               <title>Antonio Burlo ed i Turchi in Friuli (1500)</title>
-               <page>300-308</page>
-               <citedIn count="1">
-                  <cit did="2414"
-                       cid="31"
-                       avtor0="Joppi Vincenzo"
-                       naslov0="Antonio Burlo ed i Turchi in Friuli (1500)"
-                       source="Archeografo Trieslino. nuova serie, vol. IX."
-                       year="0"
-                       page="300-308"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kandler P.</author>
-               <title>Di Aquileia romana</title>
-               <page>93-140</page>
-               <citedIn count="1">
-                  <cit did="1976"
-                       cid="67"
-                       avtor0="Kandler P."
-                       naslov0="Di Aquileia romana"
-                       source="Archeogr Triest"
-                       pubPlace="Trieste"
-                       year="0"
-                       page="93-140"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Manzano Francesco di</author>
-               <title>Breve prospetto reparaiorio ad una storia dei casrelli Friulani</title>
+               <title>Breve prospetto preparatorio ad una storia dei castelli friulani</title>
                <page>115-143</page>
                <citedIn count="1">
                   <cit did="2623"
-                       cid="141"
-                       avtor0="Manzano Francesco di"
-                       naslov0="Breve prospetto reparaiorio ad una storia dei casrelli Friulani"
-                       source="Archeografo Triestino, N. S."
-                       year="0"
-                       volume="8"
-                       page="115-143"/>
+                     cid="141"
+                     avtor0="Manzano Francesco di"
+                     naslov0="Breve prospetto reparaiorio ad una storia dei casrelli Friulani"
+                     source="Archeografo Triestino, N. S."
+                     year="0"
+                     volume="8"
+                     page="115-143"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1879-1880">
+         <issue>
             <pubPart>
                <author>Petronio F.</author>
                <title>Cenni cronologici sul capitolo di Capodistria</title>
                <page>211-238</page>
                <citedIn count="1">
                   <cit did="1921"
-                       cid="15"
-                       avtor0="Petronio F."
-                       naslov0="Cenni cronologici sul capitolo di Capodistria"
-                       source="Archeografo  Triestino"
-                       pubPlace="Trieste"
-                       year="0"
-                       page="211-238"/>
+                     cid="15"
+                     avtor0="Petronio F."
+                     naslov0="Cenni cronologici sul capitolo di Capodistria"
+                     source="Archeografo  Triestino"
+                     pubPlace="Trieste"
+                     year="0"
+                     page="211-238"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1876">
+         <issue>
+            <pubPart>
+               <author>Dellagiacoma S.</author>
+               <title>Fortunato da Trieste, Patriarca di Grado</title>
+               <title>(803-825)</title>
+               <title>frammento della Storia dei Carolingi in Italia</title>
+               <page>317-397</page>
+               <citedIn count="1">
+                  <cit did="747"
+                     cid="11"
+                     avtor0="Dellagiacoma S."
+                     naslov0="Fortunato da Trieste, Patriarca di Grado (803-825) : frammento della Storia dei Carolingi in Italia"
+                     source="Archeografo Triestino"
+                     year="0"
+                     volume="3"
+                     page="317-397"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1870-1871">
+         <volume>2</volume>
+         <issue n="2">
+            <pubPart>
+                  <author>Buttazzoni Carlo</author>
+                  <title>Incursioni turchesche nel secolo XV</title>
+                  <page>393-402</page>
+                  <citedIn count="1">
+                     <cit did="2543"
+                        cid="7"
+                        avtor0="Buttazzoni Carlo"
+                        naslov0="Incursioni turchesche nel secolo XV."
+                        source="Archeografo Triestino"
+                        year="0"
+                        volume="2"
+                        page="393-398"/>
+                  </citedIn>
+               </pubPart>
+         </issue>
+      </year>
+      <year n="1869-1870">
+         <volume>1</volume>
+         <volume>5</volume>
+         <issue>
+            <pubPart>
+               <author>Kandler P.</author>
+               <title>Di Aquileia romana</title>
+               <page>93-140</page>
+               <citedIn count="1">
+                  <cit did="1976"
+                     cid="67"
+                     avtor0="Kandler P."
+                     naslov0="Di Aquileia romana"
+                     source="Archeogr Triest"
+                     pubPlace="Trieste"
+                     year="0"
+                     page="93-140"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1831">
+         <volume>3</volume>
+         <issue>
+            <pubPart>
+               <author>Fontana C. d'O.</author>
+               <title>lllustrazione di una serie di monete dei vescovi di Trieste</title>
+               <page>303-338</page>
+               <citedIn count="1">
+                  <cit did="1940"
+                     cid="9"
+                     avtor0="Fontana C. d'O."
+                     naslov0="lllustrazione di una serie di monete dei vescovi di Trieste"
+                     source="Archeografo Triestino,"
+                     pubPlace="Trieste"
+                     year="0"
+                     volume="3"
+                     page="303-327"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Rossetti D.</author>
                <title>Storia e statuti delle antiche selve triestine</title>
+               <page>1-148</page>                  
                <citedIn count="1">
                   <cit did="86"
-                       cid="83"
-                       avtor0="Rossetti D."
-                       naslov0="Storia e statuti delle antiche selve triestine"
-                       source="Archeografo Triestino"
-                       year="0"
-                       volume="3"/>
+                     cid="83"
+                     avtor0="Rossetti D."
+                     naslov0="Storia e statuti delle antiche selve triestine"
+                     source="Archeografo Triestino"
+                     year="0"
+                     volume="3"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2777,6 +2793,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
          </issue>
       </year>
       <year n="1996">
+         <volume>26</volume>
          <issue>
             <pubPart>
                <author>Grandner Margarete</author>
@@ -2815,7 +2832,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
          </issue>
       </year>
       <year n="1992">
-         <volume>XXII</volume>
+         <volume>23</volume>
          <issue>
             <pubPart>
                <author>Stourzh Gerald</author>
@@ -12480,7 +12497,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1983">
-         <volume>XI</volume>
+         <volume>11</volume>
          <issue n="1">
             <pubPart>
                <author>Chersovani Licia</author>
@@ -12695,11 +12712,12 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <pubCobiss>28147968</pubCobiss>
       <issn>0301-6307</issn>
       <year n="2005">
-         <volume>1</volume>
-         <issue>
+         <volume>40</volume>
+         <issue n="1">
             <pubPart>
                <author>Stopani A.</author>
-               <title>La memoria dei confini. Giurisdizione e diritti comunitari in Toscana (XVI-XVIII secolo)</title>
+               <title>La memoria dei confini</title>
+               <title>Giurisdizione e diritti comunitari in Toscana (XVI-XVIII secolo)</title>
                <page>73-96</page>
                <citedIn count="1">
                   <cit did="2344"
@@ -13085,7 +13103,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1971">
-         <volume>17</volume>
+         <volume>6</volume>
          <issue>
             <pubPart>
                <author>Levi G.</author>
@@ -13626,7 +13644,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1973">
-         <volume>1973</volume>
          <volume>64</volume>
          <issue>
             <pubPart>
@@ -13701,7 +13718,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1971">
-         <volume>1971</volume>
          <volume>62</volume>
          <issue>
             <pubPart>
@@ -13952,6 +13968,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1959">
+         <volume>50</volume>
          <issue>
             <pubPart>
                <author>Tremel Ferdinand</author>
@@ -14023,7 +14040,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1955">
-         <issue n="46">
+         <volume>46</volume>
+         <issue>
             <pubPart>
                <author>Lamprecht Otto</author>
                <title>Der älteste Besitz des Stiftes St. Paul im steirischen Draulande</title>
@@ -14222,6 +14240,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1949">
+         <volume>40</volume>
          <issue>
             <pubPart>
                <author>Federhofer Hellmut</author>
@@ -14241,7 +14260,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1936">
-         <issue n="30">
+         <volume>30</volume>
+         <issue>
             <pubPart>
                <author>Baravalle Robert</author>
                <title>Zur Geschichte der steirischen Maße</title>
