@@ -1505,7 +1505,7 @@
             </pubPart>
             <pubPart>
                <author>Šumi Irena</author>
-               <title>„Mislili smo, da je kaj takšnega možno samo na Marsu”</title>
+               <title>"Mislili smo, da je kaj takšnega možno samo na Marsu"</title>
                <title>kratka etnografija slovenstva skozi identifikacije evakuirancev Vlade Republike Slovenije in medvojne BiH</title>
                <page>239-262</page>
                <cobiss>8175693</cobiss>
@@ -11277,7 +11277,7 @@
          <issue n="17">
             <pubPart>
                <author>Mlekuž Jernej</author>
-               <title>»Mali« prispevek k vprašanjem »povratništva«</title>
+               <title>"Mali" prispevek k vprašanjem "povratništva"</title>
                <title>Življenjske pripovedi migrantov povratnikov iz Beneške Slovenije</title>
                <title>potovanje brez vrnitve?'</title>
                <page>67-94</page>
@@ -13696,8 +13696,6 @@
       </year>
       <year n="1929">
          <volume>5/6</volume>
-         <volume>V-VI</volume>
-         <volume>5-6</volume>
          <issue>
             <pubPart>
                <author>Ilešič Svetozar</author>
@@ -13713,13 +13711,16 @@
                <author>Kos Milko</author>
                <title>Stari trg in sorodna krajevna imena</title>
                <page>166-173</page>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="2639" cid="177" avtor0="Kos Milko"
                      naslov0="Stari trg in sorodna krajevna imena" source="Geografski vestnik"
                      year="1929" volume="V-VI" page="166-173"/>
                   <cit did="2233" cid="25" avtor0="Kos Milko"
                      naslov0="Stari trg in sorodna krajevna imena" source="Geografski vestnik V-VI"
                      year="1929" page="166-173"/>
+                  <cit did="3432" cid="6" avtor0="Kos Milko"
+                     naslov0="Stari trg in sorodna krajevna imena" source="Geografski zbornik"
+                     year="1930" volume="VI" page="160-173"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -14056,21 +14057,6 @@
                   <cit did="2056" cid="69" avtor0="Vrišer Igor"
                      naslov0="Goriška brda - gospodarska geografija" source="Geografski zbornik"
                      year="1954" volume="2" page="51-113"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1930">
-         <volume>VI</volume>
-         <issue>
-            <pubPart>
-               <author>Kos Milko</author>
-               <title>Stari trg in sorodna krajevna imena</title>
-               <page>160-173</page>
-               <citedIn count="1">
-                  <cit did="3432" cid="6" avtor0="Kos Milko"
-                     naslov0="Stari trg in sorodna krajevna imena" source="Geografski zbornik"
-                     year="1930" volume="VI" page="160-173"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -16245,7 +16231,7 @@
          <issue n="1">
             <pubPart>
                <author>Novak Popov Irena</author>
-               <title>»Pozabljena« slovenska pričevanja iz vélike vojne</title>
+               <title>"Pozabljena" slovenska pričevanja iz vélike vojne</title>
                <page>9-24</page>
                <cobiss>29093986</cobiss>
                <citedIn count="1">
@@ -17670,7 +17656,7 @@
             </pubPart>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>[Srednjeveški obračuni freisinške škofije]</title>
+               <title>Srednjeveški obračuni freisinške škofije</title>
                <title>Del 3, Obračuni gospostva Škofja Loka 1437-1439</title>
                <page>353-380</page>
                <cobiss>30033453</cobiss>
@@ -17688,26 +17674,18 @@
          <issue>
             <pubPart>
                <author>Bizjak Matjaž</author>
-               <title>Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400</title>
-               <page>317-368</page>
-               <cobiss>27445037</cobiss>
-               <citedIn count="1">
-                  <cit did="2034" cid="1" avtor0="Bizjak Matjaž"
-                     naslov0="Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400"
-                     source="Loški razgledi" year="2006" volume="53" page="317-368"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Bizjak Matjaž</author>
                <title>Srednjeveški obračuni freisinške škofije</title>
                <title>Del 2, Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400</title>
                <page>315-368</page>
                <cobiss>27445037</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3408" cid="3" avtor0="Bizjak Matjaž"
                      naslov0="Srednjeveški obračuni freisinške škofije. Del 2, Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400"
                      cobiss="27445037" source="Loški razgledi" year="2006" volume="53"
                      page="315-368"/>
+                  <cit did="2034" cid="1" avtor0="Bizjak Matjaž"
+                     naslov0="Obračuni gospostev Škofja Loka 1399-1401 in Klevevž 1395-1400"
+                     source="Loški razgledi" year="2006" volume="53" page="317-368"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -18356,13 +18334,16 @@
                <author>Blaznik Pavle</author>
                <title>Stare prometne povezave med Škofjo Loko in Freisingom</title>
                <page>49-55</page>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="2640" cid="11" avtor0="Blaznik Pavle"
                      naslov0="Stare prometne povezave med Škofjo Loko in Freisingom"
                      source="Loški razgledi" year="1968" volume="15" page="49-55"/>
                   <cit did="2583" cid="68" avtor0="Blaznik Pavle"
                      naslov0="Stare prometne povezave med Škofjo Loko in Freisingom"
                      source="Loški razgledi" year="1968" volume="15" page="49-55"/>
+                  <cit did="2640" cid="9" avtor0="Blaznik Pavle"
+                     naslov0="Stare prometne povezave med Škofjo Loko in Freisingom"
+                     source="Loški razgledi" year="1966" volume="13" page="37-43"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -18379,7 +18360,7 @@
       </year>
       <year n="1966">
          <volume>13</volume>
-         <issue n="13">
+         <issue>
             <pubPart>
                <author>Tancik Ferdinand</author>
                <author>Tancik F.</author>
@@ -18397,9 +18378,7 @@
                      source="Loški razgledi" year="1966" volume="13" page="44-66"/>
                </citedIn>
             </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga?? cobiss 2449410 ISBN 86-377-0092-6 (zv. 1) ISBN 86-377-0321-6 (zv. 2) ISBN 86-377-0434-4 (zv. 3) -->
                <author>Blaznik Pavle</author>
                <title>Historična topografija slovenske Štajerske in jugoslovanskega dela Koroške do leta 1500</title>
                <title>I., II.</title>
@@ -18414,24 +18393,14 @@
             <pubPart>
                <author>Blaznik Pavle</author>
                <title>Prometne zveze preko Poljanske doline v freisinški dobi</title>
-               <page>33-43</page>
+               <page>37-43</page>
                <citedIn count="1">
                   <cit did="2614" cid="139" avtor0="Blaznik Pavle"
                      naslov0="Prometne zveze preko Poljanske doline v freisinški dobi"
                      source="Loški razgledi" year="1966" volume="13" page="33-43"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Blaznik Pavle</author>
-               <title>Stare prometne povezave med Škofjo Loko in Freisingom</title>
-               <page>37-43</page>
-               <citedIn count="1">
-                  <cit did="2640" cid="9" avtor0="Blaznik Pavle"
-                     naslov0="Stare prometne povezave med Škofjo Loko in Freisingom"
-                     source="Loški razgledi" year="1966" volume="13" page="37-43"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+        </issue>
       </year>
       <year n="1964">
          <volume>11</volume>
@@ -21801,7 +21770,7 @@
          <issue>
             <pubPart>
                <author>Kermavner Dušan</author>
-               <title>pisma</title>
+               <title>Pisma</title>
                <page>1752-1755</page>
                <citedIn count="1">
                   <cit did="569" cid="32" avtor0="Kermavner Dušan" naslov0="pisma"
@@ -21810,7 +21779,7 @@
             </pubPart>
             <pubPart>
                <author>Ude Lojze</author>
-               <title>pisma</title>
+               <title>Pisma</title>
                <page>1752-1755</page>
                <citedIn count="1">
                   <cit did="569" cid="33" avtor0="Ude Lojze" naslov0="pisma" source="Nova revija"
