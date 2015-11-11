@@ -366,13 +366,7 @@
    <source>
       <pubTitle>Atti e Memorie della Società Istriana di Archeologia e Storia Patria</pubTitle>
       <pubAddTitle>AMSI</pubAddTitle>
-      <pubPlace>Trst</pubPlace>
-      <pubPlace>Venezia</pubPlace>
-      <pubPlace>Poreč</pubPlace>
-      <pubPlace>Pola</pubPlace>
-      <pubPlace>Parenzo</pubPlace>
-      <pubPlace>Milano</pubPlace>
-      <publisher>Societa istriana di archeologia e storia patria. Tipografia Gaetano Coana</publisher>
+      <pubPlace>Trieste</pubPlace>
       <publisher>Tipografia-Litografia Moderna</publisher>
       <issn>0392-0321</issn>
       <pubCobiss>29767168</pubCobiss>
@@ -1327,6 +1321,53 @@
             </pubPart>
          </issue>
       </year>
+      <year n="1898">
+         <volume>14</volume>
+         <issue n="1-2">
+            <pubPart>
+               <author>De Franceschi Camillo</author>
+               <author>De Franceschi Cam.</author>
+               <title>I castelli della Val d' Arsa</title>
+               <title>Ricerche storiche</title>
+               <page>135-198</page>
+               <citedIn count="2">
+                  <cit did="2594"
+                     cid="9"
+                     avtor0="De Franceschi Camillo"
+                     naslov0="I castelli della Val d' Arsa. Ricerche storiche"
+                     source="AMSl"
+                     year="0"
+                     volume="14"
+                     issue="15"/>
+                  <cit did="2873"
+                     cid="90"
+                     avtor0="De Franceschi Cam."
+                     naslov0="I Castelli della Val d'Arsa"
+                     source="AMSI"
+                     year="0"
+                     volume="14-15"
+                     page="135-198"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1897">
+         <issue>
+            <pubPart>
+               <author>Benussi B.</author>
+               <title>Nel Medio Evo</title>
+               <citedIn count="1">
+                  <cit did="2873"
+                     cid="72"
+                     avtor0="Benussi B."
+                     naslov0="Nel Medio Evo"
+                     source="AMSI"
+                     year="0"
+                     volume="9"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1893">
          <volume>9</volume>
          <issue>
@@ -1343,6 +1384,127 @@
                        year="1893"
                        volume="9"
                        page="151-283"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1892">
+         <volume>8</volume>
+         <issue n="1-2">
+            <pubPart>
+               <author>Minotto A. S.</author>
+               <title>Documenta</title>
+               <title>ad Forumjulii, Istriam, Goritiam, Tergestum spectantia</title>
+               <page>3-47</page>
+               <citedIn count="1">
+                  <cit did="750"
+                     cid="8"
+                     avtor0="Minotto A. S."
+                     naslov0="Documenta ad Forumjulii, Istriam, Goritiam, Tergestum spectantia"
+                     source="AMSI"
+                     pubPlace="Parenzo"
+                     year="0"
+                     volume="8"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue n="3-4">
+            <pubPart>
+               <author>Schiavuzzi Bernardo</author>
+               <author>Schiavuzzi B.</author>
+               <title>Le istituzioni sanitarie Istriane nei tempi passati</title>
+               <page>315-407</page>
+               <citedIn count="3">
+                  <cit did="2504"
+                     cid="12"
+                     avtor0="Schiavuzzi Bernardo"
+                     naslov0="Le istituzioni sanitarie Istriane nel tempi passati"
+                     source="AMSl (Atti e memorie della Societd istriana di archeologia e storia patria): vol. VIII"
+                     pubPlace="Parenzo"
+                     publisher="Societa istriana di archeologia e storia patria. Tipografia Gaetano Coana"
+                     year="0"
+                     issue="3-4"
+                     page="315-407"/>
+                  <cit did="1977"
+                     cid="21"
+                     avtor0="Schiavuzzi B."
+                     naslov0="Le istituzioni sanitarie Istriane nei tempi passati"
+                     source="AMSI, vol. VIM"
+                     year="0"
+                     page="315-407"/>
+                  <cit did="2873"
+                     cid="213"
+                     avtor0="Schiavuzzi B."
+                     naslov0="Le istituzioni sanitarie istriane nei tempi passati"
+                     source="AMSI"
+                     year="0"
+                     volume="8"
+                     page="315-407"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+               <author>Benussi B.</author>
+               <author>Benussi Bernardo</author>
+               <title>Il privilegio eufrasiano</title>
+               <title>Privilegio Eufrasiano</title>
+               <title>atti e memorie della Societa Istriana di archeologia e storia patria 8</title>
+               <page>49-86</page>
+               <citedIn count="4">
+                  <cit did="2873"
+                     cid="71"
+                     avtor0="Benussi B."
+                     naslov0="II privilegio eufrasiano"
+                     source="AMSI"
+                     year="0"
+                     volume="8"
+                     page="49-86"/>
+                  <cit did="2593"
+                     cid="3"
+                     avtor0="Benussi B."
+                     naslov0="Il privilegio eufrasiano"
+                     source="AMSI"
+                     year="0"
+                     volume="8"
+                     page="49-86"/>
+                  <cit did="750"
+                     cid="1"
+                     avtor0="Benussi Bernardo"
+                     naslov0="Privilegio Eufrasiano"
+                     source="AMSI"
+                     pubPlace="Parenzo"
+                     year="0"
+                     page="49-86"/>
+                  <cit did="1624"
+                     cid="10"
+                     avtor0="Benussi B."
+                     naslov0="Privilegio Eufrasiano: atti e memorie della Societa Istriana di archeologia e storia patria 8"
+                     source=""
+                     pubPlace="Parenzo"
+                     year="0"
+                     page="49-86"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1889">
+         <volume>5</volume>
+         <issue n="1-2">
+            <pubPart>
+               <author>Schiavuzzi B.</author>
+               <title>La malaria in Istria</title>
+               <title>Ricerche sulle cause che l'hanno prodotta e che la mantengono</title>
+               <page>319-472</page>
+               <citedIn count="1">
+                  <cit did="2873"
+                     cid="212"
+                     avtor0="Schiavuzzi B."
+                     naslov0="La malaria in Istria. Ricerche sulle cause che l'hanno prodotta e che la mantengono"
+                     source="AMSI"
+                     year="0"
+                     volume="5"
+                     page="319-412"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -1388,182 +1550,29 @@
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>8</volume>
-         <volume>14</volume>
-         <volume>14-15</volume>
-         <volume>3</volume>
-         <volume>9</volume>
-         <volume>5</volume>
+      <year n="1886">
+         <volume>2</volume>
          <issue n="3-4">
-            <pubPart>
-               <author>Schiavuzzi Bernardo</author>
-               <author>Schiavuzzi B.</author>
-               <title>Le istituzioni sanitarie Istriane nel tempi passati</title>
-               <title>Le istituzioni sanitarie Istriane nei tempi passati</title>
-               <title>Le istituzioni sanitarie istriane nei tempi passati</title>
-               <page>315-407</page>
-               <citedIn count="3">
-                  <cit did="2504"
-                       cid="12"
-                       avtor0="Schiavuzzi Bernardo"
-                       naslov0="Le istituzioni sanitarie Istriane nel tempi passati"
-                       source="AMSl (Atti e memorie della Societd istriana di archeologia e storia patria): vol. VIII"
-                       pubPlace="Parenzo"
-                       publisher="Societa istriana di archeologia e storia patria. Tipografia Gaetano Coana"
-                       year="0"
-                       issue="3-4"
-                       page="315-407"/>
-                  <cit did="1977"
-                       cid="21"
-                       avtor0="Schiavuzzi B."
-                       naslov0="Le istituzioni sanitarie Istriane nei tempi passati"
-                       source="AMSI, vol. VIM"
-                       year="0"
-                       page="315-407"/>
-                  <cit did="2873"
-                       cid="213"
-                       avtor0="Schiavuzzi B."
-                       naslov0="Le istituzioni sanitarie istriane nei tempi passati"
-                       source="AMSI"
-                       year="0"
-                       volume="8"
-                       page="315-407"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="15">
-            <pubPart>
-               <author>De Franceschi Camillo</author>
-               <author>De Franceschi Cam.</author>
-               <title>I castelli della Val d' Arsa. Ricerche storiche</title>
-               <title>I Castelli della Val d'Arsa</title>
-               <page>135-198</page>
-               <citedIn count="2">
-                  <cit did="2594"
-                       cid="9"
-                       avtor0="De Franceschi Camillo"
-                       naslov0="I castelli della Val d' Arsa. Ricerche storiche"
-                       source="AMSl"
-                       year="0"
-                       volume="14"
-                       issue="15"/>
-                  <cit did="2873"
-                       cid="90"
-                       avtor0="De Franceschi Cam."
-                       naslov0="I Castelli della Val d'Arsa"
-                       source="AMSI"
-                       year="0"
-                       volume="14-15"
-                       page="135-198"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="111">
             <pubPart>
                <author>Negri G.</author>
                <title>Memorie storiche della Cittä e Diocesi di Parenzo</title>
-               <page>147-155</page>
+               <page>127-181</page>
                <citedIn count="1">
                   <cit did="755"
-                       cid="28"
-                       avtor0="Negri G."
-                       naslov0="Memorie storiche della Cittä e Diocesi di Parenzo"
-                       source="AMSI"
-                       pubPlace="Parenzo"
-                       year="0"
-                       volume="3"
-                       issue="111"
-                       page="147-155"/>
+                     cid="28"
+                     avtor0="Negri G."
+                     naslov0="Memorie storiche della Cittä e Diocesi di Parenzo"
+                     source="AMSI"
+                     pubPlace="Parenzo"
+                     year="0"
+                     volume="3"
+                     issue="111"
+                     page="147-155"/>
                </citedIn>
             </pubPart>
          </issue>
          <issue>
-            <pubPart>
-               <author>Benussi B.</author>
-               <author>Benussi Bernardo</author>
-               <title>II privilegio eufrasiano</title>
-               <title>Il privilegio eufrasiano</title>
-               <title>Privilegio Eufrasiano</title>
-               <title>Privilegio Eufrasiano: atti e memorie della Societa Istriana di archeologia e storia patria 8</title>
-               <page>49-86</page>
-               <citedIn count="4">
-                  <cit did="2873"
-                       cid="71"
-                       avtor0="Benussi B."
-                       naslov0="II privilegio eufrasiano"
-                       source="AMSI"
-                       year="0"
-                       volume="8"
-                       page="49-86"/>
-                  <cit did="2593"
-                       cid="3"
-                       avtor0="Benussi B."
-                       naslov0="Il privilegio eufrasiano"
-                       source="AMSI"
-                       year="0"
-                       volume="8"
-                       page="49-86"/>
-                  <cit did="750"
-                       cid="1"
-                       avtor0="Benussi Bernardo"
-                       naslov0="Privilegio Eufrasiano"
-                       source="AMSI"
-                       pubPlace="Parenzo"
-                       year="0"
-                       page="49-86"/>
-                  <cit did="1624"
-                       cid="10"
-                       avtor0="Benussi B."
-                       naslov0="Privilegio Eufrasiano: atti e memorie della Societa Istriana di archeologia e storia patria 8"
-                       source=""
-                       pubPlace="Parenzo"
-                       year="0"
-                       page="49-86"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Benussi B.</author>
-               <title>Nel Medio Evo</title>
-               <citedIn count="1">
-                  <cit did="2873"
-                       cid="72"
-                       avtor0="Benussi B."
-                       naslov0="Nel Medio Evo"
-                       source="AMSI"
-                       year="0"
-                       volume="9"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Minotto A. S.</author>
-               <title>Documenta ad Forumjulii, Istriam, Goritiam, Tergestum spectantia</title>
-               <citedIn count="1">
-                  <cit did="750"
-                       cid="8"
-                       avtor0="Minotto A. S."
-                       naslov0="Documenta ad Forumjulii, Istriam, Goritiam, Tergestum spectantia"
-                       source="AMSI"
-                       pubPlace="Parenzo"
-                       year="0"
-                       volume="8"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Schiavuzzi B.</author>
-               <title>La malaria in Istria. Ricerche sulle cause che l'hanno prodotta e che la mantengono</title>
-               <page>319-412</page>
-               <citedIn count="1">
-                  <cit did="2873"
-                       cid="212"
-                       avtor0="Schiavuzzi B."
-                       naslov0="La malaria in Istria. Ricerche sulle cause che l'hanno prodotta e che la mantengono"
-                       source="AMSI"
-                       year="0"
-                       volume="5"
-                       page="319-412"/>
-               </citedIn>
-            </pubPart>
+            <pubPart></pubPart>
          </issue>
       </year>
    </source>
@@ -3002,9 +3011,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
    <source>
       <pubTitle>Carinthia I</pubTitle>
       <pubTitle>Mittheilungen des Geschichtsvereines für Kärnten</pubTitle>
-      <pubTitle>Geschichtliche und volkskundliche Beiträge zur Heimatkunde Kärntens</pubTitle>
-      <pubTitle>Zeitschrift für Geschichtliche Landeskunde von Kärnten</pubTitle>
-      <pubTitle>Geschichtsvereines für Kärnten</pubTitle>
       <pubPlace>Klagenfurt</pubPlace>
       <publisher>J. Leon</publisher>
       <pubCobiss>25196032</pubCobiss>
@@ -3977,6 +3983,21 @@ culture, and modernity in nineteenth-century Central Europe</title>
                        volume="160"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Metniz Gustav Adolf von</author>
+               <title>Die mittelalterliche Führungschichten in Kärnten</title>
+               <page>647-673</page>
+               <citedIn count="1">
+                  <cit did="53"
+                     cid="181"
+                     avtor0="Metniz Gustav Adolf von"
+                     naslov0="Die mittelalterliche Führungschichten in Kärnten"
+                     source="Carinthia"
+                     year="0"
+                     volume="1970"
+                     page="647-673"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1969">
@@ -4521,6 +4542,14 @@ culture, and modernity in nineteenth-century Central Europe</title>
                        year="1952"
                        volume="142"
                        page="226-248"/>
+                  <cit did="53"
+                     cid="169"
+                     avtor0="Lessiak Hans"
+                     naslov0="Die Entstehung der Ministerialität in Kärnten"
+                     source="Carinthia"
+                     year="0"
+                     volume="1952"
+                     page="226-248"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -4998,71 +5027,47 @@ culture, and modernity in nineteenth-century Central Europe</title>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>1952</volume>
-         <volume>1970</volume>
-         <volume>185</volume>
+      <year n="1895">
+         <volume>85</volume>
          <issue>
-            <pubPart>
-               <author>Lessiak Hans</author>
-               <title>Die Entstehung der Ministerialität in Kärnten</title>
-               <page>226-248</page>
-               <citedIn count="1">
-                  <cit did="53"
-                       cid="169"
-                       avtor0="Lessiak Hans"
-                       naslov0="Die Entstehung der Ministerialität in Kärnten"
-                       source="Carinthia"
-                       year="0"
-                       volume="1952"
-                       page="226-248"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Metniz Gustav Adolf von</author>
-               <title>Die mittelalterliche Führungschichten in Kärnten</title>
-               <page>647-673</page>
-               <citedIn count="1">
-                  <cit did="53"
-                       cid="181"
-                       avtor0="Metniz Gustav Adolf von"
-                       naslov0="Die mittelalterliche Führungschichten in Kärnten"
-                       source="Carinthia"
-                       year="0"
-                       volume="1970"
-                       page="647-673"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Müller R.</author>
                <title>Beiträge zur Geschichte der höfischen Epik in den österreichischen Landen, mit besonderer Rücksicht auf Kärnten</title>
                <page>33-51</page>
                <citedIn count="1">
                   <cit did="2631"
-                       cid="236"
-                       avtor0="Müller R."
-                       naslov0="Beiträge zur Geschichte der höfischen Epik in den österreichischen Landen, mit besonderer Rücksicht auf Kärnten"
-                       source="Carinthia"
-                       year="0"
-                       volume="185"
-                       page="33-51"/>
+                     cid="236"
+                     avtor0="Müller R."
+                     naslov0="Beiträge zur Geschichte der höfischen Epik in den österreichischen Landen, mit besonderer Rücksicht auf Kärnten"
+                     source="Carinthia"
+                     year="0"
+                     volume="185"
+                     page="33-51"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1863">
+         <issue>
             <pubPart>
                <author>Rauscher Ernst</author>
                <title>Die Grafen von Thurn-Valle-Sassina-Como-Vercelli Freiherren von Kreuz</title>
-               <page>377</page>
+               <page>377-412</page>
                <citedIn count="1">
                   <cit did="2239"
-                       cid="12"
-                       avtor0="Rauscher Ernst"
-                       naslov0="Die Grafen von Thurn-Valle-Sassina-Como-Vercelli Freiherren von Kreuz"
-                       source="Carinthia"
-                       year="0"
-                       page="377"/>
+                     cid="12"
+                     avtor0="Rauscher Ernst"
+                     naslov0="Die Grafen von Thurn-Valle-Sassina-Como-Vercelli Freiherren von Kreuz"
+                     source="Carinthia"
+                     year="0"
+                     page="377"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+         </issue>
+      </year>
+      <year n="0">
+         <issue> <!-- Mogoče to: Die Nationalitäten Kärntens (Deutsche Monatsschrift aus Kärnten 1849, zv. 5, str. 160–6) -->
+            <pubPart> 
                <author>Vinzez Rizzi</author>
                <title>Die Nationaltäten in Kärnten</title>
                <citedIn count="1">
@@ -8766,7 +8771,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Bernhard Günther</author>
                <title>Die Stiftungsurkunde des Klosters Oberburg</title>
                <page>265-290</page>
-               <citedIn count="2">
+               <citedIn count="3">
                   <cit did="2647"
                        cid="16"
                        avtor0="Bernhard Günther"
@@ -8783,6 +8788,14 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        year="2000"
                        volume="108"
                        page="265-290"/>
+                  <cit did="53"
+                     cid="35"
+                     avtor0="Bernhard Günther"
+                     naslov0="Die Stifttungsurkunde des Klosters Oberburg"
+                     source="MIÖG"
+                     year="0"
+                     volume="2000"
+                     page="265-290"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9304,6 +9317,26 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        year="1963"
                        volume="71"
                        page="311-332"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1961">
+         <volume>69</volume>
+         <issue n="1-2">
+            <pubPart>
+               <author>Dinklage Karl</author>
+               <title>Kärntner Städtegründungen unter Herzog Bernhard (1202-56)</title>
+               <page>89-95</page>
+               <citedIn count="1">
+                  <cit did="2233"
+                     cid="6"
+                     avtor0="Dinklage Karl"
+                     naslov0="Kärntner Stadtegriindungen unter Herzog Bernhard (1202-56)"
+                     source="Mitteilungen des Insituts für österreichische Geschichtsforshung"
+                     year="0"
+                     volume="69"
+                     page="89-95"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10219,7 +10252,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1898">
-         <volume>1898</volume>
          <volume>19</volume>
          <issue>
             <pubPart>
@@ -10337,6 +10369,26 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1897">
+         <volume>18</volume>
+         <issue>
+            <pubPart>
+               <author>Dopsch Alfons</author>
+               <title>Beiträge zur Geschichte der Finanzverwaltung Österreichs im 13. Jahrhundert</title>
+               <page>233-340</page>
+               <citedIn count="1">
+                  <cit did="2234"
+                     cid="6"
+                     avtor0="Dopsch Alfons"
+                     naslov0="Beiträge zur Geschichte der Finanzvenvaltung Oesterreichs im 13. Jahrhundert"
+                     source="Mitteilungen des Instituts für österreichische Geschichte"
+                     year="0"
+                     volume="18"
+                     page="233-340"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1896">
          <volume>17</volume>
          <issue>
@@ -10359,7 +10411,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Seemüller J.</author>
                <title>Friedrichs III. Aachener Krönungsreise</title>
                <page>584-665</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3439"
                        cid="249"
                        avtor0="Seemüller J."
@@ -10368,6 +10420,14 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        year="1896"
                        volume="17"
                        page="584-665"/>
+                  <cit did="2609"
+                     cid="19"
+                     avtor0="Seemüller J."
+                     naslov0="Friedrichs III. Aachener Kronungsreise"
+                     source="Mitteilungen des Instituis für Österreichischen Geschichtsforschung"
+                     year="0"
+                     volume="17"
+                     page="584-665"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10400,6 +10460,25 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1893">
+         <volume>4</volume>
+         <issue>
+            <pubPart>
+               <author>Zallinger O.</author>
+               <title>Der Kampf um den Landfrieden in Deutschland während des Mittelalters</title>
+               <page>443-459</page>
+               <citedIn count="1">
+                  <cit did="249"
+                     cid="60"
+                     avtor0="Zallinger O."
+                     naslov0="Der Kampf um den Landfrieden in Deutschland während des Mittelalters"
+                     source="Mitteilungen des Instituts für österreichische Geschichtesforschung : Ergänzungsband 4"
+                     year="0"
+                     page="456"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1883">
          <volume>4</volume>
          <issue>
@@ -10420,134 +10499,52 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
+      <year n="1881">
+         <volume>2</volume>
+         <issue>
+            <pubPart>
+               <author>Ficker J.</author>
+               <title>Neue Beiträge zur Urkundenlehre</title>
+               <page>177-222</page>
+               <citedIn count="1">
+                  <cit did="2629"
+                     cid="10"
+                     avtor0="Ficker J."
+                     naslov0="Neue Beitrage zur Urkundenlehre I."
+                     source="MIÖG"
+                     year="0"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1880">
          <volume>1</volume>
-         <volume>2000</volume>
-         <volume>69</volume>
-         <volume>18</volume>
-         <volume>17</volume>
-         <issue n="5">
+         <issue>
             <pubPart>
                <author>Mühlbacher Engelbert</author>
                <author>Joppi Vincenzo</author>
                <title>Unedirte Diplome aus Aquileja (799-1082)</title>
-               <page>283</page>
-               <citedIn count="1">
+               <page>259-297</page>
+               <citedIn count="2">
                   <cit did="2165"
-                       cid="30"
-                       avtor0="Mühlbacher Engelbert"
-                       avtor1="Joppi Vincenzo"
-                       naslov0="Unedirte Diplome aus Aquileja (799-1082)"
-                       source="Mitteilungen des Instituts für Österreichische Geschichtforschung"
-                       year="0"
-                       issue="5"
-                       page="283"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Mühlbacher Engelbert</author>
-               <author>Joppi Vicenzo</author>
-               <title>Unedirte Diplome aus Aquileja (799-1082)</title>
-               <page>283</page>
-               <citedIn count="1">
+                     cid="30"
+                     avtor0="Mühlbacher Engelbert"
+                     avtor1="Joppi Vincenzo"
+                     naslov0="Unedirte Diplome aus Aquileja (799-1082)"
+                     source="Mitteilungen des Instituts für Österreichische Geschichtforschung"
+                     year="0"
+                     issue="5"
+                     page="283"/>
                   <cit did="2021"
-                       cid="30"
-                       avtor0="Mühlbacher Engelbert"
-                       avtor1="Joppi Vicenzo"
-                       naslov0="Unedirte Diplome aus Aquileja (799-1082)"
-                       source="Mitteilungen des Instituts für Österreichische Geschtsforschung"
-                       year="0"
-                       volume="1"
-                       issue="5"
-                       page="283"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Bernhard Günther</author>
-               <title>Die Stifttungsurkunde des Klosters Oberburg</title>
-               <page>265-290</page>
-               <citedIn count="1">
-                  <cit did="53"
-                       cid="35"
-                       avtor0="Bernhard Günther"
-                       naslov0="Die Stifttungsurkunde des Klosters Oberburg"
-                       source="MIÖG"
-                       year="0"
-                       volume="2000"
-                       page="265-290"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dinklage Karl</author>
-               <title>Kärntner Stadtegriindungen unter Herzog Bernhard (1202-56)</title>
-               <page>89-95</page>
-               <citedIn count="1">
-                  <cit did="2233"
-                       cid="6"
-                       avtor0="Dinklage Karl"
-                       naslov0="Kärntner Stadtegriindungen unter Herzog Bernhard (1202-56)"
-                       source="Mitteilungen des Insituts für österreichische Geschichtsforshung"
-                       year="0"
-                       volume="69"
-                       page="89-95"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dopsch Alfons</author>
-               <title>Beiträge zur Geschichte der Finanzvenvaltung Oesterreichs im 13. Jahrhundert</title>
-               <page>233-340</page>
-               <citedIn count="1">
-                  <cit did="2234"
-                       cid="6"
-                       avtor0="Dopsch Alfons"
-                       naslov0="Beiträge zur Geschichte der Finanzvenvaltung Oesterreichs im 13. Jahrhundert"
-                       source="Mitteilungen des Instituts für österreichische Geschichte"
-                       year="0"
-                       volume="18"
-                       page="233-340"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Ficker J.</author>
-               <title>Neue Beitrage zur Urkundenlehre I.</title>
-               <citedIn count="1">
-                  <cit did="2629"
-                       cid="10"
-                       avtor0="Ficker J."
-                       naslov0="Neue Beitrage zur Urkundenlehre I."
-                       source="MIÖG"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Seemüller J.</author>
-               <title>Friedrichs III. Aachener Kronungsreise</title>
-               <page>584-665</page>
-               <citedIn count="1">
-                  <cit did="2609"
-                       cid="19"
-                       avtor0="Seemüller J."
-                       naslov0="Friedrichs III. Aachener Kronungsreise"
-                       source="Mitteilungen des Instituis für Österreichischen Geschichtsforschung"
-                       year="0"
-                       volume="17"
-                       page="584-665"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Zallinger O.</author>
-               <title>Der Kampf um den Landfrieden in Deutschland während des Mittelalters</title>
-               <page>456</page>
-               <citedIn count="1">
-                  <cit did="249"
-                       cid="60"
-                       avtor0="Zallinger O."
-                       naslov0="Der Kampf um den Landfrieden in Deutschland während des Mittelalters"
-                       source="Mitteilungen des Instituts für österreichische Geschichtesforschung : Ergänzungsband 4"
-                       year="0"
-                       page="456"/>
+                     cid="30"
+                     avtor0="Mühlbacher Engelbert"
+                     avtor1="Joppi Vicenzo"
+                     naslov0="Unedirte Diplome aus Aquileja (799-1082)"
+                     source="Mitteilungen des Instituts für Österreichische Geschtsforschung"
+                     year="0"
+                     volume="1"
+                     issue="5"
+                     page="283"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -11264,7 +11261,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1973">
-         <volume>XV</volume>
+         <volume>15</volume>
          <issue n="4">
             <pubPart>
                <author>Lukan Walter</author>
@@ -11718,6 +11715,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1989">
+         <volume>11</volume>
          <issue n="1-2">
             <pubPart>
                <author>Lukan Walter</author>
@@ -11854,7 +11852,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <pubCobiss>2486537</pubCobiss>
       <issn>0393-6082</issn>
       <year n="2010">
-         <volume>28</volume>
+         <volume>38</volume>
          <issue n="2">
             <pubPart>
                <author>Pupo Raoul</author>
@@ -12254,6 +12252,24 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1991">
+         <volume>19</volume>
+         <issue n="1">
+            <pubPart>
+               <author>Verginella Marta</author>
+               <title>Esperienza di guerra nelle scritture autobiografiche</title>
+               <page>31-71</page>
+               <cobiss>97235</cobiss>
+               <citedIn count="1">
+                  <cit did="1313"
+                     cid="20"
+                     avtor0="Verginella Marta"
+                     naslov0="Esperienza di guerra nelle scritture autobiografiche"
+                     source="Qualestoria"
+                     year="0"
+                     page="31-71"/>
+               </citedIn>
+            </pubPart>
+         </issue>
          <issue n="2-3">
             <pubPart>
                <author>Catalan Tullia</author>
@@ -12569,6 +12585,21 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        issue="1"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+                 <author>Ferrari L.</author>
+                 <title>Il clero sloveno nel Litorale (1920-1928)</title>
+                 <title>Linee d'intervento pastorale</title>
+               <page>29-44</page>
+                 <citedIn count="1">
+                    <cit did="1259"
+                        cid="2"
+                        avtor0="Ferrari L."
+                        naslov0="Il clero sloveno nel Litorale (1920-1928)"
+                        naslov1="Linee d'intervento pastorale"
+                        source="Qualestoria"
+                        year="0"/>
+                 </citedIn>
+             </pubPart>
          </issue>
          <issue n="2">
             <pubPart>
@@ -12651,38 +12682,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        volume="2"
                        issue="3"
                        page="12-17"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <issue>
-            <pubPart>
-               <author>Ferrari L.</author>
-               <title>Il clero sloveno nel Litorale (1920-1928)</title>
-               <title>Linee d'intervento pastorale</title>
-               <citedIn count="1">
-                  <cit did="1259"
-                       cid="2"
-                       avtor0="Ferrari L."
-                       naslov0="Il clero sloveno nel Litorale (1920-1928)"
-                       naslov1="Linee d'intervento pastorale"
-                       source="Qualestoria"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Verginella Marta</author>
-               <title>Esperienza di guerra nelle scritture autobiografiche</title>
-               <page>31-71</page>
-               <citedIn count="1">
-                  <cit did="1313"
-                       cid="20"
-                       avtor0="Verginella Marta"
-                       naslov0="Esperienza di guerra nelle scritture autobiografiche"
-                       source="Qualestoria"
-                       year="0"
-                       page="31-71"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -14298,7 +14297,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1927">
-         <volume>1927</volume>
+         <volume>24</volume>
          <issue>
             <pubPart>
                <author>Pirchegger Hans</author>
