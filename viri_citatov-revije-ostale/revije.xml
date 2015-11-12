@@ -20,7 +20,7 @@
       <issn>0351-2789</issn>
       <year n="2007">
          <volume>29</volume>
-         <issue n="29">
+         <issue>
             <pubPart>
                <author>Jereb Janez</author>
                <author>Škulj Edo</author>
@@ -40,7 +40,8 @@
          </issue>
       </year>
       <year n="2006">
-         <issue n="28">
+         <volume>28</volume>
+         <issue>
             <pubPart>
                <author>Škulj Edo</author>
                <title>Kronika župnije Turjak</title>
@@ -55,7 +56,8 @@
          </issue>
       </year>
       <year n="2005">
-         <issue n="27">
+         <volume>27</volume>
+         <issue>
             <pubPart>
                <author>Likar Sebastjan</author>
                <author>Oblak Valentin</author>
@@ -115,7 +117,7 @@
       </year>
       <year n="2002">
          <volume>24</volume>
-         <issue n="24">
+         <issue>
             <pubPart>
                <author>Ehrlich Lambert</author>
                <title>Pariška mirovna konferenca in Slovenci 1919/20</title>
@@ -147,7 +149,7 @@
       </year>
       <year n="2001">
          <volume>23</volume>
-         <issue n="23">
+         <issue>
             <pubPart>
                <author>Hančič Damjan</author>
                <title>Konstitucije klaris v Mekinjah in Škofji Loki</title>
@@ -167,7 +169,7 @@
       </year>
       <year n="2000">
          <volume>22</volume>
-         <issue n="22">
+         <issue>
             <pubPart>
                <author>Kidrič France</author>
                <title>Ivan Ungnad v pregnanstvu</title>
@@ -222,9 +224,8 @@
          </issue>
       </year>
       <year n="1999">
-         <volume>15</volume>
          <volume>21</volume>
-         <issue n="21">
+         <issue>
             <pubPart>
                <author>Kurnjek B., Maučec M., Mozetič I.</author>
                <title>Dnevno časopisje o duhovniških procesih na Slovenskem 1945-1953</title>
@@ -245,7 +246,7 @@
       </year>
       <year n="1998">
          <volume>20</volume>
-         <issue n="20">
+         <issue>
             <pubPart>
                <author>Baraga France</author>
                <title>Arhiv Glavarjevega beneficija</title>
@@ -521,7 +522,8 @@
          </issue>
       </year>
       <year n="1986">
-         <issue n="8">
+         <volume>8</volume>
+         <issue>
             <pubPart>
                <author>Bratož Rajko</author>
                <title>Krščanstvo v Ogleju in na vzhodnem vplivnem območju oglejske cerkve od začetkov do nastopa verske svobode</title>
@@ -535,7 +537,8 @@
          </issue>
       </year>
       <year n="1983">
-         <issue n="5">
+         <volume>5</volume>
+         <issue>
             <pubPart>
                <author>Mlinarič Jože</author>
                <title>Prizadevanje sekovskih škofov Martina Brennerja (1585 do 1615) in Jakoba Eberleina (1615-1633) kot generalnih vikarjev salzburških škofov za katoliško versko prenovo na Štajerskem v luči protokolov 1585-1614 in vizitacijskih zapisnikov iz 1607, 1608 in 16</title>
@@ -1117,7 +1120,6 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>1995</volume>
          <issue n="24-25">
             <pubPart>
                <author>Petrovčič Vida</author>
@@ -1461,6 +1463,7 @@
          </issue>
       </year>
       <year n="2003">
+         <volume>35</volume>
          <issue n="1-4">
             <pubPart>
                <author>Flere Sergej</author>
@@ -1476,6 +1479,7 @@
          </issue>
       </year>
       <year n="2002">
+         <volume>34</volume>
          <issue n="4-6">
             <pubPart>
                <author>Avsec Andreja</author>
@@ -1491,6 +1495,7 @@
          </issue>
       </year>
       <year n="2001">
+         <volume>33</volume>
          <issue n="1-3">
             <pubPart>
                <author>Avsec Andreja</author>
@@ -1583,6 +1588,7 @@
          </issue>
       </year>
       <year n="1997">
+         <volume>29</volume>
          <issue n="1-3">
             <pubPart>
                <author>Gantar Godina Irena</author>
@@ -1641,7 +1647,7 @@
          </issue>
       </year>
       <year n="1989">
-         <volume>1-2</volume>
+         <volume>20</volume>
          <issue n="1-2">
             <pubPart>
                <author>Musek Janek</author>
@@ -1741,6 +1747,7 @@
          </issue>
       </year>
       <year n="2000">
+         <volume>43</volume>
          <issue n="1">
             <pubPart>
                <author>Mihelič Darja</author>
@@ -1798,7 +1805,6 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>33</volume>
          <volume>38</volume>
          <issue>
             <pubPart>
@@ -1827,7 +1833,7 @@
          </issue>
       </year>
       <year n="1994">
-         <volume>36/37</volume>
+         <volume>36-37</volume>
          <issue>
             <pubPart>
                <author>Kolar Nataša</author>
@@ -1918,7 +1924,7 @@
       </year>
       <year n="1962">
          <volume>1</volume>
-         <issue>
+         <issue n="4">
             <pubPart>
                <author>Pahič S.</author>
                <title>Arheološka topografija Slovenije</title>
@@ -1931,16 +1937,16 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1899">
-         <volume>7, 8</volume>
+      <year n="1897">
+         <volume>5</volume>
          <issue>
             <pubPart>
                <author>Müllner Alfons</author>
                <title>Die Zukunft der Stadt Laibach</title>
+               <page>12-16</page>
                <citedIn count="1">
                   <cit did="3462" cid="43" avtor0="Müllner Alfons"
-                     naslov0="Die Zukunft der Stadt Laibach" source="Argo" year="1899" volume="7, 8"
-                  />
+                     naslov0="Die Zukunft der Stadt Laibach" source="Argo" year="1899" volume="7, 8"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2118,6 +2124,7 @@
          </issue>
       </year>
       <year n="2008">
+         <volume>59</volume>
          <issue>
             <pubPart>
                <author>Gaspari A., Erič M.</author>
@@ -3049,7 +3056,7 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1989">
+      <year n="1988-1989">
          <volume>39-40</volume>
          <issue>
             <pubPart>
@@ -3065,11 +3072,6 @@
                      page="475-494"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="1988">
-         <volume>39-40</volume>
-         <issue>
             <pubPart>
                <author>Bressan F.</author>
                <title>Le Valli del Natisone e la Kovačeva jama di Robič</title>
@@ -3771,23 +3773,7 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1971">
-         <volume>21</volume>
-         <issue n="2">
-            <pubPart>
-               <author>Šašel J.</author>
-               <title>Alpes Iuliana</title>
-               <page>33-44</page>
-               <cobiss>13260589</cobiss>
-               <citedIn count="1">
-                  <cit did="2584" cid="67" avtor0="Šašel J." naslov0="Alpes luliana"
-                     source="Arheološki vestnik" pubPlace="Ljubljana" year="1971" volume="21"
-                     issue="2" page="33-44"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1970">
+      <year n="1970-1971">
          <volume>21-22</volume>
          <issue>
             <pubPart>
@@ -3801,6 +3787,17 @@
                   <cit did="1419" cid="10" avtor0="Grafenauer Bogo"
                      naslov0="Naselitev Slovanov v Vzhodnih Alpah in vprašanje kontinuitete"
                      source="Arheološki vestnik" year="1970" volume="21-22" page="17-32"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Šašel J.</author>
+               <title>Alpes Iuliana</title>
+               <page>33-44</page>
+               <cobiss>13260589</cobiss>
+               <citedIn count="1">
+                  <cit did="2584" cid="67" avtor0="Šašel J." naslov0="Alpes luliana"
+                     source="Arheološki vestnik" pubPlace="Ljubljana" year="1971" volume="21"
+                     issue="2" page="33-44"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -4046,6 +4043,7 @@
          </issue>
       </year>
       <year n="1960">
+         <volume>11-12</volume>
          <issue>
             <pubPart>
                <author>Pahič Stanko</author>
@@ -4102,7 +4100,8 @@
          </issue>
       </year>
       <year n="1956">
-         <issue>
+         <volume>7</volume>
+         <issue n="4">
             <pubPart>
                <author>Škerlj Božo</author>
                <title>Vloga in mesto neandertalcev v človeški evoluciji</title>
@@ -4548,7 +4547,6 @@
          </issue>
       </year>
       <year n="1983">
-         <volume>12</volume>
          <issue>
             <pubPart>
                <author>Hočevar Toussaint</author>
@@ -4717,7 +4715,7 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>4</volume>
+         <volume>55</volume>
          <issue n="3">
             <pubPart>
                <author>Rode Franc</author>
@@ -4730,7 +4728,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue>
+         <issue n="4">
             <pubPart>
                <author>Ocvirk D.</author>
                <title>Vidiki poslanstva v džaganatu</title>
@@ -4762,6 +4760,7 @@
          </issue>
       </year>
       <year n="1992">
+         <volume>52</volume>
          <issue n="3-4">
             <pubPart>
                <author>Dolinar France</author>
@@ -4813,7 +4812,7 @@
          </issue>
       </year>
       <year n="1988">
-         <volume>1</volume>
+         <volume>48</volume>
          <issue n="1">
             <pubPart>
                <author>Benedik Metod</author>
@@ -4939,7 +4938,7 @@
          </issue>
       </year>
       <year n="1979">
-         <volume>4</volume>
+         <volume>39</volume>
          <issue n="4">
             <pubPart>
                <author>Juhant Janez</author>
@@ -4956,7 +4955,6 @@
       </year>
       <year n="1978">
          <volume>38</volume>
-         <volume>3</volume>
          <issue>
             <pubPart>
                <author>Dolinar M. France</author>
@@ -5010,7 +5008,7 @@
          </issue>
       </year>
       <year n="1975">
-         <volume>35</volume>
+         <volume>153</volume>
          <issue n="4">
             <pubPart>
                <author>Zelko Ivan</author>
@@ -5026,7 +5024,6 @@
          </issue>
       </year>
       <year n="1973">
-         <volume>17</volume>
          <issue n="2-3">
             <pubPart>
                <author>Ambrožič Fran</author>
@@ -5041,7 +5038,6 @@
          </issue>
       </year>
       <year n="1969">
-         <volume>29</volume>
          <issue>
             <pubPart>
                <author>Lešnik Rafael</author>
@@ -5060,8 +5056,9 @@
          <issue n="3">
             <pubPart>
                <author>Ocvirk D.</author>
-               <title>Strpnost in identiteta ali drugi kot bljižnjica do sebe</title>
+               <title>Strpnost in identiteta ali drugi kot bližnjica do sebe</title>
                <page>321-336</page>
+               <cobiss>899674</cobiss>
                <citedIn count="1">
                   <cit did="106" cid="276" avtor0="Ocvirk D."
                      naslov0="Strpnost in identiteta ali drugi kot bljižnjica do sebe"
@@ -5071,6 +5068,7 @@
          </issue>
       </year>
       <year n="1937">
+         <volume>17</volume>
          <issue>
             <pubPart>
                <author>Pogačnik Jože</author>
@@ -5103,6 +5101,7 @@
          </issue>
       </year>
       <year n="1924">
+         <volume>4</volume>
          <issue>
             <pubPart>
                <author>Ušeničnik Franc</author>
@@ -5247,6 +5246,24 @@
             </pubPart>
          </issue>
       </year>
+      <year n="2003">
+         <volume>55</volume>
+         <issue n="603-607">
+            <!-- Knjiga ISBN 961-90628-6-8 -->
+            <pubPart>
+               <author>Ramšak Mojca</author>
+               <title>Portret glasov</title>
+               <title>Raziskave življenjskih zgodb v etnologiji</title>
+               <title>na primeru koroških Slovencev</title>
+               <cobiss>125773056</cobiss>
+               <citedIn count="1">
+                  <cit did="1513" cid="144" avtor0="Ramšak Mojca"
+                     naslov0="Portret glasov: Raziskave življenjskih zgodb v etnologiji: na primeru koroških Slovencev"
+                     source="Borec" year="2000" volume="55" issue="603-607"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="2002">
          <volume>54</volume>
          <issue n="598-602">
@@ -5275,6 +5292,7 @@
          </issue>
       </year>
       <year n="2001">
+         <volume>53</volume>
          <issue n="588-590">
             <pubPart>
                <author>Biber Dušan</author>
@@ -5290,23 +5308,8 @@
          </issue>
       </year>
       <year n="2000">
-         <volume>55</volume>
          <volume>52</volume>
-         <issue n="603-607">
-            <!-- Knjiga ISBN 961-90628-6-8 -->
-            <pubPart>
-               <author>Ramšak Mojca</author>
-               <title>Portret glasov</title>
-               <title>Raziskave življenjskih zgodb v etnologiji</title>
-               <title>na primeru koroških Slovencev</title>
-               <cobiss>125773056</cobiss>
-               <citedIn count="1">
-                  <cit did="1513" cid="144" avtor0="Ramšak Mojca"
-                     naslov0="Portret glasov: Raziskave življenjskih zgodb v etnologiji: na primeru koroških Slovencev"
-                     source="Borec" year="2000" volume="55" issue="603-607"/>
-               </citedIn>
-            </pubPart>
-         </issue>
+         
          <issue n="579-582">
             <pubPart>
                <author>Kavčič Vladimir</author>
@@ -5432,6 +5435,7 @@
          </issue>
       </year>
       <year n="1996">
+         <volume>48</volume>
          <issue n="548-550">
             <pubPart>
                <author>Jerina-Lah Pavla</author>
@@ -5501,9 +5505,7 @@
          </issue>
       </year>
       <year n="1994">
-         <volume>44</volume>
          <volume>46</volume>
-         <volume>526-528</volume>
          <issue n="526-528">
             <pubPart>
                <author>Mlakar Boris</author>
@@ -5792,9 +5794,7 @@
          </issue>
       </year>
       <year n="1991">
-         <volume>53</volume>
          <volume>43</volume>
-         <volume>13</volume>
          <issue n="4-6">
             <pubPart>
                <author>Nečak Dušan</author>
@@ -5809,7 +5809,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="7-9">
+         <issue n="7-9"> <!-- Knjiga -->
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Slovenska agitpropovska kulturna politika 1945-1952</title>
@@ -6294,6 +6294,7 @@
          </issue>
       </year>
       <year n="1987">
+         <volume>39</volume>
          <issue n="10">
             <pubPart>
                <author>Čepič Zdenko</author>
@@ -6657,6 +6658,7 @@
          </issue>
       </year>
       <year n="1981">
+         <volume>33</volume>
          <issue n="3-4">
             <pubPart>
                <author>Prunk Janko</author>
@@ -6700,6 +6702,7 @@
          </issue>
       </year>
       <year n="1979">
+         <volume>31</volume>
          <issue>
             <!-- Knjiga -->
             <pubPart>
@@ -6865,6 +6868,7 @@
          </issue>
       </year>
       <year n="1974">
+         <volume>26</volume>
          <issue n="12">
             <pubPart>
                <author>Roš Fran</author>
@@ -6938,6 +6942,7 @@
          </issue>
       </year>
       <year n="1972">
+         <volume>24</volume>
          <issue n="3">
             <pubPart>
                <author>Škerl France</author>
@@ -7043,6 +7048,7 @@
          </issue>
       </year>
       <year n="1969">
+         <volume>20</volume>
          <issue n="2">
             <pubPart>
                <author>Ferenc Tone</author>
@@ -7157,7 +7163,7 @@
          </issue>
       </year>
       <year n="1957">
-         <volume>IX</volume>
+         <volume>9</volume>
          <issue n="4">
             <pubPart>
                <author>Škerl France</author>
@@ -7524,7 +7530,7 @@
          </issue>
       </year>
       <year n="1990">
-         <volume>55</volume>
+         <volume>25</volume>
          <volume>1990</volume>
          <issue>
             <pubPart>
@@ -7603,7 +7609,6 @@
          </issue>
       </year>
       <year n="1989">
-         <volume>1989</volume>
          <issue>
             <pubPart>
                <author>Cvirn Janez</author>
@@ -7682,6 +7687,7 @@
          </issue>
       </year>
       <year n="1986">
+         <volume>21</volume>
          <issue>
             <pubPart>
                <author>Cvirn Janez</author>
@@ -9102,7 +9108,6 @@
          </issue>
       </year>
       <year n="1996">
-         <volume>179</volume>
          <volume>24</volume>
          <issue n="179">
             <pubPart>
@@ -9356,7 +9361,6 @@
          </issue>
       </year>
       <year n="1979">
-         <volume>35-36</volume>
          <issue n="33-34">
             <pubPart>
                <author>Jezernik Božidar</author>
@@ -9402,8 +9406,7 @@
          </issue>
       </year>
       <year n="1976">
-         <volume>17-18</volume>
-         <issue>
+         <issue n="17-18">
             <pubPart>
                <author>Jogan M.</author>
                <title>Ralf Dahrendorf in razredni konflikt v 'industrijski' družbi</title>
@@ -9629,7 +9632,6 @@
          </issue>
       </year>
       <year n="1999">
-         <volume>1-2</volume>
          <volume>5</volume>
          <issue n="1-2">
             <pubPart>
@@ -9884,6 +9886,7 @@
          </issue>
       </year>
       <year n="2003">
+         <volume>39</volume>
          <issue>
             <pubPart>
                <author>Kermauner Taras</author>
@@ -9964,7 +9967,7 @@
          </issue>
       </year>
       <year n="1986">
-         <volume>XXII</volume>
+         <volume>22</volume>
          <issue n="10">
             <!-- Knjiga -->
             <pubPart>
@@ -10467,8 +10470,6 @@
          </issue>
       </year>
       <year n="2002">
-         <volume>28</volume>
-         <volume>39</volume>
          <volume>18</volume>
          <issue n="39-40">
             <pubPart>
@@ -10580,7 +10581,7 @@
          </issue>
       </year>
       <year n="1996">
-         <volume>22</volume>
+         <volume>12</volume>
          <issue n="12-13">
             <pubPart>
                <author>Trbanc M.</author>
@@ -12103,25 +12104,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1998">
-         <volume>58</volume>
-         <issue n="7">
-            <pubPart>
-               <author>Kappus Elke-Nicole</author>
-               <title>Eine Zukunft für Triest oder über eine Rekontextualisierung der Geschichte</title>
-               <addTitle>Prihodnost za Trst ali o rekontekstualizaciji zgodovine</addTitle>
-               <page>149-182</page>
-               <cobiss>102790</cobiss>
-               <citedIn count="1">
-                  <cit did="420" cid="31" avtor0="Kappus Elke-Nicole"
-                     naslov0="Prihodnost za Trst ali o rekontekstualizaciji zgodovine"
-                     naslov1="Eine Zukunft für Triest - oder - über eine Rekontextualisierung der Geschichte"
-                     source="Etnolog" publisher="Ljubljana" year="1998" volume="58" issue="7"
-                     page="149-182"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1997">
          <volume>7</volume>
          <issue n="43">
@@ -12160,6 +12142,20 @@
                      source="Etnolog" pubPlace="Ljubljana" volume="7" issue="58" page="115-129"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Kappus Elke-Nicole</author>
+               <title>Eine Zukunft für Triest oder über eine Rekontextualisierung der Geschichte</title>
+               <addTitle>Prihodnost za Trst ali o rekontekstualizaciji zgodovine</addTitle>
+               <page>149-182</page>
+               <cobiss>102790</cobiss>
+               <citedIn count="1">
+                  <cit did="420" cid="31" avtor0="Kappus Elke-Nicole"
+                     naslov0="Prihodnost za Trst ali o rekontekstualizaciji zgodovine"
+                     naslov1="Eine Zukunft für Triest - oder - über eine Rekontextualisierung der Geschichte"
+                     source="Etnolog" publisher="Ljubljana" year="1998" volume="58" issue="7"
+                     page="149-182"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1995">
@@ -12184,6 +12180,7 @@
          </issue>
       </year>
       <year n="1994">
+         <volume>4</volume>
          <issue>
             <pubPart>
                <author>Hudelja Mihaela</author>
@@ -12216,9 +12213,8 @@
          </issue>
       </year>
       <year n="1992">
-         <volume>53</volume>
          <volume>2</volume>
-         <issue>
+         <issue n="1">
             <pubPart>
                <author>Keršič Irena</author>
                <title>Kolon in gospodar</title>
@@ -12232,15 +12228,6 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Kociančič Štefan</author>
-               <title>Berde in brici</title>
-               <page>10-12</page>
-               <citedIn count="1">
-                  <cit did="2793" cid="23" avtor0="Kociančič Štefan" naslov0="Berde in brici"
-                     source="Etnolog" year="1992" volume="53" issue="2/1" page="10-12"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Kogej Katja</author>
                <title>Izdelovanje prunel v Brdih</title>
                <page>19-27</page>
@@ -12250,7 +12237,9 @@
                      source="Etnolog" year="1992" volume="53" issue="2/1" page="19-27"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+         </issue>
+         <issue n="2">
+         <pubPart>
                <author>Šmitek Zmago, Jezernik Božidar</author>
                <title>Antropološka tradicija na Slovenskem</title>
                <page>259-266</page>
@@ -12259,6 +12248,16 @@
                   <cit did="2853" cid="209" avtor0="Šmitek Zmago, Jezernik Božidar"
                      naslov0="Antropološka tradicija na Slovenskem" source="Etnolog" year="1992"
                      volume="2" issue="2" page="259-266"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Kociančič Štefan</author>
+               <title>Berde in brici</title>
+               <page>10-12</page>
+               <cobiss>182406</cobiss>
+               <citedIn count="1">
+                  <cit did="2793" cid="23" avtor0="Kociančič Štefan" naslov0="Berde in brici"
+                     source="Etnolog" year="1992" volume="53" issue="2/1" page="10-12"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -12599,7 +12598,7 @@
          </issue>
       </year>
       <year n="2003">
-         <volume>XXIV</volume>
+         <volume>24</volume>
          <issue n="1">
             <pubPart>
                <author>Šumič Riha Jelica</author>
@@ -13251,7 +13250,8 @@
          </issue>
       </year>
       <year n="1990">
-         <issue n="62">
+         <volume>62</volume>
+         <issue>
             <pubPart>
                <author>Bufon Milan</author>
                <title>Temeljni problemi geografskega preučevanja etničnih manjšin na primeru Slovencev v Italiji</title>
@@ -13351,22 +13351,6 @@
                   <cit did="828" cid="3" avtor0="Medved Jakob"
                      naslov0="Spremembe v izrabi zemljišča in preslajanje kmečkega prebivalstva v Sloveniji v zadnjih dveh desetletjih"
                      source="Geografski vestnik" year="1970" volume="42" page="9-10"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1965">
-         <volume>9</volume>
-         <issue>
-            <pubPart>
-               <author>Kos Milko</author>
-               <title>Gospodarska problematika Bovškega v preteklosti</title>
-               <page>247-255</page>
-               <cobiss>12480301</cobiss>
-               <citedIn count="1">
-                  <cit did="2640" cid="106" avtor0="Kos Milko"
-                     naslov0="Gospodarska problematika Bovškega v preteklosti"
-                     source="Geografski vestnik" year="1965" volume="9" page="247-255"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -13875,7 +13859,8 @@
          </issue>
       </year>
       <year n="1997">
-         <issue n="37">
+         <volume>37</volume>
+         <issue>
             <pubPart>
                <author>Ravbar Marjan</author>
                <title>Slovene cities and suburbs in transformation</title>
@@ -13891,7 +13876,8 @@
          </issue>
       </year>
       <year n="1993">
-         <issue n="33">
+         <volume>33</volume>
+         <issue>
             <pubPart>
                <author>Zupančič Jernej</author>
                <title>The Ethnic Identity of Hungarians in the Demographically threatened area of Prekmurje</title>
@@ -13906,7 +13892,8 @@
          </issue>
       </year>
       <year n="1992">
-         <issue n="32">
+         <volume>33</volume>
+         <issue>
             <pubPart>
                <author>Žiberna Igor</author>
                <title>Vpliv klime na lego in razširjenost vinogradov na primeru Srednjih Slovenskih goric</title>
@@ -13938,7 +13925,8 @@
          </issue>
       </year>
       <year n="1988">
-         <issue n="18">
+         <volume>28</volume>
+         <issue>
             <pubPart>
                <author>Bračič Vladimir</author>
                <title>Lendavske Gorice (Lendvahegy)</title>
@@ -13986,6 +13974,22 @@
                      naslov0="Prostorska diferenciacija Slovenije po selitveni mobilnosti prebivalstva"
                      cobiss="11412781" source="Geografski vestnik" pubPlace="Ljubljana" year="1972"
                      page="5-56"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1965">
+         <volume>9</volume>
+         <issue>
+            <pubPart>
+               <author>Kos Milko</author>
+               <title>Gospodarska problematika Bovškega v preteklosti</title>
+               <page>247-255</page>
+               <cobiss>12480301</cobiss>
+               <citedIn count="1">
+                  <cit did="2640" cid="106" avtor0="Kos Milko"
+                     naslov0="Gospodarska problematika Bovškega v preteklosti"
+                     source="Geografski vestnik" year="1965" volume="9" page="247-255"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15325,7 +15329,6 @@
          </issue>
       </year>
       <year n="1999">
-         <volume>10</volume>
          <issue n="309">
             <pubPart>
                <author>Križanič France</author>
@@ -15384,7 +15387,6 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>12</volume>
          <issue n="267">
             <pubPart>
                <author>Štiblar Franjo</author>
@@ -15425,7 +15427,6 @@
          </issue>
       </year>
       <year n="1993">
-         <volume>9</volume>
          <issue n="242">
             <pubPart>
                <author>Štiblar Franjo</author>
@@ -15949,8 +15950,8 @@
          </issue>
       </year>
       <year n="2000">
-         <volume>15</volume>
-         <issue>
+         <volume>45</volume>
+         <issue n="1">
             <pubPart>
                <author>Hvala Renata</author>
                <title>Iz vojaške zgodovine Vojskarske planote</title>
@@ -16019,7 +16020,7 @@
          </issue>
       </year>
       <year n="1988">
-         <volume>XXXIII</volume>
+         <volume>33</volume>
          <issue n="1">
             <pubPart>
                <author>Korošec Branko</author>
@@ -16527,8 +16528,8 @@
          </issue>
       </year>
       <year n="1977">
-         <volume>13</volume>
-         <issue n="1">
+         <volume>23</volume>
+         <issue n="3-4">
             <pubPart>
                <author>Jakopin Franc</author>
                <title>Albanološke študije Rajka Nahtigala</title>
@@ -16542,7 +16543,6 @@
          </issue>
       </year>
       <year n="1975">
-         <volume>6</volume>
          <volume>21</volume>
          <issue n="21">
             <pubPart>
@@ -16750,6 +16750,7 @@
          </issue>
       </year>
       <year n="1958">
+         <volume>3</volume>
          <volume>4</volume>
          <issue n="3-4">
             <pubPart>
