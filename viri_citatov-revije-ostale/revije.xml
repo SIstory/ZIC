@@ -32834,21 +32834,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1985">
-         <volume>10</volume>
-         <issue>
-            <pubPart>
-               <author>Zupan Olga</author>
-               <title>Tuštanj pri Moravčah</title>
-               <title>Konservatorska poročila</title>
-               <citedIn count="1">
-                  <cit did="2117" cid="11" avtor0="Zupan Olga"
-                     naslov0="Tuštanj pri Moravčah, Konservatorska poročila"
-                     source="Varstvo spomenikov" year="1985" volume="10"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1984">
          <volume>26</volume>
          <issue>
@@ -33194,6 +33179,16 @@
                   <cit did="3461" cid="13" avtor0="Komelj Ivan"
                      naslov0="Dvajset let odkrivanja srednjeveških stenskih slik" cobiss="17495607"
                      source="Varstvo spomenikov" year="1965" volume="10" page="39-76"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Zupan Olga</author>
+               <title>Tuštanj pri Moravčah</title>
+               <title>Konservatorska poročila</title>
+               <citedIn count="1">
+                  <cit did="2117" cid="11" avtor0="Zupan Olga"
+                     naslov0="Tuštanj pri Moravčah, Konservatorska poročila"
+                     source="Varstvo spomenikov" year="1985" volume="10"/>
                </citedIn>
             </pubPart>
          </issue>
