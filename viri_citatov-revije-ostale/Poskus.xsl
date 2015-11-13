@@ -6,16 +6,12 @@
     <xsl:strip-space elements="*"/>
 
     <xsl:template match="root">
-
-        <naslov>
-            <xsl:for-each select="//title">
-                <xsl:sort/>
-            </xsl:for-each>
-        </naslov>
-
+        <xsl:for-each select="/root/source/year/issue/pubPart/title[1]">
+            <xsl:sort/>
+            <naslov>
+                <xsl:value-of select="."/>
+            </naslov>
+        </xsl:for-each>
     </xsl:template>
-
-
-
 
 </xsl:stylesheet>

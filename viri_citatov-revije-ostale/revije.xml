@@ -13679,7 +13679,7 @@
          </issue>
       </year>
       <year n="1929">
-         <volume>5/6</volume>
+         <volume>5-6</volume>
          <issue>
             <pubPart>
                <author>Ilešič Svetozar</author>
@@ -17621,8 +17621,7 @@
       <publisher>Muzejsko društvo Škofja Loka</publisher>
       <pubCobiss>7211522</pubCobiss>
       <issn>0459-8210</issn>
-      <year n="2009">
-         <volume>20</volume>
+      <year n="2009"> <!-- ISBN 978-961-91172-6-2 -->
          <issue>
             <pubPart>
                <author>Švent Rozina</author>
@@ -17631,8 +17630,7 @@
                <citedIn count="1">
                   <cit did="2944" cid="3" avtor0="Švent Rozina"
                      naslov0="Gradivo za bibliografijo Tineta Debeljaka"
-                     source="Loški razgledi Doneski" pubPlace="Škofja Loka" year="2009" volume="20"
-                  />
+                     source="Loški razgledi Doneski" pubPlace="Škofja Loka" year="2009" volume="20"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -19949,8 +19947,8 @@
          </issue>
       </year>
       <year n="1972">
-         <volume>12</volume>
-         <issue>
+         <volume>41</volume>
+         <issue n="3">
             <pubPart>
                <author>Medved A.</author>
                <title>Terapia provocatoria</title>
@@ -20382,7 +20380,6 @@
          </issue>
       </year>
       <year n="0">
-         <volume>8</volume>
          <issue>
             <pubPart>
                <author>Dominko Fran</author>
@@ -20892,7 +20889,6 @@
          </issue>
       </year>
       <year n="1998">
-         <volume>7</volume>
          <volume>17</volume>
          <issue n="190-192">
             <pubPart>
@@ -21437,7 +21433,6 @@
          </issue>
       </year>
       <year n="1989">
-         <volume>VIII</volume>
          <volume>8</volume>
          <issue n="89-90">
             <pubPart>
@@ -22196,7 +22191,6 @@
          </issue>
       </year>
       <year n="1983">
-         <volume>25-58</volume>
          <issue>
             <pubTitle>Ormož skozi stoletja 2.</pubTitle>
             <!-- cobiss 1118217 -->
@@ -22340,22 +22334,6 @@
                <citedIn count="1">
                   <cit did="528" cid="6" avtor0="Škodič Dušan" naslov0="Noč dolgih senc"
                      source="Planinski vestnik" year="2005" issue="10" page="12-15"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1995">
-         <volume>57</volume>
-         <issue n="3">
-            <pubPart>
-               <author>Uhan Franz</author>
-               <title>Kako se je delala cesta na Vršič</title>
-               <page>151-163</page>
-               <cobiss>2444854</cobiss>
-               <citedIn count="1">
-                  <cit did="1304" cid="17" avtor0="Uhan Franz"
-                     naslov0="Kako se je delala cesta na Vršič" source="Planinski vestnik" year="0"
-                     volume="57" issue="3" page="151-163"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -22585,6 +22563,22 @@
                <citedIn count="1">
                   <cit did="3365" cid="213" avtor0="Kunaver Pavel" naslov0="Sence davnih dni"
                      source="Planinski vestnik" year="1960" volume="60" page="343-346"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1957">
+         <volume>57</volume>
+         <issue n="3">
+            <pubPart>
+               <author>Uhan Franz</author>
+               <title>Kako se je delala cesta na Vršič</title>
+               <page>151-163</page>
+               <cobiss>2444854</cobiss>
+               <citedIn count="1">
+                  <cit did="1304" cid="17" avtor0="Uhan Franz"
+                     naslov0="Kako se je delala cesta na Vršič" source="Planinski vestnik" year="0"
+                     volume="57" issue="3" page="151-163"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -23890,7 +23884,6 @@
       </year>
       <year n="1993">
          <volume>18</volume>
-         <volume>17</volume>
          <issue n="149">
             <pubPart>
                <author>Filipi Goran</author>
@@ -24118,7 +24111,7 @@
          </issue>
       </year>
       <year n="1989">
-         <volume>XIII</volume>
+         <volume>13</volume>
          <volume>91-92</volume>
          <issue n="91-92">
             <pubPart>
@@ -24169,7 +24162,6 @@
          </issue>
       </year>
       <year n="1984">
-         <volume>49</volume>
          <issue>
             <pubPart>
                <author>Humar Jožko</author>
@@ -25273,7 +25265,6 @@
       <pubCobiss>5971202</pubCobiss>
       <issn>0350-8935</issn>
       <year n="2009">
-         <volume>40</volume>
          <issue n="207-208">
             <pubPart>
                <author>Cestnik M.</author>
@@ -25304,8 +25295,7 @@
          </issue>
       </year>
       <year n="2004">
-         <volume>168-170</volume>
-         <issue>
+         <issue n="168-170">
             <pubPart>
                <author>Osojnik I.</author>
                <title>Kultura in globalna ekonomija</title>
@@ -25352,7 +25342,6 @@
          </issue>
       </year>
       <year n="2000">
-         <volume>127</volume>
          <issue n="127-128">
             <pubPart>
                <author>Kmecl Matjaž</author>
@@ -25798,7 +25787,6 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>2</volume>
          <issue n="33">
             <!-- Knjiga ISBN 961-6169-00-9 -->
             <pubPart>
@@ -25897,7 +25885,6 @@
          </issue>
       </year>
       <year n="1964">
-         <volume>17</volume>
          <issue>
             <!-- Knjiga -->
             <pubPart>
@@ -25913,8 +25900,7 @@
          </issue>
       </year>
       <year n="1961">
-         <volume>4</volume>
-         <issue>
+         <issue n="4">
             <pubPart>
                <author>Petru P.</author>
                <title>Cernunnos v Sloveniji (Cernunnos in Slowenien)</title>
@@ -26251,7 +26237,7 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>53</volume>
+         <volume>43</volume>
          <issue n="2">
             <pubPart>
                <author>Hladnik Miran</author>
@@ -26383,8 +26369,8 @@
          </issue>
       </year>
       <year n="1991">
-         <volume>4</volume>
-         <issue n="39">
+         <volume>39</volume>
+         <issue n="4">
             <pubPart>
                <author>Pirjevec Marija</author>
                <title>Pisatelj Boris Pahor med etničnim in ontološkim humanizmom</title>
@@ -27142,7 +27128,7 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1964">
+      <year n="1963-1964">
          <issue n="16-17">
             <pubPart>
                <author>Šarf Fanči</author>
@@ -27155,12 +27141,6 @@
                      source="Slovenski etnograf" year="1964" issue="16-17" page="359-377"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="1963">
-         <volume>16-17</volume>
-         <volume>16/17</volume>
-         <issue>
             <pubPart>
                <author>Baš A.</author>
                <title>Obuvala na Slovenskem v 15. in 16. stoletju</title>
@@ -27658,8 +27638,8 @@
       <pubCobiss>761348</pubCobiss>
       <issn>0038-0474</issn>
       <year n="2010">
-         <volume>4</volume>
-         <issue>
+         <volume>61</volume>
+         <issue n="4">
             <pubPart>
                <author>Berzelak S.</author>
                <title>O (ne)moči splošne izobrazbe v slovenski srednji šoli</title>
@@ -27775,7 +27755,7 @@
          </issue>
       </year>
       <year n="2001">
-         <volume>5</volume>
+         <volume>52</volume>
          <issue>
             <pubPart>
                <author>Marentič-Požarnik Barica</author>
@@ -27808,7 +27788,7 @@
          </issue>
       </year>
       <year n="2000">
-         <volume>52</volume>
+         <volume>51</volume>
          <issue n="4">
             <pubPart>
                <author>Medveš Z.</author>
@@ -28321,8 +28301,8 @@
          </issue>
       </year>
       <year n="2003">
-         <volume>4</volume>
-         <issue>
+         <volume>67</volume>
+         <issue n="4">
             <pubPart>
                <author>Debeljak Aleš</author>
                <title>Enotni slovenski kulturni prostor in Evropa maternih jezikov</title>
@@ -28408,9 +28388,7 @@
          </issue>
       </year>
       <year n="1990">
-         <volume>1</volume>
          <volume>38</volume>
-         <volume>XXXVIII</volume>
          <issue n="8-9">
             <pubPart>
                <author>Perovšek Jurij</author>
@@ -28462,7 +28440,7 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="6/7">
+         <issue n="6-7">
             <pubPart>
                <author>Jeri Janko</author>
                <title>1918 in jadransko vprašanje</title>
@@ -29092,7 +29070,6 @@
       <pubCobiss>30580225</pubCobiss>
       <issn>1318-0266</issn>
       <year n="2024">
-         <volume>21</volume>
          <issue>
             <pubPart>
                <author>Filipič France</author>
@@ -29102,23 +29079,6 @@
                   <cit did="1777" cid="17" avtor0="Filipič France"
                      naslov0="Spopad z gestapom v hajdinskem gozdu avgusta 1941"
                      source="Svobodna misel" year="2024" volume="21" page="12"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="2014">
-         <volume>33</volume>
-         <issue n="13">
-            <pubPart>
-               <author>Ferenc Tone</author>
-               <title>Poročilo o protinacistični dejavnosti v Evropi po napadu sil osi na Sovjetsko zvezo</title>
-               <page>15-16</page>
-               <cobiss>147572</cobiss>
-               <citedIn count="1">
-                  <cit did="1168" cid="6" avtor0="Ferenc Tone"
-                     naslov0="Poročilo o protinacistični dejavnosti v Evropi po napadu sil osi na Sovjetsko zvezo"
-                     cobiss="147572" source="Svobodna misel" year="2014" volume="33" issue="13"
-                     page="15-16"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -29184,7 +29144,8 @@
          </issue>
       </year>
       <year n="1999">
-         <issue n="28. 5. 1999">
+         <volume>37</volume>
+         <issue n="10">
             <pubPart>
                <author>Štefanec Tone</author>
                <title>Pri Ivanu Gjonu Simoniju</title>
@@ -29244,7 +29205,21 @@
          </issue>
       </year>
       <year n="1995">
-         <volume>XXXIII</volume>
+         <volume>33</volume>
+         <issue n="13">
+            <pubPart>
+               <author>Ferenc Tone</author>
+               <title>Poročilo o protinacistični dejavnosti v Evropi po napadu sil osi na Sovjetsko zvezo</title>
+               <page>15-16</page>
+               <cobiss>147572</cobiss>
+               <citedIn count="1">
+                  <cit did="1168" cid="6" avtor0="Ferenc Tone"
+                     naslov0="Poročilo o protinacistični dejavnosti v Evropi po napadu sil osi na Sovjetsko zvezo"
+                     cobiss="147572" source="Svobodna misel" year="2014" volume="33" issue="13"
+                     page="15-16"/>
+               </citedIn>
+            </pubPart>
+         </issue>
          <issue n="11">
             <pubPart>
                <author>Zurc Janez</author>
@@ -29357,7 +29332,7 @@
       <pubCobiss>51623936</pubCobiss>
       <issn>1318-6728</issn>
       <year n="2009">
-         <volume>18 - 42</volume>
+         <volume>18(42)</volume>
          <issue n="1">
             <pubPart>
                <author>Hojan Tatjana</author>
@@ -29423,8 +29398,8 @@
          </issue>
       </year>
       <year n="2005">
-         <volume>38</volume>
-         <issue>
+         <volume>14</volume>
+         <issue n="2">
             <pubPart>
                <author>Repe Božo</author>
                <title>Ob desetletnici mature iz zgodovine</title>
@@ -29598,10 +29573,6 @@
       </year>
       <year n="2001">
          <volume>10(34)</volume>
-         <volume>10 (34)</volume>
-         <volume>24</volume>
-         <volume>35</volume>
-         <volume>10</volume>
          <issue n="2">
             <pubPart>
                <author>Pavlič Slavica</author>
@@ -30036,8 +30007,7 @@
          </issue>
       </year>
       <year n="1974">
-         <volume>1-2</volume>
-         <issue>
+         <issue n="1-2">
             <pubPart>
                <author>Sladič Jože</author>
                <title>Za 30-letnico Grčaric</title>
@@ -30563,8 +30533,8 @@
          </issue>
       </year>
       <year n="1994">
-         <volume>5-6</volume>
-         <issue>
+         <volume>31</volume>
+         <issue n="5-6">
             <pubPart>
                <author>Klinar Peter</author>
                <title>O nacionalni identiteti in etnonacionalizmih</title>
@@ -30988,7 +30958,7 @@
          </issue>
       </year>
       <year n="1984">
-         <volume>27</volume>
+         <volume>21</volume>
          <issue n="7-8">
             <pubPart>
                <author>Malačič Janez</author>
@@ -31936,22 +31906,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1973">
-         <volume>1</volume>
-         <issue>
-            <pubPart>
-               <author>Cevc Tone</author>
-               <title>O pustnih šegah in šemah v vaseh in zaselkih pod Krvavcem v Kamniških alpah</title>
-               <page>173-180</page>
-               <cobiss>11189293</cobiss>
-               <citedIn count="1">
-                  <cit did="975" cid="3" avtor0="Cevc Tone"
-                     naslov0="O pustnih šegah in šemah v vaseh in zaselkih pod Krvavcem v Kamniških alpah"
-                     cobiss="11189293" source="Traditiones" year="1973" volume="1" page="173-180"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1972">
          <volume>1</volume>
          <issue>
@@ -31962,6 +31916,19 @@
                <citedIn count="1">
                   <cit did="457" cid="6" avtor0="Vilfan Sergij" naslov0="Komun v Črnotičah"
                      source="Traditiones" pubPlace="Ljubljana" year="1972" volume="1" page="155"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+               <author>Cevc Tone</author>
+               <title>O pustnih šegah in šemah v vaseh in zaselkih pod Krvavcem v Kamniških alpah</title>
+               <page>173-180</page>
+               <cobiss>11189293</cobiss>
+               <citedIn count="1">
+                  <cit did="975" cid="3" avtor0="Cevc Tone"
+                     naslov0="O pustnih šegah in šemah v vaseh in zaselkih pod Krvavcem v Kamniških alpah"
+                     cobiss="11189293" source="Traditiones" year="1973" volume="1" page="173-180"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -32282,7 +32249,7 @@
          </issue>
       </year>
       <year n="1989">
-         <volume>43</volume>
+         <volume>18</volume>
          <issue n="8">
             <pubPart>
                <author>Rebula Alojz</author>
@@ -32430,7 +32397,8 @@
          </issue>
       </year>
       <year n="2005">
-         <issue n="41">
+         <volume>41</volume>
+         <issue>
             <pubPart>
                <author>Ferenc Mitja</author>
                <title>Ministrstvo za kulturo in evidentiranje prikritih grobišč v RS</title>
@@ -32531,7 +32499,6 @@
          </issue>
       </year>
       <year n="2000">
-         <volume>XXXIX-XLI, XLII</volume>
          <issue>
             <pubPart>
                <author>Golob Tomaž</author>
@@ -32611,7 +32578,7 @@
          </issue>
       </year>
       <year n="1994">
-         <volume>XXXVI</volume>
+         <volume>36</volume>
          <issue>
             <pubPart>
                <author>Svetina Jasna</author>
@@ -32643,9 +32610,7 @@
          </issue>
       </year>
       <year n="1992">
-         <volume>3</volume>
          <volume>34</volume>
-         <volume>XXXIV</volume>
          <issue>
             <pubPart>
                <author>Breščak D.</author>
@@ -32691,8 +32656,8 @@
          </issue>
       </year>
       <year n="1991">
-         <volume>XXXIII</volume>
-         <issue n="33">
+         <volume>33</volume>
+         <issue>
             <pubPart>
                <author>Gerić Dunja</author>
                <title>Novo mesto</title>
@@ -32765,7 +32730,6 @@
          </issue>
       </year>
       <year n="1987">
-         <volume>XXIX</volume>
          <volume>29</volume>
          <issue>
             <pubPart>
@@ -32804,7 +32768,6 @@
          </issue>
       </year>
       <year n="1986">
-         <volume>XXVIII</volume>
          <volume>28</volume>
          <issue>
             <pubPart>
@@ -32887,7 +32850,7 @@
          </issue>
       </year>
       <year n="1984">
-         <volume>XXVI</volume>
+         <volume>26</volume>
          <issue>
             <pubPart>
                <author>Osmuk Nada</author>
@@ -33009,7 +32972,6 @@
          </issue>
       </year>
       <year n="1981">
-         <volume>XXIII</volume>
          <volume>23</volume>
          <issue>
             <pubPart>
@@ -33118,7 +33080,6 @@
          </issue>
       </year>
       <year n="1975">
-         <volume>12-19</volume>
          <volume>20</volume>
          <issue>
             <pubPart>
@@ -33144,8 +33105,7 @@
          </issue>
       </year>
       <year n="1974">
-         <volume>17/19</volume>
-         <volume>1719</volume>
+         <volume>17-19</volume>
          <issue n="1">
             <pubPart>
                <author>Gabrovec Stane</author>
@@ -33170,7 +33130,7 @@
          </issue>
       </year>
       <year n="1970">
-         <volume>XV</volume>
+         <volume>15</volume>
          <issue>
             <pubPart>
                <author>Boltin Tome Elica</author>
@@ -33239,7 +33199,6 @@
          </issue>
       </year>
       <year n="1962">
-         <volume>IX</volume>
          <volume>9</volume>
          <issue>
             <pubPart>
@@ -33371,7 +33330,7 @@
          </issue>
       </year>
       <year n="1951">
-         <volume>25</volume>
+         <volume>4</volume>
          <issue>
             <pubPart>
                <author>Komelj Ivan</author>
@@ -33592,8 +33551,6 @@
          </issue>
       </year>
       <year n="1974">
-         <volume>64</volume>
-         <volume>4</volume>
          <issue n="31-34">
             <pubPart>
                <author>Hajos Ferenc</author>
@@ -33631,8 +33588,6 @@
          </issue>
       </year>
       <year n="1973">
-         <volume>6</volume>
-         <volume>1</volume>
          <issue n="2-3">
             <pubPart>
                <author>Mile Pavlin</author>
@@ -33716,8 +33671,8 @@
       <pubCobiss>109821696</pubCobiss>
       <issn>1580-4828</issn>
       <year n="2009">
-         <volume>1</volume>
-         <issue n="10">
+         <volume>10</volume>
+         <issue n="1">
             <pubPart>
                <author>Sapač Igor</author>
                <title>Utrdbena arhitektura na Slovenskem v poznem srednjem veku</title>
@@ -33874,7 +33829,6 @@
       </year>
       <year n="2001">
          <volume>3</volume>
-         <volume>2</volume>
          <issue n="1">
             <pubPart>
                <author>Grabnar Marjan</author>
@@ -34206,22 +34160,6 @@
       <publisher>Zavod Republike Slovenije za šolstvo</publisher>
       <pubCobiss>1131780</pubCobiss>
       <issn>0350-5065</issn>
-      <year n="2038">
-         <issue n="6">
-            <pubPart>
-               <author>Bosnič T.</author>
-               <title>O vplivu filma in televizije na znanje tujih jezikov</title>
-               <page>25-29</page>
-               <cobiss>988028</cobiss>
-               <citedIn count="1">
-                  <cit did="2494" cid="3" avtor0="Bosnič T."
-                     naslov0="O vplivu filma in televizije na znanje tujih jezikov"
-                     source="Vzgoja in izobraževanje" pubPlace="Ljubljana"
-                     publisher="Zavod Republike Slovenije" year="2038" issue="6"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="2009">
          <volume>40</volume>
          <issue n="1">
@@ -34251,7 +34189,6 @@
          </issue>
       </year>
       <year n="2007">
-         <volume>18</volume>
          <volume>38</volume>
          <issue n="4">
             <pubPart>
@@ -34279,6 +34216,18 @@
                      naslov0="Medijska kultura v gimnazijskem kurikulu"
                      source="Vzgoja in izobraževanje" pubPlace="Ljubljana" year="2007" volume="38"
                      issue="6"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Bosnič T.</author>
+               <title>O vplivu filma in televizije na znanje tujih jezikov</title>
+               <page>25-29</page>
+               <cobiss>988028</cobiss>
+               <citedIn count="1">
+                  <cit did="2494" cid="3" avtor0="Bosnič T."
+                     naslov0="O vplivu filma in televizije na znanje tujih jezikov"
+                     source="Vzgoja in izobraževanje" pubPlace="Ljubljana"
+                     publisher="Zavod Republike Slovenije" year="2038" issue="6"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -34457,11 +34406,11 @@
          </issue>
       </year>
       <year n="1991">
-         <volume>7</volume>
          <issue n="5">
-            <pubPart>
+            <pubPart> <!-- Ne obstaja (narobe citirano) najbližje: . CENCIČ, Majda. Opazovanje pouka za izboljšanje učiteljevega dela. 23, 1992, št. 5, str. 26–30.  -->
                <author>Cencič M.</author>
                <title>Učitelji opazujejo svoj pouk</title>
+               <page>24</page>
                <citedIn count="1">
                   <cit did="2494" cid="2" avtor0="Cencič M." naslov0="Učitelji opazujejo svoj pouk"
                      source="Vzgoja in izobraževanje" pubPlace="Ljubljana" year="1991" volume="7"
@@ -36423,8 +36372,6 @@
          </issue>
       </year>
       <year n="1959">
-         <volume>28</volume>
-         <volume>5 - 6</volume>
          <volume>5-6</volume>
          <issue>
             <pubPart>
@@ -36533,7 +36480,6 @@
          </issue>
       </year>
       <year n="1952">
-         <volume>N.V. 2</volume>
          <volume>2</volume>
          <issue>
             <pubPart>
@@ -36668,7 +36614,7 @@
          </issue>
       </year>
       <year n="1935">
-         <volume>XIII</volume>
+         <volume>13</volume>
          <issue>
             <pubPart>
                <author>Vurnik Stanko, Marolt Marijan</author>
@@ -37160,9 +37106,9 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1981">
-         <volume>6</volume>
-         <issue>
+      <year n="1981"> 
+         <volume>50</volume>
+         <issue n="6">
             <pubPart>
                <author>Milčinski Lev</author>
                <title>Vrhunski alpinizem kot oblika indirektnega samodestruktivnega vedenja</title>
@@ -37359,22 +37305,6 @@
             </pubPart>
          </issue>
       </year>
-      <year n="1996">
-         <volume>16</volume>
-         <issue>
-            <pubPart>
-               <author>Lučič J.</author>
-               <title>O migracijama ilirskog plemena Ardijejaca</title>
-               <title>(Sur les migrations des Ardieens, peuple illyrien)</title>
-               <page>245-254</page>
-               <citedIn count="1">
-                  <cit did="1748" cid="597" avtor0="Lučič J."
-                     naslov0="O migracijama ilirskog plemena Ardijejaca (Sur les migrations des Ardieens, peuple illyrien)"
-                     source="Živa Antika" year="1996" volume="16" page="245-254"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1984">
          <volume>34</volume>
          <issue>
@@ -37528,6 +37458,17 @@
                   <cit did="1748" cid="522" avtor0="Katičić R."
                      naslov0="Nochmals lllyrii proprie dicti" source="Živa antika" year="1966"
                      volume="16" page="242-244"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Lučič J.</author>
+               <title>O migracijama ilirskog plemena Ardijejaca</title>
+               <title>(Sur les migrations des Ardieens, peuple illyrien)</title>
+               <page>245-254</page>
+               <citedIn count="1">
+                  <cit did="1748" cid="597" avtor0="Lučič J."
+                     naslov0="O migracijama ilirskog plemena Ardijejaca (Sur les migrations des Ardieens, peuple illyrien)"
+                     source="Živa Antika" year="1996" volume="16" page="245-254"/>
                </citedIn>
             </pubPart>
          </issue>
