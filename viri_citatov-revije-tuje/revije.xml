@@ -382,7 +382,7 @@
             <pubPart>
                <author>Galimberti S.</author>
                <title>Clero e strutture ecclesiastiche in Istria tra Otto e Novecento</title>
-               <title>Clero e strutture ecclesiastiche in Istria tra Otto e Novecento (Diocesi di Parenzo - Pola)</title>
+               <title>(Diocesi di Parenzo - Pola)</title>
                <page>149-242</page>
                <citedIn count="2">
                   <cit did="2596"
@@ -452,7 +452,6 @@
             <pubPart>
                <author>Rossi R. F.</author>
                <title>Problemi di storia dell' Istria in età romana</title>
-               <title>Problemi di storia dell'lstria in eta romana</title>
                <page>41-55</page>
                <citedIn count="2">
                   <cit did="2592"
@@ -482,7 +481,6 @@
                <author>Bandelli G.</author>
                <author>Bandelli Gino</author>
                <title>La politica romana nell'Adriatico orientale in età repubblicana</title>
-               <title>La politica romana nell' Adriatico orientale in eta repubblicana</title>
                <page>167-175</page>
                <citedIn count="2">
                   <cit did="2592"
@@ -554,8 +552,8 @@
             <pubPart>
                <author>Quarantotti G.</author>
                <author>Quarantotti Giovanni</author>
-               <title>La seconda Dieta provinciale istriana (1861.-1867.)</title>
-               <title>La seconda Dieta provinciale istriana (1861-1867)</title>
+               <title>La seconda Dieta provinciale istriana</title>
+               <title>(1861-1867)</title>
                <page>193-235</page>
                <citedIn count="2">
                   <cit did="2596"
@@ -585,7 +583,7 @@
                <author>De Franceschi C.</author>
                <author>De Franceschi Carlo</author>
                <title>Saggi e considerazioni sull' Istria nell' Alto Medioevo</title>
-               <title>Saggi e considerazioni sull' Istria nell' Alto Medioevo, II episcopus Cessensis</title>
+               <title>Il episcopus Cessensis</title>
                <page>69-106</page>
                <citedIn count="2">
                   <cit did="2873"
@@ -668,7 +666,7 @@
                <author>De Franceschi Camillo</author>
                <title>Storia documentata della Contea di Pisino</title>
                <title>Storia documentata della contea di Pisino</title>
-               <title>Storia documentata della contea di Pisino, a cura del figiio Carlo</title>
+               <title>a cura del figiio Carlo</title>
                <page>62-64</page>
                <citedIn count="4">
                   <cit did="3539"
@@ -804,7 +802,6 @@
             <pubPart>
                <author>De Franceschi Cam.</author>
                <author>De Franceschi Camillo</author>
-               <title>Il ramo dei Duinati di Momiano e il suo sax storia</title>
                <title>Il ramo dei Duinati di Momiano e il suo secolo di storia</title>
                <citedIn count="2">
                   <cit did="2873"
@@ -937,8 +934,8 @@
             <pubPart>
                <author>De Franceschi Cam.</author>
                <author>De Franceschi Camillo</author>
-               <title>L'antica abbazia di S. Maria del Canneto in Pofc suo registro censuario del secolo XII.</title>
-               <title>L'antica abbazia di S. Maria del Canneto in Pola c un suo registro censuario del secolo XII</title>
+               <title>L'antica abbazia di S. Maria del Canneto in Pola e un suo registro censuario del secolo XII.</title>
+               <page>311-345</page>
                <citedIn count="2">
                   <cit did="2873"
                        cid="93"
@@ -1029,8 +1026,10 @@
          <issue>
             <pubPart>
                <author>De Franceschi Camillo</author>
-               <title>Chartularium Piranense, Raccolta dei documenti medievali di Pirano I. (1062- 1300)</title>
-               <title>Chartularium Piranense. Raccolta di documenti medievali di Pirano</title>
+               <title>Chartularium Piranense</title>
+               <title>Raccolta dei documenti medievali di Pirano</title>
+               <page>1062-1300</page>
+               <page>1301-1350</page>
                <citedIn count="2">
                   <cit did="750"
                        cid="3"
@@ -1132,7 +1131,6 @@
             <pubPart>
                <author>Benussi B.</author>
                <author>Benussi Bernardo</author>
-               <title>Parenzo nell' evo medio e moderno</title>
                <title>Parenzo nell'evo medio e moderno</title>
                <page>149-205</page>
                <citedIn count="2">
@@ -1162,8 +1160,6 @@
             <pubPart>
                <author>Babudri F.</author>
                <title>I vescovi di Parenzo e la loro cronologia</title>
-               <title>l vescovi di Parenzo e la loro cronologia</title>
-               <page>170-184</page>
                <page>170-284</page>
                <citedIn count="2">
                   <cit did="2595"
@@ -1204,10 +1200,8 @@
          <issue>
             <pubPart>
                <author>Mayer E.</author>
-               <title>La costituzione municipale dalmato-istriana nel medio sue basi romane</title>
                <title>La costituzione municipale dalmato-istriana nel medioevo e le sue basi romane</title>
                <page>347-462</page>
-               <page>307</page>
                <citedIn count="2">
                   <cit did="2873"
                        cid="131"
@@ -1235,8 +1229,8 @@
             <pubPart>
                <author>Puschi A.</author>
                <title>La necropoli preromana di Nesazio</title>
-               <title>La necropoli preromana di Nesazio. Relazione degli scavi negli anni 1901. 1902 e 1903</title>
-               <page>3-202</page>
+               <title>Relazione degli scavi negli anni 1901 1903 e 1904</title>
+               <page>1-202</page>
                <citedIn count="2">
                   <cit did="2873"
                        cid="60"
@@ -1283,10 +1277,8 @@
          <issue>
             <pubPart>
                <author>Schiavuzzi B.</author>
-               <title>Cenni storici sull' etnografia dell' Istria</title>
                <title>Cenni storici sull'etnografia dell'Istria</title>
-               <page>17-20</page>
-               <page>305</page>
+               <page>300-331</page>
                <citedIn count="2">
                   <cit did="2873"
                        cid="214"
@@ -1381,8 +1373,7 @@
          <issue n="1-2">
             <pubPart>
                <author>Minotto A. S.</author>
-               <title>Documenta</title>
-               <title>ad Forumjulii, Istriam, Goritiam, Tergestum spectantia</title>
+               <title>Documenta ad Forumjulii, Istriam, Goritiam, Tergestum spectantia</title>
                <page>3-47</page>
                <citedIn count="1">
                   <cit did="750"
@@ -1435,9 +1426,7 @@
             <pubPart>
                <author>Benussi B.</author>
                <author>Benussi Bernardo</author>
-               <title>Il privilegio eufrasiano</title>
                <title>Privilegio Eufrasiano</title>
-               <title>atti e memorie della Societa Istriana di archeologia e storia patria 8</title>
                <page>49-86</page>
                <citedIn count="4">
                   <cit did="2873"
@@ -1594,14 +1583,8 @@
             <pubPart>
                <author>Colombo Fulvio</author>
                <author>Colombo F.</author>
-               <title>II »Taber« di Draga e la genesi delle strutture erette a difesa delle ineursioni turche nei dintorni di Trieste alla fine del quattrocento</title>
-               <title>II "Taber" di Draga e la genesi delle strutture erette a difesa delle incursioni turche nei dintorni di Trieste alla fine del quattrocento</title>
-               <title>Il "Taber" di Draga e la genesi delle
-strutture erette a difesa delle incursioni turche nei dintorni di Trieste
-alla fine del quattrocento</title>
+               <title>Il »Taber« di Draga e la genesi delle strutture erette a difesa delle ineursioni turche nei dintorni di Trieste alla fine del quattrocento</title>
                <page>285-322</page>
-               <page>285-320</page>
-               <page>[285]-320</page>
                <citedIn count="3">
                   <cit did="2414"
                        cid="10"
@@ -1675,8 +1658,9 @@ alla fine del quattrocento</title>
          <issue>
             <pubPart>
                <author>Apollonio A.</author>
-               <title>Trieste tra guerra e pace (1797-1824)...</title>
-               <title>Trieste tra guerra e pace 1797-1824</title>
+               <title>Trieste tra guerra e pace</title>
+               <title>(1797-1824)</title>
+               <title>le contribuzioni belliche francesi l'attività politica di Domenico Rossetti e i travagli della burocrazia austriaca</title>
                <page>295-342</page>
                <citedIn count="2">
                   <cit did="3515"
@@ -1744,11 +1728,8 @@ alla fine del quattrocento</title>
          <issue n="4">
             <pubPart>
                <author>Dorsi P.</author>
-               <title>"Libertà" e "legislazione" : Il rapporto del barone Pittoni sullo stato della città di Trieste e del suo territorio (1786)</title>
-               <title>"Liberta" e "Legislazione": II rapporto del barone Pittoni sullo stato della citta di Trieste e del suo Territorio (1786)</title>
-               <title>"Liberta" e "Legislazione" : il rapporto del barone Pittoni sullo stato della...</title>
-               <title>»Libertà« e »Legislazione«. II rapporto del barone Pittoni sullo stato délia città di Trieste e del suo Territorio (1786)</title>
-               <page>4</page>
+               <title>"Libertà" e "legislazione"</title>
+               <title>Il rapporto del barone Pittoni sullo stato della citta di Trieste e del suo Territorio (1786)</title>
                <page>137-185</page>
                <citedIn count="4">
                   <cit did="86"
@@ -2005,8 +1986,7 @@ alla fine del quattrocento</title>
             <pubPart>
                <author>Tamaro A.</author>
                <title>Fine del Settecento a Trieste. Lettere del barone P. A. Pittoni</title>
-               <title>Fine del Settecento a Trieste: lettere del barone P. A. Pittoni (1782-1801)</title>
-               <page>3-340</page>
+               <title>(1782-1801)</title>
                <page>3-430</page>
                <citedIn count="2">
                   <cit did="3459"
@@ -2235,7 +2215,6 @@ alla fine del quattrocento</title>
                <author>Benussi B.</author>
                <author>Benussi Bernardo</author>
                <title>Dalle annotazioni di Alberto Puschi per la carta archeologica dell Istria</title>
-               <title>Dalle annotazioni di Alberto Puschi</title>
                <page>243-282</page>
                <citedIn count="2">
                   <cit did="1916"
@@ -2634,8 +2613,9 @@ alla fine del quattrocento</title>
             </pubPart>
             <pubPart>
                <author>Urbanitsch Peter</author>
-               <title>Pluralist Myth and National Realities: The Dynastie Myth of the Habsburg Monarchy - a Futile Exercise in the Creation of Identity</title>
-               <page>101-114</page>
+               <title>Pluralist Myth and National Realities</title>
+               <title>The Dynastie Myth of the Habsburg Monarchy - a Futile Exercise in the Creation of Identity</title>
+               <page>101-141</page>
                <citedIn count="1">
                   <cit did="2044"
                        cid="27"
@@ -2672,12 +2652,12 @@ alla fine del quattrocento</title>
       </year>
       <year n="2001">
          <volume>32</volume>
-         <issue n="XXXII">
+         <issue>
             <pubPart>
                <author>Harmat Ulrike</author>
                <title>Divorce and Remarriage in Austria-Hungary</title>
                <title>The Second Marriage of Franz Conrad von Hötzendorf</title>
-               <page>75</page>
+               <page>69-103</page>
                <citedIn count="1">
                   <cit did="290"
                        cid="8"
@@ -2753,7 +2733,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Wank Solomon</author>
                <title>Some Reflections on the Habsburg Empire and Its Legacy in the Nationalities Question</title>
-               <title>Some Reflections on the Habsburg Empire and its Legacy in the Nationales Question</title>
                <page>131-146</page>
                <citedIn count="2">
                   <cit did="1760"
@@ -2858,7 +2837,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue>
             <pubPart>
                <author>Fellner Fritzt</author>
-               <title>The Disslution of the Habsburg Monarchy and its Significance for the New Order in Central Europe</title>
+               <title>The Dissolution of the Habsburg Monarchy and Its Significance for the New Order in Central Europe</title>
                <title>A Reappraisal</title>
                <page>3-27</page>
                <citedIn count="1">
@@ -2990,9 +2969,9 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="3">
             <pubPart>
                <author>Whiteside Andrew G.</author>
-               <title>The Germans as an Intergrative Force in Imperial Austria:</title>
+               <title>The Germans as an Integrative Force in Imperial Austria</title>
                <title>The Dilema of Dominance</title>
-               <page>163</page>
+               <page>157-201</page>
                <citedIn count="1">
                   <cit did="298"
                        cid="44"
@@ -3162,10 +3141,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Kahl Hans Dietrich</author>
                <author>Kahl Hans-Dietrich</author>
-               <title>Der »Richter des Landes« zu Kärnten in Überlieferung des sogenannten Schwabenspiegels</title>
                <title>Der "Richter des Landes" zu Kärnten in Überlieferung des sogennanten Schwabenspiegels</title>
-               <page>133-141</page>
-               <page>133, 138, 140</page>
+               <page>133-142</page>
                <citedIn count="2">
                   <cit did="3257"
                        cid="36"
@@ -3244,14 +3221,9 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Kahl Hans Dietrich</author>
                <author>Kahl Hans-Dietrich</author>
-               <title>Wer ist in Kärnten autochthon</title>
-               <title>Wer ist Kärnten "autochton"</title>
-               <title>Anmerkungen zur Bevölkerungsgeschichte zwischen Karawankwn und Tauern</title>
-               <title>wer ist in Kärnten "autochton"...</title>
-               <title>Wer ist in Kärnten "autochton"</title>
+               <title>Wer ist in Kärnten autochthon?</title>
                <title>Anmerkungen zur Bevölkerungsgeschichte zwischen Karawanken und Tauern</title>
-               <page>419</page>
-               <page>419, 425</page>
+               <page>419-427</page>
                <citedIn count="4">
                   <cit did="2447"
                        cid="35"
@@ -3320,12 +3292,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="183">
             <pubPart>
                <author>Ogris Alfred</author>
-               <title>Fürstenstein und Herzogstuhl - Symbole der Kärntner Landesgeschichte im Widerstreit ethnischer und territorialer Tendenzen in der slowenischen Geschichtsschreibung</title>
-               <title>Publizistik und Politik</title>
-               <title>Fürstenstein und Herzogstuhl - Symbole der Kärntner Landesgeschichte im Widerstreit ethnischer und territorialer Tendenzen in der slowenischen Geschichtschreibung, Publizistik und Politik</title>
-               <title>Fürstenstein und Herzogstuhl - Symbole der Kärntner Landesgeschichte im Wiederstreit ethnischer und territorialer Tendenzen in der slowenischen Geschichtsschreibung</title>
-               <title>Fürstenstein und Herzogstuhl - Symbole der Kärntner Landesgeschichte im Widerstreit ethnischer und territorialer Tendenzen in der slowenischen Geschichtsschreibung, Publizistik und Politik</title>
-               <page>729</page>
+               <title>Fürstenstein und Herzogstuhl</title>
+               <title>Symbole der Kärntner Landesgeschichte im Widerstreit ethnischer und territorialer Tendenzen in der slowenischen Geschichtschreibung, Publizistik und Politik</title>
                <page>729-767</page>
                <cobiss>1360461</cobiss>
                <citedIn count="4">
@@ -3391,10 +3359,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Lackner C.</author>
                <author>Lackner Christian</author>
-               <title>Zur Geschichte der Grafen von Ortenburg in Kärnten</title>
-               <title>Zur Geschichte der Grafen von Ortenburg in Karnten und Krain</title>
                <title>Zur Geschichte der Grafen von Ortenburg in Kärnten und Krain</title>
-               <title>Zur geschichte der Grafen von Ortenburg in Kärnten und Krain</title>
                <page>181-200</page>
                <citedIn count="4">
                   <cit did="2640"
@@ -3436,9 +3401,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="179">
             <pubPart>
                <author>Glaser Franz</author>
-               <title>Das Münster in Molzbichl, das altäteste Kloster Kärntens</title>
                <title>Das Münster in Molzbichl, das älteste Kloster Kärntens</title>
-               <page>99</page>
+               <page>99-124</page>
                <citedIn count="2">
                   <cit did="2021"
                        cid="36"
@@ -3498,11 +3462,9 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Bertels Karl</author>
                <author>Bertels Klaus</author>
-               <title>Carantania: Beobachtungen zur politisch-geographischen Terminologie....</title>
-               <title>Carantania, Beobachtungen zur politish-geographischen Terminologie und zur Geschichte...</title>
-               <title>Carantania: Beobachtungen zur politisch-geographischen Terminologie...</title>
-               <page>96</page>
-               <page>114</page>
+               <title>Carantania</title>
+               <title>Beobachtungen zur politisch-geographischen Terminologie und zur Geschichte des Landes und seiner Bevölkerung im frühen Mittelalter</title>
+               <page>87-196</page>
                <citedIn count="3">
                   <cit did="1893"
                        cid="12"
@@ -3706,7 +3668,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <author>Hassinger H.</author>
                <author>Hassinger Herbert</author>
                <title>Die Handels- und Verkehrsstellung Villachs bis in die Mitte des 19. Jahrhunderts</title>
-               <title>Die Handels-und Verkehrsstellung Villachs bis in die Mitte des 19. Jahrhunderts</title>
                <page>211-282</page>
                <citedIn count="3">
                   <cit did="2640"
@@ -3838,11 +3799,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Dopsch H.</author>
                <author>Dopsch Heinz</author>
-               <title>Die Stifterfamilie des Klosters Gurk und ihre Verwandschaft</title>
                <title>Die Stifterfamilie des Klosters Gurk und ihre Verwandtschaft</title>
-               <title>Die Stifterfamilie des Klosters Gurk und ihre Vewandtschaft</title>
                <page>95-123</page>
-               <page>95-124</page>
                <citedIn count="5">
                   <cit did="2631"
                        cid="54"
@@ -3890,10 +3848,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             </pubPart>
             <pubPart>
                <author>Koller Heinrich</author>
-               <title>Zur Vorgeschichte der Gurker Bistumsgrundung</title>
-               <title>Zur Vorgeschiehte der Gurker Bistumsgründung</title>
+               <title>Zur Vorgeschichte der Gurker Bistumsgründung</title>
                <page>51-75</page>
-               <page>51-76</page>
                <citedIn count="2">
                   <cit did="2583"
                        cid="47"
@@ -4193,7 +4149,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <author>Metnitz Gustav Adolf von</author>
                <author>Metnitz G. A. von</author>
                <title>Geadelte Bürger in Kärnten (1. Teil)</title>
-               <title>Geadelte Bürger in Kärnten</title>
+               <title>(1. Teil)</title>
                <page>70-151</page>
                <citedIn count="2">
                   <cit did="2647"
@@ -4393,7 +4349,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
             </pubPart>
             <pubPart>
                <author>Posch Fritz</author>
-               <title>Die Verkaufrechtungen auf den landesfiirstlichen Pfandherrschaften Kärntens im 16. Jahrhundert</title>
                <title>Die Verkaufrechtungen auf den landesfürstlichen Pfandherrschaften Kärntens im 16. Jahrhundert</title>
                <page>465-487</page>
                <citedIn count="2">
@@ -4421,7 +4376,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue>
             <pubPart>
                <author>Kundegraber Maria</author>
-               <title>Entstehung und Bedeutung der Gottschee, Sammlung des Österreichischen Museums fur Volkskunde</title>
                <title>Entstehung und Bedeutung der Gottschee, Sammlung des Österreichischen Museums für Volkskunde</title>
                <page>799-834</page>
                <citedIn count="2">
@@ -4821,7 +4775,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="123">
             <pubPart>
                <author>Klebel Ernst</author>
-               <title>Die Brixner Besitzungen in Karnten</title>
                <title>Die Brixner Besitzungen in Kärnten</title>
                <page>44-73</page>
                <citedIn count="2">
@@ -4868,7 +4821,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Wutte Martin</author>
                <title>Aus Bleiburgs Geschichte</title>
-               <title>Aus Bleiburgs Geschichte. Zum 700 jährigen Jubiläum des Ortes</title>
+               <title>Zum 700 jährigen Jubiläum des Ortes</title>
                <page>81-90</page>
                <citedIn count="2">
                   <cit did="2234"
@@ -5014,10 +4967,7 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <author>Wute Martin</author>
                <author>Wutte Martin</author>
                <title>Die sprachlichen Verhältnisse in Kärnten auf Grundlage der Volkszählung von 1900 und ihre Veränderungen im 19. Jahrhunderts</title>
-               <title>Die sprachlichen Verhältnise in Kärnten auf Grundlage der Volkszählung von 1900...</title>
-               <title>Die sprachlichen Verhältnisse in Kärnten auf Grundlage der Volkszählung von 1900</title>
                <page>153-178</page>
-               <page>157</page>
                <citedIn count="3">
                   <cit did="438"
                        cid="9"
@@ -5136,8 +5086,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="1">
             <pubPart>
                <author>Guštin Damijan</author>
-               <title>Slovenija, saveznica Hrvatske tijekom razlaza s jugoslovenskom državom (od »nenačelne koalicije« do raspada vojnog saveza 1989-1991</title>
-               <title>Slovenija, saveznica Hrvatske tijekom razlaza s jugoslavenskom državom (od «nenačelne koalicije» do raspada vojnog saveza 1989.-1991.)</title>
+               <title>Slovenija, saveznica Hrvatske tijekom razlaza s jugoslovenskom državom</title>
+               <title>(od »nenačelne koalicije« do raspada vojnog saveza 1989-1991)</title>
                <page>85-104</page>
                <page>85-106</page>
                <cobiss>2914420</cobiss>
@@ -5552,8 +5502,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Matijević Zlatko</author>
                <author>Matijevič Zlatko</author>
-               <title>Politika Hrvatske pučke stranke u vrijeme atentata na hrvatske zastupnike u Narodnoj skupščtini Kraljevine SHS (1927-1928)</title>
-               <title>Politika Hrvatske pučke stranke u vrijeme atentata na hrvatske zastopnike u Narodnoj skupštini Kraljevine SHS (1927-1928)</title>
+               <title>Politika Hrvatske pučke stranke u vrijeme atentata na hrvatske zastupnike u Narodnoj skupščtini Kraljevine SHS</title>
+               <title>(1927-1928)</title>
                <page>241</page>
                <citedIn count="2">
                   <cit did="2142"
@@ -5853,9 +5803,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="1">
             <pubPart>
                <author>Barker Elisabeth</author>
-               <title>Državni udar u Beogradu i Britanci - Vojni puč 27. ožuljka 1941</title>
-               <title>Državni udar u Beogradu i Britanci : Vojni puč 27. ožujka 1941</title>
-               <page>27</page>
+               <title>Državni udar u Beogradu i Britanci </title>
+               <title>Vojni puč 27. ožujka 1941</title>
                <page>7-28</page>
                <citedIn count="2">
                   <cit did="3133"
@@ -5962,10 +5911,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="2-3">
             <pubPart>
                <author>Biber Dušan</author>
-               <title>Knez Pavle v konfinaciji</title>
                <title>Knez Pavle u konfinaciji</title>
                <page>19-46</page>
-               <page>33</page>
                <citedIn count="2">
                   <cit did="2919"
                        cid="8"
@@ -5995,8 +5942,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Šepić Dragovan</author>
                <author>Šepič Dragovan</author>
-               <title>Talijanski iredentizam na Jadranu (konstante i transformacije</title>
-               <title>Talijanski iredentizam na Jadranu</title>
+               <title>Talijanski iredentizam na Jadranu </title>
+               <title>(konstante i transformacije)</title>
                <page>5-32</page>
                <citedIn count="2">
                   <cit did="334"
@@ -6022,7 +5969,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Šepič Dragovan</author>
                <author>Šepić Dragovan</author>
-               <title>Velika Britanija i pitanje revizije jugoslovensko-tali-janske granice 1941</title>
                <title>Velika Britanija i pitanja revizije jugoslovenski-talijanske granice 1941</title>
                <page>121-140</page>
                <citedIn count="2">
@@ -6115,7 +6061,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <author>Groos Mirjana</author>
                <author>Gross Mirjana</author>
                <title>Hrvatska politika velikoaustrijskog kruga oko prijestolonasljednika Franje Ferdinanda</title>
-               <title>Hrvatska politika velikoaustrijskog kruga oko prestolonaslednika Franje Ferdinanda</title>
                <page>9-74</page>
                <citedIn count="4">
                   <cit did="629"
@@ -6501,8 +6446,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Faist T.</author>
                <author>Faist Thomas</author>
-               <title>Transnationalization in international migration: implications for the study of citizenship and culture</title>
-               <title>Transnationalization in international migration: implications for the study of Citizenship and culture</title>
+               <title>Transnationalization in international migration</title>
+               <title>implications for the study of Citizenship and culture</title>
                <page>189-222</page>
                <citedIn count="2">
                   <cit did="3054"
@@ -6585,8 +6530,9 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Portes A.</author>
                <author>Portes Alejandro</author>
-               <title>Towards a New World: the Origin and Effects of Transnational Activities</title>
-               <title>Conclusion: towards a new world - the origins and effects of transnational activities</title>
+               <title>Conclusion</title>
+               <title>Towards a New World</title>
+               <title>the Origin and Effects of Transnational Activities</title>
                <page>463-477</page>
                <citedIn count="2">
                   <cit did="3054"
@@ -6612,12 +6558,9 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Portes Alejandro</author>
                <author>Guarnizo Luis E. et al</author>
-               <title>The Study of Transnationalism: Pitfalls and Promise of an Emergent Research Field</title>
-               <title>The study of transnationalism. Pitfalls and promise of an emergent research field</title>
-               <title>The study of transnationalism: pitfalls and promise of an emergent research field</title>
-               <title>The study of transnationalism: pitfalls and promises of on emerging research field</title>
+               <title>The Study of Transnationalism</title>
+               <title>Pitfalls and Promise of an Emergent Research Field</title>
                <page>217-237</page>
-               <page>217-137</page>
                <citedIn count="4">
                   <cit did="2853"
                        cid="175"
@@ -6665,7 +6608,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <author>Vertovec Stephen</author>
                <author>Vertovec Steven</author>
                <title>Conceiving and Researching Transnationalism</title>
-               <title>Conceiving and researching transnationalism</title>
                <page>447-462</page>
                <citedIn count="2">
                   <cit did="2853"
@@ -6921,8 +6863,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="2">
             <pubPart>
                <author>Gans Herbert</author>
-               <title>Second-generation decline: Scenarios for the Economic and Ethnic futures of the post-1965 American immigrants</title>
-               <title>Second-generation decline: Scenarios for the economic and ethnic futures of the post-1965 American immigrants</title>
+               <title>Second-generation decline</title>
+               <title>Scenarios for the Economic and Ethnic futures of the post-1965 American immigrants</title>
                <page>173-192</page>
                <citedIn count="3">
                   <cit did="2891"
@@ -6972,8 +6914,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue n="3">
             <pubPart>
                <author>Smith Anthony D.</author>
-               <title>Chosen peoples: Why ethnic groups survive</title>
-               <title>Chosen peoples: why ethnic groups survive</title>
+               <title>Chosen peoples</title>
+               <title>Why ethnic groups survive</title>
                <citedIn count="2">
                   <cit did="2891"
                        cid="40"
@@ -7101,9 +7043,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Gans Herbert</author>
                <author>Gans Herbert J.</author>
-               <title>Symbolic ethnicity: The future of ethnic groups and cultures in America</title>
-               <title>Symbolic Ethnicity: The future of Ethnic Groups and Cultures in America</title>
-               <title>Symbolic ethnicity: The future of ethnic group and cultures in America</title>
+               <title>Symbolic ethnicity</title>
+               <title>The future of ethnic groups and cultures in America</title>
                <page>1-20</page>
                <citedIn count="4">
                   <cit did="3039"
@@ -7256,8 +7197,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Portes A.</author>
                <author>Portes Alejandro</author>
-               <title>Immigration theory for a new century: some problems and opportunities</title>
-               <title>Immigration Theory fora New Century: Some Problems and Opportunities</title>
+               <title>Immigration Theory fora New Century</title>
+               <title>Some Problems and Opportunities</title>
                <page>799-825</page>
                <citedIn count="2">
                   <cit did="3054"
@@ -7417,8 +7358,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             </pubPart>
             <pubPart>
                <author>Schmitter Heisler Barbara</author>
-               <title>The Future of Immigrant Incorporation: Which Models? Which Concepts?</title>
-               <title>The future of immigrant incorporation: Which models? Which concepts?</title>
+               <title>The Future of Immigrant Incorporation</title>
+               <title>Which Models? Which Concepts?</title>
                <page>623-645</page>
                <citedIn count="2">
                   <cit did="2728"
@@ -7846,8 +7787,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Klen D.</author>
                <author>Klen Danilo</author>
-               <title>Solane i rižišta na istočnoj obali Istre (XVII.-XVIII. st.)</title>
-               <title>Solane i rižišta na istočnoj obali Istre (XVII-XVIII st.)</title>
+               <title>Solane i rižišta na istočnoj obali Istre</title>
+               <title>(XVII.-XVIII. st.)</title>
                <page>237-252</page>
                <citedIn count="2">
                   <cit did="3539"
@@ -8000,7 +7941,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
          <issue>
             <pubPart>
                <author>Kuntić Ljerka</author>
-               <title>Slovenija u političkom programu Stranke prava do /1871</title>
                <title>Slovenija u političkom programu Stranke prava do 1871</title>
                <page>113-133</page>
                <citedIn count="2">
@@ -8115,8 +8055,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Žitnik Serafin Janja</author>
                <author>Žitnik J.</author>
-               <title>Statistical facts are human fates : unequal citizens in Slovenia</title>
-               <title>Statistical facts are human fates: Unequal citizens in Slovenia</title>
+               <title>Statistical facts are human fates</title>
+               <title>Unequal citizens in Slovenia</title>
                <page>77-94</page>
                <cobiss>27447853</cobiss>
                <citedIn count="2">
@@ -8555,8 +8495,8 @@ culture, and modernity in nineteenth-century Central Europe</title>
             <pubPart>
                <author>Grabmayer Johannes</author>
                <author>Grabmayer J.</author>
-               <title>Das Opfer war der Täter</title>
-               <title>Das Opfer der Täter. Das Attentat von Belgrad 1456 - über Sterben und Tod Ulrichs II. von Cilli</title>
+               <title>Das Opfer der Täter</title>
+               <title>Das Attentat von Belgrad 1456 - über Sterben und Tod Ulrichs II. von Cilli</title>
                <page>286-316</page>
                <citedIn count="3">
                   <cit did="163"
@@ -8612,9 +8552,6 @@ culture, and modernity in nineteenth-century Central Europe</title>
                <title>Die Grafen von Cilli, die Frage ihrer
 landesfürstlichen Hoheit und des Landes Cilli</title>
                <title>Die Grafen von Cilli, die Frage ihrer landesfürstlichen Hoheit und des Landes Cilli</title>
-               <title>Die Grafen von Cilli</title>
-               <title>Die Frage ihrer landfürstlichen Hoheit und des Landes Cilli</title>
-               <page>67/98</page>
                <page>67-98</page>
                <cobiss>18394978</cobiss>
                <citedIn count="5">
@@ -8667,8 +8604,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Hassinger Herbert</author>
                <author>Härtel Reinhard</author>
-               <title>Görz und die Görzer im Hochmittclalter</title>
-               <title>Görz und die Görzer im Hoch-mittelalter</title>
                <title>Görz und die Görzer im Hochmittelalter</title>
                <page>1-66</page>
                <citedIn count="4">
@@ -8704,13 +8639,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        page="1-66"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+            <pubPart> <!-- Knjiga ISBN-10: 3702904565 ISBN-13: 978-3702904562 -->
                <author>Lackner Christian</author>
                <title>Hof und Herrschaft</title>
                <title>Rat, Kanzlei und Regierung der österreichischen Herzöge (1365-1406)</title>
-               <title>Hof und Herrschaft. Rat, Kanzlei und Regierung der osterreichischen Herzoge (1365-1406)</title>
-               <title>Hof und Herrschaft. Rat, Kanzlei und Regierung der österreichischen Herzoge (1365-1406)</title>
-               <title>Hof und Herrschaft. Rat. Kanzlei und Regierung der österreichischen Herzoge (1365-1406)</title>
                <page>347</page>
                <citedIn count="4">
                   <cit did="249"
@@ -8890,24 +8822,14 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1995">
+      <year n="1995"> <!-- Knjiga ISBN-10: 3486648330 ISBN-13: 978-3486648331 -->
          <volume>31</volume>
          <issue>
             <pubPart>
                <author>Wolfram Herwig</author>
                <author>Wolfram H.</author>
                <title>Salzburg - Bayern - Österreich</title>
-               <title>Die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit (Mitteilungen des Instituts für Österreichische Geschichtsforschung Ergbd.</title>
-               <title>Salzburg. Bayern. Österreich. Die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit</title>
-               <title>Salzburg - Bayern - Österreich : die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit</title>
-               <title>Salzburg Bayern Österreich : Die Conversio Bagoariorum et Carantonorum und die Quellen ihrer Zeit</title>
-               <title>Salzburg, Bayern, Österreich : die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit</title>
-               <title>Salzburg-Bayern-Österreich</title>
-               <title>Die Conversio Bagoariorum et Carantanorum und die Qellen ihrer Zeit</title>
-               <title>Salzburg. Bayern, Österreich. Die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit</title>
-               <page>39, 68</page>
-               <page>278</page>
-               <page>39</page>
+               <title>Die Conversio Bagoariorum et Carantanorum und die Quellen ihrer Zeit</title>
                <citedIn count="7">
                   <cit did="425"
                        cid="76"
@@ -9194,7 +9116,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Gutkas Karl</author>
                <author>Gutkas K.</author>
                <title>Der Mailberger Bund von 1451</title>
-               <title>Der Mailberger Bund von 1451. Studien zum Verhältnis von Landesfürst und Ständen um die Mitte des 15. Jahrhunderts</title>
+               <title>Studien zum Verhältnis von Landesfürst und Ständen um die Mitte des 15. Jahrhunderts</title>
                <page>51-94</page>
                <citedIn count="3">
                   <cit did="163"
@@ -9231,7 +9153,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Hassinger H.</author>
                <author>Hassinger Herbert</author>
                <title>Zollvesen und Verkehr in den österreichischen Alpenländern bis um 1300</title>
-               <title>Zollwesen und Verkehr in den österreichischen Alpenländem bis um 1300</title>
                <page>292-361</page>
                <citedIn count="2">
                   <cit did="2640"
@@ -9390,11 +9311,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <volume>18</volume>
          <volume>65</volume>
          <issue n="18">
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Fichtenau Heinrich</author>
                <author>Fichtenau H.</author>
-               <title>Arenga, Spätantike und Mittelalter im Spiegel von Urkundenformen</title>
-               <title>Arenga: Spätantike und Mittelalter im Spiegel von Urkundenformeln</title>
+               <title>Arenga</title>
+               <title>Spätantike und Mittelalter im Spiegel von Urkundenformen</title>
                <page>172</page>
                <citedIn count="2">
                   <cit did="163"
@@ -9600,12 +9521,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Weisflecker Hermann</author>
                <author>Wiesflecker H.</author>
                <author>Wiesflecker Hermann</author>
-               <title>Die politisehe Entwicklung der Grafschaft Görz und ihr Erbfall an Österreich</title>
-               <title>Die Politische Entvvicklung der Grafschaft Görz und ihr Erbfall an Österreich</title>
                <title>Die Politische Entwicklung der Grafschaft Görz und ihr Erbfall an Österreich</title>
-               <title>Die politische Entwicklung der Grafschaft Görz und ihr Erbfall an Österreich</title>
                <page>329-384</page>
-               <page>358-364</page>
                <citedIn count="4">
                   <cit did="2583"
                        cid="213"
@@ -9649,7 +9566,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Schvvanke R.</author>
                <author>Schwanke R.</author>
-               <title>Beitrage zum Urkundenvvesen der Grafen von Cilli (1341-1456)</title>
                <title>Beiträge zum Urkundenwesen der Grafen von Cilli (1341-1456)</title>
                <page>411-422</page>
                <citedIn count="2">
@@ -9736,9 +9652,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Loehr M.</author>
                <author>Loer Maja</author>
-               <title>Der Steirische Reimchronist: her Otacher ouz der Geul</title>
-               <title>Der Steirische Reimchronist: Otacher ouz der Geul</title>
-               <page>89-130</page>
+               <title>Der Steirische Reimchronist</title>
+               <title>her Otacher ouz der Geul</title>
                <page>89-131</page>
                <citedIn count="3">
                   <cit did="3439"
@@ -9959,7 +9874,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Wutte M.</author>
                <author>Wutte Martin</author>
                <title>Die Erwerbung der Görzer Besitzungen durch das Haus Habsburg</title>
-               <title>Die Erwerbungen der Görzer Besitzungen durch das Haus Habsburg</title>
                <page>282-311</page>
                <cobiss>96724992</cobiss>
                <citedIn count="4">
@@ -10006,8 +9920,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Davidsohn R.</author>
                <author>Davidsohn Robert</author>
-               <title>Beiträge zur Geschichte des Reiches und Oberitaliens aus den Tiroler Rechnungsbüchern des Münchner Reichsarchivs (1311/12-1341)</title>
-               <title>Beiträge zur Geschichte des Reiches und Oberitaliens aus den Tiroler Rechnungsbüchern des Münchner Reichsarchivs (1311 /12-1341)</title>
+               <title>Beiträge zur Geschichte des Reiches und Oberitaliens aus den Tiroler Rechnungsbüchern des Münchner Reichsarchivs</title>
+               <title>(1311/12-1341)</title>
                <page>189-233</page>
                <citedIn count="2">
                   <cit did="2631"
@@ -10075,8 +9989,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Heuberger R.</author>
                <author>Heuberger Richard</author>
                <title>Das Urkunden- und Kanzleiwesen der Grafen von Tirol, Herzoge von Kärnten aus dem Hause</title>
-               <title>Das Urkunden- und Kanzleiwesen der Grafen von Tirol, Herzoge von Kärnten, aus dem Hause Görz</title>
-               <page>50-177</page>
                <page>51-177</page>
                <citedIn count="2">
                   <cit did="2629"
@@ -10231,8 +10143,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Dopsch Alfons</author>
-               <title>Ein Verzeichnis des Besitzes der Herzoge von Karmen in Krain und der Mark ( 1311)</title>
-               <title>Ein Verzeichnis des Besitzes der Herzoge von Kärnten in Kram und der Mark (von 1311)</title>
+               <title>Ein Verzeichnis des Besitzes der Herzoge von Kärnten in Krain und der Mark von 1311</title>
                <page>455-462</page>
                <citedIn count="2">
                   <cit did="2583"
@@ -10277,15 +10188,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Levec V.</author>
                <author>Levec W.</author>
                <title>Die krainischen Landhandfesten</title>
-               <title>Die krainischen Landhandfesten : ein Beitrag zur österreichischen Rechtsgeschichte</title>
-               <title>Die krainischen Landhandfesten: ein Beitrag zur österreichischen Rechtsgeschichte</title>
-               <title>Die krainische Landhandfesten. Ein Beitrag zur österreichischen Rechtsgeschichte</title>
-               <title>Ein Beitrag zur österreichischen Rechtsgeschichte</title>
-               <title>Die krainischen Landhandfesten. Ein Beitrag zur österreichischen Rechtsgeschichte</title>
-               <page>244</page>
-               <page>245-301</page>
+               <title>ein Beitrag zur österreichischen Rechtsgeschichte</title>
                <page>244-301</page>
-               <page>296</page>
                <cobiss>754016</cobiss>
                <citedIn count="11">
                   <cit did="52"
@@ -10613,8 +10517,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Štih Peter</author>
                <title>Der mittelalterliche Adel und die slowenische Geschichtsschreibung</title>
-               <title>Der mittelalterliche Adel und die slowenische Geschichtschreibung</title>
                <page>627-642</page>
+               <cobiss>8855885</cobiss>
                <citedIn count="3">
                   <cit did="2900"
                        cid="18"
@@ -10646,11 +10550,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1-2">
             <pubPart>
                <author>Lukan Walter</author>
-               <title>Zur Historiographie in Slowenien nach dem Zerfall Jugoslavviens. Klio ohne Fesseln? Historiographie im ostlichen Europa nach dem Zusammenbruch des Kommunismus</title>
                <title>Zur Historiographie in Slowenien nach dem Zerfall Jugoslawiens</title>
-               <title>Zur Historiographie in Slowenien nach dem Zerfall Jugoslwiens: Ein Kommentar zu Dušan Nećaks " Projekt einer anderen Geschichte"</title>
-               <title>Ein Kommentar zu Dušan Nećaks "Projekt einer anderen Geschichte"</title>
+               <title>ein Kommentar zu Dušan Nećaks "Projekt einer anderen Geschichte"</title>
                <page>345-362</page>
+               <cobiss>21398882</cobiss>
                <citedIn count="4">
                   <cit did="2418"
                        cid="29"
@@ -10691,11 +10594,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Nećak Dušan</author>
                <author>Nečak Dušan</author>
-               <title>Slowenische Historiographie: Das "Projekt einer anderen Geschichte"</title>
-               <title>Slowenische Historiographie: Das 'Projekt einer anderen Geschichte'</title>
                <title>Slowenische Historiographie</title>
                <title>Das "Projekt einer anderen Geschichte"</title>
                <page>335-344</page>
+               <cobiss>13529574</cobiss>
                <citedIn count="3">
                   <cit did="2900"
                        cid="16"
@@ -10812,8 +10714,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Stiplovšek Miroslav</author>
                <title>Die verfassungsrechtliche Lage und die Autonomiebestrebungen Slowenies im jugoslawischen Staat 1918-1941</title>
-               <title>Die verfassugsrechtliche Lage und die Autonomiebestrebungen Sloweniens im jugoslawischen Staat 1918-1941</title>
-               <title>Die verfassungsrechtliche Lage und die Autonomiebestrebungen Sloweniens im jugoslawischen Staat 1918-1941</title>
                <page>5-42</page>
                <cobiss>4800610</cobiss>
                <citedIn count="3">
@@ -10929,12 +10829,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Stiplovšek Miroslav</author>
-               <title>Die chrislichsozialistische Gewerkschaftsorganisation in Slowenien</title>
-               <title>Die christlichsozialistische Gewerkschaftsorganisation in Slowenien 1918–1941</title>
+               <title>Die christlichsozialistische Gewerkschaftsorganisation in Slowenien 1918-1941</title>
                <page>441-473</page>
-               <page>441-456</page>
-               <page>453-454</page>
-               <page>456-457</page>
+               <cobiss>21836386</cobiss>
                <citedIn count="4">
                   <cit did="1626"
                        cid="224"
@@ -11015,10 +10912,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Suppan Arnold</author>
-               <title>Der Kärntner Slowenen im 19. und 20. Jahrhundert</title>
                <title>Die Kärntner Slowenen im 19. und 20. Jahrhundert</title>
-               <page>226</page>
-               <page>397-425</page>
+               <page>205-233</page>
+               <cobiss>1753044</cobiss>
                <citedIn count="2">
                   <cit did="206"
                        cid="7"
@@ -11063,12 +10959,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Ferenc Tone</author>
-               <title>Landwirtschaft und Ernährung in Slowenien (1941-1945)</title>
-               <title>Landwirtschaft und Ernährung in Slowenien (1941–1945)</title>
+               <title>Landwirtschaft und Ernährung in Slowenien</title>
+               <title>(1941–1945)</title>
                <page>56-87</page>
-               <page>60-68</page>
-               <page>67</page>
-               <page>74-75</page>
                <cobiss>26243170</cobiss>
                <citedIn count="5">
                   <cit did="1192"
@@ -11262,7 +11155,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Lukan Walter</author>
                <title>Zur nationalen Frage eines kleines Volkes</title>
                <title>Edvard Kardeljs Darstellung zur Entwicklung der nationalen Frage bei den Slovenen</title>
-               <page>34</page>
+               <page>34-52</page>
                <citedIn count="1">
                   <cit did="864"
                        cid="54"
@@ -11282,7 +11175,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="4">
             <pubPart>
                <author>Lukan Walter</author>
-               <title>Zur nationalen Frage eines kleinen Volkes : Edvard Kardeljs Darstellung zur Entwiklung der nationalen Frage bei den Slowenen</title>
+               <title>Zur nationalen Frage eines kleinen Volkes</title>
+               <title>Edvard Kardeljs Darstellung zur Entwiklung der nationalen Frage bei den Slowenen</title>
                <page>397-420</page>
                <citedIn count="1">
                   <cit did="3288"
@@ -11492,10 +11386,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Munda Hirnök Katalin</author>
                <author>Munda Hirnök Katarina</author>
-               <title>The current situation of Slovenes in Hungary</title>
                <title>The current Situation of Slovenes in Hungary</title>
                <page>83-97</page>
-               <page>83</page>
+               <cobiss>6400333</cobiss>
                <citedIn count="2">
                   <cit did="2763"
                        cid="10"
@@ -11635,8 +11528,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Vovko Andrej</author>
                <title>The Myth of America and the Society of St. Raphael</title>
-               <title>The myth of America and the society of St. Raphael</title>
                <page>107-110</page>
+               <cobiss>50177280</cobiss>
                <citedIn count="3">
                   <cit did="2763"
                        cid="71"
@@ -11736,10 +11629,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1-2">
             <pubPart>
                <author>Lukan Walter</author>
-               <title>The Second Phase of Slovene Cooperativism
-(1894-1918)</title>
-               <title>The Second Phase of Slovene Cooperativism (1894-1918)</title>
-               <title>The second phase of Slovene cooperativism (1894-1918)</title>
+               <title>The Second Phase of Slovene Cooperativism</title>
+               <title>(1894-1918)</title>
                <page>83-96</page>
                <cobiss>15187554</cobiss>
                <citedIn count="4">
@@ -11954,7 +11845,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Pupo Raoul</author>
-               <title>Slovenia e Dalmazia fra Italia eTerzo Reich 1940-1945</title>
                <title>Slovenia e Dalmazia fra italia e Terzo Reich 1940-1945</title>
                <page>129-141</page>
                <citedIn count="2">
@@ -12218,8 +12108,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Deakin Frederick William</author>
                <author>Deakin William</author>
-               <title>Conflitti fra Gran Bretagna e Italia nei Balcani, Alcune note sul problema di Trieste</title>
-               <title>Conflitti fra Gran Bretagna e Italia nei Balcani: alcune note sul problema di Trieste</title>
+               <title>Conflitti fra Gran Bretagna e Italia nei Balcani</title>
+               <title>Alcune note sul problema di Trieste</title>
                <page>55-66</page>
                <citedIn count="2">
                   <cit did="1782"
@@ -12417,9 +12307,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Apih E.</author>
                <author>Apih Elio</author>
                <title>Regime fascista e repressione nazionale ai confini orientali d'Italia</title>
-               <title>Regime fascista e represione nazionale ai confini orientali d'Italia</title>
-               <title>Regime fascista e repressione nazionale ai confini orientali d' Italia</title>
-               <page>35</page>
                <page>28-39</page>
                <citedIn count="3">
                   <cit did="1258"
@@ -12452,7 +12339,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Pirjevec Jože</author>
                <title>La questione nazionale nella Resistenza dei popoli sloveno e croato</title>
-               <title>La questione nazionale nella resistenza dei popoli sloveno e croato</title>
                <page>68-81</page>
                <citedIn count="2">
                   <cit did="1511"
@@ -12480,7 +12366,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Belci F.</author>
                <title>Chiesa e fascismo a Trieste</title>
                <title>Storia di un vescobo solo</title>
-               <page>73</page>
+               <page>43-97</page>
                <citedIn count="1">
                   <cit did="1258"
                        cid="2"
@@ -12539,9 +12425,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Pirjevec Jože</author>
-               <title>La fase finale della violenza fascista : i retroscena del processo Tomažič</title>
-               <title>La fase finale della violenza fascista: i retroscena del processo Tomažič</title>
-               <page>94</page>
+               <title>La fase finale della violenza fascista</title>
+               <title>I retroscena del processo Tomažič</title>
                <page>75-94</page>
                <cobiss>73171</cobiss>
                <citedIn count="2">
@@ -12657,8 +12542,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Valdevit Giampaolo</author>
-               <title>Politici e militari alleati di fronte alla questione della Venezia Giulia (giugno 1945 - luglio 1946)</title>
-               <title>Politici e militari alleati di fronte alla questione della Venezia Giulia (giugno 1945-luglio 1946)</title>
+               <title>Politici e militari alleati di fronte alla questione della Venezia Giulia</title>
+               <title>(giugno 1945 - luglio 1946)</title>
                <page>83-119</page>
                <citedIn count="2">
                   <cit did="1511"
@@ -12803,8 +12688,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="31">
             <pubPart>
                <author>Fontaine L.</author>
-               <title>Gli studi sulla mobilità in Europa nell’età moderna: problemi e prospettive di ricerca</title>
-               <title>Gli studi sulla mobilià in Europa nell'età moderna : problemi e prospettive di ricerca</title>
+               <title>Gli studi sulla mobilità in Europa nell’età moderna</title>
+               <title>problemi e prospettive di ricerca</title>
                <page>739-756</page>
                <citedIn count="2">
                   <cit did="3459"
@@ -12832,9 +12717,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Ehmer J.</author>
-               <title>»Servi di donne«. Matrimonio e costituzione di una propria famiglia da parte dei garzoni come campo di conflitto nel mondo artigiano mitteleuropeo</title>
-               <title>"Servi di donne" :  Matrimonio e costituzione di una propria famiglia da parte dei garzoni come campo di conflitto nel mondo artigiano mitteleuropeo</title>
-               <page>475-507</page>
+               <title>"Servi di donne"</title>
+               <title>Matrimonio e costituzione di una propria famiglia da parte dei garzoni come campo di conflitto nel mondo artigiano mitteleuropeo</title>
                <page>475-508</page>
                <citedIn count="2">
                   <cit did="3459"
@@ -13021,8 +12905,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Accati L.</author>
-               <title>Lo spirito della fornificazione</title>
-               <title>VirtÃ¹ dell'anima e virtÃ¹ del corpo in Friuli, fra' 600 e '700</title>
+               <title>Lo spirito della fornicazione</title>
+               <title>virtù dell'anima e virtù del corpo in Friuli fra '600 e '700</title>
                <page>644-672</page>
                <citedIn count="1">
                   <cit did="226"
@@ -13193,9 +13077,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Zehetmayer R.</author>
                <author>Zehetmayer Roman</author>
-               <title>Zu den steirischen Landtaidingen und zur rechdichen Stellung der Salzburger Ministerialen im Land Steiermark bis etwa 1300</title>
                <title>Zu den steifischen Landtaidingen und zur rechtlichen Stellung der Salzburger Ministerialen im Land Steiermark bis etwa 1300</title>
-               <page>83-122</page>
                <page>83-123</page>
                <citedIn count="2">
                   <cit did="775"
@@ -13288,7 +13170,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Freidinger L.</author>
                <author>Freidinger Ludwig</author>
                <title>Die Herren von Kranichberg und ihre Beziehung zur Steiermark</title>
-               <title>Die Herren von Kranichberg und ihre Beziehung zur Steiermark. Teil 1: 1386 bis 1510</title>
+               <title>Teil 1: 1386 bis 1510</title>
                <page>39-69</page>
                <citedIn count="2">
                   <cit did="775"
@@ -13380,12 +13262,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Gänser G.</author>
                <author>Gänser Gerald</author>
                <author>Ganser Gerald</author>
-               <title>Die Mark als Weg zur Macht am Beispiel der Â»EppensteinerÂ«</title>
-               <title>Die Mark als Weg zur Macht am Beispiel der "Eppensteiner" (2. Teil).</title>
-               <title>Die mark als weg zur Macht am Beispiel der Eppensteiner</title>
-               <title>Die Mark als Weg zur Macht am Beispiel der 'Eppensteiner' (2. Teil)</title>
-               <title>Die Markals Wegzur Macht am Beispiel der Eppensteiner</title>
-               <title>Die Mark als Weg zur Macht am Beispiel der „Eppensteiner" (1. Teil)</title>
+               <title>Die Mark als Weg zur Macht am Beispiel der "Eppensteiner"</title>
+               <title>(2. Teil)</title>
+               <title>(1. Teil)</title>
                <page>73-122</page>
                <page>83-125</page>
                <citedIn count="6">
@@ -13470,7 +13349,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Hvvaletz Otto</author>
                <author>Hwaletz Otto</author>
                <title>Zur sozialen Zusammensetzung des Innerösterreichischen Industrie und Gewerbevereins</title>
-               <title>Zur sozialen Zusammensetzung des Innerösterreiscischen Industrie und Gewerbevereins</title>
                <page>267-276</page>
                <citedIn count="2">
                   <cit did="2871"
@@ -13545,7 +13423,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Valentinitsch Helfried</author>
                <title>Armenfürsorge im Herzogtum Steiermark im 18. Jahrhundert</title>
-               <title>Armenfürsorge im Herzogtum Steiermark im 18. Jahrhundert. Institutionelle Fürsorge in Mittelalter und Früher Neuzeit</title>
+               <title>Institutionelle Fürsorge in Mittelalter und Früher Neuzeit</title>
                <page>93-114</page>
                <citedIn count="2">
                   <cit did="3265"
@@ -13650,7 +13528,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Frass Otto</author>
                <author>Frass O.</author>
                <title>Die Karthausen von Steiermark und Krain und ihre Immunität</title>
-               <title>Die Kartausen von Steiermark und Krain und ihre Immunität</title>
                <page>47-66</page>
                <citedIn count="4">
                   <cit did="53"
@@ -13693,7 +13570,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Leskoschek F.</author>
-               <title>Schiffahrt und FloBerei auf der Drau</title>
                <title>Schiffahrt und Flößerei auf der Drau</title>
                <page>115-162</page>
                <citedIn count="2">
@@ -13723,8 +13599,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Dopsch Heinz</author>
                <author>Dopsch H.</author>
-               <title>Ministerialität und Harrenstand in der Steiermark und in Sazburg</title>
-               <title>Die Ministerialität und Herrenstand in der Steiermark und in Salzburg</title>
                <title>Ministerialität und Herrnstand in der Steiermark und in Salzburg</title>
                <page>3-31</page>
                <citedIn count="3">
@@ -13841,9 +13715,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Adalbert Klein Anton</author>
                <author>Klein Anton Adalbert</author>
-               <title>Das geistige Profil der Steiermark in den Wandlungen eines Jahrhunderts (1811 — 1914)</title>
-               <title>Das geistige Profil der Steiermark in den Wandlungen eines Jahrhunderts (1811-1914)</title>
-               <page>26-33</page>
+               <title>Das geistige Profil der Steiermark in den Wandlungen eines Jahrhunderts</title>
+               <title>(1811-1914)</title>
+               <page>23-42</page>
                <citedIn count="2">
                   <cit did="2871"
                        cid="72"
@@ -13865,9 +13739,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                        page="26-33"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+            <pubPart><!-- Knjiga -->
                <author>Saria Balduin</author>
-               <title>Pettau: Entstehung und Entwicklung einer Siedlung im deutsch-slowenischen Grenzraum</title>
+               <title>Pettau</title>
+               <title>Entstehung und Entwicklung einer Siedlung im deutsch-slowenischen Grenzraum</title>
+               <cobiss>19333</cobiss>
                <citedIn count="1">
                   <cit did="2639"
                        cid="264"
@@ -13906,7 +13782,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Popelka  F.</author>
                <author>Popelka Fritz</author>
-               <title>Ebehrad von Altenburg und das Judenburger Augustinerkloster</title>
                <title>Eberhard von Altenburg und das Judenburger Augustinerkloster</title>
                <page>37-44</page>
                <citedIn count="3">
@@ -13944,7 +13819,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Straka Manfred</author>
                <title>Die Seelenzahlung des Jahres 1754 in der Steiermark</title>
-               <title>Die Steelenzählung des Jahres 1754 in der Steiermark</title>
                <page>96-117</page>
                <citedIn count="2">
                   <cit did="2517"
@@ -13990,7 +13864,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Ebner Herwig</author>
-               <title>Steirische Burg- und Schlofi-kapellen und ihre Patrozinien</title>
                <title>Steirische Burg- und Schloßkapellen und ihre Patrozinien</title>
                <page>67-82</page>
                <citedIn count="2">
@@ -14015,7 +13888,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Lamprecht O.</author>
                <author>Lamprecht Otto</author>
-               <title>Burgen und Lehen in der Machtpolitik Herzog Rudolfs IV</title>
                <title>Burgen und Lehen in der Machtpolitik Herzog Rudolfs IV.</title>
                <page>111-117</page>
                <citedIn count="2">
@@ -14141,9 +14013,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Pirchegger H.</author>
                <author>Pirchegger Hans</author>
                <title>Die Herren von Pettau</title>
-               <title>Die Herren von Petau</title>
                <page>3-36</page>
-               <page>22</page>
                <citedIn count="7">
                   <cit did="775"
                        cid="165"
@@ -14285,8 +14155,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Baravalle Robert</author>
                <title>Zur Geschichte der steirischen Maße</title>
-               <title>Zur Geschichte der steirisehen Maße</title>
-               <page>10-102</page>
                <page>9-98</page>
                <citedIn count="3">
                   <cit did="3275"
