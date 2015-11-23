@@ -88,7 +88,8 @@
          <issue n="5">
             <pubPart>
                <author>Schwartz Barry</author>
-               <title>Memory as a Cultural System</title><title>Abraham Lincoln in World War II</title>
+               <title>Memory as a Cultural System</title>
+               <title>Abraham Lincoln in World War II</title>
                <page>908-927</page>
                <citedIn count="1">
                   <cit did="1513" cid="154" avtor0="Schwartz Barry"
@@ -153,7 +154,8 @@
          <issue>
             <pubPart>
                <author>Stark David</author>
-               <title>Rethinking internal labor markets</title><title>new insights from a comperative perspective</title>
+               <title>Rethinking internal labor markets</title>
+               <title>new insights from a comperative perspective</title>
                <page>492-504</page>
                <citedIn count="1">
                   <cit did="1513" cid="160" avtor0="Stark David"
@@ -197,7 +199,8 @@
             <pubPart>
                <author>Yancey William L.</author>
                <author>Ericksen Eugene P.</author>
-               <title>Emergent ethnicity</title><title>a review and reformulation</title>
+               <title>Emergent ethnicity</title>
+               <title>a review and reformulation</title>
                <page>391–402</page>
                <citedIn count="1">
                   <cit did="2855" cid="22" avtor0="Yancey William L." avtor1="Ericksen Eugene P."
@@ -230,7 +233,6 @@
                <author>Blumer H.</author>
                <title>Public Opinion and Public Opinion Polling</title>
                <page>542-554</page>
-               <page>542-549</page>
                <citedIn count="2">
                   <cit did="2010" cid="7" avtor0="Blumer H."
                      naslov0="Public Opinion and Public Opinion Polling"
@@ -249,7 +251,8 @@
          <issue>
             <pubPart>
                <author>Zipf G. K.</author>
-               <title>The P1P2/D hypothesis</title><title>on the intercity movement of persons</title>
+               <title>The P1P2/D hypothesis</title>
+               <title>on the intercity movement of persons</title>
                <page>677-686</page>
                <citedIn count="1">
                   <cit did="3459" cid="223" avtor0="Zipf G. K."
@@ -264,7 +267,8 @@
          <issue>
             <pubPart>
                <author>Stouffer S. A.</author>
-               <title>Intervening opportunities</title><title>a theory relating mobility and distance</title>
+               <title>Intervening opportunities</title>
+               <title>a theory relating mobility and distance</title>
                <page>845-867</page>
                <citedIn count="1">
                   <cit did="3459" cid="191" avtor0="Stouffer S. A."
@@ -387,7 +391,8 @@
          <issue>
             <pubPart>
                <author>Cuscito G.</author>
-               <title>Hoc cubile sanctum</title><title>Contributo per uno studio sulle origini cristiane in Istria</title>
+               <title>Hoc cubile sanctum</title>
+               <title>Contributo per uno studio sulle origini cristiane in Istria</title>
                <page>77-99</page>
                <citedIn count="2">
                   <cit did="2873" cid="82" avtor0="Cuscito G."
@@ -549,16 +554,6 @@
          </issue>
          <issue>
             <pubPart>
-               <author>De Totto G.</author>
-               <title>Il patriziato di Capodistria</title>
-               <page>71-158</page>
-               <citedIn count="1">
-                  <cit did="2873" cid="185" avtor0="De Totto G."
-                     naslov0="Il patriziato di Capodistria" source="AMSI" pubPlace="Trieste"
-                     year="1939" page="71-158"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Greco M.</author>
                <title>L'attivittà politica di Capodistria durante il XIII secolo</title>
                <citedIn count="1">
@@ -592,12 +587,15 @@
          <issue>
             <pubPart>
                <author>De Totto G.</author>
-               <title>II patriziato di Capodistria</title>
+               <title>Il patriziato di Capodistria</title>
                <page>71-157</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2595" cid="29" avtor0="De Totto G."
                      naslov0="II patriziato di Capodistria" source="AMSI" year="1937" volume="49"
                      page="71-157"/>
+                  <cit did="2873" cid="185" avtor0="De Totto G."
+                     naslov0="Il patriziato di Capodistria" source="AMSI" pubPlace="Trieste"
+                     year="1939" page="71-158"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -608,7 +606,8 @@
             <pubPart>
                <author>Quarantotti G.</author>
                <author>Quarantotti Giovanni</author>
-               <title>Istria del Risorgimento</title><title>Storia della Dieta del Nessuno</title>
+               <title>Istria del Risorgimento</title>
+               <title>Storia della Dieta del Nessuno</title>
                <page>3-212</page>
                <citedIn count="2">
                   <cit did="2596" cid="28" avtor0="Quarantotti G."
@@ -1037,7 +1036,8 @@
          <issue>
             <pubPart>
                <author>Schiavuzzi Bernardo</author>
-               <title>Le epidemie di peste bubbonica in Istria</title><title>Notizie storiche</title>
+               <title>Le epidemie di peste bubbonica in Istria</title>
+               <title>Notizie storiche</title>
                <page>423-447</page>
                <cobiss>24070498</cobiss>
                <citedIn count="1">
@@ -1393,7 +1393,8 @@
          <issue>
             <pubPart>
                <author>Tamaro A.</author>
-               <title>Fine del Settecento a Trieste</title><title>Lettere del barone P. A. Pittoni</title>
+               <title>Fine del Settecento a Trieste</title>
+               <title>Lettere del barone P. A. Pittoni</title>
                <title>(1782-1801)</title>
                <page>3-430</page>
                <citedIn count="2">
@@ -1409,10 +1410,11 @@
       </year>
       <year n="1940">
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Stefani G.</author>
-               <title>Trieste e I'Austria dopo la restaurazione / Dai carteggi riservati della Polizia imperiale</title>
-               <page>339</page>
+               <title>Trieste e l'Austria dopo la restaurazione</title>
+               <title>Dai carteggi riservati della Polizia imperiale</title>
+               <cobiss>3672160</cobiss>
                <citedIn count="1">
                   <cit did="726" cid="49" avtor0="Stefani G."
                      naslov0="Trieste e I'Austria dopo la restaurazione / Dai carteggi riservati della Polizia imperiale"
@@ -1832,7 +1834,7 @@
                <author>Evans R. J. W.</author>
                <title>Language and State Building</title>
                <title>The Case of the Habsburg Monarchy</title>
-               <page>3-9</page>
+               <page>1-24</page>
                <citedIn count="1">
                   <cit did="298" cid="10" avtor0="Evans R. J. W."
                      naslov0="Language and State Building"
@@ -1904,7 +1906,8 @@
          <issue n="1">
             <pubPart>
                <author>Bahm Karl F.</author>
-               <title>Beyond the bourgeoisie</title><title>rethinking nation, culture, and modernity in nineteenth-century Central Europe</title>
+               <title>Beyond the bourgeoisie</title>
+               <title>rethinking nation, culture, and modernity in nineteenth-century Central Europe</title>
                <citedIn count="1">
                   <cit did="167" cid="2" avtor0="Bahm Karl F."
                      naslov0="Beyond the bourgeoisie: rethinking nation,&#xA;culture, and modernity in nineteenth-century Central Europe"
@@ -1945,7 +1948,8 @@
             </pubPart>
             <pubPart>
                <author>Wank Solomon</author>
-               <title>The Nationalities Question in the Habsburg Monarchy</title><title>Reflections on the Historical Record</title>
+               <title>The Nationalities Question in the Habsburg Monarchy</title>
+               <title>Reflections on the Historical Record</title>
                <page>131-146</page>
                <citedIn count="1">
                   <cit did="629" cid="169" avtor0="Wank Solomon"
@@ -2046,7 +2050,8 @@
             </pubPart>
             <pubPart>
                <author>Whiteside Andrew G.</author>
-               <title>The Germans as an Integrative Force in Imperial Austria</title><title>the Dilema of Dominance</title>
+               <title>The Germans as an Integrative Force in Imperial Austria</title>
+               <title>the Dilema of Dominance</title>
                <citedIn count="1">
                   <cit did="1783" cid="212" avtor0="Whiteside Andrew G."
                      naslov0="The Germans as an Integrative Force in Imperial Austria: the Dilema of Dominance"
@@ -2056,7 +2061,7 @@
             <pubPart>
                <author>Zöllner Erich</author>
                <title>The Germans as an Integrating and Disintegrating Force</title>
-               <page>228</page>
+               <page>201-233</page>
                <citedIn count="1">
                   <cit did="298" cid="14" avtor0="Zöllner Erich"
                      naslov0="The Germans as an Integrating and Disintegrating Force"
@@ -2180,7 +2185,8 @@
          <issue n="194">
             <pubPart>
                <author>Meyer Therese</author>
-               <title>Kurt Karpf</title><title>Ein unbekanter Brbc-ner Hochstiftsbesitz des 11. Jahrhundert in Kärnten</title>
+               <title>Kurt Karpf</title>
+               <title>Ein unbekanter Brbc-ner Hochstiftsbesitz des 11. Jahrhundert in Kärnten</title>
                <page>367-398</page>
                <citedIn count="1">
                   <cit did="2234" cid="24" avtor0="Meyer Therese"
@@ -2207,7 +2213,8 @@
          <issue>
             <pubPart>
                <author>Strobel K.</author>
-               <title>Die Noreia-Frage</title><title>Neue Aspekte und Überlegungen zu einem alten Problem der historischen Geographie Kärntens</title>
+               <title>Die Noreia-Frage</title>
+               <title>Neue Aspekte und Überlegungen zu einem alten Problem der historischen Geographie Kärntens</title>
                <page>25-71</page>
                <citedIn count="1">
                   <cit did="1748" cid="934" avtor0="Strobel K."
@@ -2241,7 +2248,8 @@
          <issue>
             <pubPart>
                <author>Kahl Hans Dietrich</author>
-               <title>Solium Ducatus Karinthie</title><title>Fragen um Kärntens Fürstenstein und seine Rituale</title>
+               <title>Solium Ducatus Karinthie</title>
+               <title>Fragen um Kärntens Fürstenstein und seine Rituale</title>
                <page>185-235</page>
                <citedIn count="1">
                   <cit did="3257" cid="35" avtor0="Kahl Hans Dietrich"
@@ -2268,7 +2276,7 @@
             <pubPart>
                <author>Gleirscher Paul</author>
                <title>Neues zum Gracarca-Friedhof über Grabelsdorf</title>
-               <page>11</page>
+               <page>11-45</page>
                <citedIn count="1">
                   <cit did="2165" cid="39" avtor0="Gleirscher Paul"
                      naslov0="Neues zum Gracarca-Friedhof über Grabelsdorf" source="Carinthia"
@@ -2301,7 +2309,7 @@
             <pubPart>
                <author>Krawarik Hans</author>
                <title>Zu frühen Besiedlung der "Regio Zellia"</title>
-               <page>463</page>
+               <page>463-497</page>
                <citedIn count="2">
                   <cit did="2021" cid="31" avtor0="Krawarik Hans"
                      naslov0="Zu frühen Besiedlung der &#34;Regio Zellia&#34;" source="Carinthia"
@@ -2344,7 +2352,8 @@
          <issue>
             <pubPart>
                <author>Grafenauer Bogo</author>
-               <title>Die Kärntner Herzogseinsetzung und die Edlingerfrage</title><title>Protokoll eines Kolloquiums aus dem Jahre 1965</title>
+               <title>Die Kärntner Herzogseinsetzung und die Edlingerfrage</title>
+               <title>Protokoll eines Kolloquiums aus dem Jahre 1965</title>
                <page>353-366</page>
                <citedIn count="1">
                   <cit did="3257" cid="23" avtor0="Grafenauer Bogo"
@@ -2397,8 +2406,9 @@
             </pubPart>
             <pubPart>
                <author>Karpf Kurt</author>
-               <title>Das Kloster Molzbichl</title><title>Ein Missionszentrum des 8. Jahrhunderts in Karantanien</title>
-               <page>125</page>
+               <title>Das Kloster Molzbichl</title>
+               <title>Ein Missionszentrum des 8. Jahrhunderts in Karantanien</title>
+               <page>125-140</page>
                <citedIn count="1">
                   <cit did="2165" cid="46" avtor0="Karpf Kurt"
                      naslov0="Das Kloster Molzbichl: Ein Missionszentrum des 8. Jahrhunderts in Karantanien"
@@ -2488,10 +2498,9 @@
       <year n="1984">
          <volume>14</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Jarnik Urban</author>
                <title>Andeutungen über Kärntens Germanisierung</title>
-               <page>57-*60</page>
                <citedIn count="1">
                   <cit did="435" cid="17" avtor0="Jarnik Urban"
                      naslov0="Andeutungen über Kärntens Germanisierung" source="Carinthia"
@@ -2507,7 +2516,7 @@
             <pubPart>
                <author>Dolenz H. T.</author>
                <title>Studien zu den Eisenmessern vom Magdalensberg in Kärnten, Eine Zusammenfassung</title>
-               <page>93-134.</page>
+               <page>93-134</page>
                <citedIn count="1">
                   <cit did="1945" cid="9" avtor0="Dolenz H. T."
                      naslov0="Studien zu den Eisenmessern vom Magdalensberg in Kärnten, Eine Zusammenfassung"
@@ -2549,7 +2558,8 @@
          <issue>
             <pubPart>
                <author>Neumann Wilhelm</author>
-               <title>Zur Geschichte des Kärntner Kufenstechens</title><title>Ein frühes Zeugnis aus der "Gegend" nördlich Villach</title>
+               <title>Zur Geschichte des Kärntner Kufenstechens</title>
+               <title>Ein frühes Zeugnis aus der "Gegend" nördlich Villach</title>
                <page>195-205</page>
                <citedIn count="1">
                   <cit did="3380" cid="19" avtor0="Neumann Wilhelm"
@@ -2710,7 +2720,6 @@
                <author>Dopsch Heinz</author>
                <title>Die Grafen von Heunburg</title>
                <page>311-342</page>
-               <page>160</page>
                <citedIn count="5">
                   <cit did="775" cid="30" avtor0="Dopsch H." naslov0="Die Grafen von Heunburg"
                      source="Carinthia" year="1970" volume="160" page="311-342"/>
@@ -2788,8 +2797,9 @@
          <issue n="157">
             <pubPart>
                <author>Haas A.</author>
-               <title>Dr. Johannes von Roth, Bischof von Lavant 1468-1482</title>
-               <page>570</page>
+               <title>Dr. Johannes von Roth</title>
+               <title>Bischof von Lavant 1468-1482</title>
+               <page>570-587</page>
                <citedIn count="2">
                   <cit did="3439" cid="48" avtor0="Haas A."
                      naslov0="Dr. Johannes von Roth, Bischof von Lavant 1468-1482"
@@ -2838,7 +2848,8 @@
          <issue>
             <pubPart>
                <author>Moser Oskar</author>
-               <title>Das Gailtaler Kufenstechen</title><title>Nach neuen Forschungen und historischen Quellen</title>
+               <title>Das Gailtaler Kufenstechen</title>
+               <title>Nach neuen Forschungen und historischen Quellen</title>
                <page>48-95</page>
                <citedIn count="1">
                   <cit did="3380" cid="18" avtor0="Moser Oskar"
@@ -2920,8 +2931,8 @@
             </pubPart>
             <pubPart>
                <author>Mitterauer Michael</author>
-               <title>Slawischer und Bayrischer Adel am Ausgang der Karolingerzeit</title>
-               <page>693</page>
+               <title>Slawischer und Bayerischer Adel am Ausgang der Karolingerzeit</title>
+               <page>693-726</page>
                <citedIn count="2">
                   <cit did="2021" cid="46" avtor0="Mitterauer Michael"
                      naslov0="Slawischer und Bayrischer Adel am Ausgang der Karolingerzeit"
@@ -2946,7 +2957,8 @@
             <pubPart>
                <author>Fresacher Walter</author>
                <author>Fresaher Walter</author>
-               <title>Klagenfurt</title><title>eine Edlinger-Siedlung?</title>
+               <title>Klagenfurt</title>
+               <title>eine Edlinger-Siedlung?</title>
                <page>118-161</page>
                <citedIn count="2">
                   <cit did="2421" cid="15" avtor0="Fresacher Walter"
@@ -2959,7 +2971,8 @@
             </pubPart>
             <pubPart>
                <author>Wiessner Hermann</author>
-               <title>Stadt im Grenzland</title><title>Ausschnilte aus der Geschichte der Stadt Bleiburg</title>
+               <title>Stadt im Grenzland</title>
+               <title>Ausschnilte aus der Geschichte der Stadt Bleiburg</title>
                <page>865-878</page>
                <citedIn count="1">
                   <cit did="2583" cid="215" avtor0="Wiessner Hermann"
@@ -2975,7 +2988,7 @@
             <pubPart>
                <author>Pagitz F.</author>
                <title>Die Urkundenschreiber der St. Pauler Klosterschule bis zum Jahre 1335</title>
-               <page>389</page>
+               <page>389-444</page>
                <citedIn count="1">
                   <cit did="2629" cid="42" avtor0="Pagitz F."
                      naslov0="Die Urkundenschreiber der St. Pauler Klosterschule bis zum Jahre 1335"
@@ -3166,7 +3179,8 @@
          <issue>
             <pubPart>
                <author>Graber G.</author>
-               <title>Heinrich von dem Türlin</title><title>Beiträge zur Ergänzung seines Lebensbildes</title>
+               <title>Heinrich von dem Türlin</title>
+               <title>Beiträge zur Ergänzung seines Lebensbildes</title>
                <page>266-291</page>
                <citedIn count="1">
                   <cit did="2631" cid="94" avtor0="Graber G."
@@ -3275,7 +3289,7 @@
             <pubPart>
                <author>Wutte M.</author>
                <title>Zur Geschichte Kärntens in den ersten zwei jahrhunderten habsburgischer Herrschaft</title>
-               <page>17</page>
+               <page>11-58</page>
                <citedIn count="1">
                   <cit did="249" cid="58" avtor0="Wutte M."
                      naslov0="Zur Geschichte Kärntens in den ersten zwei jahrhunderten habsburgischer Herrschaft"
@@ -3365,7 +3379,8 @@
          <issue>
             <pubPart>
                <author>Zenegg Emmerich</author>
-               <title>Zum 100. Todestage des letzten Herzogbauers (4. Juni 1923)</title><title>Mit einem Stammbaum</title>
+               <title>Zum 100. Todestage des letzten Herzogbauers (4. Juni 1923)</title>
+               <title>Mit einem Stammbaum</title>
                <page>38-51</page>
                <citedIn count="1">
                   <cit did="3257" cid="93" avtor0="Zenegg Emmerich"
@@ -3529,7 +3544,6 @@
                <author>Guštin Damijan</author>
                <title>Slovenija, saveznica Hrvatske tijekom razlaza s jugoslovenskom državom</title>
                <title>(od »nenačelne koalicije« do raspada vojnog saveza 1989-1991)</title>
-               <page>85-104</page>
                <page>85-106</page>
                <cobiss>2914420</cobiss>
                <citedIn count="2">
@@ -3589,7 +3603,8 @@
          <issue n="3">
             <pubPart>
                <author>Janjetović Zoran</author>
-               <title>27. ožujak 1941</title><title>uzorci, akteri, ideologija, posljedice</title>
+               <title>27. ožujak 1941</title>
+               <title>uzorci, akteri, ideologija, posljedice</title>
                <page>1013-1029</page>
                <citedIn count="1">
                   <cit did="3133" cid="131" avtor0="Janjetović Zoran"
@@ -3602,8 +3617,9 @@
             <pubPart>
                <author>Lengel Krizman Narcisa</author>
                <author>Lengel-Krizman Narcisa</author>
-               <title>Numerus clausus</title><title>jesen 1940</title>
-               <page>1010</page>
+               <title>Numerus clausus</title>
+               <title>jesen 1940</title>
+               <page>1007-1012</page>
                <citedIn count="2">
                   <cit did="3133" cid="65" avtor0="Lengel Krizman Narcisa"
                      naslov0="Numerus clausus - jesen 1940" source="Časopis za suvremenu povijest"
@@ -3757,7 +3773,7 @@
             <pubPart>
                <author>Švoger Vlasta</author>
                <title>Recepcija Herdera u hrvatskome narodnom preporodu na temelju Danice ilirske</title>
-               <page>458</page>
+               <page>455-478</page>
                <citedIn count="1">
                   <cit did="29" cid="25" avtor0="Švoger Vlasta"
                      naslov0="Recepcija Herdera u hrvatskome narodnom preporodu na temelju Danice ilirske"
@@ -3873,7 +3889,8 @@
          <issue n="2-3">
             <pubPart>
                <author>Krišto Jure</author>
-               <title>Dalekosežne posljedice netočnog pridijevanja</title><title>je li bilo klerikalizma u Hrvata?</title>
+               <title>Dalekosežne posljedice netočnog pridijevanja</title>
+               <title>je li bilo klerikalizma u Hrvata?</title>
                <page>17</page>
                <citedIn count="1">
                   <cit did="1802" cid="11" avtor0="Krišto Jure"
@@ -3885,7 +3902,8 @@
          <issue n="1">
             <pubPart>
                <author>Kisić Kolanović Nada</author>
-               <title>Vrijeme političke represije</title><title>'veliki sudski procesi' u Hrvatskoj</title>
+               <title>Vrijeme političke represije</title>
+               <title>'veliki sudski procesi' u Hrvatskoj</title>
                <page>9</page>
                <citedIn count="1">
                   <cit did="1897" cid="69" avtor0="Kisić Kolanović Nada"
@@ -3947,8 +3965,9 @@
          <issue n="3">
             <pubPart>
                <author>Banac Ivo</author>
-               <title>"I Karlo je ušo u komite"</title><title>Nemiri u sjevernoj Hrvatskol u jesen 1918. godine</title>
-               <page>31</page>
+               <title>"I Karlo je ušo u komite"</title>
+               <title>Nemiri u sjevernoj Hrvatskol u jesen 1918. godine</title>
+               <page>23-45</page>
                <citedIn count="1">
                   <cit did="2186" cid="8" avtor0="Banac Ivo"
                      naslov0="&#34;I Karlo je ušo u komite&#34;: Nemiri u sjevernoj Hrvatskol u jesen 1918. godine"
@@ -4258,7 +4277,8 @@
          <issue n="6">
             <pubPart>
                <author>Bonilla Silva E.</author>
-               <title>Are the Americas 'sick with racism' or is it a problem at the poles</title><title>A reply to Christina A. Sue</title>
+               <title>Are the Americas 'sick with racism' or is it a problem at the poles</title>
+               <title>A reply to Christina A. Sue</title>
                <page>1071-1082</page>
                <citedIn count="1">
                   <cit did="3047" cid="14" avtor0="Bonilla Silva E."
@@ -4274,7 +4294,8 @@
          <issue n="5">
             <pubPart>
                <author>Golash Boza T., Darity Jr. W.</author>
-               <title>Latino racial choices</title><title>the effects of skin colour and discrimination on Latinos' and Latinas' racial selfidentifications</title>
+               <title>Latino racial choices</title>
+               <title>the effects of skin colour and discrimination on Latinos' and Latinas' racial selfidentifications</title>
                <page>899-934</page>
                <citedIn count="1">
                   <cit did="3047" cid="24" avtor0="Golash Boza T., Darity Jr. W."
@@ -4287,7 +4308,8 @@
          <issue n="6">
             <pubPart>
                <author>Hoxie F. E.</author>
-               <title>Retrieving the Red Continent</title><title>settler colonialism and the history of American Indians in the US'</title>
+               <title>Retrieving the Red Continent</title>
+               <title>settler colonialism and the history of American Indians in the US'</title>
                <page>1153-1167</page>
                <citedIn count="1">
                   <cit did="3047" cid="26" avtor0="Hoxie F. E."
@@ -4303,7 +4325,8 @@
          <issue n="6">
             <pubPart>
                <author>Grillo Ralph</author>
-               <title>An Excess of Alterity</title><title>Debating Difference in a Multicultural Society</title>
+               <title>An Excess of Alterity</title>
+               <title>Debating Difference in a Multicultural Society</title>
                <page>979-998</page>
                <citedIn count="1">
                   <cit did="2648" cid="39" avtor0="Grillo Ralph"
@@ -4336,7 +4359,8 @@
          <issue n="1">
             <pubPart>
                <author>Wimmer Andreas</author>
-               <title>Does ethnicity matter</title><title>Everyday group formation in three Swiss immigrant neighbourhoods</title>
+               <title>Does ethnicity matter</title>
+               <title>Everyday group formation in three Swiss immigrant neighbourhoods</title>
                <page>1-36</page>
                <citedIn count="1">
                   <cit did="3039" cid="164" avtor0="Wimmer Andreas"
@@ -4352,7 +4376,8 @@
          <issue n="1">
             <pubPart>
                <author>Blokland Talja</author>
-               <title>Ethnic complexity</title><title>routes to discriminatory repertoires in an inner-city neighbourhood</title>
+               <title>Ethnic complexity</title>
+               <title>routes to discriminatory repertoires in an inner-city neighbourhood</title>
                <page>1-24</page>
                <citedIn count="1">
                   <cit did="3039" cid="14" avtor0="Blokland Talja"
@@ -4366,7 +4391,8 @@
             <pubPart>
                <author>Levitt Peggy</author>
                <author>de la Dehesa Rafael</author>
-               <title>Transnational migration and the redefinition of the state</title><title>Variations and explanations</title>
+               <title>Transnational migration and the redefinition of the state</title>
+               <title>Variations and explanations</title>
                <page>587-611</page>
                <citedIn count="1">
                   <cit did="2671" cid="29" avtor0="Levitt Peggy" avtor1="de la Dehesa Rafael"
@@ -4408,7 +4434,8 @@
          <issue n="4">
             <pubPart>
                <author>Alexander C.</author>
-               <title>Beyond Black</title><title>Rethinking the Colour/Culture Divide</title>
+               <title>Beyond Black</title>
+               <title>Rethinking the Colour/Culture Divide</title>
                <page>552-571</page>
                <citedIn count="1">
                   <cit did="3047" cid="1" avtor0="Alexander C."
@@ -4435,7 +4462,8 @@
          <issue n="2">
             <pubPart>
                <author>Marquez Benjamin</author>
-               <title>Choosing issues sides</title><title>constructiong identities in Mexican-American social movement organizations</title>
+               <title>Choosing issues sides</title>
+               <title>constructiong identities in Mexican-American social movement organizations</title>
                <page>218-235</page>
                <citedIn count="1">
                   <cit did="2698" cid="5" avtor0="Marquez Benjamin"
@@ -4449,7 +4477,8 @@
             <pubPart>
                <author>Al Ali Nadje</author>
                <author>Black Richard et al</author>
-               <title>The limits to transnationalism</title><title>Bosnian and Eritrean Refugees in Europe as imaging transnational communities</title>
+               <title>The limits to transnationalism</title>
+               <title>Bosnian and Eritrean Refugees in Europe as imaging transnational communities</title>
                <page>578-600</page>
                <citedIn count="1">
                   <cit did="2907" cid="1" avtor0="Al Ali Nadje" avtor1="Black Richard et al"
@@ -4488,7 +4517,8 @@
          <issue>
             <pubPart>
                <author>Thompson D.</author>
-               <title>Making (mixed-)race</title><title>Census politics and the emergence of multiracial multiculturalism in the United States, Great Britain and Canada</title>
+               <title>Making (mixed-)race</title>
+               <title>Census politics and the emergence of multiracial multiculturalism in the United States, Great Britain and Canada</title>
                <citedIn count="1">
                   <cit did="3047" cid="50" avtor0="Thompson D."
                      naslov0="Making (mixed-)race: Census politics and the emergence of multiracial multiculturalism in the United States, Great Britain and Canada"
@@ -4533,7 +4563,8 @@
          <issue n="6">
             <pubPart>
                <author>Oberschall Anthony</author>
-               <title>The manipulation of ethnicity</title><title>from ethnic cooperation to violence and war in Yugoslavia</title>
+               <title>The manipulation of ethnicity</title>
+               <title>from ethnic cooperation to violence and war in Yugoslavia</title>
                <page>982-1001</page>
                <citedIn count="1">
                   <cit did="2667" cid="22" avtor0="Oberschall Anthony"
@@ -4549,7 +4580,8 @@
          <issue n="2">
             <pubPart>
                <author>Kyle David</author>
-               <title>The Otavalo Trade Diaspora</title><title>Social Capital and Transnational Entrepreneurship</title>
+               <title>The Otavalo Trade Diaspora</title>
+               <title>Social Capital and Transnational Entrepreneurship</title>
                <page>422-446</page>
                <citedIn count="1">
                   <cit did="2853" cid="119" avtor0="Kyle David"
@@ -4620,7 +4652,8 @@
             <pubPart>
                <author>Glick Schiller</author>
                <author>Fouron Georges G.</author>
-               <title>Terrains of blood and nation</title><title>Haitian transnational social fields</title>
+               <title>Terrains of blood and nation</title>
+               <title>Haitian transnational social fields</title>
                <page>340-361</page>
                <citedIn count="1">
                   <cit did="2671" cid="21" avtor0="Glick Schiller" avtor1="Fouron Georges G."
@@ -4632,7 +4665,8 @@
          <issue n="4">
             <pubPart>
                <author>Joppke Christian</author>
-               <title>How Immigration is Changing Citizenship</title><title>a Comparative View</title>
+               <title>How Immigration is Changing Citizenship</title>
+               <title>a Comparative View</title>
                <page>629-652</page>
                <citedIn count="1">
                   <cit did="2645" cid="17" avtor0="Joppke Christian"
@@ -4673,7 +4707,8 @@
          <issue n="4">
             <pubPart>
                <author>Luke C., Luke A.</author>
-               <title>Interracial Families</title><title>Difference within Difference</title>
+               <title>Interracial Families</title>
+               <title>Difference within Difference</title>
                <page>728-753</page>
                <citedIn count="1">
                   <cit did="1473" cid="16" avtor0="Luke C., Luke A."
@@ -4684,7 +4719,8 @@
             </pubPart>
             <pubPart>
                <author>McGarry John</author>
-               <title>Demographic engineering’</title><title>the state-directed movement of ethnic groups as a technique of conflict regulation</title>
+               <title>Demographic engineering’</title>
+               <title>the state-directed movement of ethnic groups as a technique of conflict regulation</title>
                <page>613-638</page>
                <citedIn count="1">
                   <cit did="2751" cid="23" avtor0="McGarry John"
@@ -4771,7 +4807,8 @@
          <issue>
             <pubPart>
                <author>Walker Conner</author>
-               <title>Beyond reason</title><title>the nature of the ethno-national bond</title>
+               <title>Beyond reason</title>
+               <title>the nature of the ethno-national bond</title>
                <page>373-389</page>
                <citedIn count="1">
                   <cit did="2823" cid="35" avtor0="Walker Conner"
@@ -4804,7 +4841,8 @@
             </pubPart>
             <pubPart>
                <author>Stahl Abraham</author>
-               <title>The offspring of ethnic marriage</title><title>relations of children with paternal and maternal grandparents</title>
+               <title>The offspring of ethnic marriage</title>
+               <title>relations of children with paternal and maternal grandparents</title>
                <page>266-283</page>
                <citedIn count="1">
                   <cit did="3039" cid="140" avtor0="Stahl Abraham"
@@ -4835,7 +4873,8 @@
          <issue n="3">
             <pubPart>
                <author>Smooha Sammy</author>
-               <title>Minority status in an ethnic democracy</title><title>the status of the arab minority in Israel</title>
+               <title>Minority status in an ethnic democracy</title>
+               <title>the status of the arab minority in Israel</title>
                <page>389-413</page>
                <citedIn count="1">
                   <cit did="2998" cid="35" avtor0="Smooha Sammy"
@@ -4850,7 +4889,8 @@
          <issue n="4">
             <pubPart>
                <author>Gold Steven</author>
-               <title>Refugees and small business</title><title>The case of Soviet Jews and Vietnamese</title>
+               <title>Refugees and small business</title>
+               <title>The case of Soviet Jews and Vietnamese</title>
                <page>411-438</page>
                <citedIn count="1">
                   <cit did="3039" cid="54" avtor0="Gold Steven"
@@ -4895,7 +4935,8 @@
          <issue n="2">
             <pubPart>
                <author>Clammer John</author>
-               <title>The institutionalisation of ethnicity</title><title>the culture of ethnicity in Singapore</title>
+               <title>The institutionalisation of ethnicity</title>
+               <title>the culture of ethnicity in Singapore</title>
                <citedIn count="1">
                   <cit did="2980" cid="4" avtor0="Clammer John"
                      naslov0="The institutionalisation of ethnicity: the culture of ethnicity in Singapore"
@@ -4974,7 +5015,8 @@
          <issue n="3">
             <pubPart>
                <author>Olwig Karen Fog</author>
-               <title>Transnational" Socio-Cultural Systems and Ethnographic Research</title><title>Views from an Extended Field Site</title>
+               <title>Transnational" Socio-Cultural Systems and Ethnographic Research</title>
+               <title>Views from an Extended Field Site</title>
                <page>692-716</page>
                <citedIn count="1">
                   <cit did="2853" cid="170" avtor0="Olwig Karen Fog"
@@ -5039,7 +5081,8 @@
          <issue n="1">
             <pubPart>
                <author>Coleman David A.</author>
-               <title>International migration</title><title>demographic and socioeconomic consequences in the United Kingdom and Europe</title>
+               <title>International migration</title>
+               <title>demographic and socioeconomic consequences in the United Kingdom and Europe</title>
                <citedIn count="1">
                   <cit did="3028" cid="7" avtor0="Coleman David A."
                      naslov0="International migration: demographic and socioeconomic consequences in the United Kingdom and Europe"
@@ -5054,7 +5097,8 @@
             <pubPart>
                <author>Portes Alejandro</author>
                <author>Schauffler Richard</author>
-               <title>Language and the Second Generation</title><title>Bilingualism Yesterday and Today</title>
+               <title>Language and the Second Generation</title>
+               <title>Bilingualism Yesterday and Today</title>
                <page>640-661</page>
                <citedIn count="1">
                   <cit did="2670" cid="26" avtor0="Portes Alejandro" avtor1="Schauffler Richard"
@@ -5108,7 +5152,8 @@
             </pubPart>
             <pubPart>
                <author>Coleman David A.</author>
-               <title>Does Europe need immigrants</title><title>Population and work force projections</title>
+               <title>Does Europe need immigrants</title>
+               <title>Population and work force projections</title>
                <page>413-461</page>
                <citedIn count="1">
                   <cit did="3039" cid="30" avtor0="Coleman David A."
@@ -5119,7 +5164,8 @@
             </pubPart>
             <pubPart>
                <author>Hollifield James F.</author>
-               <title>Migration and international relations</title><title>cooperation and control in the European community</title>
+               <title>Migration and international relations</title>
+               <title>cooperation and control in the European community</title>
                <page>568-595</page>
                <citedIn count="1">
                   <cit did="3028" cid="11" avtor0="Hollifield James F."
@@ -5163,7 +5209,8 @@
          <issue n="3">
             <pubPart>
                <author>Boyd Monika</author>
-               <title>Family and Personal Networks in International Migration</title><title>Recent Developments and New Agendas</title>
+               <title>Family and Personal Networks in International Migration</title>
+               <title>Recent Developments and New Agendas</title>
                <page>638-670</page>
                <citedIn count="1">
                   <cit did="3113" cid="2" avtor0="Boyd Monika"
@@ -5211,7 +5258,8 @@
          <issue n="3">
             <pubPart>
                <author>Castles Stephen</author>
-               <title>The guests who stayes</title><title>the debate on "foreigners policy" in the German Federal Republic</title>
+               <title>The guests who stayes</title>
+               <title>the debate on "foreigners policy" in the German Federal Republic</title>
                <page>517-534</page>
                <citedIn count="1">
                   <cit did="3039" cid="23" avtor0="Castles Stephen"
@@ -5247,7 +5295,8 @@
             </pubPart>
             <pubPart>
                <author>Herkov Z.</author>
-               <title>Dodatak uz stare mjere Hrvatskog primorja i Istre</title><title>I. Stare mjere grada Trsta, II. Stare mletačke mjere</title>
+               <title>Dodatak uz stare mjere Hrvatskog primorja i Istre</title>
+               <title>I. Stare mjere grada Trsta, II. Stare mletačke mjere</title>
                <page>459-521</page>
                <citedIn count="1">
                   <cit did="3539" cid="129" avtor0="Herkov Z."
@@ -5663,7 +5712,8 @@
          <issue n="5">
             <pubPart>
                <author>Alexander C., Edvvards R., Temple B.</author>
-               <title>Contesting Cultural Communities</title><title>Language, Ethnicity and Citizenship in Britain</title>
+               <title>Contesting Cultural Communities</title>
+               <title>Language, Ethnicity and Citizenship in Britain</title>
                <page>783-800</page>
                <citedIn count="1">
                   <cit did="3057" cid="3" avtor0="Alexander C., Edvvards R., Temple B."
@@ -5693,7 +5743,8 @@
          <issue n="5">
             <pubPart>
                <author>Moya Jose C.</author>
-               <title>Immigrants and Associations</title><title>A Global and Historical Perspective</title>
+               <title>Immigrants and Associations</title>
+               <title>A Global and Historical Perspective</title>
                <page>833-864</page>
                <citedIn count="1">
                   <cit did="2698" cid="6" avtor0="Moya Jose C."
@@ -5721,7 +5772,8 @@
          <issue n="1">
             <pubPart>
                <author>Dell'Olio Fiorella</author>
-               <title>Immigration and immigrant policy in Italy and the UK</title><title>Is housing policy a barrier to a common approach towards immigration in the EU?</title>
+               <title>Immigration and immigrant policy in Italy and the UK</title>
+               <title>Is housing policy a barrier to a common approach towards immigration in the EU?</title>
                <page>107-128</page>
                <citedIn count="1">
                   <cit did="2930" cid="6" avtor0="Dell'Olio Fiorella"
@@ -5771,7 +5823,8 @@
          <issue n="1">
             <pubPart>
                <author>Erjavec K.</author>
-               <title>Media Construction of Identity through Moral Panics</title><title>Discourses of Immigration in Slovenia</title>
+               <title>Media Construction of Identity through Moral Panics</title>
+               <title>Discourses of Immigration in Slovenia</title>
                <page>83-101</page>
                <citedIn count="1">
                   <cit did="1935" cid="8" avtor0="Erjavec K."
@@ -5787,7 +5840,8 @@
          <issue n="3">
             <pubPart>
                <author>Peixoto João</author>
-               <title>Strong market, weak state</title><title>the case of recent foreign immigration in Portugal</title>
+               <title>Strong market, weak state</title>
+               <title>the case of recent foreign immigration in Portugal</title>
                <page>483–497</page>
                <citedIn count="1">
                   <cit did="2847" cid="31" avtor0="Peixoto João"
@@ -5800,7 +5854,8 @@
          <issue n="4">
             <pubPart>
                <author>Mitsilegas Valsamis</author>
-               <title>The Implementation of the EU acquis on Illegal Immigration by the Candidate Countries of Central and Eastern Europe</title><title>Challenges and Contradictions</title>
+               <title>The Implementation of the EU acquis on Illegal Immigration by the Candidate Countries of Central and Eastern Europe</title>
+               <title>Challenges and Contradictions</title>
                <page>665-682</page>
                <citedIn count="1">
                   <cit did="2710" cid="18" avtor0="Mitsilegas Valsamis"
@@ -5812,7 +5867,8 @@
             <pubPart>
                <author>Williams Allan M.</author>
                <author>Baláž Vladimir</author>
-               <title>Trans-border population mobility at a European crossroads</title><title>Slovakia in the shadow of EU accession</title>
+               <title>Trans-border population mobility at a European crossroads</title>
+               <title>Slovakia in the shadow of EU accession</title>
                <page>647-664</page>
                <citedIn count="1">
                   <cit did="2710" cid="27" avtor0="Williams Allan M." avtor1="Baláž Vladimir"
@@ -5844,7 +5900,8 @@
          <issue n="1">
             <pubPart>
                <author>Fetzer Joel S.</author>
-               <title>Economic self-interest or cultural marginality</title><title>Anti-immigration sentiment and nativist political movements in France, Germany and the USA</title>
+               <title>Economic self-interest or cultural marginality</title>
+               <title>Anti-immigration sentiment and nativist political movements in France, Germany and the USA</title>
                <page>5–23</page>
                <citedIn count="1">
                   <cit did="2824" cid="9" avtor0="Fetzer Joel S."
@@ -5861,7 +5918,8 @@
             <pubPart>
                <author>Portes Alejandro</author>
                <author>MacLeod Dag</author>
-               <title>Educating the second generation</title><title>determinants of academic achievement among children of immigrants in the United States</title>
+               <title>Educating the second generation</title>
+               <title>determinants of academic achievement among children of immigrants in the United States</title>
                <page>373-396</page>
                <citedIn count="1">
                   <cit did="3039" cid="119" avtor0="Portes Alejandro" avtor1="MacLeod Dag"
@@ -5874,7 +5932,8 @@
          <issue n="4">
             <pubPart>
                <author>Togeby Lise</author>
-               <title>Migrants and the polls</title><title>an analysis of imigrant and refugee participation in Danish local elections</title>
+               <title>Migrants and the polls</title>
+               <title>an analysis of imigrant and refugee participation in Danish local elections</title>
                <citedIn count="1">
                   <cit did="3036" cid="152" avtor0="Togeby Lise"
                      naslov0="Migrants and the polls: an analysis of imigrant and refugee participation in Danish local elections"
@@ -5884,7 +5943,8 @@
             </pubPart>
             <pubPart>
                <author>Togeby Lise</author>
-               <title>Migrants and the polls</title><title>an analysis of immigrant and refugee participation in Danish local elections</title>
+               <title>Migrants and the polls</title>
+               <title>an analysis of immigrant and refugee participation in Danish local elections</title>
                <citedIn count="1">
                   <cit did="2940" cid="166" avtor0="Togeby Lise"
                      naslov0="Migrants and the polls: an analysis of immigrant and refugee participation in Danish local elections"
@@ -5899,7 +5959,8 @@
          <issue>
             <pubPart>
                <author>Baghana Maria</author>
-               <title>'Immigrant Involvement in the Informal Economy</title><title>The Portugese case'</title>
+               <title>'Immigrant Involvement in the Informal Economy</title>
+               <title>The Portugese case'</title>
                <page>367-385</page>
                <citedIn count="1">
                   <cit did="2853" cid="12" avtor0="Baghana Maria"
@@ -5985,7 +6046,8 @@
          <issue>
             <pubPart>
                <author>Duinhun J.</author>
-               <title>Im Herzen der zusammengesetzten Habsburgermonarchie</title><title>Quellen zu einer neuen Geschichte des Hofes, der Regierung und der höfischen Repräsentation</title>
+               <title>Im Herzen der zusammengesetzten Habsburgermonarchie</title>
+               <title>Quellen zu einer neuen Geschichte des Hofes, der Regierung und der höfischen Repräsentation</title>
                <page>21-32</page>
                <citedIn count="1">
                   <cit did="2632" cid="23" avtor0="Duinhun J."
@@ -6056,7 +6118,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Lackner Christian</author>
                <title>Hof und Herrschaft</title>
                <title>Rat, Kanzlei und Regierung der österreichischen Herzöge (1365-1406)</title>
-               <page>347</page>
                <citedIn count="4">
                   <cit did="249" cid="28" avtor0="Lackner Christian" naslov0="Hof und Herrschaft"
                      naslov1="Rat, Kanzlei und Regierung der österreichischen Herzöge (1365-1406)"
@@ -6157,7 +6218,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Tersch H.</author>
-               <title>Melancholie und Didaktik in österreichischen Selbstzeugnissen des Späthumanismus</title><title>Ein Beitrag zur Historisehen Anthropologie</title>
+               <title>Melancholie und Didaktik in österreichischen Selbstzeugnissen des Späthumanismus</title>
+               <title>Ein Beitrag zur Historisehen Anthropologie</title>
                <page>130-155</page>
                <citedIn count="1">
                   <cit did="2632" cid="116" avtor0="Tersch H."
@@ -6173,7 +6235,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Štih Peter</author>
-               <title>Studien zur geschichte der Grafen von Görz</title><title>die Ministerialen und Milites der Grafen von Görz in Istrien und Krain</title>
+               <title>Studien zur geschichte der Grafen von Görz</title>
+               <title>die Ministerialen und Milites der Grafen von Görz in Istrien und Krain</title>
                <citedIn count="1">
                   <cit did="53" cid="255" avtor0="Štih Peter"
                      naslov0="Studien zur geschichte der Grafen von Görz: die Ministerialen und Milites der Grafen von Görz in Istrien und Krain"
@@ -6284,7 +6347,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Kovacs Elisabeth</author>
-               <title>Die ideale Erzherzogin</title><title>Maria Theresias Forderungen an ihre Töchter</title>
+               <title>Die ideale Erzherzogin</title>
+               <title>Maria Theresias Forderungen an ihre Töchter</title>
                <page>49-80</page>
                <citedIn count="1">
                   <cit did="3380" cid="22" avtor0="Kovacs Elisabeth"
@@ -6538,7 +6602,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Fichtenau H.</author>
                <title>Arenga</title>
                <title>Spätantike und Mittelalter im Spiegel von Urkundenformen</title>
-               <page>172</page>
                <citedIn count="2">
                   <cit did="163" cid="20" avtor0="Fichtenau Heinrich"
                      naslov0="Arenga, Spätantike und Mittelalter im Spiegel von Urkundenformen"
@@ -6610,7 +6673,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Santifaller L.</author>
-               <title>Beiträge zur Geschichte der Beschreibstoffe im Mittelalter</title><title>Mit besonderer Berücksichtigung der päpstlichen Kanzlei</title>
+               <title>Beiträge zur Geschichte der Beschreibstoffe im Mittelalter</title>
+               <title>Mit besonderer Berücksichtigung der päpstlichen Kanzlei</title>
                <citedIn count="1">
                   <cit did="2629" cid="48" avtor0="Santifaller L."
                      naslov0="Beiträge zur Geschichte der Beschreibstoffe im Mittelalter. Mit besonderer Berücksichtigung der päpstlichen Kanzlei. 1 ."
@@ -6658,7 +6722,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Grossmann Karl</author>
                <title>Megiser, Christalnick und die Annales Carinthiae</title>
                <page>359-373</page>
-               <page>359-372</page>
                <citedIn count="2">
                   <cit did="258" cid="4" avtor0="Grossmann K."
                      naslov0="Megiser, Christalnick und die Annales Carinthiae"
@@ -6734,7 +6797,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Schwanke Robert</author>
                <title>Beiträge zum Urkundenwesen der Grafen von Cilli</title>
-               <page>414</page>
+               <page>411-422</page>
                <citedIn count="1">
                   <cit did="163" cid="46" avtor0="Schwanke Robert"
                      naslov0="Beiträge zum Urkundenwesen der Grafen von Cilli"
@@ -6821,7 +6884,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Schlosser Julius von</author>
-               <title>Die Wiener Schule der Kunstgeschichte</title><title>Rückblick auf ein Säkulum deutscher Gelehrsamkeit in Österreich</title>
+               <title>Die Wiener Schule der Kunstgeschichte</title>
+               <title>Rückblick auf ein Säkulum deutscher Gelehrsamkeit in Österreich</title>
                <page>141-228</page>
                <citedIn count="1">
                   <cit did="1567" cid="1" avtor0="Schlosser Julius von"
@@ -6906,7 +6970,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Fehr H.</author>
                <title>Das Widerstandsrecht</title>
-               <page>2</page>
+               <page>1-38</page>
                <citedIn count="1">
                   <cit did="249" cid="8" avtor0="Fehr H." naslov0="Das Widerstandsrecht"
                      source="Mitteilungen des Instituts für österreichische Geschichtesforschung 38"
@@ -6998,7 +7062,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Hauptmann Ljudmil</author>
                <author>Hauptmann Ljudomil</author>
                <title>Politische Umwälzungen unter den Slowenen vom Ende des sechsten Jahrhunderts bis zur Mitte des neunten</title>
-               <page>229</page>
+               <page>229-287</page>
                <citedIn count="2">
                   <cit did="864" cid="33" avtor0="Hauptmann Ljudmil"
                      naslov0="Politische Umwälzungen unter den Slowenen vom Ende des sechsten Jahrhunderts bis zur Mitte des neunten"
@@ -7055,8 +7119,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Kovač Karl</author>
-               <title>Ein Zehentverzeichnis aus der Diözese Aquileja von Jahre 1296</title>
-               <page>634</page>
+               <title>Ein Zehentverzeichnis aus der Diözese Aquileja vom Jahre 1296</title>
+               <page>607-637</page>
                <citedIn count="1">
                   <cit did="650" cid="9" avtor0="Kovač Karl"
                      naslov0="Ein Zehentverzeichnis aus der Diözese Aquileja von Jahre 1296"
@@ -7070,7 +7134,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Doblinger M.</author>
-               <title>(1905)</title><title>Hieronymus Megisers Leben und Werke</title>
+               <title>(1905)</title>
+               <title>Hieronymus Megisers Leben und Werke</title>
                <page>431-478</page>
                <citedIn count="1">
                   <cit did="2318" cid="26" avtor0="Doblinger M."
@@ -7089,7 +7154,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Jaksch August</author>
                <author>Jacksch August von</author>
                <title>Die Anlegung eines landesfürstlichen Urbars in Kärnten, Krain und der Mark im J. 1267</title>
-               <page>240-252</page>
                <page>241-255</page>
                <citedIn count="2">
                   <cit did="2234" cid="15" avtor0="Jaksch August"
@@ -7110,7 +7174,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Dopsch A.</author>
                <author>Dopsch Alfons</author>
                <title>Ein antihabsburgischer Fürstenbund im Jahre 1292</title>
-               <page>600-639</page>
                <page>600-640</page>
                <citedIn count="2">
                   <cit did="2631" cid="52" avtor0="Dopsch A."
@@ -7355,7 +7418,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Stergar Rok</author>
                <title>Fragen des Militärwesens in der slowenischen Politik 1867-1914</title>
                <page>391-422</page>
-               <page>417-421</page>
                <cobiss>29178210</cobiss>
                <citedIn count="2">
                   <cit did="3365" cid="111" avtor0="Stergar Rok"
@@ -7695,7 +7757,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Brix Emil</author>
-               <title>Mentalität ist gut</title><title>die Teillung der Prager Universität 1882</title>
+               <title>Mentalität ist gut</title>
+               <title>die Teillung der Prager Universität 1882</title>
                <page>371-382</page>
                <citedIn count="1">
                   <cit did="298" cid="43" avtor0="Brix Emil"
@@ -7828,7 +7891,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Gross Mirjana</author>
-               <title>Erzherzog Franz Ferdinand und die kroatische Frage</title><title>ein Beitrag zur großösterreichischen Politik in Kroatien</title>
+               <title>Erzherzog Franz Ferdinand und die kroatische Frage</title>
+               <title>ein Beitrag zur großösterreichischen Politik in Kroatien</title>
                <page>277-299</page>
                <citedIn count="1">
                   <cit did="1760" cid="64" avtor0="Gross Mirjana"
@@ -7959,7 +8023,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Klemenčič Matjaž</author>
-               <title>Slovenia at the crossroads of the nineties</title><title>from the first multiparty elections and the Declaration of Independence to membership in the Council of Europe</title>
+               <title>Slovenia at the crossroads of the nineties</title>
+               <title>from the first multiparty elections and the Declaration of Independence to membership in the Council of Europe</title>
                <page>9-34</page>
                <cobiss>5914884</cobiss>
                <citedIn count="1">
@@ -7993,7 +8058,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1-2">
             <pubPart>
                <author>Pirjevec Jože</author>
-               <title>Italian Policy towards Slovenes</title><title>1915-1994</title>
+               <title>Italian Policy towards Slovenes</title>
+               <title>1915-1994</title>
                <page>63-73</page>
                <citedIn count="1">
                   <cit did="1511" cid="287" avtor0="Pirjevec Jože"
@@ -8105,7 +8171,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <author>Priestly Tom</author>
-               <title>Thomas M. Barker, social Revolutionaries and Secret Agents</title><title>The Carinthian Slovene Partisans and Britain's Special Operations Executive...</title>
+               <title>Thomas M. Barker, social Revolutionaries and Secret Agents</title>
+               <title>The Carinthian Slovene Partisans and Britain's Special Operations Executive...</title>
                <cobiss>50133760</cobiss>
                <citedIn count="1">
                   <cit did="3247" cid="2" avtor0="Mlakar Boris" avtor1="Priestly Tom"
@@ -8119,7 +8186,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Nećak Lük Albina</author>
                <author>Nećak Dušan</author>
-               <title>Slovene as a Minority Language</title><title>Historical Background and Sociolinguistic Prospects</title>
+               <title>Slovene as a Minority Language</title>
+               <title>Historical Background and Sociolinguistic Prospects</title>
                <page>169–181</page>
                <citedIn count="1">
                   <cit did="2763" cid="17" avtor0="Nećak Lük Albina" avtor1="Nećak Dušan"
@@ -8193,7 +8261,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Klemenčič Matjaž</author>
-               <title>Research on Slovene Immigration to the United States</title><title>Past Achievements and Future directions</title>
+               <title>Research on Slovene Immigration to the United States</title>
+               <title>Past Achievements and Future directions</title>
                <page>9-14</page>
                <citedIn count="1">
                   <cit did="2837" cid="6" avtor0="Klemenčič Matjaž"
@@ -8302,7 +8371,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Rebeschini Monica</author>
-               <title>Storiografie della transizione e genere della biografia storica</title><title>Un modello da rivalutare? Alcune considerazioni su un dibattito in corso</title>
+               <title>Storiografie della transizione e genere della biografia storica</title>
+               <title>Un modello da rivalutare? Alcune considerazioni su un dibattito in corso</title>
                <page>165-171</page>
                <citedIn count="1">
                   <cit did="3378" cid="2" avtor0="Rebeschini Monica"
@@ -8421,7 +8491,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Moscarda Orietta</author>
-               <title>La giustizia del popolo</title><title>sequestri e confische a Fiume re secondo dopoguerra 11946-1948)</title>
+               <title>La giustizia del popolo</title>
+               <title>sequestri e confische a Fiume re secondo dopoguerra 11946-1948)</title>
                <citedIn count="1">
                   <cit did="2873" cid="292" avtor0="Moscarda Orietta"
                      naslov0="La giustizia del popolo: sequestri e confische a Fiume re secondo dopoguerra 11946-1948)"
@@ -8581,7 +8652,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Vinci Anna Maria</author>
-               <title>Venezia Giulia e fascismo</title><title>alcune ipotesi storiografiche</title>
+               <title>Venezia Giulia e fascismo</title>
+               <title>alcune ipotesi storiografiche</title>
                <page>39-60</page>
                <citedIn count="1">
                   <cit did="1914" cid="163" avtor0="Vinci Anna Maria"
@@ -8673,7 +8745,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Fabi Lucio</author>
-               <title>Una citta al fronte</title><title>Trieste 1914-1918</title>
+               <title>Una citta al fronte</title>
+               <title>Trieste 1914-1918</title>
                <page>5-7</page>
                <citedIn count="1">
                   <cit did="2433" cid="10" avtor0="Fabi Lucio"
@@ -8707,7 +8780,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Barker Elisabeth</author>
-               <title>L'opzione istriana</title><title>obiettivi politici e militari della Gran Bretagna in Adriatico (1943-1944)</title>
+               <title>L'opzione istriana</title>
+               <title>obiettivi politici e militari della Gran Bretagna in Adriatico (1943-1944)</title>
                <page>3-44</page>
                <citedIn count="1">
                   <cit did="1782" cid="27" avtor0="Barker Elisabeth"
@@ -8759,7 +8833,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Postogna Giovanni</author>
-               <title>II tribunale nero a Trieste nel dicembre 1941</title><title>candidati alla pena di morte</title><title>una testimonianza</title>
+               <title>II tribunale nero a Trieste nel dicembre 1941</title>
+               <title>candidati alla pena di morte</title>
+               <title>una testimonianza</title>
                <page>121-130</page>
                <citedIn count="1">
                   <cit did="1914" cid="112" avtor0="Postogna Giovanni"
@@ -8828,7 +8904,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Franzinetti Guido</author>
-               <title>Tra antropologia e storia</title><title>memoria e identita ai confini del Balcani</title>
+               <title>Tra antropologia e storia</title>
+               <title>memoria e identita ai confini del Balcani</title>
                <page>831-854</page>
                <citedIn count="1">
                   <cit did="3112" cid="5" avtor0="Franzinetti Guido"
@@ -8843,7 +8920,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="2">
             <pubPart>
                <author>Schwarz Guri</author>
-               <title>La morte  e la patria</title><title>l'Italia e difficili lutti della seconda guerra mondiale</title>
+               <title>La morte  e la patria</title>
+               <title>l'Italia e difficili lutti della seconda guerra mondiale</title>
                <page>561, 581</page>
                <citedIn count="1">
                   <cit did="3112" cid="23" avtor0="Schwarz Guri"
@@ -8928,7 +9006,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Sissa G.</author>
-               <title>La verginita materiale</title><title>Evanescenza di un oggetto</title>
+               <title>La verginita materiale</title>
+               <title>Evanescenza di un oggetto</title>
                <page>739-756</page>
                <citedIn count="1">
                   <cit did="1490" cid="35" avtor0="Sissa G."
@@ -8943,7 +9022,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Farr J.</author>
-               <title>Crimine nel vicinato</title><title>Ingiurie, matrimonio e onore nella Digione del XVI e XVII secolo</title>
+               <title>Crimine nel vicinato</title>
+               <title>Ingiurie, matrimonio e onore nella Digione del XVI e XVII secolo</title>
                <page>839-854</page>
                <citedIn count="1">
                   <cit did="1493" cid="2" avtor0="Farr J."
@@ -8960,7 +9040,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Morassi L.</author>
-               <title>Un nobile imprenditore nel Friuli del Settecento</title><title>Mattoni e calcina alla "Nuova Olanda"</title>
+               <title>Un nobile imprenditore nel Friuli del Settecento</title>
+               <title>Mattoni e calcina alla "Nuova Olanda"</title>
                <page>81-103</page>
                <citedIn count="1">
                   <cit did="2363" cid="6" avtor0="Morassi L."
@@ -8973,7 +9054,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="8">
             <pubPart>
                <author>Livi Bacci M.</author>
-               <title>Ebrei, aristocratici e eittadini</title><title>precursori del declino délia fecondità</title>
+               <title>Ebrei, aristocratici e eittadini</title>
+               <title>precursori del declino délia fecondità</title>
                <page>913-939</page>
                <citedIn count="1">
                   <cit did="3459" cid="141" avtor0="Livi Bacci M."
@@ -8988,7 +9070,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Lüsebrink H. J.</author>
-               <title>La letteratura del patibolo</title><title>Continuità e trasformazioni '600 e '800</title>
+               <title>La letteratura del patibolo</title>
+               <title>Continuità e trasformazioni '600 e '800</title>
                <page>285-301</page>
                <citedIn count="1">
                   <cit did="1497" cid="6" avtor0="Lüsebrink H. J."
@@ -8998,7 +9081,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Prosperi A.</author>
-               <title>Il sangue e l'anima</title><title>Ricerche sulle Compagnie di giustizia in Italia</title>
+               <title>Il sangue e l'anima</title>
+               <title>Ricerche sulle Compagnie di giustizia in Italia</title>
                <page>959-999</page>
                <citedIn count="1">
                   <cit did="1498" cid="58" avtor0="Prosperi A."
@@ -9013,7 +9097,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Gullino G.</author>
-               <title>I patrizi veneziani di fronte alla proprietà feudale (secoli XVI-XVIII)</title><title>Materiale per una ricerca</title>
+               <title>I patrizi veneziani di fronte alla proprietà feudale (secoli XVI-XVIII)</title>
+               <title>Materiale per una ricerca</title>
                <page>162-193</page>
                <citedIn count="1">
                   <cit did="1483" cid="7" avtor0="Gullino G."
@@ -9191,7 +9276,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Dopsch Heinz</author>
-               <title>Bayern - "Mutterland" des Ostalpenraums</title><title>Die Landesbildung der Wittelsbacher im Vergleich zu den österreichischen Ländern</title>
+               <title>Bayern - "Mutterland" des Ostalpenraums</title>
+               <title>Die Landesbildung der Wittelsbacher im Vergleich zu den österreichischen Ländern</title>
                <page>259-308</page>
                <citedIn count="1">
                   <cit did="2647" cid="58" avtor0="Dopsch Heinz"
@@ -9273,7 +9359,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Staudinger Eduard G.</author>
-               <title>Demonstration und Fest</title><title>Zur Geschichte der Feiern zum 1. Mai in der Steiermark von 1890 bis 1907</title>
+               <title>Demonstration und Fest</title>
+               <title>Zur Geschichte der Feiern zum 1. Mai in der Steiermark von 1890 bis 1907</title>
                <citedIn count="1">
                   <cit did="1783" cid="176" avtor0="Staudinger Eduard G."
                      naslov0="Demonstration und Fest: Zur Geschichte der Feiern zum 1. Mai in der Steiermark von 1890 bis 1907"
@@ -9384,7 +9471,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Härtel Reinhard</author>
-               <title>Urkundenformeln und Landesbewußtsein</title><title>Ein Kapitel zur Geschichte des Pittener Gebietes</title>
+               <title>Urkundenformeln und Landesbewußtsein</title>
+               <title>Ein Kapitel zur Geschichte des Pittener Gebietes</title>
                <page>5-75</page>
                <citedIn count="1">
                   <cit did="2647" cid="95" avtor0="Härtel Reinhard"
@@ -9775,7 +9863,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Pirchegger Hans</author>
                <title>Die Herrschaft Marburg</title>
                <page>14-55</page>
-               <page>14-52</page>
                <citedIn count="3">
                   <cit did="775" cid="164" avtor0="Pirchegger H." naslov0="Die Herrschaft Marburg"
                      source="ZHVSt" year="1952" volume="43" page="14-55"/>
