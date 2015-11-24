@@ -1267,7 +1267,7 @@
          <issue>
             <pubPart>
                <author>Benedetti A.</author>
-               <title>II Governatorato di Alfonso Gabriele di Porcia e Brugnera a Trieste</title>
+               <title>Il Governatorato di Alfonso Gabriele di Porcia e Brugnera a Trieste</title>
                <page>109-159</page>
                <citedIn count="1">
                   <cit did="726" cid="2" avtor0="Benedetti A."
@@ -1480,7 +1480,7 @@
          <issue n="3">
             <pubPart>
                <author>Udina R.</author>
-               <title>II Placito del Risano</title>
+               <title>Il Placito del Risano</title>
                <title>Istituzioni giuridiche e sociali dell'Istria durante il dominio bizantino</title>
                <page>1-84</page>
                <citedIn count="6">
@@ -1803,7 +1803,7 @@
          <issue>
             <pubPart>
                <author>Fontana C. d'O.</author>
-               <title>lllustrazione di una serie di monete dei vescovi di Trieste</title>
+               <title>Illustrazione di una serie di monete dei vescovi di Trieste</title>
                <page>303-338</page>
                <citedIn count="1">
                   <cit did="1940" cid="9" avtor0="Fontana C. d'O."
@@ -2058,17 +2058,6 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Whiteside Andrew G.</author>
-               <title>The Germans as an Integrative Force in Imperial Austria</title>
-               <title>the Dilema of Dominance</title>
-               <page>157-200</page>
-               <citedIn count="1">
-                  <cit did="1783" cid="212" avtor0="Whiteside Andrew G."
-                     naslov0="The Germans as an Integrative Force in Imperial Austria: the Dilema of Dominance"
-                     source="Austrian History Yearbook" year="1967" issue="1"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Zöllner Erich</author>
                <title>The Germans as an Integrating and Disintegrating Force</title>
                <page>201-233</page>
@@ -2115,11 +2104,14 @@
                <title>The Germans as an Integrative Force in Imperial Austria</title>
                <title>The Dilema of Dominance</title>
                <page>157-201</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="298" cid="44" avtor0="Whiteside Andrew G."
                      naslov0="The Germans as an Intergrative Force in Imperial Austria:"
                      naslov1="The Dilema of Dominance" source="Austrian History Yearbook"
                      year="1967" issue="3" page="163"/>
+                  <cit did="1783" cid="212" avtor0="Whiteside Andrew G."
+                     naslov0="The Germans as an Integrative Force in Imperial Austria: the Dilema of Dominance"
+                     source="Austrian History Yearbook" year="1967" issue="1"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2802,7 +2794,6 @@
          </issue>
       </year>
       <year n="1967">
-         <volume>1</volume>
          <volume>157</volume>
          <volume>151</volume>
          <issue n="157">
@@ -3688,7 +3679,8 @@
          <issue n="1">
             <pubPart>
                <author>Jelaska Marijan Z.</author>
-               <title>Članovi javnobilježničke komore Split i njihovi pripravnici tridesetih godina XX. stoljeća. I. dio.</title>
+               <title>Članovi javnobilježničke komore Split i njihovi pripravnici tridesetih godina XX. stoljeća</title>
+               <title>I. dio.</title>
                <page>97-122</page>
                <citedIn count="1">
                   <cit did="2096" cid="8" avtor0="Jelaska Marijan Z."
@@ -3701,7 +3693,8 @@
          <issue n="2">
             <pubPart>
                <author>Jelaska Marijan Z.</author>
-               <title>Članovi javnobilježničke komore Split i njihovi pripravnici tridesetih godina XX. stoljeća. II. dio.</title>
+               <title>Članovi javnobilježničke komore Split i njihovi pripravnici tridesetih godina XX. stoljeća</title>
+               <title>II. dio.</title>
                <page>577-600</page>
                <citedIn count="1">
                   <cit did="2096" cid="9" avtor0="Jelaska Marijan Z."
@@ -4521,7 +4514,7 @@
          <issue n="5">
             <pubPart>
                <author>Corkill David</author>
-               <title>'Economic Migrants and the Labour Market in Spain and Portugal.'</title>
+               <title>Economic Migrants and the Labour Market in Spain and Portugal</title>
                <page>828-844</page>
                <citedIn count="1">
                   <cit did="2853" cid="46" avtor0="Corkill David"
@@ -4766,12 +4759,16 @@
          <issue n="1">
             <pubPart>
                <author>Vertovec Stephen</author>
-               <title>'Multiculturalism, Culturalism and Public Incorporation</title>
+               <title>Multiculturalism, Culturalism and Public Incorporation</title>
                <page>49-69</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2853" cid="223" avtor0="Vertovec Stephen"
                      naslov0="'Multiculturalism, Culturalism and Public Incorporation"
                      source="Ethnic and Racial Studies" year="1996" volume="19" issue="1"
+                     page="49-69"/>
+                  <cit did="2648" cid="74" avtor0="Vertovec Steven"
+                     naslov0="Multiculturalism, Culturalism and Public Incorporation"
+                     source="Ethnic and Racial Studies" year="1995" volume="19" issue="1"
                      page="49-69"/>
                </citedIn>
             </pubPart>
@@ -4786,22 +4783,6 @@
                      naslov0="Nationalising states in the old &#34;New Europe&#34; - and the new"
                      source="Ethnic and racial studies" year="1996" volume="19" issue="2"
                      page="430-434"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1995">
-         <volume>19</volume>
-         <issue n="1">
-            <pubPart>
-               <author>Vertovec Steven</author>
-               <title>Multiculturalism, Culturalism and Public Incorporation</title>
-               <page>49-69</page>
-               <citedIn count="1">
-                  <cit did="2648" cid="74" avtor0="Vertovec Steven"
-                     naslov0="Multiculturalism, Culturalism and Public Incorporation"
-                     source="Ethnic and Racial Studies" year="1995" volume="19" issue="1"
-                     page="49-69"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5035,7 +5016,7 @@
          <issue n="3">
             <pubPart>
                <author>Olwig Karen Fog</author>
-               <title>Transnational" Socio-Cultural Systems and Ethnographic Research</title>
+               <title>"Transnational" Socio-Cultural Systems and Ethnographic Research</title>
                <title>Views from an Extended Field Site</title>
                <page>692-716</page>
                <citedIn count="1">
@@ -5108,6 +5089,22 @@
                   <cit did="3028" cid="7" avtor0="Coleman David A."
                      naslov0="International migration: demographic and socioeconomic consequences in the United Kingdom and Europe"
                      source="International Migration Review" year="1995" volume="29" issue="1"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue n="2">
+            <pubPart>
+               <author>Goss Jon, Lindquist Bruce</author>
+               <title>Conceptualizing International Labor Migration</title>
+               <title>A Structuration Perspective</title>
+               <page>317-351</page>
+               <citedIn count="1">
+                  <cit did="603" cid="4" avtor0="Goss Jon, Lindquist Bruce"
+                     naslov0="Conceptualizing International Labor Migration"
+                     naslov1="A Structuration Perspective"
+                     source="International Migration Review, vol. 29" pubPlace="New York"
+                     publisher="Center for Migration Studies" year="1987" issue="2(110)"
+                     page="317-351"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5211,17 +5208,20 @@
                      page="623-645"/>
                </citedIn>
             </pubPart>
-         </issue>
-         <issue>
             <pubPart>
                <author>Stola Dariuzs</author>
                <title>Forced Migrations in Central European History</title>
                <page>324-342</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="942" cid="24" avtor0="Stola Dariuzs"
                      naslov0="Forced Migrations in Central European History"
                      source="International Migration Review" pubPlace="New York" year="1992"
                      page="324-342"/>
+                  <cit did="603" cid="17" avtor0="Stola Dariusz"
+                     naslov0="Forced Migrations in Central European History"
+                     source="International Migration Review, vol. 26" pubPlace="New York"
+                     publisher="Center for Migration Studies" year="1987" issue="2(98)"
+                     page="324-341"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5238,38 +5238,6 @@
                      naslov0="Family and Personal Networks in International Migration: Recent Developments and New Agendas"
                      source="International Migration Review, vol. 23" year="1989" issue="3"
                      page="638-670"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1987">
-         <issue n="2(98)">
-            <pubPart>
-               <author>Stola Dariusz</author>
-               <title>Forced Migrations in Central European History</title>
-               <page>324-341</page>
-               <citedIn count="1">
-                  <cit did="603" cid="17" avtor0="Stola Dariusz"
-                     naslov0="Forced Migrations in Central European History"
-                     source="International Migration Review, vol. 26" pubPlace="New York"
-                     publisher="Center for Migration Studies" year="1987" issue="2(98)"
-                     page="324-341"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="2(110)">
-            <pubPart>
-               <author>Goss Jon, Lindquist Bruce</author>
-               <title>Conceptualizing International Labor Migration</title>
-               <title>A Structuration Perspective</title>
-               <page>317-351</page>
-               <citedIn count="1">
-                  <cit did="603" cid="4" avtor0="Goss Jon, Lindquist Bruce"
-                     naslov0="Conceptualizing International Labor Migration"
-                     naslov1="A Structuration Perspective"
-                     source="International Migration Review, vol. 29" pubPlace="New York"
-                     publisher="Center for Migration Studies" year="1987" issue="2(110)"
-                     page="317-351"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5300,47 +5268,34 @@
       <publisher>Povijesno društvo Rijeke</publisher>
       <pubCobiss>9969666</pubCobiss>
       <issn>0448-1216</issn>
-      <year n="1985">
+      <year n="1985"> <!-- 1982-85 -->
          <volume>12</volume>
          <issue>
             <pubPart>
                <author>Basioli J.</author>
                <title>Stolječe industrije za preradu ribe na Sjevernom Jadranu</title>
                <page>181-224</page>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="2636" cid="17" avtor0="Basioli J."
                      naslov0="Stolječe industrije za preradu ribe na Sjevernom Jadranu"
                      source="Jadranski zbornik" pubPlace="Pula - Rijeka" year="1985" volume="12"
+                     page="181-224"/>
+                  <cit did="2636" cid="15" avtor0="Basioli J."
+                     naslov0="Stolječe industrije za preradu ribe na Sjevernom Jadranu"
+                     source="Jadranski zbornik" pubPlace="Pula-Rijeka" year="1982" volume="12"
                      page="181-224"/>
                </citedIn>
             </pubPart>
             <pubPart>
                <author>Herkov Z.</author>
                <title>Dodatak uz stare mjere Hrvatskog primorja i Istre</title>
-               <title>I. Stare mjere grada Trsta, II. Stare mletačke mjere</title>
+               <title>II. Stare mletačke mjere</title>
                <page>459-521</page>
                <citedIn count="1">
                   <cit did="3539" cid="129" avtor0="Herkov Z."
                      naslov0="Dodatak uz stare mjere Hrvatskog primorja i Istre: I. Stare mjere grada Trsta, II. Stare mletačke mjere"
                      source="Jadranski zbornik" pubPlace="Rijeka-Pula" year="1985" volume="12"
                      page="459-521"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1983">
-         <volume>11</volume>
-         <volume>12</volume>
-         <issue>
-            <pubPart>
-               <author>Herkov Z.</author>
-               <title>Još nešto o starim mjerama Hrvatskog primorja i Istre</title>
-               <page>219-254</page>
-               <citedIn count="1">
-                  <cit did="3539" cid="128" avtor0="Herkov Z."
-                     naslov0="Još nešto o starim mjerama Hrvatskog primorja i Istre"
-                     source="Jadranski zbornik" pubPlace="Rijeka-Pula" year="1983" volume="11"
-                     page="219-254"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -5355,39 +5310,6 @@
                      page="47-103"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="1982">
-         <volume>12</volume>
-         <issue>
-            <pubPart>
-               <author>Basioli J.</author>
-               <title>Stolječe industrije za preradu ribe na Sjevernom Jadranu</title>
-               <page>181-224</page>
-               <citedIn count="1">
-                  <cit did="2636" cid="15" avtor0="Basioli J."
-                     naslov0="Stolječe industrije za preradu ribe na Sjevernom Jadranu"
-                     source="Jadranski zbornik" pubPlace="Pula-Rijeka" year="1982" volume="12"
-                     page="181-224"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Herkov Z.</author>
-               <title>Dodatak uz stare mjere hrvatskog Primorja i Istre</title>
-               <title>I. Stare mjere grada Trsta</title>
-               <title>II. Stare mletačke mjere</title>
-               <page>459–521</page>
-               <citedIn count="1">
-                  <cit did="2636" cid="60" avtor0="Herkov Z."
-                     naslov0="Dodatak uz stare mjere hrvatskog Primorja i Istre, I. Stare mjere grada Trsta, II. Stare mletačke mjere"
-                     source="Jadranski zbornik" pubPlace="Pula-Rijeka" year="1982" volume="12"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1979">
-         <volume>11</volume>
-         <issue>
             <pubPart>
                <author>Despot M.</author>
                <title>Maximilian Fischl o Istri 1800. godine</title>
@@ -5399,9 +5321,18 @@
             </pubPart>
             <pubPart>
                <author>Herkov Z.</author>
-               <title>Još nešto o starim mjerama Hrvatskog Primorja i Istre</title>
-               <page>219-254</page>
-               <citedIn count="1">
+               <title>Dodatak uz stare mjere hrvatskog Primorja i Istre</title>
+               <title>I. Stare mjere grada Trsta</title>
+               <title>II. Stare mletačke mjere</title>
+               <page>459–521</page>
+               <citedIn count="3">
+                  <cit did="2636" cid="60" avtor0="Herkov Z."
+                     naslov0="Dodatak uz stare mjere hrvatskog Primorja i Istre, I. Stare mjere grada Trsta, II. Stare mletačke mjere"
+                     source="Jadranski zbornik" pubPlace="Pula-Rijeka" year="1982" volume="12"/>
+                  <cit did="3539" cid="128" avtor0="Herkov Z."
+                     naslov0="Još nešto o starim mjerama Hrvatskog primorja i Istre"
+                     source="Jadranski zbornik" pubPlace="Rijeka-Pula" year="1983" volume="11"
+                     page="219-254"/>
                   <cit did="2636" cid="59" avtor0="Herkov Z."
                      naslov0="Još nešto o starim mjerama Hrvatskog Primorja i Istre"
                      source="Jadranski zbornik" pubPlace="Pula-Rijeka" year="1979" volume="11"
@@ -5651,7 +5582,7 @@
          <issue>
             <pubPart>
                <author>Baćić B.</author>
-               <title>llirsko žarno groblje u Kaštelu kraj Buja</title>
+               <title>Ilirsko žarno groblje u Kaštelu kraj Buja</title>
                <page>381-432</page>
                <citedIn count="1">
                   <cit did="1950" cid="2" avtor0="Baćić B."
@@ -5977,8 +5908,8 @@
          <issue>
             <pubPart>
                <author>Baghana Maria</author>
-               <title>'Immigrant Involvement in the Informal Economy</title>
-               <title>The Portugese case'</title>
+               <title>Immigrant Involvement in the Informal Economy</title>
+               <title>The Portugese case</title>
                <page>367-385</page>
                <citedIn count="1">
                   <cit did="2853" cid="12" avtor0="Baghana Maria"
@@ -5996,35 +5927,10 @@
       <publisher>Oldenbourg</publisher>
       <pubCobiss>25964544</pubCobiss>
       <issn>0073-8484</issn>
-      <year n="2005">
-         <volume>1896-1903</volume>
-         <issue>
-            <pubPart>
-               <author>Witte Heinrich</author>
-               <title>Genealogische Unterschungen zur Reichsgeschichte unter den salichen Kaisern</title>
-               <page>309-474</page>
-               <citedIn count="1">
-                  <cit did="53" cid="285" avtor0="Witte Heinrich"
-                     naslov0="Genealogische Unterschungen zur Reichsgeschichte unter den salichen Kaisern"
-                     source="MIÖG" year="2005" volume="1896-1903" page="309-474"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="2004">
-         <volume>1883</volume>
          <volume>112</volume>
          <issue>
-            <pubPart>
-               <author>Huber Alfons</author>
-               <title>Die steirische Reimchronik und das österreichische Interregnum</title>
-               <page>41-74</page>
-               <citedIn count="1">
-                  <cit did="53" cid="120" avtor0="Huber Alfons"
-                     naslov0="Die steirische Reimchronik und das österreichische Interregnum"
-                     source="MIÖG" year="2004" volume="1883" page="41-74"/>
-               </citedIn>
-            </pubPart>
+            
             <pubPart>
                <author>Stelzer Winfried</author>
                <title>Die Melker Fragmente der Chronik Johanns von Viktring</title>
@@ -6082,8 +5988,6 @@
          <issue n="1-2">
             <pubPart>
                <author>Štih Peter</author>
-               <title>Die Grafen von Cilli, die Frage ihrer
-landesfürstlichen Hoheit und des Landes Cilli</title>
                <title>Die Grafen von Cilli, die Frage ihrer landesfürstlichen Hoheit und des Landes Cilli</title>
                <page>67-98</page>
                <cobiss>18394978</cobiss>
@@ -6223,20 +6127,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1997">
-         <volume>1989</volume>
          <volume>105</volume>
          <issue>
-            <pubPart>
-               <author>Opll Ferdinand</author>
-               <title>Das Treffen von Nisch vom Juli 1189 in seinem historischen Umfeld</title>
-               <page>432-442</page>
-               <citedIn count="1">
-                  <cit did="53" cid="196" avtor0="Opll Ferdinand"
-                     naslov0="Das Treffen von Nisch vom Juli 1189 in seinem historischen Umfeld"
-                     source="MIÖG" year="1997" volume="1989" page="432-442"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
+           <pubPart>
                <author>Tersch H.</author>
                <title>Melancholie und Didaktik in österreichischen Selbstzeugnissen des Späthumanismus</title>
                <title>Ein Beitrag zur Historisehen Anthropologie</title>
@@ -6251,9 +6144,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1996">
-         <volume>1996</volume>
-         <issue>
-            <pubPart> <!-- Knjiga ISBN 3-7029-0405-0 (Wien) ISBN 3-486-64834-9 (München) -->
+         <issue><!-- Knjiga ISBN 3-7029-0405-0 (Wien) ISBN 3-486-64834-9 (München) -->
+            <pubPart> 
                <author>Štih Peter</author>
                <title>Studien zur geschichte der Grafen von Görz</title>
                <title>die Ministerialen und Milites der Grafen von Görz in Istrien und Krain</title>
@@ -6309,8 +6201,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       </year>
       <year n="1994">
          <volume>30</volume>
-         <issue>
-            <pubPart> <!-- Knjiga -->
+         <issue><!-- Knjiga -->
+            <pubPart> 
                <author>Niederkorn Bruck M.</author>
                <title>Die Melker Reform im Spiegel der Visitationen</title>
                <citedIn count="1">
@@ -6353,6 +6245,21 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1989">
+         <volume>97</volume>
+         <issue>
+            <pubPart>
+               <author>Opll Ferdinand</author>
+               <title>Das Treffen von Nisch vom Juli 1189 in seinem historischen Umfeld</title>
+               <page>432-442</page>
+               <citedIn count="1">
+                  <cit did="53" cid="196" avtor0="Opll Ferdinand"
+                     naslov0="Das Treffen von Nisch vom Juli 1189 in seinem historischen Umfeld"
+                     source="MIÖG" year="1997" volume="1989" page="432-442"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1986">
          <volume>94</volume>
          <issue>
@@ -6380,8 +6287,21 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1983">
+         <issue>
+            <pubPart>
+               <author>Huber Alfons</author>
+               <title>Die steirische Reimchronik und das österreichische Interregnum</title>
+               <page>41-74</page>
+               <citedIn count="1">
+                  <cit did="53" cid="120" avtor0="Huber Alfons"
+                     naslov0="Die steirische Reimchronik und das österreichische Interregnum"
+                     source="MIÖG" year="2004" volume="1883" page="41-74"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1982">
-         <volume>1982</volume>
          <issue>
             <pubPart>
                <author>Dienst Heide</author>
@@ -6412,18 +6332,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1978">
-         <volume>1970</volume>
          <issue>
-            <pubPart>
-               <author>Brunner Karl</author>
-               <title>Zum Prozeß gegen Herzog Friedrich II. Von 1236</title>
-               <page>260-273</page>
-               <citedIn count="1">
-                  <cit did="53" cid="48" avtor0="Brunner Karl"
-                     naslov0="Zum Prozeß gegen Herzog Friedrich II. Von 1236" source="MIÖG"
-                     year="1978" volume="1970" page="260-273"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Hageneder Othmar</author>
                <title>Die Anfänge des oberösterreichischen Landtaidings</title>
@@ -6475,6 +6384,16 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                      source="MIÖG" year="1970" volume="78" page="386-415"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Brunner Karl</author>
+               <title>Zum Prozeß gegen Herzog Friedrich II. Von 1236</title>
+               <page>260-273</page>
+               <citedIn count="1">
+                  <cit did="53" cid="48" avtor0="Brunner Karl"
+                     naslov0="Zum Prozeß gegen Herzog Friedrich II. Von 1236" source="MIÖG"
+                     year="1978" volume="1970" page="260-273"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1966">
@@ -6520,7 +6439,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Stourzh Gerald</author>
-               <title>Die  Mitgliedschaft  auf  Lebens- dauer im österreichischen Herrenhause, 1861- 1918</title>
+               <title>Die Mitgliedschaft auf Lebens- dauer im österreichischen Herrenhause</title>
+               <title>1861- 1918</title>
                <page>63-117</page>
                <citedIn count="1">
                   <cit did="2227" cid="24" avtor0="Stourzh Gerald"
@@ -6547,8 +6467,19 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1963">
-         <volume>1963</volume>
          <volume>71</volume>
+         <issue>
+         <pubPart>
+               <author>Wiesflecker Hermann</author>
+               <title>Neue Beiträge zur Frage des Kaiser-Papstplanes Maximilians I. im Jahre 1511.</title>
+               <page>311-332</page>
+               <citedIn count="1">
+                  <cit did="2424" cid="22" avtor0="Wiesflecker Hermann"
+                     naslov0="Neue Beiträge zur Frage des Kaiser-Papstplanes Maximilians I. im Jahre 1511."
+                     source="MIÖG" year="1963" volume="71" page="311-332"/>
+               </citedIn>
+            </pubPart>
+         </issue>
          <issue>
             <pubPart> <!-- Knjiga -->
                <author>Lhotsky A.</author>
@@ -6566,16 +6497,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                   <cit did="53" cid="171" avtor0="Lhotsky Alphons"
                      naslov0="Quellenkunde zur mittelalterlichen Geschichte Österreichs"
                      source="MIÖG" pubPlace="Wien" volume="1963"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Wiesflecker Hermann</author>
-               <title>Neue Beiträge zur Frage des Kaiser-Papstplanes Maximilians I. im Jahre 1511.</title>
-               <page>311-332</page>
-               <citedIn count="1">
-                  <cit did="2424" cid="22" avtor0="Wiesflecker Hermann"
-                     naslov0="Neue Beiträge zur Frage des Kaiser-Papstplanes Maximilians I. im Jahre 1511."
-                     source="MIÖG" year="1963" volume="71" page="311-332"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -6763,7 +6684,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="1948">
          <volume>56</volume>
          <volume>55</volume>
-         <volume>1948</volume>
          <issue>
             <pubPart>
                <author>Fichtenau H.</author>
@@ -6798,36 +6718,23 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1945">
-         <volume>14</volume>
+      <year n="1939">
          <issue>
             <pubPart>
-               <author>Schvvanke R.</author>
-               <author>Schwanke R.</author>
-               <title>Beiträge zum Urkundenwesen der Grafen von Cilli (1341-1456)</title>
+               <author>Schwanke Robert</author>
+               <title>Beiträge zum Urkundenwesen der Grafen von Cilli</title>
                <page>411-422</page>
-               <citedIn count="2">
+               <citedIn count="3">
+                  <cit did="163" cid="46" avtor0="Schwanke Robert"
+                     naslov0="Beiträge zum Urkundenwesen der Grafen von Cilli"
+                     source="Mitteilungen des Instituts für Österreichische Geschichtsforschung"
+                     year="1939" issue="14" page="414"/>
                   <cit did="1761" cid="177" avtor0="Schvvanke R."
                      naslov0="Beitrage zum Urkundenvvesen der Grafen von Cilli (1341-1456)"
                      source="MIÖG" year="1945" volume="14" page="411-422"/>
                   <cit did="3439" cid="150" avtor0="Schwanke R."
                      naslov0="Beiträge zum Urkundenwesen der Grafen von Cilli (1341-1456)"
                      source="MIÖG" year="1945" volume="14" page="411-422"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1939">
-         <issue n="14">
-            <pubPart>
-               <author>Schwanke Robert</author>
-               <title>Beiträge zum Urkundenwesen der Grafen von Cilli</title>
-               <page>411-422</page>
-               <citedIn count="1">
-                  <cit did="163" cid="46" avtor0="Schwanke Robert"
-                     naslov0="Beiträge zum Urkundenwesen der Grafen von Cilli"
-                     source="Mitteilungen des Instituts für Österreichische Geschichtsforschung"
-                     year="1939" issue="14" page="414"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7340,6 +7247,18 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                      naslov0="Friedrichs III. Aachener Kronungsreise"
                      source="Mitteilungen des Instituis für Österreichischen Geschichtsforschung"
                      year="0" volume="17" page="584-665"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+               <author>Witte Heinrich</author>
+               <title>Genealogische Untersuchungen zur Reichsgeschichte unter den salischen Kaisern</title>
+               <page>309-474</page>
+               <citedIn count="1">
+                  <cit did="53" cid="285" avtor0="Witte Heinrich"
+                     naslov0="Genealogische Unterschungen zur Reichsgeschichte unter den salichen Kaisern"
+                     source="MIÖG" year="2005" volume="1896-1903" page="309-474"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7978,18 +7897,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="2003">
-         <volume>15</volume>
+         <volume>25</volume>
          <issue n="1-2">
-            <pubPart>
-               <author>Pirjevec Jože</author>
-               <title>Italian Policy Toward the Slovenes from 1915 to 1994</title>
-               <page>63-73</page>
-               <citedIn count="1">
-                  <cit did="2763" cid="83" avtor0="Pirjevec Jože"
-                     naslov0="Italian Policy Toward the Slovenes from 1915 to 1994"
-                     source="Slovene Studies" year="2003" volume="15" issue="1/2" page="63-73"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Vodopivec Peter</author>
                <title>Historiography in Slovenia today</title>
@@ -8042,6 +7951,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Friš Darko</author>
                <title>A review of the activity of the local lodges of The Grand Carniolian Slovenian Catholic Union before 1924</title>
                <page>131-153</page>
+               <cobiss>12140296</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="11" avtor0="Friš Darko"
                      naslov0="A review of the activity of the local lodges of The Grand Carniolian Slovenian Catholic Union before 1924"
@@ -8052,7 +7962,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          </issue>
       </year>
       <year n="1994">
-         <volume>14</volume>
          <volume>16</volume>
          <issue n="1">
             <pubPart>
@@ -8061,11 +7970,14 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <title>from the first multiparty elections and the Declaration of Independence to membership in the Council of Europe</title>
                <page>9-34</page>
                <cobiss>5914884</cobiss>
-               <citedIn count="1">
+               <citedIn count="2">
                   <cit did="3033" cid="34" avtor0="Klemenčič Matjaž"
                      naslov0="Slovenia at the crossroads of the nineties: from the first multiparty elections and the Declaration of Independence to membership in the Council of Europe"
                      cobiss="5914884" source="Slovene Studies" year="1994" volume="14" issue="1"
                      page="9-34"/>
+                  <cit did="1532" cid="33" avtor0="Klemenčič Matjaž"
+                     naslov0="Slovenia at the Crossroads..." source="Slovene Studies" year="1992"
+                     volume="14" issue="1" page="9-34"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -8092,13 +8004,16 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1-2">
             <pubPart>
                <author>Pirjevec Jože</author>
-               <title>Italian Policy towards Slovenes</title>
-               <title>1915-1994</title>
+               <title>Italian policy toward the Slovenes from 1915 to 1994</title>
                <page>63-73</page>
+               <cobiss>4393549</cobiss>
                <citedIn count="1">
                   <cit did="1511" cid="287" avtor0="Pirjevec Jože"
                      naslov0="Italian Policy towards Slovenes: 1915-1994" source="Slovene Studies"
                      year="1993" volume="15" issue="1-2" page="63-73"/>
+                  <cit did="2763" cid="83" avtor0="Pirjevec Jože"
+                     naslov0="Italian Policy Toward the Slovenes from 1915 to 1994"
+                     source="Slovene Studies" year="2003" volume="15" issue="1/2" page="63-73"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -8117,6 +8032,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Šabec Nada</author>
                <title>Language maintenance among Slovene immigrants in the USA</title>
                <page>151–168</page>
+               <cobiss>4394317</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="24" avtor0="Šabec Nada"
                      naslov0="Language maintenance among Slovene immigrants in the USA"
@@ -8141,19 +8057,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <volume>14</volume>
          <issue n="1">
             <pubPart>
-               <author>Klemenčič Matjaž</author>
-               <title>Slovenia at the Crossroads...</title>
-               <page>9-34</page>
-               <citedIn count="1">
-                  <cit did="1532" cid="33" avtor0="Klemenčič Matjaž"
-                     naslov0="Slovenia at the Crossroads..." source="Slovene Studies" year="1992"
-                     volume="14" issue="1" page="9-34"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Lokar Aleš</author>
                <title>Modernization and Ethnic Problems in Carinthia</title>
                <page>35-50</page>
+               <cobiss>1571405</cobiss>
                <citedIn count="1">
                   <cit did="2729" cid="16" avtor0="Lokar Aleš"
                      naslov0="Modernization and Ethnic Problems in Carinthia"
@@ -8190,6 +8097,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Hladnik Miran</author>
                <title>Regionalism in Slovene rural prose</title>
                <page>143-153</page>
+               <cobiss>50191360</cobiss>
                <citedIn count="1">
                   <cit did="442" cid="2" avtor0="Hladnik Miran"
                      naslov0="Regionalism in Slovene rural prose" source="Slovene Studies"
@@ -8223,6 +8131,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <title>Slovene as a Minority Language</title>
                <title>Historical Background and Sociolinguistic Prospects</title>
                <page>169–181</page>
+               <cobiss>50113024</cobiss>
                <citedIn count="1">
                   <cit did="2763" cid="17" avtor0="Nećak Lük Albina" avtor1="Nećak Dušan"
                      naslov0="Slovene as a Minority Language: Historical Background and Sociolinguistic Prospects"
@@ -8269,6 +8178,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Šabec Nada</author>
                <title>Functional and structural contraints on Slovene-English code-switching</title>
                <page>71–80</page>
+               <cobiss>1150212</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="22" avtor0="Šabec Nada"
                      naslov0="Functional and structural contraints on Slovene-English code-switching"
@@ -8281,6 +8191,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Vovko Andrej</author>
                <title>The foundation of the Yugoslav Emergency Council in New York</title>
                <page>191–197</page>
+               <cobiss>6447112</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="97" avtor0="Vovko Andrej"
                      naslov0="The foundation of the Yugoslav Emergency Council in New York"
@@ -8298,6 +8209,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <title>Research on Slovene Immigration to the United States</title>
                <title>Past Achievements and Future directions</title>
                <page>9-14</page>
+               <cobiss>264964</cobiss>
                <citedIn count="1">
                   <cit did="2837" cid="6" avtor0="Klemenčič Matjaž"
                      naslov0="Research on Slovene Immigration to the United States: Past Achievements and Future directions"
@@ -8378,7 +8290,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="1">
             <pubPart>
                <author>Sergio Dini</author>
-               <title>II Tribunale speciale per la difesa dello stato e l'irredentismo jugoslavo</title>
+               <title>Il Tribunale speciale per la difesa dello stato e l'irredentismo jugoslavo</title>
                <page>65-80</page>
                <citedIn count="1">
                   <cit did="1914" cid="30" avtor0="Sergio Dini"
@@ -8454,7 +8366,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Verginella Marta</author>
-               <title>II peso della storia</title>
+               <title>Il peso della storia</title>
                <page>9-34</page>
                <citedIn count="1">
                   <cit did="742" cid="59" avtor0="Verginella Marta" naslov0="II peso della storia"
@@ -8867,7 +8779,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Postogna Giovanni</author>
-               <title>II tribunale nero a Trieste nel dicembre 1941</title>
+               <title>Il tribunale nero a Trieste nel dicembre 1941</title>
                <title>candidati alla pena di morte</title>
                <title>una testimonianza</title>
                <page>121-130</page>
@@ -9192,7 +9104,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue n="3">
             <pubPart>
                <author>Cristoferri M. V.</author>
-               <title>II fattore di campagna nel Settecento dal carteggio della famiglia Pepoli</title>
+               <title>Il fattore di campagna nel Settecento dal carteggio della famiglia Pepoli</title>
                <page>911-954</page>
                <citedIn count="1">
                   <cit did="2343" cid="19" avtor0="Cristoferri M. V."
