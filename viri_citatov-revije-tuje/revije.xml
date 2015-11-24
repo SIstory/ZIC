@@ -444,7 +444,8 @@
          <issue>
             <pubPart>
                <author>Degrassi A.</author>
-               <title>»Podesta e vicedomini d'Isola«</title>
+               <title>Podesta e vicedomini d'Isola</title>
+               <page>9-12</page>
                <citedIn count="1">
                   <cit did="1762" cid="36" avtor0="Degrassi A."
                      naslov0="»Podesta e vicedomini d'Isola«" source="AMSI" pubPlace="Trst"
@@ -458,6 +459,7 @@
             <pubPart>
                <author>De Franceschi Carlo</author>
                <title>Saggi e considerazioni sull'Istria nell'alto medioevo</title>
+               <page>69-106</page>
                <citedIn count="1">
                   <cit did="755" cid="10" avtor0="De Franceschi Carlo"
                      naslov0="Saggi e considerazioni sull'Istria nell'alto medioevo" source="AMSI"
@@ -542,6 +544,7 @@
             <pubPart>
                <author>De Totto G.</author>
                <title>Feudi e feudatari nell’Istria veneta</title>
+               <page>55-107</page>
                <citedIn count="2">
                   <cit did="2873" cid="186" avtor0="De Totto G."
                      naslov0="Feudi e feudatari nell'Istria veneta" source="AMSI" year="1940"
@@ -555,7 +558,7 @@
          <issue>
             <pubPart>
                <author>Greco M.</author>
-               <title>L'attivittà politica di Capodistria durante il XIII secolo</title>
+               <title>L'attivita politica di Capodistria durante il XIII secolo</title>
                <citedIn count="1">
                   <cit did="2873" cid="107" avtor0="Greco M."
                      naslov0="L'attivittà politica di Capodistria durante il XIII secolo"
@@ -567,7 +570,7 @@
       <year n="1938">
          <volume>50</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>De Franceschi Cam.</author>
                <author>De Franceschi Camillo</author>
                <title>Il ramo dei Duinati di Momiano e il suo secolo di storia</title>
@@ -700,7 +703,8 @@
             <pubPart>
                <author>De Franceschi Cam.</author>
                <author>De Franceschi Camillo</author>
-               <title>Mainardo d'Istria e le origini della contea di Pisino</title>
+               <title>Mainardo conte d'Istria e le origini della contea di Pisino</title>
+               <page>35-62</page>
                <citedIn count="2">
                   <cit did="2873" cid="92" avtor0="De Franceschi Cam."
                      naslov0="Mainardo d'Istria e le origini della contea di Pisino" source="AMSI"
@@ -830,7 +834,7 @@
                      volume="25" page="170-284"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Benussi B.</author>
                <title>Cronache di Rovigno dal 1760 al 1806</title>
                <citedIn count="1">
@@ -934,9 +938,10 @@
       <year n="1897">
          <volume>13</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga  ISSN 0353-3301-->
                <author>Benussi B.</author>
                <title>Nel Medio Evo</title>
+               <cobiss>5234272</cobiss>
                <citedIn count="1">
                   <cit did="2873" cid="72" avtor0="Benussi B." naslov0="Nel Medio Evo" source="AMSI"
                      year="0" volume="9"/>
@@ -1077,9 +1082,6 @@
                </citedIn>
             </pubPart>
          </issue>
-         <issue>
-            <pubPart/>
-         </issue>
       </year>
    </source>
    <source>
@@ -1195,6 +1197,7 @@
             <pubPart>
                <author>Trampus A.</author>
                <title>Economia e stato delle riforme nel Litorale austriaco dal diario del conte Zinzendorf (1771)</title>
+               <page>76-106</page>
                <citedIn count="1">
                   <cit did="86" cid="89" avtor0="Trampus A."
                      naslov0="Economia e stato delle riforme nel Litorale austriaco dal diario del conte Zinzendorf (1771)"
@@ -1276,6 +1279,7 @@
                <author>Pahor Samo</author>
                <title>Taxatio beneficiorum</title>
                <title>Le decime papali nel vescovato di Trieste negli anni 1371-1374</title>
+               <page>117-146</page>
                <citedIn count="1">
                   <cit did="765" cid="17" avtor0="Pahor Samo"
                      naslov0="Taxatio beneficiorum : Le decime papali nel vescovato di Trieste negli anni 1371-1374"
@@ -1322,6 +1326,7 @@
             <pubPart>
                <author>Cossar R. M.</author>
                <title>L' avvocato Angelo Calafati prefetto, barone ed intendante napoleonico</title>
+               <page>39-80</page>
                <citedIn count="1">
                   <cit did="3514" cid="8" avtor0="Cossar R. M."
                      naslov0="L' avvocato Angelo Calafati prefetto, barone ed intendante napoleonico"
@@ -1442,9 +1447,10 @@
       <year n="1935">
          <volume>48</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Szombathely M. de</author>
                <title>Statuti di Trieste del 1421</title>
+               <cobiss>1873388</cobiss>
                <citedIn count="1">
                   <cit did="2628" cid="25" avtor0="Szombathely M. de"
                      naslov0="Statuti di Trieste del 1421" source="Archeografo Triestino"
@@ -1602,7 +1608,7 @@
             </pubPart>
          </issue>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Quarantotto G.</author>
                <title>Le origini e i primordi del gior-nale letterario triestino "La Favilla"</title>
                <citedIn count="1">
@@ -1892,6 +1898,7 @@
             <pubPart>
                <author>Sondhaus Lawrence</author>
                <title>The Strategic Culture of the Habsburg Army</title>
+               <page>225-234</page>
                <citedIn count="1">
                   <cit did="629" cid="335" avtor0="Sondhaus Lawrence"
                      naslov0="The Strategic Culture of the Habsburg Army"
@@ -1908,6 +1915,8 @@
                <author>Bahm Karl F.</author>
                <title>Beyond the bourgeoisie</title>
                <title>rethinking nation, culture, and modernity in nineteenth-century Central Europe</title>
+               <page>19-35</page>
+               <cobiss>7849549</cobiss>
                <citedIn count="1">
                   <cit did="167" cid="2" avtor0="Bahm Karl F."
                      naslov0="Beyond the bourgeoisie: rethinking nation,&#xA;culture, and modernity in nineteenth-century Central Europe"
@@ -2052,6 +2061,7 @@
                <author>Whiteside Andrew G.</author>
                <title>The Germans as an Integrative Force in Imperial Austria</title>
                <title>the Dilema of Dominance</title>
+               <page>157-200</page>
                <citedIn count="1">
                   <cit did="1783" cid="212" avtor0="Whiteside Andrew G."
                      naslov0="The Germans as an Integrative Force in Imperial Austria: the Dilema of Dominance"
@@ -2735,7 +2745,8 @@
             </pubPart>
             <pubPart>
                <author>Roth Otto</author>
-               <title>Kärntner Bauer im Urteil der "aufgeklärten" Obrigkeit</title>
+               <title>Kärntner Bauern im Urteil der "aufgeklärten" Obrigkeit</title>
+               <page>342-362</page>
                <citedIn count="1">
                   <cit did="430" cid="12" avtor0="Roth Otto"
                      naslov0="Kärntner Bauer im Urteil der &#34;aufgeklärten&#34; Obrigkeit"
@@ -3801,7 +3812,9 @@
          <issue n="2">
             <pubPart>
                <author>Matijević Zlatko</author>
-               <title>'Za Hrvatstvo, križ i plug!' – Politička aktivnost Hrvatske pučke stranke od veljačkih do rujanskih parlamentarnih izbora (1925–1927)</title>
+               <title>"Za Hrvatstvo, križ i plug!"</title>
+               <title>Politička aktivnost Hrvatske pučke stranke od veljačkih do rujanskih parlamentarnih izbora (1925–1927)</title>
+               <page>271-291</page>
                <citedIn count="1">
                   <cit did="2816" cid="4" avtor0="Matijević Zlatko"
                      naslov0="'Za Hrvatstvo, križ i plug!' – Politička aktivnost Hrvatske pučke stranke od veljačkih do rujanskih parlamentarnih izbora (1925–1927)"
@@ -3977,12 +3990,13 @@
             </pubPart>
             <pubPart>
                <author>Boban Ljubo</author>
-               <title>Kada je nastala Država Slovenaca, Hrvata i Srba</title>
+               <title>Kada je i kako nastala Država Slovenaca, Hrvata i Srba</title>
+               <page>45-60</page>
+               <cobiss>4613641</cobiss>
                <citedIn count="1">
                   <cit did="2186" cid="2" avtor0="Boban Ljubo"
                      naslov0="Kada je nastala Država Slovenaca, Hrvata i Srba"
-                     source="Časopis za suvremeno povijest" pubPlace="Zagreb" year="1992" issue="3"
-                  />
+                     source="Časopis za suvremeno povijest" pubPlace="Zagreb" year="1992" issue="3"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -4110,6 +4124,7 @@
             <pubPart>
                <author>Stergar Janez</author>
                <title>Njemački nacionalizam i protivslovenska djelatnost u austrijskoj Koruškoj</title>
+               <page>133-169</page>
                <cobiss>7376717</cobiss>
                <citedIn count="2">
                   <cit did="3036" cid="136" avtor0="Stergar Janez"
@@ -4127,6 +4142,7 @@
             <pubPart>
                <author>Strecha M.</author>
                <title>O pitanju metodoloških obrazaca hrvatske historiografije u 19. stoljeću</title>
+               <page>103-116</page>
                <citedIn count="1">
                   <cit did="458" cid="26" avtor0="Strecha M."
                      naslov0="O pitanju metodoloških obrazaca hrvatske historiografije u 19. stoljeću"
@@ -4452,6 +4468,7 @@
             <pubPart>
                <author>Rabinowitz Dan</author>
                <title>The Palestinian citizens of Israel, the concept of trapped minority and the discourse of transnationalism in anthropology</title>
+               <page>64-85</page>
                <citedIn count="1">
                   <cit did="2998" cid="26" avtor0="Rabinowitz Dan"
                      naslov0="The Palestinian citizens of Israel, the concept of trapped minority and the discourse of transnationalism in anthropology"
@@ -4519,6 +4536,7 @@
                <author>Thompson D.</author>
                <title>Making (mixed-)race</title>
                <title>Census politics and the emergence of multiracial multiculturalism in the United States, Great Britain and Canada</title>
+               <page>1409-1426</page>
                <citedIn count="1">
                   <cit did="3047" cid="50" avtor0="Thompson D."
                      naslov0="Making (mixed-)race: Census politics and the emergence of multiracial multiculturalism in the United States, Great Britain and Canada"
@@ -4857,6 +4875,7 @@
                <author>Smith Anthony D.</author>
                <title>Chosen peoples</title>
                <title>Why ethnic groups survive</title>
+               <page>436-456</page>
                <citedIn count="2">
                   <cit did="2891" cid="40" avtor0="Smith Anthony D."
                      naslov0="Chosen peoples: Why ethnic groups survive"
@@ -4937,6 +4956,7 @@
                <author>Clammer John</author>
                <title>The institutionalisation of ethnicity</title>
                <title>the culture of ethnicity in Singapore</title>
+               <page>127-139</page>
                <citedIn count="1">
                   <cit did="2980" cid="4" avtor0="Clammer John"
                      naslov0="The institutionalisation of ethnicity: the culture of ethnicity in Singapore"
@@ -5083,6 +5103,7 @@
                <author>Coleman David A.</author>
                <title>International migration</title>
                <title>demographic and socioeconomic consequences in the United Kingdom and Europe</title>
+               <page>155-206</page>
                <citedIn count="1">
                   <cit did="3028" cid="7" avtor0="Coleman David A."
                      naslov0="International migration: demographic and socioeconomic consequences in the United Kingdom and Europe"
@@ -5353,7 +5374,9 @@
             <pubPart>
                <author>Herkov Z.</author>
                <title>Dodatak uz stare mjere hrvatskog Primorja i Istre</title>
-               <title>I. Stare mjere grada Trsta, II. Stare mletačke mjere</title>
+               <title>I. Stare mjere grada Trsta</title>
+               <title>II. Stare mletačke mjere</title>
+               <page>459–521</page>
                <citedIn count="1">
                   <cit did="2636" cid="60" avtor0="Herkov Z."
                      naslov0="Dodatak uz stare mjere hrvatskog Primorja i Istre, I. Stare mjere grada Trsta, II. Stare mletačke mjere"
@@ -5550,9 +5573,10 @@
       <year n="1963">
          <volume>6</volume>
          <issue n="5-70">
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Bratulič V.</author>
                <title>Politički sporazumi izmedu Kraljevine Italije i KraljeviÂ¬ne SHS odnosno Jugoslavije nakon Rapalla</title>
+               <cobiss>4795657</cobiss>
                <citedIn count="1">
                   <cit did="1324" cid="59" avtor0="Bratulič V."
                      naslov0="Politički sporazumi izmedu Kraljevine Italije i KraljeviÂ¬ne SHS odnosno Jugoslavije nakon Rapalla"
@@ -5934,18 +5958,12 @@
                <author>Togeby Lise</author>
                <title>Migrants and the polls</title>
                <title>an analysis of imigrant and refugee participation in Danish local elections</title>
-               <citedIn count="1">
+               <page>665-684</page>
+               <citedIn count="2">
                   <cit did="3036" cid="152" avtor0="Togeby Lise"
                      naslov0="Migrants and the polls: an analysis of imigrant and refugee participation in Danish local elections"
                      source="Journal of ethnic and migration studies" publisher="Torpoint"
                      year="1999" volume="25" issue="4"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Togeby Lise</author>
-               <title>Migrants and the polls</title>
-               <title>an analysis of immigrant and refugee participation in Danish local elections</title>
-               <citedIn count="1">
                   <cit did="2940" cid="166" avtor0="Togeby Lise"
                      naslov0="Migrants and the polls: an analysis of immigrant and refugee participation in Danish local elections"
                      source="Journal of ethnic and migration studies" pubPlace="Torpoint"
@@ -6153,10 +6171,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="2001">
          <volume>40</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga ISBN 3-486-64846-2 (Oldenbourg Wissenschaftsverlag München) ISBN 3-7029-0457-3 (R. Oldenbourg Verlag Wien) -->
                <author>Zehetmayer R.</author>
                <title>Kloster und Gericht</title>
                <title>Die Entwicklung der klösterlichen Gerichtsrechte und Gerichtsbarkeit im 13. Jahrhundert unter besonderer Berücksichtigung der Zisterze Zwettl</title>
+               <cobiss>19539298</cobiss>
                <citedIn count="1">
                   <cit did="775" cid="256" avtor0="Zehetmayer R."
                      naslov0="Kloster und Gericht : Die Entwicklung der klösterlichen Gerichtsrechte und Gerichtsbarkeit im 13. Jahrhundert unter besonderer Berücksichtigung der Zisterze Zwettl"
@@ -6193,6 +6212,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Angelow Jürgen</author>
                <title>Alldeutsche, Reichsregierung und Zweibund am Vorabend und zu Beginn des Ersten Weltkriegs</title>
                <title>Zur Ambivalenz von nationalistischer Agitation, autoritärem Machtstaat und Bündnispolitik</title>
+               <page>377–409</page>
                <citedIn count="1">
                   <cit did="629" cid="390" avtor0="Angelow Jürgen"
                      naslov0="Alldeutsche, Reichsregierung und Zweibund am Vorabend und zu Beginn des Ersten Weltkriegs : Zur Ambivalenz von nationalistischer Agitation, autoritärem Machtstaat und Bündnispolitik"
@@ -6233,10 +6253,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="1996">
          <volume>1996</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga ISBN 3-7029-0405-0 (Wien) ISBN 3-486-64834-9 (München) -->
                <author>Štih Peter</author>
                <title>Studien zur geschichte der Grafen von Görz</title>
                <title>die Ministerialen und Milites der Grafen von Görz in Istrien und Krain</title>
+               <cobiss>3013165</cobiss>
                <citedIn count="1">
                   <cit did="53" cid="255" avtor0="Štih Peter"
                      naslov0="Studien zur geschichte der Grafen von Görz: die Ministerialen und Milites der Grafen von Görz in Istrien und Krain"
@@ -6289,7 +6310,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="1994">
          <volume>30</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Niederkorn Bruck M.</author>
                <title>Die Melker Reform im Spiegel der Visitationen</title>
                <citedIn count="1">
@@ -6429,9 +6450,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                      pubPlace="Wien-Köln-Graz" year="1971" volume="79" page="409-434"/>
                </citedIn>
             </pubPart>
-            <pubPart>
+            <pubPart> <!-- Knjiga ISBN 3-205-08410-1 ISBN 3-205-98410-2-->
                <author>Fichtenau H.</author>
                <title>Das Urkundemvesen in Österreich vom 8. bis zum frühen 13. Jahrhundert</title>
+               <cobiss>27624705</cobiss>
                <citedIn count="1">
                   <cit did="2629" cid="9" avtor0="Fichtenau H."
                      naslov0="Das Urkundemvesen in Österreich vom 8. bis zum frühen 13. Jahrhundert"
@@ -6528,10 +6550,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <volume>1963</volume>
          <volume>71</volume>
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Lhotsky A.</author>
                <author>Lhotsky Alphons</author>
                <title>Quellenkunde zur mittelalterlichen Geschichte Österreichs</title>
+               <cobiss>16170797</cobiss>
                <citedIn count="3">
                   <cit did="3439" cid="106" avtor0="Lhotsky A."
                      naslov0="Quellenkunde zur mittelalterlichen Geschichte Österreichs"
@@ -6656,9 +6679,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       </year>
       <year n="1954">
          <issue>
-            <pubPart>
+            <pubPart> <!-- Knjiga -->
                <author>Lhotsky Alphons</author>
-               <title>Geschichte des Instituts für österreichische Geschichtsforschung, 1854-1954</title>
+               <title>Geschichte des Instituts für österreichische Geschichtsforschung</title>
+               <title>1854-1954</title>
                <citedIn count="1">
                   <cit did="2044" cid="21" avtor0="Lhotsky Alphons"
                      naslov0="Geschichte des Instituts für österreichische Geschichtsforschung, 1854-1954"
@@ -6675,6 +6699,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Santifaller L.</author>
                <title>Beiträge zur Geschichte der Beschreibstoffe im Mittelalter</title>
                <title>Mit besonderer Berücksichtigung der päpstlichen Kanzlei</title>
+               <page>410–412</page>
                <citedIn count="1">
                   <cit did="2629" cid="48" avtor0="Santifaller L."
                      naslov0="Beiträge zur Geschichte der Beschreibstoffe im Mittelalter. Mit besonderer Berücksichtigung der päpstlichen Kanzlei. 1 ."
@@ -6945,7 +6970,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Klebel E.</author>
-               <title>Zu den Fassungen und BearbeitungenHron Johanns von Viktring "Liber certarum historiarum"</title>
+               <title>Zu den Fassungen und Bearbeitungen von Johanns von Viktring Liber certarum historiarum</title>
+               <page>354-373</page>
                <citedIn count="1">
                   <cit did="3439" cid="79" avtor0="Klebel E."
                      naslov0="Zu den Fassungen und BearbeitungenHron Johanns von Viktring &#34;Liber certarum historiarum&#34;"
@@ -7578,7 +7604,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Lukan Walter</author>
-               <title>Eine Denkschrift des Südslawischen Ausschuses in London über die Bedeutung der Maideklaration</title>
+               <title>Eine Denkschrift des südslavischen Ausschusses in. London über die Bedeutung der Maideklaration</title>
+               <cobiss>341-369</cobiss>
                <citedIn count="1">
                   <cit did="1662" cid="159" avtor0="Lukan Walter"
                      naslov0="Eine Denkschrift des Südslawischen Ausschuses in London über die Bedeutung der Maideklaration"
@@ -7679,6 +7706,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Kos Franz Josef</author>
                <title>Ein Plan österreichischer Militärs zur Erwerbung Bosniens und der Herzegovina (1869)</title>
                <title>Die Ernennung des Feldmarschalleutnants Freiherrn von Rodich zum Statthalter von Dalmatien (1870) als ein Schritt zum Verwirklichung dieses Plans</title>
+               <page>410-429</page>
                <citedIn count="1">
                   <cit did="629" cid="240" avtor0="Kos Franz Josef"
                      naslov0="Ein Plan österreichischer Militärs zur Erwerbung Bosniens und der Herzegovina (1869) : Die Ernennung des Feldmarschalleutnants Freiherrn von Rodich zum Statthalter von Dalmatien (1870) als ein Schritt zum Verwirklichung dieses Plans"
@@ -7800,6 +7828,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Rausch Josef</author>
                <title>Der Aufstand im Raum Kotor im Jahre 1869</title>
+               <page>223-249</page>
                <citedIn count="1">
                   <cit did="629" cid="243" avtor0="Rausch Josef"
                      naslov0="Der Aufstand im Raum Kotor im Jahre 1869"
@@ -7916,6 +7945,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Radical nationalism and fascist elements in political movements in Slovenia between the two world wars</title>
+               <page>3-19</page>
                <cobiss>2671476</cobiss>
                <citedIn count="1">
                   <cit did="3247" cid="7" avtor0="Mlakar Boris"
@@ -7962,7 +7992,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Vodopivec Peter</author>
-               <title>Historiographv in Slovenia today</title>
+               <title>Historiography in Slovenia today</title>
+               <page>5-21</page>
+               <cobiss>1830004</cobiss>
                <citedIn count="1">
                   <cit did="2418" cid="58" avtor0="Vodopivec Peter"
                      naslov0="Historiographv in Slovenia today"
@@ -7975,6 +8007,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Gabrič Aleš</author>
                <title>Slovene Intellectuals and the Communist Regime</title>
+               <page>27-41</page>
+               <cobiss>1684596</cobiss>
                <citedIn count="1">
                   <cit did="469" cid="1" avtor0="Gabrič Aleš"
                      naslov0="Slovene Intellectuals and the Communist Regime"
@@ -8172,6 +8206,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Priestly Tom</author>
                <title>Thomas M. Barker, social Revolutionaries and Secret Agents</title>
                <title>The Carinthian Slovene Partisans and Britain's Special Operations Executive...</title>
+               <page>232-236</page>
                <cobiss>50133760</cobiss>
                <citedIn count="1">
                   <cit did="3247" cid="2" avtor0="Mlakar Boris" avtor1="Priestly Tom"
@@ -8293,9 +8328,11 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="2010">
          <volume>38</volume>
          <issue n="2">
-            <pubPart>
+            <pubPart> <!-- Zbornik -->
                <author>Pupo Raoul</author>
-               <title>UZC Ufficio per le zone di confine</title>
+               <title>UZC</title>
+               <title>Ufficio per le zone di confine</title>
+               <cobiss>36793389</cobiss>
                <citedIn count="1">
                   <cit did="3107" cid="1" avtor0="Pupo Raoul"
                      naslov0="UZC Ufficio per le zone di confine" source="Qualestoria" year="2010"
@@ -8426,7 +8463,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             </pubPart>
             <pubPart>
                <author>Vodopivec Peter</author>
-               <title>La historiographie slovene 1989 -1994</title>
+               <title>La historiographie slovene 1989 - 1994</title>
                <citedIn count="1">
                   <cit did="1359" cid="1" avtor0="Vodopivec Peter"
                      naslov0="La historiographie slovene 1989 -1994" source="Qualestoria"
@@ -8462,17 +8499,6 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="1">
-            <pubPart>
-               <author>Mlakar Boris</author>
-               <title>Rapporti tra collaborazionisti sloveni e italiani nel litorale</title>
-               <citedIn count="1">
-                  <cit did="584" cid="1" avtor0="Mlakar Boris"
-                     naslov0="Rapporti tra collaborazionisti sloveni e italiani nel litorale"
-                     source="Qualestoria" year="1998" volume="16" issue="1"/>
-               </citedIn>
-            </pubPart>
-         </issue>
          <issue>
             <pubPart>
                <author>Svoljšak Petra</author>
@@ -8490,8 +8516,9 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
          <issue>
             <pubPart>
                <author>Moscarda Orietta</author>
-               <title>La giustizia del popolo</title>
-               <title>sequestri e confische a Fiume re secondo dopoguerra 11946-1948)</title>
+               <title>La "giustizia del popolo"</title>
+               <title>sequestri e confische a Fiume nel secondo dopoguerra (1946-1948)</title>
+               <page>209-232</page>
                <citedIn count="1">
                   <cit did="2873" cid="292" avtor0="Moscarda Orietta"
                      naslov0="La giustizia del popolo: sequestri e confische a Fiume re secondo dopoguerra 11946-1948)"
@@ -8534,6 +8561,8 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Pupo Raoul</author>
                <title>Le foibe giuliane 1943-1945</title>
                <title>i nodi del dibattito</title>
+               <page>87-98</page>
+               <cobiss>1754673</cobiss>
                <citedIn count="1">
                   <cit did="720" cid="56" avtor0="Pupo Raoul"
                      naslov0="Le foibe giuliane 1943-1945 : i nodi del dibattito"
@@ -8625,8 +8654,12 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
             <pubPart>
                <author>Mlakar Boris</author>
                <title>Rapporti tra collaborazionisti sloveni e italiani nel litorale</title>
+               <page>69-89</page>
                <cobiss>1879412</cobiss>
-               <citedIn count="2">
+               <citedIn count="3">
+                  <cit did="584" cid="1" avtor0="Mlakar Boris"
+                     naslov0="Rapporti tra collaborazionisti sloveni e italiani nel litorale"
+                     source="Qualestoria" year="1998" volume="16" issue="1"/>
                   <cit did="3208" cid="1" avtor0="Mlakar Boris"
                      naslov0="Rapporti tra collaborazionisti sloveni e italiani nel litorale"
                      cobiss="1879412" source="Qualestoria" pubPlace="Trieste"
@@ -8732,6 +8765,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Chersovani Licia</author>
                <title>Trieste 1948</title>
                <title>Le ripercussioni della risoluzione del Cominform nel Partito comunista triestino</title>
+               <page>77-92</page>
                <citedIn count="1">
                   <cit did="3325" cid="13" avtor0="Chersovani Licia"
                      naslov0="Trieste 1948 : Le ripercussioni della risoluzione del Cominform nel Partito comunista triestino"
@@ -8797,6 +8831,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Pirjevec Jože</author>
                <title>Pagine di storia dell'antifascismo sloveno</title>
                <title>I fucilati di Basovizza del 1930</title>
+               <page>45-60</page>
                <citedIn count="1">
                   <cit did="720" cid="52" avtor0="Pirjevec Jože"
                      naslov0="Pagine di storia dell'antifascismo sloveno : I fucilati di Basovizza del 1930"
@@ -9360,6 +9395,7 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
                <author>Staudinger Eduard G.</author>
                <title>Demonstration und Fest</title>
                <title>Zur Geschichte der Feiern zum 1. Mai in der Steiermark von 1890 bis 1907</title>
+               <page>9-21</page>
                <citedIn count="1">
                   <cit did="1783" cid="176" avtor0="Staudinger Eduard G."
                      naslov0="Demonstration und Fest: Zur Geschichte der Feiern zum 1. Mai in der Steiermark von 1890 bis 1907"
@@ -9779,9 +9815,10 @@ landesfürstlichen Hoheit und des Landes Cilli</title>
       <year n="1959">
          <volume>50</volume>
          <issue>
-            <pubPart>
+            <pubPart><!-- Knjiga -->
                <author>Tremel Ferdinand</author>
                <title>Erzherzog Johann und Steiermark</title>
+               <cobiss>20357</cobiss>
                <citedIn count="1">
                   <cit did="28" cid="13" avtor0="Tremel Ferdinand"
                      naslov0="Erzherzog Johann und Steiermark"
