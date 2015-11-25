@@ -3,6 +3,7 @@
  xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
       <docAuthor id="andrejp">Andrej Pančur</docAuthor>
+      <docAuthor id="NBH">Neja Blaj Hribar</docAuthor>
       <docTitle>Citiranost člankov v starejših slovenskih revijah</docTitle>
       <dataSource>Zgodovinarski indeks citiranosti (ZIC)</dataSource>
       <docRights>CC BY 4.0</docRights>
@@ -23,7 +24,7 @@
          <issue>
             <pubPart>
                <author>Kidrič France</author>
-               <title>Tomaž Markawitsch, Joh. Ernst Philippi, Christian Lateji Liscow ter ilirsko gledališče 1705-35 oz. ljubljansko 1735</title>
+               <title>Tomaž Markawitsch, Joh. Ernst Philippi, Christian Ludwig Liscow ter ilirsko gledališče 1705—35, oziroma ljubljansko 1735</title>
                <page>143-153</page>
                <citedIn count="1">
                   <cit did="2638"
@@ -38,7 +39,6 @@
          </issue>
       </year>
       <year n="1926">
-         <volume>V</volume>
          <volume>5</volume>
          <issue n="2">
             <pubPart>
@@ -310,26 +310,6 @@
       <publisher>Leonova družba</publisher>
       <issn>1318-7465</issn>
       <pubCobiss>4675843</pubCobiss>
-      <year n="1942">
-         <volume>20</volume>
-         <issue>
-            <pubPart>
-               <author>Kotnik Franc</author>
-               <title>Brata Gašpar in Jakob Pilat - dobrotniki našega dijaštva</title>
-               <page>40-45</page>
-               <citedIn count="1">
-                  <cit did="2246"
-                       cid="7"
-                       avtor0="Kotnik Franc"
-                       naslov0="Brata Gašpar in Jakob Pilat - dobrotniki našega dijaštva"
-                       source="Čas"
-                       year="1942"
-                       volume="20"
-                       page="40-45"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1939">
          <issue>
             <pubPart>
@@ -351,9 +331,7 @@
             <pubPart>
                <author>Žebot Ciril</author>
                <title>Nova Portugalska</title>
-               <title>Nova Portugalska.</title>
-               <page>84, 148</page>
-               <page>147</page>
+               <page>84-148</page>
                <citedIn count="2">
                   <cit did="555"
                        cid="21"
@@ -648,6 +626,27 @@
                        year="1925"
                        volume="20"
                        page="173-179"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1924">
+         <volume>20</volume>
+         <issue>
+            <pubPart>
+               <author>Kotnik Franc</author>
+               <title>Brata Gašpar in Jakob Pilat</title>
+               <title>dobrotniki našega dijaštva</title>
+               <page>40-45</page>
+               <citedIn count="1">
+                  <cit did="2246"
+                     cid="7"
+                     avtor0="Kotnik Franc"
+                     naslov0="Brata Gašpar in Jakob Pilat - dobrotniki našega dijaštva"
+                     source="Čas"
+                     year="1942"
+                     volume="20"
+                     page="40-45"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -1321,7 +1320,8 @@
          <issue n="1-2">
             <pubPart>
                <author>Calderon de la Barca Pedro</author>
-               <title>Veliki oder sveta (El gran teatro del mundo)</title>
+               <title>Veliki oder sveta</title>
+               <title>(El gran teatro del mundo)</title>
                <page>47-59</page>
                <citedIn count="1">
                   <cit did="2218"
@@ -2420,6 +2420,131 @@
                </citedIn>
             </pubPart>
          </issue>
+         <issue>
+         <pubPart>
+            <author>Lampe Evgen</author>
+            <title>Spomini na dr. Frančiška Lampeta</title>
+            <page>610</page>
+            <citedIn count="1">
+               <cit did="2635"
+                  cid="24"
+                  avtor0="Lampe Evgen"
+                  naslov0="Spomini na dr. Frančiška Lampeta"
+                  source="Dom in svet"
+                  year="0"
+                  page="610"/>
+            </citedIn>
+         </pubPart>
+            <pubPart>
+               <author>Pajk Pavlina</author>
+               <title>Spomini na dr. Frančiška Lampeta; I</title>
+               <page>641</page>
+               <citedIn count="1">
+                  <cit did="2635"
+                     cid="65"
+                     avtor0="Pajk Pavlina"
+                     naslov0="Spomini na dr. Farnčiška Lampeta"
+                     source="Dom in svet"
+                     year="0"
+                     page="641"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Lampre Evgen</author>
+               <title>Prva slovenska umetniška razstava</title>
+               <page>671</page>
+               <citedIn count="1">
+                  <cit did="1001"
+                     cid="6"
+                     avtor0="Lampre Evgen"
+                     naslov0="Prva slovenska umetniška razstava"
+                     source="Dom in svet"
+                     year="0"
+                     volume="13"
+                     page="671"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1899">
+         <issue>
+            <pubPart>
+               <author>Rebol Frančišek</author>
+               <title>Lovro Pintar</title>
+               <page>1-8</page>
+               <cobiss>3391286</cobiss>
+               <citedIn count="2">
+                  <cit did="922"
+                     cid="8"
+                     avtor0="Rebol Frančišek"
+                     naslov0="Lovro Pintar"
+                     cobiss="3391286"
+                     source="Dom in svet"
+                     year="0"
+                     volume="12"
+                     issue="1"
+                     page="1-6"/>
+                  <cit did="905"
+                     cid="6"
+                     avtor0="Rebol Frančišek"
+                     naslov0="Lovro Pintar"
+                     cobiss="3391286"
+                     source="Dom in svet"
+                     year="0"
+                     volume="12"
+                     issue="1"
+                     page="1-8"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1897">
+         <issue>
+            <pubPart>
+               <author>Lampe Frančišek</author>
+               <title>Ob desetletnici</title>
+               <page>766-768</page>
+               <citedIn count="1">
+                  <cit did="2635"
+                     cid="58"
+                     avtor0="Lampe Frančišek"
+                     naslov0="Ob desetletnici"
+                     source="Dom in svet"
+                     year="0"
+                     page="766-768"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Lampe Frančišek</author>
+               <title>Za kaj se gre?</title>
+               <title>Črtica</title>
+               <page>122-123</page>
+               <citedIn count="1">
+                  <cit did="2635"
+                     cid="46"
+                     avtor0="Lampe Frančišek"
+                     naslov0="Za kaj se gre?"
+                     source="Dom in svet"
+                     year="0"
+                     page="122-123"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Perne S.</author>
+               <title>Nova gimnazija v Kranju</title>
+               <page>639-640</page>
+               <citedIn count="1">
+                  <cit did="1823"
+                     cid="3"
+                     avtor0="Perne S."
+                     naslov0="Nova gimnazija v Kranju"
+                     source="Dom in svet"
+                     year="0"
+                     volume="10"
+                     page="639-640"/>
+               </citedIn>
+            </pubPart>
+         </issue>
       </year>
       <year n="1896">
          <volume>9</volume>
@@ -2437,6 +2562,76 @@
                        year="1896"
                        volume="9"
                        page="116-119"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Rozman Josip</author>
+               <title>Avstrijska Riviera</title>
+               <title>Avstrijska riviera</title>
+               <title>Avstrijska reviera</title>
+               <page>15-18</page>
+               <page>86-88</page>
+               <page>50-52</page>
+               <page>146-150</page>
+               <citedIn count="7">
+                  <cit did="2035"
+                     cid="24"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska Riviera"
+                     source="Dom in svet, Ilustriran list za leposlovje in znanstvo"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     volume="9"
+                     page="15-18"/>
+                  <cit did="678"
+                     cid="33"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska riviera"
+                     source="Dom in svet"
+                     year="0"
+                     volume="IX"/>
+                  <cit did="118"
+                     cid="26"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska riviera"
+                     source="Dom in svet"
+                     year="0"/>
+                  <cit did="1038"
+                     cid="7"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska reviera"
+                     source="Dom in svet"
+                     year="0"
+                     volume="9"
+                     issue="3"
+                     page="86-88"/>
+                  <cit did="1038"
+                     cid="6"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska reviera"
+                     source="Dom in svet"
+                     year="0"
+                     volume="9"
+                     issue="2"
+                     page="50-52"/>
+                  <cit did="1038"
+                     cid="5"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska reviera"
+                     source="Dom in svet"
+                     year="0"
+                     volume="9"
+                     issue="1"
+                     page="15-18"/>
+                  <cit did="1038"
+                     cid="8"
+                     avtor0="Rozman Josip"
+                     naslov0="Avstrijska reviera"
+                     source="Dom in svet"
+                     year="0"
+                     volume="9"
+                     issue="4"
+                     page="146-150"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2457,6 +2652,84 @@
                        volume="8"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Fekonja Andrej</author>
+               <title>Celje in okolica</title>
+               <page>439</page>
+               <citedIn count="1">
+                  <cit did="441"
+                     cid="45"
+                     avtor0="Fekonja Andrej"
+                     naslov0="Celje in okolica"
+                     source="Dom in svet, Ilustrovani list za leposlovje in znanstvo"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     volume="VIII"
+                     page="439"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Lekše Fran S.</author>
+               <title>Črna ali Ptujska gora</title>
+               <page>20-22</page>
+               <citedIn count="1">
+                  <cit did="1588"
+                     cid="4"
+                     avtor0="Lekše Fran S."
+                     naslov0="Črna ali Ptujska gora"
+                     source="Dom in svet"
+                     year="0"
+                     page="20-22"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Torkar Matija</author>
+               <title>Nekoliko črtic iz mojih mladih let</title>
+               <page>545</page>
+               <citedIn count="1">
+                  <cit did="196"
+                     cid="1"
+                     avtor0="Torkar Matija"
+                     naslov0="Nekoliko črtic iz mojih mladih let"
+                     source="Dom in svet"
+                     year="0"
+                     page="545"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue n="14">
+            <pubPart>
+               <author>Lampe Frančišek</author>
+               <author>Lampa Frančišek</author>
+               <title>Izprehod na Notranjsko</title>
+               <title>Izprehodi na Notranjsko</title>
+               <page>541</page>
+               <page>504-507</page>
+               <citedIn count="3">
+                  <cit did="180"
+                     cid="2"
+                     avtor0="Lampe Frančišek"
+                     naslov0="Izprehod na Notranjsko"
+                     source="Dom in svet"
+                     year="0"
+                     page="541"/>
+                  <cit did="115"
+                     cid="10"
+                     avtor0="Lampe Frančišek"
+                     naslov0="Izprehodi na Notranjsko"
+                     source="Dom in svet"
+                     year="0"
+                     volume="8"
+                     page="541"/>
+                  <cit did="189"
+                     cid="1"
+                     avtor0="Lampa Frančišek"
+                     naslov0="Izprehod na Notranjsko"
+                     source="Dom in svet"
+                     volume="1895"
+                     page="504-507"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1894">
@@ -2473,6 +2746,47 @@
                        source="Dom in svet"
                        year="1894"
                        volume="7"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Medved A.</author>
+               <title>Viljem Ostrovrhar</title>
+               <title>Tragedija v petih dejanjih</title>
+               <page>356-366</page>
+               <citedIn count="1">
+                  <cit did="2631"
+                     cid="207"
+                     avtor0="Medved A."
+                     naslov0="Viljem Ostrovrhar"
+                     source="Dom in svet"
+                     year="0"
+                     volume="7"
+                     page="356-366"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Pokom France</author>
+               <author>Pokorn France</author>
+               <title>Loka</title>
+               <title>krajepisno zgodovinska črtica</title>
+               <page>62-66</page>
+               <citedIn count="2">
+                  <cit did="2590"
+                     cid="42"
+                     avtor0="Pokom France"
+                     naslov0="Loka - krajepisno zgodovinska črtica"
+                     source="Dom in svet"
+                     year="0"
+                     volume="7"
+                     page="62-66"/>
+                  <cit did="2590"
+                     cid="43"
+                     avtor0="Pokorn France"
+                     naslov0="Loka - krajepisno zgodovinska črtica"
+                     source="Dom in svet"
+                     year="0"
+                     volume="7"
+                     page="62-66"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2493,6 +2807,80 @@
                        year="1893"
                        volume="VI"
                        page="365-367"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Sovran I.</author>
+               <author>Krek</author>
+               <title>Iz nove dobe</title>
+               <citedIn count="1">
+                  <cit did="1480"
+                     cid="4"
+                     avtor0="Sovran I."
+                     naslov0="Iz nove dobe"
+                     source="Dom in svet: Ilustrovan list za leposlovje in znanost"
+                     pubPlace="Ljubljana"
+                     year="0"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1892">
+         <issue>
+            <pubPart>
+               <author>Fekonja Andrej</author>
+               <title>Ilirstvo pa Slovenci</title>
+               <page>421</page>
+               <page>474</page>
+               <citedIn count="2">
+                  <cit did="29"
+                     cid="134"
+                     avtor0="Fekonja Andrej"
+                     naslov0="Ilirstvo pa Slovenci"
+                     source="Dom in svet"
+                     year="0"
+                     page="421"/>
+                  <cit did="29"
+                     cid="302"
+                     avtor0="Fekonja Andrej"
+                     naslov0="Ilirstvo pa Slovenci"
+                     source="Dom in svet"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="474"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1890">
+         <issue>
+            <pubPart>
+               <author>Benkovič Josip</author>
+               <title>Črtice o rokovnjačih</title>
+               <page>18-20</page>
+               <citedIn count="3">
+                  <cit did="528"
+                     cid="7"
+                     avtor0="Benkovič Josip"
+                     naslov0="Črtice o rokovnjačih"
+                     source="Dom in svet"
+                     year="0"
+                     page="83"/>
+                  <cit did="2032"
+                     cid="2"
+                     avtor0="Benkovič Josip"
+                     naslov0="Črtice o rokovnjačih"
+                     source="Dom in svet III. Zabavi in pouku"
+                     pubPlace="Ljubljana"
+                     year="0"/>
+                  <cit did="2590"
+                     cid="3"
+                     avtor0="Benkovič Josip"
+                     naslov0="Črtice o rokovnjačih"
+                     source="Dom in svet"
+                     year="0"
+                     volume="3"
+                     issue="3"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -2516,87 +2904,8 @@
          </issue>
       </year>
       <year n="0">
-         <volume>3</volume>
-         <volume>VIII</volume>
-         <volume>8</volume>
-         <volume>1895</volume>
-         <volume>13</volume>
-         <volume>21</volume>
-         <volume>7</volume>
-         <volume>10</volume>
-         <volume>12</volume>
-         <volume>9</volume>
-         <volume>IX</volume>
          <issue>
-            <pubPart>
-               <author>Benkovič Josip</author>
-               <title>Črtice o rokovnjačih</title>
-               <page>83</page>
-               <citedIn count="3">
-                  <cit did="528"
-                       cid="7"
-                       avtor0="Benkovič Josip"
-                       naslov0="Črtice o rokovnjačih"
-                       source="Dom in svet"
-                       year="0"
-                       page="83"/>
-                  <cit did="2032"
-                       cid="2"
-                       avtor0="Benkovič Josip"
-                       naslov0="Črtice o rokovnjačih"
-                       source="Dom in svet III. Zabavi in pouku"
-                       pubPlace="Ljubljana"
-                       year="0"/>
-                  <cit did="2590"
-                       cid="3"
-                       avtor0="Benkovič Josip"
-                       naslov0="Črtice o rokovnjačih"
-                       source="Dom in svet"
-                       year="0"
-                       volume="3"
-                       issue="3"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Fekonja Andrej</author>
-               <title>Celje in okolica</title>
-               <page>439</page>
-               <citedIn count="1">
-                  <cit did="441"
-                       cid="45"
-                       avtor0="Fekonja Andrej"
-                       naslov0="Celje in okolica"
-                       source="Dom in svet, Ilustrovani list za leposlovje in znanstvo"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       volume="VIII"
-                       page="439"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Fekonja Andrej</author>
-               <title>Ilirstvo pa Slovenci</title>
-               <page>421</page>
-               <page>474</page>
-               <citedIn count="2">
-                  <cit did="29"
-                       cid="134"
-                       avtor0="Fekonja Andrej"
-                       naslov0="Ilirstvo pa Slovenci"
-                       source="Dom in svet"
-                       year="0"
-                       page="421"/>
-                  <cit did="29"
-                       cid="302"
-                       avtor0="Fekonja Andrej"
-                       naslov0="Ilirstvo pa Slovenci"
-                       source="Dom in svet"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="474"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
+           <pubPart>
                <author>Lampe Evgen</author>
                <title>Ocena</title>
                <page>46-50</page>
@@ -2611,315 +2920,18 @@
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Lampe Evgen</author>
-               <title>Spomini na dr. Frančiška Lampeta</title>
-               <page>610</page>
-               <citedIn count="1">
-                  <cit did="2635"
-                       cid="24"
-                       avtor0="Lampe Evgen"
-                       naslov0="Spomini na dr. Frančiška Lampeta"
-                       source="Dom in svet"
-                       year="0"
-                       page="610"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lampe Frančišek</author>
-               <author>Lampa Frančišek</author>
-               <title>Izprehod na Notranjsko</title>
-               <title>Izprehodi na Notranjsko</title>
-               <page>541</page>
-               <page>504-507</page>
-               <citedIn count="3">
-                  <cit did="180"
-                       cid="2"
-                       avtor0="Lampe Frančišek"
-                       naslov0="Izprehod na Notranjsko"
-                       source="Dom in svet"
-                       year="0"
-                       page="541"/>
-                  <cit did="115"
-                       cid="10"
-                       avtor0="Lampe Frančišek"
-                       naslov0="Izprehodi na Notranjsko"
-                       source="Dom in svet"
-                       year="0"
-                       volume="8"
-                       page="541"/>
-                  <cit did="189"
-                       cid="1"
-                       avtor0="Lampa Frančišek"
-                       naslov0="Izprehod na Notranjsko"
-                       source="Dom in svet"
-                       volume="1895"
-                       page="504-507"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lampe Frančišek</author>
-               <title>Ob desetletnici</title>
-               <page>766-768</page>
-               <citedIn count="1">
-                  <cit did="2635"
-                       cid="58"
-                       avtor0="Lampe Frančišek"
-                       naslov0="Ob desetletnici"
-                       source="Dom in svet"
-                       year="0"
-                       page="766-768"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lampe Frančišek</author>
-               <title>Za kaj se gre?</title>
-               <page>122-123</page>
-               <citedIn count="1">
-                  <cit did="2635"
-                       cid="46"
-                       avtor0="Lampe Frančišek"
-                       naslov0="Za kaj se gre?"
-                       source="Dom in svet"
-                       year="0"
-                       page="122-123"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lampre Evgen</author>
-               <title>Prva slovenska umetniška razstava</title>
-               <page>671</page>
-               <citedIn count="1">
-                  <cit did="1001"
-                       cid="6"
-                       avtor0="Lampre Evgen"
-                       naslov0="Prva slovenska umetniška razstava"
-                       source="Dom in svet"
-                       year="0"
-                       volume="13"
-                       page="671"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Lekše Fran S.</author>
-               <title>Črna ali Ptujska gora</title>
-               <page>20-22</page>
-               <citedIn count="1">
-                  <cit did="1588"
-                       cid="4"
-                       avtor0="Lekše Fran S."
-                       naslov0="Črna ali Ptujska gora"
-                       source="Dom in svet"
-                       year="0"
-                       page="20-22"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Mantuani Josip</author>
                <title>Kravnska Kroneka</title>
                <page>274-279</page>
                <citedIn count="1">
                   <cit did="2612"
-                       cid="95"
-                       avtor0="Mantuani Josip"
-                       naslov0="Kravnska Kroneka"
-                       source="Dom in svet, letnik XXI"
-                       pubPlace="Ljubljana"
-                       volume="21"
-                       page="274-279"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Medved A.</author>
-               <title>Viljem Ostrovrhar</title>
-               <page>356-366</page>
-               <citedIn count="1">
-                  <cit did="2631"
-                       cid="207"
-                       avtor0="Medved A."
-                       naslov0="Viljem Ostrovrhar"
-                       source="Dom in svet"
-                       year="0"
-                       volume="7"
-                       page="356-366"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pajk Pavlina</author>
-               <title>Spomini na dr. Farnčiška Lampeta</title>
-               <page>641</page>
-               <citedIn count="1">
-                  <cit did="2635"
-                       cid="65"
-                       avtor0="Pajk Pavlina"
-                       naslov0="Spomini na dr. Farnčiška Lampeta"
-                       source="Dom in svet"
-                       year="0"
-                       page="641"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Perne S.</author>
-               <title>Nova gimnazija v Kranju</title>
-               <page>639-640</page>
-               <citedIn count="1">
-                  <cit did="1823"
-                       cid="3"
-                       avtor0="Perne S."
-                       naslov0="Nova gimnazija v Kranju"
-                       source="Dom in svet"
-                       year="0"
-                       volume="10"
-                       page="639-640"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pokom France</author>
-               <author>Pokorn France</author>
-               <title>Loka - krajepisno zgodovinska črtica</title>
-               <page>62-66</page>
-               <citedIn count="2">
-                  <cit did="2590"
-                       cid="42"
-                       avtor0="Pokom France"
-                       naslov0="Loka - krajepisno zgodovinska črtica"
-                       source="Dom in svet"
-                       year="0"
-                       volume="7"
-                       page="62-66"/>
-                  <cit did="2590"
-                       cid="43"
-                       avtor0="Pokorn France"
-                       naslov0="Loka - krajepisno zgodovinska črtica"
-                       source="Dom in svet"
-                       year="0"
-                       volume="7"
-                       page="62-66"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rebol Frančišek</author>
-               <title>Lovro Pintar</title>
-               <page>1-6</page>
-               <page>1-8</page>
-               <cobiss>3391286</cobiss>
-               <citedIn count="2">
-                  <cit did="922"
-                       cid="8"
-                       avtor0="Rebol Frančišek"
-                       naslov0="Lovro Pintar"
-                       cobiss="3391286"
-                       source="Dom in svet"
-                       year="0"
-                       volume="12"
-                       issue="1"
-                       page="1-6"/>
-                  <cit did="905"
-                       cid="6"
-                       avtor0="Rebol Frančišek"
-                       naslov0="Lovro Pintar"
-                       cobiss="3391286"
-                       source="Dom in svet"
-                       year="0"
-                       volume="12"
-                       issue="1"
-                       page="1-8"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rozman Josip</author>
-               <title>Avstrijska Riviera</title>
-               <title>Avstrijska riviera</title>
-               <title>Avstrijska reviera</title>
-               <page>15-18</page>
-               <page>86-88</page>
-               <page>50-52</page>
-               <page>146-150</page>
-               <citedIn count="7">
-                  <cit did="2035"
-                       cid="24"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska Riviera"
-                       source="Dom in svet, Ilustriran list za leposlovje in znanstvo"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       volume="9"
-                       page="15-18"/>
-                  <cit did="678"
-                       cid="33"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska riviera"
-                       source="Dom in svet"
-                       year="0"
-                       volume="IX"/>
-                  <cit did="118"
-                       cid="26"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska riviera"
-                       source="Dom in svet"
-                       year="0"/>
-                  <cit did="1038"
-                       cid="7"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska reviera"
-                       source="Dom in svet"
-                       year="0"
-                       volume="9"
-                       issue="3"
-                       page="86-88"/>
-                  <cit did="1038"
-                       cid="6"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska reviera"
-                       source="Dom in svet"
-                       year="0"
-                       volume="9"
-                       issue="2"
-                       page="50-52"/>
-                  <cit did="1038"
-                       cid="5"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska reviera"
-                       source="Dom in svet"
-                       year="0"
-                       volume="9"
-                       issue="1"
-                       page="15-18"/>
-                  <cit did="1038"
-                       cid="8"
-                       avtor0="Rozman Josip"
-                       naslov0="Avstrijska reviera"
-                       source="Dom in svet"
-                       year="0"
-                       volume="9"
-                       issue="4"
-                       page="146-150"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Sovran I.</author>
-               <title>Iz nove dobe</title>
-               <citedIn count="1">
-                  <cit did="1480"
-                       cid="4"
-                       avtor0="Sovran I."
-                       naslov0="Iz nove dobe"
-                       source="Dom in svet: Ilustrovan list za leposlovje in znanost"
-                       pubPlace="Ljubljana"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Torkar Matija</author>
-               <title>Nekoliko črtic iz mojih mladih let</title>
-               <page>545</page>
-               <citedIn count="1">
-                  <cit did="196"
-                       cid="1"
-                       avtor0="Torkar Matija"
-                       naslov0="Nekoliko črtic iz mojih mladih let"
-                       source="Dom in svet"
-                       year="0"
-                       page="545"/>
+                     cid="95"
+                     avtor0="Mantuani Josip"
+                     naslov0="Kravnska Kroneka"
+                     source="Dom in svet, letnik XXI"
+                     pubPlace="Ljubljana"
+                     volume="21"
+                     page="274-279"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -2927,12 +2939,12 @@
                <page>284-285</page>
                <citedIn count="1">
                   <cit did="42"
-                       cid="10"
-                       avtor0="Trinko Ivan"
-                       source="Dom in svet"
-                       year="0"
-                       volume="13"
-                       page="284-285"/>
+                     cid="10"
+                     avtor0="Trinko Ivan"
+                     source="Dom in svet"
+                     year="0"
+                     volume="13"
+                     page="284-285"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5388,6 +5400,63 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1900">
+         <volume>10</volume>
+         <issue n="4">
+            <pubPart>
+               <author>Steska Viktor</author>
+               <title>Dolničarjeva "Bibliotheca Labacensis publica"</title>
+               <page>134-140</page>
+               <citedIn count="1">
+                  <cit did="1912"
+                     cid="131"
+                     avtor0="Steska Viktor"
+                     naslov0="Dolničarjeva &#34;Bibliotheca Labacensis publica&#34;"
+                     source="Izvestja Muzejskega drustva za Kranjsko"
+                     year="0"
+                     volume="10"
+                     issue="3"
+                     page="134-140"/>
+                  <cit did="2598"
+                     cid="23"
+                     avtor0="Steska Viktor"
+                     naslov0="Dolničaijeva Bibliotheca Labacensis puhlica"
+                     source="Izvestja Muzejskega društva za Kranjsko let. X"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="134-140"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+               <author>Steska Viktor</author>
+               <title>Academia Operosorum</title>
+               <page>37-54</page>
+               <page>77-94</page>
+               <citedIn count="2">
+                  <cit did="1912"
+                     cid="130"
+                     avtor0="Steska Viktor"
+                     naslov0="Academia Operosorum"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="10"
+                     issue="2"
+                     page="37-54"/>
+                  <cit did="2049"
+                     cid="24"
+                     avtor0="Steska Viktor"
+                     naslov0="Academia Operosorum"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="10"
+                     issue="7"
+                     page="77-94"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1899">
          <volume>9</volume>
          <issue>
@@ -5464,6 +5533,21 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="1899"
                        volume="9"
                        page="119-124"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Pintar L.</author>
+               <title>Sostro-Osterberg</title>
+               <page>133-136</page>
+               <citedIn count="1">
+                  <cit did="918"
+                     cid="12"
+                     avtor0="P(intar) L."
+                     naslov0="Sostro-Osterberg"
+                     source="Izvestja muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="9"
+                     page="133-136"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5622,6 +5706,21 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="131-132"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Kos Franc</author>
+               <title>Iz domače zgodovine (doba od 843-867)</title>
+               <page>110</page>
+               <citedIn count="1">
+                  <cit did="425"
+                     cid="113"
+                     avtor0="Kos Franc"
+                     naslov0="Iz domače zgodovine (doba od 843-867)"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     issue="7"
+                     page="110"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1896">
@@ -5654,6 +5753,20 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="1896"
                        volume="6"
                        page="222-228"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Vrhovnik Ivan</author>
+               <title>Škofa Hrena spomenik</title>
+               <page>238-241</page>
+               <citedIn count="1">
+                  <cit did="1738"
+                     cid="41"
+                     avtor0="Vrhovnik Ivan"
+                     naslov0="Škofa Hrena spomenik"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     page="238-241"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5718,6 +5831,50 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="20-33"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Kloblar Anton</author>
+               <title>Star urbar v ljubljanskem kapiteljskem arhivu</title>
+               <page>85</page>
+               <citedIn count="1">
+                  <cit did="2583"
+                     cid="93"
+                     avtor0="Kloblar Anton"
+                     naslov0="Star urbar v ljubljanskem kapiteljskem arhivu"
+                     source="IMK"
+                     year="0"
+                     volume="5"
+                     page="85"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Koblar Anton</author>
+               <title>Cene in mezde v Ljubljani 1. 1524</title>
+               <page>85</page>
+               <citedIn count="1">
+                  <cit did="2583"
+                     cid="44"
+                     avtor0="Koblar Anton"
+                     naslov0="Cene in mezde v Ljubljani 1. 1524"
+                     source="IMK"
+                     year="0"
+                     volume="5"
+                     page="85"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Koblar Anton</author>
+               <title>Zemeljski potresi na Slovenskem</title>
+               <page>68-77</page>
+               <citedIn count="1">
+                  <cit did="2056"
+                     cid="26"
+                     avtor0="Koblar Anton"
+                     naslov0="Zemeljski potresi na Slovenskem"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     page="68-77"/>
+               </citedIn>
+            </pubPart>
          </issue>
          <issue>
             <pubPart>
@@ -5733,6 +5890,95 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="1895"
                        volume="5"
                        page="86-87"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>Završniška gospoščina na Krasu</title>
+               <page>213-280</page>
+               <citedIn count="2">
+                  <cit did="375"
+                     cid="109"
+                     avtor0="Rutar Simon"
+                     naslov0="Završniška gospoščina na Krasu"
+                     source="Izvestja muzejskega društva za Kranjsko"
+                     year="0"
+                     issue="5"
+                     page="226"/>
+                  <cit did="2583"
+                     cid="163"
+                     avtor0="Rutar Simon"
+                     naslov0="Završniška gospoščina na Krasu"
+                     source="IMK"
+                     year="0"
+                     volume="5"
+                     page="213-280"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Vrhovnih Ivan</author>
+               <title>Marijino znamenje na sv. Jakoba trgu v Ljubljani</title>
+               <page>206-209</page>
+               <citedIn count="1">
+                  <cit did="1738"
+                     cid="40"
+                     avtor0="Vrhovnih Ivan"
+                     naslov0="Marijino znamenje na sv. Jakoba trgu v Ljubljani"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     page="206-209"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1894">
+         <volume>4</volume>
+         <issue>
+            <pubPart>
+               <author>Apih Josip</author>
+               <title>K obrtni politiki 18. veka</title>
+               <page>66</page>
+               <citedIn count="2">
+                  <cit did="1244"
+                     cid="1"
+                     avtor0="Apih Josip"
+                     naslov0="K obrtni politiki 18. veka"
+                     source="Izvestja muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="4"
+                     page="66"/>
+                  <cit did="254"
+                     cid="1"
+                     avtor0="Apih Josip"
+                     naslov0="K obrtni politiki 18. veka"
+                     source="Izvestja Muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="4"
+                     page="66"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Barle J.</author>
+               <author>Barle Janko</author>
+               <title>Kronologična vrsta velesovskih prednic</title>
+               <page>237-242</page>
+               <citedIn count="2">
+                  <cit did="775"
+                     cid="5"
+                     avtor0="Barle J."
+                     naslov0="Kronologična vrsta velesovskih prednic"
+                     source="IMK"
+                     year="0"
+                     volume="4"
+                     page="237-242"/>
+                  <cit did="2647"
+                     cid="10"
+                     avtor0="Barle Janko"
+                     naslov0="Kronologična vrsta velesovskih prednic"
+                     source="IMK"
+                     year="0"
+                     volume="4"
+                     page="237-242"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5768,15 +6014,43 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="60-65"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Koblar A.</author>
+               <title>Cesta čez Ljubelj in ljubeljski piramidi,</title>
+               <page>218-225</page>
+               <citedIn count="1">
+                  <cit did="2640"
+                     cid="88"
+                     avtor0="Koblar A."
+                     naslov0="Cesta čez Ljubelj in ljubeljski piramidi,"
+                     source="IMK"
+                     year="0"
+                     volume="3"
+                     page="218-225"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Mauring J. E.</author>
+               <title>Utemeljitev mesta Višnje Gore</title>
+               <page>30-32</page>
+               <citedIn count="1">
+                  <cit did="1422"
+                     cid="23"
+                     avtor0="Mauring J. E."
+                     naslov0="Utemeljitev mesta Višnje Gore"
+                     source="Izvestja Muzejska društva za Kranjsko"
+                     year="0"
+                     page="30-32"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1892">
-         <volume>2, 3, 4</volume>
+         <volume>2</volume>
          <issue>
             <pubPart>
                <author>Koblar Anton</author>
                <title>Drobtinice iz furlanskih arhivov</title>
-               <page>30-92, 101-109, 16</page>
                <page>30-92</page>
                <cobiss>9861793</cobiss>
                <citedIn count="2">
@@ -5797,6 +6071,42 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Izvestja Muzejskega društva za Kranjsko II"
                        year="1892"
                        page="30-92"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Koblar Anton</author>
+               <title>Pasijonske igre na Kranjskem</title>
+               <page>110-125</page>
+               <citedIn count="1">
+                  <cit did="1912"
+                     cid="62"
+                     avtor0="Koblar Anton"
+                     naslov0="Pasijonske igre na Kranjskem"
+                     source="Izvestja Muzejskega drustva za Kranjsko II"
+                     year="0"
+                     page="110-125"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>Sv. Križ vipavski</title>
+               <page>126-150</page>
+               <citedIn count="2">
+                  <cit did="2239"
+                     cid="13"
+                     avtor0="Rutar Simon"
+                     naslov0="Sv. Križ vipavski"
+                     source="Izvestja muzejskega društva za Kranjsko"
+                     year="0"
+                     volume="2"
+                     page="126-150"/>
+                  <cit did="1422"
+                     cid="38"
+                     avtor0="Rutar Simon"
+                     naslov0="Sv. Križ vipavski"
+                     source="Izvestja muzejskega društva za Kranjsko II"
+                     year="0"
+                     page="126-150"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -5924,307 +6234,26 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>10</volume>
-         <volume>5</volume>
-         <volume>4</volume>
-         <volume>3</volume>
-         <volume>9</volume>
-         <volume>41</volume>
-         <volume>2</volume>
-         <volume>7</volume>
-         <issue n="3">
-            <pubPart>
-               <author>Steska Viktor</author>
-               <title>Dolničarjeva "Bibliotheca Labacensis publica"</title>
-               <page>134-140</page>
-               <citedIn count="1">
-                  <cit did="1912"
-                       cid="131"
-                       avtor0="Steska Viktor"
-                       naslov0="Dolničarjeva &#34;Bibliotheca Labacensis publica&#34;"
-                       source="Izvestja Muzejskega drustva za Kranjsko"
-                       year="0"
-                       volume="10"
-                       issue="3"
-                       page="134-140"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Steska Viktor</author>
-               <title>Dolničaijeva Bibliotheca Labacensis puhlica</title>
-               <page>134-140</page>
-               <citedIn count="1">
-                  <cit did="2598"
-                       cid="23"
-                       avtor0="Steska Viktor"
-                       naslov0="Dolničaijeva Bibliotheca Labacensis puhlica"
-                       source="Izvestja Muzejskega društva za Kranjsko let. X"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="134-140"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="5">
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Završniška gospoščina na Krasu</title>
-               <page>226</page>
-               <page>213-280</page>
-               <citedIn count="2">
-                  <cit did="375"
-                       cid="109"
-                       avtor0="Rutar Simon"
-                       naslov0="Završniška gospoščina na Krasu"
-                       source="Izvestja muzejskega društva za Kranjsko"
-                       year="0"
-                       issue="5"
-                       page="226"/>
-                  <cit did="2583"
-                       cid="163"
-                       avtor0="Rutar Simon"
-                       naslov0="Završniška gospoščina na Krasu"
-                       source="IMK"
-                       year="0"
-                       volume="5"
-                       page="213-280"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue n="7">
-            <pubPart>
-               <author>Kos Franc</author>
-               <title>Iz domače zgodovine (doba od 843-867)</title>
-               <page>110</page>
-               <citedIn count="1">
-                  <cit did="425"
-                       cid="113"
-                       avtor0="Kos Franc"
-                       naslov0="Iz domače zgodovine (doba od 843-867)"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       issue="7"
-                       page="110"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Apih Josip</author>
-               <title>K obrtni politiki 18. veka</title>
-               <page>66</page>
-               <citedIn count="2">
-                  <cit did="1244"
-                       cid="1"
-                       avtor0="Apih Josip"
-                       naslov0="K obrtni politiki 18. veka"
-                       source="Izvestja muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="4"
-                       page="66"/>
-                  <cit did="254"
-                       cid="1"
-                       avtor0="Apih Josip"
-                       naslov0="K obrtni politiki 18. veka"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="4"
-                       page="66"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Barle J.</author>
-               <author>Barle Janko</author>
-               <title>Kronologična vrsta velesovskih prednic</title>
-               <page>237-242</page>
-               <citedIn count="2">
-                  <cit did="775"
-                       cid="5"
-                       avtor0="Barle J."
-                       naslov0="Kronologična vrsta velesovskih prednic"
-                       source="IMK"
-                       year="0"
-                       volume="4"
-                       page="237-242"/>
-                  <cit did="2647"
-                       cid="10"
-                       avtor0="Barle Janko"
-                       naslov0="Kronologična vrsta velesovskih prednic"
-                       source="IMK"
-                       year="0"
-                       volume="4"
-                       page="237-242"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kloblar Anton</author>
-               <title>Star urbar v ljubljanskem kapiteljskem arhivu</title>
-               <page>85</page>
-               <citedIn count="1">
-                  <cit did="2583"
-                       cid="93"
-                       avtor0="Kloblar Anton"
-                       naslov0="Star urbar v ljubljanskem kapiteljskem arhivu"
-                       source="IMK"
-                       year="0"
-                       volume="5"
-                       page="85"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Koblar A.</author>
-               <title>Cesta čez Ljubelj in ljubeljski piramidi,</title>
-               <page>218-225</page>
-               <citedIn count="1">
-                  <cit did="2640"
-                       cid="88"
-                       avtor0="Koblar A."
-                       naslov0="Cesta čez Ljubelj in ljubeljski piramidi,"
-                       source="IMK"
-                       year="0"
-                       volume="3"
-                       page="218-225"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Koblar Anton</author>
-               <title>Cene in mezde v Ljubljani 1. 1524</title>
-               <page>85</page>
-               <citedIn count="1">
-                  <cit did="2583"
-                       cid="44"
-                       avtor0="Koblar Anton"
-                       naslov0="Cene in mezde v Ljubljani 1. 1524"
-                       source="IMK"
-                       year="0"
-                       volume="5"
-                       page="85"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Koblar Anton</author>
                <title>O človeški kugi na Kranjskem</title>
                <page>39-55</page>
                <citedIn count="1">
                   <cit did="923"
-                       cid="10"
-                       avtor0="Koblar Anton"
-                       naslov0="O človeški kugi na Kranjskem"
-                       source="Izvestja muzejskega društva za Kranjsko"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="39-55"/>
+                     cid="10"
+                     avtor0="Koblar Anton"
+                     naslov0="O človeški kugi na Kranjskem"
+                     source="Izvestja muzejskega društva za Kranjsko"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="39-55"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Koblar Anton</author>
-               <title>Pasijonske igre na Kranjskem</title>
-               <page>110-125</page>
-               <citedIn count="1">
-                  <cit did="1912"
-                       cid="62"
-                       avtor0="Koblar Anton"
-                       naslov0="Pasijonske igre na Kranjskem"
-                       source="Izvestja Muzejskega drustva za Kranjsko II"
-                       year="0"
-                       page="110-125"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Koblar Anton</author>
-               <title>Zemeljski potresi na Slovenskem</title>
-               <page>68-77</page>
-               <citedIn count="1">
-                  <cit did="2056"
-                       cid="26"
-                       avtor0="Koblar Anton"
-                       naslov0="Zemeljski potresi na Slovenskem"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       page="68-77"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Mauring J. E.</author>
-               <title>Utemeljitev mesta Višnje Gore</title>
-               <page>30-32</page>
-               <citedIn count="1">
-                  <cit did="1422"
-                       cid="23"
-                       avtor0="Mauring J. E."
-                       naslov0="Utemeljitev mesta Višnje Gore"
-                       source="Izvestja Muzejska društva za Kranjsko"
-                       year="0"
-                       page="30-32"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>P(intar) L.</author>
-               <title>Sostro-Osterberg</title>
-               <page>133-136</page>
-               <citedIn count="1">
-                  <cit did="918"
-                       cid="12"
-                       avtor0="P(intar) L."
-                       naslov0="Sostro-Osterberg"
-                       source="Izvestja muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="9"
-                       page="133-136"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Prenner K.</author>
-               <author>Prenner Karl</author>
-               <title>Die Schärfenberge und ihre Seitenlinien in Kram</title>
-               <title>Schärfenberge und ihre Seitenlinie  in Krain</title>
-               <page>161-182</page>
-               <page>161-162</page>
-               <citedIn count="2">
-                  <cit did="2631"
-                       cid="275"
-                       avtor0="Prenner K."
-                       naslov0="Die Schärfenberge und ihre Seitenlinien in Kram"
-                       source="Carniolia"
-                       year="0"
-                       volume="41"
-                       page="161-182"/>
-                  <cit did="918"
-                       cid="14"
-                       avtor0="Prenner Karl"
-                       naslov0="Schärfenberge und ihre Seitenlinie  in Krain"
-                       source="Carniola"
-                       year="0"
-                       volume="41"
-                       page="161-162"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Sv. Križ vipavski</title>
-               <page>126-150</page>
-               <citedIn count="2">
-                  <cit did="2239"
-                       cid="13"
-                       avtor0="Rutar Simon"
-                       naslov0="Sv. Križ vipavski"
-                       source="Izvestja muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="2"
-                       page="126-150"/>
-                  <cit did="1422"
-                       cid="38"
-                       avtor0="Rutar Simon"
-                       naslov0="Sv. Križ vipavski"
-                       source="Izvestja muzejskega društva za Kranjsko II"
-                       year="0"
-                       page="126-150"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
+         </issue>
+      </year>
+      <year n="0">
+         <issue>
+           <pubPart>
                <author>Rutar Simon</author>
                <title>Šilentabor</title>
                <page>204-205</page>
@@ -6237,60 +6266,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"
                        volume="7"
                        page="204-205"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Steska Viktor</author>
-               <title>Academia Operosorum</title>
-               <page>37-54</page>
-               <page>77-94</page>
-               <citedIn count="2">
-                  <cit did="1912"
-                       cid="130"
-                       avtor0="Steska Viktor"
-                       naslov0="Academia Operosorum"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="10"
-                       issue="2"
-                       page="37-54"/>
-                  <cit did="2049"
-                       cid="24"
-                       avtor0="Steska Viktor"
-                       naslov0="Academia Operosorum"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       volume="10"
-                       issue="7"
-                       page="77-94"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vrhovnih Ivan</author>
-               <title>Marijino znamenje na sv. Jakoba trgu v Ljubljani</title>
-               <page>206-209</page>
-               <citedIn count="1">
-                  <cit did="1738"
-                       cid="40"
-                       avtor0="Vrhovnih Ivan"
-                       naslov0="Marijino znamenje na sv. Jakoba trgu v Ljubljani"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       page="206-209"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vrhovnik Ivan</author>
-               <title>Škofa Hrena spomenik</title>
-               <page>238-241</page>
-               <citedIn count="1">
-                  <cit did="1738"
-                       cid="41"
-                       avtor0="Vrhovnik Ivan"
-                       naslov0="Škofa Hrena spomenik"
-                       source="Izvestja Muzejskega društva za Kranjsko"
-                       year="0"
-                       page="238-241"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -6339,6 +6314,58 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1898">
+         <issue>
+            <pubPart>
+               <author>Vrhovec Ivan</author>
+               <title>Meščanski špital</title>
+               <citedIn count="1">
+                  <cit did="2612"
+                     cid="159"
+                     avtor0="Vrhovec Ivan"
+                     naslov0="Meščanski špital"
+                     source="Letopis Matice slovenske za leto"
+                     pubPlace="Ljubljana"
+                     year="0"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1894">
+         <issue>
+            <pubPart>
+               <author>Apih Jožef</author>
+               <title>Ustanovitev narodne šole na Slovenskem</title>
+               <title>Drugi del</title>
+               <page>146-233</page>
+               <citedIn count="1">
+                  <cit did="922"
+                     cid="2"
+                     avtor0="Apih Jožef"
+                     naslov0="Ustanovitev narodne šole na Slovenskem"
+                     naslov1="Drugi del"
+                     source="Letopis matice slovenske"
+                     year="0"
+                     volume="27"
+                     page="146-233"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Murko Matija</author>
+               <title>Jan Kollár</title>
+               <page>63-137</page>
+               <citedIn count="1">
+                  <cit did="29"
+                     cid="415"
+                     avtor0="Murko Matija"
+                     naslov0="Jan Kollár"
+                     source="Letopis Matice slovenske (LMS)"
+                     year="0"
+                     page="63-137"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1893">
          <issue>
             <pubPart>
@@ -6352,6 +6379,63 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        naslov0="Pijanost in blaznost"
                        source="Letopis Matice Slovenske za leto 1893"
                        page="164-172"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1892">
+         <issue>
+            <pubPart>
+               <author>Steklasa Ivan</author>
+               <title>Jošt Josip Turn</title>
+               <page>87-120</page>
+               <citedIn count="1">
+                  <cit did="2604"
+                     cid="120"
+                     avtor0="Steklasa Ivan"
+                     naslov0="Jošt Josip Turn"
+                     source="Letopis Matice Slovenske za leto 1892"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="87-120"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1890">
+         <issue>
+            <pubPart>
+               <author>Apih Josip</author>
+               <title>Deželni stanovi kranjski od 1818-1847</title>
+               <page>165-167</page>
+               <citedIn count="1">
+                  <cit did="1691"
+                     cid="10"
+                     avtor0="Apih Josip"
+                     naslov0="Deželni stanovi kranjski od 1818-1847"
+                     source="Letopis matice slovenske za leto 1890"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="165-167"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1889">
+         <issue>
+            <pubPart>
+               <author>Steklasa I.</author>
+               <title>Herbart Turjaški (1528-1575)</title>
+               <page>121</page>
+               <citedIn count="1">
+                  <cit did="258"
+                     cid="16"
+                     avtor0="Steklasa I."
+                     naslov0="Herbart Turjaški (1528-1575)"
+                     source="Letopis Matice slovenske za leto 1889"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     page="121"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -6469,6 +6553,42 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1884">
+         <issue>
+            <pubPart>
+               <author>Vošnjak Josip</author>
+               <title>Ob agrarnem vprašanji</title>
+               <page>53-113</page>
+               <citedIn count="3">
+                  <cit did="120"
+                     cid="14"
+                     avtor0="Vošnjak Josip"
+                     naslov0="O agrarnem vprašanji"
+                     source="Letopis Matice Slovenske za leto 1884"
+                     publisher="Matica Slovenska"
+                     year="0"
+                     page="53"/>
+                  <cit did="27"
+                     cid="14"
+                     avtor0="Vošnjak Josip"
+                     naslov0="Ob agrarnem vprašanju"
+                     source="Letopis Matice Slovenske za leto 1884"
+                     pubPlace="Ljubljana"
+                     publisher="Matica slovenska"
+                     year="0"
+                     page="46"/>
+                  <cit did="2871"
+                     cid="100"
+                     avtor0="Vošnjak Josip"
+                     naslov0="Ob agrarnem vprašanju"
+                     source=""
+                     publisher="Letopis Matice Slovenske za leto 1884, Matica Slovenska"
+                     year="0"
+                     page="53-113"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1883">
          <issue>
             <pubPart>
@@ -6482,6 +6602,61 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Letopis Matice slovenske za leto 1882-1883"
                        pubPlace="Ljubljana"
                        year="1883"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1878">
+         <issue>
+            <pubPart>
+               <author>Radics Peter</author>
+               <title>Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti</title>
+               <page>1-33</page>
+               <citedIn count="1">
+                  <cit did="1738"
+                     cid="22"
+                     avtor0="Radics Peter"
+                     naslov0="Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti"
+                     source="Letopis Matice slovenske"
+                     year="0"
+                     page="1-33"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1872-1873">
+         <issue>
+            <pubPart>
+               <author>Parapat Janez</author>
+               <title>Doneski k zgodovini samostana Velesovskega</title>
+               <page>18-32</page>
+               <citedIn count="1">
+                  <cit did="2622"
+                     cid="46"
+                     avtor0="Parapat Janez"
+                     naslov0="Doneski k zgodovini samostana Velesovskega"
+                     source="Letopis Matice slovenske za leto 1872-1873"
+                     page="18-32"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1871">
+         <issue>
+            <pubPart>
+               <author>Parapat Janez</author>
+               <title>Turški boji v XV. in XVI. veku s posebnim ozirom na Slovence</title>
+               <page>1-158</page>
+               <citedIn count="1">
+                  <cit did="441"
+                     cid="40"
+                     avtor0="Parapat Janez"
+                     naslov0="Turški boji v XV. in XVI. veku s posebnim ozirom na Slovence"
+                     source="Letopis Matice slovenske za leto 1871"
+                     pubPlace="Ljubljana"
+                     publisher="Matica slovenska"
+                     year="0"
+                     page="1-158"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -6520,191 +6695,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="54-60"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>27</volume>
-         <issue>
-            <pubPart>
-               <author>Apih Josip</author>
-               <title>Deželni stanovi kranjski od 1818-1847</title>
-               <page>165-167</page>
-               <citedIn count="1">
-                  <cit did="1691"
-                       cid="10"
-                       avtor0="Apih Josip"
-                       naslov0="Deželni stanovi kranjski od 1818-1847"
-                       source="Letopis matice slovenske za leto 1890"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="165-167"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Apih Jožef</author>
-               <title>Ustanovitev narodne šole na Slovenskem</title>
-               <title>Drugi del</title>
-               <page>146-233</page>
-               <citedIn count="1">
-                  <cit did="922"
-                       cid="2"
-                       avtor0="Apih Jožef"
-                       naslov0="Ustanovitev narodne šole na Slovenskem"
-                       naslov1="Drugi del"
-                       source="Letopis matice slovenske"
-                       year="0"
-                       volume="27"
-                       page="146-233"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Murko Matija</author>
-               <title>Jan Kollár</title>
-               <page>63-137</page>
-               <citedIn count="1">
-                  <cit did="29"
-                       cid="415"
-                       avtor0="Murko Matija"
-                       naslov0="Jan Kollár"
-                       source="Letopis Matice slovenske (LMS)"
-                       year="0"
-                       page="63-137"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Parapat Janez</author>
                <title>Doneski k zgodovini kranjskih mest III.</title>
                <page>125-144</page>
                <citedIn count="1">
                   <cit did="2622"
-                       cid="45"
-                       avtor0="Parapat Janez"
-                       naslov0="Doneski k zgodovini kranjskih mest III."
-                       source="Letopis Matice slovenske za leto 1876"
-                       pubPlace="Kamnik"
-                       year="0"
-                       page="125-144"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Parapat Janez</author>
-               <title>Doneski k zgodovini samostana Velesovskega</title>
-               <page>18-32</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="46"
-                       avtor0="Parapat Janez"
-                       naslov0="Doneski k zgodovini samostana Velesovskega"
-                       source="Letopis Matice slovenske za leto 1872-1873"
-                       page="18-32"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Parapat Janez</author>
-               <title>Turški boji v XV. in XVI. veku s posebnim ozirom na Slovence</title>
-               <page>1-158</page>
-               <citedIn count="1">
-                  <cit did="441"
-                       cid="40"
-                       avtor0="Parapat Janez"
-                       naslov0="Turški boji v XV. in XVI. veku s posebnim ozirom na Slovence"
-                       source="Letopis Matice slovenske za leto 1871"
-                       pubPlace="Ljubljana"
-                       publisher="Matica slovenska"
-                       year="0"
-                       page="1-158"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radics Peter</author>
-               <title>Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti</title>
-               <page>1-33</page>
-               <citedIn count="1">
-                  <cit did="1738"
-                       cid="22"
-                       avtor0="Radics Peter"
-                       naslov0="Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti"
-                       source="Letopis Matice slovenske"
-                       year="0"
-                       page="1-33"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Steklasa I.</author>
-               <title>Herbart Turjaški (1528-1575)</title>
-               <page>121</page>
-               <citedIn count="1">
-                  <cit did="258"
-                       cid="16"
-                       avtor0="Steklasa I."
-                       naslov0="Herbart Turjaški (1528-1575)"
-                       source="Letopis Matice slovenske za leto 1889"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="121"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Steklasa Ivan</author>
-               <title>Jošt Josip Turn</title>
-               <page>87-120</page>
-               <citedIn count="1">
-                  <cit did="2604"
-                       cid="120"
-                       avtor0="Steklasa Ivan"
-                       naslov0="Jošt Josip Turn"
-                       source="Letopis Matice Slovenske za leto 1892"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="87-120"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vošnjak Josip</author>
-               <title>O agrarnem vprašanji</title>
-               <title>Ob agrarnem vprašanju</title>
-               <page>53</page>
-               <page>46</page>
-               <page>53-113</page>
-               <citedIn count="3">
-                  <cit did="120"
-                       cid="14"
-                       avtor0="Vošnjak Josip"
-                       naslov0="O agrarnem vprašanji"
-                       source="Letopis Matice Slovenske za leto 1884"
-                       publisher="Matica Slovenska"
-                       year="0"
-                       page="53"/>
-                  <cit did="27"
-                       cid="14"
-                       avtor0="Vošnjak Josip"
-                       naslov0="Ob agrarnem vprašanju"
-                       source="Letopis Matice Slovenske za leto 1884"
-                       pubPlace="Ljubljana"
-                       publisher="Matica slovenska"
-                       year="0"
-                       page="46"/>
-                  <cit did="2871"
-                       cid="100"
-                       avtor0="Vošnjak Josip"
-                       naslov0="Ob agrarnem vprašanju"
-                       source=""
-                       publisher="Letopis Matice Slovenske za leto 1884, Matica Slovenska"
-                       year="0"
-                       page="53-113"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vrhovec Ivan</author>
-               <title>Meščanski špital</title>
-               <citedIn count="1">
-                  <cit did="2612"
-                       cid="159"
-                       avtor0="Vrhovec Ivan"
-                       naslov0="Meščanski špital"
-                       source="Letopis Matice slovenske za leto"
-                       pubPlace="Ljubljana"
-                       year="0"/>
+                     cid="45"
+                     avtor0="Parapat Janez"
+                     naslov0="Doneski k zgodovini kranjskih mest III."
+                     source="Letopis Matice slovenske za leto 1876"
+                     pubPlace="Kamnik"
+                     year="0"
+                     page="125-144"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7550,6 +7553,74 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1900">
+         <issue>
+            <pubPart>
+               <author>Aškerc Anton</author>
+               <title>Prva slovenska umetniška razstava</title>
+               <page>679</page>
+               <citedIn count="1">
+                  <cit did="1001"
+                     cid="1"
+                     avtor0="Aškerc Anton"
+                     naslov0="Prva slovenska umetniška razstava"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="20"
+                     page="679"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Pahor Lavoslav</author>
+               <title>Ljubljanska meščanska godba</title>
+               <page>706-707</page>
+               <citedIn count="1">
+                  <cit did="370"
+                     cid="56"
+                     avtor0="Pahor Lavoslav"
+                     naslov0="Ljubljanska meščanska godba"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="20"
+                     page="706-707"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>H kritikam moje "Beneške Slovenije"</title>
+               <page>518-519</page>
+               <citedIn count="1">
+                  <cit did="42"
+                     cid="3"
+                     avtor0="Rutar Simon"
+                     naslov0="H kritikam moje &#34;Beneške Slovenije&#34;"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="20"
+                     page="518-519"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1899">
+         <issue>
+            <pubPart>
+               <author>Vidic Fran</author>
+               <title>Vodnikov anakreontizem</title>
+               <page>562-564</page>
+               <citedIn count="1">
+                  <cit did="1005"
+                     cid="10"
+                     avtor0="Vidic Fran"
+                     naslov0="Vodnikov anakreontizem"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="19"
+                     page="562-564"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1897">
          <volume>17</volume>
          <issue n="8">
@@ -7567,6 +7638,85 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        volume="17"
                        issue="8"
                        page="473-476"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Nadlišek Marica</author>
+               <title>Pod streho</title>
+               <citedIn count="1">
+                  <cit did="226"
+                     cid="147"
+                     avtor0="Nadlišek Marica"
+                     naslov0="Pod streho"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="17"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Vidic F.</author>
+               <title>Dr. V. Oblak v Macedoniji</title>
+               <page>16-20</page>
+               <citedIn count="3">
+                  <cit did="2323"
+                     cid="3"
+                     avtor0="Vidic F."
+                     naslov0="Dr. V. Oblak v Macedoniji"
+                     source="Ljubljanski zvon"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     volume="17"
+                     page="16-20"/>
+                  <cit did="2323"
+                     cid="2"
+                     avtor0="Vidic F."
+                     naslov0="Dr. Vatroslav Oblak"
+                     source="Ljubljanski zvon"
+                     pubPlace="Ljubljana"
+                     year="0"
+                     volume="16"
+                     page="310-312"/>
+                  <cit did="2276"
+                     cid="10"
+                     avtor0="Vidic Fran"
+                     naslov0="Dr. Vatroslav Oblak"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     page="312"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1896">
+         <issue>
+            <pubPart>
+               <author>Nadlišek Marica</author>
+               <title>Slike in sličice iz življenja</title>
+               <page>504-506</page>
+               <citedIn count="1">
+                  <cit did="226"
+                     cid="146"
+                     avtor0="Nadlišek Marica"
+                     naslov0="Slike in sličiče iz žviljenja"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="16"
+                     issue="6"
+                     page="504-506"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Göstl F.</author>
+               <title>Gojitev opere in operete v Slovencih</title>
+               <citedIn count="1">
+                  <cit did="727"
+                     cid="12"
+                     avtor0="Göstl F."
+                     naslov0="Gojitev opere in operete v Slovencih"
+                     source="Ljubljanski zvon"
+                     pubPlace="Ljubljana"
+                     publisher="Tisk Narodne tiskarne"
+                     year="0"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7610,6 +7760,34 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="433-437"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>Dve stari slovenski pesmi</title>
+               <page>62-64</page>
+               <citedIn count="1">
+                  <cit did="1317"
+                     cid="238"
+                     avtor0="Rutar Simon"
+                     naslov0="Dve stari slovenski pesmi"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="14"
+                     page="62-64"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>Lavrin Andrej Jožef</title>
+               <citedIn count="1">
+                  <cit did="1317"
+                     cid="239"
+                     avtor0="Rutar Simon"
+                     naslov0="Lavrin Andrej Jožef"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="14"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1893">
@@ -7628,6 +7806,20 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        pubPlace="Ljubljana"
                        volume="13"
                        page="170-172"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Radics Peter</author>
+               <title>Anton Linhart</title>
+               <page>88-89</page>
+               <citedIn count="1">
+                  <cit did="257"
+                     cid="10"
+                     avtor0="Radics Peter"
+                     naslov0="Anton Linhart"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     page="88-89"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7670,6 +7862,53 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        volume="10"
                        issue="11"
                        page="656-664"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+         <issue>
+            <pubPart>
+            <author>Mejač A.</author>
+            <title>Narodno blago iz komendske okolice</title>
+            <page>354-358</page>
+            <citedIn count="1">
+               <cit did="751"
+                  cid="36"
+                  avtor0="Mejač A."
+                  naslov0="Narodno blago iz komendske okolice"
+                  source="Ljubljanski zvon"
+                  pubPlace="Ljubljana"
+                  year="0"
+                  page="354-358"/>
+            </citedIn>
+         </pubPart>
+         </issue>
+      </year>
+      <year n="1889">
+         <issue>
+            <pubPart>
+               <author>Gustin Jožef</author>
+               <title>Ganglov »Vodnik«</title>
+               <page>57-59</page>
+               <citedIn count="1">
+                  <cit did="1635"
+                     cid="15"
+                     avtor0="Gustin Jožef"
+                     naslov0="Ganglov »Vodnik«"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     page="57-59"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Wiesthaler Fran</author>
+               <title>Slavnostni govor ob odkritji Vodnikovega spomenika v Ljubljani dne 30. junija 1889</title>
+               <citedIn count="1">
+                  <cit did="1635"
+                     cid="57"
+                     avtor0="Wiesthaler Fran"
+                     naslov0="Slavnostni govor ob odkritji Vodnikovega spomenika v Ljubljani dne 30. junija 1889"
+                     source="Ljubljanski zvon"
+                     year="0"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -7728,6 +7967,34 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      page="33"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Radics Peter</author>
+               <title>Prva slovenska ustavna listina Kranjske</title>
+               <citedIn count="1">
+                  <cit did="29"
+                     cid="401"
+                     avtor0="Radič Peter"
+                     naslov0="Prva slovenska ustavna listina Kranjske"
+                     source="Ljubljanski zvon"
+                     year="0"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1885">
+         <issue>
+            <pubPart>
+               <author>Aškerc Anton</author>
+               <title>Celjska romanca</title>
+               <citedIn count="1">
+                  <cit did="236"
+                     cid="6"
+                     avtor0="Aškerc Anton"
+                     naslov0="Celjska romanca"
+                     source="Ljubljanski zvon"
+                     year="0"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1884">
@@ -7748,80 +8015,40 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="368-370"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>4</volume>
-         <volume>16</volume>
-         <volume>20</volume>
-         <volume>3</volume>
-         <volume>17</volume>
-         <volume>14</volume>
-         <volume>19</volume>
-         <issue n="4">
             <pubPart>
                <author>Robidovčeva F.</author>
                <title>Beseda o ženstvu</title>
                <page>236</page>
                <citedIn count="1">
                   <cit did="226"
-                       cid="170"
-                       avtor0="Robidovčeva F."
-                       naslov0="Beseda o ženstvu"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="4"
-                       issue="4"
-                       page="236"/>
+                     cid="170"
+                     avtor0="Robidovčeva F."
+                     naslov0="Beseda o ženstvu"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="4"
+                     issue="4"
+                     page="236"/>
                </citedIn>
             </pubPart>
-         </issue>
-         <issue n="6">
             <pubPart>
-               <author>Nadlišek Marica</author>
-               <title>Slike in sličiče iz žviljenja</title>
-               <page>504-506</page>
+               <author>Žvab L.</author>
+               <title>Črtica o Primoži Trubarji</title>
+               <page>41-45</page>
                <citedIn count="1">
-                  <cit did="226"
-                       cid="146"
-                       avtor0="Nadlišek Marica"
-                       naslov0="Slike in sličiče iz žviljenja"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="16"
-                       issue="6"
-                       page="504-506"/>
+                  <cit did="2070"
+                     cid="23"
+                     avtor0="Žvab L."
+                     naslov0="Črtica o Primoži Trubarji"
+                     source="Ljubljanski zvon. Leposloven in znanstven list IV"
+                     year="0"
+                     page="41-45"/>
                </citedIn>
             </pubPart>
          </issue>
+      </year>
+      <year n="1883">
          <issue>
-            <pubPart>
-               <author>Aškerc Anton</author>
-               <title>Celjska romanca</title>
-               <citedIn count="1">
-                  <cit did="236"
-                       cid="6"
-                       avtor0="Aškerc Anton"
-                       naslov0="Celjska romanca"
-                       source="Ljubljanski zvon"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Aškerc Anton</author>
-               <title>Prva slovenska umetniška razstava</title>
-               <page>679</page>
-               <citedIn count="1">
-                  <cit did="1001"
-                       cid="1"
-                       avtor0="Aškerc Anton"
-                       naslov0="Prva slovenska umetniška razstava"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="20"
-                       page="679"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Celestin Fran</author>
                <title>Naše obzorje</title>
@@ -7835,71 +8062,90 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <cobiss>31784802</cobiss>
                <citedIn count="8">
                   <cit did="1030"
-                       cid="7"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="1"
-                       page="39-52"/>
+                     cid="7"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="1"
+                     page="39-52"/>
                   <cit did="1030"
-                       cid="1"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="2"
-                       page="113-119"/>
+                     cid="1"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="2"
+                     page="113-119"/>
                   <cit did="1030"
-                       cid="6"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="7"
-                       page="454-457"/>
+                     cid="6"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="7"
+                     page="454-457"/>
                   <cit did="1030"
-                       cid="2"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="3"
-                       page="169-172"/>
+                     cid="2"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="3"
+                     page="169-172"/>
                   <cit did="17"
-                       cid="18"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       cobiss="31784802"
-                       source="Ljubljanski zvon"
-                       volume="3"
-                       page="39-52"/>
+                     cid="18"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     cobiss="31784802"
+                     source="Ljubljanski zvon"
+                     volume="3"
+                     page="39-52"/>
                   <cit did="1030"
-                       cid="3"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="4"
-                       page="236-243"/>
+                     cid="3"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="4"
+                     page="236-243"/>
                   <cit did="1030"
-                       cid="4"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="5"
-                       page="320-327"/>
+                     cid="4"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="5"
+                     page="320-327"/>
                   <cit did="1030"
-                       cid="5"
-                       avtor0="Celestin Fran"
-                       naslov0="Naše obzorje"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       issue="6"
-                       page="394-398"/>
+                     cid="5"
+                     avtor0="Celestin Fran"
+                     naslov0="Naše obzorje"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     issue="6"
+                     page="394-398"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Rutar Simon</author>
+               <title>Štefan Kocjančič</title>
+               <page>331-335</page>
+               <citedIn count="1">
+                  <cit did="39"
+                     cid="35"
+                     avtor0="Rutar Simon"
+                     naslov0="Štefan Kocjančič"
+                     source="Ljubljanski zvon"
+                     year="0"
+                     volume="3"
+                     page="331-335"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="0">
+         <issue>
             <pubPart>
                <author>Fekonja Andrej</author>
                <title>Književna poročila</title>
@@ -7912,34 +8158,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Ljubljanski zvon"
                        year="0"
                        page="694-700"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Gustin Jožef</author>
-               <title>Ganglov »Vodnik«</title>
-               <page>57-59</page>
-               <citedIn count="1">
-                  <cit did="1635"
-                       cid="15"
-                       avtor0="Gustin Jožef"
-                       naslov0="Ganglov »Vodnik«"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       page="57-59"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Göstl F.</author>
-               <title>Gojitev opere in operete v Slovencih</title>
-               <citedIn count="1">
-                  <cit did="727"
-                       cid="12"
-                       avtor0="Göstl F."
-                       naslov0="Gojitev opere in operete v Slovencih"
-                       source="Ljubljanski zvon"
-                       pubPlace="Ljubljana"
-                       publisher="Tisk Narodne tiskarne"
-                       year="0"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -7956,75 +8174,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Mejač A.</author>
-               <title>Narodno blago iz komendske okolice</title>
-               <page>354-358</page>
-               <citedIn count="1">
-                  <cit did="751"
-                       cid="36"
-                       avtor0="Mejač A."
-                       naslov0="Narodno blago iz komendske okolice"
-                       source="Ljubljanski zvon"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       page="354-358"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Nadlišek Marica</author>
-               <title>Pod streho</title>
-               <citedIn count="1">
-                  <cit did="226"
-                       cid="147"
-                       avtor0="Nadlišek Marica"
-                       naslov0="Pod streho"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="17"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Pahor Lavoslav</author>
-               <title>Ljubljanska meščanska godba</title>
-               <page>706-707</page>
-               <citedIn count="1">
-                  <cit did="370"
-                       cid="56"
-                       avtor0="Pahor Lavoslav"
-                       naslov0="Ljubljanska meščanska godba"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="20"
-                       page="706-707"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radics Peter</author>
-               <title>Anton Linhart</title>
-               <page>88-89</page>
-               <citedIn count="1">
-                  <cit did="257"
-                       cid="10"
-                       avtor0="Radics Peter"
-                       naslov0="Anton Linhart"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       page="88-89"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radič Peter</author>
-               <title>Prva slovenska ustavna listina Kranjske</title>
-               <citedIn count="1">
-                  <cit did="29"
-                       cid="401"
-                       avtor0="Radič Peter"
-                       naslov0="Prva slovenska ustavna listina Kranjske"
-                       source="Ljubljanski zvon"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
                <author>Rutar Simon</author>
                <page>761-767</page>
                <citedIn count="1">
@@ -8035,146 +8184,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"
                        volume="4"
                        page="761-767"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Dve stari slovenski pesmi</title>
-               <page>62-64</page>
-               <citedIn count="1">
-                  <cit did="1317"
-                       cid="238"
-                       avtor0="Rutar Simon"
-                       naslov0="Dve stari slovenski pesmi"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="14"
-                       page="62-64"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>H kritikam moje "Beneške Slovenije"</title>
-               <page>518-519</page>
-               <citedIn count="1">
-                  <cit did="42"
-                       cid="3"
-                       avtor0="Rutar Simon"
-                       naslov0="H kritikam moje &#34;Beneške Slovenije&#34;"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="20"
-                       page="518-519"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Lavrin Andrej Jožef</title>
-               <citedIn count="1">
-                  <cit did="1317"
-                       cid="239"
-                       avtor0="Rutar Simon"
-                       naslov0="Lavrin Andrej Jožef"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="14"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Štefan Kocjančič</title>
-               <page>331-335</page>
-               <citedIn count="1">
-                  <cit did="39"
-                       cid="35"
-                       avtor0="Rutar Simon"
-                       naslov0="Štefan Kocjančič"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="3"
-                       page="331-335"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vidic F.</author>
-               <title>Dr. V. Oblak v Macedoniji</title>
-               <page>16-20</page>
-               <citedIn count="1">
-                  <cit did="2323"
-                       cid="3"
-                       avtor0="Vidic F."
-                       naslov0="Dr. V. Oblak v Macedoniji"
-                       source="Ljubljanski zvon"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       volume="17"
-                       page="16-20"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vidic F.</author>
-               <author>Vidic Fran</author>
-               <title>Dr. Vatroslav Oblak</title>
-               <page>310-312</page>
-               <page>312</page>
-               <citedIn count="2">
-                  <cit did="2323"
-                       cid="2"
-                       avtor0="Vidic F."
-                       naslov0="Dr. Vatroslav Oblak"
-                       source="Ljubljanski zvon"
-                       pubPlace="Ljubljana"
-                       year="0"
-                       volume="16"
-                       page="310-312"/>
-                  <cit did="2276"
-                       cid="10"
-                       avtor0="Vidic Fran"
-                       naslov0="Dr. Vatroslav Oblak"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       page="312"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Vidic Fran</author>
-               <title>Vodnikov anakreontizem</title>
-               <page>562-564</page>
-               <citedIn count="1">
-                  <cit did="1005"
-                       cid="10"
-                       avtor0="Vidic Fran"
-                       naslov0="Vodnikov anakreontizem"
-                       source="Ljubljanski zvon"
-                       year="0"
-                       volume="19"
-                       page="562-564"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Wiesthaler Fran</author>
-               <title>Slavnostni govor ob odkritji Vodnikovega spomenika v Ljubljani dne 30. junija 1889</title>
-               <citedIn count="1">
-                  <cit did="1635"
-                       cid="57"
-                       avtor0="Wiesthaler Fran"
-                       naslov0="Slavnostni govor ob odkritji Vodnikovega spomenika v Ljubljani dne 30. junija 1889"
-                       source="Ljubljanski zvon"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Žvab L.</author>
-               <title>Črtica o Primoži Trubarji</title>
-               <page>41-45</page>
-               <citedIn count="1">
-                  <cit did="2070"
-                       cid="23"
-                       avtor0="Žvab L."
-                       naslov0="Črtica o Primoži Trubarji"
-                       source="Ljubljanski zvon. Leposloven in znanstven list IV"
-                       year="0"
-                       page="41-45"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9009,15 +9018,71 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1874">
+         <volume>29</volume>
+         <issue>
+            <pubPart>
+               <author>Orožen Ignacij</author>
+               <author>Orožen Ignaz</author>
+               <title>Die Vesten Klausenstein und Holenstein</title>
+               <title>Die Vesten Klausenstein und 1 lolenstein</title>
+               <page>235-237</page>
+               <citedIn count="2">
+                  <cit did="775"
+                     cid="147"
+                     avtor0="Orožen Ignacij"
+                     naslov0="Die Vesten Klausenstein und Holenstein"
+                     source="MHVSt"
+                     year="0"
+                     volume="29"
+                     page="235-237"/>
+                  <cit did="2647"
+                     cid="247"
+                     avtor0="Orožen Ignaz"
+                     naslov0="Die Vesten Klausenstein und 1 lolenstein"
+                     source="MHVSt"
+                     year="0"
+                     volume="29"
+                     page="235-237"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1868">
+         <issue>
+            <pubPart>
+               <author>Dimitz August</author>
+               <title>Fortsetzung der Reihenfolge der Landesverweser und Landesverwalter von Valvasor bis zum Jahre 1742</title>
+               <page>60-61</page>
+               <citedIn count="2">
+                  <cit did="2632"
+                     cid="19"
+                     avtor0="Dimitz August"
+                     naslov0="Fortsetzung der Reihenfolge der Landesverweser und Landesverwalter von Valvasor bis zum Jahre 1742"
+                     source="Mittheilungen des historischen Vereins für Krain 23."
+                     pubPlace="Laibach"
+                     year="0"
+                     page="60-61"/>
+                  <cit did="2623"
+                     cid="37"
+                     avtor0="Dimitz August"
+                     naslov0="Fortsetzung der Reihenfolge der Landesverweser und Landesxerwalier vom Vahasor bis zum Jahre 1742"
+                     source="MHVK"
+                     year="0"
+                     volume="23"
+                     page="60-61"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1867">
          <volume>22</volume>
-         <volume>4</volume>
          <issue n="4">
             <pubPart>
                <author>Dimitz August</author>
                <title>Urkunden zur Geschichte der Reformation in Krain aus den Jahren 1540 bis 1634</title>
                <page>43-124</page>
-               <citedIn count="3">
+               <citedIn count="4">
                   <cit did="3082"
                        cid="23"
                        avtor0="Dimitz August"
@@ -9042,13 +9107,21 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Mittheilungen des historischen Vereins für Krain"
                        year="1867"
                        volume="22"/>
+                  <cit did="2589"
+                     cid="6"
+                     avtor0="Dimitz August"
+                     naslov0="Urkunden zur Geschichte der Reformation in Krain aus den Jalmn 1540 bis 1634"
+                     source="Muttheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="22"
+                     page="81-119"/>
                </citedIn>
             </pubPart>
-         </issue>
+         </issue> 
       </year>
       <year n="1866">
-         <volume>XXI</volume>
-         <volume>4</volume>
+         <volume>21</volume>
+         <volume></volume>
          <issue>
             <pubPart>
                <author>Bidermann Dr.</author>
@@ -9072,6 +9145,29 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="1866"
                        volume="4"
                        page="24-26"/>
+                  <cit did="2622"
+                     cid="2"
+                     avtor0="Bidermann Hermann Ignaz"
+                     naslov0="Carniolica"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="21"
+                     page="24-26"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Krones F.</author>
+               <title>Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze</title>
+               <page>106-136</page>
+               <citedIn count="1">
+                  <cit did="1761"
+                     cid="117"
+                     avtor0="Krones F."
+                     naslov0="Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze"
+                     source="MHVSt"
+                     year="0"
+                     volume="21"
+                     page="106-136"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9094,6 +9190,53 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="2"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Elze Theodor</author>
+               <title>Urkunden-Regesten aus dem gräflich Auersperg' schen Archiv in Auersperg</title>
+               <page>11-13</page>
+               <citedIn count="1">
+                  <cit did="2622"
+                     cid="11"
+                     avtor0="Elze Theodor"
+                     naslov0="Urkunden-Regesten aus dem gräflich Auersperg' schen Archiv in Auersperg"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="16"
+                     page="11-13"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Hitzinger Peter</author>
+               <title>Nachträge zur 500-jährigen Grundungsfeier von Neustadtl (Rudolfswert)</title>
+               <page>106-109</page>
+               <citedIn count="1">
+                  <cit did="1298"
+                     cid="14"
+                     avtor0="Hitzinger Peter"
+                     naslov0="Nachträge zur 500-jährigen Grundungsfeier von Neustadtl (Rudolfswert)"
+                     source="Mittheilungen des Historischen Vereines für Krain"
+                     pubPlace="Laibach"
+                     year="0"
+                     issue="XX"
+                     page="106-109"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Dimitz August</author>
+               <title>Urkunden-Regesten aus dem gräflich Aucrsperg'schen Archive zu Auersperg. Zweite Folge</title>
+               <page>3-6</page>
+               <citedIn count="1">
+                  <cit did="2622"
+                     cid="10"
+                     avtor0="Dimitz August"
+                     naslov0="Urkunden-Regesten aus dem gräflich Aucrsperg'schen Archive zu Auersperg. Zweite Folge"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="20"
+                     page="3-6"/>
+               </citedIn>
+            </pubPart>
+            
          </issue>
       </year>
       <year n="1864">
@@ -9112,7 +9255,36 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="1-2"/>
                </citedIn>
             </pubPart>
-         </issue>
+            <pubPart>
+               <author>Dimitz August</author>
+               <title>Zur Geschichte der Städte und Märkte in Krain</title>
+               <page>55-58</page>
+               <citedIn count="1">
+                  <cit did="1422"
+                     cid="6"
+                     avtor0="Dimitz August"
+                     naslov0="Zur Geschichte der Städte und Märkte in Krain"
+                     source="Mittheilungen des historischen Vereins für Krain XIX"
+                     year="0"
+                     page="55-58"/>
+               </citedIn>
+            </pubPart>
+         <pubPart>
+            <author>Dimitz August</author>
+            <title>Die Edlinger im Sägor (Sagor): Ein Beitrag zur Rechtsgeschichte Krains im Mittelalter</title>
+            <page>15-17</page>
+            <citedIn count="1">
+               <cit did="2583"
+                  cid="19"
+                  avtor0="Dimitz August"
+                  naslov0="Die Edlinger im Sägor (Sagor): Ein Beitrag zur Rechtsgeschichte Krains im Mittelalter"
+                  source="MHVK"
+                  year="0"
+                  volume="19"
+                  page="15-17"/>
+            </citedIn>
+         </pubPart>
+        </issue>
       </year>
       <year n="1863">
          <issue>
@@ -9154,102 +9326,229 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="1862"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Hitzinger Peter</author>
+               <title>Zur Geschichte des Geschlechts der Auersperge</title>
+               <page>43</page>
+               <citedIn count="1">
+                  <cit did="2623"
+                     cid="83"
+                     avtor0="Hitzinger Peter"
+                     naslov0="Zur Geschichte des Geschlechts der Auersperge"
+                     source="MHVK"
+                     year="0"
+                     volume="17"
+                     page="43"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>21</volume>
-         <volume>12</volume>
-         <volume>14</volume>
-         <volume>22</volume>
-         <volume>16</volume>
-         <volume>20</volume>
-         <volume>19</volume>
-         <volume>23</volume>
-         <volume>15</volume>
-         <volume>17</volume>
-         <volume>7</volume>
-         <volume>10</volume>
-         <volume>29</volume>
-         <volume>31</volume>
-         <volume>6</volume>
-         <volume>4</volume>
-         <volume>13</volume>
+      <year n="1861">
          <issue>
             <pubPart>
-               <author>Bidermann Hermann Ignaz</author>
-               <title>Carniolica</title>
-               <page>24-26</page>
+               <author>Elze Theodor</author>
+               <title>Primus Truber's Denkmal in Derendingen</title>
+               <page>63</page>
                <citedIn count="1">
-                  <cit did="2622"
-                       cid="2"
-                       avtor0="Bidermann Hermann Ignaz"
-                       naslov0="Carniolica"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="21"
-                       page="24-26"/>
+                  <cit did="2268"
+                     cid="3"
+                     avtor0="Elze Theodor"
+                     naslov0="Primus Truber's Denkmal in Derendingen"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="16"
+                     page="63"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1860">
+         <issue>
+            <pubPart>
+               <author>Dimitz August</author>
+               <title>Vereins-Nachrichten</title>
+               <page>20-22</page>
+               <citedIn count="1">
+                  <cit did="2623"
+                     cid="39"
+                     avtor0="Dimitz August"
+                     naslov0="Vereins-Nachrichten"
+                     source="MHVK"
+                     year="0"
+                     volume="15"
+                     page="20-22"/>
                </citedIn>
             </pubPart>
             <pubPart>
-               <author>Chmel Joseph</author>
-               <title>Arbeiten in Krain für die Monumema Habsburgica</title>
-               <page>98-100</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="8"
-                       avtor0="Chmel Joseph"
-                       naslov0="Arbeiten in Krain für die Monumema Habsburgica"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="12"
-                       page="98-100"/>
+               <author>Hitzinger P.</author>
+               <author>Hitzinger Peter</author>
+               <title>Kurze Geschichte der Herrschaft Adelsberg</title>
+               <page>73-74</page>
+               <citedIn count="2">
+                  <cit did="775"
+                     cid="65"
+                     avtor0="Hitzinger P."
+                     naslov0="Kurze Geschichte der Herrschaft Adelsberg"
+                     source="MHVK"
+                     year="0"
+                     volume="15"
+                     page="73-74"/>
+                  <cit did="2647"
+                     cid="111"
+                     avtor0="Hitzinger Peter"
+                     naslov0="Kurze Geschichte der Herrschaft Adelsberg"
+                     source="MHVK 15"
+                     year="0"
+                     page="73-74"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1859">
+         <volume>14</volume>
+         <issue>
             <pubPart>
                <author>Costa E.H.</author>
                <title>Ein Beitrag zur Geschichte des Ständewesens in Krain</title>
                <page>29-31</page>
                <citedIn count="1">
                   <cit did="257"
-                       cid="1"
-                       avtor0="Costa E.H."
-                       naslov0="Ein Beitrag zur Geschichte des Ständewesens in Krain"
-                       source="Mittheilungen des Historischen Vereins für Krain"
-                       year="0"
-                       volume="14"
-                       page="29-31"/>
+                     cid="1"
+                     avtor0="Costa E.H."
+                     naslov0="Ein Beitrag zur Geschichte des Ständewesens in Krain"
+                     source="Mittheilungen des Historischen Vereins für Krain"
+                     year="0"
+                     volume="14"
+                     page="29-31"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1857">
+         <volume>12</volume>
+         <issue>
+            <pubPart>
+               <author>Chmel Joseph</author>
+               <title>Arbeiten in Krain für die Monumema Habsburgica</title>
+               <page>98-100</page>
+               <citedIn count="1">
+                  <cit did="2622"
+                     cid="8"
+                     avtor0="Chmel Joseph"
+                     naslov0="Arbeiten in Krain für die Monumema Habsburgica"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="12"
+                     page="98-100"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Jelouschek Anton</author>
+               <title>Historische und topographische Nachrichten über das Mineralbad Töplitz bei Neustadtl. IV. Anhang: Genealogie der Auersperge</title>
+               <page>30-31</page>
+               <citedIn count="1">
+                  <cit did="2623"
+                     cid="95"
+                     avtor0="Jelouschek Anton"
+                     naslov0="Historische und topographische Nachrichten über das Mineralbad Töplitz bei Neustadtl. IV. Anhang: Genealogie der Auersperge"
+                     source="MHVK"
+                     year="0"
+                     volume="12"
+                     page="30-31"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1856">
+         <volume>11</volume>
+         <issue>
             <pubPart>
                <author>Costa Ethbin Heinrich</author>
                <title>Die Ehre Krains</title>
                <page>49-55</page>
                <citedIn count="1">
                   <cit did="2638"
-                       cid="98"
-                       avtor0="Costa Ethbin Heinrich"
-                       naslov0="Die Ehre Krains"
-                       source="Mittheilungen des historischen Vereines für Krain"
-                       year="0"
-                       page="49-55"/>
+                     cid="98"
+                     avtor0="Costa Ethbin Heinrich"
+                     naslov0="Die Ehre Krains"
+                     source="Mittheilungen des historischen Vereines für Krain"
+                     year="0"
+                     page="49-55"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1855">
+         <volume>10</volume>
+         <issue>
             <pubPart>
-               <author>Dimitz August</author>
-               <title>Fortsetzung der Reihenfolge der Landesverweser und Landesverwalter von Valvasor bis zum Jahre 1742</title>
-               <page>60-61</page>
-               <citedIn count="1">
-                  <cit did="2632"
-                       cid="19"
-                       avtor0="Dimitz August"
-                       naslov0="Fortsetzung der Reihenfolge der Landesverweser und Landesverwalter von Valvasor bis zum Jahre 1742"
-                       source="Mittheilungen des historischen Vereins für Krain 23."
-                       pubPlace="Laibach"
-                       year="0"
-                       page="60-61"/>
+               <author>Klun Vincenz F.</author>
+               <title>Beitrage zur Topografie und Statistik von Krain</title>
+               <title>Beiträge zur Topografie und Statistik von Krain</title>
+               <page>26-28</page>
+               <citedIn count="3">
+                  <cit did="2581"
+                     cid="7"
+                     avtor0="Klun Vincenz F."
+                     naslov0="Beitrage zur Topografie und Statistik von Krain"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="10"
+                     page="26-28"/>
+                  <cit did="2622"
+                     cid="18"
+                     avtor0="Klun Vincenz F."
+                     naslov0="Beiträge zur Topografie und Statistik von Krain"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     volume="10"
+                     page="26-28"/>
+                  <cit did="2623"
+                     cid="99"
+                     avtor0="Klun Vincenz F."
+                     naslov0="Beiträge zur Topografie und Statistik von Krain"
+                     source="MHVK"
+                     year="0"
+                     volume="10"
+                     page="26-28"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1852">
+         <volume>7</volume>
+         <issue>
             <pubPart>
+               <author>Klun Vincenc</author>
+               <author>Klun Vincenz F.</author>
+               <title>Verzeichniss der aus dem vormals bischöflich freisingen'schen, nun staatsherrschaftlichem Archive zu Lak überkommen Acten und Urkunden</title>
+               <title>Verzeichniß der aus dem vormals bischöflich freisingenschen nun staatsherrschaftlichem Archive zu Lak überkomenen Acten und Urkunden</title>
+               <page>41-47</page>
+               <page>49-54</page>
+               <citedIn count="2">
+                  <cit did="917"
+                     cid="16"
+                     avtor0="Klun Vincenc"
+                     naslov0="Verzeichniss der aus dem vormals bischöflich freisingen'schen, nun staatsherrschaftlichem Archive zu Lak überkommen Acten und Urkunden"
+                     source="Mittheilungen des Historischen Vereins für Krain"
+                     year="0"
+                     volume="7"
+                     page="41-47"/>
+                  <cit did="2583"
+                     cid="43"
+                     avtor0="Klun Vincenz F."
+                     naslov0="Verzeichniß der aus dem vormals bischöflich freisingenschen nun staatsherrschaftlichem Archive zu Lak überkomenen Acten und Urkunden"
+                     source="MHVK"
+                     year="0"
+                     volume="7"
+                     page="49-54"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="0">
+         <issue>
+           <pubPart>
                <author>Dimitz August</author>
                <title>Heckenstallefs Frisingensia</title>
                <citedIn count="1">
@@ -9261,267 +9560,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Urkunden zur Geschichte der Reformation in Krain aus den Jalmn 1540 bis 1634</title>
-               <page>81-119</page>
-               <citedIn count="1">
-                  <cit did="2589"
-                       cid="6"
-                       avtor0="Dimitz August"
-                       naslov0="Urkunden zur Geschichte der Reformation in Krain aus den Jalmn 1540 bis 1634"
-                       source="Muttheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="22"
-                       page="81-119"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Zur Geschichte der Städte und Märkte in Krain</title>
-               <page>55-58</page>
-               <citedIn count="1">
-                  <cit did="1422"
-                       cid="6"
-                       avtor0="Dimitz August"
-                       naslov0="Zur Geschichte der Städte und Märkte in Krain"
-                       source="Mittheilungen des historischen Vereins für Krain XIX"
-                       year="0"
-                       page="55-58"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Elze Theodor</author>
-               <title>Primus Truber's Denkmal in Derendingen</title>
-               <page>63</page>
-               <citedIn count="1">
-                  <cit did="2268"
-                       cid="3"
-                       avtor0="Elze Theodor"
-                       naslov0="Primus Truber's Denkmal in Derendingen"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="16"
-                       page="63"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Elze Theodor</author>
-               <title>Urkunden-Regesten aus dem gräflich Auersperg' schen Archiv in Auersperg</title>
-               <page>11-13</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="11"
-                       avtor0="Elze Theodor"
-                       naslov0="Urkunden-Regesten aus dem gräflich Auersperg' schen Archiv in Auersperg"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="16"
-                       page="11-13"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Urkunden-Regesten aus dem gräflich Aucrsperg'schen Archive zu Auersperg. Zweite Folge</title>
-               <page>3-6</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="10"
-                       avtor0="Dimitz August"
-                       naslov0="Urkunden-Regesten aus dem gräflich Aucrsperg'schen Archive zu Auersperg. Zweite Folge"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="20"
-                       page="3-6"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Die Edlinger im Sägor (Sagor): Ein Beitrag zur Rechtsgeschichte Krains im Mittelalter</title>
-               <page>15-17</page>
-               <citedIn count="1">
-                  <cit did="2583"
-                       cid="19"
-                       avtor0="Dimitz August"
-                       naslov0="Die Edlinger im Sägor (Sagor): Ein Beitrag zur Rechtsgeschichte Krains im Mittelalter"
-                       source="MHVK"
-                       year="0"
-                       volume="19"
-                       page="15-17"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Fortsetzung der Reihenfolge der Landesverweser und Landesxerwalier vom Vahasor bis zum Jahre 1742</title>
-               <page>60-61</page>
-               <citedIn count="1">
-                  <cit did="2623"
-                       cid="37"
-                       avtor0="Dimitz August"
-                       naslov0="Fortsetzung der Reihenfolge der Landesverweser und Landesxerwalier vom Vahasor bis zum Jahre 1742"
-                       source="MHVK"
-                       year="0"
-                       volume="23"
-                       page="60-61"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Dimitz August</author>
-               <title>Vereins-Nachrichten</title>
-               <page>20-22</page>
-               <citedIn count="1">
-                  <cit did="2623"
-                       cid="39"
-                       avtor0="Dimitz August"
-                       naslov0="Vereins-Nachrichten"
-                       source="MHVK"
-                       year="0"
-                       volume="15"
-                       page="20-22"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Hitzinger P.</author>
-               <author>Hitzinger Peter</author>
-               <title>Kurze Geschichte der Herrschaft Adelsberg</title>
-               <page>73-74</page>
-               <citedIn count="2">
-                  <cit did="775"
-                       cid="65"
-                       avtor0="Hitzinger P."
-                       naslov0="Kurze Geschichte der Herrschaft Adelsberg"
-                       source="MHVK"
-                       year="0"
-                       volume="15"
-                       page="73-74"/>
-                  <cit did="2647"
-                       cid="111"
-                       avtor0="Hitzinger Peter"
-                       naslov0="Kurze Geschichte der Herrschaft Adelsberg"
-                       source="MHVK 15"
-                       year="0"
-                       page="73-74"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Hitzinger Peter</author>
-               <title>Zur Geschichte des Geschlechts der Auersperge</title>
-               <page>43</page>
-               <citedIn count="1">
-                  <cit did="2623"
-                       cid="83"
-                       avtor0="Hitzinger Peter"
-                       naslov0="Zur Geschichte des Geschlechts der Auersperge"
-                       source="MHVK"
-                       year="0"
-                       volume="17"
-                       page="43"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Hitzinger Peter</author>
-               <title>Nachträge zur 500-jährigen Grundungsfeier von Neustadtl (Rudolfswert)</title>
-               <page>106-109</page>
-               <citedIn count="1">
-                  <cit did="1298"
-                       cid="14"
-                       avtor0="Hitzinger Peter"
-                       naslov0="Nachträge zur 500-jährigen Grundungsfeier von Neustadtl (Rudolfswert)"
-                       source="Mittheilungen des Historischen Vereines für Krain"
-                       pubPlace="Laibach"
-                       year="0"
-                       issue="XX"
-                       page="106-109"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Jelouschek Anton</author>
-               <title>Historische und topographische Nachrichten über das Mineralbad Töplitz bei Neustadtl. IV. Anhang: Genealogie der Auersperge</title>
-               <page>30-31</page>
-               <citedIn count="1">
-                  <cit did="2623"
-                       cid="95"
-                       avtor0="Jelouschek Anton"
-                       naslov0="Historische und topographische Nachrichten über das Mineralbad Töplitz bei Neustadtl. IV. Anhang: Genealogie der Auersperge"
-                       source="MHVK"
-                       year="0"
-                       volume="12"
-                       page="30-31"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Klun Vincenc</author>
-               <author>Klun Vincenz F.</author>
-               <title>Verzeichniss der aus dem vormals bischöflich freisingen'schen, nun staatsherrschaftlichem Archive zu Lak überkommen Acten und Urkunden</title>
-               <title>Verzeichniß der aus dem vormals bischöflich freisingenschen nun staatsherrschaftlichem Archive zu Lak überkomenen Acten und Urkunden</title>
-               <page>41-47</page>
-               <page>49-54</page>
-               <citedIn count="2">
-                  <cit did="917"
-                       cid="16"
-                       avtor0="Klun Vincenc"
-                       naslov0="Verzeichniss der aus dem vormals bischöflich freisingen'schen, nun staatsherrschaftlichem Archive zu Lak überkommen Acten und Urkunden"
-                       source="Mittheilungen des Historischen Vereins für Krain"
-                       year="0"
-                       volume="7"
-                       page="41-47"/>
-                  <cit did="2583"
-                       cid="43"
-                       avtor0="Klun Vincenz F."
-                       naslov0="Verzeichniß der aus dem vormals bischöflich freisingenschen nun staatsherrschaftlichem Archive zu Lak überkomenen Acten und Urkunden"
-                       source="MHVK"
-                       year="0"
-                       volume="7"
-                       page="49-54"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Klun Vincenz F.</author>
-               <title>Beitrage zur Topografie und Statistik von Krain</title>
-               <title>Beiträge zur Topografie und Statistik von Krain</title>
-               <page>26-28</page>
-               <citedIn count="3">
-                  <cit did="2581"
-                       cid="7"
-                       avtor0="Klun Vincenz F."
-                       naslov0="Beitrage zur Topografie und Statistik von Krain"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="10"
-                       page="26-28"/>
-                  <cit did="2622"
-                       cid="18"
-                       avtor0="Klun Vincenz F."
-                       naslov0="Beiträge zur Topografie und Statistik von Krain"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="10"
-                       page="26-28"/>
-                  <cit did="2623"
-                       cid="99"
-                       avtor0="Klun Vincenz F."
-                       naslov0="Beiträge zur Topografie und Statistik von Krain"
-                       source="MHVK"
-                       year="0"
-                       volume="10"
-                       page="26-28"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Krones F.</author>
-               <title>Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze</title>
-               <page>106-136</page>
-               <citedIn count="1">
-                  <cit did="1761"
-                       cid="117"
-                       avtor0="Krones F."
-                       naslov0="Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze"
-                       source="MHVSt"
-                       year="0"
-                       volume="21"
-                       page="106-136"/>
-               </citedIn>
-            </pubPart>
+            
+            
+                
+            
+            
             <pubPart>
                <author>Leinmüller Josef</author>
                <author>Leinmüller Joseph</author>
@@ -9544,31 +9587,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Orožen Ignacij</author>
-               <author>Orožen Ignaz</author>
-               <title>Die Vesten Klausenstein und Holenstein</title>
-               <title>Die Vesten Klausenstein und 1 lolenstein</title>
-               <page>235-237</page>
-               <citedIn count="2">
-                  <cit did="775"
-                       cid="147"
-                       avtor0="Orožen Ignacij"
-                       naslov0="Die Vesten Klausenstein und Holenstein"
-                       source="MHVSt"
-                       year="0"
-                       volume="29"
-                       page="235-237"/>
-                  <cit did="2647"
-                       cid="247"
-                       avtor0="Orožen Ignaz"
-                       naslov0="Die Vesten Klausenstein und 1 lolenstein"
-                       source="MHVSt"
-                       year="0"
-                       volume="29"
-                       page="235-237"/>
-               </citedIn>
-            </pubPart>
+            
             <pubPart>
                <author>Orožen Ignacij</author>
                <author>Orožen Ignaz</author>
