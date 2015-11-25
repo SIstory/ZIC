@@ -12,14 +12,12 @@
    </docMetadata>
    <source>
       <pubTitle>Časopis za slovenski jezik, književnost in zgodovino</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in literaturo</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in kulturo</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in zgodovino, 4</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in zgodovino 3</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in zgodovino 1</pubTitle>
-      <pubTitle>Časopis za slovenski jezik, književnost in zgodovino (Ljubljana) II</pubTitle>
+      <pubAddTitle>ČJKZ</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Matica Slovenska</publisher>
+      <publisher>Prijatelji slovenske znanosti</publisher>
+      <issn>1580-8718</issn>
+      <pubCobiss>32913409</pubCobiss>
       <year n="1927">
          <volume>5</volume>
          <issue>
@@ -306,14 +304,12 @@
       </year>
    </source>
    <source>
-      <pubTitle>Čas: znanstvena revija Leonove družbe</pubTitle>
-      <pubTitle>Čas: Revija Leonove družbe</pubTitle>
-      <pubTitle>Čas. Znanstvena revija Leonove družbe</pubTitle>
-      <pubTitle>Čas, zvezek 8-9</pubTitle>
-      <pubTitle>Čas, znanstvena revija Leonove družbe</pubTitle>
-      <pubTitle>Čas : revija Leonove družbe</pubTitle>
       <pubTitle>Čas</pubTitle>
+      <pubTitle>Revija Leonove družbe</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Leonova družba</publisher>
+      <issn>1318-7465</issn>
+      <pubCobiss>4675843</pubCobiss>
       <year n="1942">
          <volume>20</volume>
          <issue>
@@ -1181,7 +1177,11 @@
    </source>
    <source>
       <pubTitle>Demokracija</pubTitle>
-      <pubTitle>Demokracija.</pubTitle>
+      <pubTitle>socijalistična revija</pubTitle>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Slovenska socijalna matica</publisher>
+      <issn>1580-9633</issn>
+      <pubCobiss>32913921</pubCobiss>
       <year n="1919">
          <issue>
             <pubPart>
@@ -1311,41 +1311,11 @@
    </source>
    <source>
       <pubTitle>Dom in svet</pubTitle>
-      <pubTitle>Dom in svet: zabavi in pouku</pubTitle>
-      <pubTitle>Dom in svet: Ilustrovan list za leposlovje in znanost</pubTitle>
-      <pubTitle>Dom in svet. List s podobami za leposlovje in znanstvo</pubTitle>
-      <pubTitle>Dom in svet, letnik XXI</pubTitle>
-      <pubTitle>Dom in svet, Ilustrovani list za leposlovje in znanstvo</pubTitle>
-      <pubTitle>Dom in svet, Ilustriran list za leposlovje in znanstvo</pubTitle>
-      <pubTitle>Dom in svet XV</pubTitle>
-      <pubTitle>Dom in svet III. Zabavi in pouku</pubTitle>
-      <pubTitle>Dom in svet : zabavi in pouku</pubTitle>
-      <pubTitle>Dom in svet 24</pubTitle>
-      <pubTitle>Dom in svet (30. 1. 1917)</pubTitle>
-      <pubTitle>Dom in svet (18. 3. 1935)</pubTitle>
-      <pubTitle>Dom in Svet</pubTitle>
+      <pubTitle>zabavi in pouku</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Ljubljan</pubPlace>
       <publisher>Katoliško tiskovno društvo</publisher>
-      <publisher>Katoliško tiskovno društvo.</publisher>
-      <year n="1988">
-         <issue>
-            <pubPart>
-               <author>Lampe Frančišek</author>
-               <title>Lepota in nravnost</title>
-               <page>142</page>
-               <citedIn count="1">
-                  <cit did="2635"
-                       cid="48"
-                       avtor0="Lampe Frančišek"
-                       naslov0="Lepota in nravnost"
-                       source="Dom in svet"
-                       year="1988"
-                       page="142"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
+      <issn>1318-8968</issn>
+      <pubCobiss>31722241</pubCobiss>
       <year n="1942">
          <volume>54</volume>
          <issue n="1-2">
@@ -2527,6 +2497,24 @@
             </pubPart>
          </issue>
       </year>
+      <year n="1888">
+         <issue>
+            <pubPart>
+               <author>Lampe Frančišek</author>
+               <title>Lepota in nravnost</title>
+               <page>142</page>
+               <citedIn count="1">
+                  <cit did="2635"
+                     cid="48"
+                     avtor0="Lampe Frančišek"
+                     naslov0="Lepota in nravnost"
+                     source="Dom in svet"
+                     year="1988"
+                     page="142"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="0">
          <volume>3</volume>
          <volume>VIII</volume>
@@ -2952,32 +2940,11 @@
    </source>
    <source>
       <pubTitle>Glasnik muzejskega društva za Slovenijo</pubTitle>
-      <pubTitle>Glasnik muzejskega društva za Slovenijo XX : zvezek 1-4</pubTitle>
-      <pubTitle>Glasnik muzejskega društva za Slovenijo 25-26 (1944-1945), 3-64.</pubTitle>
-      <pubTitle>Glasnik muzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Glasnik muzejskega drustva za Slovenijo</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Slovenijo, 17</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Slovenijo XX, Zvezek 1-4</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Slovenijo XX</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Slovenijo</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Slovenija XXIV.</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva Slovenije</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva
-            za Slovenijo</pubTitle>
-      <pubTitle>Glasnik Muzejskega društva</pubTitle>
-      <pubTitle>Glasnik Muzejskega drustva za Slovenijo XXIV.</pubTitle>
-      <pubTitle>Glasnik Muzejskega drustva za Slovenijo</pubTitle>
-      <pubTitle>Glasnik Muzejskega druslva za Slovenijo 1 (1919-1920)</pubTitle>
-      <pubTitle>Glasnik Muzejskega  društva za  Slovenijo</pubTitle>
-      <pubTitle>Posebni odtis iz Glasnika Muzejskega društva za Slovenijo let. 25-26 (1944-1945)</pubTitle>
-      <pubTitle>GMS</pubTitle>
       <pubTitle>GMDS</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Muzejsko društvo</publisher>
       <publisher>Muzejsko društvo za Slovenijo</publisher>
-      <publisher>Zbornik ob stoletnici društva 1839-1939</publisher>
-      <publisher>Muzejsko društvo za Slovenije</publisher>
+      <issn>1318-7473</issn>
+      <pubCobiss>4682243</pubCobiss>
       <year n="1945">
          <volume>25-26</volume>
          <issue>
@@ -4490,38 +4457,14 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Izvestja Muzejska društva za Kranjsko</pubTitle>
-      <pubTitle>IzvestjaMuzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Izvestja muzejskega društva za Kranjsko, 2 in 4</pubTitle>
-      <pubTitle>Izvestja muzejskega društva za Kranjsko II</pubTitle>
-      <pubTitle>Izvestja muzejskega društva za Kranjsko 8</pubTitle>
-      <pubTitle>Izvestja muzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Izvestja Muzejskega sruštva za Kranjsko</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko. XVII, 1907. 152-164.</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko let. X</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko XII</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko XI (1901)</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko XI</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko IX.</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko IX</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko II</pubTitle>
-      <pubTitle>Izvestja Muzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Izvestja Muzejskega drustva za Kranjsko II</pubTitle>
-      <pubTitle>Izvestja Muzejskega drustva za Kranjsko</pubTitle>
-      <pubTitle>Carniolia</pubTitle>
-      <pubTitle>Carniola: Izvestja Muzejskega društva za Kranjsko</pubTitle>
-      <pubTitle>Carniola I</pubTitle>
-      <pubTitle>Carniola : Izvestja Muzejskega društva za
-            Kranjsko : Mitteilungen des Museal-Vereines für Krain : Comptes-rendus de
-            l'Association du Musée de Carniole</pubTitle>
       <pubTitle>Carniola</pubTitle>
-      <pubTitle>IMK</pubTitle>
+      <pubTitle>Izvestja Muzejska društva za Kranjsko</pubTitle>
+      <pubAddTitle>Mitteilungen des Museal-Vereines für Krain</pubAddTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Laibach</pubPlace>
-      <publisher>Blaznik Jožef</publisher>
       <publisher>Muzejsko društvo za Kranjsko</publisher>
+      <issn>1580-0881</issn>
+      <pubCobiss>40269569</pubCobiss>
       <year n="1916">
-         <volume>n.v. 7</volume>
          <volume>7</volume>
          <issue>
             <pubPart>
@@ -6354,32 +6297,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Letopis Matice slovenske</pubTitle>
-      <pubTitle>Letopis matice slovenske za leto 1890</pubTitle>
-      <pubTitle>Letopis matice slovenske za leto 1886</pubTitle>
-      <pubTitle>Letopis matice slovenske za leto 1885</pubTitle>
-      <pubTitle>Letopis matice slovenske</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1889</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1885</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1882-1883</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1876</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1872-1873</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto 1871</pubTitle>
-      <pubTitle>Letopis Matice slovenske za leto</pubTitle>
-      <pubTitle>Letopis Matice slovenske (LMS)</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1893</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1892</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1886</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1885</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1884</pubTitle>
-      <pubTitle>Letopis Matice Slovenske za leto 1869</pubTitle>
-      <pubTitle>Letopis Matice Slovenske 1868</pubTitle>
+      <pubTitle>Letopis Matice Slovenske</pubTitle>
       <pubTitle>Letopis Matice Slovenske</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <pubPlace>Kamnik</pubPlace>
       <publisher>Matica Slovenska</publisher>
-      <publisher>Matica slovenska</publisher>
-      <publisher>Letopis Matice Slovenske za leto 1884, Matica Slovenska</publisher>
+      <issn>1580-9730</issn>
+      <pubCobiss>32712449</pubCobiss>
       <year n="1910">
          <issue>
             <pubPart>
@@ -6789,33 +6712,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Ljubljanski zvon</pubTitle>
-      <pubTitle>Ljubljanski zvon. št. 3-4</pubTitle>
-      <pubTitle>Ljubljanski zvon. Leposloven in znanstven list IV</pubTitle>
-      <pubTitle>Ljubljanski zvon, Leposloven in znanstven list</pubTitle>
+      <pubTitle>mesečna revija za leposlovje, književnost in kritiko</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Tiskovna zadruga</publisher>
-      <publisher>Tisk Narodne tiskarne</publisher>
-      <year n="1986">
-         <volume>6</volume>
-         <issue n="1">
-            <pubPart>
-               <author>Vrhovec Ivan</author>
-               <title>Iz domače zgodovine</title>
-               <page>33</page>
-               <citedIn count="1">
-                  <cit did="2270"
-                       cid="23"
-                       avtor0="Vrhovec Ivan"
-                       naslov0="Iz domače zgodovine"
-                       source="Ljubljanski zvon"
-                       year="1986"
-                       volume="6"
-                       issue="1"
-                       page="33"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
+      <issn>1408-5909</issn>
+      <pubCobiss>30001665</pubCobiss>
       <year n="1936">
          <issue>
             <pubPart>
@@ -7810,6 +7711,24 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                </citedIn>
             </pubPart>
          </issue>
+         <issue n="1">
+            <pubPart>
+               <author>Vrhovec Ivan</author>
+               <title>Iz domače zgodovine</title>
+               <page>33</page>
+               <citedIn count="1">
+                  <cit did="2270"
+                     cid="23"
+                     avtor0="Vrhovec Ivan"
+                     naslov0="Iz domače zgodovine"
+                     source="Ljubljanski zvon"
+                     year="1986"
+                     volume="6"
+                     issue="1"
+                     page="33"/>
+               </citedIn>
+            </pubPart>
+         </issue>
       </year>
       <year n="1884">
          <volume>8</volume>
@@ -8262,10 +8181,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Misel in delo : kulturna in socialna revija</pubTitle>
       <pubTitle>Misel in delo</pubTitle>
+      <pubTitle>kulturna in socialna revija</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Nasta</publisher>
+      <issn>1580-9757</issn>
+      <pubCobiss>31269889</pubCobiss>
       <year n="1941">
          <issue n="2-3">
             <pubPart>
@@ -8999,26 +8920,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Mittheilungen des historischen Vereins für Krain</pubTitle>
-      <pubTitle>Muttheilungen des historischen Vereins für Krain</pubTitle>
-      <pubTitle>Mittheilungen des historischen Verreins Für Krain, XX.</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereins für Krain, Vierzehnter Jahrgang</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereins für Krain XIX</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereins für Krain 23.</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereins für Krain 15</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereines für das Herzogthum Krain</pubTitle>
-      <pubTitle>Mittheilungen des historischen Vereines für Krain</pubTitle>
-      <pubTitle>Mittheilungen des Historischen Vereins für Krain</pubTitle>
-      <pubTitle>Mittheilungen des Historischen Vereines für Krain</pubTitle>
-      <pubTitle>Mittelungen des Historischen Vereins für Krain</pubTitle>
-      <pubTitle>Mitteilungen des Historischen Vereins für das Herzogthum Krain</pubTitle>
-      <pubTitle>Mitteilungen des Historischen Vereins für Krain</pubTitle>
-      <pubTitle>Mitteilungen des Historischen Vereines für Krain</pubTitle>
-      <pubTitle>MHVK 15</pubTitle>
-      <pubTitle>MHVK</pubTitle>
-      <pubTitle>MHVst</pubTitle>
-      <pubTitle>MHVSt 47</pubTitle>
-      <pubTitle>MHVSt</pubTitle>
       <pubPlace>Laibach</pubPlace>
+      <publisher>Historischen Verein</publisher>
+      <publisher>Tisk Ignaz Alois Edlen von Kleinmayr</publisher>
+      <issn>1580-9390</issn>
+      <pubCobiss>487539</pubCobiss>
       <year n="1904">
          <volume>17</volume>
          <issue>
@@ -9817,27 +9723,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Mittheilungen des Musealverains für Krain</pubTitle>
-      <pubTitle>Mittheilungen des Musealvereinse füf Krain</pubTitle>
-      <pubTitle>Mittheilungen des Musealvereines für Krain XII, 1899-Heft l, Heft ll</pubTitle>
       <pubTitle>Mittheilungen des Musealvereines für Krain</pubTitle>
-      <pubTitle>Mittheilungen des Musealvereines fur Krain</pubTitle>
-      <pubTitle>Mittheilungen des Musealvereines</pubTitle>
-      <pubTitle>Mittheilungen des Musealsvereines für Krain</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereins für Krain VI</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereins für Krain</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereins füf Krain</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereinesfur Krain XVII</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereines für Krein</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereines für Krain XVIII</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereines für Krain</pubTitle>
-      <pubTitle>Mitteilungen des Musealvereines fiür Krain</pubTitle>
-      <pubTitle>Mitteilungen des Musealverein für Krain XIV.</pubTitle>
-      <pubTitle>Mitteilungen des Museal-vereines fur Krain Jhrg. 18-20</pubTitle>
-      <pubTitle>Mitteilungen des Museal-Vereines für Krain Jhrg. 14</pubTitle>
-      <pubTitle>Mitteilungen des  Musealvereins für Krain XIV</pubTitle>
-      <pubTitle>Mit-teilungen des Musealvereins für Krain IV</pubTitle>
       <pubPlace>Laibach</pubPlace>
+      <publisher>Musealverein für Krain</publisher>
+      <issn>1580-0873</issn>
+      <pubCobiss>1206387</pubCobiss>
       <year n="1906">
          <issue>
             <pubPart>
@@ -10519,8 +10409,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Napredna misel</pubTitle>
-      <pubTitle>Napredna misel (rubrika Razno)</pubTitle>
-      <pubTitle>Napredna misel (Razno)</pubTitle>
+      <pubTitle>časopis za napredno kulturo</pubTitle>
+      <pubPlace>Krško</pubPlace>
+      <publisher>Mihajlo Rostohar</publisher>
+      <publisher>Zadružna tiskarna</publisher>
+      <issn>1580-9773</issn>
+      <issn>C503-0544</issn>
+      <pubCobiss>488307</pubCobiss>
       <year n="1913">
          <volume>2</volume>
          <issue n="1">
@@ -10817,9 +10712,14 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Naši zapiski</pubTitle>
+      <pubTitle>socialna revija</pubTitle>
       <pubPlace>Gorica</pubPlace>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Slovenska socialna Matica</publisher>
+      <issn>C503-1397</issn>
+      <issn>1580-982X</issn>
+      <pubCobiss>42015745</pubCobiss>
       <year n="1913">
-         <volume>X</volume>
          <volume>10</volume>
          <issue n="7-8">
             <pubPart>
@@ -11198,12 +11098,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Novo doba</pubTitle>
-      <pubTitle>Novo doba, 12.7. 1919</pubTitle>
-      <pubTitle>Nova doba 2</pubTitle>
       <pubTitle>Nova doba</pubTitle>
-      <pubPlace>Split</pubPlace>
       <pubPlace>Celje</pubPlace>
+      <publisher>Prese</publisher>
+      <issn>0353-8737</issn>
+      <pubCobiss>17971458</pubCobiss>
       <year n="2055">
          <issue>
             <pubPart>
@@ -11216,26 +11115,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        naslov0="Prispevki k zgodovini društvenega življenja celjskih Slovencev"
                        source="Nova doba"
                        year="2055"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1926">
-         <issue n="79">
-            <pubPart>
-               <author>Tadić Jorjo</author>
-               <title>Reforma vaspitanja dubrovačke mladeži god. 1557</title>
-               <page>19</page>
-               <citedIn count="1">
-                  <cit did="3193"
-                       cid="12"
-                       avtor0="Tadić Jorjo"
-                       naslov0="Reforma vaspitanja dubrovačke mladeži god. 1557"
-                       source="Novo doba"
-                       pubPlace="Split"
-                       year="1926"
-                       issue="79"
-                       page="19"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -11364,12 +11243,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Nova Evropa</pubTitle>
-      <pubTitle>Nova Evropa : 6. knjiga</pubTitle>
-      <pubTitle>Nova Evropa : 5. knjiga</pubTitle>
-      <pubTitle>Nova Evropa (26. 3. 1933)</pubTitle>
-      <pubTitle>Nova Evropa (26. 1. 1933)</pubTitle>
-      <pubTitle>Nova Evropa (11. 7. 1924)</pubTitle>
       <pubPlace>Zagreb</pubPlace>
+      <publisher>Nova Evropa</publisher>
+      <publisher>Tipografija grafičkog-nakladnog zavoda</publisher>
+      <issn>Y505-902X</issn>
+      <pubCobiss>3702643</pubCobiss>
       <year n="1933">
          <issue n="1">
             <pubPart>
@@ -11749,7 +11627,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Prosvetni delavec</pubTitle>
-      <pubTitle>Prosvetni delavec, 9.12. 1955</pubTitle>
+      <pubTitle>glasilo delavcev v vzgoji, izobraževanju in znanosti Slovenije</pubTitle>
+      <pubPlace>Ljubljana</pubPlace>
+      <publisher>Republiški odbor sindikata delavcev vzgoje, izobraževanja in znanosti</publisher>
+      <publisher>Izobraževalna skupnost Slovenije</publisher>
+      <issn>0033-1643</issn>
+      <pubCobiss>758276</pubCobiss>
       <year n="2015">
          <volume>3-4</volume>
          <issue n="3-4">
@@ -12072,45 +11955,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Slovanski svet : zemljepisna in statistična slika današnjega slovanstva</pubTitle>
-      <pubTitle>Slovanski svet : zemljepisna in statistična slika danešnjega slovanstva</pubTitle>
       <pubTitle>Slovanski svet</pubTitle>
-      <pubTitle>Slovanski Svet</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Omladina</publisher>
-      <year n="1911">
-         <issue>
-            <pubPart>
-               <author>Mačkovšek Janko</author>
-               <author>Mačovšek J.</author>
-               <title>Statistika Slovencev</title>
-               <page>245-260</page>
-               <page>251-254</page>
-               <cobiss>32023553</cobiss>
-               <citedIn count="2">
-                  <cit did="854"
-                       cid="40"
-                       avtor0="Mačkovšek Janko"
-                       naslov0="Statistika Slovencev"
-                       source="Slovanski svet : zemljepisna in statistična slika današnjega slovanstva"
-                       pubPlace="Ljubljana"
-                       publisher="Omladina"
-                       year="1911"
-                       page="245-260"/>
-                  <cit did="1014"
-                       cid="6"
-                       avtor0="Mačovšek J."
-                       naslov0="Statistika Slovencev"
-                       cobiss="32023553"
-                       source="Slovanski svet : zemljepisna in statistična slika danešnjega slovanstva"
-                       pubPlace="Ljubljana"
-                       publisher="Omladina"
-                       year="1911"
-                       page="251-254"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
+      <pubPlace>Trst</pubPlace>
+      <pubPlace>Dunaj</pubPlace>
+      <publisher>F. Podgornik</publisher>
+      <issn>1854-0910</issn>
+      <pubCobiss>42011393</pubCobiss>
       <year n="1895">
          <issue n="29">
             <pubPart>
@@ -12332,7 +12183,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Socialna misel</pubTitle>
+      <pubTitle>mesečnik za vse panoge socialnega in kulturnega življenja</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>Konzorcij</publisher>
+      <issn>1855-3206</issn>
+      <pubCobiss>4695811</pubCobiss>
       <year n="1926">
          <volume>5</volume>
          <volume>I</volume>
@@ -12667,9 +12522,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Socijalni arhivi</pubTitle>
       <pubTitle>Socijalni arhiv</pubTitle>
+      <pubTitle>službeni organ Središnje uprave za posredovanje rada u Beogradu</pubTitle>
       <pubPlace>Beograd</pubPlace>
+      <publisher>Središnja uprava za posredovanje rada</publisher>
+      <issn>0000-0000</issn>
+      <pubCobiss>5111667</pubCobiss>
       <year n="1940">
          <volume>VI</volume>
          <volume>6</volume>
@@ -13025,13 +12883,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Slovenski pravnik : glasilo društva "Pravnik" v Ljubljani</pubTitle>
-      <pubTitle>Slovenski pravnik</pubTitle>
-      <pubTitle>Slovenski Pravnik,</pubTitle>
-      <pubTitle>Slovenski Pravnik</pubTitle>
+      <pubTitle>Slovenski pravnik </pubTitle>
+      <pubTitle>glasilo društva "Pravnik" v Ljubljani</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
-      <publisher>Pravnik</publisher>
       <publisher>Društvo Pravnik</publisher>
+      <issn>1580-7428</issn>
+      <pubCobiss>4695299</pubCobiss>
       <year n="1940">
          <volume>54</volume>
          <issue n="11-12">
@@ -13514,10 +13371,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Svobodna mladina : mesečnik za sodobna slovenska kulturna vprašanja</pubTitle>
       <pubTitle>Svobodna mladina</pubTitle>
+      <pubTitle>mesečnik za sodobna slovenska kulturna vprašanja</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Konzorcij</publisher>
+      <issn>C504-9113</issn>
+      <issn>2350-403X</issn>
+      <pubCobiss>42414593</pubCobiss>
       <year n="1929">
          <volume>II</volume>
          <issue n="2-3">
@@ -13770,10 +13630,10 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Tehnika in gospodarstvo</pubTitle>
-      <pubTitle>tehnika in gospodarstvo</pubTitle>
-      <pubTitle>Gospodarstvo in tehnika</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Društvo Napredek</publisher>
+      <issn>2335-2582</issn>
+      <pubCobiss>1810547</pubCobiss>
       <year n="1940">
          <volume>6</volume>
          <issue n="3-4">
@@ -14190,31 +14050,11 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Učiteljski tovariš</pubTitle>
-      <pubTitle>Učiteljski tovariš. 15. avgust</pubTitle>
-      <pubTitle>Učiteljski tovariš. 1. julij.</pubTitle>
-      <pubTitle>Učiteljski tovariš, 15.2.1868</pubTitle>
-      <pubTitle>Učiteljski tovariš (UT)</pubTitle>
-      <pubTitle>Učiteljski tovariš (9. 7. 1926)</pubTitle>
-      <pubTitle>Učiteljski tovariš (8. 4. 1936/37)</pubTitle>
-      <pubTitle>Učiteljski tovariš (7. 1. 1920)</pubTitle>
-      <pubTitle>Učiteljski tovariš (5. 9. 1913)</pubTitle>
-      <pubTitle>Učiteljski tovariš (4. 2. 1920)</pubTitle>
-      <pubTitle>Učiteljski tovariš (29. 11. 1918)</pubTitle>
-      <pubTitle>Učiteljski tovariš (28. 7. 1919)</pubTitle>
-      <pubTitle>Učiteljski tovariš (28. 6. 1918)</pubTitle>
-      <pubTitle>Učiteljski tovariš (28. 4. 1926/27)</pubTitle>
-      <pubTitle>Učiteljski tovariš (27. 4. 1922)</pubTitle>
-      <pubTitle>Učiteljski tovariš (26. 6. 1920)</pubTitle>
-      <pubTitle>Učiteljski tovariš (25. 2. 1926)</pubTitle>
-      <pubTitle>Učiteljski tovariš (23. 6. 1920)</pubTitle>
-      <pubTitle>Učiteljski tovariš (22. 5. 1908)</pubTitle>
-      <pubTitle>Učiteljski tovariš (21. 4. 1921)</pubTitle>
-      <pubTitle>Učiteljski tovariš (2. 11. 1918)</pubTitle>
-      <pubTitle>Učiteljski tovariš (17. 9. 1909)</pubTitle>
-      <pubTitle>Učiteljski tovariš (15. 6. 1922)</pubTitle>
-      <pubTitle>Učiteljski tovariš (14. 10. 1926/27)</pubTitle>
-      <pubTitle>Učiteljski tovariš (13. 7. 1922)</pubTitle>
+      <pubTitle>stanovsko politično glasilo J.U.U.-sekcije za dravsko banovino v Ljubljani</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
+      <publisher>J.U.U.-sekcija za dravsko banovino</publisher>
+      <issn>1581-7296</issn>
+      <pubCobiss>4696067</pubCobiss>
       <year n="2011">
          <issue>
             <pubPart>
@@ -14685,10 +14525,10 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
    </source>
    <source>
       <pubTitle>Voditelj v bogoslovnih vedah</pubTitle>
-      <pubTitle>Voditlej v bogoslovnih vedah</pubTitle>
-      <pubTitle>Voditelj v blagoslovnih vedah</pubTitle>
-      <pubPlace>Ljubljana</pubPlace>
       <pubPlace>Maribor</pubPlace>
+      <publisher>Profesorji bogoslovnega učilišča</publisher>
+      <issn>C508-0355</issn>
+      <pubCobiss>4698371</pubCobiss>
       <year n="1916">
          <volume>19</volume>
          <issue>
@@ -15360,19 +15200,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Zbornik Matice Slovenske</pubTitle>
-      <pubTitle>zbornik Slovenske Matice</pubTitle>
-      <pubTitle>Zbornik, Slovenska matica</pubTitle>
-      <pubTitle>Zbornik slovenske matice</pubTitle>
-      <pubTitle>Zbornik Slovenske matice 6</pubTitle>
-      <pubTitle>Zbornik Slovenske matice</pubTitle>
-      <pubTitle>Zbornik Slovenske Matice</pubTitle>
-      <pubTitle>Zbornik SM</pubTitle>
-      <pubTitle>Zbornik Matice slovenske</pubTitle>
-      <pubTitle>Zbornik Matice Slovenske, XI: zvezek, Bleiweisov zbornik</pubTitle>
-      <pubTitle>Zbornik Matica Slovenska, XIV. zvezek</pubTitle>
+      <pubTitle>Zbornik</pubTitle>
+      <pubTitle>Slovenska matica</pubTitle>
       <pubPlace>Ljubljana</pubPlace>
       <publisher>Slovenska matica</publisher>
+      <issn>C503-387X</issn>
+      <issn>1855-4393</issn>
+      <pubCobiss>31142657</pubCobiss>
       <year n="1912">
          <issue>
             <pubPart>
@@ -15650,11 +15484,12 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       </year>
    </source>
    <source>
-      <pubTitle>Ženski svet : glasilo ženskih društev v Julijski krajini</pubTitle>
       <pubTitle>Ženski svet</pubTitle>
+      <pubTitle>glasilo ženskih društev v Julijski krajini</pubTitle>
       <pubPlace>Trst</pubPlace>
-      <pubPlace>Ljubljana</pubPlace>
       <publisher>Žensko dobrodelno udruženje</publisher>
+      <issn>1581-5862</issn>
+      <pubCobiss>4699907</pubCobiss>
       <year n="1940">
          <volume>18</volume>
          <issue>
