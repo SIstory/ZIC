@@ -8935,7 +8935,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       <issn>1580-9390</issn>
       <pubCobiss>487539</pubCobiss>
       <year n="1904">
-         <volume>17</volume>
          <issue>
             <pubPart>
                <author>Radics P.</author>
@@ -8952,56 +8951,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1899">
-         <volume>47</volume>
-         <issue>
-            <pubPart>
-               <author>Krones F.</author>
-               <author>Krones Franz</author>
-               <title>Der Herrenstand des Herzogtums Steier</title>
-               <page>65</page>
-               <citedIn count="2">
-                  <cit did="1761"
-                       cid="115"
-                       avtor0="Krones F."
-                       naslov0="Der Herrenstand des Herzogtums Steier"
-                       source="MHVSt"
-                       year="0"
-                       volume="47"
-                       page="65"/>
-                  <cit did="3439"
-                       cid="94"
-                       avtor0="Krones Franz"
-                       naslov0="Der Herrenstand des Herzogtums Steier"
-                       source="MHVSt 47"
-                       year="1899"
-                       volume="47"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1879">
-         <volume>21</volume>
-         <issue>
-            <pubPart>
-               <author>Krones Franz</author>
-               <title>Graf Hermann II. von Cilli. Eine geschichtliche Lebensskizze</title>
-               <page>106-136</page>
-               <citedIn count="1">
-                  <cit did="3439"
-                       cid="96"
-                       avtor0="Krones Franz"
-                       naslov0="Graf Hermann II. von Cilli. Eine geschichtliche Lebensskizze"
-                       source="MHVSt"
-                       year="1879"
-                       volume="21"
-                       page="106-136"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
       <year n="1895">
-         <volume>8</volume>
          <issue>
             <pubPart>
                <author>Kaspret Anton</author>
@@ -9018,37 +8968,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1874">
-         <volume>29</volume>
-         <issue>
-            <pubPart>
-               <author>Orožen Ignacij</author>
-               <author>Orožen Ignaz</author>
-               <title>Die Vesten Klausenstein und Holenstein</title>
-               <title>Die Vesten Klausenstein und 1 lolenstein</title>
-               <page>235-237</page>
-               <citedIn count="2">
-                  <cit did="775"
-                     cid="147"
-                     avtor0="Orožen Ignacij"
-                     naslov0="Die Vesten Klausenstein und Holenstein"
-                     source="MHVSt"
-                     year="0"
-                     volume="29"
-                     page="235-237"/>
-                  <cit did="2647"
-                     cid="247"
-                     avtor0="Orožen Ignaz"
-                     naslov0="Die Vesten Klausenstein und 1 lolenstein"
-                     source="MHVSt"
-                     year="0"
-                     volume="29"
-                     page="235-237"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="1868">
+     <year n="1868">
          <issue>
             <pubPart>
                <author>Dimitz August</author>
@@ -9155,21 +9075,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      page="24-26"/>
                </citedIn>
             </pubPart>
-            <pubPart>
-               <author>Krones F.</author>
-               <title>Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze</title>
-               <page>106-136</page>
-               <citedIn count="1">
-                  <cit did="1761"
-                     cid="117"
-                     avtor0="Krones F."
-                     naslov0="Graf Hermann II. von Cilli: eine geschichtliche Lebensskizze"
-                     source="MHVSt"
-                     year="0"
-                     volume="21"
-                     page="106-136"/>
-               </citedIn>
-            </pubPart>
          </issue>
       </year>
       <year n="1865">
@@ -9236,7 +9141,28 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      page="3-6"/>
                </citedIn>
             </pubPart>
-            
+            <pubPart>
+               <author>Leinmüller Josef</author>
+               <author>Leinmüller Joseph</author>
+               <title>Der Tabor zu Koschana</title>
+               <title>Der tabor zu Košana</title>
+               <page>65-69</page>
+               <citedIn count="2">
+                  <cit did="115"
+                     cid="3"
+                     avtor0="Leinmüller Josef"
+                     naslov0="Der Tabor zu Koschana"
+                     source="Mittheilungen des historischen Vereins für Krain"
+                     year="0"
+                     page="65-69"/>
+                  <cit did="117"
+                     cid="6"
+                     avtor0="Leinmüller Joseph"
+                     naslov0="Der tabor zu Košana"
+                     source="Mittheilungen des historischen Verreins Für Krain, XX."
+                     year="0"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1864">
@@ -9302,7 +9228,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="35-37"/>
                </citedIn>
             </pubPart>
-         </issue>
+          </issue>
       </year>
       <year n="1862">
          <issue>
@@ -9339,6 +9265,21 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      year="0"
                      volume="17"
                      page="43"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Radics Peter von</author>
+               <title>Über ein unser Krain betreffendes Manuskript in der Handbibliothek Sr. Majestät des Kaisers</title>
+               <page>37-42</page>
+               <citedIn count="1">
+                  <cit did="2623"
+                     cid="188"
+                     avtor0="Radics Peter von"
+                     naslov0="Ueber ein unser Krain betreffendes Manuscript in der Hauptbibliothek Sr. Majestät des Kaisers"
+                     source="MHVK"
+                     year="0"
+                     volume="17"
+                     page="37-42"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9402,6 +9343,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      page="73-74"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Radics Peter</author>
+               <title>Cypressus Labacensis etc.etc.</title>
+               <page>47-52</page>
+               <citedIn count="1">
+                  <cit did="2791"
+                     cid="30"
+                     avtor0="Radics Peter"
+                     naslov0="Cypressus Labacensis etc.etc."
+                     source="Mittheilungen des historischen Vereins für Krain 15"
+                     page="47-52"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1859">
@@ -9420,6 +9374,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      year="0"
                      volume="14"
                      page="29-31"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Radič Peter</author>
+               <title>Die Vermählung Erzherzogs Ferdinand (II.) mit Maria Anna von Baiern, 23. April 1600</title>
+               <citedIn count="1">
+                  <cit did="2612"
+                     cid="120"
+                     avtor0="Radič Peter"
+                     naslov0="Die Vermälung Erzherzogs Ferdinand (II.) mit Maria Anna von Baiern, 23. April 1600"
+                     source="Mittheilungen des historischen Vereins für Krain, Vierzehnter Jahrgang"
+                     pubPlace="Laibach"
+                     year="0"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9544,6 +9511,61 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                      page="49-54"/>
                </citedIn>
             </pubPart>
+       <pubPart>
+            <author>Ullepitsch Carl</author>
+            <title>Diplomatarium Carniolicum</title>
+            <title>Aus den Archivsmaterialien des historischen Vereins für Krain</title>
+            <page>48</page>
+            <citedIn count="1">
+               <cit did="2622"
+                  cid="65"
+                  avtor0="Ullepitsch Carl"
+                  naslov0="Diplomatarium Camiolicum. Aus den Archivsmaterialien des historischen Vereins für Krain"
+                  source="Mittheilungen des historischen Vereins für Krain"
+                  year="0"
+                  volume="4"
+                  page="48"/>
+            </citedIn>
+         </pubPart>
+         </issue>
+      </year>
+      <year n="1851">
+         <volume>6</volume>
+         <issue>
+            <pubPart>
+               <author>Puff R.</author>
+               <author>Puff Rudolph</author>
+               <title>Die Grafen von Schärfenberg</title>
+               <title>Die Schärfenberg</title>
+               <page>9-19</page>
+               <page>8-19</page>
+               <citedIn count="3">
+                  <cit did="2631"
+                     cid="280"
+                     avtor0="Puff R."
+                     naslov0="Die Grafen von Schärfenberg"
+                     source="Mitteilungen des Historischen Vereines für Krain"
+                     year="0"
+                     volume="6"
+                     page="9-19"/>
+                  <cit did="775"
+                     cid="179"
+                     avtor0="Puff R."
+                     naslov0="Die Schärfenberg"
+                     source="MHVK"
+                     year="0"
+                     volume="6"
+                     page="8-19"/>
+                  <cit did="2647"
+                     cid="288"
+                     avtor0="Puff Rudolph"
+                     naslov0="Die Schärfenberg"
+                     source="MHVK"
+                     year="0"
+                     volume="6"
+                     page="8-19"/>
+               </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="0">
@@ -9560,136 +9582,9 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        year="0"/>
                </citedIn>
             </pubPart>
-            
-            
-                
-            
-            
-            <pubPart>
-               <author>Leinmüller Josef</author>
-               <author>Leinmüller Joseph</author>
-               <title>Der Tabor zu Koschana</title>
-               <title>Der tabor zu Košana</title>
-               <page>65-69</page>
-               <citedIn count="2">
-                  <cit did="115"
-                       cid="3"
-                       avtor0="Leinmüller Josef"
-                       naslov0="Der Tabor zu Koschana"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       page="65-69"/>
-                  <cit did="117"
-                       cid="6"
-                       avtor0="Leinmüller Joseph"
-                       naslov0="Der tabor zu Košana"
-                       source="Mittheilungen des historischen Verreins Für Krain, XX."
-                       year="0"/>
-               </citedIn>
-            </pubPart>
-            
-            <pubPart>
-               <author>Orožen Ignacij</author>
-               <author>Orožen Ignaz</author>
-               <title>Die Vesten Schaumburg und Frauenburg im Schallthale</title>
-               <page>127-128</page>
-               <citedIn count="2">
-                  <cit did="775"
-                       cid="150"
-                       avtor0="Orožen Ignacij"
-                       naslov0="Die Vesten Schaumburg und Frauenburg im Schallthale"
-                       source="MHVSt"
-                       year="0"
-                       volume="31"
-                       page="127-128"/>
-                  <cit did="2647"
-                       cid="248"
-                       avtor0="Orožen Ignaz"
-                       naslov0="Die Vesten Schaumburg und Frauenburg im Schallthale"
-                       source="MHVst"
-                       year="0"
-                       volume="31"
-                       page="127-128"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Puff R.</author>
-               <author>Puff Rudolph</author>
-               <title>Die Grafen von Schärfenberg</title>
-               <title>Die Schärfenberg</title>
-               <page>9-19</page>
-               <page>8-19</page>
-               <citedIn count="3">
-                  <cit did="2631"
-                       cid="280"
-                       avtor0="Puff R."
-                       naslov0="Die Grafen von Schärfenberg"
-                       source="Mitteilungen des Historischen Vereines für Krain"
-                       year="0"
-                       volume="6"
-                       page="9-19"/>
-                  <cit did="775"
-                       cid="179"
-                       avtor0="Puff R."
-                       naslov0="Die Schärfenberg"
-                       source="MHVK"
-                       year="0"
-                       volume="6"
-                       page="8-19"/>
-                  <cit did="2647"
-                       cid="288"
-                       avtor0="Puff Rudolph"
-                       naslov0="Die Schärfenberg"
-                       source="MHVK"
-                       year="0"
-                       volume="6"
-                       page="8-19"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radics Peter</author>
-               <title>Cypressus Labacensis etc.etc.</title>
-               <page>47-52</page>
-               <citedIn count="1">
-                  <cit did="2791"
-                       cid="30"
-                       avtor0="Radics Peter"
-                       naslov0="Cypressus Labacensis etc.etc."
-                       source="Mittheilungen des historischen Vereins für Krain 15"
-                       page="47-52"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radics Peter von</author>
-               <title>Ueber ein unser Krain betreffendes Manuscript in der Hauptbibliothek Sr. Majestät des Kaisers</title>
-               <page>37-42</page>
-               <citedIn count="1">
-                  <cit did="2623"
-                       cid="188"
-                       avtor0="Radics Peter von"
-                       naslov0="Ueber ein unser Krain betreffendes Manuscript in der Hauptbibliothek Sr. Majestät des Kaisers"
-                       source="MHVK"
-                       year="0"
-                       volume="17"
-                       page="37-42"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Radič Peter</author>
-               <title>Die Vermälung Erzherzogs Ferdinand (II.) mit Maria Anna von Baiern, 23. April 1600</title>
-               <citedIn count="1">
-                  <cit did="2612"
-                       cid="120"
-                       avtor0="Radič Peter"
-                       naslov0="Die Vermälung Erzherzogs Ferdinand (II.) mit Maria Anna von Baiern, 23. April 1600"
-                       source="Mittheilungen des historischen Vereins für Krain, Vierzehnter Jahrgang"
-                       pubPlace="Laibach"
-                       year="0"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Schrey Raimund</author>
-               <title>Rückblick auf die ehemals bestandenen Klöster der Clarissinen in Krain, insbesonders aufjenes in Laibach</title>
+               <title>Rückblick auf die ehemals bestandenen Klöster der Ciarisserinnen in Krain</title>
                <citedIn count="1">
                   <cit did="2590"
                        cid="54"
@@ -9697,45 +9592,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        naslov0="Rückblick auf die ehemals bestandenen Klöster der Clarissinen in Krain, insbesonders aufjenes in Laibach"
                        source="Mittelungen des Historischen Vereins für Krain"
                        year="0"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Ullepitsch Carl</author>
-               <title>Diplomatarium Camiolicum. Aus den Archivsmaterialien des historischen Vereins für Krain</title>
-               <page>48</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="65"
-                       avtor0="Ullepitsch Carl"
-                       naslov0="Diplomatarium Camiolicum. Aus den Archivsmaterialien des historischen Vereins für Krain"
-                       source="Mittheilungen des historischen Vereins für Krain"
-                       year="0"
-                       volume="4"
-                       page="48"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Tangl K.</author>
-               <author>Tangl Karlmann</author>
-               <title>Windischgratz und die Herren von Windischgratz bis zu ihrer Erhebung in den Freiherrnstand im Jahre 1551</title>
-               <page>171-186</page>
-               <citedIn count="2">
-                  <cit did="775"
-                       cid="229"
-                       avtor0="Tangl K."
-                       naslov0="Windischgratz und die Herren von Windischgratz bis zu ihrer Erhebung in den Freiherrnstand im Jahre 1551"
-                       source="MHVSt"
-                       year="0"
-                       volume="13"
-                       page="171-186"/>
-                  <cit did="2647"
-                       cid="379"
-                       avtor0="Tangl Karlmann"
-                       naslov0="Windischgratz und die Herren von Windischgratz bis zu ihrer Erhebung in den Freiherrnstand im Jahre 1551"
-                       source="MHVSt"
-                       year="0"
-                       volume="13"
-                       page="171-186"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -9917,7 +9773,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1903">
-         <volume>XVI</volume>
+         <volume>16</volume>
          <issue>
             <pubPart>
                <author>Gratzy Oskar</author>
@@ -9973,6 +9829,25 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        pubPlace="Laibach"
                        year="1901"
                        page="23-78"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="1900">
+         <issue>
+            <pubPart>
+               <author>Komatar Franz</author>
+               <title>Ein Copialbuch des Klosters Freudenthal</title>
+               <page>1-69</page>
+               <citedIn count="1">
+                  <cit did="2622"
+                     cid="22"
+                     avtor0="Komatar Franz"
+                     naslov0="Ein Copialbuch des Klosters Freudenthal"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="13"
+                     page="1-69"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10033,6 +9908,106 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1896">
+         <volume>9</volume>
+         <issue>
+            <pubPart>
+               <author>Levec Vladimir</author>
+               <title>Schloss und Herrschaft Flödnig in Oberkrain</title>
+               <page>49-54</page>
+               <page>2-10</page>
+               <page>271-280</page>
+               <page>128-146</page>
+               <page>209-216</page>
+               <cobiss>7152950</cobiss>
+               <citedIn count="9">
+                  <cit did="2114"
+                     cid="5"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flodnig in Oberkrain"
+                     source="Mittheilungen des Musealvereines fur Krain"
+                     year="0"
+                     volume="9"
+                     page="2-10, 49-54, 128-146, 209-216, 271"/>
+                  <cit did="1227"
+                     cid="17"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 2."
+                     page="49-54"/>
+                  <cit did="1227"
+                     cid="19"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 1."
+                     page="2-10"/>
+                  <cit did="1229"
+                     cid="9"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 4."
+                     page="271-280"/>
+                  <cit did="1227"
+                     cid="20"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 4."
+                     page="271-280"/>
+                  <cit did="1227"
+                     cid="18"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 3."
+                     page="128-146"/>
+                  <cit did="1227"
+                     cid="21"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     cobiss="7152950"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"
+                     issue="Heft 5."
+                     page="209-216"/>
+                  <cit did="375"
+                     cid="20"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     issue="9"
+                     page="277-279"/>
+                  <cit did="2631"
+                     cid="187"
+                     avtor0="Levec Vladimir"
+                     naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
+                     source="Mitteilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="9"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1894">
          <volume>7</volume>
          <issue>
@@ -10063,6 +10038,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1893">
+         <volume>6</volume>
          <issue>
             <pubPart>
                <author>Kaspret Anton</author>
@@ -10076,6 +10052,31 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Mitteilungen des Musealvereins für Krain VI"
                        year="1893"
                        page="1-33"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
+               <author>Kaspret A.</author>
+               <title>Schloss und Herrschaft Ainöd</title>
+               <title>Schloss und Herrschaft Ainödt. nebst Urkunden-Regesten</title>
+               <page>5</page>
+               <page>1-32</page>
+               <citedIn count="2">
+                  <cit did="259"
+                     cid="16"
+                     avtor0="Kaspret A."
+                     naslov0="Schloss und Herrschaft Ainöd"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="6"
+                     page="5"/>
+                  <cit did="2632"
+                     cid="54"
+                     avtor0="Kaspret A."
+                     naslov0="Schloss und Herrschaft Ainödt. nebst Urkunden-Regesten"
+                     source="Mitteilungen des Musealvereins für Krain"
+                     year="0"
+                     volume="6"
+                     page="1-32"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10125,11 +10126,24 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="154-158"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+            <author>Rutar Simon</author>
+            <title>Archivalisches aus Wippach</title>
+            <page>53-60</page>
+            <citedIn count="1">
+               <cit did="1422"
+                  cid="35"
+                  avtor0="Rutar Simon"
+                  naslov0="Archivalisches aus Wippach"
+                  source="Mit-teilungen des Musealvereins für Krain IV"
+                  year="0"
+                  page="53-60"/>
+            </citedIn>
+            </pubPart>
          </issue>
       </year>
       <year n="1890">
          <volume>3</volume>
-         <volume>3, 4</volume>
          <issue>
             <pubPart>
                <author>Puscko A.</author>
@@ -10186,27 +10200,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="140-183, 13-45"/>
                </citedIn>
             </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <volume>2</volume>
-         <volume>6</volume>
-         <volume>13</volume>
-         <volume>9</volume>
-         <issue n="3">
             <pubPart>
                <author>Rutar Simon</author>
                <title>Gutenegg (Gotenich) am Tschitscherboden</title>
                <page>186-203</page>
                <citedIn count="1">
                   <cit did="375"
-                       cid="13"
-                       avtor0="Rutar Simon"
-                       naslov0="Gutenegg (Gotenich) am Tschitscherboden"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       issue="3"
-                       page="186-203"/>
+                     cid="13"
+                     avtor0="Rutar Simon"
+                     naslov0="Gutenegg (Gotenich) am Tschitscherboden"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     issue="3"
+                     page="186-203"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -10215,16 +10221,36 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <page>192</page>
                <citedIn count="1">
                   <cit did="375"
-                       cid="51"
-                       avtor0="Rutar Simon"
-                       naslov0="Newhaus-Castelnuovo am Karste"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       issue="3"
-                       page="192"/>
+                     cid="51"
+                     avtor0="Rutar Simon"
+                     naslov0="Newhaus-Castelnuovo am Karste"
+                     source="Mittheilungen des Musealvereines für Krain"
+                     year="0"
+                     issue="3"
+                     page="192"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Milkowicz Wladimir</author>
+               <title>Beiträge zur Rechts- und Verwaltungsgeschichte Krains</title>
+               <title>Die Supanei-Verfassung </title>
+               <page>41-52</page>
+               <citedIn count="1">
+                  <cit did="2423"
+                     cid="42"
+                     avtor0="Milkowicz Wladimir"
+                     naslov0="Beitrage zur Rechts- und Verwaltungsgeschichte Krains, Die Supanei-Verfassung III"
+                     source="Mitteilungen des Musealvereines fiür Krain"
+                     pubPlace="Laibach"
+                     year="0"
+                     page="41-52"/>
+               </citedIn>
+            </pubPart>
+            <pubPart>
          </issue>
+      </year>
+      <year n="1889">
+         <volume>2</volume>
          <issue>
             <pubPart>
                <author>Kaspert Anton</author>
@@ -10232,180 +10258,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <page>69-148</page>
                <citedIn count="1">
                   <cit did="414"
-                       cid="36"
-                       avtor0="Kaspert Anton"
-                       naslov0="Ueber die Lage der oberkrainerischen Bauernschafz im Ausgange des XV. Und im Anfange des XVI. Jahrhundert"
-                       source="Mittheilungen des Musealvereinse füf Krain"
-                       year="0"
-                       volume="2"
-                       page="69-148"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kaspret A.</author>
-               <title>Schloss und Herrschaft Ainöd</title>
-               <title>Schloss und Herrschaft Ainödt. nebst Urkunden-Regesten</title>
-               <page>5</page>
-               <page>1-32</page>
-               <citedIn count="2">
-                  <cit did="259"
-                       cid="16"
-                       avtor0="Kaspret A."
-                       naslov0="Schloss und Herrschaft Ainöd"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="6"
-                       page="5"/>
-                  <cit did="2632"
-                       cid="54"
-                       avtor0="Kaspret A."
-                       naslov0="Schloss und Herrschaft Ainödt. nebst Urkunden-Regesten"
-                       source="Mitteilungen des Musealvereins für Krain"
-                       year="0"
-                       volume="6"
-                       page="1-32"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Komatar Franz</author>
-               <title>Ein Copialbuch des Klosters Freudenthal</title>
-               <page>1-69</page>
-               <citedIn count="1">
-                  <cit did="2622"
-                       cid="22"
-                       avtor0="Komatar Franz"
-                       naslov0="Ein Copialbuch des Klosters Freudenthal"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="13"
-                       page="1-69"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Levec Vladimir</author>
-               <title>Schloss und Herrschaft Flodnig in Oberkrain</title>
-               <title>Schloss und Herrschaft Flödnig in Oberkrain</title>
-               <page>2-10, 49-54, 128-146, 209-216, 271</page>
-               <page>49-54</page>
-               <page>2-10</page>
-               <page>271-280</page>
-               <page>128-146</page>
-               <page>209-216</page>
-               <page>277-279</page>
-               <cobiss>7152950</cobiss>
-               <citedIn count="9">
-                  <cit did="2114"
-                       cid="5"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flodnig in Oberkrain"
-                       source="Mittheilungen des Musealvereines fur Krain"
-                       year="0"
-                       volume="9"
-                       page="2-10, 49-54, 128-146, 209-216, 271"/>
-                  <cit did="1227"
-                       cid="17"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 2."
-                       page="49-54"/>
-                  <cit did="1227"
-                       cid="19"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 1."
-                       page="2-10"/>
-                  <cit did="1229"
-                       cid="9"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 4."
-                       page="271-280"/>
-                  <cit did="1227"
-                       cid="20"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 4."
-                       page="271-280"/>
-                  <cit did="1227"
-                       cid="18"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 3."
-                       page="128-146"/>
-                  <cit did="1227"
-                       cid="21"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       cobiss="7152950"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"
-                       issue="Heft 5."
-                       page="209-216"/>
-                  <cit did="375"
-                       cid="20"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       source="Mittheilungen des Musealvereines für Krain"
-                       year="0"
-                       issue="9"
-                       page="277-279"/>
-                  <cit did="2631"
-                       cid="187"
-                       avtor0="Levec Vladimir"
-                       naslov0="Schloss und Herrschaft Flödnig in Oberkrain"
-                       source="Mitteilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="9"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Milkowicz Wladimir</author>
-               <title>Beitrage zur Rechts- und Verwaltungsgeschichte Krains, Die Supanei-Verfassung III</title>
-               <page>41-52</page>
-               <citedIn count="1">
-                  <cit did="2423"
-                       cid="42"
-                       avtor0="Milkowicz Wladimir"
-                       naslov0="Beitrage zur Rechts- und Verwaltungsgeschichte Krains, Die Supanei-Verfassung III"
-                       source="Mitteilungen des Musealvereines fiür Krain"
-                       pubPlace="Laibach"
-                       year="0"
-                       page="41-52"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Rutar Simon</author>
-               <title>Archivalisches aus Wippach</title>
-               <page>53-60</page>
-               <citedIn count="1">
-                  <cit did="1422"
-                       cid="35"
-                       avtor0="Rutar Simon"
-                       naslov0="Archivalisches aus Wippach"
-                       source="Mit-teilungen des Musealvereins für Krain IV"
-                       year="0"
-                       page="53-60"/>
+                     cid="36"
+                     avtor0="Kaspert Anton"
+                     naslov0="Ueber die Lage der oberkrainerischen Bauernschafz im Ausgange des XV. Und im Anfange des XVI. Jahrhundert"
+                     source="Mittheilungen des Musealvereinse füf Krain"
+                     year="0"
+                     volume="2"
+                     page="69-148"/>
                </citedIn>
             </pubPart>
             <pubPart>
@@ -10414,13 +10273,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <page>149-262</page>
                <citedIn count="1">
                   <cit did="414"
-                       cid="71"
-                       avtor0="Wallner Julius"
-                       naslov0="Herbard von Auersperg und die Veldeser Herrschaft"
-                       source="Mitteilungen des Musealvereines für Krain"
-                       year="0"
-                       volume="2"
-                       page="149-262"/>
+                     cid="71"
+                     avtor0="Wallner Julius"
+                     naslov0="Herbard von Auersperg und die Veldeser Herrschaft"
+                     source="Mitteilungen des Musealvereines für Krain"
+                     year="0"
+                     volume="2"
+                     page="149-262"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -10817,8 +10676,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1912">
-         <volume>IX</volume>
-         <volume>8</volume>
+         <volume>9</volume>
          <issue n="12">
             <pubPart>
                <author>Lončar Dragotin</author>
@@ -11059,8 +10917,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1907">
-         <volume>V</volume>
-         <volume>4</volume>
+         <volume>5</volume>
          <issue n="5">
             <pubPart>
                <author>Prepeluh Albin</author>
@@ -11122,24 +10979,41 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       <publisher>Prese</publisher>
       <issn>0353-8737</issn>
       <pubCobiss>17971458</pubCobiss>
-      <year n="2055">
+      <year n="1924">
+         <issue>
+            <pubPart>
+               <author>Hrašovec Juro</author>
+               <title>Celjski someščani</title>
+               <page>1</page>
+               <citedIn count="1">
+                  <cit did="994"
+                     cid="8"
+                     avtor0="Hrašovec Juro"
+                     naslov0="Celjski someščani"
+                     source="Nova doba"
+                     year="0"
+                     page="1"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
+      <year n="2021">
          <issue>
             <pubPart>
                <author>Prekoršek Ivan</author>
                <title>Prispevki k zgodovini društvenega življenja celjskih Slovencev</title>
                <citedIn count="1">
                   <cit did="68"
-                       cid="1"
-                       avtor0="Prekoršek Ivan"
-                       naslov0="Prispevki k zgodovini društvenega življenja celjskih Slovencev"
-                       source="Nova doba"
-                       year="2055"/>
+                     cid="1"
+                     avtor0="Prekoršek Ivan"
+                     naslov0="Prispevki k zgodovini društvenega življenja celjskih Slovencev"
+                     source="Nova doba"
+                     year="2055"/>
                </citedIn>
             </pubPart>
          </issue>
       </year>
       <year n="1920">
-         <volume>II</volume>
          <volume>2</volume>
          <issue>
             <pubPart>
@@ -11226,35 +11100,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                </citedIn>
             </pubPart>
          </issue>
-      </year>
-      <year n="0">
          <issue>
-            <pubPart>
-               <author>Hrašovec Juro</author>
-               <title>Celjski someščani</title>
-               <page>1</page>
-               <citedIn count="1">
-                  <cit did="994"
-                       cid="8"
-                       avtor0="Hrašovec Juro"
-                       naslov0="Celjski someščani"
-                       source="Nova doba"
-                       year="0"
-                       page="1"/>
-               </citedIn>
-            </pubPart>
             <pubPart>
                <author>Prekoršek Ivan</author>
                <title>Iz najnovejših dni</title>
                <page>1</page>
                <citedIn count="1">
                   <cit did="1617"
-                       cid="11"
-                       avtor0="Prekoršek Ivan"
-                       naslov0="Iz najnovejših dni"
-                       source="Nova doba"
-                       year="0"
-                       page="1"/>
+                     cid="11"
+                     avtor0="Prekoršek Ivan"
+                     naslov0="Iz najnovejših dni"
+                     source="Nova doba"
+                     year="0"
+                     page="1"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -11982,7 +11840,26 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
       <issn>1854-0910</issn>
       <pubCobiss>42011393</pubCobiss>
       <year n="1895">
-         <issue n="29">
+         <volume>8</volume>
+         <issue n="50">
+            <pubPart>
+               <author>Gynaekophil (po mnenju Petra Vodopivca se za tem psevdonimom skriva Podgornik Fran</author>
+               <title>Politčne pravice ženstva</title>
+               <page>468</page>
+               <citedIn count="1">
+                  <cit did="226"
+                     cid="86"
+                     avtor0="Gynaekophil (po mnenju Petra Vodopivca se za tem psevdonimom skriva Podgornik Fran"
+                     naslov0="Politčne pravice ženstva"
+                     source="Slovanski svet"
+                     year="0"
+                     volume="8"
+                     issue="50"
+                     page="468"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+        <issue n="29">
             <pubPart>
                <author>Govekar Fran</author>
                <title>Nekoliko mislij o ženskem vseučiliškem študiju</title>
@@ -11998,6 +11875,58 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        page="278-279"/>
                </citedIn>
             </pubPart>
+         </issue>
+      </year>
+      <year n="1894">
+         <volume>7</volume>
+         <issue>
+            <issue>
+               <pubPart>
+                  <author>Hostnik Davorin (psevdonim Roščin)</author>
+                  <title>Heureka</title>
+                  <page>28-30</page>
+                  <page>106-109</page>
+                  <page>130-132</page>
+                  <page>147-150</page>
+                  <citedIn count="4">
+                     <cit did="226"
+                        cid="88"
+                        avtor0="Hostnik Davorin (psevdonim Roščin)"
+                        naslov0="Heureka"
+                        source="Slovanski svet"
+                        year="0"
+                        volume="7"
+                        issue="2"
+                        page="28-30"/>
+                     <cit did="226"
+                        cid="89"
+                        avtor0="Hostnik Davorin (psevdonim Roščin)"
+                        naslov0="Heureka"
+                        source="Slovanski svet"
+                        year="0"
+                        volume="7"
+                        issue="6"
+                        page="106-109"/>
+                     <cit did="226"
+                        cid="90"
+                        avtor0="Hostnik Davorin (psevdonim Roščin)"
+                        naslov0="Heureka"
+                        source="Slovanski svet"
+                        year="0"
+                        volume="7"
+                        issue="7"
+                        page="130-132"/>
+                     <cit did="226"
+                        cid="91"
+                        avtor0="Hostnik Davorin (psevdonim Roščin)"
+                        naslov0="Heureka"
+                        source="Slovanski svet"
+                        year="0"
+                        volume="7"
+                        issue="8"
+                        page="147-150"/>
+                  </citedIn>
+               </pubPart>
          </issue>
       </year>
       <year n="1893">
@@ -12020,9 +11949,8 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>8</volume>
-         <volume>7</volume>
+      <year n="1892">
+         <volume>5</volume>
          <issue n="8">
             <pubPart>
                <author>Podgornik Fran</author>
@@ -12030,82 +11958,19 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <page>105-109</page>
                <citedIn count="1">
                   <cit did="298"
-                       cid="46"
-                       avtor0="Podgornik Fran"
-                       naslov0="Imena in napisi novih denarjev in pa Slovani"
-                       source="Slovanski Svet"
-                       year="0"
-                       issue="8"
-                       page="105-109"/>
+                     cid="46"
+                     avtor0="Podgornik Fran"
+                     naslov0="Imena in napisi novih denarjev in pa Slovani"
+                     source="Slovanski Svet"
+                     year="0"
+                     issue="8"
+                     page="105-109"/>
                </citedIn>
             </pubPart>
          </issue>
-         <issue n="50">
-            <pubPart>
-               <author>Gynaekophil (po mnenju Petra Vodopivca se za tem psevdonimom skriva Podgornik Fran</author>
-               <title>Politčne pravice ženstva</title>
-               <page>468</page>
-               <citedIn count="1">
-                  <cit did="226"
-                       cid="86"
-                       avtor0="Gynaekophil (po mnenju Petra Vodopivca se za tem psevdonimom skriva Podgornik Fran"
-                       naslov0="Politčne pravice ženstva"
-                       source="Slovanski svet"
-                       year="0"
-                       volume="8"
-                       issue="50"
-                       page="468"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Hostnik Davorin (psevdonim Roščin)</author>
-               <title>Heureka</title>
-               <page>28-30</page>
-               <page>106-109</page>
-               <page>130-132</page>
-               <page>147-150</page>
-               <citedIn count="4">
-                  <cit did="226"
-                       cid="88"
-                       avtor0="Hostnik Davorin (psevdonim Roščin)"
-                       naslov0="Heureka"
-                       source="Slovanski svet"
-                       year="0"
-                       volume="7"
-                       issue="2"
-                       page="28-30"/>
-                  <cit did="226"
-                       cid="89"
-                       avtor0="Hostnik Davorin (psevdonim Roščin)"
-                       naslov0="Heureka"
-                       source="Slovanski svet"
-                       year="0"
-                       volume="7"
-                       issue="6"
-                       page="106-109"/>
-                  <cit did="226"
-                       cid="90"
-                       avtor0="Hostnik Davorin (psevdonim Roščin)"
-                       naslov0="Heureka"
-                       source="Slovanski svet"
-                       year="0"
-                       volume="7"
-                       issue="7"
-                       page="130-132"/>
-                  <cit did="226"
-                       cid="91"
-                       avtor0="Hostnik Davorin (psevdonim Roščin)"
-                       naslov0="Heureka"
-                       source="Slovanski svet"
-                       year="0"
-                       volume="7"
-                       issue="8"
-                       page="147-150"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
+      </year>
+      <year n="0">
+         <pubPart>
                <author>Podgornik Fran</author>
                <title>Državno pravo in Slovenci</title>
                <page>365-366</page>
@@ -12949,7 +12814,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1937">
-         <volume>LI</volume>
+         <volume>51</volume>
          <issue n="11-12">
             <pubPart>
                <author>Ogrin Fran</author>
@@ -13202,6 +13067,27 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1924">
+         <volume>37</volume>
+         <issue n="9-10">
+            <pubPart>
+               <author>Dolenc Metod</author>
+               <title>Prisilna vzgoja k delu po našem kazenskem pravu</title>
+               <page>230-245</page>
+               <citedIn count="1">
+                  <cit did="3431"
+                     cid="11"
+                     avtor0="Dolenc Metod"
+                     naslov0="Prisilna vzgoja k delu po našem kazenskem pravu"
+                     source="Slovenski pravnik"
+                     year="1"
+                     volume="37"
+                     issue="9-10"
+                     page="230-245"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1923">
          <volume>37</volume>
          <issue n="9-10">
@@ -13298,6 +13184,33 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1903">
+         <issue>
+            <pubPart>
+               <author>Kavčnik I.</author>
+               <title>O vrednotah (valutah)</title>
+               <page>69-70</page>
+               <citedIn count="1">
+                  <cit did="663"
+                     cid="31"
+                     avtor0="Kavčnik I."
+                     naslov0="O vrednotah (valutah)"
+                     source="Slovenski pravnik"
+                     year="0"
+                     issue="3"
+                     page="5, 69-70"/>
+                  <cit did="663"
+                     cid="49"
+                     avtor0="Kavčnik I."
+                     naslov0="O vrednotah (valutah)"
+                     source="Slovenski pravnik"
+                     year="0"
+                     issue="4"
+                     page="97-100"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1902">
          <volume>18</volume>
          <issue>
@@ -13316,28 +13229,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
-      <year n="1">
-         <volume>37</volume>
-         <issue n="9-10">
-            <pubPart>
-               <author>Dolenc Metod</author>
-               <title>Prisilna vzgoja k delu po našem kazenskem pravu</title>
-               <page>230-245</page>
-               <citedIn count="1">
-                  <cit did="3431"
-                       cid="11"
-                       avtor0="Dolenc Metod"
-                       naslov0="Prisilna vzgoja k delu po našem kazenskem pravu"
-                       source="Slovenski pravnik"
-                       year="1"
-                       volume="37"
-                       issue="9-10"
-                       page="230-245"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="0">
+      <year n="1897">
          <issue n="11-12">
             <pubPart>
                <author>Pajk Janko</author>
@@ -13345,45 +13237,13 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                <page>337-348</page>
                <citedIn count="1">
                   <cit did="2016"
-                       cid="160"
-                       avtor0="Pajk Janko"
-                       naslov0="Notranji gon, vir naravstvenosti"
-                       source="Slovenski pravnik"
-                       year="0"
-                       issue="11-12"
-                       page="337-348"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue>
-            <pubPart>
-               <author>Kavčnik I.</author>
-               <title>O vrednotah (valutah)</title>
-               <page>5, 69-70</page>
-               <citedIn count="1">
-                  <cit did="663"
-                       cid="31"
-                       avtor0="Kavčnik I."
-                       naslov0="O vrednotah (valutah)"
-                       source="Slovenski pravnik"
-                       year="0"
-                       issue="3"
-                       page="5, 69-70"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Kavčnik I.</author>
-               <title>O vrednotah (valutah)</title>
-               <page>97-100</page>
-               <citedIn count="1">
-                  <cit did="663"
-                       cid="49"
-                       avtor0="Kavčnik I."
-                       naslov0="O vrednotah (valutah)"
-                       source="Slovenski pravnik"
-                       year="0"
-                       issue="4"
-                       page="97-100"/>
+                     cid="160"
+                     avtor0="Pajk Janko"
+                     naslov0="Notranji gon, vir naravstvenosti"
+                     source="Slovenski pravnik"
+                     year="0"
+                     issue="11-12"
+                     page="337-348"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -14181,6 +14041,24 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
+      <year n="1923">
+         <issue>
+            <pubPart>
+               <author>Grum Rado</author>
+               <title>Gangl kot politik</title>
+               <page>6-7</page>
+               <citedIn count="1">
+                  <cit did="1321"
+                     cid="7"
+                     avtor0="Grum Rado"
+                     naslov0="Gangl kot politik"
+                     source="Učiteljski tovariš (UT)"
+                     year="0"
+                     page="6-7"/>
+               </citedIn>
+            </pubPart>
+         </issue>
+      </year>
       <year n="1922">
          <issue n="17">
             <pubPart>
@@ -14519,24 +14397,6 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
                        source="Učiteljski tovariš. 1. julij."
                        pubPlace="Ljubljana"
                        year="1862"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-      </year>
-      <year n="0">
-         <issue>
-            <pubPart>
-               <author>Grum Rado</author>
-               <title>Gangl kot politik</title>
-               <page>6-7</page>
-               <citedIn count="1">
-                  <cit did="1321"
-                       cid="7"
-                       avtor0="Grum Rado"
-                       naslov0="Gangl kot politik"
-                       source="Učiteljski tovariš (UT)"
-                       year="0"
-                       page="6-7"/>
                </citedIn>
             </pubPart>
          </issue>
@@ -15182,39 +15042,39 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
             </pubPart>
          </issue>
       </year>
-      <year n="0">
-         <volume>3</volume>
+      <year n="1900">
          <issue>
-            <pubPart>
-               <author>Stegenšek Avguštin</author>
-               <title>Shod krščanskih arheologov v Rimu l. 1900</title>
-               <page>283-286</page>
-               <citedIn count="1">
-                  <cit did="1572"
-                       cid="30"
-                       avtor0="Stegenšek Avguštin"
-                       naslov0="Shod krščanskih arheologov v Rimu l. 1900"
-                       source="Voditelj v bogoslovnih vedah"
-                       year="0"
-                       volume="3"
-                       page="283-286"/>
-               </citedIn>
-            </pubPart>
-            <pubPart>
-               <author>Stegenšek Avguštin</author>
-               <title>Čemu škofijski muzej</title>
-               <page>84-86</page>
-               <citedIn count="1">
-                  <cit did="1572"
-                       cid="33"
-                       avtor0="Stegenšek Avguštin"
-                       naslov0="Čemu škofijski muzej"
-                       source="Voditelj v bogoslovnih vedah"
-                       year="0"
-                       volume="3"
-                       page="84-86"/>
-               </citedIn>
-            </pubPart>
+            <issue>
+               <pubPart>
+                  <author>Stegenšek Avguštin</author>
+                  <title>Shod krščanskih arheologov v Rimu l. 1900</title>
+                  <page>283-286</page>
+                  <citedIn count="1">
+                     <cit did="1572"
+                        cid="30"
+                        avtor0="Stegenšek Avguštin"
+                        naslov0="Shod krščanskih arheologov v Rimu l. 1900"
+                        source="Voditelj v bogoslovnih vedah"
+                        year="0"
+                        volume="3"
+                        page="283-286"/>
+                  </citedIn>
+               </pubPart>
+               <pubPart>
+                  <author>Stegenšek Avguštin</author>
+                  <title>Čemu škofijski muzej</title>
+                  <page>84-86</page>
+                  <citedIn count="1">
+                     <cit did="1572"
+                        cid="33"
+                        avtor0="Stegenšek Avguštin"
+                        naslov0="Čemu škofijski muzej"
+                        source="Voditelj v bogoslovnih vedah"
+                        year="0"
+                        volume="3"
+                        page="84-86"/>
+                  </citedIn>
+               </pubPart>
          </issue>
       </year>
    </source>
@@ -15545,7 +15405,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1937">
-         <volume>XV</volume>
+         <volume>15</volume>
          <issue>
             <pubPart>
                <author>Hočevar P.</author>
@@ -15953,7 +15813,7 @@ tortura pri mestnem sodišču v Ljubljani 1524-1775</title>
          </issue>
       </year>
       <year n="1924">
-         <volume>II</volume>
+         <volume>2</volume>
          <issue n="10">
             <pubPart>
                <author>Debevc France</author>
