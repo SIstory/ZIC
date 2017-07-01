@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- vsakemu avtorju s seznama ARRS se doda še uradno ime in atribut id z njegovo raziskovalno šifro -->
+<!-- pri nekaterih osebah sem spremenil njihovo uradno ime, nrp. Grafenauer Bogoslav je Bogo -->
 <root>
     <avtor id="04518">
-        <ime-uradno>Adamič Marjeta</ime-uradno>
+        <ime-uradno>Adamič, Marjeta</ime-uradno>
         <ime>Adamič Marjeta</ime>
         <delo did="104" cid="14"/>
         <delo did="2303" cid="14 15"/>
     </avtor>
     <avtor id="33083">
-        <ime-uradno>Ajlec Kornelija</ime-uradno>
+        <ime-uradno>Ajlec, Kornelija</ime-uradno>
         <ime>Ajlec Kornelija</ime>
         <delo did="3156" cid="4"/>
     </avtor>
     <avtor id="26295">
-        <ime-uradno>Ambrožič Matjaž</ime-uradno>
+        <ime-uradno>Ambrožič, Matjaž</ime-uradno>
         <ime>Ambrožič Matjaž</ime>
         <dela did="3467 3440 3074 2444 2125 1851"/>
         <delo did="112" cid="19"/>
@@ -33,11 +34,11 @@
         <delo did="1735" cid="3"/>
     </avtor>
     <avtor id="36397">
-        <ime-uradno>Antoličič Gregor</ime-uradno>
+        <ime-uradno>Antoličič, Gregor</ime-uradno>
         <ime>Antoličič Gregor</ime>
     </avtor>
     <avtor id="13070">
-        <ime-uradno>Anžič Sonja</ime-uradno>
+        <ime-uradno>Anžič, Sonja</ime-uradno>
         <ime>Anžič Sonja</ime>
         <dela did="635 158"/>
         <delo did="158" cid="1"/>
@@ -61,11 +62,11 @@
         <delo did="2061" cid="8"/>
     </avtor>
     <avtor id="28604">
-        <ime-uradno>Avguštin Florjanovič Blanka</ime-uradno>
+        <ime-uradno>Avguštin Florjanovič, Blanka</ime-uradno>
         <ime>Avguštin Florjanovič Blanka</ime>
     </avtor>
     <avtor id="30814">
-        <ime-uradno>Babič Blaž</ime-uradno>
+        <ime-uradno>Babič, Blaž</ime-uradno>
         <ime>Babič Blaž</ime>
         <dela did="3231 2813 2285"/>
         <delo did="2967" cid="1"/>
@@ -74,11 +75,11 @@
         <delo did="3287" cid="42"/>
     </avtor>
     <avtor id="02953">
-        <ime-uradno>Bahun Dušan</ime-uradno>
+        <ime-uradno>Bahun, Dušan</ime-uradno>
         <ime>Bahun Dušan</ime>
     </avtor>
     <avtor id="22467">
-        <ime-uradno>Bajc Gorazd</ime-uradno>
+        <ime-uradno>Bajc, Gorazd</ime-uradno>
         <ime>Bajc Gorazd</ime>
         <ime> Bajc Gorazd</ime>
         <dela did="3321 2558 2435 2084 1908 1782 1757 1485 536 476 143"/>
@@ -122,7 +123,7 @@
         <delo did="1982" cid="1"/>
     </avtor>
     <avtor id="08682">
-        <ime-uradno>Balkovec Bojan</ime-uradno>
+        <ime-uradno>Balkovec, Bojan</ime-uradno>
         <ime>Balkovec Bojan</ime>
         <dela did="3451 3215 3171 2416 2175 1596 1553 1364 1362"/>
         <delo did="21" cid="43"/>
@@ -161,25 +162,25 @@
         <delo did="3497" cid="8"/>
     </avtor>
     <avtor id="32124">
-        <ime-uradno>Beguš Ines</ime-uradno>
+        <ime-uradno>Beguš, Ines</ime-uradno>
         <ime>Beguš I.</ime>
         <delo did="1937" cid="1"/>
         <ime>Beguš Ines</ime>
         <dela did="1937"/>
     </avtor>
     <avtor id="40059">
-        <ime-uradno>Belec Robert</ime-uradno>
+        <ime-uradno>Belec, Robert</ime-uradno>
         <ime>Belec Robert</ime>
         <delo did="1723" cid="4"/>
         <delo did="1732" cid="7"/>
     </avtor>
     <avtor id="06987">
-        <ime-uradno>Beltram Vlasta</ime-uradno>
+        <ime-uradno>Beltram, Vlasta</ime-uradno>
         <ime>Beltram Vlasta</ime>
         <delo did="3528" cid="12"/>
     </avtor>
     <avtor id="13146">
-        <ime-uradno>Benedik Metod</ime-uradno>
+        <ime-uradno>Benedik, Metod</ime-uradno>
         <ime>Benedik M.</ime>
         <delo did="258" cid="1"/>
         <delo did="1823" cid="6"/>
@@ -214,7 +215,7 @@
         <delo did="1422" cid="1"/>
     </avtor>
     <avtor id="21785">
-        <ime-uradno>Berberih-Slana Aleksandra</ime-uradno>
+        <ime-uradno>Berberih-Slana, Aleksandra</ime-uradno>
         <ime>Berberih - Slana  Aleksandra</ime>
         <delo did="1802" cid="12"/>
         <ime>Berberih Slana Aleksandra</ime>
@@ -231,7 +232,7 @@
         <delo did="1524" cid="2"/>
     </avtor>
     <avtor id="16396">
-        <ime-uradno>Bergant Zvonko</ime-uradno>
+        <ime-uradno>Bergant, Zvonko</ime-uradno>
         <ime>Bergant Zvonko</ime>
         <dela did="1605 1563 664 661"/>
         <delo did="169" cid="13 14 108 109"/>
@@ -263,7 +264,7 @@
         <delo did="1630" cid="2"/>
     </avtor>
     <avtor id="23159">
-        <ime-uradno>Bister Feliks j.</ime-uradno>
+        <ime-uradno>Bister, Feliks j.</ime-uradno>
         <ime>Bister F. J.</ime>
         <delo did="742" cid="5"/>
         <ime>Bister Feliks</ime>
@@ -300,7 +301,7 @@
         <delo did="3280" cid="2"/>
     </avtor>
     <avtor id="18164">
-        <ime-uradno>Bizjak Matjaž</ime-uradno>
+        <ime-uradno>Bizjak, Matjaž</ime-uradno>
         <ime>Bizjak Matjaž</ime>
         <dela did="2946 2583 2581 2234 1222 928 917 414 74"/>
         <dela did="2622"/>
@@ -349,7 +350,7 @@
         <delo did="2631" cid="16"/>
     </avtor>
     <avtor id="06114">
-        <ime-uradno>Bizjak Žarko</ime-uradno>
+        <ime-uradno>Bizjak, Žarko</ime-uradno>
         <ime>Bizjak Žarko</ime>
         <delo did="990" cid="1"/>
         <delo did="1656" cid="20"/>
@@ -357,13 +358,13 @@
         <delo did="2843" cid="71"/>
     </avtor>
     <avtor id="30272">
-        <ime-uradno>Bobič Pavlina</ime-uradno>
+        <ime-uradno>Bobič, Pavlina</ime-uradno>
         <ime>Bobič Pavlina</ime>
         <dela did="1309"/>
         <delo did="2646" cid="9"/>
     </avtor>
     <avtor id="31963">
-        <ime-uradno>Božič Horvat Andreja</ime-uradno>
+        <ime-uradno>Božič Horvat, Andreja</ime-uradno>
         <ime>Božič Horvat Andreja</ime>
         <dela did="2862 2745"/>
         <delo did="2192" cid="3"/>
@@ -372,7 +373,7 @@
         <delo did="2837" cid="76"/>
     </avtor>
     <avtor id="07320">
-        <ime-uradno>Bratož Rajko</ime-uradno>
+        <ime-uradno>Bratož, Rajko</ime-uradno>
         <ime>Bratož R.</ime>
         <delo did="1748" cid="120 121"/>
         <ime>Bratož Rajko</ime>
@@ -419,10 +420,10 @@
         <delo did="2532" cid="5"/>
     </avtor>
     <avtor id="14904">
-        <ime-uradno>BREZNIKAR MARIJA MAGDALEN</ime-uradno>
+        <ime-uradno>Breznikar, Marija Magdalen</ime-uradno>
     </avtor>
     <avtor id="12226">
-        <ime-uradno>Brglez Alja</ime-uradno>
+        <ime-uradno>Brglez, Alja</ime-uradno>
         <ime>Brglez A.</ime>
         <delo did="1997" cid="9"/>
         <delo did="1999" cid="10"/>
@@ -433,7 +434,7 @@
         <delo did="2035" cid="5"/>
     </avtor>
     <avtor id="02555">
-        <ime-uradno>Britovšek Marjan</ime-uradno>
+        <ime-uradno>Britovšek, Marjan</ime-uradno>
         <ime>Bristovšek Marjan</ime>
         <delo did="304" cid="25"/>
         <ime>Britovšek Marijan</ime>
@@ -462,7 +463,7 @@
         <delo did="3090" cid="1"/>
     </avtor>
     <avtor id="13816">
-        <ime-uradno>Budna Nataša</ime-uradno>
+        <ime-uradno>Budna, Nataša</ime-uradno>
         <ime>Budna Kodrič Barbara</ime>
         <delo did="2401" cid="3"/>
         <ime>Budna Kodrič Nataša</ime>
@@ -491,7 +492,7 @@
         <delo did="2411" cid="3"/>
     </avtor>
     <avtor id="19135">
-        <ime-uradno>Cedilnik Alenka</ime-uradno>
+        <ime-uradno>Cedilnik, Alenka</ime-uradno>
         <ime>Cedilnik A.</ime>
         <delo did="2171" cid="13"/>
         <ime>Cedilnik Alenka</ime>
@@ -500,19 +501,19 @@
         <delo did="1375" cid="7"/>
     </avtor>
     <avtor id="20380">
-        <ime-uradno>Ceglar Dean</ime-uradno>
+        <ime-uradno>Ceglar, Dean</ime-uradno>
         <ime>Ceglar Dean</ime>
         <delo did="1442" cid="6"/>
         <delo did="3395" cid="26"/>
     </avtor>
     <avtor id="31851">
-        <ime-uradno>Cergol Paradiž Ana</ime-uradno>
+        <ime-uradno>Cergol Paradiž, Ana</ime-uradno>
         <ime>Cergol Ana</ime>
         <dela did="2417"/>
         <delo did="2417" cid="4"/>
     </avtor>
     <avtor id="11796">
-        <ime-uradno>Cindrič Alojz</ime-uradno>
+        <ime-uradno>Cindrič, Alojz</ime-uradno>
         <ime>Cindrič A.</ime>
         <delo did="2288" cid="38"/>
         <ime>Cindrič Alojz</ime>
@@ -526,7 +527,7 @@
         <delo did="3473" cid="4"/>
     </avtor>
     <avtor id="16392">
-        <ime-uradno>Colja Katja</ime-uradno>
+        <ime-uradno>Colja, Katja</ime-uradno>
         <ime>Colja Katja</ime>
         <dela did="505"/>
         <delo did="743" cid="30"/>
@@ -537,7 +538,7 @@
         <delo did="2597" cid="43"/>
     </avtor>
     <avtor id="13227">
-        <ime-uradno>Cvirn Janez</ime-uradno>
+        <ime-uradno>Cvirn, Janez</ime-uradno>
         <ime>Cvirn J.</ime>
         <delo did="1999" cid="14"/>
         <ime>Cvirn Janez</ime>
@@ -705,7 +706,7 @@
         <delo did="3212" cid="2"/>
     </avtor>
     <avtor id="27937">
-        <ime-uradno>Čeč Dragica</ime-uradno>
+        <ime-uradno>Čeč, Dragica</ime-uradno>
         <ime>Čeč D.</ime>
         <delo did="738" cid="3"/>
         <delo did="1999" cid="15"/>
@@ -731,7 +732,7 @@
     </avtor>
     
     <avtor id="06406">
-        <ime-uradno>Čepič Zdenko</ime-uradno>
+        <ime-uradno>Čepič, Zdenko</ime-uradno>
         <ime>Čepič Zdenko</ime>
         <ime>Čepič  Zdenko</ime>
         <dela did="3211 3160 2916 2806 2559 2383 2299 1898 1889 1818 1640 1634 1618 1368 1295 1294 1287 1286 1285 1282 1281 1280 968 851 850 849 847 846 840 835 833 830 829 824 823 822 821 818 810 797 795 779 778 777 774 754 723 722 721 660 659 658 150"/>
@@ -848,7 +849,7 @@
         <delo did="3477" cid="20"/>
     </avtor>
     <avtor id="19078">
-        <ime-uradno>Čoh Kladnik Mateja</ime-uradno>
+        <ime-uradno>Čoh Kladnik, Mateja</ime-uradno>
         <ime>Čoh Mateja</ime>
         <dela did="2073 1539 996"/>
         <delo did="634" cid="42"/>
@@ -867,7 +868,7 @@
         <delo did="1531" cid="1"/>
     </avtor>
     <avtor id="24282">
-        <ime-uradno>Čuček Filip</ime-uradno>
+        <ime-uradno>Čuček, Filip</ime-uradno>
         <ime>Čuček Filip</ime>
         <dela did="3228 2874 2770 2199 2131 1890 1877 1783 1608 1449 1381 1208 525 353"/>
         <delo did="29" cid="193"/>
@@ -890,10 +891,10 @@
         <dela did="1778"/>
     </avtor>
     <avtor id="33861">
-        <ime-uradno>Ćeklić Blaž</ime-uradno>
+        <ime-uradno>Ćeklić, Blaž</ime-uradno>
     </avtor>
     <avtor id="10728">
-        <ime-uradno>Darovec Darko</ime-uradno>
+        <ime-uradno>Darovec, Darko</ime-uradno>
         <ime>Darovec D.</ime>
         <delo did="1921" cid="3"/>
         <delo did="1938" cid="6"/>
@@ -982,7 +983,7 @@
         <delo did="3539" cid="71"/>
     </avtor>
     <avtor id="08410">
-        <ime-uradno>Deželak-Barič Vida</ime-uradno>
+        <ime-uradno>Deželak-Barič, Vida</ime-uradno>
         <ime>Barič Deželak Vida</ime>
         <dela did="1103"/>
         <ime>Barič-Deželak Vida</ime>
@@ -1103,7 +1104,7 @@
         <delo did="1414" cid="11"/>
     </avtor>
     <avtor id="35155">
-        <ime-uradno>Dežman Jože</ime-uradno>
+        <ime-uradno>Dežman, Jože</ime-uradno>
         <ime>Dežman  Jože</ime>
         <ime>Dežman Jože</ime>
         <dela did="566"/>
@@ -1132,12 +1133,12 @@
         <delo did="2900" cid="74"/>
     </avtor>
     <avtor id="26390">
-        <ime-uradno>Dintinjana Tomaž</ime-uradno>
+        <ime-uradno>Dintinjana, Tomaž</ime-uradno>
         <ime>Dintinjana Tomaž</ime>
         <delo did="1911" cid="24"/>
     </avtor>
     <avtor id="23251">
-        <ime-uradno>Dobaja Dunja</ime-uradno>
+        <ime-uradno>Dobaja, Dunja</ime-uradno>
         <ime>Dobaja Dunja</ime>
         <dela did="3533 3404 3360 3304 3270 2910 2549 2462 2283 1456"/>
         <delo did="490" cid="1"/>
@@ -1151,7 +1152,7 @@
         <dela did="1698"/>
     </avtor>
     <avtor id="08192">
-        <ime-uradno>Dolenc Ervin</ime-uradno>
+        <ime-uradno>Dolenc, Ervin</ime-uradno>
         <ime>Dolenc E.</ime>
         <delo did="2113" cid="2"/>
         <ime>Dolenc Ervin</ime>
@@ -1293,7 +1294,7 @@
         <delo did="1512" cid="111"/>
     </avtor>
     <avtor id="10162">
-        <ime-uradno>Dolinar France Martin</ime-uradno>
+        <ime-uradno>Dolinar, France Martin</ime-uradno>
         <ime>Dolinar F. M.</ime>
         <delo did="1735" cid="23"/>
         <delo did="1826" cid="3"/>
@@ -1419,7 +1420,7 @@
         <delo did="1317" cid="222"/>
     </avtor>
     <avtor id="22618">
-        <ime-uradno>Dornik Šubelj Ljuba</ime-uradno>
+        <ime-uradno>Dornik Šubelj, Ljuba</ime-uradno>
         <ime>Dornik Ljuba</ime>
         <delo did="12" cid="2"/>
         <ime>Dornik Subelj Ljuba</ime>
@@ -1456,7 +1457,7 @@
         <delo did="2418" cid="7"/>
     </avtor>
     <avtor id="12935">
-        <ime-uradno>Drnovšek Darinka</ime-uradno>
+        <ime-uradno>Drnovšek, Darinka</ime-uradno>
         <ime>Drnovšek D.</ime>
         <delo did="226" cid="57"/>
         <delo did="1828" cid="2"/>
@@ -1481,7 +1482,7 @@
         <delo did="3286" cid="6"/>
     </avtor>
     <avtor id="04926">
-        <ime-uradno>Drnovšek Marjan</ime-uradno>
+        <ime-uradno>Drnovšek, Marjan</ime-uradno>
         <ime>Drnovšek M.</ime>
         <delo did="2080" cid="3 4 5 6 7 8 9 10 11"/>
         <ime>Drnovšek Marjan</ime>
@@ -1538,7 +1539,7 @@
         <delo did="247" cid="6"/>
     </avtor>
     <avtor id="13397">
-        <ime-uradno>Dular Franja</ime-uradno>
+        <ime-uradno>Dular, Franja</ime-uradno>
         <ime>Dular A.</ime>
         <delo did="1942" cid="8"/>
         <delo did="1954" cid="6"/>
@@ -1564,26 +1565,26 @@
         <delo did="1298" cid="95"/>
     </avtor>
     <avtor id="35583">
-        <ime-uradno>Ergaver Angelika</ime-uradno>
+        <ime-uradno>Ergaver, Angelika</ime-uradno>
     </avtor>
     <avtor id="28290">
-        <ime-uradno>Eržen Andreja</ime-uradno>
+        <ime-uradno>Eržen, Andreja</ime-uradno>
         <ime>Eržen Andreja</ime>
         <dela did="2452"/>
         <delo did="2211" cid="50"/>
     </avtor>
     <avtor id="32129">
-        <ime-uradno>Fajić Meliha</ime-uradno>
+        <ime-uradno>Fajić, Meliha</ime-uradno>
         <ime>Fajić Meliha</ime>
         <dela did="2576 2540"/>
     </avtor>
     <avtor id="24302">
-        <ime-uradno>Fakin Bajec Jasna</ime-uradno>
+        <ime-uradno>Fakin Bajec, Jasna</ime-uradno>
         <ime>Fakin Bajec Jasna</ime>
         <dela did="1794"/>
     </avtor>
     <avtor id="00554">
-        <ime-uradno>FERENC ANTON</ime-uradno>
+        <ime-uradno>Ferenc, Anton</ime-uradno>
         <ime>Ferenc T.</ime>
         <delo did="2083" cid="4"/>
         <ime>Ferenc Tone</ime>
@@ -1778,7 +1779,7 @@
     </avtor>
     
     <avtor id="22285">
-        <ime-uradno>Ferenc Mitja</ime-uradno>
+        <ime-uradno>Ferenc, Mitja</ime-uradno>
         <ime>Ferenc Mitja</ime>
         <dela did="3486 3485 2567 1868 1657 1365 1301 844 605 446 293"/>
         <delo did="211" cid="18"/>
@@ -1827,17 +1828,17 @@
         <delo did="3224" cid="16"/>
     </avtor>
     <avtor id="27992">
-        <ime-uradno>Ferleš Tanja</ime-uradno>
+        <ime-uradno>Ferleš, Tanja</ime-uradno>
     </avtor>
     <avtor id="12998">
-        <ime-uradno>Ficko Majda</ime-uradno>
+        <ime-uradno>Ficko, Majda</ime-uradno>
         <ime>Ficko Majda</ime>
         <delo did="2517" cid="14"/>
         <delo did="3121" cid="16"/>
         <delo did="3159" cid="44"/>
     </avtor>
     <avtor id="01151">
-        <ime-uradno>Fischer Jasna</ime-uradno>
+        <ime-uradno>Fischer, Jasna</ime-uradno>
         <ime>Fišer Jasna</ime>
         <delo did="976" cid="11"/>
         <ime>Fischer J.</ime>
@@ -1904,24 +1905,24 @@
         <delo did="3459" cid="77"/>
     </avtor>
     <avtor id="30668">
-        <ime-uradno>Fon Miloš</ime-uradno>
+        <ime-uradno>Fon, Miloš</ime-uradno>
         <ime>Fon Miloš</ime>
         <dela did="2408 1427"/>
     </avtor>
     <avtor id="35233">
-        <ime-uradno>Fras Ivan</ime-uradno>
+        <ime-uradno>Fras, Ivan</ime-uradno>
         <ime>Fras Ivan</ime>
         <delo did="871" cid="2"/>
     </avtor>
     <avtor id="40128">
-        <ime-uradno>Fras Maksimiljan</ime-uradno>
+        <ime-uradno>Fras, Maksimiljan</ime-uradno>
         <ime>Fras Maksimilijan</ime>
         <delo did="3322" cid="14"/>
         <ime>Fras Maksimiljan</ime>
         <dela did="3322"/>
     </avtor>
     <avtor id="11361">
-        <ime-uradno>Friš Darko</ime-uradno>
+        <ime-uradno>Friš, Darko</ime-uradno>
         <ime>Friš Darko</ime>
         <dela did="1575 1564 1561 1537 1533 992"/>
         <dela did="2026 550"/>
@@ -1961,7 +1962,7 @@
         <delo did="3497" cid="88"/>
     </avtor>
     <avtor id="06737">
-        <ime-uradno>Fujs Metka</ime-uradno>
+        <ime-uradno>Fujs, Metka</ime-uradno>
         <ime>Fujs Metka</ime>
         <delo did="1451" cid="3 9 10"/>
         <delo did="1662" cid="151"/>
@@ -1980,7 +1981,7 @@
         <delo did="3465" cid="18"/>
     </avtor>
     <avtor id="00840">
-        <ime-uradno>Gabrič Aleš</ime-uradno>
+        <ime-uradno>Gabrič, Aleš</ime-uradno>
         <ime>Gabrič Aleš</ime>
         <ime>Gabrič  Aleš</ime>
         <dela did="3454 2966 2807 2525 2463 2298 2147 1883 1806 1799 1795 1772 1674 1652 1447 1297 1291 1289 1284 856 845 843 842 841 839 838 837 836 834 827 817 815 814 813 782 781 780 770 769 767 766 764 762 760 758 757 724 588 465 464 96 15"/>
@@ -2096,7 +2097,7 @@
         <delo did="2485" cid="2"/>
     </avtor>
     <avtor id="04637">
-        <ime-uradno>Gantar Godina Irena</ime-uradno>
+        <ime-uradno>Gantar Godina, Irena</ime-uradno>
         <ime>Gantar - Godina Irena</ime>
         <delo did="73" cid="18"/>
         <ime>Gantar Godina Irena</ime>
@@ -2136,7 +2137,7 @@
         <delo did="3269" cid="3"/>
     </avtor>
     <avtor id="22284">
-        <ime-uradno>Gašparič Jure</ime-uradno>
+        <ime-uradno>Gašparič, Jure</ime-uradno>
         <ime>Gašparič Jure</ime>
         <dela did="3287 3229 2788 2255 2194 2140 2074 2072 2019 1875 1697 1611 1587 1570 1512 1417 1412 1390 1128 1127 570 568 132"/>
         <dela did="991 548"/>
@@ -2211,7 +2212,7 @@
         <delo did="3133" cid="54"/>
     </avtor>
     <avtor id="22619">
-        <ime-uradno>Glažar Natalija</ime-uradno>
+        <ime-uradno>Glažar, Natalija</ime-uradno>
         <ime>Glažar Natalija</ime>
         <dela did="3120"/>
         <delo did="695" cid="6"/>
@@ -2221,7 +2222,7 @@
         <delo did="3186" cid="1 11"/>
     </avtor>
     <avtor id="08394">
-        <ime-uradno>Godeša Bojan</ime-uradno>
+        <ime-uradno>Godeša, Bojan</ime-uradno>
         <ime>Bojan Godeša – Ervin Dolenc</ime>
         <delo did="1512" cid="152"/>
         <ime>Godeša</ime>
@@ -2386,7 +2387,7 @@
         <delo did="508" cid="1"/>
     </avtor>
     <avtor id="14117">
-        <ime-uradno>Golec Boris</ime-uradno>
+        <ime-uradno>Golec, Boris</ime-uradno>
         <ime>Golec Boris</ime>
         <dela did="3465 3462 3443 3432 3414 3387 3263 3250 3236 3159 3158 3135 3126 3121 3083 2947 2663 2598 2589 2542 2517 2268 2212 2157 2116 2070 1741 1422 1288 1244 1216 1214 254 103"/>
         <delo did="53" cid="88"/>
@@ -2467,7 +2468,7 @@
         <delo did="2538" cid="12"/>
     </avtor>
     <avtor id="04077">
-        <ime-uradno>Gombač Boris</ime-uradno>
+        <ime-uradno>Gombač, Boris</ime-uradno>
         <ime>Gombač B.</ime>
         <delo did="2077" cid="10"/>
         <ime>Gombač B. M.</ime>
@@ -2512,7 +2513,7 @@
         <delo did="880" cid="37"/>
     </avtor>
     <avtor id="28594">
-        <ime-uradno>Gombač Maja</ime-uradno>
+        <ime-uradno>Gombač, Maja</ime-uradno>
         <ime>Gombač Maja</ime>
         <ime>Gombač  Maja</ime>
         <dela did="3289 2526"/>
@@ -2523,7 +2524,7 @@
         <delo did="3289" cid="96 107 226 229"/>
     </avtor>
     <avtor id="04523">
-        <ime-uradno>Gombač Metka</ime-uradno>
+        <ime-uradno>Gombač, Metka</ime-uradno>
         <ime>Gombač M.</ime>
         <delo did="736" cid="9 10"/>
         <ime>Gombač Metka</ime>
@@ -2548,7 +2549,7 @@
         <delo did="3390" cid="25"/>
     </avtor>
     <avtor id="13439">
-        <ime-uradno>Goropevšek Branko</ime-uradno>
+        <ime-uradno>Goropevšek, Branko</ime-uradno>
         <ime>Goropevšek Branko</ime>
         <dela did="1636 502 68"/>
         <dela did="94"/>
@@ -2585,27 +2586,27 @@
         <delo did="3508" cid="35"/>
     </avtor>
     <avtor id="35236">
-        <ime-uradno>Gostenčnik Nina</ime-uradno>
+        <ime-uradno>Gostenčnik, Nina</ime-uradno>
         <ime>Gostenčnik Nina</ime>
         <delo did="3286" cid="200"/>
         <delo did="3241" cid="252"/>
     </avtor>
     <avtor id="12929">
-        <ime-uradno>GOTOVINA VESNA</ime-uradno>
+        <ime-uradno>Gotovina, Vesna</ime-uradno>
         <ime>Gotovina Vesna</ime>
         <delo did="844" cid="73"/>
         <delo did="2843" cid="73"/>
     </avtor>
     <avtor id="12274">
-        <ime-uradno>Govekar Okoliš Monika</ime-uradno>
+        <ime-uradno>Govekar Okoliš, Monika</ime-uradno>
         <ime>Govekar-Okoliš Monika</ime>
         <dela did="3169"/>
     </avtor>
     <avtor id="13002">
-        <ime-uradno>Grabnar Marija</ime-uradno>
+        <ime-uradno>Grabnar, Marija</ime-uradno>
     </avtor>
     <avtor id="03159">
-        <ime-uradno>Grafenauer Bogoslav</ime-uradno>
+        <ime-uradno>Grafenauer, Bogo</ime-uradno>
         <ime>Bogo Grafenauer</ime>
         <delo did="2408" cid="1"/>
         <ime>Grafenauer B.</ime>
@@ -2804,7 +2805,7 @@
         <delo did="1511" cid="330"/>
     </avtor>
     <avtor id="26449">
-        <ime-uradno>Grafenauer Danijel</ime-uradno>
+        <ime-uradno>Grafenauer, Danijel</ime-uradno>
         <ime>Grafenauer Danijel</ime>
         <dela did="2689 2564"/>
         <delo did="2564" cid="3 4"/>
@@ -2813,7 +2814,7 @@
     </avtor>
     
     <avtor id="03471">
-        <ime-uradno>Granda Stanko</ime-uradno>
+        <ime-uradno>Granda, Stanko</ime-uradno>
         <ime>Granda Stane</ime>
         <dela did="3527 3334 2870 2579 2578 2226 2034 1869 1833 1714 1681 1410 1372 1298 1257 909 908 874"/>
         <delo did="21" cid="8"/>
@@ -2924,7 +2925,7 @@
         <dela did="65"/>
     </avtor>
     <avtor id="10900">
-        <ime-uradno>Grdina Igor</ime-uradno>
+        <ime-uradno>Grdina, Igor</ime-uradno>
         <ime>Grdina I.</ime>
         <delo did="727" cid="13"/>
         <delo did="742" cid="23"/>
@@ -3047,10 +3048,10 @@
         <delo did="864" cid="27"/>
     </avtor>
     <avtor id="35489">
-        <ime-uradno>Grgić Renko Manca</ime-uradno>
+        <ime-uradno>Grgić Renko, Manca</ime-uradno>
     </avtor>
     <avtor id="34641">
-        <ime-uradno>Griesser Pečar Tamara</ime-uradno>
+        <ime-uradno>Griesser Pečar, Tamara</ime-uradno>
         <ime>Grieser Pečar Tamara</ime>
         <delo did="3214" cid="21"/>
         <ime>Grieser-Pečar Tamara</ime>
@@ -3124,15 +3125,15 @@
         <delo did="2287" cid="45"/>
     </avtor>
     <avtor id="28605">
-        <ime-uradno>Grkman Stanislava</ime-uradno>
+        <ime-uradno>Grkman, Stanislava</ime-uradno>
     </avtor>
     <avtor id="03434">
-        <ime-uradno>Grum Martin</ime-uradno>
+        <ime-uradno>Grum, Martin</ime-uradno>
         <ime>Grum Martin .</ime>
         <delo did="322" cid="6"/>
     </avtor>
     <avtor id="09653">
-        <ime-uradno>Guštin Damijan</ime-uradno>
+        <ime-uradno>Guštin, Damijan</ime-uradno>
         <ime>Guštin Damija</ime>
         <dela did="1067"/>
         <ime>Guštin Damijan</ime>
@@ -3223,7 +3224,7 @@
         <delo did="1656" cid="17"/>
     </avtor>
     <avtor id="29512">
-        <ime-uradno>Hadalin Jurij</ime-uradno>
+        <ime-uradno>Hadalin, Jurij</ime-uradno>
         <ime>Hadalin Jurij</ime>
         <dela did="2883 2872 2819 2811 2379 1468"/>
         <delo did="2872" cid="59 60"/>
@@ -3234,13 +3235,13 @@
         <delo did="3507" cid="17"/>
     </avtor>
     <avtor id="34867">
-        <ime-uradno>Hajtnik Tatjana</ime-uradno>
+        <ime-uradno>Hajtnik, Tatjana</ime-uradno>
     </avtor>
     <avtor id="29078">
-        <ime-uradno>Hamler Lidija</ime-uradno>
+        <ime-uradno>Hamler, Lidija</ime-uradno>
     </avtor>
     <avtor id="30275">
-        <ime-uradno>Hančič Damjan</ime-uradno>
+        <ime-uradno>Hančič, Damjan</ime-uradno>
         <ime>Hančič D.</ime>
         <delo did="259" cid="11 12"/>
         <delo did="2288" cid="74"/>
@@ -3257,20 +3258,20 @@
         <delo did="3083" cid="23"/>
     </avtor>
     <avtor id="13071">
-        <ime-uradno>Hodnik Mira</ime-uradno>
+        <ime-uradno>Hodnik, Mira</ime-uradno>
         <ime>Hodnik Mira</ime>
         <dela did="2154 1991"/>
         <delo did="2797" cid="4"/>
     </avtor>
     <avtor id="14704">
-        <ime-uradno>Holcman Borut</ime-uradno>
+        <ime-uradno>Holcman, Borut</ime-uradno>
         <ime>Holcman Borut</ime>
         <dela did="3187 2365 2359"/>
         <delo did="104" cid="28"/>
         <delo did="3373" cid="4"/>
     </avtor>
     <avtor id="02100">
-        <ime-uradno>Holz Eva</ime-uradno>
+        <ime-uradno>Holz, Eva</ime-uradno>
         <ime>Holz E.</ime>
         <delo did="2018" cid="136 137 138"/>
         <delo did="2838" cid="215"/>
@@ -3315,7 +3316,7 @@
         <delo did="3488" cid="8"/>
     </avtor>
     <avtor id="06487">
-        <ime-uradno>Horvat Jasna</ime-uradno>
+        <ime-uradno>Horvat, Jasna</ime-uradno>
         <ime>Horvat Jasna</ime>
         <delo did="2118" cid="4"/>
         <delo did="2211" cid="42"/>
@@ -3323,7 +3324,7 @@
         <delo did="2599" cid="9"/>
     </avtor>
     <avtor id="10175">
-        <ime-uradno>Hozjan Andrej</ime-uradno>
+        <ime-uradno>Hozjan, Andrej</ime-uradno>
         <ime>Hozjan A.</ime>
         <delo did="2640" cid="70 71 72 73"/>
         <delo did="3178" cid="7"/>
@@ -3343,20 +3344,20 @@
         <delo did="3411" cid="29 41"/>
     </avtor>
     <avtor id="30793">
-        <ime-uradno>Huber Ivanka</ime-uradno>
+        <ime-uradno>Huber, Ivanka</ime-uradno>
     </avtor>
     <avtor id="30129">
-        <ime-uradno>Jaigma Martin</ime-uradno>
+        <ime-uradno>Jaigma, Martin</ime-uradno>
     </avtor>
     <avtor id="20059">
-        <ime-uradno>Jakopič Tadej</ime-uradno>
+        <ime-uradno>Jakopič, Tadej</ime-uradno>
         <ime>Jakopič Tadej</ime>
         <dela did="1822"/>
         <delo did="2604" cid="118"/>
         <delo did="2623" cid="91"/>
     </avtor>
     <avtor id="07326">
-        <ime-uradno>Janša - Zorn Olga</ime-uradno>
+        <ime-uradno>Janša - Zorn, Olga</ime-uradno>
         <ime>Janša O.</ime>
         <delo did="1999" cid="20 21"/>
         <ime>Janša Olga</ime>
@@ -3423,13 +3424,13 @@
         <delo did="864" cid="102"/>
     </avtor>
     <avtor id="28406">
-        <ime-uradno>Jenuš Gregor</ime-uradno>
+        <ime-uradno>Jenuš, Gregor</ime-uradno>
         <ime>Jenuš Gregor</ime>
         <dela did="2446 2195 2026 1515"/>
         <delo did="3377" cid="13"/>
     </avtor>
     <avtor id="12997">
-        <ime-uradno>Jeraj Mateja</ime-uradno>
+        <ime-uradno>Jeraj, Mateja</ime-uradno>
         <ime>Jeraj M.</ime>
         <delo did="2303" cid="18"/>
         <ime>Jeraj Mateja</ime>
@@ -3455,7 +3456,7 @@
         <delo did="3482" cid="4"/>
     </avtor>
     <avtor id="19340">
-        <ime-uradno>Jerše Sašo</ime-uradno>
+        <ime-uradno>Jerše, Sašo</ime-uradno>
         <ime>Jerše S.</ime>
         <delo did="2018" cid="153"/>
         <ime>Jerše Sašo</ime>
@@ -3465,13 +3466,13 @@
         <delo did="2536" cid="32"/>
     </avtor>
     <avtor id="26212">
-        <ime-uradno>Jeršin Tomassini Kristijan</ime-uradno>
+        <ime-uradno>Jeršin Tomassini, Kristijan</ime-uradno>
     </avtor>
     <avtor id="31998">
-        <ime-uradno>Jovanović Ana</ime-uradno>
+        <ime-uradno>Jovanović, Ana</ime-uradno>
     </avtor>
     <avtor id="12927">
-        <ime-uradno>Juričić Čargo Danijela</ime-uradno>
+        <ime-uradno>Juričić Čargo, Danijela</ime-uradno>
         <ime>Juričić Čargo</ime>
         <delo did="2517" cid="23"/>
         <ime>Juričić Čargo Daniela</ime>
@@ -3494,10 +3495,10 @@
         <delo did="112" cid="11"/>
     </avtor>
     <avtor id="32970">
-        <ime-uradno>Jurjevčič Mirjam</ime-uradno>
+        <ime-uradno>Jurjevčič, Mirjam</ime-uradno>
     </avtor>
     <avtor id="00311">
-        <ime-uradno>KACIN-WOHINZ EMILIJA</ime-uradno>
+        <ime-uradno>Kacin-Wohinz, Milica</ime-uradno>
         <ime>Kacin - Wohinz Milica</ime>
         <ime>Kacin - Wohinz Milica </ime>
         <delo did="112" cid="36 40 41"/>
@@ -3638,7 +3639,7 @@
         <delo did="2797" cid="11"/>
     </avtor>
     <avtor id="23037">
-        <ime-uradno>Kačičnik Gabrič Alenka</ime-uradno>
+        <ime-uradno>Kačičnik Gabrič, Alenka</ime-uradno>
         <ime>Kačičnik Gabrič Alenka</ime>
         <dela did="3463 2606 2242 2152 2151 2127 1230 1218 894 876"/>
         <delo did="85" cid="2"/>
@@ -3655,7 +3656,7 @@
         <delo did="3141" cid="11"/>
     </avtor>
     <avtor id="17057">
-        <ime-uradno>Kalc Aleksej</ime-uradno>
+        <ime-uradno>Kalc, Aleksej</ime-uradno>
         <ime>Kalc A.</ime>
         <delo did="86" cid="32"/>
         <delo did="226" cid="30 105 106"/>
@@ -3719,20 +3720,20 @@
         <delo did="2546" cid="31"/>
     </avtor>
     <avtor id="13394">
-        <ime-uradno>Kandus Nataša</ime-uradno>
+        <ime-uradno>Kandus, Nataša</ime-uradno>
     </avtor>
     <avtor id="35612">
-        <ime-uradno>Karničar Anja</ime-uradno>
+        <ime-uradno>Karničar, Anja</ime-uradno>
     </avtor>
     <avtor id="28155">
-        <ime-uradno>Kavrečič Petra</ime-uradno>
+        <ime-uradno>Kavrečič, Petra</ime-uradno>
         <ime>Kavrečič Petra</ime>
         <dela did="2035 1999"/>
         <delo did="2035" cid="13"/>
         <delo did="2414" cid="16"/>
     </avtor>
     <avtor id="24476">
-        <ime-uradno>Keber Katarina</ime-uradno>
+        <ime-uradno>Keber, Katarina</ime-uradno>
         <ime>Keber Katarina</ime>
         <dela did="3161 3095 2794 2780 2610 2244 2231 923 897 579 160"/>
         <delo did="29" cid="9"/>
@@ -3751,7 +3752,7 @@
         <delo did="3161" cid="33"/>
     </avtor>
     <avtor id="22605">
-        <ime-uradno>Kerec Darja</ime-uradno>
+        <ime-uradno>Kerec, Darja</ime-uradno>
         <ime>Darja Kerec</ime>
         <dela did="2938"/>
         <ime>Kerec D.</ime>
@@ -3784,10 +3785,10 @@
         <delo did="1695" cid="13 15"/>
     </avtor>
     <avtor id="30276">
-        <ime-uradno>Keršič Marta Milena</ime-uradno>
+        <ime-uradno>Keršič, Marta Milena</ime-uradno>
     </avtor>
     <avtor id="24376">
-        <ime-uradno>Klabjan Borut</ime-uradno>
+        <ime-uradno>Klabjan, Borut</ime-uradno>
         <ime>Klabjan B.</ime>
         <delo did="374" cid="28"/>
         <ime>Klabjan Borut</ime>
@@ -3806,7 +3807,7 @@
         <delo did="3098" cid="470"/>
     </avtor>
     <avtor id="05245">
-        <ime-uradno>Klasinc Peter Pavel</ime-uradno>
+        <ime-uradno>Klasinc, Peter Pavel</ime-uradno>
         <ime>Klasinc Peter</ime>
         <delo did="1288" cid="40"/>
         <delo did="1775" cid="12"/>
@@ -3820,7 +3821,7 @@
         <delo did="3300" cid="13"/>
     </avtor>
     <avtor id="23036">
-        <ime-uradno>Klasinc Škofljanec Andreja</ime-uradno>
+        <ime-uradno>Klasinc Škofljanec, Andreja</ime-uradno>
         <ime>Klasinc Škofljanec Andreja</ime>
         <dela did="2779"/>
         <delo did="2508" cid="5"/>
@@ -3828,12 +3829,12 @@
         <delo did="2837" cid="101 102"/>
     </avtor>
     <avtor id="28389">
-        <ime-uradno>Klavora Marko</ime-uradno>
+        <ime-uradno>Klavora, Marko</ime-uradno>
         <ime>Klavora Marko</ime>
         <dela did="3319"/>
     </avtor>
     <avtor id="08423">
-        <ime-uradno>Klemenčič Matjaž</ime-uradno>
+        <ime-uradno>Klemenčič, Matjaž</ime-uradno>
         <ime>Klemenčič Matjaž</ime>
         <ime>Klemenčič Matjaž </ime>
         <dela did="3283 3033 2937 2920 2837 2825 2763 2734 2718 2707 2674 2662 1715 1532 1346 998 436 248 216 215 214 213 212 211 210 209 208 207 206 205"/>
@@ -3909,17 +3910,17 @@
         <delo did="2674" cid="7"/>
     </avtor>
     <avtor id="17029">
-        <ime-uradno>Knez Darko</ime-uradno>
+        <ime-uradno>Knez, Darko</ime-uradno>
         <ime>Knez Darko</ime>
         <delo did="2036" cid="6"/>
         <delo did="2692" cid="12"/>
         <delo did="2698" cid="4"/>
     </avtor>
     <avtor id="35534">
-        <ime-uradno>Kočevar Vanja</ime-uradno>
+        <ime-uradno>Kočevar, Vanja</ime-uradno>
     </avtor>
     <avtor id="12881">
-        <ime-uradno>Kolar Bogdan</ime-uradno>
+        <ime-uradno>Kolar, Bogdan</ime-uradno>
         <ime>Kolar B.</ime>
         <delo did="1828" cid="1"/>
         <delo did="1829" cid="14"/>
@@ -3958,7 +3959,7 @@
         <delo did="2438" cid="3"/>
     </avtor>
     <avtor id="13003">
-        <ime-uradno>Kološa Vladimir</ime-uradno>
+        <ime-uradno>Kološa, Vladimir</ime-uradno>
         <ime>Kološa Vladimir</ime>
         <delo did="126" cid="1"/>
         <delo did="247" cid="28"/>
@@ -3979,7 +3980,7 @@
         <delo did="2202" cid="5"/>
     </avtor>
     <avtor id="19275">
-        <ime-uradno>Komac Andrej</ime-uradno>
+        <ime-uradno>Komac, Andrej</ime-uradno>
         <ime>Komac Andrej</ime>
         <dela did="53"/>
         <delo did="53" cid="2 3 4"/>
@@ -4012,7 +4013,7 @@
         <delo did="2647" cid="128"/>
     </avtor>
     <avtor id="32014">
-        <ime-uradno>Koncilija Žiga</ime-uradno>
+        <ime-uradno>Koncilija, Žiga</ime-uradno>
         <ime>Koncilija Žiga</ime>
         <dela did="3534 3307 2884 2804"/>
         <delo did="3160" cid="2"/>
@@ -4020,7 +4021,7 @@
         <delo did="3534" cid="7 12"/>
     </avtor>
     <avtor id="08910">
-        <ime-uradno>Kopač Janez</ime-uradno>
+        <ime-uradno>Kopač, Janez</ime-uradno>
         <ime>Kopač J.</ime>
         <delo did="172" cid="17"/>
         <ime>Kopač Janez</ime>
@@ -4036,14 +4037,14 @@
         <delo did="2843" cid="7 99"/>
     </avtor>
     <avtor id="28595">
-        <ime-uradno>Kopitar Adrijan</ime-uradno>
+        <ime-uradno>Kopitar, Adrijan</ime-uradno>
         <ime>Kopitar A.</ime>
         <delo did="3512" cid="18"/>
         <ime>Kopitar Adrijan</ime>
         <delo did="3527" cid="11"/>
     </avtor>
     <avtor id="08466">
-        <ime-uradno>Kos Dušan</ime-uradno>
+        <ime-uradno>Kos, Dušan</ime-uradno>
         <ime>Dušan Kos</ime>
         <delo did="2016" cid="74"/>
         <ime>Kos Dušan</ime>
@@ -4149,21 +4150,21 @@
         <delo did="2412" cid="37"/>
     </avtor>
     <avtor id="13814">
-        <ime-uradno>Kos Marija</ime-uradno>
+        <ime-uradno>Kos, Marija</ime-uradno>
         <ime>Kos Marija</ime>
         <delo did="2517" cid="25"/>
         <delo did="3159" cid="24"/>
         <delo did="3241" cid="154"/>
     </avtor>
     <avtor id="03433">
-        <ime-uradno>Kos Zabel Mateja</ime-uradno>
+        <ime-uradno>Kos Zabel, Mateja</ime-uradno>
         <ime>Kos Mateja</ime>
         <dela did="2122 1238"/>
         <delo did="2122" cid="4"/>
         <delo did="2237" cid="14"/>
     </avtor>
     <avtor id="28529">
-        <ime-uradno>Kosi Jernej</ime-uradno>
+        <ime-uradno>Kosi, Jernej</ime-uradno>
         <ime>Kosi Jernej</ime>
         <dela did="2428 1791 562"/>
         <delo did="2764" cid="59"/>
@@ -4171,7 +4172,7 @@
         <delo did="3292" cid="1"/>
     </avtor>
     <avtor id="16316">
-        <ime-uradno>Kosi Mihael</ime-uradno>
+        <ime-uradno>Kosi, Mihael</ime-uradno>
         <ime>Kosi M.</ime>
         <delo did="2069" cid="20"/>
         <delo did="2587" cid="9"/>
@@ -4235,10 +4236,10 @@
         <delo did="1420" cid="12"/>
     </avtor>
     <avtor id="33311">
-        <ime-uradno>Kosmač Miha</ime-uradno>
+        <ime-uradno>Kosmač, Miha</ime-uradno>
     </avtor>
     <avtor id="12933">
-        <ime-uradno>Košir Matevž</ime-uradno>
+        <ime-uradno>Košir, Matevž</ime-uradno>
         <ime>Košir Matevž</ime>
         <ime>Košir  Matevž</ime>
         <dela did="3100 2529 256 59 54"/>
@@ -4267,7 +4268,7 @@
         <delo did="3416" cid="37"/>
     </avtor>
     <avtor id="18129">
-        <ime-uradno>Kovacs Attila</ime-uradno>
+        <ime-uradno>Kovács, Attila</ime-uradno>
         <ime>Kovacs Attila</ime>
         <delo did="2565" cid="15 16"/>
         <delo did="2662" cid="33"/>
@@ -4282,7 +4283,7 @@
         <delo did="3528" cid="29"/>
     </avtor>
     <avtor id="25577">
-        <ime-uradno>Kovačič Mojca</ime-uradno>
+        <ime-uradno>Kovačič, Mojca</ime-uradno>
         <ime>Kovačič Mojca</ime>
         <dela did="2450 2211"/>
         <delo did="1762" cid="82"/>
@@ -4296,7 +4297,7 @@
         <delo did="3195" cid="1"/>
     </avtor>
     <avtor id="12934">
-        <ime-uradno>Kozina Brane</ime-uradno>
+        <ime-uradno>Kozina, Brane</ime-uradno>
         <ime>Kozina Brane</ime>
         <dela did="500"/>
         <delo did="456" cid="14"/>
@@ -4305,15 +4306,15 @@
         <delo did="2017" cid="39"/>
     </avtor>
     <avtor id="21804">
-        <ime-uradno>Krajnc-Vrečko Štefanija</ime-uradno>
+        <ime-uradno>Krajnc-Vrečko, Štefanija</ime-uradno>
         <ime>Kranjc Vrečko Fanika</ime>
         <delo did="1793" cid="1"/>
     </avtor>
     <avtor id="14442">
-        <ime-uradno>Kramberger Marta</ime-uradno>
+        <ime-uradno>Kramberger, Marta</ime-uradno>
     </avtor>
     <avtor id="17060">
-        <ime-uradno>Kramberger Taja</ime-uradno>
+        <ime-uradno>Kramberger, Taja</ime-uradno>
         <ime>Kramberger T.</ime>
         <ime>Kramberger T. </ime>
         <delo did="1746" cid="7"/>
@@ -4331,7 +4332,7 @@
         <delo did="2822" cid="26"/>
     </avtor>
     <avtor id="00312">
-        <ime-uradno>Kresal Franc</ime-uradno>
+        <ime-uradno>Kresal, Franc</ime-uradno>
         <ime>Kresal Franc</ime>
         <delo did="2075" cid="7 9"/>
         <delo did="2401" cid="14"/>
@@ -4423,7 +4424,7 @@
         <delo did="2028" cid="5"/>
     </avtor>
     <avtor id="06164">
-        <ime-uradno>Kristen Samo</ime-uradno>
+        <ime-uradno>Kristen, Samo</ime-uradno>
         <ime>Kristen Samo</ime>
         <dela did="3206 3034 2919 2899 2741 2739 2714 1739 632 334"/>
         <delo did="140" cid="36 40"/>
@@ -4452,7 +4453,7 @@
         <delo did="2837" cid="95"/>
     </avtor>
     <avtor id="13186">
-        <ime-uradno>KRIVOGRAD ALOJZ</ime-uradno>
+        <ime-uradno>Krivograd, Alojz</ime-uradno>
         <ime>Krivograd Alojz</ime>
         <dela did="2241 979"/>
         <delo did="124" cid="10 23"/>
@@ -4465,17 +4466,17 @@
         <delo did="3022" cid="98 104"/>
     </avtor>
     <avtor id="29167">
-        <ime-uradno>Križnar Polona</ime-uradno>
+        <ime-uradno>Križnar, Polona</ime-uradno>
     </avtor>
     <avtor id="01301">
-        <ime-uradno>KRNEL-UMEK DUŠA</ime-uradno>
+        <ime-uradno>Krnel-Umek, Duša</ime-uradno>
         <ime>Krnel Umek Duša</ime>
         <delo did="3072" cid="27"/>
         <ime>Krnel-Umek Duša</ime>
         <delo did="1624" cid="64"/>
     </avtor>
     <avtor id="13082">
-        <ime-uradno>Kržišnik-Bukić Vera</ime-uradno>
+        <ime-uradno>Kržišnik-Bukić, Vera</ime-uradno>
         <ime>Kržišnik Bukić  Vera</ime>
         <ime>Kržišnik Bukić Vera</ime>
         <dela did="2566"/>
@@ -4515,7 +4516,7 @@
         <delo did="3477" cid="26"/>
     </avtor>
     <avtor id="16029">
-        <ime-uradno>Kuzmič Franc</ime-uradno>
+        <ime-uradno>Kuzmič, Franc</ime-uradno>
         <ime>Kuzmič F.</ime>
         <delo did="2474" cid="30 31"/>
         <ime>Kuzmič Franc</ime>
@@ -4538,7 +4539,7 @@
         <delo did="3399" cid="22"/>
     </avtor>
     <avtor id="19145">
-        <ime-uradno>Kuzmič Mihael</ime-uradno>
+        <ime-uradno>Kuzmič, Mihael</ime-uradno>
         <ime>Kuzmič Mihael</ime>
         <delo did="36" cid="3"/>
         <delo did="2718" cid="25"/>
@@ -4547,19 +4548,19 @@
         <delo did="3395" cid="39"/>
     </avtor>
     <avtor id="34515">
-        <ime-uradno>Lampe Urška</ime-uradno>
+        <ime-uradno>Lampe, Urška</ime-uradno>
     </avtor>
     <avtor id="29863">
-        <ime-uradno>Lauraityte Ieva</ime-uradno>
+        <ime-uradno>Lauraityte, Ieva</ime-uradno>
     </avtor>
     <avtor id="30278">
-        <ime-uradno>Lazar Tomaž</ime-uradno>
+        <ime-uradno>Lazar, Tomaž</ime-uradno>
         <ime>Lazar Tomaž</ime>
         <dela did="3249 161"/>
         <delo did="3249" cid="15 16"/>
     </avtor>
     <avtor id="08543">
-        <ime-uradno>Lazarevič Žarko</ime-uradno>
+        <ime-uradno>Lazarević, Žarko</ime-uradno>
         <ime>Lazaravić Žarko</ime>
         <delo did="2299" cid="88"/>
         <delo did="2304" cid="7 22 46 47 73"/>
@@ -4682,7 +4683,7 @@
         <delo did="2871" cid="23"/>
     </avtor>
     <avtor id="29394">
-        <ime-uradno>Lazarini Franci</ime-uradno>
+        <ime-uradno>Lazarini, Franci</ime-uradno>
         <ime>Lazarini Franc</ime>
         <delo did="201" cid="36"/>
         <ime>Lazarini Franci</ime>
@@ -4690,7 +4691,7 @@
         <delo did="3417" cid="2"/>
     </avtor>
     <avtor id="02863">
-        <ime-uradno>LESKOVEC ANTOŠA</ime-uradno>
+        <ime-uradno>Leskovec, Antoša</ime-uradno>
         <ime>Leskovec A.</ime>
         <delo did="2640" cid="127 128"/>
         <ime>Leskovec Antoša</ime>
@@ -4716,7 +4717,7 @@
         <delo did="3387" cid="61"/>
     </avtor>
     <avtor id="11797">
-        <ime-uradno>Lešnik Avgust</ime-uradno>
+        <ime-uradno>Lešnik, Avgust</ime-uradno>
         <ime>Lešnik A.</ime>
         <delo did="1981" cid="18 19"/>
         <delo did="2170" cid="21"/>
@@ -4732,16 +4733,16 @@
         <delo did="3349" cid="11 13 17"/>
     </avtor>
     <avtor id="40091">
-        <ime-uradno>Lisjak Gabrijelčič Luka</ime-uradno>
+        <ime-uradno>Lisjak Gabrijelčič, Luka</ime-uradno>
     </avtor>
     <avtor id="22571">
-        <ime-uradno>Litrop Jasmina</ime-uradno>
+        <ime-uradno>Litrop, Jasmina</ime-uradno>
     </avtor>
     <avtor id="13001">
-        <ime-uradno>Ljubič Aljoša</ime-uradno>
+        <ime-uradno>Ljubič, Aljoša</ime-uradno>
     </avtor>
     <avtor id="29513">
-        <ime-uradno>Lorenčič Aleksander</ime-uradno>
+        <ime-uradno>Lorenčič, Aleksander</ime-uradno>
         <ime>Lorenčič  Aleksander</ime>
         <ime>Lorenčič Aleksander</ime>
         <dela did="2286"/>
@@ -4759,7 +4760,7 @@
         <delo did="2967" cid="15"/>
     </avtor>
     <avtor id="10141">
-        <ime-uradno>Lozar Štamcar Maja</ime-uradno>
+        <ime-uradno>Lozar Štamcar, Maja</ime-uradno>
         <ime>Lozar Stamcar Maja</ime>
         <delo did="2118" cid="3"/>
         <ime>Lozar Štamcar M.</ime>
@@ -4776,7 +4777,7 @@
         <dela did="1249 1236"/>
     </avtor>
     <avtor id="21755">
-        <ime-uradno>Lukan Walter</ime-uradno>
+        <ime-uradno>Lukan, Walter</ime-uradno>
         <ime>Lukan Walter</ime>
         <ime>Lukan  Walter</ime>
         <dela did="2201 1751 1736 1300"/>
@@ -4833,7 +4834,7 @@
         <dela did="1677"/>
     </avtor>
     <avtor id="01008">
-        <ime-uradno>Luthar Oto</ime-uradno>
+        <ime-uradno>Luthar, Oto</ime-uradno>
         <ime>Luthar O.</ime>
         <delo did="738" cid="23"/>
         <delo did="739" cid="47"/>
@@ -4873,7 +4874,7 @@
         <dela did="272"/>
     </avtor>
     <avtor id="35234">
-        <ime-uradno>Maček Jure</ime-uradno>
+        <ime-uradno>Maček, Jure</ime-uradno>
         <ime>Maček Jure</ime>
         <dela did="3377 1582"/>
         <delo did="89" cid="2"/>
@@ -4882,12 +4883,12 @@
         <delo did="3286" cid="198"/>
     </avtor>
     <avtor id="19065">
-        <ime-uradno>Mahnič Katja</ime-uradno>
+        <ime-uradno>Mahnič, Katja</ime-uradno>
         <ime>Mahnič Žvanut Katja</ime>
         <delo did="2590" cid="31"/>
     </avtor>
     <avtor id="25644">
-        <ime-uradno>Makuc Neva</ime-uradno>
+        <ime-uradno>Makuc, Neva</ime-uradno>
         <ime>Makuc N.</ime>
         <delo did="2319" cid="30"/>
         <ime>Makuc Neva</ime>
@@ -4899,19 +4900,19 @@
         <delo did="42" cid="17"/>
     </avtor>
     <avtor id="28399">
-        <ime-uradno>Mally Eva</ime-uradno>
+        <ime-uradno>Mally, Eva</ime-uradno>
         <ime>Mally Eva</ime>
         <dela did="3305 3285 2939 2799 1450"/>
         <delo did="3285" cid="222"/>
     </avtor>
     <avtor id="13219">
-        <ime-uradno>Marenk Stane</ime-uradno>
+        <ime-uradno>Marenk, Stane</ime-uradno>
     </avtor>
     <avtor id="35613">
-        <ime-uradno>Markelj Miha</ime-uradno>
+        <ime-uradno>Markelj, Miha</ime-uradno>
     </avtor>
     <avtor id="00599">
-        <ime-uradno>Marolt Janez</ime-uradno>
+        <ime-uradno>Marolt, Janez</ime-uradno>
         <ime>Marolt Janez</ime>
         <dela did="1375"/>
         <delo did="504" cid="6"/>
@@ -4922,7 +4923,7 @@
         <delo did="1240" cid="5"/>
     </avtor>
     <avtor id="07103">
-        <ime-uradno>Marušič Branko</ime-uradno>
+        <ime-uradno>Marušič, Branko</ime-uradno>
         <ime>Marušič B.</ime>
         <delo did="1762" cid="96"/>
         <delo did="1979" cid="6 7"/>
@@ -5017,7 +5018,7 @@
         <delo did="3508" cid="4"/>
     </avtor>
     <avtor id="13072">
-        <ime-uradno>Matić Dragan</ime-uradno>
+        <ime-uradno>Matić, Dragan</ime-uradno>
         <ime>Matić Dragan</ime>
         <ime>Matić  Dragan</ime>
         <dela did="2568 1880 1312 674 513"/>
@@ -5078,10 +5079,10 @@
         <delo did="2618" cid="64"/>
     </avtor>
     <avtor id="13815">
-        <ime-uradno>Matijevič Marjeta</ime-uradno>
+        <ime-uradno>Matijevič, Marjeta</ime-uradno>
     </avtor>
     <avtor id="11963">
-        <ime-uradno>Matjašič Friš Mateja</ime-uradno>
+        <ime-uradno>Matjašič Friš, Mateja</ime-uradno>
         <ime>Matjašič Friš Mateja</ime>
         <dela did="2443 1592 1001"/>
         <delo did="629" cid="79"/>
@@ -5092,14 +5093,14 @@
         <delo did="2646" cid="24"/>
     </avtor>
     <avtor id="33696">
-        <ime-uradno>Maver Aleš</ime-uradno>
+        <ime-uradno>Maver, Aleš</ime-uradno>
         <ime>Maver A.</ime>
         <delo did="3261" cid="20"/>
         <ime>Maver Aleš</ime>
         <delo did="3081" cid="11"/>
     </avtor>
     <avtor id="02714">
-        <ime-uradno>Melik Jelka</ime-uradno>
+        <ime-uradno>Melik, Jelka</ime-uradno>
         <ime>Melik J.</ime>
         <delo did="2303" cid="18"/>
         <ime>Melik Jelka</ime>
@@ -5124,7 +5125,7 @@
         <delo did="3286" cid="7 9"/>
     </avtor>
     <avtor id="03606">
-        <ime-uradno>Melik Vasilij</ime-uradno>
+        <ime-uradno>Melik, Vasilij</ime-uradno>
         <ime>Vasilij</ime>
         <delo did="1615" cid="6"/>
         <ime>Melik</ime>
@@ -5383,7 +5384,7 @@
         <delo did="2578" cid="1"/>
     </avtor>
     <avtor id="06501">
-        <ime-uradno>Mihelič Darjenka</ime-uradno>
+        <ime-uradno>Mihelič, Darjenka</ime-uradno>
         <ime>Gestrin Ferdo - Mihelič Darja</ime>
         <delo did="2628" cid="8"/>
         <ime>Mihelič D.</ime>
@@ -5456,7 +5457,7 @@
         <delo did="3477" cid="24"/>
     </avtor>
     <avtor id="10163">
-        <ime-uradno>Mikola Milko</ime-uradno>
+        <ime-uradno>Mikola, Milko</ime-uradno>
         <ime>Mikola  Milko</ime>
         <ime>Mikola Milko</ime>
         <dela did="600 583"/>
@@ -5497,14 +5498,14 @@
         <delo did="3536" cid="8"/>
     </avtor>
     <avtor id="31243">
-        <ime-uradno>Mikša Peter</ime-uradno>
+        <ime-uradno>Mikša, Peter</ime-uradno>
         <ime>Mikša Peter</ime>
         <dela did="3156 2885"/>
         <delo did="2885" cid="6"/>
         <delo did="3156" cid="4"/>
     </avtor>
     <avtor id="20080">
-        <ime-uradno>Miškec Alenka</ime-uradno>
+        <ime-uradno>Miškec, Alenka</ime-uradno>
         <ime>Miškec A.</ime>
         <delo did="1748" cid="681"/>
         <delo did="1939" cid="58"/>
@@ -5512,13 +5513,13 @@
         <dela did="1939"/>
     </avtor>
     <avtor id="29463">
-        <ime-uradno>Mithans Gašper</ime-uradno>
+        <ime-uradno>Mithans, Gašper</ime-uradno>
         <ime>Mithans Gašper</ime>
         <dela did="3342 2769"/>
         <delo did="3342" cid="26"/>
     </avtor>
     <avtor id="14304">
-        <ime-uradno>Mlacović Dušan</ime-uradno>
+        <ime-uradno>Mlacović, Dušan</ime-uradno>
         <ime>Mlacović Dušan</ime>
         <dela did="1821"/>
         <delo did="1821" cid="5"/>
@@ -5528,7 +5529,7 @@
         <delo did="1821" cid="7"/>
     </avtor>
     <avtor id="04075">
-        <ime-uradno>Mlakar Boris</ime-uradno>
+        <ime-uradno>Mlakar, Boris</ime-uradno>
         <ime>Boris Mlakar</ime>
         <dela did="1292"/>
         <ime>Mlakar, Boris</ime>
@@ -5691,7 +5692,7 @@
         <delo did="1414" cid="27"/>
     </avtor>
     <avtor id="18850">
-        <ime-uradno>Mlinar Janez</ime-uradno>
+        <ime-uradno>Mlinar, Janez</ime-uradno>
         <ime>Mlinar Janez</ime>
         <dela did="3439 2036 1761 439"/>
         <delo did="163" cid="41"/>
@@ -5708,7 +5709,7 @@
         <delo did="3465" cid="78"/>
     </avtor>
     <avtor id="05003">
-        <ime-uradno>Mlinarič Jože</ime-uradno>
+        <ime-uradno>Mlinarič, Jože</ime-uradno>
         <ime>Mlinarič J.</ime>
         <delo did="1761" cid="15"/>
         <delo did="1833" cid="3"/>
@@ -5809,18 +5810,18 @@
         <delo did="1789" cid="10"/>
     </avtor>
     <avtor id="23443">
-        <ime-uradno>Movrin David</ime-uradno>
+        <ime-uradno>Movrin, David</ime-uradno>
         <ime>Movrin David</ime>
         <delo did="1789" cid="7"/>
     </avtor>
     <avtor id="23035">
-        <ime-uradno>Mrdavšič Aleksandra</ime-uradno>
+        <ime-uradno>Mrdavšič, Aleksandra</ime-uradno>
     </avtor>
     <avtor id="33265">
-        <ime-uradno>Mudražija Tin</ime-uradno>
+        <ime-uradno>Mudražija, Tin</ime-uradno>
     </avtor>
     <avtor id="17071">
-        <ime-uradno>Nabergoj Tomaž</ime-uradno>
+        <ime-uradno>Nabergoj, Tomaž</ime-uradno>
         <ime>Nabergoj T.</ime>
         <delo did="1948" cid="27"/>
         <delo did="2587" cid="11 12"/>
@@ -5836,7 +5837,7 @@
         <delo did="917" cid="23"/>
     </avtor>
     <avtor id="28596">
-        <ime-uradno>Nared Andrej</ime-uradno>
+        <ime-uradno>Nared, Andrej</ime-uradno>
         <ime>Nared A.</ime>
         <delo did="2631" cid="237"/>
         <ime>Nared Andrej</ime>
@@ -5857,7 +5858,7 @@
         <delo did="3460" cid="32"/>
     </avtor>
     <avtor id="00862">
-        <ime-uradno>Nečak Dušan</ime-uradno>
+        <ime-uradno>Nečak, Dušan</ime-uradno>
         <ime>Nećak Dušan</ime>
         <dela did="3479 3362 2762 2570 2429 1911 1785 1662 1641 1329 939 518 308 222"/>
         <dela did="2700"/>
@@ -5959,7 +5960,7 @@
         <delo did="3241" cid="61"/>
     </avtor>
     <avtor id="14671">
-        <ime-uradno>Nemec Nastaška</ime-uradno>
+        <ime-uradno>Nemec, Nastaška</ime-uradno>
         <ime>Nemec Nataša</ime>
         <delo did="430" cid="57"/>
         <delo did="1301" cid="51"/>
@@ -5968,10 +5969,10 @@
         <delo did="1662" cid="80"/>
     </avtor>
     <avtor id="18868">
-        <ime-uradno>Obadič Anton</ime-uradno>
+        <ime-uradno>Obadič, Anton</ime-uradno>
     </avtor>
     <avtor id="02010">
-        <ime-uradno>OBLAK-ČARNI MARIJA</ime-uradno>
+        <ime-uradno>Oblak-Čarni, Marija</ime-uradno>
         <ime>Čarni Marija Oblak</ime>
         <delo did="2843" cid="38 39"/>
         <ime>Oblak Čarni M.</ime>
@@ -5982,7 +5983,7 @@
         <delo did="253" cid="5"/>
     </avtor>
     <avtor id="06668">
-        <ime-uradno>Oder Karla</ime-uradno>
+        <ime-uradno>Oder, Karla</ime-uradno>
         <ime>Oder Karla</ime>
         <dela did="2243 124"/>
         <delo did="124" cid="8"/>
@@ -5997,7 +5998,7 @@
         <delo did="2794" cid="8 9"/>
     </avtor>
     <avtor id="12773">
-        <ime-uradno>Ogrizek Emica</ime-uradno>
+        <ime-uradno>Ogrizek, Emica</ime-uradno>
         <ime>Ogrizek Emica</ime>
         <dela did="2955"/>
         <delo did="990" cid="9 10"/>
@@ -6006,13 +6007,13 @@
         <delo did="3300" cid="13"/>
     </avtor>
     <avtor id="35237">
-        <ime-uradno>Oman Žiga</ime-uradno>
+        <ime-uradno>Oman, Žiga</ime-uradno>
         <ime>Oman Žiga</ime>
         <dela did="3401"/>
         <delo did="3275" cid="4"/>
     </avtor>
     <avtor id="29514">
-        <ime-uradno>Oset Željko</ime-uradno>
+        <ime-uradno>Oset, Željko</ime-uradno>
         <ime>Oset Željko</ime>
         <dela did="2782 2314 2275 2269 2134"/>
         <delo did="2134" cid="11"/>
@@ -6022,7 +6023,7 @@
         <delo did="2814" cid="1"/>
     </avtor>
     <avtor id="00991">
-        <ime-uradno>OTOREPEC BOŽO</ime-uradno>
+        <ime-uradno>Otorepec, Božo</ime-uradno>
         <ime>Božo Otorepec</ime>
         <delo did="2622" cid="6"/>
         <ime>Otorepec B.</ime>
@@ -6099,10 +6100,10 @@
         <delo did="2172" cid="9"/>
     </avtor>
     <avtor id="32540">
-        <ime-uradno>Oven Stanič Maja</ime-uradno>
+        <ime-uradno>Oven Stanič, Maja</ime-uradno>
     </avtor>
     <avtor id="05246">
-        <ime-uradno>Ožinger Anton</ime-uradno>
+        <ime-uradno>Ožinger, Anton</ime-uradno>
         <ime>Ožinger A.</ime>
         <delo did="2616" cid="12"/>
         <delo did="2631" cid="253"/>
@@ -6123,14 +6124,14 @@
         <delo did="3411" cid="11"/>
     </avtor>
     <avtor id="02202">
-        <ime-uradno>Pagon Adriana Neda</ime-uradno>
+        <ime-uradno>Pagon, Adriana Neda</ime-uradno>
         <ime>Pagon Neda</ime>
         <delo did="226" cid="155 156"/>
         <ime>Pagon. N.</ime>
         <delo did="226" cid="157"/>
     </avtor>
     <avtor id="16350">
-        <ime-uradno>Pančur Andrej</ime-uradno>
+        <ime-uradno>Pančur, Andrej</ime-uradno>
         <ime>Pančur Andrej</ime>
         <dela did="3431 2575 2476 2311 1887 1813 1695 1683 1480 1283 1052 1044 1025 1024 1023 1022 1021 1020 1019 1018 1017 1016 663 298 109"/>
         <delo did="27" cid="2"/>
@@ -6191,7 +6192,7 @@
         <delo did="3527" cid="13"/>
     </avtor>
     <avtor id="24014">
-        <ime-uradno>Panjek Aleksander</ime-uradno>
+        <ime-uradno>Panjek, Aleksander</ime-uradno>
         <ime>Panjek A.</ime>
         <delo did="1938" cid="14"/>
         <delo did="1997" cid="37"/>
@@ -6220,10 +6221,10 @@
         <delo did="3515" cid="1"/>
     </avtor>
     <avtor id="19000">
-        <ime-uradno>Pavlica Kolman Hedvika</ime-uradno>
+        <ime-uradno>Pavlica Kolman, Hedvika</ime-uradno>
     </avtor>
     <avtor id="16066">
-        <ime-uradno>Pavlin Tomaž</ime-uradno>
+        <ime-uradno>Pavlin, Tomaž</ime-uradno>
         <ime>Pavlin Tomaž</ime>
         <dela did="2879 2555 2190 2133 1800 1446 640"/>
         <delo did="137" cid="15"/>
@@ -6245,7 +6246,7 @@
         <delo did="2555" cid="5"/>
     </avtor>
     <avtor id="12648">
-        <ime-uradno>Pelikan Egon</ime-uradno>
+        <ime-uradno>Pelikan, Egon</ime-uradno>
         <ime>Pelikan E.</ime>
         <delo did="1916" cid="32"/>
         <ime>Pelikan Egon</ime>
@@ -6343,7 +6344,7 @@
         <delo did="3107" cid="3 4 13"/>
     </avtor>
     <avtor id="04755">
-        <ime-uradno>Penič Lojze</ime-uradno>
+        <ime-uradno>Penič, Lojze</ime-uradno>
         <ime>Penič Lojze</ime>
         <dela did="3295"/>
         <delo did="16" cid="29 129"/>
@@ -6366,7 +6367,7 @@
         <delo did="3530" cid="13"/>
     </avtor>
     <avtor id="08411">
-        <ime-uradno>Perovšek Jurij</ime-uradno>
+        <ime-uradno>Perovšek, Jurij</ime-uradno>
         <ime>Perovšek Jirij</ime>
         <delo did="3288" cid="70"/>
         <ime>Perovšek Jure</ime>
@@ -6674,7 +6675,7 @@
         <delo did="1727" cid="5"/>
     </avtor>
     <avtor id="08315">
-        <ime-uradno>Peršič Janez</ime-uradno>
+        <ime-uradno>Peršič, Janez</ime-uradno>
         <ime>Peršič J.</ime>
         <delo did="2451" cid="17"/>
         <ime>Peršič Janez</ime>
@@ -6695,7 +6696,7 @@
         <delo did="2412" cid="54"/>
     </avtor>
     <avtor id="29333">
-        <ime-uradno>Pesek Rosvita</ime-uradno>
+        <ime-uradno>Pesek, Rosvita</ime-uradno>
         <ime>Pesek Rosvita</ime>
         <dela did="2812 2712 1819 1524 437"/>
         <delo did="1280" cid="8"/>
@@ -6713,7 +6714,7 @@
         <delo did="3286" cid="51"/>
     </avtor>
     <avtor id="30441">
-        <ime-uradno>Peternel Marija Mojca</ime-uradno>
+        <ime-uradno>Peternel, Marija Mojca</ime-uradno>
         <ime>Peternel Marija Mojca</ime>
         <dela did="3272 304"/>
         <delo did="3241" cid="70"/>
@@ -6727,7 +6728,7 @@
         <delo did="3272" cid="14"/>
     </avtor>
     <avtor id="13145">
-        <ime-uradno>Petrič Franci</ime-uradno>
+        <ime-uradno>Petrič, Franci</ime-uradno>
         <ime>Petrič F.</ime>
         <delo did="1852" cid="5"/>
         <ime>Petrič Franc</ime>
@@ -6739,7 +6740,7 @@
         <delo did="2423" cid="48"/>
     </avtor>
     <avtor id="13078">
-        <ime-uradno>Pirc Janez</ime-uradno>
+        <ime-uradno>Pirc, Janez</ime-uradno>
         <ime>Pirc Janez</ime>
         <dela did="2930 2847 2679 2678 2656"/>
         <dela did="2748"/>
@@ -6755,7 +6756,7 @@
         <delo did="2931" cid="24"/>
     </avtor>
     <avtor id="17051">
-        <ime-uradno>Pirjevec Jože</ime-uradno>
+        <ime-uradno>Pirjevec, Jože</ime-uradno>
         <ime>Prijevec Jože</ime>
         <delo did="800" cid="24"/>
         <ime>Giuseppe Pierazzi (Pirjevec Jože)</ime>
@@ -6955,17 +6956,17 @@
         <delo did="2873" cid="302"/>
     </avtor>
     <avtor id="23133">
-        <ime-uradno>Piškurić Jelka</ime-uradno>
+        <ime-uradno>Piškurić, Jelka</ime-uradno>
         <ime>Piškurić Jelka</ime>
         <dela did="560"/>
         <ime>Piškurič Jelka</ime>
         <delo did="3196" cid="3"/>
     </avtor>
     <avtor id="32803">
-        <ime-uradno>Pivec Gregor</ime-uradno>
+        <ime-uradno>Pivec, Gregor</ime-uradno>
     </avtor>
     <avtor id="14807">
-        <ime-uradno>Pivk Olga</ime-uradno>
+        <ime-uradno>Pivk, Olga</ime-uradno>
         <ime>Olga Pivk</ime>
         <dela did="2957"/>
         <ime>Pivk Olga</ime>
@@ -6974,10 +6975,10 @@
         <delo did="2960" cid="12"/>
     </avtor>
     <avtor id="28606">
-        <ime-uradno>Planinc Lucija</ime-uradno>
+        <ime-uradno>Planinc, Lucija</ime-uradno>
     </avtor>
     <avtor id="06944">
-        <ime-uradno>Pleterski Janko</ime-uradno>
+        <ime-uradno>Pleterski, Janko</ime-uradno>
         <ime>Janko Pleterski</ime>
         <delo did="21" cid="28"/>
         <ime>Pleterski J.</ime>
@@ -7168,10 +7169,10 @@
         <delo did="135" cid="15"/>
     </avtor>
     <avtor id="14615">
-        <ime-uradno>PLETERSKI MARUŠKA</ime-uradno>
+        <ime-uradno>Pleterski, Maruška</ime-uradno>
     </avtor>
     <avtor id="16230">
-        <ime-uradno>Pletikosić Ivica</ime-uradno>
+        <ime-uradno>Pletikosić, Ivica</ime-uradno>
         <ime>Pletikosić I.</ime>
         <delo did="735" cid="2 3"/>
         <ime>Pletikosić Ivica</ime>
@@ -7183,10 +7184,10 @@
         <delo did="3452" cid="62"/>
     </avtor>
     <avtor id="24487">
-        <ime-uradno>Plut Boštjan</ime-uradno>
+        <ime-uradno>Plut, Boštjan</ime-uradno>
     </avtor>
     <avtor id="22572">
-        <ime-uradno>Pobežin Gregor</ime-uradno>
+        <ime-uradno>Pobežin, Gregor</ime-uradno>
         <ime>Pobežin G.</ime>
         <delo did="742" cid="36"/>
         <delo did="1949" cid="11"/>
@@ -7194,7 +7195,7 @@
         <dela did="1949"/>
     </avtor>
     <avtor id="13395">
-        <ime-uradno>POČIVAVŠEK MARIJA</ime-uradno>
+        <ime-uradno>Počivavšek, Marija</ime-uradno>
         <ime>Počivavšek Marija</ime>
         <dela did="3241 2292 1888 586 127"/>
         <delo did="127" cid="6 10"/>
@@ -7206,7 +7207,7 @@
         <delo did="3289" cid="201"/>
     </avtor>
     <avtor id="30274">
-        <ime-uradno>Podbersič Renato</ime-uradno>
+        <ime-uradno>Podbersič, Renato</ime-uradno>
         <ime>Renato Podbersič</ime>
         <dela did="1429"/>
         <ime>Podbersič Renato</ime>
@@ -7228,7 +7229,7 @@
         <delo did="2558" cid="13"/>
     </avtor>
     <avtor id="21445">
-        <ime-uradno>Podgoršek Nataša</ime-uradno>
+        <ime-uradno>Podgoršek, Nataša</ime-uradno>
         <ime>Podgoršek Nataša</ime>
         <dela did="2216 2025 1522 354"/>
         <delo did="29" cid="131 181"/>
@@ -7238,19 +7239,19 @@
         <delo did="3072" cid="36"/>
     </avtor>
     <avtor id="12409">
-        <ime-uradno>Podpečnik Jože</ime-uradno>
+        <ime-uradno>Podpečnik, Jože</ime-uradno>
         <ime>Podpečnik Jože</ime>
         <delo did="663" cid="61"/>
         <delo did="3365" cid="107"/>
     </avtor>
     <avtor id="02955">
-        <ime-uradno>Polenšek Marko</ime-uradno>
+        <ime-uradno>Polenšek, Marko</ime-uradno>
         <ime>Polenšek Marko</ime>
         <delo did="2610" cid="72"/>
         <delo did="3270" cid="4"/>
     </avtor>
     <avtor id="13353">
-        <ime-uradno>Potočnik Dragan</ime-uradno>
+        <ime-uradno>Potočnik, Dragan</ime-uradno>
         <ime>Potočnik D.</ime>
         <delo did="2453" cid="4"/>
         <delo did="3178" cid="7"/>
@@ -7276,7 +7277,7 @@
         <delo did="2493" cid="3"/>
     </avtor>
     <avtor id="20221">
-        <ime-uradno>Preinfalk Miha</ime-uradno>
+        <ime-uradno>Preinfalk, Miha</ime-uradno>
         <ime>Preinfalk M.</ime>
         <delo did="2588" cid="17"/>
         <delo did="2632" cid="89"/>
@@ -7354,7 +7355,7 @@
         <delo did="3460" cid="21"/>
     </avtor>
     <avtor id="04769">
-        <ime-uradno>Prinčič Jože</ime-uradno>
+        <ime-uradno>Prinčič, Jože</ime-uradno>
         <ime>prinčič Jože</ime>
         <delo did="95" cid="8"/>
         <ime>Jože Prinčič</ime>
@@ -7527,7 +7528,7 @@
         <delo did="365" cid="11"/>
     </avtor>
     <avtor id="25543">
-        <ime-uradno>Pust Klemen</ime-uradno>
+        <ime-uradno>Pust, Klemen</ime-uradno>
         <ime>Pust K.</ime>
         <delo did="2319" cid="34"/>
         <delo did="2320" cid="37 38"/>
@@ -7540,7 +7541,7 @@
         <dela did="2543"/>
     </avtor>
     <avtor id="10966">
-        <ime-uradno>Radosavljevič Boris</ime-uradno>
+        <ime-uradno>Radosavljevič, Boris</ime-uradno>
         <ime>Radosavljevič Boris</ime>
         <delo did="988" cid="18"/>
         <delo did="1026" cid="12"/>
@@ -7550,7 +7551,7 @@
         <delo did="29" cid="277"/>
     </avtor>
     <avtor id="11688">
-        <ime-uradno>Radovanovič Sašo</ime-uradno>
+        <ime-uradno>Radovanovič, Sašo</ime-uradno>
         <ime>Radovanović Sašo</ime>
         <delo did="2304" cid="72"/>
         <delo did="3322" cid="5"/>
@@ -7564,17 +7565,17 @@
         <delo did="3465" cid="91"/>
     </avtor>
     <avtor id="12930">
-        <ime-uradno>Radulovič Branko</ime-uradno>
+        <ime-uradno>Radulovič, Branko</ime-uradno>
         <ime>Radulovič Branko</ime>
         <dela did="3073"/>
         <delo did="456" cid="15"/>
         <delo did="844" cid="142"/>
     </avtor>
     <avtor id="28607">
-        <ime-uradno>Rahovsky Šuligoj Tatjana</ime-uradno>
+        <ime-uradno>Rahovsky Šuligoj, Tatjana</ime-uradno>
     </avtor>
     <avtor id="19632">
-        <ime-uradno>Rahten Andrej</ime-uradno>
+        <ime-uradno>Rahten, Andrej</ime-uradno>
         <ime>Rahten Andrej</ime>
         <dela did="3419 3336 3280 3164 2768 2445 2248 1760 1628 1552 1535 1256 1012 988"/>
         <delo did="21" cid="27"/>
@@ -7651,7 +7652,7 @@
         <delo did="3497" cid="17 40 65 81"/>
     </avtor>
     <avtor id="13022">
-        <ime-uradno>Rajhman Jože</ime-uradno>
+        <ime-uradno>Rajhman, Jože</ime-uradno>
         <ime>Rajhman J.</ime>
         <delo did="237" cid="37"/>
         <delo did="2164" cid="9 13"/>
@@ -7679,7 +7680,7 @@
         <delo did="2070" cid="14"/>
     </avtor>
     <avtor id="02716">
-        <ime-uradno>Rajšp Vincenc</ime-uradno>
+        <ime-uradno>Rajšp, Vincenc</ime-uradno>
         <ime>Rajšp V.</ime>
         <delo did="2018" cid="138"/>
         <ime>Rajšp Vicenc</ime>
@@ -7727,13 +7728,13 @@
         <delo did="2768" cid="18"/>
     </avtor>
     <avtor id="30859">
-        <ime-uradno>Ramšak Jure</ime-uradno>
+        <ime-uradno>Ramšak, Jure</ime-uradno>
         <ime>Ramšak Jure</ime>
         <dela did="3350 3222 2571"/>
         <delo did="3350" cid="7"/>
     </avtor>
     <avtor id="21446">
-        <ime-uradno>Ratej Mateja</ime-uradno>
+        <ime-uradno>Ratej, Mateja</ime-uradno>
         <ime>Ratej Matej</ime>
         <dela did="2816"/>
         <delo did="1452" cid="6"/>
@@ -7765,12 +7766,12 @@
         <delo did="3370" cid="7"/>
     </avtor>
     <avtor id="29462">
-        <ime-uradno>Ratkajec Hrvoje</ime-uradno>
+        <ime-uradno>Ratkajec, Hrvoje</ime-uradno>
         <ime>Ratkajec Hrvoje</ime>
         <dela did="2113"/>
     </avtor>
     <avtor id="30079">
-        <ime-uradno>Ravnikar Tone</ime-uradno>
+        <ime-uradno>Ravnikar, Tone</ime-uradno>
         <ime>Ravnikar Tone</ime>
         <dela did="866"/>
         <delo did="53" cid="223 224 225"/>
@@ -7786,7 +7787,7 @@
         <delo did="2776" cid="30 31"/>
     </avtor>
     <avtor id="31316">
-        <ime-uradno>Rebeschini Monica</ime-uradno>
+        <ime-uradno>Rebeschini, Monica</ime-uradno>
         <ime>Rebeschini M.</ime>
         <delo did="3452" cid="67"/>
         <ime>Rebeschini Monica</ime>
@@ -7798,10 +7799,10 @@
         <delo did="3405" cid="7"/>
     </avtor>
     <avtor id="14966">
-        <ime-uradno>Rebolj Matjaž</ime-uradno>
+        <ime-uradno>Rebolj, Matjaž</ime-uradno>
     </avtor>
     <avtor id="01496">
-        <ime-uradno>Reisp Branko</ime-uradno>
+        <ime-uradno>Reisp, Branko</ime-uradno>
         <ime>Reisp, Branko</ime>
         <delo did="2590" cid="46"/>
         <delo did="2622" cid="53"/>
@@ -7872,7 +7873,7 @@
         <delo did="3159" cid="45"/>
     </avtor>
     <avtor id="01150">
-        <ime-uradno>REISP SONJA</ime-uradno>
+        <ime-uradno>Reisp, Sonja</ime-uradno>
         <ime>Reisp Sonja</ime>
         <delo did="1509" cid="166"/>
         <delo did="2299" cid="204"/>
@@ -7881,7 +7882,7 @@
         <delo did="2302" cid="8"/>
     </avtor>
     <avtor id="30894">
-        <ime-uradno>Remec Meta</ime-uradno>
+        <ime-uradno>Remec, Meta</ime-uradno>
         <ime>Remec Meta</ime>
         <dela did="3537 3424 3376 3375 3309"/>
         <ime>Černigoj Meta</ime>
@@ -7890,14 +7891,14 @@
         <delo did="3130" cid="8"/>
     </avtor>
     <avtor id="27883">
-        <ime-uradno>Rendla Marta</ime-uradno>
+        <ime-uradno>Rendla, Marta</ime-uradno>
         <ime>Rendla Marta</ime>
         <dela did="3530 3436 2313 2278 1805 1707"/>
         <delo did="1805" cid="4"/>
         <delo did="3241" cid="293"/>
     </avtor>
     <avtor id="11484">
-        <ime-uradno>Repe Božo</ime-uradno>
+        <ime-uradno>Repe, Božo</ime-uradno>
         <ime>Božo Repe</ime>
         <dela did="1397"/>
         <delo did="1516" cid="3"/>
@@ -8103,10 +8104,10 @@
         <delo did="3388" cid="11"/>
     </avtor>
     <avtor id="28597">
-        <ime-uradno>Rezec Stibilj Tatjana</ime-uradno>
+        <ime-uradno>Rezec Stibilj, Tatjana</ime-uradno>
     </avtor>
     <avtor id="15635">
-        <ime-uradno>Režek Mateja</ime-uradno>
+        <ime-uradno>Režek, Mateja</ime-uradno>
         <ime>Mateja Režek</ime>
         <dela did="93"/>
         <ime>Režek Mateja</ime>
@@ -8167,12 +8168,12 @@
         <delo did="617" cid="1"/>
     </avtor>
     <avtor id="40261">
-        <ime-uradno>Rifel Tadej</ime-uradno>
+        <ime-uradno>Rifel, Tadej</ime-uradno>
         <ime>Rifel Tadej</ime>
         <delo did="2660" cid="43"/>
     </avtor>
     <avtor id="13396">
-        <ime-uradno>RIHTER ANDREJA</ime-uradno>
+        <ime-uradno>Rihter, Andreja</ime-uradno>
         <ime>Rihter Andreja</ime>
         <delo did="2293" cid="3"/>
         <delo did="2848" cid="4"/>
@@ -8181,7 +8182,7 @@
         <dela did="2293"/>
     </avtor>
     <avtor id="27705">
-        <ime-uradno>Riman Barbara</ime-uradno>
+        <ime-uradno>Riman, Barbara</ime-uradno>
         <ime>Riman Barbara</ime>
         <dela did="2836 2713 2646"/>
         <delo did="2646" cid="28"/>
@@ -8189,17 +8190,17 @@
         <delo did="3072" cid="40 251 252"/>
     </avtor>
     <avtor id="31490">
-        <ime-uradno>Romih Tina</ime-uradno>
+        <ime-uradno>Romih, Tina</ime-uradno>
     </avtor>
     <avtor id="21664">
-        <ime-uradno>Rozman Andrej</ime-uradno>
+        <ime-uradno>Rozman, Andrej</ime-uradno>
         <ime>Rozman Andrej</ime>
         <delo did="1626" cid="120 121 242"/>
         <delo did="1630" cid="24"/>
         <delo did="3212" cid="24"/>
     </avtor>
     <avtor id="04048">
-        <ime-uradno>Rozman Boris</ime-uradno>
+        <ime-uradno>Rozman, Boris</ime-uradno>
         <ime>Rozman Boris</ime>
         <delo did="3365" cid="393"/>
         <delo did="3472" cid="30"/>
@@ -8207,7 +8208,7 @@
         <delo did="2633" cid="21"/>
     </avtor>
     <avtor id="00386">
-        <ime-uradno>Rozman Franc</ime-uradno>
+        <ime-uradno>Rozman, Franc</ime-uradno>
         <ime>Rozman Franc</ime>
         <ime>Rozman  Franc</ime>
         <dela did="3478 3385 3367 3090 3088 2257 2060 1322 993 529 325 152"/>
@@ -8274,10 +8275,10 @@
         <delo did="3478" cid="5 6"/>
     </avtor>
     <avtor id="08769">
-        <ime-uradno>Rozman Igor</ime-uradno>
+        <ime-uradno>Rozman, Igor</ime-uradno>
     </avtor>
     <avtor id="15876">
-        <ime-uradno>Rožac Darovec Vida</ime-uradno>
+        <ime-uradno>Rožac Darovec, Vida</ime-uradno>
         <ime>Rožac Darovec V.</ime>
         <delo did="1938" cid="16"/>
         <delo did="3077" cid="23"/>
@@ -8295,20 +8296,20 @@
         <dela did="743 457"/>
     </avtor>
     <avtor id="36391">
-        <ime-uradno>Rudolf Saša</ime-uradno>
+        <ime-uradno>Rudolf, Saša</ime-uradno>
         <ime>Rudolf Saša</ime>
         <delo did="334" cid="267"/>
         <delo did="1485" cid="24"/>
         <delo did="3378" cid="96"/>
     </avtor>
     <avtor id="06923">
-        <ime-uradno>Rus Vida</ime-uradno>
+        <ime-uradno>Rus, Vida</ime-uradno>
     </avtor>
     <avtor id="19916">
-        <ime-uradno>Rustia Peter</ime-uradno>
+        <ime-uradno>Rustia, Peter</ime-uradno>
     </avtor>
     <avtor id="04708">
-        <ime-uradno>Rybar Miloš</ime-uradno>
+        <ime-uradno>Rybář, Miloš</ime-uradno>
         <ime>Rybar Miloš</ime>
         <delo did="3138" cid="7"/>
         <delo did="3269" cid="7"/>
@@ -8332,15 +8333,15 @@
         <delo did="16" cid="104"/>
     </avtor>
     <avtor id="06260">
-        <ime-uradno>Sagadin Maksimiljan</ime-uradno>
+        <ime-uradno>Sagadin, Maksimiljan</ime-uradno>
     </avtor>
     <avtor id="30799">
-        <ime-uradno>Sedar Klaudija</ime-uradno>
+        <ime-uradno>Sedar, Klaudija</ime-uradno>
         <ime>Sedar Klaudija</ime>
         <dela did="3399"/>
     </avtor>
     <avtor id="27500">
-        <ime-uradno>Sedlaček Janja</ime-uradno>
+        <ime-uradno>Sedlaček, Janja</ime-uradno>
         <ime>Sedlaček Janja</ime>
         <dela did="2306"/>
         <delo did="3285" cid="215 216"/>
@@ -8354,7 +8355,7 @@
         <delo did="2418" cid="44"/>
     </avtor>
     <avtor id="25579">
-        <ime-uradno>Selišnik Irena</ime-uradno>
+        <ime-uradno>Selišnik, Irena</ime-uradno>
         <ime>Selišnik I.</ime>
         <delo did="226" cid="178"/>
         <delo did="1314" cid="27"/>
@@ -8364,19 +8365,19 @@
         <delo did="2790" cid="17"/>
     </avtor>
     <avtor id="28678">
-        <ime-uradno>Seljak Matej</ime-uradno>
+        <ime-uradno>Seljak, Matej</ime-uradno>
         <ime>Seljak Matej</ime>
         <dela did="1639"/>
     </avtor>
     <avtor id="33736">
-        <ime-uradno>Semlič Rajh Zdenka</ime-uradno>
+        <ime-uradno>Semlič Rajh, Zdenka</ime-uradno>
         <ime>Semlič Rajh Zdenka</ime>
         <dela did="2509"/>
         <delo did="2527" cid="6"/>
         <delo did="3100" cid="5"/>
     </avtor>
     <avtor id="05906">
-        <ime-uradno>Serše Aleksandra</ime-uradno>
+        <ime-uradno>Serše, Aleksandra</ime-uradno>
         <ime napaka="napaka">Budna Kodrič A.</ime>
         <delo napaka="napaka" did="226" cid="33"/>
         <ime>Serše Aleksandra</ime>
@@ -8399,7 +8400,7 @@
         <delo did="2064" cid="18"/>
     </avtor>
     <avtor id="28439">
-        <ime-uradno>Seručnik Miha</ime-uradno>
+        <ime-uradno>Seručnik, Miha</ime-uradno>
         <ime>Seručnik Miha</ime>
         <dela did="3469 3403 3291 2272 924 877"/>
         <delo did="1887" cid="10"/>
@@ -8408,7 +8409,7 @@
         <delo did="3291" cid="19 20 31 50"/>
     </avtor>
     <avtor id="06460">
-        <ime-uradno>SIMONITI MARJETICA</ime-uradno>
+        <ime-uradno>Simoniti, Marjetica</ime-uradno>
         <ime>Simoniti M.</ime>
         <delo did="2288" cid="135"/>
         <delo did="2614" cid="94 95"/>
@@ -8419,7 +8420,7 @@
         <delo did="3094" cid="47"/>
     </avtor>
     <avtor id="06443">
-        <ime-uradno>Simoniti Vasko</ime-uradno>
+        <ime-uradno>Simoniti, Vasko</ime-uradno>
         <ime>Simoniti, Vasko</ime>
         <delo did="3393" cid="7"/>
         <ime> Simoniti V.</ime>
@@ -8526,7 +8527,7 @@
         <delo did="258" cid="15"/>
     </avtor>
     <avtor id="15252">
-        <ime-uradno>Sinobad Jurij</ime-uradno>
+        <ime-uradno>Sinobad, Jurij</ime-uradno>
         <ime>Sinobad Jure</ime>
         <delo did="2050" cid="9"/>
         <delo did="2638" cid="166"/>
@@ -8535,7 +8536,7 @@
         <delo did="3483" cid="5"/>
     </avtor>
     <avtor id="08909">
-        <ime-uradno>Skrabl Zorka</ime-uradno>
+        <ime-uradno>Skrabl, Zorka</ime-uradno>
         <ime>Skrabl Zorka</ime>
         <dela did="1753"/>
         <delo did="3291" cid="47"/>
@@ -8543,7 +8544,7 @@
         <delo did="3241" cid="56"/>
     </avtor>
     <avtor id="05835">
-        <ime-uradno>Slabe Marijan</ime-uradno>
+        <ime-uradno>Slabe, Marijan</ime-uradno>
         <ime>Slabe M.</ime>
         <delo did="2586" cid="27 28"/>
         <ime>Slabe Marijan</ime>
@@ -8554,12 +8555,12 @@
         <delo did="452" cid="2"/>
     </avtor>
     <avtor id="31845">
-        <ime-uradno>Sluga Miha</ime-uradno>
+        <ime-uradno>Sluga, Miha</ime-uradno>
         <ime>Sluga Miha</ime>
         <dela did="3386 3152"/>
     </avtor>
     <avtor id="40088">
-        <ime-uradno>Stariha Gorazd</ime-uradno>
+        <ime-uradno>Stariha, Gorazd</ime-uradno>
         <ime>Stariha G.</ime>
         <delo did="2362" cid="16"/>
         <ime>Stariha Gorazd</ime>
@@ -8583,7 +8584,7 @@
         <delo did="3431" cid="26"/>
     </avtor>
     <avtor id="13384">
-        <ime-uradno>Stavbar Vlasta</ime-uradno>
+        <ime-uradno>Stavbar, Vlasta</ime-uradno>
         <ime>Stavbar Vlasta</ime>
         <dela did="1581 936"/>
         <delo did="176" cid="40"/>
@@ -8596,7 +8597,7 @@
         <delo did="2618" cid="219"/>
     </avtor>
     <avtor id="04663">
-        <ime-uradno>Stergar Janez</ime-uradno>
+        <ime-uradno>Stergar, Janez</ime-uradno>
         <ime>Stergar Janez</ime>
         <dela did="3004 2900 2808 636 223"/>
         <delo did="135" cid="18 19 20"/>
@@ -8649,7 +8650,7 @@
         <delo did="1763" cid="4"/>
     </avtor>
     <avtor id="02719">
-        <ime-uradno>Stergar Nataša</ime-uradno>
+        <ime-uradno>Stergar, Nataša</ime-uradno>
         <ime>Stergar Nataša</ime>
         <ime>Stergar  Nataša</ime>
         <dela did="159"/>
@@ -8657,7 +8658,7 @@
         <delo did="334" cid="282"/>
     </avtor>
     <avtor id="21848">
-        <ime-uradno>Stergar Rok</ime-uradno>
+        <ime-uradno>Stergar, Rok</ime-uradno>
         <ime>Stergar Rok</ime>
         <dela did="1311 629"/>
         <delo did="169" cid="86"/>
@@ -8692,7 +8693,7 @@
         <dela did="221"/>
     </avtor>
     <avtor id="00592">
-        <ime-uradno>Stiplovšek Miroslav</ime-uradno>
+        <ime-uradno>Stiplovšek, Miroslav</ime-uradno>
         <ime>Stiplovšek, Miroslav</ime>
         <delo did="3213" cid="26"/>
         <ime>Stiplovšek Mirko</ime>
@@ -8808,10 +8809,10 @@
         <delo did="1512" cid="81"/>
     </avtor>
     <avtor id="30277">
-        <ime-uradno>Strajnar Neža</ime-uradno>
+        <ime-uradno>Strajnar, Neža</ime-uradno>
     </avtor>
     <avtor id="28440">
-        <ime-uradno>Strle Urška</ime-uradno>
+        <ime-uradno>Strle, Urška</ime-uradno>
         <ime>Strle Urška</ime>
         <dela did="3113"/>
         <delo did="1626" cid="47"/>
@@ -8821,7 +8822,7 @@
         <dela did="2923"/>
     </avtor>
     <avtor id="10673">
-        <ime-uradno>Studen Andrej</ime-uradno>
+        <ime-uradno>Studen, Andrej</ime-uradno>
         <ime>Studen A.</ime>
         <delo did="1918" cid="24"/>
         <delo did="1999" cid="14"/>
@@ -8972,7 +8973,7 @@
         <delo did="3365" cid="129"/>
     </avtor>
     <avtor id="13077">
-        <ime-uradno>Suhadolnik Jože</ime-uradno>
+        <ime-uradno>Suhadolnik, Jože</ime-uradno>
         <ime>Suhadolnik J.</ime>
         <delo did="2157" cid="8"/>
         <delo did="3105" cid="43"/>
@@ -8983,12 +8984,12 @@
         <delo did="3414" cid="47 48"/>
     </avtor>
     <avtor id="32212">
-        <ime-uradno>Sukljan Nejc</ime-uradno>
+        <ime-uradno>Sukljan, Nejc</ime-uradno>
         <ime>Sukljan Nejc</ime>
         <dela did="3494"/>
     </avtor>
     <avtor id="28400">
-        <ime-uradno>Sunčič Mitja</ime-uradno>
+        <ime-uradno>Sunčič, Mitja</ime-uradno>
         <ime>Sunčič Mitja</ime>
         <dela did="3433 2960 2880 2308 2277 1448 662"/>
         <delo did="2310" cid="19"/>
@@ -8996,7 +8997,7 @@
         <delo did="3241" cid="132 280"/>
     </avtor>
     <avtor id="00402">
-        <ime-uradno>Svoljšak Drago</ime-uradno>
+        <ime-uradno>Svoljšak, Drago</ime-uradno>
         <ime>Svoljšak, D.</ime>
         <delo did="1954" cid="5"/>
         <ime>Svoljšak D.</ime>
@@ -9016,7 +9017,7 @@
         <delo did="3390" cid="15"/>
     </avtor>
     <avtor id="11698">
-        <ime-uradno>Svoljšak Petra</ime-uradno>
+        <ime-uradno>Svoljšak, Petra</ime-uradno>
         <ime>Svoljšak P.</ime>
         <delo did="2015" cid="36"/>
         <ime>Svoljšak  Petra</ime>
@@ -9072,7 +9073,7 @@
         <delo did="2415" cid="5"/>
     </avtor>
     <avtor id="18953">
-        <ime-uradno>Šatej Barbara</ime-uradno>
+        <ime-uradno>Šatej, Barbara</ime-uradno>
         <ime>Šatej Barbara</ime>
         <delo did="176" cid="42"/>
         <delo did="226" cid="189"/>
@@ -9081,7 +9082,7 @@
         <delo did="3289" cid="174"/>
     </avtor>
     <avtor id="13817">
-        <ime-uradno>Šega Judita</ime-uradno>
+        <ime-uradno>Šega, Judita</ime-uradno>
         <ime>Šega Judita</ime>
         <delo did="2514" cid="25"/>
         <delo did="2610" cid="101"/>
@@ -9089,7 +9090,7 @@
         <delo did="3161" cid="89"/>
     </avtor>
     <avtor id="17606">
-        <ime-uradno>Šemrov Andrej</ime-uradno>
+        <ime-uradno>Šemrov, Andrej</ime-uradno>
         <ime>Šemrov A.</ime>
         <delo did="1761" cid="195"/>
         <delo did="1939" cid="49"/>
@@ -9101,10 +9102,10 @@
         <delo did="2423" cid="56"/>
     </avtor>
     <avtor id="13076">
-        <ime-uradno>Šenk Tatjana</ime-uradno>
+        <ime-uradno>Šenk, Tatjana</ime-uradno>
     </avtor>
     <avtor id="32751">
-        <ime-uradno>Širok Kaja</ime-uradno>
+        <ime-uradno>Širok, Kaja</ime-uradno>
         <ime>Širok K.</ime>
         <delo did="3079" cid="10"/>
         <ime>Širok Kaja</ime>
@@ -9112,7 +9113,7 @@
         <delo did="1434" cid="19"/>
     </avtor>
     <avtor id="28599">
-        <ime-uradno>Škofljanec Jože</ime-uradno>
+        <ime-uradno>Škofljanec, Jože</ime-uradno>
         <ime>Škofljanec Jože</ime>
         <dela did="3441 3146 2513"/>
         <delo did="3094" cid="4"/>
@@ -9120,7 +9121,7 @@
         <delo did="3441" cid="4 26"/>
     </avtor>
     <avtor id="14605">
-        <ime-uradno>Škorjanec Viljenka</ime-uradno>
+        <ime-uradno>Škorjanec, Viljenka</ime-uradno>
         <ime>Škorjanec Vilijenka</ime>
         <delo did="3477" cid="7"/>
         <ime>Škorjanec Viljenka</ime>
@@ -9134,16 +9135,16 @@
         <delo did="3477" cid="8"/>
     </avtor>
     <avtor id="34779">
-        <ime-uradno>Škoro Babić Aida</ime-uradno>
+        <ime-uradno>Škoro Babić, Aida</ime-uradno>
         <ime>Škoro Aida</ime>
         <dela did="2521"/>
         <delo did="2521" cid="26 29"/>
     </avtor>
     <avtor id="28441">
-        <ime-uradno>Škrlj Katja</ime-uradno>
+        <ime-uradno>Škrlj, Katja</ime-uradno>
     </avtor>
     <avtor id="12931">
-        <ime-uradno>Šmid Gašper</ime-uradno>
+        <ime-uradno>Šmid, Gašper</ime-uradno>
         <ime>Šmid Gašper</ime>
         <dela did="2508 532"/>
         <delo did="29" cid="370"/>
@@ -9158,7 +9159,7 @@
         <delo did="2843" cid="28"/>
     </avtor>
     <avtor id="17106">
-        <ime-uradno>Šorn Mojca</ime-uradno>
+        <ime-uradno>Šorn, Mojca</ime-uradno>
         <ime>Tadeja Šorn Mojca</ime>
         <delo did="2418" cid="53"/>
         <ime>Šorn  Mojca</ime>
@@ -9203,22 +9204,22 @@
         <delo did="1657" cid="3"/>
     </avtor>
     <avtor id="35235">
-        <ime-uradno>Šövegeš Lipovšek Gordana</ime-uradno>
+        <ime-uradno>Šövegeš Lipovšek, Gordana</ime-uradno>
         <ime>Šövegeš Lipovšek Gordana</ime>
         <delo did="3286" cid="5"/>
     </avtor>
     <avtor id="13065">
-        <ime-uradno>ŠTEKAR-VIDIC VERENA</ime-uradno>
+        <ime-uradno>Štekar-Vidic, Verana</ime-uradno>
         <ime>Štekar Vidic V.</ime>
         <delo did="2018" cid="316"/>
         <ime>Štekar Vidic Verana</ime>
         <delo did="2473" cid="2"/>
     </avtor>
     <avtor id="19196">
-        <ime-uradno>Šterbenc Erker Darja</ime-uradno>
+        <ime-uradno>Šterbenc Erker, Darja</ime-uradno>
     </avtor>
     <avtor id="06249">
-        <ime-uradno>Štih Peter</ime-uradno>
+        <ime-uradno>Štih, Peter</ime-uradno>
         <ime>Štih, Peter</ime>
         <delo did="3393" cid="7"/>
         <ime>Peter Štih</ime>
@@ -9355,7 +9356,7 @@
         <delo did="279" cid="9"/>
     </avtor>
     <avtor id="06248">
-        <ime-uradno>Štuhec Marko</ime-uradno>
+        <ime-uradno>Štuhec, Marko</ime-uradno>
         <ime>Štuhec Marko</ime>
         <dela did="2661 2288 288"/>
         <delo did="219" cid="22 23 24"/>
@@ -9394,7 +9395,7 @@
         <delo did="3459" cid="197 198"/>
     </avtor>
     <avtor id="08908">
-        <ime-uradno>Štukl France</ime-uradno>
+        <ime-uradno>Štukl, France</ime-uradno>
         <ime>Štukl Fanc</ime>
         <delo did="775" cid="226"/>
         <ime>Štukl Franc</ime>
@@ -9411,7 +9412,7 @@
         <delo did="3250" cid="73"/>
     </avtor>
     <avtor id="02101">
-        <ime-uradno>Šumrada Janez</ime-uradno>
+        <ime-uradno>Šumrada, Janez</ime-uradno>
         <ime>Šumrada J.</ime>
         <delo did="251" cid="23"/>
         <delo did="3512" cid="18 30"/>
@@ -9464,10 +9465,10 @@
         <delo did="2628" cid="21"/>
     </avtor>
     <avtor id="02954">
-        <ime-uradno>Šuštar Liljana</ime-uradno>
+        <ime-uradno>Šuštar, Liljana</ime-uradno>
     </avtor>
     <avtor id="13391">
-        <ime-uradno>Švent Rozina</ime-uradno>
+        <ime-uradno>Švent, Rozina</ime-uradno>
         <ime>Švent Rozina</ime>
         <dela did="2192 2037 1400"/>
         <delo did="71" cid="213"/>
@@ -9484,7 +9485,7 @@
         <delo did="2558" cid="17"/>
     </avtor>
     <avtor id="10193">
-        <ime-uradno>Teropšič Tomaž</ime-uradno>
+        <ime-uradno>Teropšič, Tomaž</ime-uradno>
         <ime>Teropšič Tomaž</ime>
         <dela did="2281 1895"/>
         <delo did="83" cid="6"/>
@@ -9496,15 +9497,15 @@
         <delo did="3528" cid="17"/>
     </avtor>
     <avtor id="40242">
-        <ime-uradno>Terpin Mlinar Marija</ime-uradno>
+        <ime-uradno>Terpin Mlinar, Marija</ime-uradno>
         <ime>Terpin Mlinar Marija</ime>
         <dela did="2556"/>
     </avtor>
     <avtor id="12922">
-        <ime-uradno>Teršan Alojzij</ime-uradno>
+        <ime-uradno>Teršan, Alojzij</ime-uradno>
     </avtor>
     <avtor id="27514">
-        <ime-uradno>Testen Petra</ime-uradno>
+        <ime-uradno>Testen, Petra</ime-uradno>
         <ime>Testen P.</ime>
         <delo did="226" cid="190"/>
         <ime>Testen Petra</ime>
@@ -9512,7 +9513,7 @@
         <delo did="2415" cid="6"/>
     </avtor>
     <avtor id="17105">
-        <ime-uradno>Tominšek Čehulić Tadeja</ime-uradno>
+        <ime-uradno>Tominšek Čehulić, Tadeja</ime-uradno>
         <ime>Tominšek Cehulić Tadeja</ime>
         <delo did="3480" cid="11"/>
         <ime>Tominšek Rihtar, Tadeja</ime>
@@ -9557,7 +9558,7 @@
         <delo did="2418" cid="53"/>
     </avtor>
     <avtor id="40149">
-        <ime-uradno>Torkar Blaž</ime-uradno>
+        <ime-uradno>Torkar, Blaž</ime-uradno>
         <ime>Torkar Blaž</ime>
         <dela did="2881 2433 1982 376"/>
         <delo did="334" cid="316"/>
@@ -9565,7 +9566,7 @@
         <delo did="1782" cid="333"/>
     </avtor>
     <avtor id="13423">
-        <ime-uradno>Torkar Zora</ime-uradno>
+        <ime-uradno>Torkar, Zora</ime-uradno>
         <ime>Torkar Zora</ime>
         <dela did="2962 1334"/>
         <delo did="880" cid="35"/>
@@ -9577,10 +9578,10 @@
         <delo did="3095" cid="4"/>
     </avtor>
     <avtor id="34513">
-        <ime-uradno>Toth Erik</ime-uradno>
+        <ime-uradno>Toth, Erik</ime-uradno>
     </avtor>
     <avtor id="12928">
-        <ime-uradno>Troha Nevenka</ime-uradno>
+        <ime-uradno>Troha, Nevenka</ime-uradno>
         <ime>Troha Nevenka</ime>
         <dela did="3532 3529 3323 3221 3107 2915 2805 2561 2160 1765 1764 1763 1756 1689 1644 1373 1349 1292 1279 1278 1154 1153 1121 1072 859 858 857 802 801 800 799 798 787 786 785 784 783 615 145"/>
         <delo did="47" cid="2"/>
@@ -9706,7 +9707,7 @@
         <dela did="303"/>
     </avtor>
     <avtor id="12073">
-        <ime-uradno>Trojar Štefan</ime-uradno>
+        <ime-uradno>Trojar, Štefan</ime-uradno>
         <ime>Trojar Stefan</ime>
         <delo did="3175" cid="14"/>
         <ime>Trojar Š.</ime>
@@ -9719,7 +9720,7 @@
         <delo did="352" cid="16"/>
     </avtor>
     <avtor id="12999">
-        <ime-uradno>Trpin Drago</ime-uradno>
+        <ime-uradno>Trpin, Drago</ime-uradno>
         <ime>Drago Trpin</ime>
         <delo did="3094" cid="43"/>
         <ime>Trpin Drago</ime>
@@ -9730,7 +9731,7 @@
         <delo did="2031" cid="9"/>
     </avtor>
     <avtor id="23967">
-        <ime-uradno>Trškan Danijela</ime-uradno>
+        <ime-uradno>Trškan, Danijela</ime-uradno>
         <ime>Trškan  Danijela</ime>
         <ime>Trškan Danijela</ime>
         <dela did="510"/>
@@ -9765,16 +9766,16 @@
         <delo did="2493" cid="1"/>
     </avtor>
     <avtor id="14770">
-        <ime-uradno>TUL VLASTA</ime-uradno>
+        <ime-uradno>Tul, Vlasta</ime-uradno>
         <ime>Tul Vlasta</ime>
         <dela did="890"/>
         <delo did="50" cid="8"/>
     </avtor>
     <avtor id="40135">
-        <ime-uradno>Udovč Katarina</ime-uradno>
+        <ime-uradno>Udovč, Katarina</ime-uradno>
     </avtor>
     <avtor id="02011">
-        <ime-uradno>Umek Ema</ime-uradno>
+        <ime-uradno>Umek, Ema</ime-uradno>
         <ime>Umek E.</ime>
         <delo did="751" cid="63"/>
         <delo did="2018" cid="331 332 333 334 335"/>
@@ -9815,10 +9816,10 @@
         <delo did="457" cid="15"/>
     </avtor>
     <avtor id="05271">
-        <ime-uradno>Urbanija Jože</ime-uradno>
+        <ime-uradno>Urbanija, Jože</ime-uradno>
     </avtor>
     <avtor id="32969">
-        <ime-uradno>Valič Zver Andreja</ime-uradno>
+        <ime-uradno>Valič Zver, Andreja</ime-uradno>
         <ime>Valič, Andreja</ime>
         <delo did="2577" cid="4"/>
         <ime>Valič Andreja</ime>
@@ -9829,7 +9830,7 @@
         <dela did="2577"/>
     </avtor>
     <avtor id="13806">
-        <ime-uradno>Verginella Marta</ime-uradno>
+        <ime-uradno>Verginella, Marta</ime-uradno>
         <ime>Marta Verginella</ime>
         <delo did="2477" cid="12"/>
         <delo did="2554" cid="7"/>
@@ -9918,14 +9919,14 @@
         <delo did="1746" cid="20"/>
     </avtor>
     <avtor id="19022">
-        <ime-uradno>Vidmar Tadej</ime-uradno>
+        <ime-uradno>Vidmar, Tadej</ime-uradno>
         <ime>Vidmar Tadej</ime>
         <delo did="36" cid="2"/>
         <delo did="2023" cid="1"/>
         <delo did="2693" cid="7"/>
     </avtor>
     <avtor id="00351">
-        <ime-uradno>Vidovič-Miklavčič Anamarija</ime-uradno>
+        <ime-uradno>Vidovič-Miklavčič, Anamarija</ime-uradno>
         <ime>Vidovič - Miklavčič Anka</ime>
         <delo did="1512" cid="168"/>
         <ime>Vidovič Miklavčič A.</ime>
@@ -10001,7 +10002,7 @@
         <delo did="3216" cid="28"/>
     </avtor>
     <avtor id="00438">
-        <ime-uradno>Vilfan Sergij</ime-uradno>
+        <ime-uradno>Vilfan, Sergij</ime-uradno>
         <ime>Sergij Vilfan</ime>
         <delo did="82" cid="1"/>
         <delo did="430" cid="8"/>
@@ -10190,15 +10191,15 @@
         <delo did="2412" cid="71"/>
     </avtor>
     <avtor id="23511">
-        <ime-uradno>Visočnik Julijana</ime-uradno>
+        <ime-uradno>Visočnik, Julijana</ime-uradno>
         <ime>Visočnik Julijana</ime>
         <delo did="2771" cid="4"/>
     </avtor>
     <avtor id="15203">
-        <ime-uradno>Vodopivec Barbara</ime-uradno>
+        <ime-uradno>Vodopivec, Barbara</ime-uradno>
     </avtor>
     <avtor id="24464">
-        <ime-uradno>Vodopivec Nina</ime-uradno>
+        <ime-uradno>Vodopivec, Nina</ime-uradno>
         <ime>Vodopivec Nina</ime>
         <dela did="3482 3437 2315 1513 1461"/>
         <delo did="226" cid="219"/>
@@ -10212,7 +10213,7 @@
         <delo did="3482" cid="9 10 11"/>
     </avtor>
     <avtor id="07574">
-        <ime-uradno>Vodopivec Peter</ime-uradno>
+        <ime-uradno>Vodopivec, Peter</ime-uradno>
         <ime>Vodopivec P.</ime>
         <delo did="1981" cid="42"/>
         <ime>Vodopivec  Peter</ime>
@@ -10435,12 +10436,12 @@
         <delo did="2871" cid="90"/>
     </avtor>
     <avtor id="08497">
-        <ime-uradno>Vodopivec-Tomažič Jedert</ime-uradno>
+        <ime-uradno>Vodopivec-Tomažič, Jedert</ime-uradno>
         <ime>Vodopivec Jedert</ime>
         <delo did="2583" cid="206 207"/>
     </avtor>
     <avtor id="04934">
-        <ime-uradno>Vodušek Starič Jerca</ime-uradno>
+        <ime-uradno>Vodušek Starič, Jerca</ime-uradno>
         <ime>Vodušek Jerca</ime>
         <delo did="3435" cid="9"/>
         <ime>Vodušek Starić Jerca</ime>
@@ -10573,7 +10574,7 @@
         <delo did="752" cid="1"/>
     </avtor>
     <avtor id="07331">
-        <ime-uradno>Voje Ignancij</ime-uradno>
+        <ime-uradno>Voje, Ignancij</ime-uradno>
         <ime>Ignacij Voje</ime>
         <delo did="2843" cid="82"/>
         <ime>Voje I.</ime>
@@ -10630,10 +10631,10 @@
         <delo did="3193" cid="14 15"/>
     </avtor>
     <avtor id="12004">
-        <ime-uradno>Volasko Peter</ime-uradno>
+        <ime-uradno>Volasko, Peter</ime-uradno>
     </avtor>
     <avtor id="28603">
-        <ime-uradno>Volčjak Jure</ime-uradno>
+        <ime-uradno>Volčjak, Jure</ime-uradno>
         <ime>Volčjak Jure</ime>
         <dela did="3445 3444 3409 1228 1215 922"/>
         <delo did="922" cid="15"/>
@@ -10653,7 +10654,7 @@
         <delo did="3250" cid="78"/>
     </avtor>
     <avtor id="15362">
-        <ime-uradno>Volk Alessandro</ime-uradno>
+        <ime-uradno>Volk, Alessandro</ime-uradno>
         <ime>Volk A.</ime>
         <delo did="226" cid="209"/>
         <delo did="2596" cid="47"/>
@@ -10665,7 +10666,7 @@
         <delo did="880" cid="37"/>
     </avtor>
     <avtor id="04305">
-        <ime-uradno>Vovko Andrej</ime-uradno>
+        <ime-uradno>Vovko, Andrej</ime-uradno>
         <ime>Vovko, Andrej</ime>
         <delo did="2246" cid="4"/>
         <ime>Vovko A.</ime>
@@ -10738,10 +10739,10 @@
         <dela did="1274"/>
     </avtor>
     <avtor id="34831">
-        <ime-uradno>Vrečko Ashtalkoski Lea</ime-uradno>
+        <ime-uradno>Vrečko Ashtalkoski, Lea</ime-uradno>
     </avtor>
     <avtor id="06491">
-        <ime-uradno>VRIŠER ANDREJA</ime-uradno>
+        <ime-uradno>Vrišer, Andreja</ime-uradno>
         <ime>Vrišer A.</ime>
         <delo did="2157" cid="11"/>
         <ime>Vrišer Andreja</ime>
@@ -10751,15 +10752,15 @@
         <delo did="3289" cid="71"/>
     </avtor>
     <avtor id="08348">
-        <ime-uradno>Vukelič Brane</ime-uradno>
+        <ime-uradno>Vukelič, Brane</ime-uradno>
     </avtor>
     <avtor id="06448">
-        <ime-uradno>Zadnikar Andrej</ime-uradno>
+        <ime-uradno>Zadnikar, Andrej</ime-uradno>
         <ime>Zadnikar Andrej</ime>
         <delo did="3455" cid="5"/>
     </avtor>
     <avtor id="29752">
-        <ime-uradno>Zadravec Dejan</ime-uradno>
+        <ime-uradno>Zadravec, Dejan</ime-uradno>
         <ime>Zadravec Dejan</ime>
         <dela did="1629 871 296"/>
         <delo did="871" cid="19"/>
@@ -10767,7 +10768,7 @@
         <delo did="3411" cid="31"/>
     </avtor>
     <avtor id="14670">
-        <ime-uradno>Zagradnik Maruša</ime-uradno>
+        <ime-uradno>Zagradnik, Maruša</ime-uradno>
         <ime>Zagradnik M.</ime>
         <delo did="734" cid="21 22"/>
         <ime>Zagradnik Mariša</ime>
@@ -10796,7 +10797,7 @@
         <delo did="303" cid="211"/>
     </avtor>
     <avtor id="21670">
-        <ime-uradno>Zajc Marko</ime-uradno>
+        <ime-uradno>Zajc, Marko</ime-uradno>
         <ime>Zajc  Marko</ime>
         <ime>Zajc Marko</ime>
         <dela did="8"/>
@@ -10843,12 +10844,12 @@
         <dela did="3268"/>
     </avtor>
     <avtor id="30800">
-        <ime-uradno>Zajc Neža</ime-uradno>
+        <ime-uradno>Zajc, Neža</ime-uradno>
         <ime>Zajc Neža</ime>
         <delo did="3354" cid="24"/>
     </avtor>
     <avtor id="15156">
-        <ime-uradno>Zajc-Cizelj Ivanka</ime-uradno>
+        <ime-uradno>Zajc-Cizelj, Ivanka</ime-uradno>
         <ime>Zajc Cizelj Ivanka</ime>
         <dela did="3162 2518 98 80"/>
         <delo did="76" cid="14 15 16"/>
@@ -10861,16 +10862,16 @@
         <delo did="3507" cid="10"/>
     </avtor>
     <avtor id="34476">
-        <ime-uradno>Zobec Miha</ime-uradno>
+        <ime-uradno>Zobec, Miha</ime-uradno>
         <ime>Zobec Miha</ime>
         <dela did="2271"/>
     </avtor>
     <avtor>
-        <ime-uradno>Zorn Tone</ime-uradno>
+        <ime-uradno>Zorn, Tone</ime-uradno>
         <delo did="3283" cid="2"/>
     </avtor>
     <avtor id="12932">
-        <ime-uradno>Zupančič Nina</ime-uradno>
+        <ime-uradno>Zupančič, Nina</ime-uradno>
         <ime>Zupančič Nina</ime>
         <delo did="2304" cid="56"/>
         <ime>Zupančič Pušavec Nina</ime>
@@ -10881,13 +10882,13 @@
         <delo did="3290" cid="86"/>
     </avtor>
     <avtor id="16231">
-        <ime-uradno>Zupanič Saša</ime-uradno>
+        <ime-uradno>Zupanič, Saša</ime-uradno>
     </avtor>
     <avtor id="33080">
-        <ime-uradno>Zwitter Žiga</ime-uradno>
+        <ime-uradno>Zwitter, Žiga</ime-uradno>
     </avtor>
     <avtor id="06480">
-        <ime-uradno>Žargi Matija</ime-uradno>
+        <ime-uradno>Žargi, Matija</ime-uradno>
         <ime>Žargi M.</ime>
         <delo did="259" cid="42"/>
         <delo did="1951" cid="14"/>
@@ -10904,20 +10905,20 @@
         <delo did="2871" cid="56"/>
     </avtor>
     <avtor id="35594">
-        <ime-uradno>Žbontar Zora</ime-uradno>
+        <ime-uradno>Žbontar, Zora</ime-uradno>
     </avtor>
     <avtor id="27531">
-        <ime-uradno>Železnik Urška</ime-uradno>
+        <ime-uradno>Železnik, Urška</ime-uradno>
         <ime>Železnik Urška</ime>
         <dela did="2426 1977 1964 740"/>
         <delo did="2610" cid="125"/>
         <delo did="3420" cid="58"/>
     </avtor>
     <avtor id="13075">
-        <ime-uradno>Železnik Žiga</ime-uradno>
+        <ime-uradno>Železnik, Žiga</ime-uradno>
     </avtor>
     <avtor id="02661">
-        <ime-uradno>Ževart Milan</ime-uradno>
+        <ime-uradno>Ževart, Milan</ime-uradno>
         <ime>Ževart, Milan</ime>
         <delo did="2287" cid="95"/>
         <ime>Ževart  Milan</ime>
@@ -10951,7 +10952,7 @@
         <delo did="3339" cid="9"/>
     </avtor>
     <avtor id="06995">
-        <ime-uradno>Žitko Salvator</ime-uradno>
+        <ime-uradno>Žitko, Salvator</ime-uradno>
         <ime>Žitko S.</ime>
         <delo did="1951" cid="15 20"/>
         <delo did="2614" cid="128 129 130"/>
@@ -10985,7 +10986,7 @@
         <delo did="865" cid="29"/>
     </avtor>
     <avtor id="40066">
-        <ime-uradno>Žižek Aleksander</ime-uradno>
+        <ime-uradno>Žižek, Aleksander</ime-uradno>
         <ime>Žižek Aleksander</ime>
         <ime>Žižek Aleksander </ime>
         <dela did="1873 1507 884 875 76"/>
@@ -11014,7 +11015,7 @@
         <delo did="76" cid="17"/>
     </avtor>
     <avtor id="12721">
-        <ime-uradno>ŽMUC-KOVAČ IRENA</ime-uradno>
+        <ime-uradno>Žmuc-Kovač, Irena</ime-uradno>
         <ime>Žmuc Irena</ime>
         <dela did="2149 2033"/>
         <delo did="1593" cid="89"/>
@@ -11026,7 +11027,7 @@
     </avtor>
     
     <avtor id="14559">
-        <ime-uradno>Žnidarič Marjan</ime-uradno>
+        <ime-uradno>Žnidarič, Marjan</ime-uradno>
         <ime>Žnidarič M.</ime>
         <delo did="2083" cid="15"/>
         <ime>Žnidarič Marjan</ime>
@@ -11067,7 +11068,7 @@
     </avtor>
     
     <avtor id="12720">
-        <ime-uradno>Žnidaršič Golec Lilijana</ime-uradno>
+        <ime-uradno>Žnidaršič Golec, Lilijana</ime-uradno>
         <ime>Žnidaršič Golec Danijela</ime>
         <delo did="2517" cid="23"/>
         <ime>Žnidaršič Golec L.</ime>
@@ -11112,7 +11113,7 @@
     </avtor>
     
     <avtor id="12970">
-        <ime-uradno>Žnidaršič Žagar Sabina</ime-uradno>
+        <ime-uradno>Žnidaršič Žagar, Sabina</ime-uradno>
         <ime>Žagar Žnidarišič Sabina</ime>
         <delo did="1892" cid="7"/>
         <ime>Žagar Žnidaršič Sabina</ime>
@@ -11142,12 +11143,12 @@
         <delo did="2016" cid="149"/>
     </avtor>
     <avtor id="12201">
-        <ime-uradno>Žnideršič Martin</ime-uradno>
+        <ime-uradno>Žnideršič, Martin</ime-uradno>
         <ime>Žnideršič Martin</ime>
         <delo did="856" cid="9"/>
     </avtor>
     <avtor id="06478">
-        <ime-uradno>Žontar Jože</ime-uradno>
+        <ime-uradno>Žontar, Jože</ime-uradno>
         <ime>Žontar Jože</ime>
         <ime> Žontar Jože</ime>
         <dela did="2843 2357 2064 1378 257"/>
@@ -11221,7 +11222,7 @@
         <delo did="422" cid="18"/>
     </avtor>
     <avtor id="03391">
-        <ime-uradno>ŽONTAR MARIJA</ime-uradno>
+        <ime-uradno>Žontar, Majda</ime-uradno>
         <ime>Žontar M.</ime>
         <delo did="2454" cid="6"/>
         <ime>Žontar Majda</ime>
@@ -11252,7 +11253,7 @@
         <delo did="422" cid="18"/>
     </avtor>
     <avtor id="06479">
-        <ime-uradno>Žumer Vladimir</ime-uradno>
+        <ime-uradno>Žumer, Vladimir</ime-uradno>
         <ime>Žumer Vladimir</ime>
         <delo did="77" cid="6"/>
         <delo did="80" cid="3"/>
@@ -11262,13 +11263,13 @@
         <delo did="3100" cid="9"/>
     </avtor>
     <avtor id="28651">
-        <ime-uradno>Žuraj Marko</ime-uradno>
+        <ime-uradno>Žuraj, Marko</ime-uradno>
         <ime>Žuraj Marko</ime>
         <dela did="3099 2027 2003 1617"/>
         <delo did="2027" cid="12"/>
     </avtor>
     <avtor id="04526">
-        <ime-uradno>Žvanut Maja</ime-uradno>
+        <ime-uradno>Žvanut, Maja</ime-uradno>
         <ime>Žvanut M.</ime>
         <delo did="2288" cid="182"/>
         <delo did="2609" cid="34"/>
