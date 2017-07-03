@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Vsebuje eno knjigo, ki ja nato prestavi med monografije. Glej opombo v komentarju. -->
+<!-- pri pubPart[@correspPubId] naslovi niso urejeni, saj se pričakuje, da podatke o naslovu pobere iz istega dela, ki vsebuje citate -->
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
@@ -26679,8 +26681,26 @@ Jugoslavije (december 1922-april 1923)</title>
                   <cit did="2201" cid="42"/>
                </citedIn>
             </pubPart>
+            <pubPart>
+               <author>Marušič Branko</author>
+               <title>Razvoj političnega življenja goriških Slovencev od uvedbe ustavnega življenja do prvega političnega razkola</title>
+               <title>(nadaljevanje)</title>
+               <page>211-256</page>
+               <citedIn count="2">
+                  <cit did="438" cid="22"/>
+                  <cit did="318" cid="27"/>
+               </citedIn>
+            </pubPart>
          </issue>
          <issue n="1-2">
+            <pubPart>
+               <author>Marušič Branko</author>
+               <title>Razvoj političnega življenja goriških Slovencev od uvedbe ustavnega življenja do prvega političnega razkola</title>
+               <page>1-30</page>
+               <citedIn count="1">
+                  <cit did="438" cid="23"/>
+               </citedIn>
+            </pubPart>
             <pubPart>
                <author>Melik Vasilij</author>
                <title>Nekaj značilnosti razvoja na Kranjskem 1867-1871</title>
@@ -26722,18 +26742,6 @@ Jugoslavije (december 1922-april 1923)</title>
                   <cit did="629" cid="153"/>
                   <cit did="2874" cid="6"/>
                   <cit did="438" cid="18"/>
-               </citedIn>
-            </pubPart>
-         </issue>
-         <issue> <!-- Knjiga -->
-            <pubPart>
-               <author>Marušič Branko</author>
-               <title>Razvoj političnega življenja goriških Slovencev od uvedbe ustavnega življenja do prvega političnega razkola</title>
-               <cobiss>4342066</cobiss>
-               <citedIn count="2">
-                  <cit did="438" cid="22"/>
-                  <cit did="318" cid="27"/>
-                  <cit did="438" cid="23"/>
                </citedIn>
             </pubPart>
          </issue>

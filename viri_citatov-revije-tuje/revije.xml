@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Vsebuje tudi knjige, katere prestavi v monografije. Glej opombe v komentarjih. -->
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:noNamespaceSchemaLocation="../viri_citatov-XML_Schema/revije.xsd">
    <docMetadata>
@@ -2156,6 +2157,7 @@
                <author>Štih Peter</author>
                <title>Die Nationswerdung der Slowenen und damit verknüpfte Geschichtsvorstellungen und Geschichtsmythen</title>
                <page>365-381</page>
+               <cobiss>1577684</cobiss>
                <citedIn count="1">
                   <cit did="2207" cid="81" avtor0="Štih Peter"
                      naslov0="Die Nationswerdung der Slowenen und damit verknüpfte Geschichtsvorstellungen und Geschichtsmythen"
@@ -2357,6 +2359,7 @@
                <title>Die Kärntner Herzogseinsetzung und die Edlingerfrage</title>
                <title>Protokoll eines Kolloquiums aus dem Jahre 1965</title>
                <page>353-366</page>
+               <cobiss>1034452</cobiss>
                <citedIn count="1">
                   <cit did="3257" cid="23" avtor0="Grafenauer Bogo"
                      naslov0="Die Kärntner Herzogseinsetzung und die Edlingerfrage: Protokoll eines Kolloquiums aus dem Jahre 1965"
@@ -2783,7 +2786,7 @@
          <issue n="158">
             <pubPart>
                <author>Braumüller Hermann</author>
-               <title>Wie Klagenfurt Landes-hauptstadt wurde</title>
+               <title>Wie Klagenfurt Landeshauptstadt wurde</title>
                <page>7-22</page>
                <citedIn count="1">
                   <cit did="2233" cid="3" avtor0="Braumüller Hermann"
@@ -7458,6 +7461,7 @@
                <author>Repe Božo</author>
                <title>Historical consequences of the disintegration of Yugoslavia for Slovene Society</title>
                <page>5-26</page>
+               <cobiss>17105762</cobiss>
                <citedIn count="1">
                   <cit did="1662" cid="175" avtor0="Repe Božo"
                      naslov0="Historical consequences of the disintegration of Yugoslavia for Slovene Society"
@@ -7471,6 +7475,7 @@
                <author>Pirjevec Jože</author>
                <title>Das Bild des Slawen in der Italienischen publizistik des Adriaraumes</title>
                <page>27-34</page>
+               <cobiss>69331</cobiss>
                <citedIn count="1">
                   <cit did="2763" cid="82" avtor0="Pirjevec Jože"
                      naslov0="Das Bild des Slawen in der Italienischen publizistik des Adriaraumes"
@@ -7523,7 +7528,7 @@
          <issue>
             <pubPart>
                <author>Lukan Walter</author>
-               <title>Eine Denkschrift des südslavischen Ausschusses in. London über die Bedeutung der Maideklaration</title>
+               <title>Eine Denkschrift des südslavischen Ausschusses in London über die Bedeutung der Maideklaration</title>
                <cobiss>341-369</cobiss>
                <citedIn count="1">
                   <cit did="1662" cid="159" avtor0="Lukan Walter"
@@ -7609,7 +7614,6 @@
             <pubPart>
                <author>Somogyi Éva</author>
                <title>Der österreichisch-ungarische Ausgleich 1867 und seine Protagonisten</title>
-               <page>413.425</page>
                <citedIn count="1">
                   <cit did="629" cid="117" avtor0="Somogyi Éva"
                      naslov0="Der österreichisch-ungarische Ausgleich 1867 und seine Protagonisten"
@@ -7658,6 +7662,7 @@
                <author>Voje Ignacij</author>
                <title>Die Entwicklung des Kosovo im Licht der ethnischen Prozesse bis zur Mitte des 18. Jahrhundert</title>
                <page>166-191</page>
+               <cobiss>3829837</cobiss>
                <citedIn count="1">
                   <cit did="250" cid="17" avtor0="Voje Ignacij"
                      naslov0="Die Entwicklung des Kosovo im Licht der ethnischen Prozesse bis zur Mitte des 18. Jahrhundert"

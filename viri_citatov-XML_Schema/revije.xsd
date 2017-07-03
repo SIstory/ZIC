@@ -120,6 +120,11 @@
       <xs:documentation>ISSN identifikator revije.</xs:documentation>
     </xs:annotation>
   </xs:element>
+  <xs:element name="isbn" type="xs:NMTOKEN">
+    <xs:annotation>
+      <xs:documentation>ISBN identifikator številke revije, ki je tudi monografija.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
   <xs:element name="year">
     <xs:annotation>
       <xs:documentation>Leto izida revije.</xs:documentation>
@@ -148,6 +153,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" ref="pubTitle"/>
+        <xs:element minOccurs="0" ref="isbn"/>
         <xs:element maxOccurs="unbounded" ref="pubPart"/>
       </xs:sequence>
       <xs:attribute name="n" type="xs:string">
