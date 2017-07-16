@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
+<?xml-stylesheet type="text/xsl" href="XSLT/citati-brez-cobiss-prikaz.xsl"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="schema/citirana_dela.xsd">
      <!--Več citatov publikacije. Citati imajo skupni (samo eden) naslov.-->
      <delo mojID="23">
           <naslov>100 let slovenske učiteljske organizacije</naslov>
