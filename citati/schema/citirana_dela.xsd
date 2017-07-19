@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="delo">
+          <xs:annotation>
+            <xs:documentation>Citirano delo</xs:documentation>
+          </xs:annotation>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="delo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="naslov"/>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:annotation>
+            <xs:documentation>Doda se v primeru, če skupni originalni podatki o citiranih 
+              delih odstopajo v tolikšni meri, da jih je portebno dopolniti.</xs:documentation>
+          </xs:annotation>
+          <xs:element ref="title"/>
+          <xs:element ref="addTitle"/>
+          <xs:element ref="author"/>
+          <xs:element ref="editor"/>
+          <xs:element ref="pubPlace"/>
+          <xs:element ref="publisher"/>
+          <xs:element ref="year"/>
+          <xs:element ref="issue"/>
+          <xs:element ref="volume"/>
+          <xs:element ref="page"/>
+          <xs:element ref="isbn"/>
+          <xs:element ref="issn"/>
+          <xs:element ref="source"/>
+          <xs:element ref="collection"/>
+          <xs:element ref="series"/>
+        </xs:choice><xs:element maxOccurs="unbounded" ref="cit"/>
+      </xs:sequence>
+      <xs:attribute name="cobiss" type="xs:NMTOKEN">
+        <xs:annotation>
+          <xs:documentation>Skupni cobiss id vseh citatov istega dela</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="mojID" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="naslov" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Skupni naslov citiranega dela (je lahko samo eden, zato poenoti in zaradi
+        validacije spremeni shemo)</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="cit">
+    <xs:annotation>
+      <xs:documentation>Podatki o citatu</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:attribute name="avtor0">
+        <xs:annotation>
+          <xs:documentation>Avtor citata, 1. polje</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="avtor1">
+        <xs:annotation>
+          <xs:documentation>Avtor citata, 2. polje</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="cid" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Identifikacija številka citata</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="cobiss">
+        <xs:annotation>
+          <xs:documentation>COBISS ID citata</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="did" use="required" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Identifikacija številka dela, v katerem se nahaja citat</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="issue">
+        <xs:annotation>
+          <xs:documentation>Številka</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="naslov0" use="required">
+        <xs:annotation>
+          <xs:documentation>Naslov citata, 1. polje</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="naslov1">
+        <xs:annotation>
+          <xs:documentation>Naslov citata, 2. polje</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="page">
+        <xs:annotation>
+          <xs:documentation>Citirane strani</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="pubPlace">
+        <xs:annotation>
+          <xs:documentation>Kraj izdaje</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="publisher">
+        <xs:annotation>
+          <xs:documentation>Založba</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="source">
+        <xs:annotation>
+          <xs:documentation>Vir citata</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="volume">
+        <xs:annotation>
+          <xs:documentation>Letnik</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="year" type="xs:integer">
+        <xs:annotation>
+          <xs:documentation>Leto</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="title" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati poenoten naslov</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="addTitle" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati prevod naslova (Additional Title)</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="author" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati avtorja</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="editor" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati urednika</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="pubPlace" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati kraj izdaje.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="publisher" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati izdajatelja.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="year" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati leto izdaje.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="volume" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati letnik.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="issue" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati številko.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="page" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati število strani.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="isbn" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>ISBN identifikator.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="issn" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>ISSN identifikator.</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="source" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati vir</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="collection" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati naslov zbirke</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:element name="series" type="xs:string">
+    <xs:annotation>
+      <xs:documentation>Možnost dodati naslov serije</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  
+</xs:schema>
