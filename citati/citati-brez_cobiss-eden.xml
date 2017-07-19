@@ -17,7 +17,7 @@
                         source="Loški razgledi" pubPlace="Maribor" year="1966" volume="13"
                         page="37-43"/>
         </delo>
-        <delo mojID="1">
+        <delo mojID="1" cobiss="33523554">
                 <title>O dosedanjem preučevanju slovenske lingvogeneze</title>
                 <cit did="3256" cid="53" avtor0="Šivic Dular Alenka"
                         naslov0="0 dosedanjem preučevanju slovenske lingvogeneze"
@@ -32,7 +32,7 @@
                         source="Slavonski zbornik" pubPlace="Vrhnika" publisher="Galerija"
                         year="2005" volume="2" page="427-436"/>
         </delo>
-        <delo mojID="3">
+        <delo mojID="3" cobiss="16060672">
                 <title>O metodi in predsodkih v delu Alberta Fortisa: Prispevek za zgodovino
                         antropologije</title>
                 <cit did="2853" cid="98" avtor0="Božidar Jezernik"
@@ -65,7 +65,7 @@
                         source="Geographische Rundschau" pubPlace="Braunschvveig" year="1981"
                         volume="33" issue="4" page="168"/>
         </delo>
-        <delo mojID="11">
+        <delo mojID="11" cobiss="112244">
                 <naslov>100 godina</naslov>
                 <cit did="334" cid="234" avtor0="Pavelić Ante" naslov0="100 godina"
                         pubPlace="Zagreb" publisher="Starčević-Libar" year="1995" page="12"/>
@@ -103,20 +103,20 @@
                         naslov1="Historische Entwicklung 1884-1984" pubPlace="Wien" year="1984"
                         page="80"/>
         </delo>
-        <delo mojID="17">
+        <delo mojID="17" cobiss="30840064">
                 <naslov>100 let gasilskega društva Kranjska Gora</naslov>
                 <cit did="440" cid="34" avtor0="Černe Vid, Kosmač Črtomir"
                         naslov0="100 let gasilskega društva Kranjska Gora" pubPlace="Kranjska Gora"
                         year="1992"/>
         </delo>
-        <delo mojID="18">
+        <delo mojID="18" cobiss="477769">
                 <naslov>100 let kanalske čitalnice</naslov>
                 <cit did="1317" cid="322" avtor0="Bavdaž Kristijan"
                         naslov0="100 let kanalske čitalnice"
                         source="Ob stoletnici Kanalske čitalnice in ob odkritju spomenika Mariju Kogoju"
                         pubPlace="Kanal" year="1967" page="6"/>
         </delo>
-        <delo mojID="19">
+        <delo mojID="19" cobiss="36275968">
                 <naslov>100 let kočevske železnice : kulturni in naravni spomeniki
                         Slovenije</naslov>
                 <cit did="844" cid="11" avtor0="Brate Tadej, Kordiš Ivan"
@@ -124,36 +124,36 @@
                         source="Zbirka vodnikov" pubPlace="Kočevje" year="1993" volume="128"
                         page="182"/>
         </delo>
-        <delo mojID="20">
+        <delo mojID="20" cobiss="1693750">
                 <naslov>100 let Mengeške godbe</naslov>
                 <cit did="1386" cid="12" avtor0="Ravnikar Tone" naslov0="100 let Mengeške godbe"
                         pubPlace="Mengeš"
                         publisher="Pripravljalni odbor za 100-letnico Mengeške godbe" year="1984"/>
         </delo>
-        <delo mojID="21">
+        <delo mojID="21" cobiss="13982464">
                 <naslov>100 let Mestne hranilnice ljubljanske</naslov>
                 <cit did="2277" cid="3" avtor0="Nećak Dušan"
                         naslov0="100 let Mestne hranilnice ljubljanske" pubPlace="Ljubljana"
                         year="1989" page="1989"/>
         </delo>
-        <delo mojID="22">
+        <delo mojID="22" cobiss="45836033">
                 <naslov>100 let organiziranega planinstva v Rušah</naslov>
                 <cit did="3368" cid="11" avtor0="Tovšak Slavica"
                         naslov0="100 let organiziranega planinstva v Rušah" pubPlace="Ruše"
                         year="2001"/>
         </delo>
-        <delo mojID="24">
+        <delo mojID="24" cobiss="61421568">
                 <naslov>100 let socialdemokracije</naslov>
                 <cit did="849" cid="8" avtor0="Zver Milan" naslov0="100 let socialdemokracije"
                         pubPlace="Ljubljana" publisher="Veda" year="1996" page="95-96"/>
         </delo>
-        <delo mojID="25">
+        <delo mojID="25" cobiss="3470593">
                 <naslov>100 let učiteljišča v Mariboru (1863-1963)</naslov>
                 <cit did="2196" cid="80" avtor0="Lešnik Mirko"
                         naslov0="100 let učiteljišča v Mariboru (1863-1963)" pubPlace="Maribor"
                         year="1964" page="26"/>
         </delo>
-        <delo mojID="26">
+        <delo mojID="26" cobiss="120191232">
                 <naslov>100 let vipavske železnice</naslov>
                 <cit did="2078" cid="11" avtor0="Rustja K." naslov0="100 let vipavske železnice"
                         pubPlace="Ajdovščina" year="2002"/>
@@ -196,13 +196,13 @@
                         naslov0="11. maj 1945 : &#34;Govori vam Radio svobodni Maribor&#34;"
                         source="Večer" year="0" issue="107" page="19"/>
         </delo>
-        <delo mojID="38">
+        <delo mojID="38" cobiss="6369337">
                 <naslov>130 let Blasnikove tiskarne</naslov>
                 <cit did="2057" cid="12" avtor0="Logar Janez" naslov0="130 let Blasnikove tiskarne"
                         pubPlace="Ljubljana" publisher="Sindikalna podružnica Blasnikove tiskarne"
                         year="1959"/>
         </delo>
-        <delo mojID="39">
+        <delo mojID="39" cobiss="2073068">
                 <naslov>1300 primorskih priimkov</naslov>
                 <cit did="2612" cid="97" avtor0="Merku Pavle" naslov0="1300 primorskih priimkov"
                         pubPlace="Trst" year="2004"/>
@@ -225,13 +225,13 @@
                 <cit did="1300" cid="163" avtor0="Becker Annette"
                         naslov0="14-18, Retrouver la guerre" pubPlace="Paris" year="2000"/>
         </delo>
-        <delo mojID="45">
+        <delo mojID="45" cobiss="34768994">
                 <naslov>1421 -the Year China Discovered the World</naslov>
                 <cit did="142" cid="131" avtor0="Menzies Gavin"
                         naslov0="1421 -the Year China Discovered the World" pubPlace="London"
                         publisher="Bantam Press" year="2002"/>
         </delo>
-        <delo mojID="46">
+        <delo mojID="46" cobiss="3302969">>
                 <naslov>15. divizija</naslov>
                 <cit did="1301" cid="39" avtor0="Ambrožič-Novljan Lado" naslov0="15. divizija"
                         pubPlace="Ljubljana" year="1983" page="514, 515"/>
