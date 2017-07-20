@@ -231,19 +231,19 @@
                         naslov0="1421 -the Year China Discovered the World" pubPlace="London"
                         publisher="Bantam Press" year="2002"/>
         </delo>
-        <delo mojID="46" cobiss="3302969">>
+        <delo mojID="46" cobiss="3302969">
                 <naslov>15. divizija</naslov>
                 <cit did="1301" cid="39" avtor0="Ambrožič-Novljan Lado" naslov0="15. divizija"
                         pubPlace="Ljubljana" year="1983" page="514, 515"/>
         </delo>
-        <delo mojID="47">
+        <delo mojID="47" cobiss="1353717">
                 <naslov>150 let botaničnega vrta v Ljubljani</naslov>
                 <cit did="2041" cid="8" avtor0="Lazar Jože"
                         naslov0="150 let botaničnega vrta v Ljubljani"
                         source="Zbornik ob 150-letnici botaničnega vrta v Ljubljani"
                         pubPlace="Ljubljana" year="1960" page="1-10"/>
         </delo>
-        <delo mojID="48">
+        <delo mojID="48" cobiss="14014976">
                 <naslov>150 let fotografije na Slovenskem</naslov>
                 <cit did="2843" cid="83" avtor0="Kambič Mirko,  Kovič Brane, Krečič  Peter"
                         naslov0="150 let fotografije na Slovenskem" pubPlace="Ljubljana" year="1989"
@@ -255,7 +255,7 @@
                         naslov0="150 let Južne železnice, Od Celja do Ljubljane, 1849-1999"
                         pubPlace="Litija" publisher="Tiskarna Aco" year="1999"/>
         </delo>
-        <delo mojID="53">
+        <delo mojID="53" cobiss="2593282">
                 <naslov>160 let mapnega arhiva, katalog ob razstavi v pripravi Arhiva SR Slovenije
                         in Republiške geodetske uprave</naslov>
                 <cit did="2590" cid="47" avtor0="Ribnikar Peter; Rotar Jože, Svetik Peter"
@@ -274,20 +274,20 @@
                         naslov0="162 zweisprachige Ortstafeln in Kärnten" source="Der Standard"
                         pubPlace="Dunaj" year="2007" issue="5607" page="1"/>
         </delo>
-        <delo mojID="56">
+        <delo mojID="56" cobiss="10908749">
                 <naslov>163 napisov je absolutno zadnji sprejemljivi kompromis</naslov>
                 <cit did="2734" cid="49" avtor0="Kumer Silvo"
                         naslov0="163 napisov je absolutno zadnji sprejemljivi kompromis"
                         source="Novice" pubPlace="Celovec" year="2007" issue="26" page="4-5"/>
         </delo>
-        <delo mojID="57">
+        <delo mojID="57" cobiss="138923">
                 <naslov>1679. Topographia Ducatus Carnioliae Modernae</naslov>
                 <cit did="2598" cid="29" avtor0="Valvasor Johann Weikhard"
                         naslov0="1679. Topographia Ducatus Carnioliae Modernae"
                         source="Wagensperg in Krain" pubPlace="Ljubljana" publisher="CZ" year="1970"
                 />
         </delo>
-        <delo mojID="59">
+        <delo mojID="59" cobiss="31827457">
                 <naslov>(1811): Pismenost ali gramatika za perve shole</naslov>
                 <cit did="1992" cid="7" avtor0="Vodnik V."
                         naslov0="(1811): Pismenost ali gramatika za perve shole" pubPlace="Lublana"
@@ -305,13 +305,13 @@
                         naslov0="1848 ou Apprentisage de la république, 1848-1859" pubPlace="Pariz"
                         publisher="Le Seuil" year="1973"/>
         </delo>
-        <delo mojID="62">
+        <delo mojID="62" cobiss="9079959">
                 <naslov>185 let tovarne usnja 1788-1973</naslov>
                 <cit did="3271" cid="3" avtor0="Kojc Viktor"
                         naslov0="185 let tovarne usnja 1788-1973" pubPlace="Velenje"
                         publisher="Tisk RLV" year="1973"/>
         </delo>
-        <delo mojID="63">
+        <delo mojID="63" cobiss="567796">
                 <naslov>(1853-1861): Storia documentata di Venezia</naslov>
                 <cit did="1920" cid="63" avtor0="Romanin S."
                         naslov0="(1853-1861): Storia documentata di Venezia" pubPlace="Venezia"
@@ -333,7 +333,7 @@
                         source="International Journal of Impact Engineering" year="1992" volume="12"
                         issue="2" page="193-323"/>
         </delo>
-        <delo mojID="67">
+        <delo mojID="67" cobiss="72859392">
                 <naslov>190 let obveznega izvoda tiska na Slovenskem</naslov>
                 <cit did="2057" cid="10" avtor0="Kodrič Dačič Eva"
                         naslov0="190 let obveznega izvoda tiska na Slovenskem"
@@ -382,19 +382,19 @@
                         naslov0="1914-1918 : remois en guerre. : l'heroisation au quotidien"
                         pubPlace="Nancy" year="1993"/>
         </delo>
-        <delo mojID="75">
+        <delo mojID="75" cobiss="213239296">
                 <naslov>1914-1918: Spomini jugoslovanskega dobrovoljca</naslov>
                 <cit did="3161" cid="29" avtor0="Jelenc Vitomir Feodor"
                         naslov0="1914-1918: Spomini jugoslovanskega dobrovoljca"
                         pubPlace="Ljubljana" publisher="Karantanija" year="2004"/>
         </delo>
-        <delo mojID="76">
+        <delo mojID="76" cobiss="1745524">
                 <naslov>1914-1918, The History of the First World War</naslov>
                 <cit did="1299" cid="9" avtor0="Stevenson David"
                         naslov0="1914-1918, The History of the First World War" pubPlace="London"
                         publisher="Penguin Books" year="2004"/>
         </delo>
-        <delo mojID="77">
+        <delo mojID="77" cobiss="15433472">
                 <naslov>1917 - Lubiana o Trieste?</naslov>
                 <cit did="1315" cid="103" avtor0="Primicerj Giulio"
                         naslov0="1917 - Lubiana o Trieste?"
@@ -406,14 +406,14 @@
                 <cit did="2820" cid="5" avtor0="Stocks J. L." naslov0="1931: Representation"
                         source="Philosophy" year="1931" issue="24" page="405-421"/>
         </delo>
-        <delo mojID="80">
+        <delo mojID="80" cobiss="6640438">
                 <naslov>1934-1950. Tudi Slovenci letimo na smučeh</naslov>
                 <cit did="3365" cid="338" avtor0="Guček Svetozar"
                         naslov0="1934-1950. Tudi Slovenci letimo na smučeh"
                         source="Planica 1934-1999" pubPlace="Ljubljana"
                         publisher="Društvo Proplanica" year="1999" page="21-44"/>
         </delo>
-        <delo mojID="82">
+        <delo mojID="82" cobiss="47268706">
                 <title>A History of Historical Writing</title>
                 <cit did="2018" cid="135" avtor0="Holm B. J., Thompson J. W."
                         naslov0="(1942): A Historj of Historical Writing" pubPlace="New York"
@@ -431,7 +431,7 @@
                         source="Testimonianze di Elio Rocco" pubPlace="Padova" publisher="Biblios"
                         year="1998"/>
         </delo>
-        <delo mojID="86">
+        <delo mojID="86" cobiss="3551543">
                 <naslov>1945. – 1995. Bleiburg</naslov>
                 <cit did="1464" cid="75" avtor0="Perić Miljenko" naslov0="1945. – 1995. Bleiburg"
                         pubPlace="Zagreb" year="1990" page="71"/>
@@ -447,7 +447,7 @@
                 <cit did="2810" cid="49" avtor0="Segev Tom" naslov0="1949: The First Israelis"
                         pubPlace="New York" publisher="Henry Holt and Co." year="1998"/>
         </delo>
-        <delo mojID="89">
+        <delo mojID="89" cobiss="48709120">
                 <naslov>1961 - Kocbekova vrnitev v javnost</naslov>
                 <cit did="823" cid="6" avtor0="Inkret Andrej"
                         naslov0="1961 - Kocbekova vrnitev v javnost" source="Nova revija"
@@ -512,7 +512,7 @@
                         naslov1="Eine Bilanz nach der Zeitenwende" source="Berliner Debatte Initial"
                         year="2000" volume="11" issue="2" page="4-10"/>
         </delo>
-        <delo mojID="98">
+        <delo mojID="98" cobiss="55723008">
                 <title>Verdun pri Stopičah</title>
                 <year>1990</year>
                 <cit did="2584" cid="7" avtor0="Breščak D." naslov0="1990 Verdun pri Stopičah"
@@ -544,7 +544,7 @@
                         naslov0="20 let gospodarskega razvoja nežiških rudnikov"
                         source="300 let mežiški rudniki" year="1965" page="90"/>
         </delo>
-        <delo mojID="103">
+        <delo mojID="103" cobiss="2877812">
                 <naslov>20 let kapitalizma. Prehod v »kapitalizem po meri človeka«.</naslov>
                 <cit did="3230" cid="4" avtor0="Lorenčič Aleksander"
                         naslov0="20 let kapitalizma. Prehod v »kapitalizem po meri človeka«."
@@ -570,27 +570,27 @@
                         naslov0="20 minutes pour la mort: Robert Brasillach: le procès expédié"
                         pubPlace="Monaco" year="2011"/>
         </delo>
-        <delo mojID="108">
+        <delo mojID="108" cobiss="61863424">
                 <naslov>20. stoletje v zgodovinskih virih, besedah in slikah</naslov>
                 <cit did="2485" cid="1" avtor0="Weber Tomaž" avtor1="Novak Drago"
                         naslov0="20. stoletje v zgodovinskih virih, besedah in slikah"
                         source="Slovenci v Državi Slovencev, Hrvatov in Srbov" pubPlace="Ljubljana"
                         publisher="DZS" year="1996" page="24"/>
         </delo>
-        <delo mojID="109">
+        <delo mojID="109" cobiss="61863424">
                 <naslov>20. stoletje v zgodovinskih virih, besedi in slikah</naslov>
                 <cit did="367" cid="12" avtor0="Weber Tomaž, Radonjić Zoran, Novak Drago"
                         naslov0="20. stoletje v zgodovinskih virih, besedi in slikah"
                         naslov1="Utrinki iz svetovne zgodovine 1945-1990" pubPlace="Ljubljana"
                         publisher="DZS" year="2000"/>
         </delo>
-        <delo mojID="111">
+        <delo mojID="111" cobiss="4170551">
                 <naslov>200 let ljubljanske babiške šole</naslov>
                 <cit did="2610" cid="52" avtor0="Lavrič Vito"
                         naslov0="200 let ljubljanske babiške šole" pubPlace="Ljubljana" year="1953"
                 />
         </delo>
-        <delo mojID="112">
+        <delo mojID="112" cobiss="56444672">
                 <naslov>200 let tiskarstva na Ptuju</naslov>
                 <cit did="2059" cid="7" avtor0="Hernja Masten Marija"
                         naslov0="200 let tiskarstva na Ptuju" source="Littera scripta Manet"
@@ -612,7 +612,7 @@
                         source="http://europa.eu/rapid/pressReleasesAction.do?reference=SPEECH/00/41&amp;format=HTML&amp;aged=1&amp;language=EN&amp;guiLanguage=en."
                         pubPlace="Strasbourg" year="2000"/>
         </delo>
-        <delo mojID="115">
+        <delo mojID="115" cobiss="9637682">
                 <title>Scritti sulla storia economica di Gorizia e della sua Provincia (Secoli
                         XVII-XX)</title>
                 <cit did="2078" cid="7" avtor0="Luchitta A."
@@ -627,7 +627,7 @@
                         source="Quellenkunde der Habbsurger- monarchie. 16.-18. Jahrhundert, Mitteilungen des Instituts für Österreichische"
                         pubPlace="Wien-München" volume="44" page="801-812"/>
         </delo>
-        <delo mojID="117">
+        <delo mojID="117" cobiss="22303330">
                 <title>Social and Cultural Anthropology: The Key Concepts</title>
                 <cit did="2853" cid="180" avtor0="Rapport Nigel, Joanna Overing"
                         naslov0="2003 Social and Cultural Anthropology: The Key Concepts"
@@ -665,7 +665,7 @@
                         naslov0="25 Godina socialističke Jugoslavije" pubPlace="Beograd"
                         publisher="PTT" year="1968"/>
         </delo>
-        <delo mojID="126">
+        <delo mojID="126" cobiss="46937088">
                 <naslov>26. zborovanje slovenskih zgodovinarjev v Slovenjem Gradcu 28.-30. september
                         1992 z občnim zborom Zveze zgodovinskih društev Slovenije</naslov>
                 <cit did="2231" cid="6" avtor0="Melik Vasilij"
@@ -673,7 +673,7 @@
                         source="Zgodovinski časopis" year="1993" volume="47" issue="4"
                         page="581-585"/>
         </delo>
-        <delo mojID="127">
+        <delo mojID="127" cobiss="1129484">
                 <naslov>27. mart 1941: Tematska zbirka dokumenata</naslov>
                 <cit did="3133" cid="79" avtor0="Petranović Branko" avtor1="Žutić Nikola"
                         naslov0="27. mart 1941: Tematska zbirka dokumenata" pubPlace="Beograd"
@@ -714,7 +714,7 @@
                         source="Der stiele Aufitieg" pubPlace="München"
                         publisher="Franz Eher Verlag" year="1944"/>
         </delo>
-        <delo mojID="135">
+        <delo mojID="135" cobiss="6041650">
                 <naslov>30 let slovenskega kulturno prosvetnega društva Bazovica Rijeka
                         1947–1977</naslov>
                 <cit did="2713" cid="4" avtor0="Ausec Zora"
@@ -722,7 +722,7 @@
                         pubPlace="Ljubljana" publisher="Kulturno-prosvetno društvo “Bazovica”"
                         year="1977"/>
         </delo>
-        <delo mojID="136">
+        <delo mojID="136" cobiss="1818373">
                 <naslov>30 let slovenskega pomorstva 1945-1975</naslov>
                 <cit did="2636" cid="70" avtor0="Koršič M."
                         naslov0="30 let slovenskega pomorstva 1945-1975" pubPlace="Koper"
@@ -753,18 +753,18 @@
                         source="Povijest zagrebačke klasične gimnazije 1607-1957" pubPlace="Zagreb"
                         year="1957" page="11"/>
         </delo>
-        <delo mojID="143">
+        <delo mojID="143" cobiss="686388">
                 <naslov>375 let jeklarstva na Ravnah</naslov>
                 <cit did="2243" cid="3" avtor0="Kolar Marjan" naslov0="375 let jeklarstva na Ravnah"
                         pubPlace="Ravne na Koroškem" publisher="Slovenske železarne" year="1995"/>
         </delo>
-        <delo mojID="144">
+        <delo mojID="144" cobiss="512248448">
                 <title>From the Inside of a Being to the Thin Line of Life</title>
-                <cit did="1934" cid="25" avtor0="Tratnik P."
+                <cit did="1934" cid="25" avtor0="Tratnik Polona"
                         naslov0="37'C: From the Inside of a Being to the Thin Line of Life"
                         pubPlace="Cambridge" year="2005" volume="2" page="102-108"/>
         </delo>
-        <delo mojID="145">
+        <delo mojID="145" cobiss="8601933">
                 <naslov>394 napisov je spodnja meja</naslov>
                 <cit did="212" cid="69" avtor0="Kulmesch Janko"
                         naslov0="394 napisov je spodnja meja" source="Naš tednik" pubPlace="Celovec"
@@ -784,7 +784,7 @@
                         source="Arhivsko društvo Slovenije - 40 let" pubPlace="Ljubljana"
                         publisher="Arhivsko društvo Slovenije" year="1995" page="9-85"/>
         </delo>
-        <delo mojID="148">
+        <delo mojID="148" cobiss="213156">
                 <naslov>40 let doma upokojencev in oskrbovancev Viltuš/20 let doma upokojencev
                         Danice Vogrinec Maribor</naslov>
                 <cit did="2785" cid="6" avtor0="Švanjcer Marija, Poštrak Katarina, Mak Milena"
@@ -798,7 +798,7 @@
                         naslov0="40 let razvoja Teritorialne obrambe Slovenije. Posebna izdaja revije Obramba"
                         pubPlace="Ljubljana" publisher="november 2008" page="9"/>
         </delo>
-        <delo mojID="151">
+        <delo mojID="151" cobiss="47579393">
                 <naslov>45 let Ribiške družine Pesnica</naslov>
                 <cit did="1632" cid="2" avtor0="Toš Marjan" naslov0="45 let Ribiške družine Pesnica"
                         pubPlace="Lenart" year="2002"/>
@@ -817,13 +817,13 @@
                         naslov0="48 Stunden Ultimatum" source="Kleine Zeitung"
                         pubPlace="Klagenfurt/Celovec" year="0" page="4"/>
         </delo>
-        <delo mojID="154">
+        <delo mojID="154" cobiss="103483392">
                 <naslov>50 Jahre des Instituts fur Archäologie</naslov>
                 <cit did="1915" cid="15" avtor0="Gabrovec S."
                         naslov0="50 Jahre des Instituts fur Archäologie" source="Arheološki vestnik"
                         pubPlace="Ljubljana" year="1998" volume="49" page="14-16"/>
         </delo>
-        <delo mojID="155">
+        <delo mojID="155" cobiss="13226541">
                 <naslov>50 let arheologije starejše železne dobe v Sloveniji</naslov>
                 <cit did="421" cid="13" avtor0="Gabrovec S."
                         naslov0="50 let arheologije starejše železne dobe v Sloveniji"
@@ -849,7 +849,7 @@
                         naslov0="50 years of Palaeolithic research in Slovenia"
                         source="Arheološki vestnik" pubPlace="Ljubljana" year="1979" page="21-28"/>
         </delo>
-        <delo mojID="161">
+        <delo mojID="161" cobiss="6526050">
                 <naslov>500 jahre Druck in Osterreich</naslov>
                 <cit did="2223" cid="6" avtor0="Durstmüller Anton"
                         naslov0="500 jahre Druck in Osterreich" pubPlace="Wien"
@@ -881,7 +881,7 @@
                         naslov0="60 let elektrike v Kresnicah" source="Glasilo občanov" year="1999"
                         issue="12" page="4"/>
         </delo>
-        <delo mojID="167">
+        <delo mojID="167" cobiss="29949794">
                 <naslov>60 let od konca druge svetovne vojne</naslov>
                 <cit did="569" cid="2" avtor0="Repe Božo"
                         naslov0="60 let od konca druge svetovne vojne"
@@ -909,18 +909,18 @@
                         naslov0="6.000.000 accusers. The opening of the Eichmann trial"
                         pubPlace="Jerusalem" publisher="Jerusalem Post" year="1961"/>
         </delo>
-        <delo mojID="172">
+        <delo mojID="172" cobiss="5860407">
                 <naslov>650 Jahre Gottschee: Festbuch 1980</naslov>
                 <cit did="2670" cid="15" avtor0="Kren Ludwig"
                         naslov0="650 Jahre Gottschee: Festbuch 1980" pubPlace="Klagenfurt"
                         publisher="Gottscheer Landsmannschaft" year="1980"/>
         </delo>
-        <delo mojID="173">
+        <delo mojID="173" cobiss="50373632">
                 <naslov>7 let pozneje</naslov>
                 <cit did="2712" cid="22" avtor0="Janša, Janez, Borštner Ivan, Tasič David"
                         naslov0="7 let pozneje" publisher="Založba Karantanija" year="1995"/>
         </delo>
-        <delo mojID="174">
+        <delo mojID="174" cobiss="240770560">
                 <naslov>700 let Novega trga v mestu Ljubljani</naslov>
                 <cit did="2631" cid="367" avtor0="Verbič M."
                         naslov0="700 let Novega trga v mestu Ljubljani" source="Kronika" year="1967"
@@ -935,25 +935,25 @@
                         publisher="Generalštab Slovenske vojske, Center za vojaškozgodovinsko dejavnost"
                         year="2001" page="83-97"/>
         </delo>
-        <delo mojID="179">
+        <delo mojID="179" cobiss="23898119">
                 <naslov>80 let Gasilskega društva Hotinja vas: 1905-1985</naslov>
                 <cit did="3341" cid="2" avtor0="Fras Katarina"
                         naslov0="80 let Gasilskega društva Hotinja vas: 1905-1985"
                         pubPlace="Hotinja vas" publisher="Gasilsko društvo" year="1985"/>
         </delo>
-        <delo mojID="180">
+        <delo mojID="180" cobiss="107067648">
                 <naslov>800 let Jurkloštra</naslov>
                 <cit did="3373" cid="9" avtor0="Rybař Miloš" naslov0="800 let Jurkloštra"
                         pubPlace="Laško" year="2000"/>
         </delo>
-        <delo mojID="181">
+        <delo mojID="181" cobiss="11596594">
                 <naslov>80-letnica »Edinosti«</naslov>
                 <cit did="2526" cid="28" avtor0="Pertot Riko" naslov0="80-letnica »Edinosti«"
                         source="Jadranski koledar" year="1956" page="105-106"/>
         </delo>
-        <delo mojID="183">
+        <delo mojID="183" cobiss="1279540">
                 <naslov>90 let Turističnega društva Radlje ob Dravi (Marenberg) 1905-1945</naslov>
-                <cit did="331" cid="18" avtor0="Verdenik T."
+                <cit did="331" cid="18" avtor0="Verdenik Tilčka"
                         naslov0="90 let Turističnega društva Radlje ob Dravi (Marenberg) 1905-1945"
                         pubPlace="Radlje ob Dravi" year="1996" page="4-23"/>
         </delo>
@@ -1001,7 +1001,7 @@
                         source="European Law Journal" year="2000" volume="6" issue="3"
                         page="237-238"/>
         </delo>
-        <delo mojID="193">
+        <delo mojID="193" cobiss="73429760">
                 <naslov>A Bitter Truth : Avant-Garde Art and the Great War</naslov>
                 <cit did="1300" cid="153" avtor0="Cork Richard"
                         naslov0="A Bitter Truth :  Avant-Garde Art and the Great War"
@@ -1036,19 +1036,19 @@
                         source="International journal of politics, culture and society" year="1996"
                         volume="9" issue="3" page="401-422"/>
         </delo>
-        <delo mojID="198">
+        <delo mojID="198" cobiss="1203287">
                 <naslov>A brief history of citizenship</naslov>
                 <cit did="2703" cid="21" avtor0="Heater Derek"
                         naslov0="A brief history of citizenship" pubPlace="New York, Edinburgh"
                         publisher="New York University Press, Edinburgh University Press"
                         year="2004"/>
         </delo>
-        <delo mojID="199">
+        <delo mojID="199" cobiss="117715">
                 <naslov>A brief history of Istra</naslov>
                 <cit did="1624" cid="31" avtor0="Darovec Darko" naslov0="A brief history of Istra"
                         pubPlace="Yanchep" publisher="ALA Publications" year="1998"/>
         </delo>
-        <delo mojID="200">
+        <delo mojID="200" cobiss="41896192">
                 <naslov>A Brief History of Slovenia: Historical Background of the Republic of
                         Slovenia.</naslov>
                 <cit did="2837" cid="104" avtor0="Prunk Janko"
@@ -1112,7 +1112,7 @@
                         naslov1="Talk of sovereignty shakes Hawaii" source="New York Times"
                         year="1992"/>
         </delo>
-        <delo mojID="212">
+        <delo mojID="212" cobiss="7235149">
                 <naslov>A chance to learn: A history of race and education in the United
                         States</naslov>
                 <cit did="2933" cid="102" avtor0="Weinberg Meyer"
@@ -1158,7 +1158,7 @@
                         naslov0="A Colorado history" naslov1="8. izdaja" pubPlace="Boulder, CO"
                         publisher="Pruett Publishnig Company" year="2001"/>
         </delo>
-        <delo mojID="219">
+        <delo mojID="219" cobiss="19339053">
                 <naslov>A Commentary on the Letters of M. Cornelius Fronto</naslov>
                 <cit did="1748" cid="493" avtor0="Hout M. P. J. Van den"
                         naslov0="A Commentary on the Letters of M. Cornelius Fronto"
@@ -1177,7 +1177,7 @@
                         naslov0="A Common Lawyer Looks at the Civil Law"
                         publisher="University of Michigan Law School" year="1953" page="9"/>
         </delo>
-        <delo mojID="222">
+        <delo mojID="222" cobiss="16391142">
                 <naslov>A compact survey of American economic influence in Europe since the
                         1880s</naslov>
                 <cit did="2818" cid="3" avtor0="Harm G. Schröter"
@@ -1198,14 +1198,14 @@
                         source="Tourism Management" year="1998" volume="19" issue="3" page="247-256"
                 />
         </delo>
-        <delo mojID="226">
+        <delo mojID="226" cobiss="102947328">
                 <naslov>A Comprehensive Bibliography of the Literary Works of Ivan (John)
                         Molek</naslov>
                 <cit did="2862" cid="20" avtor0="Jugg Molek Mary"
                         naslov0="A Comprehensive Bibliography of the Literary Works of Ivan (John) Molek"
                         pubPlace="Dover" publisher="samozaložba" year="1976" page="22"/>
         </delo>
-        <delo mojID="228">
+        <delo mojID="228" cobiss="19188578">
                 <naslov>A Concise History of Bulgaria</naslov>
                 <cit did="2884" cid="12" avtor0="Crampton R.J."
                         naslov0="A Concise History of Bulgaria" pubPlace="Cambridge" year="1997"
@@ -1231,14 +1231,14 @@
                         naslov0="A Concise History of the Rabbinate" pubPlace="Oxford"
                         publisher="Blackwell" year="1993"/>
         </delo>
-        <delo mojID="232">
+        <delo mojID="232" cobiss="38585089">
                 <naslov>A Concise History of the World, from Paleolithic times to the
                         present</naslov>
                 <cit did="122" cid="3" avtor0="Cameron Rondo"
                         naslov0="A Concise History of the World, from Paleolithic times to the present"
                         publisher="Oxford University Press" year="1993"/>
         </delo>
-        <delo mojID="233">
+        <delo mojID="233" cobiss="14097965">
                 <naslov>A Conducted Tour</naslov>
                 <cit did="244" cid="32" avtor0="Robinson S." naslov0="A Conducted Tour"
                         naslov1="Princesa Vrtoglavka" source="Josip Ipavec in njegov čas"
@@ -1283,7 +1283,7 @@
                         source="Turning it on : a reader in women and media" pubPlace="London"
                         publisher="Arnold" year="1996" page="87-96"/>
         </delo>
-        <delo mojID="241">
+        <delo mojID="241" cobiss="970499">
                 <naslov>A Critical and Exegetical Commentary on Numbers</naslov>
                 <cit did="51" cid="12" avtor0="Buchanan Gray"
                         naslov0="A Critical and Exegetical Commentary on Numbers" year="1976"
@@ -1319,7 +1319,7 @@
                         naslov0="A Critical Study of German Tactics and of the New German Regulations"
                         publisher="United states cavalry association" year="1912"/>
         </delo>
-        <delo mojID="246">
+        <delo mojID="246" cobiss="714574">
                 <naslov>A culture of corruption: Coping with government in post-communist
                         Europe</naslov>
                 <cit did="3151" cid="30" avtor0="Miller William L." avtor1="Grodeland Åse B. et al"
