@@ -4110,7 +4110,7 @@
                         naslov0="Adria. Civiltà dell'Alto Adriatico dall'impero romano al dominio veneziano"
                         pubPlace="München" year="2002"/>
         </delo>
-        <delo mojID="720">
+        <delo mojID="720" cobiss="512586567">
                 <naslov>Adria storia</naslov>
                 <cit did="720" cid="48" avtor0="Pirina Marco" naslov0="Adria storia"
                         source="Scomparsi senza storia I." pubPlace="Pordenone"
@@ -4228,7 +4228,7 @@
                         naslov0="Aesthetics of diaspora: contemporary minstrels in Turkish Berlin: Journal of Ethnic and Migration Studies"
                         pubPlace="Brighton" year="2002" volume="28" page="43-63"/>
         </delo>
-        <delo mojID="742">
+        <delo mojID="742" cobiss="180596">
                 <naslov>Afera Jadranska banka</naslov>
                 <cit did="478" cid="1" avtor0="Perovšek Jurij" naslov0="Afera Jadranska banka"
                         source="Slovenska kronika XX. stoletja" pubPlace="Ljubljana" year="1995"/>
@@ -4239,7 +4239,7 @@
                         source="Časopis za suvremeno povijest" year="2003" issue="35" page="887-903"
                 />
         </delo>
-        <delo mojID="744">
+        <delo mojID="744" cobiss="115313664">
                 <naslov>Afera Theimer</naslov>
                 <cit did="2618" cid="34" avtor0="Globočnik Damir" naslov0="Afera Theimer"
                         pubPlace="Radovljica" year="2001"/>
@@ -4279,7 +4279,7 @@
                         source="Marksistička misao" pubPlace="Beograd"
                         publisher="Marksistički centar CK SKS" year="1977" issue="6" page="55-71"/>
         </delo>
-        <delo mojID="751">
+        <delo mojID="751" cobiss="23571456">
                 <naslov>Afirmacija albanske nacionalnosti u Jugoslaviji/Staljinistički nacionalizam
                         i iredentizam u Albaniji</naslov>
                 <cit did="2872" cid="64" avtor0="Hoxha Hajredin"
@@ -4308,7 +4308,7 @@
                         publisher="The University of California Press, James Currey Publishers, Unesco Publishing"
                         year="1999" page="76-101"/>
         </delo>
-        <delo mojID="756">
+        <delo mojID="756" cobiss="17447266">
                 <naslov>African Decolonization</naslov>
                 <cit did="2847" cid="38" avtor0="Wilson Henry S." naslov0="African Decolonization"
                         pubPlace="London" publisher="Edward Arnold" year="1994"/>
@@ -4318,13 +4318,13 @@
                 <cit did="106" cid="9" avtor0="Ardrey R." naslov0="African Genesis"
                         pubPlace="London" publisher="Fontana Books" year="2000"/>
         </delo>
-        <delo mojID="758">
+        <delo mojID="758" cobiss="27036461">
                 <naslov>African History: A Very Short Introduction</naslov>
                 <cit did="2656" cid="35" avtor0="Parker John" avtor1="Rathbone Richard"
                         naslov0="African History: A Very Short Introduction" pubPlace="Oxford"
                         publisher="Oxford University Press" year="2007"/>
         </delo>
-        <delo mojID="760">
+        <delo mojID="760" cobiss="11806541">
                 <naslov>Afrika v slovenskem šolskem sistemu: zaključno poročilo projekta
                         Izobraževanje za razvoj na trdnih temeljih</naslov>
                 <cit did="2656" cid="39" avtor0="Pirc Janez" avtor1="Muršič Rajko et al"
@@ -4345,7 +4345,7 @@
                         source="Journal of Ethnic and Racial Studies" year="2000" volume="26"
                         issue="4" page="609-634"/>
         </delo>
-        <delo mojID="763">
+        <delo mojID="763" cobiss="841517">
                 <naslov>Afriška sigilata v Emoni</naslov>
                 <cit did="2069" cid="46" avtor0="Vidrih Perko V." naslov0="Afriška sigilata v Emoni"
                         source="Arheološki vestnik" year="1992" volume="43" page="93-104"/>
@@ -4380,14 +4380,14 @@
                 <cit did="2911" cid="2" avtor0="Brown Yasmin" naslov0="After multiculturalism"
                         pubPlace="GB" publisher="Foreign Policy Center" year="2000"/>
         </delo>
-        <delo mojID="769">
+        <delo mojID="769" cobiss="897902">
                 <naslov>After the End of Art: Contemporary Art and the Pale of History</naslov>
                 <cit did="1934" cid="4" avtor0="Danto A. C."
                         naslov0="After the End of Art: Contemporary Art and the Pale of History"
                         pubPlace="Princeton (New Jersey)" publisher="Princeton University Press"
                         year="1997"/>
         </delo>
-        <delo mojID="770">
+        <delo mojID="770" cobiss="16520541">
                 <naslov>After the Fact: Two Countries, Four Decades, One Anthropologist</naslov>
                 <cit did="1513" cid="71" avtor0="Geertz Clifford"
                         naslov0="After the Fact: Two Countries, Four Decades, One Anthropologist"
@@ -4435,7 +4435,7 @@
                         source="Problemi" pubPlace="Ljubljana" year="1985" volume="23" issue="1"
                         page="72"/>
         </delo>
-        <delo mojID="777">
+        <delo mojID="777" cobiss="116878848">
                 <naslov>Again on the Exiles of 1497-1515</naslov>
                 <cit did="2412" cid="17" avtor0="Frejdenberg M."
                         naslov0="Again on the Exiles of 1497-1515" source="ČZN" year="2000"
@@ -4478,7 +4478,7 @@
                         naslov0="Agenda nera : trent'anni di neofascismo in Italia" pubPlace="Roma"
                         publisher="Coines edizioni" year="1973" page="195"/>
         </delo>
-        <delo mojID="785">
+        <delo mojID="785" cobiss="16569954">
                 <naslov>Agenten für den Doppeladler</naslov>
                 <cit did="1315" cid="102" avtor0="Pethö Albert"
                         naslov0="Agenten für den Doppeladler"
@@ -4497,12 +4497,12 @@
                 <cit did="2290" cid="2" avtor0="Dickhoff Robert Ernest" naslov0="Agharta"
                         pubPlace="New York" publisher="Fieldcrest Pub. Co." year="1965"/>
         </delo>
-        <delo mojID="790">
+        <delo mojID="790" cobiss="74869248">
                 <naslov>Agitprop z desne</naslov>
                 <cit did="1469" cid="9" avtor0="Brilej Roman" naslov0="Agitprop z desne"
                         source="Mladina" year="2066" issue="23" page="18-19"/>
         </delo>
-        <delo mojID="791">
+        <delo mojID="791" cobiss="29882624">
                 <naslov>Agneza Szabo, Prema hrvatskome građanskom društvu</naslov>
                 <cit did="29" cid="157" avtor0="Mirjana Gross"
                         naslov0="Agneza Szabo, Prema hrvatskome građanskom društvu"
@@ -4517,7 +4517,7 @@
                         pubPlace="Klagenfurt" publisher="Verlag des Landesmuseums für Kärnten"
                         year="1978"/>
         </delo>
-        <delo mojID="796">
+        <delo mojID="796" cobiss="953715">
                 <naslov>Agrarizem in slovanstvo</naslov>
                 <cit did="1803" cid="20" avtor0="Hodža Milan" naslov0="Agrarizem in slovanstvo"
                         pubPlace="Ljubljana" year="1924" page="4"/>
@@ -4528,18 +4528,18 @@
                         naslov0="Agrarkrisen und Agrarkonjunktur" pubPlace="Hamburg-Berlin"
                         year="1978"/>
         </delo>
-        <delo mojID="798">
+        <delo mojID="798" cobiss="14033965">
                 <naslov>Agrarna geografija Šavrinskega gričevja</naslov>
                 <cit did="2614" cid="5" avtor0="Briški A."
                         naslov0="Agrarna geografija Šavrinskega gričevja"
                         source="Geografski zbornik" year="1956" volume="4" page="221-274"/>
         </delo>
-        <delo mojID="799">
+        <delo mojID="799" cobiss="1364765">
                 <naslov>Agrarna politika</naslov>
                 <cit did="2188" cid="10" avtor0="Božić Ljubo" naslov0="Agrarna politika"
                         pubPlace="Sarajevo" year="1974" page="322"/>
         </delo>
-        <delo mojID="802">
+        <delo mojID="802" cobiss="2282825">
                 <naslov>Agrarna reforma</naslov>
                 <cit did="247" cid="27" avtor0="Janša Zorn Olga" naslov0="Agrarna reforma"
                         source="Enciklopedija Slovenije : 1. knjiga" pubPlace="Ljubljana"
@@ -4551,19 +4551,19 @@
                         naslov0="Agrarna reforma i kolonizacija u Banatu 1918-1941"
                         pubPlace="Novi Sad" year="1972"/>
         </delo>
-        <delo mojID="804">
+        <delo mojID="804" cobiss="9769479">
                 <naslov>Agrarna reforma i kolonizacija u Bački</naslov>
                 <cit did="3021" cid="4" avtor0="Gaćeša Nikola"
                         naslov0="Agrarna reforma i kolonizacija u Bački" pubPlace="Novi Sad"
                         year="1968"/>
         </delo>
-        <delo mojID="805">
+        <delo mojID="805" cobiss="3558455">
                 <naslov>Agrarna reforma i kolonizacija u Jugoslaviji</naslov>
                 <cit did="777" cid="4" avtor0="Gaćeša Nikola L."
                         naslov0="Agrarna reforma i kolonizacija u Jugoslaviji" naslov1="(1945-1948)"
                         pubPlace="Novi Sad" publisher="Matica srpska" year="1984" page="367"/>
         </delo>
-        <delo mojID="807">
+        <delo mojID="807" cobiss="1338228">
                 <naslov>Agrarna reforma i kolonizacija u Jugoslaviji 1918-1941</naslov>
                 <cit did="2188" cid="2" avtor0="Lekić Bogdan"
                         naslov0="Agrarna reforma i kolonizacija u Jugoslaviji 1918-1941"
@@ -4581,21 +4581,21 @@
                         naslov0="Agrarna reforma i kolonizacija v Bački 1918–1941"
                         pubPlace="Novi Sad" publisher="Budučnost" year="1968"/>
         </delo>
-        <delo mojID="810">
+        <delo mojID="810" cobiss="10954317">
                 <naslov>Agrarna reforma in kolonizacija na območju Dolnje Lendave med obema
                         vojnama</naslov>
                 <cit did="2565" cid="15" avtor0="Kovacs Attila"
                         naslov0="Agrarna reforma in kolonizacija na območju Dolnje Lendave med obema vojnama"
                         source="Razprave in gradivo" year="2007" volume="53-54" page="68-97"/>
         </delo>
-        <delo mojID="811">
+        <delo mojID="811" cobiss="20244013">
                 <naslov>Agrarna reforma in katoliška cerkev v Sloveniji (1919-1948)</naslov>
                 <cit did="474" cid="1" avtor0="Čepič Zdenko"
                         naslov0="Agrarna reforma in katoliška cerkev v Sloveniji (1919-1948)"
                         source="Država in cerkev" pubPlace="Ljubljana"
                         publisher="Slovenska akademija znanosti in umetnosti" year="2002"/>
         </delo>
-        <delo mojID="814">
+        <delo mojID="814" cobiss="241427712">
                 <naslov>Agrarna reforma na veleposestvu Jablje</naslov>
                 <cit did="2031" cid="3" avtor0="Janša Zorn Olga"
                         naslov0="Agrarna reforma na veleposestvu Jablje" source="Kronika"
@@ -4686,7 +4686,7 @@
                         source="American Historical Review" pubPlace="December" year="1997"
                         page="1386-1403"/>
         </delo>
-        <delo mojID="834">
+        <delo mojID="834" cobiss="1895796">
                 <naslov>Ahčin, Ivan</naslov>
                 <cit did="1387" cid="9" avtor0="Mlakar Boris" naslov0="Ahčin, Ivan"
                         source="Enciklopedija Slovenije, 1. zvezek, A-CA" pubPlace="Ljubljana"
@@ -4710,7 +4710,7 @@
                         pubPlace="Venezia" publisher="Premiata Tipografia di Gio. Cecchini"
                         year="1865"/>
         </delo>
-        <delo mojID="838">
+        <delo mojID="838" cobiss="6212173">
                 <naslov>Aichholzer Franc</naslov>
                 <cit did="223" cid="11" avtor0="Stergar Janez" naslov0="Aichholzer Franc"
                         source="Enciklopedija Slovenije : Knjiga 1" pubPlace="Ljubljana"
@@ -4729,7 +4729,7 @@
                         naslov0="Aiding Violence: The Development Enterprise in Rwanda"
                         pubPlace="West Hartford" publisher="Kumarian Press" year="1998"/>
         </delo>
-        <delo mojID="841">
+        <delo mojID="841" cobiss="3560969">
                 <naslov>AIDS i mladi</naslov>
                 <cit did="3030" cid="1" avtor0="Ajduković D., Ajduković M., Prišlin R."
                         naslov0="AIDS i mladi" pubPlace="Zagreb" publisher="Medicinska naklada"
@@ -4744,13 +4744,13 @@
                         source="Mitteilungen des Steiermärkischen Landesarchivs" year="1966"
                         volume="46" page="59-100"/>
         </delo>
-        <delo mojID="843">
+        <delo mojID="843" cobiss="24404525">
                 <naslov>Ajdi z Ajdovščine nad Rodikom</naslov>
                 <cit did="423" cid="30" avtor0="Hrobat Katja"
                         naslov0="Ajdi z Ajdovščine nad Rodikom" source="Studia mythologica Slavica"
                         pubPlace="Ljubljana" year="2005" page="99-112"/>
         </delo>
-        <delo mojID="845">
+        <delo mojID="845" cobiss="42275072">
                 <naslov>Ajdovščina - Castra</naslov>
                 <cit did="2015" cid="26" avtor0="Osmuk Nada" naslov0="Ajdovščina - Castra"
                         pubPlace="Ljubljana" year="1994"/>
@@ -4767,7 +4767,7 @@
                         naslov0="Ajdovščina : pogled v njeno preteklost" pubPlace="Nova Gorica"
                         year="1987"/>
         </delo>
-        <delo mojID="848">
+        <delo mojID="848" cobiss="71483648">
                 <naslov>Ajdovščina: pogled v njeno preteklost: komentirana objava zgodovine
                         Ajdovščine in Šturij</naslov>
                 <cit did="1422" cid="31" avtor0="Plesničar Pavel"
@@ -4788,7 +4788,7 @@
                         source="Smotra jugoslovanskih kulturnih društev" pubPlace="Ljubljana"
                         publisher="Matica Slovenska" year="1911" page="46-47"/>
         </delo>
-        <delo mojID="851">
+        <delo mojID="851" cobiss="235491072">
                 <naslov>Akademija, ljudsko izobraževalno društvo 1904-1934</naslov>
                 <cit did="2610" cid="33" avtor0="Hojan Tatjana"
                         naslov0="Akademija, ljudsko izobraževalno društvo 1904-1934"
@@ -4820,14 +4820,14 @@
                 <cit did="458" cid="20" avtor0="Rački F." naslov0="Akademik Mato Mesić"
                         source="Rad JAZU" year="0" issue="48"/>
         </delo>
-        <delo mojID="857">
+        <delo mojID="857" cobiss="14865197">
                 <naslov>Akademik prof. dr. Srečko Brodar, sedemdesetletnik.</naslov>
                 <cit did="1915" cid="26" avtor0="Osole F."
                         naslov0="Akademik prof. dr. Srečko Brodar, sedemdesetletnik."
                         source="Arheološki vestnik," pubPlace="Ljubljana" year="1963" volume="13-14"
                         page="7-11"/>
         </delo>
-        <delo mojID="858">
+        <delo mojID="858" cobiss="3508790">
                 <naslov>Akademska bratovščina sv. Cecilije v župnijski cerkvi v Kamniku</naslov>
                 <cit did="2049" cid="10" avtor0="Kemperl Metoda"
                         naslov0="Akademska bratovščina sv. Cecilije v župnijski cerkvi v Kamniku"
@@ -4840,20 +4840,20 @@
                         naslov0="Akademski agrarni klub Njiva" source="Pot kmečkega ljudstva v OF"
                         pubPlace="Ljubljana" year="1986" page="347-382"/>
         </delo>
-        <delo mojID="861">
+        <delo mojID="861" cobiss="74548480">
                 <naslov>Akademsko društvo za ustanovitev tretje univerze: od ustanovitve do
                         danes</naslov>
                 <cit did="1511" cid="312" avtor0="Plesničar Stojan"
                         naslov0="Akademsko društvo za ustanovitev tretje univerze: od ustanovitve do danes"
                         source="Revija 2000" year="1997" issue="105" page="43-48"/>
         </delo>
-        <delo mojID="862">
+        <delo mojID="862" cobiss="1311944">
                 <naslov>"Akcija sprava"</naslov>
                 <cit did="446" cid="15" avtor0="Jamnik Pavel" naslov0="&#34;Akcija sprava&#34;"
                         naslov1="ugotovitve policijskega preiskovanja povojnih pobojev, zaključno poročilo"
                         pubPlace="Ljubljana" year="2004"/>
         </delo>
-        <delo mojID="863">
+        <delo mojID="863" cobiss="1311944">
                 <naslov>"Akcija sprava" : ugotovitve policijskega preiskovanja povojnih
                         pobojev</naslov>
                 <cit did="1301" cid="20" avtor0="Jamnik Pavel"
@@ -4882,7 +4882,7 @@
                         naslov0="Akcije pripadnikov narodno-revolucionarne organizacije TIGR na Šentviški planoti: 1930 do 1932"
                         source="Goriški letnik" year="1984" issue="11" page="205-208"/>
         </delo>
-        <delo mojID="868">
+        <delo mojID="868" cobiss="46509312">
                 <naslov>Akcijsko raziskovanje - spodbujanje učiteljevega razmišljanja in
                         profesionalne rasti</naslov>
                 <cit did="3189" cid="13" avtor0="Marentič Požarnik B."
@@ -4890,12 +4890,12 @@
                         source="Sodobna pedagogika" year="1993" volume="44" issue="7-8"
                         page="347-359"/>
         </delo>
-        <delo mojID="869">
+        <delo mojID="869" cobiss="4783362">
                 <naslov>Akcionarske banke 1871-1946</naslov>
                 <cit did="3430" cid="5" avtor0="Dašič Jaroslav"
                         naslov0="Akcionarske banke 1871-1946" pubPlace="Čačak" year="1989"/>
         </delo>
-        <delo mojID="871">
+        <delo mojID="871" cobiss="104547584">
                 <naslov>Akma, duša sveta</naslov>
                 <cit did="2221" cid="7" avtor0="Fabiani Maks" naslov0="Akma, duša sveta"
                         pubPlace="Štanjel" publisher="Ustanova Maks Fabiani" year="1999"/>
@@ -4906,7 +4906,7 @@
                         naslov0="Akomodacija ideologije političnega katolicizma na Slovenskem"
                         pubPlace="Maribor" publisher="Založba Obzorja" year="1995"/>
         </delo>
-        <delo mojID="875">
+        <delo mojID="875" cobiss="17841506">
                 <naslov>Akten und Korrespondenzen zur Geschichte der Gegenreformation in
                         Innerösterreich unter Ferdinand II. : Teil 2.: Von der Auflösung des
                         Protestantischen Schul- und Kirchenministeriums bis zum Tode Ferdinands II.
@@ -4920,7 +4920,7 @@
                 <cit did="102" cid="5" avtor0="Buchda G." naslov0="Aktenversendung" source="HRG I"
                         pubPlace="Berlin" publisher="Schmidt" year="1973" page="84-87"/>
         </delo>
-        <delo mojID="878">
+        <delo mojID="878" cobiss="8617522">
                 <naslov>Akteri i modeli, Ogledi o politici u Srbiji pod Miloševičem</naslov>
                 <cit did="3226" cid="10" avtor0="Pavlovič Dušan"
                         naslov0="Akteri i modeli, Ogledi o politici u Srbiji pod Miloševičem"
@@ -4963,7 +4963,7 @@
                         naslov0="Aktivisti OŠTO Jesenice v pripravi na osamosvojitveno vojno 15. maj 1990 - 15. april 1991"
                         source="Vojaška zgodovina 1" year="2000" issue="1" page="25-26"/>
         </delo>
-        <delo mojID="885">
+        <delo mojID="885" cobiss="1579081">
                 <naslov>Aktivno učenje zgodnjega naravoslovja in učbenik</naslov>
                 <cit did="705" cid="10" avtor0="Skribe-Dimec Darja"
                         naslov0="Aktivno učenje zgodnjega naravoslovja in učbenik"
@@ -5020,12 +5020,12 @@
                         naslov0="Alamein : (1933-1962)" pubPlace="Milano" publisher="Mursia"
                         year="1992"/>
         </delo>
-        <delo mojID="903">
+        <delo mojID="903" cobiss="5213081">
                 <naslov>Alamut</naslov>
                 <cit did="142" cid="22" avtor0="Bartol Vladimir" naslov0="Alamut"
                         pubPlace="Ljubljana" publisher="Sanje" year="2003"/>
         </delo>
-        <delo mojID="904">
+        <delo mojID="904" cobiss="4087853">
                 <naslov>Alasijev italijansko-slovenski slovar - opus valde rarum</naslov>
                 <cit did="730" cid="5" avtor0="Furlan Metka"
                         naslov0="Alasijev italijansko-slovenski slovar - opus valde rarum"
@@ -5040,7 +5040,7 @@
                         naslov1="Alaska Native Language Canter research paper no. 4"
                         publisher="University of Alaska Fairbanks" year="1980"/>
         </delo>
-        <delo mojID="906">
+        <delo mojID="906" cobiss="47770881">
                 <naslov>Albanci</naslov>
                 <cit did="2872" cid="15" avtor0="Bartl Peter" naslov0="Albanci" pubPlace="Beograd"
                         publisher="Clio" year="2001"/>
@@ -5054,7 +5054,7 @@
                         publisher="Hrvatska matica iseljenika in Hrvatski informativni centar"
                         year="1996" page="104-111"/>
         </delo>
-        <delo mojID="909">
+        <delo mojID="909" cobiss="9493069">
                 <naslov>Albanci v Sloveniji: različnost percepcij</naslov>
                 <cit did="2706" cid="3" avtor0="Berishaj Martin"
                         naslov0="Albanci v Sloveniji: različnost percepcij" source="RiG"
@@ -5066,19 +5066,19 @@
                         source="Albanci" pubPlace="Ljubljana" publisher="Cankarjeva založba"
                         year="1984"/>
         </delo>
-        <delo mojID="912">
+        <delo mojID="912" cobiss="816413">
                 <naslov>Albania and the Albanians</naslov>
                 <cit did="2872" cid="87" avtor0="Marmullaku Ramadan"
                         naslov0="Albania and the Albanians" pubPlace="London"
                         publisher="C. Hurst &amp; Company" year="1975"/>
         </delo>
-        <delo mojID="913">
+        <delo mojID="913" cobiss="2522484">
                 <naslov>Albania as Dictatorship and Democracy</naslov>
                 <cit did="2872" cid="111" avtor0="Pearson Owen"
                         naslov0="Albania as Dictatorship and Democracy" pubPlace="London"
                         publisher="The Centre for Albanian Studies in I. B. Tauris" year="2006"/>
         </delo>
-        <delo mojID="914">
+        <delo mojID="914" cobiss="13218312">
                 <naslov>Albania at War</naslov>
                 <cit did="2872" cid="52" avtor0="Fischer J.  Bernd" naslov0="Albania at War"
                         pubPlace="London" publisher="Hurst &amp; Company" year="1999"/>
@@ -5090,7 +5090,7 @@
                         naslov0="Albania in the `Anonnymi descriptio Europae orientalis` (1308 A. D.)"
                         source="Zeitschrift für Balkanologie" year="1990" page="24-28"/>
         </delo>
-        <delo mojID="916">
+        <delo mojID="916" cobiss="110894080">
                 <naslov>Albanian question on the optic of European integration</naslov>
                 <cit did="3026" cid="12" avtor0="Hasani Seit"
                         naslov0="Albanian question on the optic of European integration"
@@ -5109,7 +5109,7 @@
                         pubPlace="Wien" publisher="Österreichisches Ost- und Südosteuropa Institut"
                         year="2006" page="8-13"/>
         </delo>
-        <delo mojID="919">
+        <delo mojID="919" cobiss="74868">
                 <naslov>Albanien: Vom Mittelalter bis zur Gegenwart</naslov>
                 <cit did="2767" cid="7" avtor0="Bartl P."
                         naslov0="Albanien: Vom Mittelalter bis zur Gegenwart" pubPlace="Regensburg"
@@ -5121,7 +5121,7 @@
                         naslov0="Albaniens Wiedergeburt" pubPlace="Dunaj"
                         publisher="Wiener Verlagsgeschellschaft" year="1942"/>
         </delo>
-        <delo mojID="921">
+        <delo mojID="921" cobiss="4226304">
                 <naslov>Albanija</naslov>
                 <cit did="2715" cid="49" avtor0="Pushka Asllan" naslov0="Albanija" pubPlace="Zagreb"
                         publisher="Školska knjiga" year="1978"/>
@@ -5139,7 +5139,7 @@
                         source="Balkan posle drugog svetskog rata" pubPlace="Beograd"
                         publisher="ISI" year="1995" page="306-315"/>
         </delo>
-        <delo mojID="924">
+        <delo mojID="924" cobiss="155455756">
                 <naslov>Albanija: prijatelj i protivnik</naslov>
                 <cit did="2872" cid="96" avtor0="Mišić Saša"
                         naslov0="Albanija: prijatelj i protivnik" pubPlace="Beograd"
@@ -5150,7 +5150,7 @@
                 <cit did="2213" cid="1" avtor0="Jakopin Franc" naslov0="Albanoške študije"
                         source="Jezik in slovstvo" year="1977" volume="13" issue="1" page="65"/>
         </delo>
-        <delo mojID="926">
+        <delo mojID="926" cobiss="23545345">
                 <naslov>Albanski dnevnik</naslov>
                 <cit did="2872" cid="45" avtor0="Dizdarevič Nijaz" naslov0="Albanski dnevnik"
                         pubPlace="Zagreb" publisher="Globus" year="1988"/>
@@ -5161,7 +5161,7 @@
                         naslov0="Albanskijat vpros na Balkanite (1945-1981)"
                         pubPlace="Veliko Trnovo" publisher="Faber, 2005." year="2005"/>
         </delo>
-        <delo mojID="928">
+        <delo mojID="928" cobiss="38590720">
                 <naslov>Albansko gandhijevstvo na Kosovu</naslov>
                 <cit did="2715" cid="36" avtor0="Maliqi Shqëlzen"
                         naslov0="Albansko gandhijevstvo na Kosovu" pubPlace="Celovec/Klagenfurt"
@@ -5187,7 +5187,7 @@
                         source="Enciklopedija Slovenije : 11" pubPlace="Ljubljana"
                         publisher="Mladinska knjiga" year="1988" page="67"/>
         </delo>
-        <delo mojID="934">
+        <delo mojID="934" cobiss="16849506">
                 <naslov>Albert iz Konstanza</naslov>
                 <cit did="1996" cid="12" avtor0="Fučić B." naslov0="Albert iz Konstanza"
                         pubPlace="Zagreb - Brseč" publisher="HAZU - Udruga Jenio Sisolski"
@@ -5205,7 +5205,7 @@
                         source="Primorski slovenski biografski leksikon. 18. snopič"
                         pubPlace="Gorica" publisher="Goriška Mohorjeva družba" year="1992"/>
         </delo>
-        <delo mojID="937">
+        <delo mojID="937" cobiss="12020785">
                 <naslov>Alberto Puschi i Buzeština</naslov>
                 <cit did="1916" cid="6" avtor0="Buršič Matijašič K."
                         naslov0="Alberto Puschi i Buzeština" source="Buzetski zbornik"
@@ -5256,7 +5256,7 @@
                 <cit did="1886" cid="17" avtor0="Stainback Robert D." naslov0="Alcohol and Šport"
                         source="Champaign: Human Kinetics Publishers" year="1997"/>
         </delo>
-        <delo mojID="948">
+        <delo mojID="948" cobiss="621011">
                 <naslov>Alcune considerazioni sulle relazioni italo-slovene</naslov>
                 <cit did="303" cid="58" avtor0="Ferraris Luigi Vittorio"
                         naslov0="Alcune considerazioni sulle relazioni italo-slovene"
@@ -5269,7 +5269,7 @@
                         naslov0="Alcune delle più clamorose condanne capitali eseguite in Venezia sotto la Repubblica"
                         pubPlace="Venezia" publisher="Filippi" year="1966"/>
         </delo>
-        <delo mojID="950">
+        <delo mojID="950" cobiss="2828109">
                 <naslov>Alcune linee e fattori di sviluppo demografico di Orsera nei secoli
                         XVI-XVIII.</naslov>
                 <cit did="3539" cid="47" avtor0="Budicin M."
@@ -5337,7 +5337,7 @@
                         source="Archeologia e storia del territorio" pubPlace="Modena" year="1993"
                         page="145-171"/>
         </delo>
-        <delo mojID="960">
+        <delo mojID="960" cobiss="792787">
                 <naslov>Alcuni elementi scultorei astratto-geometrici con ornamentazione a intreccio
                         degli inizi del IX secolo di Grado e Padna</naslov>
                 <cit did="765" cid="26" avtor0="Župančič Matej , Tumpić Nataša"
@@ -5393,29 +5393,29 @@
                         source="Slavistična revija" year="1978" volume="26" issue="4" page="449-453"
                 />
         </delo>
-        <delo mojID="968">
+        <delo mojID="968" cobiss="1445237">
                 <naslov>Aleksander Vasiljevič Maklecov</naslov>
                 <cit did="1639" cid="6" avtor0="Kušej Gorazd"
                         naslov0="Aleksander Vasiljevič Maklecov"
                         source="Zbornik znanstvenih razprav" year="1950" page="3-23"/>
         </delo>
-        <delo mojID="969">
+        <delo mojID="969" cobiss="2914049">
                 <naslov>Aleksander Veliki</naslov>
                 <cit did="272" cid="254" avtor0="Plutarh" naslov0="Aleksander Veliki"
                         pubPlace="Maribor" year="1973"/>
         </delo>
-        <delo mojID="972">
+        <delo mojID="972" cobiss="227319808">
                 <naslov>Aleksandrinke</naslov>
                 <cit did="2222" cid="29" avtor0="Makuc Dorica" naslov0="Aleksandrinke"
                         pubPlace="Gorica" publisher="Goriška Mohorjeva družba" year="2006"/>
         </delo>
-        <delo mojID="973">
+        <delo mojID="973" cobiss="75336960">
                 <naslov>Aleksandrinke - čezmorske dojilje</naslov>
                 <cit did="448" cid="9" avtor0="Širok Mojca"
                         naslov0="Aleksandrinke - čezmorske dojilje" source="Mladina" year="0"
                         page="34-37"/>
         </delo>
-        <delo mojID="974">
+        <delo mojID="974" cobiss="117151744">
                 <naslov>Alenka: Infekcijske bolezni</naslov>
                 <cit did="3161" cid="55" avtor0="Marolt Gomilšek Milica, Radšel Medvešček Alenka"
                         naslov0="Alenka: Infekcijske bolezni" pubPlace="Ljubljana"
@@ -5489,7 +5489,7 @@
                         source="Slovenski biografski leksikon" pubPlace="Ljuibljana" year="1925"
                         page="6-7"/>
         </delo>
-        <delo mojID="991">
+        <delo mojID="991" cobiss="25372002">
                 <naslov>Alfred Ogris, Die Bürgerschaft in den mittelalterlichen Städten Kärntens bis
                         zum Jahre</naslov>
                 <cit did="2647" cid="238" avtor0="Ogris Alfred"
@@ -5547,19 +5547,19 @@
                         naslov0="Ali je državno gospodarsko podjetje pravni naslednik prejšnjega zasebnega podjetja"
                         source="Ljudski pravnik" year="1948" volume="3" page="210"/>
         </delo>
-        <delo mojID="1002">
+        <delo mojID="1002" cobiss="18050349">
                 <naslov>Ali je koncept človekovih pravic relevanten za antropologijo? Primer
                         beguncev in begunk v Sloveniji</naslov>
                 <cit did="2907" cid="29" avtor0="Vrečer Natalija"
                         naslov0="Ali je koncept človekovih pravic relevanten za antropologijo? Primer beguncev in begunk v Sloveniji"
                         source="Glasnik SED" year="2001" volume="41" issue="1, 2" page="52-54"/>
         </delo>
-        <delo mojID="1004">
+        <delo mojID="1004" cobiss="2301009">
                 <naslov>Ali je letošnje zaustavljanje izvoza resnično nepričakovano?</naslov>
                 <cit did="855" cid="1" avtor0="Bole Velimir? Veljko?"
                         naslov0="Ali je letošnje zaustavljanje izvoza resnično nepričakovano?"/>
         </delo>
-        <delo mojID="1006">
+        <delo mojID="1006" cobiss="7675725">
                 <naslov>Ali je možno razkleniti začaran krog? Strategije in koncepti za upravljanje
                         in razreševanje etničnih konfliktov (Is it Possible to Break the Vicious
                         Circle? Strategies and Concepts for the Management and Resolution of Ethnic
@@ -5568,7 +5568,7 @@
                         naslov0="Ali je možno razkleniti začaran krog? Strategije in koncepti za upravljanje in razreševanje etničnih konfliktov (Is it Possible to Break the Vicious Circle? Strategies and Concepts for the Management and Resolution of Ethnic Conflict)"
                         source="RiG" pubPlace="Ljubljana" publisher="INV" year="2000" page="11-32"/>
         </delo>
-        <delo mojID="1011">
+        <delo mojID="1011" cobiss="23576674">
                 <naslov>Ali je ženska na fotografiji človek?</naslov>
                 <cit did="106" cid="300" avtor0="Vogrinc J."
                         naslov0="Ali je ženska na fotografiji človek?" source="Delta" year="2003"
@@ -5607,7 +5607,7 @@
                         naslov0="Ali naj napravijo slovenski filozofi izpit za laški učni jezik"
                         source="Omladina" year="1912" volume="9" page="42-43"/>
         </delo>
-        <delo mojID="1019">
+        <delo mojID="1019" cobiss="53104896">
                 <naslov>Ali obstaja slovenska glasba?</naslov>
                 <cit did="727" cid="15" avtor0="Hribar T." naslov0="Ali obstaja slovenska glasba?"
                         source="Slovenska glasba v preteklosti in sedanjosti" pubPlace="Ljubljana"
@@ -5644,7 +5644,7 @@
                         source="Land and Territoriality" pubPlace="Oxford" publisher="Berg"
                         year="2002" page="71-92"/>
         </delo>
-        <delo mojID="1030">
+        <delo mojID="1030" cobiss="599386">
                 <naslov>Ali vemo, kaj je naš svet?</naslov>
                 <cit did="2635" cid="31" avtor0="Juhant Janez" naslov0="Ali vemo, kaj je naš svet?"
                         source="Bogoslovni vestnik" year="1979" volume="4" page="464-465"/>
@@ -5668,7 +5668,7 @@
                         source="Osservatore Triestino" pubPlace="Trieste" year="0" volume="173"
                         page="1397-1398"/>
         </delo>
-        <delo mojID="1034">
+        <delo mojID="1034" cobiss="1146383">
                 <naslov>Alice Doesn't</naslov>
                 <cit did="1513" cid="57" avtor0="De Lauretis Teresa" naslov0="Alice Doesn't"
                         pubPlace="Bloomington" publisher="Indiana University Press" year="1984"/>
@@ -5716,7 +5716,7 @@
                         naslov0="&#34;Aljažev stolp na Triglavu- v mejah loškega gospostva"
                         source="Loški razgledi" year="1973" volume="20" page="37-39"/>
         </delo>
-        <delo mojID="1043">
+        <delo mojID="1043" cobiss="10025314">
                 <naslov>Alkohol in politika</naslov>
                 <cit did="1877" cid="13" avtor0="Cvirn Janez" naslov0="Alkohol in politika"
                         source="Kamniški sociološki zbornik" pubPlace="Kamnik" year="1999"/>
@@ -5758,7 +5758,7 @@
                         naslov0="Alkoholizem med učenci osnovnih in meščanskih šol v slovenskih mestih v šolskem letu 1936/37"
                         source="Kronika slovenskih mest" year="1938" volume="5" issue="3"/>
         </delo>
-        <delo mojID="1054">
+        <delo mojID="1054" cobiss="14868198">
                 <naslov>All change at work?</naslov>
                 <cit did="3009" cid="16" avtor0="Millward Neil" avtor1="Bryson Alex et al"
                         naslov0="All change at work?" pubPlace="London" publisher="Routledge"
@@ -5830,7 +5830,7 @@
                         naslov0="Alle frontiere del litorale asburgico, L'Adriatico mare di scambi tra oriente e oecidente, Europa e Regione"
                         pubPlace="Pordenone" year="2003" issue="52"/>
         </delo>
-        <delo mojID="1065">
+        <delo mojID="1065" cobiss="4333101">
                 <naslov>Alle origini dei santuarii mariani : il caso di Loreto</naslov>
                 <cit did="710" cid="5" avtor0="Cracco G."
                         naslov0="Alle origini dei santuarii mariani : il caso di Loreto"
@@ -5865,7 +5865,7 @@
                         naslov0="Alle origini dell'industrializzazione : monfalcone e il territorio"
                         pubPlace="Monfalcone" year="1988"/>
         </delo>
-        <delo mojID="1071">
+        <delo mojID="1071" cobiss="1860401">
                 <naslov>Alle spalle di Trieste</naslov>
                 <cit did="418" cid="40" avtor0="Tomizza Fulvio" naslov0="Alle spalle di Trieste"
                         pubPlace="Milano" publisher="Bompiani" year="1995"/>
@@ -5911,7 +5911,7 @@
                         naslov0="Alles veloziferisch. Die Eisenbahn - vom schönen Ungeheuer zur Ästhetik der Geschwindigkeit"
                         pubPlace="Rheinbach - Merzbach" publisher="CMZ-Verlag" year="1985"/>
         </delo>
-        <delo mojID="1078">
+        <delo mojID="1078" cobiss="1181300">
                 <naslov>Allgemeinbildung als Modernisierungsfaktor</naslov>
                 <cit did="3214" cid="15" avtor0="Sundhaussen Holm"
                         naslov0="Allgemeinbildung als Modernisierungsfaktor" pubPlace="Berlin"
@@ -5930,7 +5930,7 @@
                 <cit did="3389" cid="6" avtor0="Jellinek Georg" naslov0="Allgemeine Staatslehre"
                         pubPlace="Berlin" publisher="O. Häring" year="1922"/>
         </delo>
-        <delo mojID="1081">
+        <delo mojID="1081" cobiss="4197969">
                 <naslov>Allgemeine Staatslehre und Verfassungslehre</naslov>
                 <cit did="430" cid="1" avtor0="Pernthaler Peter"
                         naslov0="Allgemeine Staatslehre und Verfassungslehre"
@@ -5961,13 +5961,13 @@
                         naslov0="Alliance de revers : stabilization of France's alliance policies in East central Europe, 1919-1921"
                         pubPlace="Turku" publisher="Turon Ylopisto" year="1984"/>
         </delo>
-        <delo mojID="1086">
+        <delo mojID="1086" cobiss="33444194">
                 <naslov>Allied Military Administration of Italy 1943-1945</naslov>
                 <cit did="1782" cid="169" avtor0="Harris C."
                         naslov0="Allied Military Administration of Italy 1943-1945"
                         pubPlace="London" publisher="Her Majesty's Stationery Office" year="1957"/>
         </delo>
-        <delo mojID="1087">
+        <delo mojID="1087" cobiss="54748928">
                 <naslov>Alltag im Barock</naslov>
                 <cit did="2632" cid="88" avtor0="Prasclil-Bicliler G." naslov0="Alltag im Barock"
                         pubPlace="Graz" year="1995"/>
@@ -6000,7 +6000,7 @@
                         naslov0="Alltagsleben im Krieg : Freiburg 1914-1918" pubPlace="Freiburg"
                         year="1994"/>
         </delo>
-        <delo mojID="1093">
+        <delo mojID="1093" cobiss="39234402">
                 <naslov>Alma Karlin - nikogaršnja in naša: vstopanje Alme Karlin v slovenski
                         literarni sistem</naslov>
                 <cit did="2294" cid="2" avtor0="Tkalec Judita"
@@ -6021,7 +6021,7 @@
                         naslov0="Almanach der Österreichischen Riviera: 1908-1909, Küstenländische Kurorte - Revue"
                         pubPlace="Laibach" publisher="Im Selbstverlage der Verfasser" year="1909"/>
         </delo>
-        <delo mojID="1099">
+        <delo mojID="1099" cobiss="85599488">
                 <naslov>Almanach novum, ad annos undecim...</naslov>
                 <cit did="453" cid="59" avtor0="Pilatus Peter"
                         naslov0="Almanach novum, ad annos undecim..." pubPlace="Tibingae" year="0"/>
@@ -6038,7 +6038,7 @@
                         naslov0="Almina hiša kmalu muzej?" source="Novi tednik" year="2002"
                         volume="60"/>
         </delo>
-        <delo mojID="1102">
+        <delo mojID="1102" cobiss="421207">
                 <naslov>Al'nisem ženska?</naslov>
                 <cit did="106" cid="296" avtor0="Truth  S." naslov0="Al'nisem ženska?"
                         source="Delta" year="1997" volume="3" issue="3-4" page="75-76"/>
@@ -6079,7 +6079,7 @@
                         naslov0="Alojz Kocjančič, r. 1913, župnik v Klancu" source="Pripoved"
                         year="1977"/>
         </delo>
-        <delo mojID="1108">
+        <delo mojID="1108" cobiss="43380737">
                 <naslov>Alojz Kuhar, 1895-1958</naslov>
                 <cit did="3022" cid="268" avtor0="Mrdavšič Janez" naslov0="Alojz Kuhar, 1895-1958"
                         naslov1="življenjepisna skica" pubPlace="Ravne na Koroškem"
@@ -6092,7 +6092,7 @@
                         source="V Sibilinem vetru: živa antika" year="1969" volume="43" issue="4"
                         page="10"/>
         </delo>
-        <delo mojID="1110">
+        <delo mojID="1110" cobiss="16810850">
                 <naslov>Alojzij Kuhar in njegova knjiga o pokristjanjevanju Slovencev ter
                         nemško-slovenski etnični meji</naslov>
                 <cit did="425" cid="116" avtor0="Peter Štih"
@@ -6108,13 +6108,13 @@
                         source="Alojzij Novak: Črniška kronika" pubPlace="Gorica"
                         publisher="Mohorjeva družba" year="1992" page="31"/>
         </delo>
-        <delo mojID="1115">
+        <delo mojID="1115" cobiss="8897283">
                 <naslov>Alojzije Stepinac: hrvatski kardinal</naslov>
                 <cit did="3210" cid="20" avtor0="Benigar Aleksa"
                         naslov0="Alojzije Stepinac: hrvatski kardinal" pubPlace="Rim"
                         publisher="Ziral" year="1974"/>
         </delo>
-        <delo mojID="1117">
+        <delo mojID="1117" cobiss="797005">
                 <naslov>Alpe Adria e Iniziativa Centro Europea</naslov>
                 <cit did="303" cid="153" avtor0="Poropat Liviana"
                         naslov0="Alpe Adria e Iniziativa Centro Europea" pubPlace="Napoli"
@@ -6142,7 +6142,7 @@
                 <cit did="375" cid="140" avtor0="Caprin Giuseppe" naslov0="Alpi Giulie"
                         pubPlace="Trst" year="0"/>
         </delo>
-        <delo mojID="1123">
+        <delo mojID="1123" cobiss="512141091">
                 <naslov>Alpi Giulie : escursioni e testimonianze sui monti della Grande
                         Guerra</naslov>
                 <cit did="1316" cid="16" avtor0="Scrimali Antonio"
@@ -6177,7 +6177,7 @@
                 <cit did="3365" cid="86" avtor0="Tuma Henrik" naslov0="Alpinska terminologija II"
                         source="Planinski Vestnik" year="1932" volume="32" page="163"/>
         </delo>
-        <delo mojID="1130">
+        <delo mojID="1130" cobiss="26189">
                 <naslov>Als erster Gau....</naslov>
                 <cit did="430" cid="51" avtor0="August Walzl" naslov0="Als erster Gau...."
                         source="Entwicklung und Strukturen des Nationalsozialismus in Kärnten"
@@ -6194,7 +6194,7 @@
                 <cit did="860" cid="120" avtor0="Ströhm Carl Gustav"
                         naslov0="Als Tito auf die Wehrmacht setzte" source="Die Welt" year="0"/>
         </delo>
-        <delo mojID="1133">
+        <delo mojID="1133" cobiss="29292032">
                 <naslov>Als Österreich die Welt entdeckte</naslov>
                 <cit did="1445" cid="6" avtor0="Maver Horst F." avtor1="Winkler Dieter"
                         naslov0="Als Österreich die Welt entdeckte" pubPlace="Wien"
@@ -6207,12 +6207,12 @@
                         source="Altagserfahrungen in der Geschichte Österreichs" year="1998"
                         page="6-20"/>
         </delo>
-        <delo mojID="1135">
+        <delo mojID="1135" cobiss="9775107">
                 <naslov>Alt-celtischer Sprachschatz I</naslov>
                 <cit did="1748" cid="481" avtor0="Holder A." naslov0="Alt-celtischer Sprachschatz I"
                         pubPlace="Leipzig" year="0"/>
         </delo>
-        <delo mojID="1136">
+        <delo mojID="1136" cobiss="3321097">
                 <naslov>Altchristliche Kultbauten Istriens und Dalmatiens</naslov>
                 <cit did="1997" cid="21" avtor0="Gerber W."
                         naslov0="Altchristliche Kultbauten Istriens und Dalmatiens"
@@ -6242,7 +6242,7 @@
                         pubPlace="Ljubljana" publisher="Mednarodni grafični likovni center"
                         year="2008"/>
         </delo>
-        <delo mojID="1141">
+        <delo mojID="1141" cobiss="100306176">
                 <naslov>Alternativa je svojo deklaracijo predstavila</naslov>
                 <cit did="2712" cid="129" avtor0="Pečauer Marko, Darja Verbič"
                         naslov0="Alternativa je svojo deklaracijo predstavila"
@@ -6270,7 +6270,7 @@
                         source="Jaarboek Haags Gemeentemuseum 1991" pubPlace="Haag" year="1991"
                         page="41-56"/>
         </delo>
-        <delo mojID="1145">
+        <delo mojID="1145" cobiss="124182">
                 <naslov>Alternativna ekonomska politika</naslov>
                 <cit did="853" cid="3" avtor0="Bajt Aleksander"
                         naslov0="Alternativna ekonomska politika" pubPlace="Zagreb"
@@ -6295,13 +6295,13 @@
                         source="Jungsteinzeit im Osten Österreichs" pubPlace="St. Pölten"
                         year="1995" page="11-56"/>
         </delo>
-        <delo mojID="1151">
+        <delo mojID="1151" cobiss="748276">
                 <naslov>Altre pagine sulla grande guerra</naslov>
                 <cit did="1315" cid="74" avtor0="Cadorna Luigi"
                         naslov0="Altre pagine sulla grande guerra" pubPlace="Milano"
                         publisher="Mondadori" year="1925"/>
         </delo>
-        <delo mojID="1152">
+        <delo mojID="1152" cobiss="70201856">
                 <naslov>Altslovenische Formenlehre in Paradigmen</naslov>
                 <cit did="29" cid="203" avtor0="Miklosich Franz"
                         naslov0="Altslovenische Formenlehre in Paradigmen" pubPlace="Wien" year="0"
@@ -6334,7 +6334,7 @@
                         source="Armut auf dem Lande. Mitteleuropa vom Spätmittelalter bis zur Mitte des 19. Jahrhunderts"
                         pubPlace="Wien, Köln, Weimar" publisher="Böhlau" year="2010" page="91-118"/>
         </delo>
-        <delo mojID="1157">
+        <delo mojID="1157" cobiss="3583072">
                 <naslov>Am Rande des Reiches. Die Romer in Österreich</naslov>
                 <cit did="1748" cid="380" avtor0="Gassner V. et al."
                         naslov0="Am Rande des Reiches. Die Romer in Österreich" pubPlace="Wien"
@@ -6360,7 +6360,7 @@
                 <cit did="3506" cid="17" avtor0="Hatch Alden" naslov0="Ambasciatrice Straordinaria"
                         pubPlace="Milano" publisher="Arnoldo Mondadori Editore" year="1956"/>
         </delo>
-        <delo mojID="1163">
+        <delo mojID="1163" cobiss="19168349">
                 <naslov>Ambivalentnost in neznosna lahkost tranzicije</naslov>
                 <cit did="2012" cid="1" avtor0="Adam F."
                         naslov0="Ambivalentnost in neznosna lahkost tranzicije"
@@ -6423,7 +6423,7 @@
                         pubPlace="Monterey" publisher="The American Immigration Control Foundation"
                         year="1994"/>
         </delo>
-        <delo mojID="1173">
+        <delo mojID="1173" cobiss="274703">
                 <naslov>America, Russia and the Cold War, 1945-1984</naslov>
                 <cit did="2973" cid="17" avtor0="LaFeber Walter"
                         naslov0="America, Russia and the Cold War, 1945-1984" pubPlace="New York"
@@ -6435,7 +6435,7 @@
                         naslov0="American cultural pluralism and the law" pubPlace="New York"
                         publisher="Praeger" year="1988"/>
         </delo>
-        <delo mojID="1175">
+        <delo mojID="1175" cobiss="17574749">
                 <naslov>American diplomacy and the end of the Cold War: an insider's account of US
                         policy in Europe 1989-1992</naslov>
                 <cit did="3033" cid="16" avtor0="Hutchings Robert L."
@@ -6443,7 +6443,7 @@
                         pubPlace="Baltimore" publisher="Johns Hopkins University Press" year="1997"
                         page="311"/>
         </delo>
-        <delo mojID="1176">
+        <delo mojID="1176" cobiss="322397">
                 <naslov>American Diplomacy in the Twentieth Century</naslov>
                 <cit did="3506" cid="53" avtor0="Schulzinger Robert D."
                         naslov0="American Diplomacy in the Twentieth Century" pubPlace="New York"
@@ -6474,13 +6474,13 @@
                         naslov0="American Indian: An overview" source="Current History" year="1974"
                         issue="67"/>
         </delo>
-        <delo mojID="1181">
+        <delo mojID="1181" cobiss="6421837">
                 <naslov>American Indian literature</naslov>
                 <cit did="2968" cid="141" avtor0="Velie Alan R."
                         naslov0="American Indian literature" naslov1="An anthology"
                         pubPlace="Norman" publisher="University of Oklahoma Press" year="1979"/>
         </delo>
-        <delo mojID="1182">
+        <delo mojID="1182" cobiss="6432077">
                 <naslov>American Indian novelists</naslov>
                 <cit did="2968" cid="20" avtor0="Colonnese Tom" avtor1="Owens Lewis"
                         naslov0="American Indian novelists"
@@ -6499,7 +6499,7 @@
                         naslov1="Christian reformers and the Indian, 1865-1900" pubPlace="Norman"
                         publisher="University of Oklahoma Press" year="1976"/>
         </delo>
-        <delo mojID="1186">
+        <delo mojID="1186" cobiss="274001">
                 <naslov>American Law: An Introduction</naslov>
                 <cit did="1472" cid="28" avtor0="Friedman L. M."
                         naslov0="American Law: An Introduction" pubPlace="New York - London"
@@ -6536,14 +6536,14 @@
                         naslov0="American Scripture: Making the declaration of independence"
                         pubPlace="New York" publisher="Knopf" year="1997"/>
         </delo>
-        <delo mojID="1192">
+        <delo mojID="1192" cobiss="35040257">
                 <naslov>American Slavery, American Freedom, The Ordeal of Colonial Virginia</naslov>
                 <cit did="3276" cid="13" avtor0="Morgan S. Edmund"
                         naslov0="American Slavery, American Freedom, The Ordeal of Colonial Virginia"
                         pubPlace="New York, London" publisher="W. W. Norton &amp; Company"
                         year="1990"/>
         </delo>
-        <delo mojID="1193">
+        <delo mojID="1193" cobiss="4915720">
                 <naslov>American Slovenes and the Leftist Movements in the United States in the
                         First Half of the Twentieth Century</naslov>
                 <cit did="2763" cid="46" avtor0="Klemenčič Matjaž"
@@ -6609,7 +6609,7 @@
                         naslov0="Ameriško izzivanje. Ljubljana, 1969 in Svetovni izziv. Zagreb, 1980"
                         pubPlace="Ljubljana" year="1969"/>
         </delo>
-        <delo mojID="1215">
+        <delo mojID="1215" cobiss="125370112">
                 <naslov>Ameriško protievropejstvo</naslov>
                 <cit did="2823" cid="6" avtor0="Ash Timothy Garton"
                         naslov0="Ameriško protievropejstvo" source="Ampak, maj 2003" year="2003"
@@ -6620,7 +6620,7 @@
                 <cit did="1997" cid="35" avtor0="Mlakar Š." naslov0="Amfietatar u Puli"
                         pubPlace="Pula" publisher="Arheološki muzej Istre" year="1957"/>
         </delo>
-        <delo mojID="1217">
+        <delo mojID="1217" cobiss="339667">
                 <naslov>Amfore v Sloveniji</naslov>
                 <cit did="2787" cid="44" avtor0="Vidrih Perko Verena" naslov0="Amfore v Sloveniji"
                         source="Annales" year="2000" volume="22" page="421-456"/>
@@ -6633,7 +6633,7 @@
                         source="Aspects of Friendship in the Graeco-Roman World"
                         pubPlace="Portsmouth - Rhode Island" year="2001" page="109-119"/>
         </delo>
-        <delo mojID="1219">
+        <delo mojID="1219" cobiss="1254449">
                 <naslov>Amicizia</naslov>
                 <cit did="2655" cid="30" avtor0="Tomizza Fulvio" naslov0="Amicizia"
                         pubPlace="Milano" publisher="Milano" year="1980"/>
@@ -6679,7 +6679,7 @@
                 <cit did="251" cid="15" avtor0="Matjašić R." naslov0="Amoroso, Amdrea"
                         source="Istarska enciklopedija" pubPlace="Zagreb" year="2005" page="11-12"/>
         </delo>
-        <delo mojID="1228">
+        <delo mojID="1228" cobiss="10663245">
                 <naslov>»Ampak to pa lahko pohvalimo, da je o miru in ljubezni spregovoril
                         mohamedan«: mobilizacija obmejnega orientalizma proti gradnji džamije v
                         Ljubljani</naslov>
@@ -6699,20 +6699,20 @@
                         naslov0="Amphorae and the Roman economy, an introductory guide"
                         pubPlace="London - New York" year="1986"/>
         </delo>
-        <delo mojID="1231">
+        <delo mojID="1231" cobiss="2141997">
                 <naslov>Amphorae from the forum of Emona</naslov>
                 <cit did="725" cid="2" avtor0="Bezecky Tamás"
                         naslov0="Amphorae from the forum of Emona" source="Arheološki vestnik"
                         pubPlace="Ljubljana" publisher="SAZU" year="1994"/>
         </delo>
-        <delo mojID="1232">
+        <delo mojID="1232" cobiss="839379">
                 <naslov>Amphorae in western Slovenia and in northern Istra : Late roman coarse
                         wares, cooking wares and amphorae in the Mediterranean</naslov>
                 <cit did="423" cid="37" avtor0="Vidrih Perko Verena, Župančič Matej"
                         naslov0="Amphorae in western Slovenia and in northern Istra : Late roman coarse wares, cooking wares and amphorae in the Mediterranean"
                         pubPlace="Oxford" year="2005" page="521-536"/>
         </delo>
-        <delo mojID="1233">
+        <delo mojID="1233" cobiss="40613889">
                 <naslov>Amphorenfunde vom Magdalensberg und aus Pannonien</naslov>
                 <cit did="419" cid="5" avtor0="Bezecky T."
                         naslov0="Amphorenfunde vom Magdalensberg und aus Pannonien"
@@ -6805,7 +6805,7 @@
                 <cit did="2647" cid="240" avtor0="Ogris Werner" naslov0="An. Dos. HRG 1"
                         source="HRG 1" year="1971" page="775-778"/>
         </delo>
-        <delo mojID="1251">
+        <delo mojID="1251" cobiss="40444417">
                 <naslov>An Economic and Social History of Western Europe Since 1945</naslov>
                 <cit did="2017" cid="74" avtor0="Sutcliffe Anthony"
                         naslov0="An Economic and Social History of Western Europe Since 1945"
@@ -6817,7 +6817,7 @@
                         naslov0="An Economic History of Medieval Europe" pubPlace="New York"
                         year="1980" page="134-137"/>
         </delo>
-        <delo mojID="1255">
+        <delo mojID="1255" cobiss="1412307">
                 <naslov>An Economic Spurt That Failed</naslov>
                 <cit did="382" cid="19" avtor0="Gerschenkron Alexander"
                         naslov0="An Economic Spurt That Failed"
@@ -6883,37 +6883,37 @@
                         pubPlace="New Jersey" publisher="Center for International Studies Princeton"
                         year="1973"/>
         </delo>
-        <delo mojID="1268">
+        <delo mojID="1268" cobiss="3802267">
                 <naslov>An Inspired Journey, The SNPJ Story: The first One Hundred Years of the
                         Slovene National Benefit Society</naslov>
                 <cit did="2745" cid="2" avtor0="Sedmak Jay"
                         naslov0="An Inspired Journey, The SNPJ Story: The first One Hundred Years of the Slovene National Benefit Society"
                         publisher="Imperial: Slovene National Benefit Society" year="2004"/>
         </delo>
-        <delo mojID="1270">
+        <delo mojID="1270" cobiss="17334114">
                 <naslov>An Intimate History of Humanity</naslov>
                 <cit did="1247" cid="12" avtor0="Zeldin Theodor"
                         naslov0="An Intimate History of Humanity" pubPlace="New York"
                         publisher="Harper Perenial Edition" year="1996" page="83"/>
         </delo>
-        <delo mojID="1272">
+        <delo mojID="1272" cobiss="6953314">
                 <naslov>An introduction to behavioural geography</naslov>
                 <cit did="1994" cid="24" avtor0="Gold J. R."
                         naslov0="An introduction to behavioural geography" pubPlace="Oxford"
                         publisher="Oxford University Press" year="1980"/>
         </delo>
-        <delo mojID="1273">
+        <delo mojID="1273" cobiss="1024333681">
                 <naslov>An Introduction to Comparative Law</naslov>
                 <cit did="2748" cid="23" avtor0="Zweigert Konrad" avtor1="Kötz Hein"
                         naslov0="An Introduction to Comparative Law" pubPlace="Oxford"
                         publisher="Oxford University Press" year="1998"/>
         </delo>
-        <delo mojID="1274">
+        <delo mojID="1274" cobiss="115673088">
                 <naslov>An introduction to cybercultures</naslov>
                 <cit did="2008" cid="4" avtor0="Bell D." naslov0="An introduction to cybercultures"
                         pubPlace="New York" publisher="Routledge" year="2001"/>
         </delo>
-        <delo mojID="1275">
+        <delo mojID="1275" cobiss="28905826">
                 <naslov>An Introduction to Functional Grammar</naslov>
                 <cit did="2029" cid="11" avtor0="Halliday Michael A. K."
                         avtor1="Christian Matthiessen"
@@ -6937,7 +6937,7 @@
                 <cit did="9" cid="5" avtor0="Coulborn W.A.L." naslov0="An introduction to Money"
                         pubPlace="London" year="1938" page="250?"/>
         </delo>
-        <delo mojID="1279">
+        <delo mojID="1279" cobiss="6631505">
                 <naslov>An introduction to rights</naslov>
                 <cit did="3178" cid="5" avtor0="Edmundson W. A." naslov0="An introduction to rights"
                         pubPlace="Cambridge" publisher="University Press" year="2004"/>
@@ -6948,19 +6948,19 @@
                         naslov0="An Introduction to Social Anthropology" pubPlace="Oxford"
                         publisher="Clarendon Press" year="1965" page="229"/>
         </delo>
-        <delo mojID="1281">
+        <delo mojID="1281" cobiss="36432641">
                 <naslov>An Introduction to Spoken Interaction</naslov>
                 <cit did="704" cid="16" avtor0="Stenstroem A.-B."
                         naslov0="An Introduction to Spoken Interaction" pubPlace="London - New York"
                         publisher="Longman" year="1994"/>
         </delo>
-        <delo mojID="1282">
+        <delo mojID="1282" cobiss="1005011">
                 <naslov>An Introduction to Sustainable Development</naslov>
                 <cit did="2000" cid="6" avtor0="Elliot J. A."
                         naslov0="An Introduction to Sustainable Development" pubPlace="Abingdon"
                         publisher="Routledge" year="2006"/>
         </delo>
-        <delo mojID="1284">
+        <delo mojID="1284" cobiss="6316109">
                 <naslov>An introduction to theory in anthropology</naslov>
                 <cit did="1994" cid="38" avtor0="Layton R."
                         naslov0="An introduction to theory in anthropology"
@@ -7032,7 +7032,7 @@
                         naslov0="An Outline of the History of Reilgious Arhcitecture in Thailand"
                         pubPlace="Bangkok" year="1991"/>
         </delo>
-        <delo mojID="1295">
+        <delo mojID="1295" cobiss="13224493">
                 <naslov>An Outline of the Urnfield Culture Period in Slovenia</naslov>
                 <cit did="2584" cid="73" avtor0="Teržan B."
                         naslov0="An Outline of the Urnfield Culture Period in Slovenia"
@@ -7057,7 +7057,7 @@
                         source="Israel. The first decade of independance" pubPlace="Albany"
                         publisher="State University of New York Press" year="1995"/>
         </delo>
-        <delo mojID="1299">
+        <delo mojID="1299" cobiss="359029">
                 <naslov>Ana Zalokar</naslov>
                 <cit did="2610" cid="85" avtor0="Serše Aleksandra" naslov0="Ana Zalokar"
                         source="Splošno žensko društvo 1901-1945" pubPlace="Ljubljana"
@@ -7074,7 +7074,7 @@
                         naslov0="Anabaptism and Religous Radicalism"
                         source="The European Reformations" page="212-231"/>
         </delo>
-        <delo mojID="1302">
+        <delo mojID="1302" cobiss="32904546">
                 <naslov>Anabaptistična reformacija in verska svoboda</naslov>
                 <cit did="2695" cid="3" avtor0="Andrejč Gorazd"
                         naslov0="Anabaptistična reformacija in verska svoboda"
@@ -7085,7 +7085,7 @@
                 <cit did="272" cid="217" avtor0="Ksenofont" naslov0="Anabis in Kirova vzgoja"
                         pubPlace="Ljubljana" year="1963"/>
         </delo>
-        <delo mojID="1304">
+        <delo mojID="1304" cobiss="27946850">
                 <naslov>Anacreontea-un ensayo para su datacion</naslov>
                 <cit did="1005" cid="7" avtor0="Sanchez Msximo Brioso"
                         naslov0="Anacreontea-un ensayo para su datacion" pubPlace="Salamanca"
@@ -7098,7 +7098,7 @@
                         naslov0="Analar, Yoldaşlar, Tanrıçalar - Kürt Hareketinde Kadınlar ve Kadın Kimliğinin Oluşumu"
                         source="Iletişim Yayınları" pubPlace="Istanbul" year="2007"/>
         </delo>
-        <delo mojID="1306">
+        <delo mojID="1306" cobiss="83934976">
                 <naslov>Analecta monumentorum omnis aevi Vindobonensia</naslov>
                 <cit did="3439" cid="230" avtor0="Kollarius A. E."
                         naslov0="Analecta monumentorum omnis aevi Vindobonensia" pubPlace="Wien"
@@ -7117,7 +7117,7 @@
                         naslov0="Analisi comparata del tipo tardolatino scriba -anis e di tipi analoghi di area slavoromanza"
                         year="2001" issue="1" page="7-21"/>
         </delo>
-        <delo mojID="1310">
+        <delo mojID="1310" cobiss="338387">
                 <naslov>Analisi dei movimenti migratori istriani nei censimenti asburgici
                         (1857-1910)</naslov>
                 <cit did="1624" cid="62" avtor0="Krmac Dean"
@@ -7148,7 +7148,7 @@
                         naslov0="Analisi della legge contro gli allarmisti emanata dal Corpo Legislativo Cisalpino nel 10 ventoso anno 6 repubblicano [28 febbraio 1798] di Melchiorre Gioja. 20 germinale anno VI [9 aprile 1798]"
                         pubPlace="Milano" publisher="Pirotta e Maspero" year="0"/>
         </delo>
-        <delo mojID="1314">
+        <delo mojID="1314" cobiss="339155">
                 <naslov>Analisi dell'esodo dall'Istria nord-occidentale da parte della stampa
                         ufficiale dell'epoca</naslov>
                 <cit did="1324" cid="11" avtor0="Argenti Tremul A."
@@ -7205,7 +7205,7 @@
                         source="Zbornik Odsjeka za povijesne znanosti Zavoda za povijesne i društvene znanosti HAZU"
                         year="2001" volume="19" page="1-22"/>
         </delo>
-        <delo mojID="1324">
+        <delo mojID="1324" cobiss="1792100">
                 <naslov>Analiza eksternih stroškov prometa</naslov>
                 <cit did="696" cid="4" avtor0="Božičnik Stanislav in drugi"
                         naslov0="Analiza eksternih stroškov prometa" naslov1="končno poročilo"
@@ -7213,7 +7213,7 @@
                         publisher="Inštitut za ekonomska raziskovanja, Univerza na Primorskem, Primorski inštitut za naravoslovje in tehnične vede"
                         year="2004"/>
         </delo>
-        <delo mojID="1325">
+        <delo mojID="1325" cobiss="147273">
                 <naslov>Analiza in primerjava dveh različnih modelov obravnavanja motoričnih
                         sposobnosti pet in pol letnih otrok</naslov>
                 <cit did="708" cid="54" avtor0="Videmšek M., Cemič A."
@@ -7227,7 +7227,7 @@
                         naslov0="Analiza inflacije v Jugoslaviji" pubPlace="Beograd"
                         publisher="Tanjug" year="1976"/>
         </delo>
-        <delo mojID="1328">
+        <delo mojID="1328" cobiss="27539298">
                 <naslov>Analiza interpretacij oz. virov pri predmetu zgodovina</naslov>
                 <cit did="2464" cid="8" avtor0="Trškan Danijela"
                         naslov0="Analiza interpretacij oz. virov pri predmetu zgodovina"
@@ -7235,7 +7235,7 @@
                         publisher="Univerza v Mariboru in Zgodovinsko društvo v Maribora"
                         year="2004" volume="75" issue="2-3" page="547-556"/>
         </delo>
-        <delo mojID="1329">
+        <delo mojID="1329" cobiss="123065600">
                 <naslov>Analiza metodičnega pristopa v slovenskih osnovnošolskih in srednješolskih
                         učbenikih in priročnikih za klasične jezike od 1850 do 2000</naslov>
                 <cit did="1666" cid="3" avtor0="Hriberšek Matej"
@@ -7279,7 +7279,7 @@
                         pubPlace="Ljubljana" publisher="Urad RS za prostorsko planiranje"
                         year="2001"/>
         </delo>
-        <delo mojID="1336">
+        <delo mojID="1336" cobiss="74775808">
                 <naslov>Analiza razvoja nekaterih telesnih značilnosti in gibalnih sposobnosti
                         učencev in učenk v Republiki Sloveniji od leta 1988 do leta 1995</naslov>
                 <cit did="708" cid="15" avtor0="Kondrič M., Šajber-Pincolič D."
@@ -7316,7 +7316,7 @@
                         naslov0="Analiza stanja, trendov prostorskega razvoja in izvajanja prostorskega plana RS za potrebe priprave prostorskega plana RS"
                         pubPlace="Ljubljana" year="2000"/>
         </delo>
-        <delo mojID="1345">
+        <delo mojID="1345" cobiss="27948077">
                 <naslov>Analiza zgodovinskega kartografskega gradiva Triglavskega narodnega
                         parka</naslov>
                 <cit did="2056" cid="57" avtor0="Podobnikar Tomaž, Kokalj Žiga"
@@ -7324,7 +7324,7 @@
                         source="Geografski vestnik" year="2007" volume="79" issue="2" page="141-150"
                 />
         </delo>
-        <delo mojID="1346">
+        <delo mojID="1346" cobiss="4046081">
                 <naslov>Analiza šolskih kazni</naslov>
                 <cit did="1447" cid="4" avtor0="Strmčnik France" naslov0="Analiza šolskih kazni"
                         pubPlace="Ljubljana" publisher="DZS" year="1965"/>
@@ -7371,7 +7371,7 @@
                         naslov0="Analytische Philosphie der Geschichte" pubPlace="Frankfurt"
                         year="1980"/>
         </delo>
-        <delo mojID="1353">
+        <delo mojID="1353" cobiss="1673743">
                 <naslov>Anarchy, State and Utopia</naslov>
                 <cit did="3043" cid="17" avtor0="Nozick R." naslov0="Anarchy, State and Utopia"
                         pubPlace="New York" publisher="Basic Books" year="1974"/>
@@ -7405,7 +7405,7 @@
                         naslov0="Anastasius Grün und das Vereinte Slovvenien"
                         source="Germanistische Mitteilungen" year="2008" volume="67" page="51-63"/>
         </delo>
-        <delo mojID="1360">
+        <delo mojID="1360" cobiss="38004">
                 <naslov>Anastasius Grüns sämtliche Werke in zehn Bänden</naslov>
                 <cit did="2623" cid="207" avtor0="Schlossar Anton"
                         naslov0="Anastasius Grüns sämtliche Werke in zehn Bänden" pubPlace="Leipzig"
@@ -7469,13 +7469,13 @@
                 <cit did="51" cid="16" avtor0="Rappoport Angelo" naslov0="Ancient Israel"
                         naslov1="Myths and legends" pubPlace="New York" year="1987" page="311-312"/>
         </delo>
-        <delo mojID="1371">
+        <delo mojID="1371" cobiss="10895361">
                 <naslov>Ancient Languages of the Balkans</naslov>
                 <cit did="1748" cid="527" avtor0="Katičić R."
                         naslov0="Ancient Languages of the Balkans" pubPlace="Paris"
                         publisher="The Hague" year="1976" volume="1"/>
         </delo>
-        <delo mojID="1372">
+        <delo mojID="1372" cobiss="905824">
                 <naslov>Ancient Mesopotamia</naslov>
                 <cit did="142" cid="152" avtor0="Pollock Susan" naslov0="Ancient Mesopotamia"
                         source="The Eden that Never Was" pubPlace="Cambridge"
@@ -7496,7 +7496,7 @@
                         source="Rome and India : The Ancient Sea Trade" pubPlace="Madison"
                         publisher="University of Wisconsin Press" year="1991"/>
         </delo>
-        <delo mojID="1375">
+        <delo mojID="1375" cobiss="2213216">
                 <naslov>Ancient Near Eastern Texts relating to the Old Testament</naslov>
                 <cit did="72" cid="37" avtor0="Pritchard J. B."
                         naslov0="Ancient Near Eastern Texts relating to the Old Testament"
@@ -7518,7 +7518,7 @@
                         source="History of Skiing Conference" pubPlace="Holmenkolen, Oslo"
                         publisher="Skiforeningen" year="1998" page="16-20"/>
         </delo>
-        <delo mojID="1378">
+        <delo mojID="1378" cobiss="1458016">
                 <naslov>Ancient Shipwrecks of the Adriatic: Maritime transport during the first and
                         second centuries AD</naslov>
                 <cit did="1939" cid="41" avtor0="Jurišić M."
@@ -7640,7 +7640,7 @@
                         naslov0="Andrej Komel pl. Sočebran : (posnetek po Komelovem opisu svojega življenja)"
                         source="Dom in svet" year="1894" volume="7"/>
         </delo>
-        <delo mojID="1405">
+        <delo mojID="1405" cobiss="30534145">
                 <naslov>Andrej Manfreda, kobariški protifašist in drugi</naslov>
                 <cit did="1914" cid="167" avtor0="Vremec Vid"
                         naslov0="Andrej Manfreda, kobariški protifašist in drugi"
@@ -7662,7 +7662,7 @@
                 <cit did="2623" cid="227" avtor0="Steklasa Ivan"
                         naslov0="Andrej Turjaški (1557-1594)" source="LMS" year="0" page="1-51"/>
         </delo>
-        <delo mojID="1412">
+        <delo mojID="1412" cobiss="1213301">
                 <naslov>Andrej Winkler, prvi in zadnji Slovenec, imenovan za deželnega
                         predsednika</naslov>
                 <cit did="1783" cid="115" avtor0="Matić Dragan"
@@ -7670,7 +7670,7 @@
                         source="Slovenska kronika XIX. stoletja, 1861-1883" pubPlace="Ljubljana"
                         publisher="Nova revija" year="2003" page="338-340"/>
         </delo>
-        <delo mojID="1413">
+        <delo mojID="1413" cobiss="71952128">
                 <naslov>Andrej Zdešar (1821-1865), slovenski duhovnik in publicist v Istri</naslov>
                 <cit did="1979" cid="7" avtor0="Marušič B."
                         naslov0="Andrej Zdešar (1821-1865), slovenski duhovnik in publicist v Istri"
@@ -7683,7 +7683,7 @@
                         naslov0="Andrej Žnidaršič (1835-1913)" source="Jadranski koledar"
                         year="1965" page="193-198"/>
         </delo>
-        <delo mojID="1417">
+        <delo mojID="1417" cobiss="17367901">
                 <naslov>Androcentrična kultura in osvobajanje žensk</naslov>
                 <cit did="3127" cid="8" avtor0="Jogan Maca"
                         naslov0="Androcentrična kultura in osvobajanje žensk"
@@ -7769,14 +7769,14 @@
                         source="Guardian Online, http://www.guardian.co.uk/world/2010/oct/17/angela-merkel-german-multiculturalism-failed"
                         year="2010"/>
         </delo>
-        <delo mojID="1437">
+        <delo mojID="1437" cobiss="228981">
                 <naslov>Angela Vode prvič pred sodiščem</naslov>
                 <cit did="2461" cid="1" avtor0="Melik Jelka"
                         naslov0="Angela Vode prvič pred sodiščem"
                         source="Usoda slovenskih demokratičnih izobražencev..." pubPlace="Ljubljana"
                         year="2001" page="52-60"/>
         </delo>
-        <delo mojID="1438">
+        <delo mojID="1438" cobiss="16391725">
                 <naslov>Angeli z glasbili v Srednji vasi pri Senčurju in v Gostečah</naslov>
                 <cit did="1912" cid="77" avtor0="Kuret Primož"
                         naslov0="Angeli z glasbili v Srednji vasi pri Senčurju in v Gostečah"
@@ -7823,7 +7823,7 @@
                         source="Zgodovinski časopis" year="1991" volume="45" issue="1" page="41-46"
                 />
         </delo>
-        <delo mojID="1446">
+        <delo mojID="1446" cobiss="8153348">
                 <naslov>Angleška popotnika v slovenskem alpskem svetu</naslov>
                 <cit did="2036" cid="13" avtor0="Šumrada Janez"
                         naslov0="Angleška popotnika v slovenskem alpskem svetu"
@@ -7842,7 +7842,7 @@
                         naslov0="Anglo-American relations and crisis in Yugoslavia" pubPlace="Paris"
                         publisher="Serie transatlantique" year="1999" page="16"/>
         </delo>
-        <delo mojID="1450">
+        <delo mojID="1450" cobiss="220014592">
                 <naslov>Anglo-amerikanische Machenschaften in Albanien, 8.</naslov>
                 <cit did="2883" cid="6" avtor0="Hoxha Enver"
                         naslov0="Anglo-amerikanische Machenschaften in Albanien, 8."
@@ -8049,7 +8049,7 @@
                         naslov0="Anonimna arhitektura v prenovi Kopra" pubPlace="Koper"
                         publisher="Založba Annales" year="2000"/>
         </delo>
-        <delo mojID="1489">
+        <delo mojID="1489" cobiss="513535116">
                 <naslov>Anspruch auf Heimat?</naslov>
                 <cit did="442" cid="70" avtor0="Vospernik Reginald" naslov0="Anspruch auf Heimat?"
                         source="Das Heimatbild in der Literatur"/>
@@ -8238,7 +8238,7 @@
                         source="Enciklopedija Jugoslavije. 1" pubPlace="Zagreb"
                         publisher="Jugoslavenski leksikografski zavod" year="1955" page="120"/>
         </delo>
-        <delo mojID="1525">
+        <delo mojID="1525" cobiss="77485824">
                 <naslov>Antigona / Kralj Ojdipus</naslov>
                 <cit did="1920" cid="67" avtor0="Sophocles" naslov0="Antigona / Kralj Ojdipus"
                         pubPlace="Ljubljana" publisher="MK" year="1998"/>
@@ -8256,7 +8256,7 @@
                         source="Social Forces / Http://proquest.umi.com." year="2003" volume="81"
                         issue="3"/>
         </delo>
-        <delo mojID="1528">
+        <delo mojID="1528" cobiss="238571520">
                 <naslov>Antika in krščanstvo: spor ali sprava? = Antiquity and christianity confliet
                         or conciliation?</naslov>
                 <cit did="3081" cid="23" avtor0="Snij V."
@@ -8265,7 +8265,7 @@
                         publisher="Oddelek za primerjalno književnost in literarno teori|o, Oddelek za klasično tilologijo, Oddelek za filozofijo - KUD Logos, Društvo za antične in humanistične študije Slovenije - Inštitut Nove revije"
                         year="2008"/>
         </delo>
-        <delo mojID="1529">
+        <delo mojID="1529" cobiss="215418112">
                 <naslov>Antika - srčno področje: «antični« intervju s pisateljem Alojzem
                         Rebulom</naslov>
                 <cit did="3081" cid="4" avtor0="Cergol J."
@@ -8278,7 +8278,7 @@
                         naslov0="Antike Grabaltare aus den Nekropolen Roms" source="Acta Bernensia"
                         pubPlace="Bern" publisher="Stampfli" year="1987" volume="10"/>
         </delo>
-        <delo mojID="1531">
+        <delo mojID="1531" cobiss="1099866">
                 <naslov>Antike Staatsformen: eine vergleichende Verfassungsgeschichte der Alten
                         Welt</naslov>
                 <cit did="2447" cid="3" avtor0="Dermandt Alexander"
@@ -8303,7 +8303,7 @@
                         source="Mitteleuropäische Meditationen" pubPlace="Frankfurt" year="1984"
                         page="194-197"/>
         </delo>
-        <delo mojID="1535">
+        <delo mojID="1535" cobiss="38158178">
                 <naslov>Antiquity and Christianity in the Slovenian Writer Alojz Rebula</naslov>
                 <cit did="3081" cid="8" avtor0="Kac M."
                         naslov0="Antiquity and Christianity in the Slovenian Writer Alojz Rebula"
@@ -8316,14 +8316,14 @@
                 <cit did="504" cid="33" avtor0="Wistrich Robert S." naslov0="Antisemitism"
                         naslov1="The Longest Hatred" pubPlace="London" year="2005"/>
         </delo>
-        <delo mojID="1537">
+        <delo mojID="1537" cobiss="9419085">
                 <naslov>»Anti-semitism in Postcommunist Central and Eastern Europe</naslov>
                 <cit did="2763" cid="53" avtor0="Starman Hannah"
                         naslov0="»Anti-semitism in Postcommunist Central and Eastern Europe"
                         source="Anthropological East European Review" year="2004" volume="22"
                         issue="2" page="65-75"/>
         </delo>
-        <delo mojID="1538">
+        <delo mojID="1538" cobiss="976013">
                 <naslov>Antisemitism. Myth and hate from antiquity to the present</naslov>
                 <cit did="2904" cid="103" avtor0="Perry Marvin et al"
                         naslov0="Antisemitism. Myth and hate from antiquity to the present"
@@ -8335,7 +8335,7 @@
                         naslov0="Antisemitism. The longest hatred" pubPlace="New York"
                         publisher="Pantheon Books" year="1991"/>
         </delo>
-        <delo mojID="1540">
+        <delo mojID="1540" cobiss="20129890">
                 <naslov>Anti-Semitism without Jews. Communist Eastern Europe</naslov>
                 <cit did="2904" cid="85" avtor0="Lendvai Paul"
                         naslov0="Anti-Semitism without Jews. Communist Eastern Europe"
@@ -8348,13 +8348,13 @@
                         source="Nel nome della razza. Il razzismo nella storia d'Italia 1870-1945"
                         pubPlace="Bologna" publisher="Il Mulino" year="1999" page="265-277"/>
         </delo>
-        <delo mojID="1542">
+        <delo mojID="1542" cobiss="36260865">
                 <naslov>Antisemitismus in Osteuropa. Aspekte einer historischen Kontinuität</naslov>
                 <cit did="2904" cid="12" avtor0="Bettelheim Peter"
                         naslov0="Antisemitismus in Osteuropa. Aspekte einer historischen Kontinuität"
                         pubPlace="Wien" publisher="Picus" year="1992"/>
         </delo>
-        <delo mojID="1544">
+        <delo mojID="1544" cobiss="16947037">
                 <naslov>Antisemitizem kot model zatiranja</naslov>
                 <cit did="504" cid="24" avtor0="Stanič Barbara"
                         naslov0="Antisemitizem kot model zatiranja"
@@ -8373,14 +8373,14 @@
                         naslov0="Anti-Ödipus. Kapitalismus und Schizophrenie"
                         pubPlace="Frankfurt/main" publisher="Suhrkamp" year="1974"/>
         </delo>
-        <delo mojID="1547">
+        <delo mojID="1547" cobiss="1106528">
                 <naslov>Antička Duklja - Nekropole</naslov>
                 <cit did="1748" cid="188"
                         avtor0="Cermanović-Kuzmanović A., D. Srejović, O. Velimirovič-Žižić"
                         naslov0="Antička Duklja - Nekropole" pubPlace="Cetinje - Titograd"
                         year="1975"/>
         </delo>
-        <delo mojID="1548">
+        <delo mojID="1548" cobiss="5652320">
                 <naslov>Antička naselja i grčko rimska zemljopisna imena na tlu današnje
                         Hrvatske</naslov>
                 <cit did="1988" cid="22" avtor0="Marković M."
@@ -8394,7 +8394,7 @@
                         source="Vestigatio vetustatis to Aleksandrina Cermanović-Kuzmanović from friends, colleagues and students"
                         pubPlace="Beograd" year="2001" page="391-409"/>
         </delo>
-        <delo mojID="1553">
+        <delo mojID="1553" cobiss="6325248">
                 <naslov>Antička svjedočanstva o Istri, Izbor iz djela</naslov>
                 <cit did="2612" cid="83" avtor0="Križman Mate"
                         naslov0="Antička svjedočanstva o Istri, Izbor iz djela"
@@ -8406,7 +8406,7 @@
                         naslov0="Antička svjedočanstva o Istri: Testimonianze antiche sull'Istria"
                         pubPlace="Pula, Rijeka" year="1979"/>
         </delo>
-        <delo mojID="1556">
+        <delo mojID="1556" cobiss="20247552">
                 <naslov>Antički grad na Istočnom Jadranu III</naslov>
                 <cit did="2787" cid="40" avtor0="Suić Mate"
                         naslov0="Antički grad na Istočnom Jadranu III" pubPlace="Zagreb" year="1976"
@@ -8440,7 +8440,7 @@
                         pubPlace="Zagreb" publisher="Arheološka istraživanja u Istri" year="1997"
                         volume="18" page="163-168"/>
         </delo>
-        <delo mojID="1561">
+        <delo mojID="1561" cobiss="4187657">
                 <naslov>Antičko nasljeđe u toponimiji Istre (AN) (Toponimi tipa -an, -ana u Istri i
                         Dalmaciji)</naslov>
                 <cit did="1929" cid="2" avtor0="Matijašić R."
@@ -8448,18 +8448,18 @@
                         source="Histria historica" pubPlace="Pula" publisher="Povijesno  društvo"
                         year="1981"/>
         </delo>
-        <delo mojID="1562">
+        <delo mojID="1562" cobiss="62106368">
                 <naslov>Antična arhitektura</naslov>
                 <cit did="2156" cid="23" avtor0="Marinko Jože" naslov0="Antična arhitektura"
                         pubPlace="Ljubljana" publisher="Družina" year="1997"/>
         </delo>
-        <delo mojID="1564">
+        <delo mojID="1564" cobiss="67266816">
                 <naslov>Antična imena po slovensko</naslov>
                 <cit did="142" cid="17" avtor0="Aubelj Bronislava"
                         naslov0="Antična imena po slovensko" pubPlace="Ljubljana"
                         publisher="Modrijan" year="1997"/>
         </delo>
-        <delo mojID="1566">
+        <delo mojID="1566" cobiss="14253869">
                 <naslov>Antična stavba v Grubelcah</naslov>
                 <cit did="2787" cid="6" avtor0="Boltin Tome Elica"
                         naslov0="Antična stavba v Grubelcah" source="Arheološki vestnik" year="1968"
@@ -8471,14 +8471,14 @@
                         naslov0="Antična zgodovina filozofije (III. del)." pubPlace="Ljubljana"
                         publisher="Studia humanitatis" year="2002"/>
         </delo>
-        <delo mojID="1568">
+        <delo mojID="1568" cobiss="3282227">
                 <naslov>Antične gomile pri Vučji gomili</naslov>
                 <cit did="3053" cid="24" avtor0="Pahič Stanko"
                         naslov0="Antične gomile pri Vučji gomili"
                         source="Časopis za zgodovino in narodopisje" year="1972" issue="8"
                         page="181"/>
         </delo>
-        <delo mojID="1569">
+        <delo mojID="1569" cobiss="6431490">
                 <naslov>Antične gomile v Prekmurju</naslov>
                 <cit did="3053" cid="23" avtor0="Pahič Stanko" naslov0="Antične gomile v Prekmurju"
                         source="Arheološki vestnik" year="1960" issue="11/12" page="103-146"/>
@@ -8496,7 +8496,7 @@
                         publisher="Študentska organizacija Univerze" year="1993" issue="87"
                         page="7-23"/>
         </delo>
-        <delo mojID="1572">
+        <delo mojID="1572" cobiss="2331190">
                 <naslov>Antični motivi v poeziji in dramatiki Josipa Stritarja</naslov>
                 <cit did="3505" cid="90" avtor0="Ferluga Petronio Fedora"
                         naslov0="Antični motivi v poeziji in dramatiki Josipa Stritarja"
@@ -8519,7 +8519,7 @@
                         source="Arheološki vestnik" pubPlace="Ljubljana" year="2007" volume="58"
                         page="167-218"/>
         </delo>
-        <delo mojID="1575">
+        <delo mojID="1575" cobiss="6713645">
                 <naslov>Antično grobišče v Starem trgu pri Slovenj Gradcu</naslov>
                 <cit did="2233" cid="53" avtor0="Strmčnik Gulič Mira"
                         naslov0="Antično grobišče v Starem trgu pri Slovenj Gradcu"
