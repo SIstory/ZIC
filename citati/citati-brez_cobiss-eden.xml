@@ -13275,7 +13275,7 @@
                 <cit did="234" cid="18" avtor0="Jevtušenka Jevgenija" naslov0="Babji Jar"
                         source="Pesmi" pubPlace="Ljubljana" year="1965" page="44-46"/>
         </delo>
-        <delo mojID="2524">
+        <delo mojID="2524" cobiss="204338">
                 <naslov>Babylon</naslov>
                 <cit did="442" cid="125" avtor0="Oswald Jani" naslov0="Babylon"
                         pubPlace="Klagenfurt/Celovec" year="1992" page="42"/>
@@ -13351,13 +13351,13 @@
                         source="V zborniku Die Donaumonarchie und die südslawishe Frage 1848-1918"
                         pubPlace="Dunaj" year="1978" page="66-77"/>
         </delo>
-        <delo mojID="2541">
+        <delo mojID="2541" cobiss="6943488">
                 <naslov>Bajalice</naslov>
                 <cit did="2839" cid="17" avtor0="Haderlap Maja" naslov0="Bajalice"
                         pubPlace="Celovec, Trst" publisher="Drava, Založništvo tržaškega tiska"
                         year="1987"/>
         </delo>
-        <delo mojID="2543">
+        <delo mojID="2543" cobiss="21608193">
                 <naslov>Bajke in pripovedke slovenskega ljudstva</naslov>
                 <cit did="2324" cid="3" avtor0="Kelemina J."
                         naslov0="Bajke in pripovedke slovenskega ljudstva" pubPlace="Celje"
@@ -13369,7 +13369,7 @@
                         source="Ilustrirani glasnik" year="1915" volume="1" issue="31"
                         page="366-369"/>
         </delo>
-        <delo mojID="2547">
+        <delo mojID="2547" cobiss="31039586">
                 <naslov>Bakrene posode, turška kadilnica in nizozemski špalirji. Fidejkomisne
                         premičnine grofov Leslie med 17. in 19. stoletjem</naslov>
                 <cit did="2118" cid="24" avtor0="Weigl Igor"
@@ -13399,7 +13399,7 @@
                         naslov0="Bakteriologie v Mathausenu a v Osvětimi" source="Věda a živo"
                         year="1945" volume="11" issue="8" page="402-413"/>
         </delo>
-        <delo mojID="2553">
+        <delo mojID="2553" cobiss="1761281">
                 <naslov>Balada o nevesti detomorilki</naslov>
                 <cit did="1492" cid="25" avtor0="Kumer Zmaga" naslov0="Balada o nevesti detomorilki"
                         pubPlace="Ljubljana" publisher="SAZU" year="1963"/>
@@ -13426,7 +13426,7 @@
                 <cit did="3241" cid="242" avtor0="Weber Tomaž" naslov0="Bale skozi okno"
                         source="Bela Ljubljana"/>
         </delo>
-        <delo mojID="2561">
+        <delo mojID="2561" cobiss="19043938">
                 <naslov>Balkan as metaphor: between globalization and fragmentation</naslov>
                 <cit did="3047" cid="13" avtor0="Bjelić D. I., Savić O."
                         naslov0="Balkan as metaphor: between globalization and fragmentation"
@@ -13440,7 +13440,7 @@
                         naslov1="4th edition" pubPlace="Boulder" publisher="Westview Press"
                         year="2002"/>
         </delo>
-        <delo mojID="2563">
+        <delo mojID="2563" cobiss="1194868">
                 <naslov>Balkan babel: The disintergration of Yugoslavia from the death of Tito to
                         the war for Kosovo</naslov>
                 <cit did="1520" cid="4" avtor0="Ramet Sabina Petra"
@@ -13472,12 +13472,12 @@
                 <cit did="436" cid="7" avtor0="Kaplan Robert" naslov0="Balkan Ghosts"
                         pubPlace="New York" year="1993"/>
         </delo>
-        <delo mojID="2570">
+        <delo mojID="2570" cobiss="5136441">
                 <naslov>Balkan i velike sile</naslov>
                 <cit did="1911" cid="106" avtor0="Skakun Milan" naslov0="Balkan i velike sile"
                         pubPlace="Smederevo" publisher="D. Davidovič" year="1986"/>
         </delo>
-        <delo mojID="2571">
+        <delo mojID="2571" cobiss="114021888">
                 <naslov>Balkan in tranzicija</naslov>
                 <cit did="2823" cid="94" avtor0="Kreft Lev" naslov0="Balkan in tranzicija"
                         source="Revija 2000" year="2001" page="49-58"/>
@@ -13489,7 +13489,7 @@
                         source="Balkan kao metafora: izmedžu globalizacije i fragmentacije"
                         pubPlace="Beograd" publisher="Beogradski krug" year="2003" page="98-117"/>
         </delo>
-        <delo mojID="2573">
+        <delo mojID="2573" cobiss="25239650">
                 <naslov>Balkan - kratka povijest</naslov>
                 <cit did="2667" cid="20" avtor0="Mazower Mark" naslov0="Balkan - kratka povijest"
                         pubPlace="Zagreb" publisher="Srednja Europa" year="2003"/>
@@ -13500,13 +13500,13 @@
                         source="Mediterranean Ethnological Summer School" pubPlace="Ljubljana"
                         publisher="Institut za multikulturne raziskave" year="2007" page="129-158"/>
         </delo>
-        <delo mojID="2575">
+        <delo mojID="2575" cobiss="1799264">
                 <naslov>Balkan Prehistory</naslov>
                 <cit did="381" cid="1" avtor0="Bailey D. W." naslov0="Balkan Prehistory"
                         source="Exclusion, Incorporation and Identity" pubPlace="London - New York"
                         publisher="Routledge - Taylor &amp; Francis Group" year="2000"/>
         </delo>
-        <delo mojID="2577">
+        <delo mojID="2577" cobiss="74356">
                 <naslov>Balkan-Chronik</naslov>
                 <cit did="2784" cid="21" avtor0="Weithmann Michael W." naslov0="Balkan-Chronik"
                         pubPlace="Regensburg/Graz-Wien-Köln" year="1995"/>
@@ -13529,7 +13529,7 @@
                         naslov0="Balkankrieg: Zehn Jahre Zerstörung Jugoslawiens" pubPlace="Wien"
                         publisher="Promedia" year="2001"/>
         </delo>
-        <delo mojID="2582">
+        <delo mojID="2582" cobiss="1127028">
                 <naslov>Balkanska Europa</naslov>
                 <cit did="3026" cid="26" avtor0="Topalović Duško" naslov0="Balkanska Europa"
                         pubPlace="Zagreb" publisher="Diorama" year="2000"/>
@@ -13541,7 +13541,7 @@
                         publisher="Jugoslavenski leksikografski zavod, 1983, str. 458-460."
                         year="1983"/>
         </delo>
-        <delo mojID="2584">
+        <delo mojID="2584" cobiss="1585420">
                 <naslov>Balkanska federacija 1943-1948</naslov>
                 <cit did="2872" cid="116" avtor0="Petranovič Branko"
                         naslov0="Balkanska federacija 1943-1948" pubPlace="Šabac" publisher="Zaslon"
@@ -13566,7 +13566,7 @@
                         naslov0="Balkanske vojne in njihov vpliv na jugoslovansko gibanje"
                         source="Slovenska novejša zgodovina 1" year="2005" page="54-58"/>
         </delo>
-        <delo mojID="2591">
+        <delo mojID="2591" cobiss="5788673">
                 <naslov>Balkanske zemlje i velike sile 1935-1937: Od italijanske agresije na
                         Etiopiju do jugoslovensko-italijanskog pakta</naslov>
                 <cit did="2919" cid="5" avtor0="Avramovski Živko"
@@ -13579,7 +13579,7 @@
                         naslov0="Balkanski ugovorni odnosi 1876–1996, III. knjiga"
                         pubPlace="Beograd" year="1999" page="207-215"/>
         </delo>
-        <delo mojID="2597">
+        <delo mojID="2597" cobiss="267266">
                 <naslov>Balkansko poluostrvo</naslov>
                 <cit did="2612" cid="23" avtor0="Cvijić Jovan" naslov0="Balkansko poluostrvo"
                         source="Sabrana dela, Knjiga 2" pubPlace="Beograd" year="1987"/>
@@ -13629,7 +13629,7 @@
                 <cit did="1296" cid="17" avtor0="France Bezlaj" naslov0="Baltsko-slovenske paralele"
                         source="Eseji o slovenskem jeziku" pubPlace="Ljubljana" year="1967"/>
         </delo>
-        <delo mojID="2607">
+        <delo mojID="2607" cobiss="54406144">
                 <naslov>Bam knapa vzela, bam zmeraj vesela</naslov>
                 <cit did="442" cid="112" avtor0="Kleindienst Lidija"
                         naslov0="Bam knapa vzela, bam zmeraj vesela"
@@ -13642,7 +13642,7 @@
                         publisher="Innsbrucker Beiträge zur Kulturwissenschaft" year="1966"
                         volume="12" page="223-233"/>
         </delo>
-        <delo mojID="2609">
+        <delo mojID="2609" cobiss="679541">
                 <naslov>Bambini nei campi di concentramento italiani 1942–1943 / Otroci v
                         italijanskih koncentracijskih taboriščih</naslov>
                 <cit did="2701" cid="27" avtor0="Gombač Metka"
@@ -13703,7 +13703,7 @@
                 <cit did="360" cid="74" avtor0="Mijazawa" naslov0="Bank needs" year="1998" page="1"
                 />
         </delo>
-        <delo mojID="2622">
+        <delo mojID="2622" cobiss="1903369">
                 <naslov>Bankarstvo Jugoslavije : teorija, organizacija i poslovanje</naslov>
                 <cit did="831" cid="10" avtor0="Golijanin Milan"
                         naslov0="Bankarstvo Jugoslavije : teorija, organizacija i poslovanje"
@@ -13746,7 +13746,7 @@
                         naslov0="Bankéř prvnÃ­ republiky : život dr. Jaroslava&#xA;Preisse"
                         pubPlace="Praga" publisher="Motto" year="1996"/>
         </delo>
-        <delo mojID="2639">
+        <delo mojID="2639" cobiss="370293">
                 <naslov>Banska uprava Dravske banovine in njeno gradivo</naslov>
                 <cit did="1509" cid="50" avtor0="Kološa Vladimir"
                         naslov0="Banska uprava Dravske banovine in njeno gradivo"
@@ -13772,13 +13772,13 @@
                         naslov0="Bar pod mletačkom vlašču 1443-1571. godine" pubPlace="Bijelo Polje"
                         publisher="Pegaz" year="2004"/>
         </delo>
-        <delo mojID="2647">
+        <delo mojID="2647" cobiss="108443136">
                 <naslov>Baragov simpozij v Rimu</naslov>
                 <cit did="2862" cid="4" avtor0="Baraga Friderik Irenej"
                         naslov0="Baragov simpozij v Rimu" pubPlace="Celje"
                         publisher="Mohorjeva družba" year="2000"/>
         </delo>
-        <delo mojID="2648">
+        <delo mojID="2648" cobiss="11100205">
                 <naslov>Baragova podoba v delih slovenskih zgodovinarjev</naslov>
                 <cit did="2837" cid="45" avtor0="Vovko Andrej"
                         naslov0="Baragova podoba v delih slovenskih zgodovinarjev"
@@ -13794,7 +13794,7 @@
                         source="Bulletin of Spanish Studies, LXXXI, Numbers 7-8, 2004, str. 1109-1128"
                         year="2004" volume="81" issue="7-8" page="1109-1128"/>
         </delo>
-        <delo mojID="2650">
+        <delo mojID="2650" cobiss="43908706">
                 <naslov>Barani u Mlecima: povijest jedne hrvatske iseljeničke zajednice</naslov>
                 <cit did="2340" cid="8" avtor0="Čoralić L."
                         naslov0="Barani u Mlecima: povijest jedne hrvatske iseljeničke zajednice"
@@ -13815,14 +13815,14 @@
                 <cit did="1761" cid="114" avtor0="Krones F." naslov0="Barbara von Cilli"
                         source="ADB" year="0" volume="2" page="48-50"/>
         </delo>
-        <delo mojID="2655">
+        <delo mojID="2655" cobiss="46977536">
                 <naslov>Barbari - antiqui barbari. K poselitveni zgodovini Norika in
                         Panonije</naslov>
                 <cit did="2532" cid="10" avtor0="Castritius Helmut"
                         naslov0="Barbari - antiqui barbari. K poselitveni zgodovini Norika in Panonije"
                         source="Zgodovinski časopis" year="1994" volume="48" page="137-147"/>
         </delo>
-        <delo mojID="2656">
+        <delo mojID="2656" cobiss="11489325">
                 <naslov>Barbari prihajajo</naslov>
                 <cit did="2532" cid="13" avtor0="Ciglenečki Slavko" naslov0="Barbari prihajajo"
                         source="Zakladi tisočletij. Zgodovina Slovenije od neandertalcev do Slovanov"
@@ -13835,7 +13835,7 @@
                         naslov0="Barbarians and Bischops: Army, Church, and State in the Age of Arcadius and Chrysostom"
                         pubPlace="Oxford" year="2001"/>
         </delo>
-        <delo mojID="2658">
+        <delo mojID="2658" cobiss="23096162">
                 <naslov>Barbarians and Bishops. Army, Church, and State in the Age of Arcadius and
                         Chrysostom</naslov>
                 <cit did="2532" cid="29" avtor0="Liebeschuetz John"
@@ -13865,7 +13865,7 @@
                         source="Metzler Lexikon Kunstwissenschaft" pubPlace="Stuttgart-Weimar"
                         year="2003" page="37-42"/>
         </delo>
-        <delo mojID="2665">
+        <delo mojID="2665" cobiss="110990848">
                 <naslov>Barock in Kärnten</naslov>
                 <cit did="3257" cid="56"
                         avtor0="Neubauer Kienzl Barbara, Deuer Wilhelm, Mahlknecht Eduard"
@@ -13885,14 +13885,14 @@
                         source="Mitteilungen des Oberösterreichiscen Landesarchivs" year="1971"
                         volume="10" page="346-396"/>
         </delo>
-        <delo mojID="2668">
+        <delo mojID="2668" cobiss="20274176">
                 <naslov>Barok u Hrvatskoj</naslov>
                 <cit did="1997" cid="23" avtor0="Horvat A., Matejčić R., Prijatelj K."
                         naslov0="Barok u Hrvatskoj" pubPlace="Zagreb"
                         publisher="Sveučilišna naklada Liber - Odjel za povijest umjetnosti centra za povijesne znanosti - Društvo povjesničara umjetnosti Hrvatske"
                         year="1982"/>
         </delo>
-        <delo mojID="2670">
+        <delo mojID="2670" cobiss="10385762">
                 <naslov>Barok v zenitu</naslov>
                 <cit did="2288" cid="137" avtor0="Simoniti Vasko" naslov0="Barok v zenitu"
                         pubPlace="Ljubljana" publisher="Vilfanov zbornik" year="1997"/>
