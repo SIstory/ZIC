@@ -13905,13 +13905,13 @@
                         pubPlace="Budapest" publisher="Magyar Történelmi Társulat" year="1942"
                         page="5-107"/>
         </delo>
-        <delo mojID="2672">
+        <delo mojID="2672" cobiss="5891117">
                 <naslov>Barokni dvorci Hrvatskog Zagorja</naslov>
                 <cit did="2224" cid="5" avtor0="Markovič Vladimir"
                         naslov0="Barokni dvorci Hrvatskog Zagorja" pubPlace="Zagreb"
                         publisher="Nacionalna i sveučilišna biblioteka" year="1995"/>
         </delo>
-        <delo mojID="2673">
+        <delo mojID="2673" cobiss="2131501">
                 <naslov>Baron Herberstein on the Cerknica karst lake — a phantom book of the 16th
                         century?</naslov>
                 <cit did="2150" cid="20" avtor0="Shaw Trevor R."
@@ -13925,7 +13925,7 @@
                         source="Josef Schwegel, Na cesarjev ukaz. Spomini politika in diplomata"
                         pubPlace="Ljubljana" publisher="Slovenska matica" year="2004" page="6-10"/>
         </delo>
-        <delo mojID="2675">
+        <delo mojID="2675" cobiss="19139373">
                 <naslov>Baron ostal brez gradu. Slovenska kronika XIX. stoletja. 1800-1860</naslov>
                 <cit did="2606" cid="6" avtor0="Granda Stane"
                         naslov0="Baron ostal brez gradu. Slovenska kronika XIX. stoletja. 1800-1860"
@@ -13946,7 +13946,7 @@
                         naslov0="Baroque and Rococo Pictoral Imagery" pubPlace="New York"
                         publisher="Dover Publications" year="1971"/>
         </delo>
-        <delo mojID="2680">
+        <delo mojID="2680" cobiss="26505773">
                 <naslov>Baročna poslikava župnijske cerkve sv. Štefana v Vipavi</naslov>
                 <cit did="2126" cid="13" avtor0="Murovec Barbara"
                         naslov0="Baročna poslikava župnijske cerkve sv. Štefana v Vipavi"
@@ -13954,7 +13954,7 @@
                         publisher="Goriški muzej, Grad Kromberk, Narodna galerija" year="2006"
                         page="449-460"/>
         </delo>
-        <delo mojID="2682">
+        <delo mojID="2682" cobiss="46028032">
                 <naslov>Baročne garderobne omare iz fonda Narodnega muzeja v Ljubljani</naslov>
                 <cit did="2118" cid="6" avtor0="Lozar Štamcar Maja"
                         naslov0="Baročne garderobne omare iz fonda Narodnega muzeja v Ljubljani"
