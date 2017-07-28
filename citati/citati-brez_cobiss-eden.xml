@@ -18424,7 +18424,7 @@
                         naslov1="Paper prepared for the International Conference on Constitutional, Legal and Political Regulation and Management of Ethnic Relations Organize and for the ISCOMET Conference on Democracy, Human Rights and the Protection of Persons Belonging to Ethnic and R"
                         pubPlace="Ljubljana" publisher="INV" year="2000" page="8-10, 43"/>
         </delo>
-        <delo mojID="3669">
+        <delo mojID="3669" cobiss="11220">
                 <naslov>Breda Vilhar, Za zrcalom podob čudežne legende</naslov>
                 <cit did="2612" cid="157" avtor0="Vilhar Breda"
                         naslov0="Breda Vilhar, Za zrcalom podob čudežne legende"
@@ -18439,14 +18439,14 @@
                         naslov1="Doktorska disertacija" pubPlace="Arizona"
                         publisher="The university of Arizona" year="2003"/>
         </delo>
-        <delo mojID="3671">
+        <delo mojID="3671" cobiss="378579">
                 <naslov>Breg pri Škofljici - mezolitsko najdišče na Ljubljanskem barju</naslov>
                 <cit did="2584" cid="37" avtor0="Frelih M."
                         naslov0="Breg pri Škofljici - mezolitsko najdišče na Ljubljanskem barju"
                         source="Poročilo o razikovanju paleolita. neolila in eneolitu v Sloveniji"
                         pubPlace="Ljubljana" volume="14" page="21-58"/>
         </delo>
-        <delo mojID="3672">
+        <delo mojID="3672" cobiss="37578029">
                 <naslov>Breg v Imovici</naslov>
                 <cit did="3458" cid="77" avtor0="Iglič Aleš" avtor1="Kotnik Matej"
                         naslov0="Breg v Imovici" pubPlace="Imovica" year="2002"/>
@@ -18489,7 +18489,7 @@
                         source="Brestanica, zbornik člankov in razprav"
                         publisher="Turistično društvo" year="1982" page="45-77"/>
         </delo>
-        <delo mojID="3680">
+        <delo mojID="3680" cobiss="248363776">
                 <naslov>Brestje in Kojsko: upravni in kulturni center Brd do 1945</naslov>
                 <cit did="2793" cid="17" avtor0="Gomiršek Tanja"
                         naslov0="Brestje in Kojsko: upravni in kulturni center Brd do 1945"
@@ -18534,7 +18534,7 @@
                         source="II processo penale negli Stati Uniti d'America" pubPlace="Milano"
                         publisher="Giuffre" year="1988" page="353-374"/>
         </delo>
-        <delo mojID="3690">
+        <delo mojID="3690" cobiss="15881177">
                 <naslov>Brez glamurja: zdravniki prihodnosti</naslov>
                 <cit did="3127" cid="21" avtor0="Bitenc Marko"
                         naslov0="Brez glamurja: zdravniki prihodnosti" source="Viva" year="2002"
@@ -18586,7 +18586,7 @@
                         source="Večer, http://www.vecer.si/vecer2003/sredina/clanek/clanek_natisni.asp?kaj=6 &amp;id=2003031400419336"
                         pubPlace="Ljubljana" year="2003" issue="14. marec"/>
         </delo>
-        <delo mojID="3702">
+        <delo mojID="3702" cobiss="123887616">
                 <naslov>Brez časti, svobode in moči: vpliv komunizma na pastoralno delovanje Cerkve
                         v ljubljanski nadškofiji (1945-2000)</naslov>
                 <cit did="1834" cid="1" avtor0="Kvaternik Peter"
@@ -18606,19 +18606,19 @@
                         pubPlace="Ljubljana in Washington" publisher="Studia Slovenica" year="1994"
                         page="20-24"/>
         </delo>
-        <delo mojID="3705">
+        <delo mojID="3705" cobiss="634965">
                 <naslov>Brezen v Martinovih hrastnicah - fojba?</naslov>
                 <cit did="1301" cid="34" avtor0="Mihevc Andrej"
                         naslov0="Brezen v Martinovih hrastnicah - fojba?" source="Naše jame"
                         year="1999" issue="41" page="94-99"/>
         </delo>
-        <delo mojID="3706">
+        <delo mojID="3706" cobiss="45659904">
                 <naslov>Brezglavjeki : zgodbe iz Prekmurja</naslov>
                 <cit did="715" cid="30" avtor0="Rešek D."
                         naslov0="Brezglavjeki : zgodbe iz Prekmurja" source="Zbirka Glasovi"
                         pubPlace="Ljubljana" publisher="Kmečki glas" year="1995"/>
         </delo>
-        <delo mojID="3707">
+        <delo mojID="3707" cobiss="58838528">
                 <naslov>Brezmadežna kot Patrona Austriae v bratovščinski knjigi ljubljanske
                         kongregacije Marijinega brezmadežnega spočetja</naslov>
                 <cit did="1738" cid="19" avtor0="Menaše Lev"
@@ -18631,13 +18631,13 @@
                         naslov0="Brezmadežna v slovenski umetnosti"
                         source="Voditelj Marijinih družb" year="1929" page="65-70"/>
         </delo>
-        <delo mojID="3709">
+        <delo mojID="3709" cobiss="48846080">
                 <naslov>Brezposelnost in problemi skrbstva za brezposelne</naslov>
                 <cit did="147" cid="8" avtor0="Erjavec Fran"
                         naslov0="Brezposelnost in problemi skrbstva za brezposelne"
                         pubPlace="Ljubljana" publisher="Zvezna tiskarna in knjigarna" year="1924"/>
         </delo>
-        <delo mojID="3712">
+        <delo mojID="3712" cobiss="73882880">
                 <naslov>Brezpravje</naslov>
                 <cit did="767" cid="3" avtor0="Ferjančič Roman, Šturm Lovro" naslov0="Brezpravje"
                         naslov1="Slovensko pravosodje po letu 1945" pubPlace="Ljubljana"
@@ -18649,7 +18649,7 @@
                         source="Dictionnaire historique de la Suisse. Tome 2." pubPlace="Hauterive"
                         publisher="Attinger" year="2003" page="203"/>
         </delo>
-        <delo mojID="3717">
+        <delo mojID="3717" cobiss="66984448">
                 <naslov>Bridge building : polityka USA wobec Europy Wschodniej w latach
                         1961-1968</naslov>
                 <cit did="3359" cid="15" avtor0="Mania Andrzej"
@@ -18686,7 +18686,7 @@
                         source="Mitteilungen des Österreichischen Staatsarchivs" pubPlace="Wien"
                         year="1972" volume="25" page="492-503"/>
         </delo>
-        <delo mojID="3722">
+        <delo mojID="3722" cobiss="2380294">
                 <naslov>Briefe an Wilhelm Fließ 1887–1904</naslov>
                 <cit did="2735" cid="29" avtor0="Freud Sigmund"
                         naslov0="Briefe an Wilhelm Fließ 1887–1904" pubPlace="Frankfurt am Main"
@@ -18782,20 +18782,20 @@
                         source="Bringing the state back in" pubPlace="Cambridge"
                         publisher="Cambridge University Press" year="1985"/>
         </delo>
-        <delo mojID="3741">
+        <delo mojID="3741" cobiss="6696493">
                 <naslov>Brinjeva gora 1953</naslov>
                 <cit did="1942" cid="26" avtor0="Pahič S." naslov0="Brinjeva gora 1953"
                         source="Arheološki vestnik" pubPlace="Ljubljana" year="1981" volume="32"
                         page="71-143"/>
         </delo>
-        <delo mojID="3742">
+        <delo mojID="3742" cobiss="18173485">
                 <naslov>Brinjeva gora - 1953 (Obdelava prazgodovinske keramike)</naslov>
                 <cit did="1954" cid="24" avtor0="Oman D."
                         naslov0="Brinjeva gora - 1953 (Obdelava prazgodovinske keramike)"
                         source="Arheološki vestnik" pubPlace="Ljubljana" year="1991" volume="32"
                         page="144-216"/>
         </delo>
-        <delo mojID="3745">
+        <delo mojID="3745" cobiss="823564">
                 <naslov>Brionski plenum: obračun sa Aleksandrom Rankovićem: sećanja i
                         saznanja</naslov>
                 <cit did="2374" cid="8" avtor0="Lukić Vojin"
@@ -18820,7 +18820,7 @@
                         naslov0="Britain and Dissent in Tito s Yugoslavia: The Dilas Affair, ca. 1956"
                         source="European History Quarterly" year="2006" volume="36" issue="3"/>
         </delo>
-        <delo mojID="3749">
+        <delo mojID="3749" cobiss="50563328">
                 <naslov>Britain and European Resistance, 1940-1945, A survey of the Special
                         Operations Executive, with Documents</naslov>
                 <cit did="1782" cid="306" avtor0="Stafford David"
@@ -18833,7 +18833,7 @@
                         naslov0="Britain and the Cold War : 1945 as Geopolitical Transition"
                         pubPlace="London" publisher="Croom Helm" year="1990"/>
         </delo>
-        <delo mojID="3751">
+        <delo mojID="3751" cobiss="907341">
                 <naslov>Britain and the dictators: A survey of post-war British policy</naslov>
                 <cit did="2919" cid="36" avtor0="Seton Watson Robert William"
                         naslov0="Britain and the dictators: A survey of post-war British policy"
@@ -18853,13 +18853,13 @@
                         source="Social Conflict and the Political Order in Modern Britain"
                         pubPlace="London" publisher="Croom Helm" year="1982" page="21-51"/>
         </delo>
-        <delo mojID="3758">
+        <delo mojID="3758" cobiss="1729908">
                 <naslov>Britanci o Stojadinoviću in Münchnu</naslov>
                 <cit did="1611" cid="1" avtor0="Biber Dušan"
                         naslov0="Britanci o Stojadinoviću in Münchnu"
                         source="Prispevki za zgodovino delavskega gibanja" year="1983" volume="23"/>
         </delo>
-        <delo mojID="3759">
+        <delo mojID="3759" cobiss="1728628">
                 <naslov>Britanci o Titu in revoluciji</naslov>
                 <cit did="2299" cid="135" avtor0="Biber Dušan"
                         naslov0="Britanci o Titu in revoluciji" source="Zgodovinski časopis"
@@ -18887,7 +18887,7 @@
                         naslov0="Britanske ocjene Stojadinovića i njegove politike: fašizam i neofašizam"
                         pubPlace="Zagreb" year="1976" page="276"/>
         </delo>
-        <delo mojID="3770">
+        <delo mojID="3770" cobiss="2288244">
                 <naslov>Britanski pogled na Hrvatsku 1945.-1948.</naslov>
                 <cit did="1464" cid="62" avtor0="Spehnjak Katarina"
                         naslov0="Britanski pogled na Hrvatsku 1945.-1948." pubPlace="Zagreb"
@@ -18906,14 +18906,14 @@
                         naslov0="Britische Historiker und der Ausbruch des Ersten Weltkrieges"
                         source="EWK" page="929-952"/>
         </delo>
-        <delo mojID="3775">
+        <delo mojID="3775" cobiss="411348">
                 <naslov>Britische Presse und Medienpolitik gegenüber den Slowenen in Kärnten nach
                         1945</naslov>
                 <cit did="964" cid="8" avtor0="Malle Avguštin"
                         naslov0="Britische Presse und Medienpolitik gegenüber den Slowenen in Kärnten nach 1945"
                         source="Medien und Zeit" year="1990" volume="5" issue="2" page="10-18"/>
         </delo>
-        <delo mojID="3776">
+        <delo mojID="3776" cobiss="32751872">
                 <naslov>British and French Writers of the First World War : Comparative Studies in
                         Cultural History</naslov>
                 <cit did="1300" cid="147" avtor0="Field Frank"
@@ -18944,7 +18944,7 @@
                         naslov0="British Recognition of Independent Slovakia in 1939"
                         source="&#34;Slovak Studies&#34;" issue="6" page="61"/>
         </delo>
-        <delo mojID="3784">
+        <delo mojID="3784" cobiss="3717730">
                 <naslov>British societv 1914-45</naslov>
                 <cit did="1911" cid="109" avtor0="Stevenson John" naslov0="British societv 1914-45"
                         pubPlace="London" publisher="Penguin" year="1990"/>
@@ -18955,7 +18955,7 @@
                         naslov0="British Society and the French Wars 1793-1815"
                         publisher="Londres - Macmillan" year="1979"/>
         </delo>
-        <delo mojID="3786">
+        <delo mojID="3786" cobiss="1420295">
                 <naslov>British Special Operations Explored</naslov>
                 <cit did="334" cid="77" avtor0="Deroc Milan"
                         naslov0="British Special Operations Explored"
@@ -18996,13 +18996,13 @@
                 <cit did="49" cid="12" avtor0="Ludvik Zorzut" naslov0="Briški češplarji"
                         source="Goriška straža" year="0" issue="30"/>
         </delo>
-        <delo mojID="3793">
+        <delo mojID="3793" cobiss="3615541">
                 <naslov>Brižinski spomeniki kot dialoški tekst</naslov>
                 <cit did="1742" cid="20" avtor0="Grdina Igor"
                         naslov0="Brižinski spomeniki kot dialoški tekst"
                         source="Zgodovina za vse, vse za zgodovino" year="1994" issue="2"/>
         </delo>
-        <delo mojID="3794">
+        <delo mojID="3794" cobiss="225521152">
                 <naslov>Brkini in sosednji kraji na prelomu tisočletja</naslov>
                 <cit did="375" cid="130" avtor0="Gerželj Slavko"
                         naslov0="Brkini in sosednji kraji na prelomu tisočletja" pubPlace="Vrhnika"
@@ -19014,7 +19014,7 @@
                         source="Dnevnik" pubPlace="Ljubljana" year="2000" volume="49" issue="170"
                         page="33"/>
         </delo>
-        <delo mojID="3796">
+        <delo mojID="3796" cobiss="8853037">
                 <naslov>Brodar, Srečko. Enciklopedija Slovenije 1</naslov>
                 <cit did="1915" cid="31" avtor0="Osole F."
                         naslov0="Brodar, Srečko. Enciklopedija Slovenije 1" pubPlace="Ljubljana"
@@ -19048,26 +19048,26 @@
                         naslov0="Brojitbeni pokazatelji odnosa vojničkih postrojbi na teritoriju Nezavisne Države Hrvatske 1941.–1945."
                         source="ČSP" year="1996" issue="1-2" page="161-197"/>
         </delo>
-        <delo mojID="3803">
+        <delo mojID="3803" cobiss="1316173">
                 <naslov>Broken bonds: the disintegration of Yugoslavia</naslov>
                 <cit did="2667" cid="7" avtor0="Cohen Lenard J."
                         naslov0="Broken bonds: the disintegration of Yugoslavia" pubPlace="Boulder"
                         publisher="Westview Press" year="1993"/>
         </delo>
-        <delo mojID="3804">
+        <delo mojID="3804" cobiss="52837">
                 <naslov>Broken images, broken selves. Dissociative narratives in clinical
                         practice</naslov>
                 <cit did="2904" cid="81" avtor0="Krippner Stanley et al"
                         naslov0="Broken images, broken selves. Dissociative narratives in clinical practice"
                         pubPlace="Washington" publisher="Brunner/Mazel" year="1997"/>
         </delo>
-        <delo mojID="3805">
+        <delo mojID="3805" cobiss="4987746">
                 <naslov>Broken Lives. Separation and Divorce in England 1660-1857</naslov>
                 <cit did="2632" cid="104" avtor0="Slone L."
                         naslov0="Broken Lives. Separation and Divorce in England 1660-1857"
                         pubPlace="New York" year="1993"/>
         </delo>
-        <delo mojID="3807">
+        <delo mojID="3807" cobiss="22360930">
                 <naslov>Bronastodobna keramika iz naselbine Krtina</naslov>
                 <cit did="1375" cid="14" avtor0="Kokeza Nives"
                         naslov0="Bronastodobna keramika iz naselbine Krtina"
@@ -19075,13 +19075,13 @@
                         publisher="Oddelek za arheologijo Filozofske fakultete, Nives Kokeza"
                         year="2003"/>
         </delo>
-        <delo mojID="3808">
+        <delo mojID="3808" cobiss="6447874">
                 <naslov>Bronastodobna naselbina pri Žlebiču</naslov>
                 <cit did="1948" cid="29" avtor0="Pus I."
                         naslov0="Bronastodobna naselbina pri Žlebiču" source="Arheološki vestnik"
                         pubPlace="Ljubljana" year="1988" volume="39-40" page="345-366"/>
         </delo>
-        <delo mojID="3809">
+        <delo mojID="3809" cobiss="25599277">
                 <naslov>Bronastodobne najdbe iz potoka Ljubija pri Verdu</naslov>
                 <cit did="1948" cid="9" avtor0="Gaspari A."
                         naslov0="Bronastodobne najdbe iz potoka Ljubija pri Verdu"
@@ -19089,7 +19089,7 @@
                         pubPlace="Ljubljana" publisher="Zalozba ZRC" year="2006" volume="11"
                         page="205-221"/>
         </delo>
-        <delo mojID="3810">
+        <delo mojID="3810" cobiss="28885549">
                 <naslov>Bronastodobno kolišče Mali Otavnik pri Bistri na Ljubljanskem barju</naslov>
                 <cit did="1948" cid="13" avtor0="Gaspari A., Erič M."
                         naslov0="Bronastodobno kolišče Mali Otavnik pri Bistri na Ljubljanskem barju"
@@ -19117,7 +19117,7 @@
                         source="Saopstenja Republičkog zavoda za zaštitu spomenika kulture"
                         pubPlace="Beograd" year="1997" volume="39" page="125-135"/>
         </delo>
-        <delo mojID="3816">
+        <delo mojID="3816" cobiss="21872738">
                 <naslov>Bronze "donor" from the votive site in the river Ljubljanica</naslov>
                 <cit did="1748" cid="381" avtor0="Gaspari A., Krempuš R."
                         naslov0="Bronze &#34;donor&#34; from the votive site in the river Ljubljanica"
@@ -19132,7 +19132,7 @@
                         source="Archaologisches Korrespondenzblatt" year="2004" volume="34"
                         page="37-50"/>
         </delo>
-        <delo mojID="3818">
+        <delo mojID="3818" cobiss="1350004">
                 <naslov>Brot, Butter, Kanonen: die Ernährungswirtschaft in Deutschland unter der
                         Diktatur Hitlers</naslov>
                 <cit did="1509" cid="89" avtor0="Corni Gustavo, Gies Horst"
@@ -19153,7 +19153,7 @@
                         naslov0="Brothers: Male Dominance and Technological change"
                         pubPlace="London" publisher="Pluto Press" year="1983"/>
         </delo>
-        <delo mojID="3821">
+        <delo mojID="3821" cobiss="1810036">
                 <naslov>Brozovi strahovi. Kako je čuvan Tito i pokušaji atentata</naslov>
                 <cit did="3210" cid="2" avtor0="Adamovič Miladin"
                         naslov0="Brozovi strahovi. Kako je čuvan Tito i pokušaji atentata"
@@ -19166,7 +19166,7 @@
                         naslov0="Bruck versus Buol: The Dispute over Austrian Eastern Policy 1853–1855"
                         source="Journal of Modern History" year="1968" volume="40" page="217"/>
         </delo>
-        <delo mojID="3824">
+        <delo mojID="3824" cobiss="15419949">
                 <naslov>Brucovanje po križevačkih statutih</naslov>
                 <cit did="3269" cid="7" avtor0="Rybar Miloš"
                         naslov0="Brucovanje po križevačkih statutih" source="Traditiones"
@@ -19196,7 +19196,7 @@
                         naslov0="Brussels warning to Yugoslavia on aid" source="Financial Times"
                         year="1991" issue="21 May" page="2"/>
         </delo>
-        <delo mojID="3830">
+        <delo mojID="3830" cobiss="20080640">
                 <naslov>Brvi, ne mostovi</naslov>
                 <cit did="2625" cid="22" avtor0="Facur Silvo" naslov0="Brvi, ne mostovi"
                         pubPlace="Ljubljana" publisher="Zavod Republike Slovenije za šolstvo"
@@ -19241,7 +19241,7 @@
                 <cit did="2057" cid="9" avtor0="Köllner Alena" naslov0="Buchivesen in Prag"
                         pubPlace="Wien" publisher="Praesens" year="2000"/>
         </delo>
-        <delo mojID="3838">
+        <delo mojID="3838" cobiss="11639560">
                 <naslov>Buchmarkt und Lektüre im 18. und 19. Jahrhundert</naslov>
                 <cit did="2223" cid="19" avtor0="Wittmann Reinhard"
                         naslov0="Buchmarkt und Lektüre im 18. und 19. Jahrhundert"
@@ -19279,7 +19279,7 @@
                         source="Slovenski biografski leksikon" pubPlace="Ljubljana" year="1925"
                         page="63"/>
         </delo>
-        <delo mojID="3843">
+        <delo mojID="3843" cobiss="1076576">
                 <naslov>Budinjak, kneževski tumul</naslov>
                 <cit did="2266" cid="29" avtor0="Škoberne Želimir"
                         naslov0="Budinjak, kneževski tumul" pubPlace="Zagreb" year="1999"/>
@@ -19332,13 +19332,13 @@
                         naslov0="Building a common policy on labour immigration: towards a comprehensive and global approach in the EU?"
                         naslov1="CEPS Working Documents" year="2007" issue="256"/>
         </delo>
-        <delo mojID="3851">
+        <delo mojID="3851" cobiss="20236125">
                 <naslov>Building Europe: The Cultural Politics of European Integration</naslov>
                 <cit did="2648" cid="71" avtor0="Shore Cris"
                         naslov0="Building Europe: The Cultural Politics of European Integration"
                         pubPlace="London" publisher="Routledge" year="2000"/>
         </delo>
-        <delo mojID="3852">
+        <delo mojID="3852" cobiss="18067549">
                 <naslov>Building European Union: A Documentary History and Analysis</naslov>
                 <cit did="404" cid="17" avtor0="Salmon T., Nicoll W."
                         naslov0="Building European Union: A Documentary History and Analysis"
@@ -19380,7 +19380,7 @@
                         naslov0="Building up a National Identity: the case of Bulgaria"
                         source="Working Papers SPS" pubPlace="Florence" year="1994"/>
         </delo>
-        <delo mojID="3858">
+        <delo mojID="3858" cobiss="512312962">
                 <naslov>Built to last. Successful habits of visionary companies</naslov>
                 <cit did="3062" cid="2" avtor0="Collins Jim" avtor1="Porras Jerry I."
                         naslov0="Built to last. Successful habits of visionary companies"
@@ -19402,7 +19402,7 @@
                         naslov0="Bukve za pomozh, inu prid kmetam potrebne ukupsloshene sa Slovenze od Joannesa Paula Jeschenagg perviga Fajmeshtra preden zesarske kraleve Fare Ullimie, ino vuda zes. Kra. Tovarsnje deshelskiga Kmetu vanj a u Grazi. Pervi cleil od oskerblenja tih njiv"
                         pubPlace="Celje" publisher="Joseph Bach" year="1821"/>
         </delo>
-        <delo mojID="3863">
+        <delo mojID="3863" cobiss="61968994">
                 <naslov>Bulgaria in Antiquity: An Archaeological Introduction</naslov>
                 <cit did="1748" cid="480" avtor0="Hoddinott R. F."
                         naslov0="Bulgaria in Antiquity: An Archaeological Introduction"
@@ -19414,7 +19414,7 @@
                         naslov0="Bulgarians The First Europeans" pubPlace="St. Kliment"
                         publisher="Ohridski University Press" year="2002"/>
         </delo>
-        <delo mojID="3865">
+        <delo mojID="3865" cobiss="7947272">
                 <naslov>Bulgarien. Vom Mittelalter bis zur Gegenvvart</naslov>
                 <cit did="1911" cid="42" avtor0="Hartel Hans Joachim" avtor1="Schohfeld Roland"
                         naslov0="Bulgarien. Vom Mittelalter bis zur Gegenvvart" pubPlace="München"
@@ -19442,7 +19442,7 @@
                         naslov0="Bureau of Indian affairs' influence on Indian self-determination"
                         year="1985"/>
         </delo>
-        <delo mojID="3872">
+        <delo mojID="3872" cobiss="512212620">
                 <naslov>Burebista and His Time</naslov>
                 <cit did="1748" cid="212" avtor0="Crisan I. H." naslov0="Burebista and His Time"
                         pubPlace="Bucuresti" year="1978"/>
@@ -19496,7 +19496,7 @@
                 <cit did="3458" cid="13" avtor0="Tuulse Armin" naslov0="Burgen des Abendlandes"
                         pubPlace="München, Wien" publisher="A. Schroll" year="1958"/>
         </delo>
-        <delo mojID="3886">
+        <delo mojID="3886" cobiss="100741376">
                 <naslov>Burgen im Friaul</naslov>
                 <cit did="375" cid="176" avtor0="Ulmer Christoph" naslov0="Burgen im Friaul"
                         pubPlace="Köln" year="1999"/>
@@ -19527,7 +19527,7 @@
                         naslov0="Burgen und Schlösser Dunkelsteiner Wald (Niederösterreich 11/2)"
                         pubPlace="Wien" year="1973"/>
         </delo>
-        <delo mojID="3894">
+        <delo mojID="3894" cobiss="21508352">
                 <naslov>Burgen und Schlösser in Slowenien</naslov>
                 <cit did="2423" cid="59" avtor0="Stopar Ivan"
                         naslov0="Burgen und Schlösser in Slowenien" pubPlace="Ljubljana" year="1991"
@@ -19595,7 +19595,7 @@
                         source="National-cultural autonomy and its contemporary critics"
                         pubPlace="London" publisher="Routledge" year="2005"/>
         </delo>
-        <delo mojID="3908">
+        <delo mojID="3908" cobiss="4471345">
                 <naslov>Burja, snežni zameti in volkovi, posebnosti železniške proge čez
                         kras</naslov>
                 <cit did="1999" cid="39" avtor0="Rustja K."
@@ -19607,7 +19607,7 @@
                 <cit did="142" cid="66" avtor0="Green Alexandra, Blurton Richard T." naslov0="Burma"
                         pubPlace="Chicago" publisher="Paragon Book Gallery" year="1996"/>
         </delo>
-        <delo mojID="3910">
+        <delo mojID="3910" cobiss="88692">
                 <naslov>Burne diplomatske godine - iz sofijskog dnevnika 1953-1956</naslov>
                 <cit did="2872" cid="93" avtor0="Miljković Mita"
                         naslov0="Burne diplomatske godine - iz sofijskog dnevnika 1953-1956"
@@ -19633,7 +19633,7 @@
                         source="Istriotski lingvistički atlas" pubPlace="Pula"
                         publisher="Znanstvena udruga" year="1998"/>
         </delo>
-        <delo mojID="3914">
+        <delo mojID="3914" cobiss="15989853">
                 <naslov>Business and Society: A Managerial Approach</naslov>
                 <cit did="2007" cid="20" avtor0="Vernon Wortzel H."
                         naslov0="Business and Society: A Managerial Approach" pubPlace="Burr Ridge"
@@ -19682,7 +19682,7 @@
                         naslov0="Bywyd a Llythyrau y Parch. Lewis Edwards, D.D."
                         pubPlace="Liverpool" year="1901"/>
         </delo>
-        <delo mojID="3925">
+        <delo mojID="3925" cobiss="37836898">
                 <naslov>Byzantine aesthetics</naslov>
                 <cit did="761" cid="23" avtor0="Mathew G." naslov0="Byzantine aesthetics"
                         pubPlace="London" publisher="Murray" year="1963"/>
@@ -19697,7 +19697,7 @@
                 <cit did="761" cid="14" avtor0="Demus O." naslov0="Byzantine Art and the West"
                         pubPlace="London" year="1970"/>
         </delo>
-        <delo mojID="3928">
+        <delo mojID="3928" cobiss="17667938">
                 <naslov>Byzantine Art in the Making</naslov>
                 <cit did="761" cid="20" avtor0="Kitzinger E." naslov0="Byzantine Art in the Making"
                         pubPlace="Cambridge UP" publisher="Massachutes" year="1977"/>
@@ -19725,12 +19725,12 @@
                 <cit did="763" cid="2" avtor0="Beck Hans Georg" naslov0="Byzantinisches Erotikon"
                         pubPlace="München" publisher="Beck" year="1986"/>
         </delo>
-        <delo mojID="3933">
+        <delo mojID="3933" cobiss="2057050">
                 <naslov>Byzantium</naslov>
                 <cit did="272" cid="128" avtor0="Mango Cyril A." naslov0="Byzantium"
                         source="The empire of the New Rome" pubPlace="London" year="1998"/>
         </delo>
-        <delo mojID="3934">
+        <delo mojID="3934" cobiss="1502560">
                 <naslov>Byzantium</naslov>
                 <cit did="142" cid="79" avtor0="Hetherington Paul, Forman Werner"
                         naslov0="Byzantium" source="City of Gold, City of Faith" pubPlace="London"
@@ -19751,7 +19751,7 @@
                         naslov0="Byzantium on the Adriatic from 555 till 800 : Hortus Artium Medievalium"
                         pubPlace="Zagreb-Motovun" year="1998" page="7-14"/>
         </delo>
-        <delo mojID="3937">
+        <delo mojID="3937" cobiss="15058733">
                 <naslov>Byzantium : Treasures of Byzantine Art and Culture from British
                         Collections</naslov>
                 <cit did="763" cid="4" avtor0="Buckton D."
