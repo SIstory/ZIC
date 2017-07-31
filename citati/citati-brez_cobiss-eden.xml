@@ -19879,19 +19879,19 @@
                         naslov0="Caesar: Annäherungen an einen Diktator" pubPlace="München"
                         year="1994"/>
         </delo>
-        <delo mojID="3960">
+        <delo mojID="3960" cobiss="512221324">
                 <naslov>Caesar, der Politiker und Staatsmann</naslov>
                 <cit did="1748" cid="385" avtor0="Gelzer M."
                         naslov0="Caesar, der Politiker und Staatsmann" pubPlace="Wiesbaden"
                         year="1960"/>
         </delo>
-        <delo mojID="3962">
+        <delo mojID="3962" cobiss="10135085">
                 <naslov>Caesarian Inscriptions in the Emona Basin?</naslov>
                 <cit did="1748" cid="997" avtor0="Šašel Kos Marjeta"
                         naslov0="Caesarian Inscriptions in the Emona Basin?"
                         source="Epigrafia romana in area adriatica" year="1998" page="101-112"/>
         </delo>
-        <delo mojID="3963">
+        <delo mojID="3963" cobiss="5367392">
                 <naslov>Caesarische und augusteische Kolonien in der Provinz Dalmatien</naslov>
                 <cit did="1748" cid="4" avtor0="Alföldy G."
                         naslov0="Caesarische und augusteische Kolonien in der Provinz Dalmatien"
@@ -19945,7 +19945,7 @@
                         naslov0="Calicanto - la poesia in gioco" pubPlace="Torino"
                         publisher="Einaudi" year="1988"/>
         </delo>
-        <delo mojID="3975">
+        <delo mojID="3975" cobiss="512094544">
                 <naslov>Calvario adriatico</naslov>
                 <cit did="1324" cid="74" avtor0="Chiopris F." naslov0="Calvario adriatico"
                         pubPlace="Milan" publisher="Ediz. Del Borghese" year="1969"/>
@@ -19965,13 +19965,13 @@
                         source="Reuninón de investigadores del Area Zoque" pubPlace="Tecpatán"
                         publisher="Chiapas" year="1989" page="182-196"/>
         </delo>
-        <delo mojID="3978">
+        <delo mojID="3978" cobiss="40205312">
                 <naslov>Cambodia, laos</naslov>
                 <cit did="142" cid="199" avtor0="Wulf Annaliese" naslov0="Cambodia, laos"
                         pubPlace="München - London" publisher="Nelles Verlag" year="1994" page="27"
                 />
         </delo>
-        <delo mojID="3979">
+        <delo mojID="3979" cobiss="40584705">
                 <naslov>Cambridge Illustrated History of China</naslov>
                 <cit did="1450" cid="15" avtor0="Buckley Ebrey Patricia"
                         naslov0="Cambridge Illustrated History of China" pubPlace="New York"
@@ -20015,7 +20015,7 @@
                         naslov0="Campoformio a Osimo. La frontiera orientale tra storia e storiografia"
                         pubPlace="Napoli" year="2001"/>
         </delo>
-        <delo mojID="3986">
+        <delo mojID="3986" cobiss="11572744">
                 <naslov>Can liberal pluralism be exported?</naslov>
                 <cit did="3151" cid="25" avtor0="Kymlicka Will" avtor1="Opalski Magda"
                         naslov0="Can liberal pluralism be exported?" pubPlace="Oxford"
@@ -20114,7 +20114,7 @@
                         source="Slovenski biografski leksikon : Knjiga 1" pubPlace="Ljubljana"
                         publisher="Zadružna gospodarska banka" year="1925" page="68"/>
         </delo>
-        <delo mojID="4002">
+        <delo mojID="4002" cobiss="18461185">
                 <naslov>Cankarjev album</naslov>
                 <cit did="1741" cid="7" avtor0="Dobrovoljc France" naslov0="Cankarjev album"
                         pubPlace="Maribor" publisher="Založba Obzorja" year="1972"/>
@@ -20124,7 +20124,7 @@
                 <cit did="1494" cid="25" avtor0="Pitre G." naslov0="Canti popolari siciliani"
                         pubPlace="Palermo" year="0"/>
         </delo>
-        <delo mojID="4008">
+        <delo mojID="4008" cobiss="413428">
                 <naslov>Cantieri Riuniti dell'Adriatico</naslov>
                 <cit did="391" cid="18" avtor0="Gerolami Giovanni"
                         naslov0="Cantieri Riuniti dell'Adriatico" naslov1="Origini e Sviluppo"
@@ -20145,7 +20145,7 @@
                         pubPlace="Generalitat Valenciana"
                         publisher="Institut de cultura Juan Gil-Albert." year="1995"/>
         </delo>
-        <delo mojID="4011">
+        <delo mojID="4011" cobiss="1661614">
                 <naslov>Capitalism and Freedom</naslov>
                 <cit did="3043" cid="6" avtor0="Friedman M." naslov0="Capitalism and Freedom"
                         pubPlace="Chicago" publisher="University of Chicago Press" year="2002"/>
@@ -20178,13 +20178,13 @@
                         source="Archiv für Diplomatik, Schriftgeschichte, Siegel- und Wappenkunde"
                         pubPlace="Münster - Köln - Graz" year="1986" page="305-501"/>
         </delo>
-        <delo mojID="4016">
+        <delo mojID="4016" cobiss="8273201">
                 <naslov>Capodistria addio, lettere di un'esule 1945-1956</naslov>
                 <cit did="734" cid="8" avtor0="Derin L."
                         naslov0="Capodistria addio, lettere di un'esule 1945-1956" pubPlace="Milano"
                         publisher="Mursia" year="2002"/>
         </delo>
-        <delo mojID="4018">
+        <delo mojID="4018" cobiss="61093376">
                 <naslov>Capodistria tardoromana e altomedievale : lo scavo archeologico nell'ex orto
                         dei Cappuccini negli anni 1986-87 alia luce dei reperti</naslov>
                 <cit did="765" cid="6" avtor0="Cunja Radovan"
@@ -20193,7 +20193,7 @@
                         publisher="Zgodovinsko društvo za južno Primorsko - Znanstveno-razisko-valno središče RS Koper - Pokrajinski muzej Koper"
                         year="1996"/>
         </delo>
-        <delo mojID="4019">
+        <delo mojID="4019" cobiss="10851633">
                 <naslov>Capodistria, un mondo scomparso per sempre</naslov>
                 <cit did="2221" cid="5" avtor0="Derin Anita"
                         naslov0="Capodistria, un mondo scomparso per sempre" pubPlace="Trieste"
@@ -20217,27 +20217,27 @@
                         naslov0="Caporetto - Diario di Guerra (maggio-dicembre 1917)"
                         pubPlace="Bologna" publisher="Il Mulino" year="1997" page="210"/>
         </delo>
-        <delo mojID="4023">
+        <delo mojID="4023" cobiss="538673">
                 <naslov>Caporetto - il mondo capovolto</naslov>
                 <cit did="1315" cid="61" avtor0="Sema Antonio"
                         naslov0="Caporetto - il mondo capovolto"
                         pubPlace="Gorizia, Monfalcone, Mariano del Friuli"
                         publisher="Edizioni della Laguna" year="1990" page="32, 39, 40"/>
         </delo>
-        <delo mojID="4024">
+        <delo mojID="4024" cobiss="1188724">
                 <naslov>Caporetto, perché?</naslov>
                 <cit did="1315" cid="52" avtor0="Capello Luigi" naslov0="Caporetto, perché?"
                         naslov1="La 2Âª armata e gli avvenimeni dell' ottobre 1917, dokument 12"
                         pubPlace="Torino" publisher="Giulio Einaudi editore" year="1967"
                         page="274-275"/>
         </delo>
-        <delo mojID="4026">
+        <delo mojID="4026" cobiss="10816077">
                 <naslov>Caporetto, una battaglia e un enigma</naslov>
                 <cit did="1315" cid="42" avtor0="Silvestri Mario"
                         naslov0="Caporetto, una battaglia e un enigma" pubPlace="Milano"
                         publisher="A. Mondadori editore" year="1984"/>
         </delo>
-        <delo mojID="4027">
+        <delo mojID="4027" cobiss="2851377">
                 <naslov>Caporetto - Una rilettura della storia sui luoghi della battaglia che
                         sorprese vinti e vincitori</naslov>
                 <cit did="1315" cid="80" avtor0="Di Brazzano Orio"
@@ -20329,7 +20329,7 @@
                         source="Aspetti della società lombarda in età spagnola. Vol. I."
                         pubPlace="Como" publisher="New Press" year="1985" page="9-42"/>
         </delo>
-        <delo mojID="4046">
+        <delo mojID="4046" cobiss="69454080">
                 <naslov>Carl Schmitt kot mejni teoretik političnega</naslov>
                 <cit did="2143" cid="12" avtor0="Jalušič Vlasta"
                         naslov0="Carl Schmitt kot mejni teoretik političnega"
@@ -20380,7 +20380,7 @@
                         source="Biblioteca di cultura storica" pubPlace="Torino" publisher="Einaudi"
                         year="2004"/>
         </delo>
-        <delo mojID="4056">
+        <delo mojID="4056" cobiss="71506944">
                 <naslov>Carlo Michelstaedter</naslov>
                 <cit did="1427" cid="1" avtor0="Arbo Alessandro" naslov0="Carlo Michelstaedter"
                         pubPlace="Pordenone-Padova" publisher="Edizione Studio Tesi" year="1997"/>
@@ -20392,7 +20392,7 @@
                         source="Eredita di Carlo Michelstaedter (ur. Silvio Cumpeta in Angela Michelis)"
                         pubPlace="Udine" publisher="Forum" year="2002" page="243-256"/>
         </delo>
-        <delo mojID="4058">
+        <delo mojID="4058" cobiss="2544108">
                 <naslov>Carlo Michelstaedter študente ginnasiale</naslov>
                 <cit did="1427" cid="2" avtor0="Bozzi Carlo Luigi"
                         naslov0="Carlo Michelstaedter študente ginnasiale" source="Studi goriziani"
@@ -20409,7 +20409,7 @@
                         naslov0="Carmen de Astronomico Holorogio Argentoratensi"
                         pubPlace="Argentorati, Strasbourg" publisher="Wyriot" year="0"/>
         </delo>
-        <delo mojID="4061">
+        <delo mojID="4061" cobiss="21674850">
                 <naslov>Carnal Knowledge and Imperial Power. Race and Intimate in Colonial
                         Rule</naslov>
                 <cit did="2738" cid="41" avtor0="Stoler Ann Laura"
@@ -20438,7 +20438,7 @@
                         source="Slovenska kronika 19. stoletja" pubPlace="Ljubljana"
                         publisher="Nova revija" year="2001" page="226"/>
         </delo>
-        <delo mojID="4067">
+        <delo mojID="4067" cobiss="2461280">
                 <naslov>Carnuntum: seine Geschichte und seine Denkmäler</naslov>
                 <cit did="1748" cid="954" avtor0="Swoboda E."
                         naslov0="Carnuntum: seine Geschichte und seine Denkmäler"
@@ -20451,19 +20451,19 @@
                         naslov0="&#34;Caro amico pregiatissimo.&#34; Un epistolario dell'Ottocento fra Carnia, Cadore, Comclico"
                         pubPlace="Udine" publisher="Forum" year="2000"/>
         </delo>
-        <delo mojID="4069">
+        <delo mojID="4069" cobiss="55157">
                 <naslov>Carol Couture et al.: Les fondements de la Discipline archivistique</naslov>
                 <cit did="2843" cid="10" avtor0="Rousseau Jean Yves"
                         naslov0="Carol Couture et al.: Les fondements de la Discipline archivistique"
                         pubPlace="Quebec" year="1994"/>
         </delo>
-        <delo mojID="4070">
+        <delo mojID="4070" cobiss="80370688">
                 <naslov>Carol Gilligan ali ženska morala in pravo</naslov>
                 <cit did="106" cid="292" avtor0="Šugman  K."
                         naslov0="Carol Gilligan ali ženska morala in pravo" source="Delta"
                         year="1996" volume="2" issue="3-4" page="71-88"/>
         </delo>
-        <delo mojID="4071">
+        <delo mojID="4071" cobiss="512198992">
                 <naslov>Carolina Coen Luzzatto</naslov>
                 <cit did="1743" cid="1" avtor0="Bozzini la Stella Maura"
                         naslov0="Carolina Coen Luzzatto" pubPlace="Monfalcone"
@@ -20477,7 +20477,7 @@
                         source="La giustizia nell'alto medioevo" pubPlace="Spoleto"
                         publisher="CISAM" year="1995" volume="42" page="771-803"/>
         </delo>
-        <delo mojID="4073">
+        <delo mojID="4073" cobiss="104434688">
                 <naslov>Carska i kraljevska mornarica u Puli</naslov>
                 <cit did="2646" cid="34" avtor0="Winkler Dieter"
                         naslov0="Carska i kraljevska mornarica u Puli" pubPlace="Pula"
@@ -20501,7 +20501,7 @@
                 <cit did="2321" cid="12" avtor0="Jardine A." naslov0="Cartas de Espana"
                         pubPlace="Alicante" publisher="Universidad de Alicante" year="2001"/>
         </delo>
-        <delo mojID="4078">
+        <delo mojID="4078" cobiss="568019">
                 <naslov>Carte storiche tematiche georiferite per la storia del territorio</naslov>
                 <cit did="671" cid="20" avtor0="Panjek Aleksander, Borruso Giuseppe"
                         naslov0="Carte storiche tematiche georiferite per la storia del territorio"
@@ -20530,7 +20530,7 @@
                         source="Lingue tecniche del greco e del latino" pubPlace="Trieste"
                         year="1993" page="23-42"/>
         </delo>
-        <delo mojID="4082">
+        <delo mojID="4082" cobiss="7632461">
                 <naslov>Cartographies of Diaspora: Contesting Identities</naslov>
                 <cit did="3047" cid="16" avtor0="Brah A."
                         naslov0="Cartographies of Diaspora: Contesting Identities" pubPlace="London"
@@ -20598,7 +20598,7 @@
                 <cit did="2586" cid="29" avtor0="Šašel J." naslov0="Casernii" source="Živa antika"
                         year="1960" volume="10" page="201-221"/>
         </delo>
-        <delo mojID="4092">
+        <delo mojID="4092" cobiss="62915328">
                 <naslov>Cases and materials on international law</naslov>
                 <cit did="2987" cid="21" avtor0="Dixon Martin" avtor1="McCorquodale Robert"
                         naslov0="Cases and materials on international law" naslov1="2nd edition"
@@ -20653,7 +20653,7 @@
                         source="Archiv fuer Diplomatik" pubPlace="Koeln" year="1986" volume="32"
                         page="1-127"/>
         </delo>
-        <delo mojID="4103">
+        <delo mojID="4103" cobiss="513186700">
                 <naslov>Cassius Dio und Augustus: Philologische Untersuchungen zu den Büchern 45-56
                         des dionischen Geschichtswerkes</naslov>
                 <cit did="1748" cid="621" avtor0="Manuvvald B."
@@ -20684,7 +20684,7 @@
                         naslov0="Castigo de Dios. La grande peste barocca nella Sardegna di Fillipo IV."
                         pubPlace="Roma" publisher="Donzelli" year="1994"/>
         </delo>
-        <delo mojID="4110">
+        <delo mojID="4110" cobiss="6010881">
                 <naslov>Castle and Society (1000-1437)</naslov>
                 <cit did="252" cid="13" avtor0="Fügedi E." naslov0="Castle and Society (1000-1437)"
                         pubPlace="Budimpešta" year="1986" page="123-129"/>
@@ -20697,7 +20697,7 @@
                         source="Archeologia Medievale" pubPlace="Firenze" year="2006" volume="33"
                         page="19-48"/>
         </delo>
-        <delo mojID="4113">
+        <delo mojID="4113" cobiss="162082304">
                 <naslov>Catalogi personarum et officiorum Provinciae Austriae S. I. I
                         (1551-1600)</naslov>
                 <cit did="1593" cid="41" avtor0="Lukacs Ladislaus S. J."
@@ -20717,7 +20717,7 @@
                         naslov0="Catalogus Librorum qui Nundinis Labacensibus Autumnalibus..."
                         pubPlace="Labaci" year="0"/>
         </delo>
-        <delo mojID="4119">
+        <delo mojID="4119" cobiss="1458272">
                 <naslov>Cataphracti and Clibanarii</naslov>
                 <cit did="161" cid="15" avtor0="Mielczarek M." naslov0="Cataphracti and Clibanarii"
                         source="Studies of the Heavy Armoured Cavalry of the Ancient World"
@@ -20782,12 +20782,12 @@
                         naslov0="Catholish kershanskiga vuka peissme" pubPlace="Nemshki Gradz"
                         year="0"/>
         </delo>
-        <delo mojID="4132">
+        <delo mojID="4132" cobiss="27978082">
                 <naslov>Cato the Censor</naslov>
                 <cit did="272" cid="9" avtor0="Astin Alan E." naslov0="Cato the Censor"
                         pubPlace="Oxford" year="1978"/>
         </delo>
-        <delo mojID="4133">
+        <delo mojID="4133" cobiss="26652973">
                 <naslov>Cattolicesimo e cultura a Trieste in Istria e Friuli tra '800 e
                         '900</naslov>
                 <cit did="2655" cid="38" avtor0="Zovatto Pietro"
@@ -20816,7 +20816,7 @@
                         source="Journal of the Warburg and Courtlaud Institutes" year="1956"
                         volume="19" page="84"/>
         </delo>
-        <delo mojID="4138">
+        <delo mojID="4138" cobiss="1036896">
                 <naslov>Caverzano di Belluno. Aspetti e problemi di un centro dell'eta del ferro
                         nella media valle del Piave. Societa per la Preistoria e Protostoria della
                         Regione Friuli-Venezia Giulia</naslov>
@@ -20825,19 +20825,19 @@
                         source="Quaderno" pubPlace="Trieste" publisher="Italo Svevo" year="1999"
                         volume="7"/>
         </delo>
-        <delo mojID="4139">
+        <delo mojID="4139" cobiss="3334409">
                 <naslov>Cavour e la Venezia Giulia : contributo alla storia del problema adriatico
                         durante il Risorgimento</naslov>
                 <cit did="1317" cid="309" avtor0="Stefani Giuseppe"
                         naslov0="Cavour e la Venezia Giulia : contributo alla storia del problema adriatico durante il Risorgimento"
                         pubPlace="Firenze" year="1955" page="340-341"/>
         </delo>
-        <delo mojID="4140">
+        <delo mojID="4140" cobiss="513281400">
                 <naslov>CCPR Commentary</naslov>
                 <cit did="3071" cid="10" avtor0="Nowak Manfred" naslov0="CCPR Commentary"
                         year="1993"/>
         </delo>
-        <delo mojID="4141">
+        <delo mojID="4141" cobiss="2619209">
                 <naslov>CD ROM, Računalniški program Ključi</naslov>
                 <cit did="705" cid="5" avtor0="Bajd Barbara et al."
                         naslov0="CD ROM, Računalniški program Ključi" pubPlace="Ljubljana"
@@ -20866,7 +20866,7 @@
                         naslov0="CEDAW and women's unfinished journey" source="L'osservatore romano"
                         year="2051" page="4"/>
         </delo>
-        <delo mojID="4146">
+        <delo mojID="4146" cobiss="239768320">
                 <naslov>Cehovsko tkalstvo v Dravski dolini</naslov>
                 <cit did="2614" cid="61" avtor0="Baš Franjo"
                         naslov0="Cehovsko tkalstvo v Dravski dolini" year="1951" volume="3-4"
@@ -20878,13 +20878,13 @@
                         naslov0="Celebrated Jesuits :Vol. 2: A Cardinal, A Mandarin, and A Refugee"
                         pubPlace="London" publisher="John Mason" year="1853"/>
         </delo>
-        <delo mojID="4149">
+        <delo mojID="4149" cobiss="111829248">
                 <naslov>Celeia, Arheološka podoba mesta</naslov>
                 <cit did="2053" cid="9" avtor0="Lazar Irena"
                         naslov0="Celeia, Arheološka podoba mesta" pubPlace="Celje"
                         publisher="Pokrajinski muzej Celje" year="2001"/>
         </delo>
-        <delo mojID="4150">
+        <delo mojID="4150" cobiss="36188514">
                 <naslov>Celeia (Noricum): Topographische Erkenntnisse 1992-2002</naslov>
                 <cit did="1943" cid="7" avtor0="Krempuš R."
                         naslov0="Celeia (Noricum): Topographische Erkenntnisse 1992-2002"
@@ -20896,7 +20896,7 @@
                 <cit did="236" cid="50" avtor0="Vörösmarty Mihály" naslov0="Celjan in Hunyadiji"
                         year="0"/>
         </delo>
-        <delo mojID="4154">
+        <delo mojID="4154" cobiss="104066816">
                 <naslov>Celje</naslov>
                 <cit did="3241" cid="15" avtor0="Cvirn Janez" naslov0="Celje" pubPlace="Nazarje"
                         publisher="Epsi" year="1999"/>
@@ -20919,7 +20919,7 @@
                         source="Dom in svet, Ilustrovani list za leposlovje in znanstvo"
                         pubPlace="Ljubljana" year="0" volume="VIII" page="439"/>
         </delo>
-        <delo mojID="4160">
+        <delo mojID="4160" cobiss="34410240">
                 <naslov>Celje in slovensko hranilništvo</naslov>
                 <cit did="2618" cid="72" avtor0="Orožen Janko"
                         naslov0="Celje in slovensko hranilništvo" pubPlace="Celje" year="1977"/>
@@ -20929,7 +20929,7 @@
                 <cit did="331" cid="19" avtor0="Vudler Z." naslov0="Celje in turizem"
                         source="Turistični vestnik" year="1955" volume="3" issue="9-10" page="Â¸"/>
         </delo>
-        <delo mojID="4166">
+        <delo mojID="4166" cobiss="339765">
                 <naslov>Celje na pragu svobode</naslov>
                 <cit did="93" cid="1" avtor0="Žagar Milovanovič Ivanka"
                         naslov0="Celje na pragu svobode" source="Celjski zbornik" year="1985"
@@ -20946,14 +20946,14 @@
                 <cit did="3241" cid="18" avtor0="Cvirn Janez" avtor1="Šepetavc Anton"
                         naslov0="Celje, sejemsko mesto" pubPlace="Celje" year="1990"/>
         </delo>
-        <delo mojID="4171">
+        <delo mojID="4171" cobiss="8123144">
                 <naslov>Celje-izginjajoči nemški otok na Spodnjem Štajerskem: Od Maribora do Trsta
                         1850-1914</naslov>
                 <cit did="1630" cid="4" avtor0="Cvirn Janez"
                         naslov0="Celje-izginjajoči nemški otok na Spodnjem Štajerskem: Od Maribora do Trsta 1850-1914"
                         pubPlace="Maribor" publisher="Pedagoška fakulteta Maribor" year="1998"/>
         </delo>
-        <delo mojID="4172">
+        <delo mojID="4172" cobiss="63511552">
                 <naslov>Celjska knjiga listin</naslov>
                 <cit did="2604" cid="51" avtor0="Kos Dušan" naslov0="Celjska knjiga listin"
                         pubPlace="Ljubljana - Celje"
@@ -20973,7 +20973,7 @@
                         naslov1="Iz zgodovine Celja 1848-1918" pubPlace="Celje"
                         publisher="Muzej novejše zgodovine" year="1998" page="242-243"/>
         </delo>
-        <delo mojID="4181">
+        <delo mojID="4181" cobiss="3059765">
                 <naslov>Celjska partizanska četa in njeno obdobje</naslov>
                 <cit did="1510" cid="90" avtor0="Požun Lojze"
                         naslov0="Celjska partizanska četa in njeno obdobje" pubPlace="Celje"
@@ -20984,27 +20984,27 @@
                 <cit did="236" cid="6" avtor0="Aškerc Anton" naslov0="Celjska romanca"
                         source="Ljubljanski zvon" year="0"/>
         </delo>
-        <delo mojID="4183">
+        <delo mojID="4183" cobiss="429365">
                 <naslov>Celjska zbirka poslikanih panjskih končnic</naslov>
                 <cit did="2032" cid="17" avtor0="Moškon Milena"
                         naslov0="Celjska zbirka poslikanih panjskih končnic"
                         source="Celjski zbornik" year="1967" page="121-132"/>
         </delo>
-        <delo mojID="4185">
+        <delo mojID="4185" cobiss="17638754">
                 <naslov>Celjske čase. Srednjeveško Celje</naslov>
                 <cit did="2237" cid="9" avtor0="Guštin Mitja"
                         naslov0="Celjske čase. Srednjeveško Celje"
                         source="Archaeologia Historica Slovenka" year="2001" volume="3"
                         page="139-193"/>
         </delo>
-        <delo mojID="4187">
+        <delo mojID="4187" cobiss="1246580">
                 <naslov>Celjski denarni zavodi med obema vojnama</naslov>
                 <cit did="247" cid="43" avtor0="Lazarević Žarko"
                         naslov0="Celjski denarni zavodi med obema vojnama"
                         source="Iz zgodovine Celja 1918-1941 : Odsevi preteklosti 3"
                         pubPlace="Celje" year="2001" page="148-157"/>
         </delo>
-        <delo mojID="4188">
+        <delo mojID="4188" cobiss="28626945">
                 <naslov>Celjski grof na žrebcu ali Legenda o strukturi</naslov>
                 <cit did="236" cid="40" avtor0="Rudolf Franček"
                         naslov0="Celjski grof na žrebcu ali Legenda o strukturi" pubPlace="Maribor"
@@ -21040,7 +21040,7 @@
                 <cit did="2053" cid="7" avtor0="Kolšek Vera" naslov0="Celjski lapidarij"
                         source="Kulturni in naravni spomeniki Slovenije" year="1967"/>
         </delo>
-        <delo mojID="4205">
+        <delo mojID="4205" cobiss="1852469">
                 <naslov>Celjski literarni almanah</naslov>
                 <cit did="1232" cid="17" avtor0="Strmšek P." naslov0="Celjski literarni almanah"
                         source="Celjski zbornik 1951" pubPlace="Celje" year="1951" page="240-243"/>
@@ -21051,19 +21051,19 @@
                         naslov0="Celjski muzej III - Numizmatična razstava"
                         source="Kulturni in naravni spomeniki Slovenije" year="1982" issue="112"/>
         </delo>
-        <delo mojID="4208">
+        <delo mojID="4208" cobiss="7297837">
                 <naslov>Celjski muzej skozi čas</naslov>
                 <cit did="2053" cid="4" avtor0="Cvirn Janez" naslov0="Celjski muzej skozi čas"
                         source="Vodnik po zbirkah Pokrajinskega muzeja Celje" pubPlace="Celje"
                         publisher="Pokrajinski muzej Celje" year="1993" page="8-15"/>
         </delo>
-        <delo mojID="4210">
+        <delo mojID="4210" cobiss="14775304">
                 <naslov>Celjski Nemci med prvo svetovno vojno</naslov>
                 <cit did="2438" cid="1" avtor0="Pavlič Jerneja"
                         naslov0="Celjski Nemci med prvo svetovno vojno" source="diplomsko delo"
                         pubPlace="Maribor" year="2006"/>
         </delo>
-        <delo mojID="4211">
+        <delo mojID="4211" cobiss="7437826">
                 <naslov>Celjski polk: ob 70-letnici nastanka slovenske vojske leta 1918</naslov>
                 <cit did="2432" cid="7" avtor0="Švanjcer Janez"
                         naslov0="Celjski polk: ob 70-letnici nastanka slovenske vojske leta 1918"
@@ -21074,18 +21074,18 @@
                 <cit did="994" cid="8" avtor0="Hrašovec Juro" naslov0="Celjski someščani"
                         source="Nova doba" year="0" page="1"/>
         </delo>
-        <delo mojID="4215">
+        <delo mojID="4215" cobiss="40087297">
                 <naslov>Celjski strop</naslov>
                 <cit did="3299" cid="20" avtor0="Stele France" naslov0="Celjski strop"
                         pubPlace="Celje" year="1929"/>
         </delo>
-        <delo mojID="4221">
+        <delo mojID="4221" cobiss="11549243">
                 <naslov>Celjsko muzejsko vprašanje v preteklosti in sedanjosti</naslov>
                 <cit did="96" cid="19" avtor0="Orožen J.&#xA;Orožen J."
                         naslov0="Celjsko muzejsko vprašanje v preteklosti in sedanjosti"
                         source="kronika slovenskih mest II" year="1935" page="62-63"/>
         </delo>
-        <delo mojID="4222">
+        <delo mojID="4222" cobiss="34580224">
                 <naslov>Celjsko nemštvo in problm nacionalne identitete</naslov>
                 <cit did="1783" cid="27" avtor0="Cvirn Janez"
                         naslov0="Celjsko nemštvo in problm nacionalne identitete" source="ZČ"
@@ -21106,7 +21106,7 @@
                         pubPlace="Ljubljana" publisher="Srednja ekonomska šola Ljubljana"
                         year="2010"/>
         </delo>
-        <delo mojID="4225">
+        <delo mojID="4225" cobiss="960983">
                 <naslov>Celostno učenje z vključevanjem IKT in medijev</naslov>
                 <cit did="702" cid="4" avtor0="Dinevski Dejan, Brodnik Andrej"
                         naslov0="Celostno učenje z vključevanjem IKT in medijev"
@@ -21114,13 +21114,13 @@
                         pubPlace="Koper" publisher="Univerza na Primorskem" year="2004" page="76-77"
                 />
         </delo>
-        <delo mojID="4229">
+        <delo mojID="4229" cobiss="2180212">
                 <naslov>Celovita bela knjiga o pravični meji v Istri</naslov>
                 <cit did="1624" cid="39" avtor0="Goljevšček Frane"
                         naslov0="Celovita bela knjiga o pravični meji v Istri" pubPlace="Izola"
                         publisher="Civilna družba Slovenije za mejo v Istri" year="2006"/>
         </delo>
-        <delo mojID="4230">
+        <delo mojID="4230" cobiss="278450176">
                 <naslov>Celovito obnovljen Valvasorjev kompleks</naslov>
                 <cit did="3236" cid="6" avtor0="Černelič Krošelj Alenka, Rep Bunetič Petra"
                         naslov0="Celovito obnovljen Valvasorjev kompleks" pubPlace="Krško"
@@ -21158,7 +21158,7 @@
                         naslov0="Cene in mezde v Ljubljani 1. 1524" source="IMK" year="0" volume="5"
                         page="85"/>
         </delo>
-        <delo mojID="4239">
+        <delo mojID="4239" cobiss="91091">
                 <naslov>Cene obrtnih storitev v mestih slovenskega prostora pred sredo 14.
                         stoletja</naslov>
                 <cit did="2950" cid="12" avtor0="Mihelič Darja"
@@ -21172,7 +21172,7 @@
                         naslov0="Cenedl o Bobi Ddewrion: Agweddau ar Lenyddiaeth Oes Victoria' ('Narod pogumnih ljudi'. Vidiki književnosti viktorijanske dobe)"
                         pubPlace="Llandysul" year="1991"/>
         </delo>
-        <delo mojID="4241">
+        <delo mojID="4241" cobiss="1950217">
                 <naslov>Cenni al Forestiero che visita Pola</naslov>
                 <cit did="1997" cid="25" avtor0="Kandler P."
                         naslov0="Cenni al Forestiero che visita Pola" pubPlace="Trieste"
@@ -21198,7 +21198,7 @@
                         source="Atti e Memorie della Societa Istriana di Archeologia e Storia Patria"
                         pubPlace="Parenzo - Trieste" year="1932" volume="44" page="323-324"/>
         </delo>
-        <delo mojID="4246">
+        <delo mojID="4246" cobiss="1301297">
                 <naslov>Cenni sommari sul censimento délla popolazione a Trieste al 31 dicembre
                         1900</naslov>
                 <cit did="3459" cid="87" avtor0="Frühbauer A."
@@ -21283,7 +21283,7 @@
                         source="Atti e Memorie, Societa Istriana di Archeologia e Storia Patria"
                         pubPlace="Trst" year="2003" page="206-207"/>
         </delo>
-        <delo mojID="4263">
+        <delo mojID="4263" cobiss="7865394">
                 <naslov>Cent'anni della "Ginnastica goriziana"</naslov>
                 <cit did="1317" cid="58" avtor0="Spangher Luciano"
                         naslov0="Cent'anni della &#34;Ginnastica goriziana&#34;" pubPlace="Gorizia"
@@ -21301,7 +21301,7 @@
                         source="Postcolonial Europe. I Ittp:// www.postcolonial-europe.eu/index.php/en/essays/60--central-and-eastern-europe-from-a-postcolonial-per-spective (1. 12. 2010)."
                         year="2009"/>
         </delo>
-        <delo mojID="4266">
+        <delo mojID="4266" cobiss="12880187">
                 <naslov>Central Asia</naslov>
                 <cit did="142" cid="130" avtor0="Mayhew Bradley, Plunkett Richard, Richmond Simon"
                         naslov0="Central Asia" pubPlace="Melbourne, Oakland, London, Paris"
@@ -21315,14 +21315,14 @@
                         source="Exploring civil society" pubPlace="London" publisher="Routledge"
                         page="130-139"/>
         </delo>
-        <delo mojID="4268">
+        <delo mojID="4268" cobiss="1974353">
                 <naslov>Central Europe in the twentieth century : an economic history
                         perspective</naslov>
                 <cit did="374" cid="60" avtor0="Teichova A."
                         naslov0="Central Europe in the twentieth century : an economic history perspective"
                         pubPlace="Aldershot" publisher="Scolar press" year="1997"/>
         </delo>
-        <delo mojID="4269">
+        <delo mojID="4269" cobiss="75754">
                 <naslov>Central problems in Social Theory</naslov>
                 <cit did="3262" cid="10" avtor0="Giddens A."
                         naslov0="Central problems in Social Theory" pubPlace="London"
@@ -21374,7 +21374,7 @@
                         source="Ravenna e il Porto di classe" pubPlace="Bologna" year="1983"
                         page="27-129"/>
         </delo>
-        <delo mojID="4282">
+        <delo mojID="4282" cobiss="558035">
                 <naslov>Ceramica tardomedievale e rinascimentale a Koper-Capodistria</naslov>
                 <cit did="1952" cid="9" avtor0="Cunja R."
                         naslov0="Ceramica tardomedievale e rinascimentale a Koper-Capodistria"
@@ -21382,7 +21382,7 @@
                         pubPlace="Trieste" publisher="Editreg" year="1999" volume="2" page="131-134"
                 />
         </delo>
-        <delo mojID="4283">
+        <delo mojID="4283" cobiss="25356845">
                 <naslov>Ceramiche comuni a Roma e in area romana: produzione, circolazione e
                         tecnologia</naslov>
                 <cit did="1946" cid="18" avtor0="Olcese G."
@@ -21390,7 +21390,7 @@
                         source="Documenti di Archeologia" pubPlace="Mantova" year="2003" volume="28"
                 />
         </delo>
-        <delo mojID="4284">
+        <delo mojID="4284" cobiss="8304482">
                 <naslov>Ceramiche dal Bacchiglione al Museo di S. Martino della Vaneza di Cervarese
                         S. Croce-Padova</naslov>
                 <cit did="1952" cid="5" avtor0="Cozza F."
@@ -21441,7 +21441,7 @@
                         source="Saur Allgemeines Künstlerlexikon. Die Bildenden Künstler aller Zeiten und Völker"
                         pubPlace="München-Leipzig" year="1997" page="558"/>
         </delo>
-        <delo mojID="4291">
+        <delo mojID="4291" cobiss="512216107">
                 <naslov>Cerkev Device Marije na Kamnu. Kulturne poti 2000: vodnik po
                         spomenikih</naslov>
                 <cit did="2235" cid="8" avtor0="Kurelac Svjetlana, Peskar Robert"
@@ -21450,27 +21450,27 @@
                         publisher="Ministrstvo za kulturo, Uprava R Slovenije za kulturno dediščino"
                         year="2000" page="135-141"/>
         </delo>
-        <delo mojID="4299">
+        <delo mojID="4299" cobiss="5806600">
                 <naslov>Cerkev na Slovenskem v srednjem veku</naslov>
                 <cit did="2590" cid="35" avtor0="Mlinarič Jože"
                         naslov0="Cerkev na Slovenskem v srednjem veku"
                         source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje" year="1991"
                         page="75-84"/>
         </delo>
-        <delo mojID="4301">
+        <delo mojID="4301" cobiss="61816832">
                 <naslov>Cerkev sv. Florijana v Ljubljani</naslov>
                 <cit did="2791" cid="17" avtor0="Kovačič Lojze"
                         naslov0="Cerkev sv. Florijana v Ljubljani" pubPlace="Ljubljana"
                         publisher="Župnijski urad sv. Jakoba" year="1996"/>
         </delo>
-        <delo mojID="4302">
+        <delo mojID="4302" cobiss="12236130">
                 <naslov>Cerkev sv. Jožefa na Vinjem vrhu pri Beli Cerkvi</naslov>
                 <cit did="1298" cid="98" avtor0="Peskar Robert"
                         naslov0="Cerkev sv. Jožefa na Vinjem vrhu pri Beli Cerkvi"
                         naslov1="Stavbna zgodovina in problem prvotne funkcije"
                         source="Varstvo spomenikov" year="1998" volume="38" page="32 ..."/>
         </delo>
-        <delo mojID="4303">
+        <delo mojID="4303" cobiss="1017811">
                 <naslov>Cerkev sv. Kancijana v Škocjanu pri Divači in njeni napisi</naslov>
                 <cit did="424" cid="5" avtor0="Premrl Božidar"
                         naslov0="Cerkev sv. Kancijana v Škocjanu pri Divači in njeni napisi"
@@ -21483,7 +21483,7 @@
                         naslov0="Cerkev sv. Klementa v Rimu in sv. brata Ciril in Metod"
                         pubPlace="Čas" year="1910" volume="4" page="35-45"/>
         </delo>
-        <delo mojID="4306">
+        <delo mojID="4306" cobiss="68766976">
                 <naslov>Cerkev sv. Pankracija na Gradu nad Starim trgom</naslov>
                 <cit did="2235" cid="7" avtor0="Kurelac Svjetlana"
                         naslov0="Cerkev sv. Pankracija na Gradu nad Starim trgom"
@@ -21491,45 +21491,45 @@
                         publisher="Mestna občina Slovenj Gradec in Zavod za varstvo naravne in kulturne dediščine Maribor"
                         year="1997"/>
         </delo>
-        <delo mojID="4309">
+        <delo mojID="4309" cobiss="6008633">
                 <naslov>Cerkev svetega Jakoba v Ljubljani</naslov>
                 <cit did="1298" cid="47" avtor0="Prelovšek Damjan"
                         naslov0="Cerkev svetega Jakoba v Ljubljani" pubPlace="Ljubljana"
                         publisher="Župnijski urad sv. Jakoba" year="1985" page="6-8, 13"/>
         </delo>
-        <delo mojID="4312">
+        <delo mojID="4312" cobiss="66414080">
                 <naslov>Cerkljanska skozi čas: prispevki za zgodovino Cerkljanske 2.</naslov>
                 <cit did="2556" cid="13" avtor0="Prezelj Viktor"
                         naslov0="Cerkljanska skozi čas: prispevki za zgodovino Cerkljanske 2."
                         pubPlace="Idrija" publisher="Založba Bogataj" year="1997"/>
         </delo>
-        <delo mojID="4313">
+        <delo mojID="4313" cobiss="37762">
                 <naslov>Cerkniško jezero in okolica</naslov>
                 <cit did="2625" cid="48" avtor0="Kabaj Miha" naslov0="Cerkniško jezero in okolica"
                         pubPlace="Ljubljana" publisher="Učiteljska tiskarna. Ljubljana." year="1925"
                 />
         </delo>
-        <delo mojID="4317">
+        <delo mojID="4317" cobiss="36520192">
                 <naslov>Cerkve na Kočevskem nekoč in danes</naslov>
                 <cit did="1298" cid="127" avtor0="Zupan Gojko"
                         naslov0="Cerkve na Kočevskem nekoč in danes" pubPlace="Kočevje"
                         publisher="Muzej, Župnija" year="1993" page="8 ..."/>
         </delo>
-        <delo mojID="4318">
+        <delo mojID="4318" cobiss="36520192">
                 <naslov>Cerkve na Kočevskem nekoč in danes: Die Gotscheer Kirchen einst und
                         heute</naslov>
                 <cit did="1578" cid="9" avtor0="Zupan Gojko, Ferenc Mitja, France M. Dolinar"
                         naslov0="Cerkve na Kočevskem nekoč in danes: Die Gotscheer Kirchen einst und heute"
                         pubPlace="Kočevje" year="1993" page="42"/>
         </delo>
-        <delo mojID="4322">
+        <delo mojID="4322" cobiss="36520192">
                 <naslov>Cerkvena Kočevskem nekoč in danes: Die Gottscheer Kirchen einst und
                         heute</naslov>
                 <cit did="2567" cid="21" avtor0="Zupan Gojko, Ferenc Mitja, Dolinar France M"
                         naslov0="Cerkvena Kočevskem nekoč in danes: Die Gottscheer Kirchen einst und heute"
                         pubPlace="Ljubljana" year="1993"/>
         </delo>
-        <delo mojID="4323">
+        <delo mojID="4323" cobiss="17418285">
                 <naslov>Cerkvena umetnost na naših tleh v primezu razsvetljenega absolutizma in
                         janzenističnega rigorizma</naslov>
                 <cit did="1913" cid="26" avtor0="Lavrič Ana"
@@ -21537,7 +21537,7 @@
                         source="Vita artis perennis: Ob osemdesetletnici akademika Emilijana Cevca"
                         pubPlace="Ljubljana" publisher="ZRC SAZU" year="2000" page="439-460"/>
         </delo>
-        <delo mojID="4324">
+        <delo mojID="4324" cobiss="644724">
                 <naslov>Cerkvena uprava in Slovenci</naslov>
                 <cit did="723" cid="3" avtor0="Dolinar France M."
                         naslov0="Cerkvena uprava in Slovenci"
@@ -21554,7 +21554,7 @@
                         publisher="Hrvatski zemljopis : Meridijani" year="2004" volume="3" issue="5"
                         page="89-97"/>
         </delo>
-        <delo mojID="4329">
+        <delo mojID="4329" cobiss="27599873">
                 <naslov>Cerkvene razmere med Slovenci in ustanovitev ljubljanske škofije</naslov>
                 <cit did="1788" cid="5" avtor0="Gruden Josip"
                         naslov0="Cerkvene razmere med Slovenci in ustanovitev ljubljanske škofije"
@@ -21578,7 +21578,7 @@
                         naslov0="Cerkveni spomeniki lavantinske škofije  II.: Konjiška dekanija"
                         pubPlace="Maribor" year="1909"/>
         </delo>
-        <delo mojID="4339">
+        <delo mojID="4339" cobiss="37305089">
                 <naslov>Cerkveni zvonovi v Lavantinski škofiji</naslov>
                 <cit did="2444" cid="2" avtor0="Kovačič Franc"
                         naslov0="Cerkveni zvonovi v Lavantinski škofiji"
@@ -21591,7 +21591,7 @@
                         naslov0="Cerkvenopravna ureditev slovenskega prostora"
                         source="Zgodovinski časopis" year="1994" volume="48" issue="1" page="59"/>
         </delo>
-        <delo mojID="4347">
+        <delo mojID="4347" cobiss="16946688">
                 <naslov>Cerkvenoupravna ureditev ilirskih provinc 1809-1813</naslov>
                 <cit did="3526" cid="7" avtor0="Dolinar F. M."
                         naslov0="Cerkvenoupravna ureditev ilirskih provinc 1809-1813"
@@ -21616,7 +21616,7 @@
                         naslov0="Cernunnos v Sloveniji (Cernunnos in Slowenien)" source="Situla"
                         year="1961" volume="4" page="31-48"/>
         </delo>
-        <delo mojID="4354">
+        <delo mojID="4354" cobiss="7826513">
                 <naslov>Certain aspects of the continuity and reception of Roman inheritance law in
                         the statutes of Slovenian littoral towns. Slovenian law review</naslov>
                 <cit did="2356" cid="1" avtor0="Kambič Marko"
@@ -21629,12 +21629,12 @@
                         naslov0="Certain language skills in children" pubPlace="Minneapolis"
                         publisher="University of Minneapolis Press" year="1957"/>
         </delo>
-        <delo mojID="4357">
+        <delo mojID="4357" cobiss="169716">
                 <naslov>Cervia immagine e progetto</naslov>
                 <cit did="3085" cid="13" avtor0="Gardini G." naslov0="Cervia immagine e progetto"
                         pubPlace="Ravenna" publisher="Longo" year="1998"/>
         </delo>
-        <delo mojID="4358">
+        <delo mojID="4358" cobiss="24808960">
                 <naslov>Cesare Balbo v Ljubljani</naslov>
                 <cit did="2166" cid="24" avtor0="Marušič B." naslov0="Cesare Balbo v Ljubljani"
                         source="Zgodovinski časopis" year="1991" volume="45" page="211-215"/>
@@ -21675,7 +21675,7 @@
                         naslov0="Cesta čez Ljubelj in ljubeljski piramidi," source="IMK" year="0"
                         volume="3" page="218-225"/>
         </delo>
-        <delo mojID="4365">
+        <delo mojID="4365" cobiss="22849837">
                 <naslov>Ceste : gospodarski dejavnik v slovenski družbi novega veka?</naslov>
                 <cit did="854" cid="27" avtor0="Holz Eva"
                         naslov0="Ceste : gospodarski dejavnik v slovenski družbi novega veka?"
@@ -21699,13 +21699,13 @@
                         source="Spominski zbornik Slovenije : ob&#xA;dvajsetletnici kraljevine Jugoslavije"
                         pubPlace="Ljubljana" year="1939" page="424"/>
         </delo>
-        <delo mojID="4369">
+        <delo mojID="4369" cobiss="13653549">
                 <naslov>Cestne povezave Goriške in Kranjske v 19. stoletju</naslov>
                 <cit did="2640" cid="68" avtor0="Holz Eva"
                         naslov0="Cestne povezave Goriške in Kranjske v 19. stoletju" source="ZČ"
                         year="1987" volume="41" page="109-114"/>
         </delo>
-        <delo mojID="4370">
+        <delo mojID="4370" cobiss="20855096">
                 <naslov>Cestno omrežje na slovenskem Štajerskem v prvi polovici 19.
                         stoletja</naslov>
                 <cit did="2640" cid="22" avtor0="Curk Jože"
@@ -21845,13 +21845,13 @@
                         source="Ciitizenship, Nationality and Migration in Europe"
                         pubPlace="London, New York" publisher="Routledge" year="1996" page="17-29"/>
         </delo>
-        <delo mojID="4390">
+        <delo mojID="4390" cobiss="24343597">
                 <naslov>Changing Cultures in Early Byzantium</naslov>
                 <cit did="761" cid="8" avtor0="Cameron Averil"
                         naslov0="Changing Cultures in Early Byzantium" source="Variorum"
                         pubPlace="London" year="1996"/>
         </delo>
-        <delo mojID="4392">
+        <delo mojID="4392" cobiss="7824992">
                 <naslov>Changing History</naslov>
                 <cit did="420" cid="30" avtor0="Kappus Elke-Nicole" naslov0="Changing History"
                         naslov1="Ethnic Identity management in Trieste"
@@ -21916,7 +21916,7 @@
                         source="Karl der Grosse : Lebenswerk und Nachleben" pubPlace="Düsseldorf"
                         publisher="Schwann" year="1965" page="349-419"/>
         </delo>
-        <delo mojID="4403">
+        <delo mojID="4403" cobiss="18197602">
                 <naslov>Charles Nodier. Episodes et souvenirs de sa vie</naslov>
                 <cit did="3525" cid="1" avtor0="Mennessier Nodier M."
                         naslov0="Charles Nodier. Episodes et souvenirs de sa vie" pubPlace="Paris"
@@ -22108,13 +22108,13 @@
                         source="J. of the Royal Anthr. Institute" year="1999" issue="5" page="13-26"
                 />
         </delo>
-        <delo mojID="4440">
+        <delo mojID="4440" cobiss="512488320">
                 <naslov>Children of the Revolution, The French 1799–1914</naslov>
                 <cit did="2766" cid="38" avtor0="Gildea Robert"
                         naslov0="Children of the Revolution, The French 1799–1914" pubPlace="London"
                         year="2008" page="247-288"/>
         </delo>
-        <delo mojID="4441">
+        <delo mojID="4441" cobiss="7717453">
                 <naslov>Children's ethnic socialization. Pluralism and development</naslov>
                 <cit did="2891" cid="30" avtor0="Phinney Jean S." avtor1="Rotheram May jane"
                         naslov0="Children's ethnic socialization. Pluralism and development"
@@ -22143,7 +22143,7 @@
                         source="http://www.migrationinformation. org/Profiles/display.cfm?ID=219"
                         year="2004"/>
         </delo>
-        <delo mojID="4446">
+        <delo mojID="4446" cobiss="1359453">
                 <naslov>China from the Opium Wars to the 1911 Revolution</naslov>
                 <cit did="1450" cid="4" avtor0="Chesneaux Jean, Bastid Marianne, Berge Marie-Claire"
                         naslov0="China from the Opium Wars to the 1911 Revolution"
@@ -22156,7 +22156,7 @@
                         naslov0="China on the Western front: Britain’s Chinese Work Force in the First World War"
                         publisher="samozaložba" year="1982"/>
         </delo>
-        <delo mojID="4448">
+        <delo mojID="4448" cobiss="7248904">
                 <naslov>China Since 1911</naslov>
                 <cit did="142" cid="151" avtor0="Phillips T. Richard" naslov0="China Since 1911"
                         pubPlace="Houndmills, Basingstoke, Hampshire, London"
@@ -22183,7 +22183,7 @@
                         naslov0="China's Diplomatic Evangelists : Brockley, Liam Matthew : Journey to the East : the Jesuit Mission ti China 1579-1724 (recenzija knjige)"
                         source="The Tablet (5. 5. 2007)" year="2007" page="24"/>
         </delo>
-        <delo mojID="4452">
+        <delo mojID="4452" cobiss="28641280">
                 <naslov>Chinas große Kaiser (Ihre Geschichte - Ihre Kultur - Ihre
                         Leistungen)</naslov>
                 <cit did="142" cid="64" avtor0="Gottschalk Gisela"
@@ -22229,7 +22229,7 @@
                         naslov0="Chinese Communist United Front and Economic Plunder of Overseas Chinese"
                         pubPlace="Taipei" publisher="World Anti-Communist League" year="1980"/>
         </delo>
-        <delo mojID="4459">
+        <delo mojID="4459" cobiss="7263793">
                 <naslov>Chinese history</naslov>
                 <cit did="142" cid="193" avtor0="Wilkinson Endymion" naslov0="Chinese history"
                         pubPlace="Cambridge - London" publisher="Harvard University Press"
@@ -22352,7 +22352,7 @@
                         source="Journal of Lute Society of America" year="1970" volume="3"
                         page="35-52"/>
         </delo>
-        <delo mojID="4479">
+        <delo mojID="4479" cobiss="8931149">
                 <naslov>Chosen peoples: Sacred sources of national identity</naslov>
                 <cit did="2888" cid="24" avtor0="Smith Anthony D."
                         naslov0="Chosen peoples: Sacred sources of national identity"
@@ -22364,7 +22364,7 @@
                         naslov0="Christiados sive de passione Domini libri XVII" pubPlace="Brugis"
                         publisher="typis Kerchouianis" year="0"/>
         </delo>
-        <delo mojID="4483">
+        <delo mojID="4483" cobiss="19030829">
                 <naslov>Christianitas Daco-Romana: Florilegium studiorum</naslov>
                 <cit did="2210" cid="20" avtor0="Popescu E."
                         naslov0="Christianitas Daco-Romana: Florilegium studiorum"
@@ -22423,7 +22423,7 @@
                         naslov0="Chronica fratrum minorum observantiae" pubPlace="Romae"
                         publisher="Typis Sallustianis" year="1902"/>
         </delo>
-        <delo mojID="4497">
+        <delo mojID="4497" cobiss="77938688">
                 <naslov>Chronicle of the Chinese Emperors</naslov>
                 <cit did="142" cid="145" avtor0="Paludan Ann"
                         naslov0="Chronicle of the Chinese Emperors"
@@ -22463,7 +22463,7 @@
                 <cit did="3022" cid="167" avtor0="Belloc Marc" avtor1="Bonnet Jean Pierre"
                         naslov0="Chronologies 1914-1945" pubPlace="Paris" year="1973"/>
         </delo>
-        <delo mojID="4506">
+        <delo mojID="4506" cobiss="9924661">
                 <naslov>Chronologische Geschichte des Herzogthums Steyermark</naslov>
                 <cit did="441" cid="5" avtor0="Winklern Johann Baptist von"
                         naslov0="Chronologische Geschichte des Herzogthums Steyermark"
@@ -22491,25 +22491,25 @@
                         naslov0="Chronology ofthe Ancient World (Aspects of Greek and Roman Life)"
                         pubPlace="Ithaca - New York" year="1969"/>
         </delo>
-        <delo mojID="4510">
+        <delo mojID="4510" cobiss="22693633">
                 <naslov>Chubby Was Here</naslov>
                 <cit did="2390" cid="7" avtor0="Vojin Kovič Chubby" naslov0="Chubby Was Here"
                         pubPlace="Koper" year="1987" page="8"/>
         </delo>
-        <delo mojID="4511">
+        <delo mojID="4511" cobiss="13693997">
                 <naslov>Church and State Attitudes towards Emigration in the interwar
                         Period</naslov>
                 <cit did="2671" cid="16" avtor0="Drnovšek Marjan"
                         naslov0="Church and State Attitudes towards Emigration in the interwar Period"
                         source="Slov. stud." year="1999" issue="18" page="61-80"/>
         </delo>
-        <delo mojID="4517">
+        <delo mojID="4517" cobiss="12924680">
                 <naslov>Churchill &amp; Secret Service</naslov>
                 <cit did="1782" cid="307" avtor0="Stafford David"
                         naslov0="Churchill &amp; Secret Service" pubPlace="London"
                         publisher="Abacus" year="1997"/>
         </delo>
-        <delo mojID="4518">
+        <delo mojID="4518" cobiss="217738240">
                 <naslov>Churchill: Visionary. Statesman. Historian</naslov>
                 <cit did="2262" cid="13" avtor0="Lukacs J."
                         naslov0="Churchill: Visionary. Statesman. Historian"
@@ -22581,7 +22581,7 @@
                         naslov0="Cigarettes: Anatomy of an Industry from Seed to Smoke"
                         pubPlace="New York" publisher="The New Press" year="2002"/>
         </delo>
-        <delo mojID="4533">
+        <delo mojID="4533" cobiss="113489664">
                 <naslov>Ciklus fresk v podružnični cerkvi sv. Janeza v Šentjanžu nad
                         Dravčami</naslov>
                 <cit did="2235" cid="9" avtor0="Košan Marko"
@@ -22597,13 +22597,13 @@
                         pubPlace="Ljubljana" publisher="Zavod Republike Slovenije za šolstvo"
                         year="2007"/>
         </delo>
-        <delo mojID="4535">
+        <delo mojID="4535" cobiss="42247168">
                 <naslov>Cilji šolske športne vzgoje : uvodna izhodišča</naslov>
                 <cit did="708" cid="1" avtor0="Cankar F."
                         naslov0="Cilji šolske športne vzgoje : uvodna izhodišča"
                         pubPlace="Ljubljana" publisher="Zavod republike Slovenije" year="1994"/>
         </delo>
-        <delo mojID="4536">
+        <delo mojID="4536" cobiss="4608841">
                 <naslov>Ciljno in medpredmetno načrtovanje v devetletni osnovni šoli</naslov>
                 <cit did="2467" cid="3" avtor0="Krapše T."
                         naslov0="Ciljno in medpredmetno načrtovanje v devetletni osnovni šoli"
@@ -22621,7 +22621,7 @@
                         naslov1="Stadt, Landschaft, Geschichte" pubPlace="Celje" year="1943"
                         page="25"/>
         </delo>
-        <delo mojID="4539">
+        <delo mojID="4539" cobiss="1187125">
                 <naslov>Cilli 1867-1892, Fünfundzwanzig Jahre selbständigen Gemeindewesens</naslov>
                 <cit did="3241" cid="28" avtor0="Fürstenbauer Thomas"
                         naslov0="Cilli 1867-1892, Fünfundzwanzig Jahre selbständigen Gemeindewesens"
@@ -22635,7 +22635,7 @@
                         source="Germanistik im Kontaktraum Europa II. Beiträge zur Literatur"
                         pubPlace="Ljubljana" year="2002" page="339-357"/>
         </delo>
-        <delo mojID="4544">
+        <delo mojID="4544" cobiss="602607">
                 <naslov>Cinema e fotografia futurista</naslov>
                 <cit did="2328" cid="17" avtor0="Lista G." naslov0="Cinema e fotografia futurista"
                         pubPlace="Milano" publisher="Skira" year="2001"/>
@@ -22710,14 +22710,14 @@
                         publisher="The Norwegian Society of Sport History, The International Society for the History of Physical Education and Sport"
                         year="1994" page="131-140"/>
         </delo>
-        <delo mojID="4555">
+        <delo mojID="4555" cobiss="24968450">
                 <naslov>Ciriaco d'Ancona v Dubrovniku</naslov>
                 <cit did="328" cid="34" avtor0="Kokole Stanko"
                         naslov0="Ciriaco d'Ancona v Dubrovniku"
                         naslov1="Renesančna epigrafika, arheologija in obujanje antike v humanističnem okolju mestne državice sredi petnajstega stoletja"
                         source="Arheološki vestnik" year="1990" volume="41" page="663-697"/>
         </delo>
-        <delo mojID="4556">
+        <delo mojID="4556" cobiss="119519232">
                 <naslov>Ciriaco de Urtecho: pravda iz ljubezni. Nekaj misli o taktični večplastnosti
                         pravnega razmišljanja</naslov>
                 <cit did="2632" cid="120" avtor0="Trazegnies Granda F. de"
@@ -22729,12 +22729,12 @@
                 <cit did="3333" cid="4" avtor0="Filli Marta" naslov0="Ciril Kosmač (1910-1980)"
                         source="Rast" year="1995" issue="31-32"/>
         </delo>
-        <delo mojID="4558">
+        <delo mojID="4558" cobiss="44651618">
                 <naslov>Ciril Kosmač na Dolenjskem</naslov>
                 <cit did="3333" cid="12" avtor0="Mercina Marija"
                         naslov0="Ciril Kosmač na Dolenjskem" source="Rast" year="2010" issue="4-5"/>
         </delo>
-        <delo mojID="4560">
+        <delo mojID="4560" cobiss="12286514">
                 <naslov>Ciril Kosmač: zdaj nič več ne pišem</naslov>
                 <cit did="3333" cid="17" avtor0="Renko Stanislav"
                         naslov0="Ciril Kosmač: zdaj nič več ne pišem" source="Jadranski koledar"
@@ -22790,7 +22790,7 @@
                         source="Towns in transition: Urban Evolution in Late Antiquity and the Early Middle Ages"
                         publisher="Aldershot - Scolar Press" year="1996" page="213-234"/>
         </delo>
-        <delo mojID="4571">
+        <delo mojID="4571" cobiss="703662">
                 <naslov>Citizen Governance</naslov>
                 <cit did="361" cid="3" avtor0="Box R.C." naslov0="Citizen Governance"
                         naslov1="Leading American Communities into the 21th Century"
@@ -22827,7 +22827,7 @@
                         pubPlace="Sapporo" publisher="Slavic Research Center, Hokkaido University"
                         year="2004"/>
         </delo>
-        <delo mojID="4577">
+        <delo mojID="4577" cobiss="11206221">
                 <naslov>Citizenship and Integration: General Considerations and Some Possible
                         Impacts of the EU Citizenship on (Re)integration of Immigrants</naslov>
                 <cit did="2648" cid="82" avtor0="Žagar Mitja"
@@ -22856,7 +22856,7 @@
                         source="The Meaning of Liberalism: East and West" pubPlace="Budapest"
                         publisher="Central European University Press" page="29-46"/>
         </delo>
-        <delo mojID="4583">
+        <delo mojID="4583" cobiss="13606152">
                 <naslov>Citizenship and National Identity</naslov>
                 <cit did="3043" cid="15" avtor0="Miller D."
                         naslov0="Citizenship and National Identity" pubPlace="Cambridge"
@@ -22876,7 +22876,7 @@
                         source="Ethnic and racial studies" year="1998" volume="21" issue="3"
                         page="408-127"/>
         </delo>
-        <delo mojID="4589">
+        <delo mojID="4589" cobiss="1381705">
                 <naslov>Citizenship and the European Community</naslov>
                 <cit did="2703" cid="36" avtor0="Meehan Elizabeth M."
                         naslov0="Citizenship and the European Community"
@@ -22903,7 +22903,7 @@
                         source="International Migration Review" year="1992" volume="26" issue="2"
                         page="269-291"/>
         </delo>
-        <delo mojID="4595">
+        <delo mojID="4595" cobiss="10771277">
                 <naslov>Citizenship Today: Global Perspectives and Practices</naslov>
                 <cit did="2853" cid="4" avtor0="Aleinikoff Thomas A."
                         naslov0="Citizenship Today: Global Perspectives and Practices"
@@ -22971,12 +22971,12 @@
                         source="http://www.migpolgroup.com/multiattachments/2740/DocumentName/civiccitizenship.pdf"
                         pubPlace="Brussels" publisher="Migration Policy Group" year="2008"/>
         </delo>
-        <delo mojID="4606">
+        <delo mojID="4606" cobiss="341124">
                 <naslov>Civic realism.</naslov>
                 <cit did="2156" cid="42" avtor0="Rowe Peter" naslov0="Civic  realism."
                         pubPlace="Cambridge, London" publisher="The MIT Press" year="1997"/>
         </delo>
-        <delo mojID="4608">
+        <delo mojID="4608" cobiss="3130930">
                 <naslov>Cividale del Friuli</naslov>
                 <cit did="1205" cid="4" avtor0="Bosio Luciano" naslov0="Cividale del Friuli"
                         naslov1="La storia" pubPlace="Udine" year="1977" page="85"/>
@@ -22989,18 +22989,18 @@
                         naslov0="Civil Military Conflict and theSouth Slav Question in the Habsburg Monarchy : A Political Biography of Franz Conrad von Hötzendorf : doktorska disertacija"
                         pubPlace="Nebraska" publisher="University of Nabraska" year="1996"/>
         </delo>
-        <delo mojID="4610">
+        <delo mojID="4610" cobiss="130766">
                 <naslov>Civil Resistance in Kosovo</naslov>
                 <cit did="2715" cid="21" avtor0="Howard Clark" naslov0="Civil Resistance in Kosovo"
                         pubPlace="London, Sterling" publisher="Pluto Press" year="2000"/>
         </delo>
-        <delo mojID="4611">
+        <delo mojID="4611" cobiss="497757">
                 <naslov>Civil Society and Political Theory</naslov>
                 <cit did="2012" cid="8" avtor0="Cohen J., Arato A."
                         naslov0="Civil Society and Political Theory" pubPlace="Cambridge"
                         publisher="MIT Press" year="1992"/>
         </delo>
-        <delo mojID="4612">
+        <delo mojID="4612" cobiss="2691421">
                 <naslov>Civil society and the State</naslov>
                 <cit did="420" cid="32" avtor0="Keane John" naslov0="Civil society and the State"
                         naslov1="New European Perspectives" pubPlace="London-New York"
@@ -23036,18 +23036,18 @@
                         pubPlace="Pariz" publisher="Unesco" year="2002" volume="54" issue="4"
                         page="483-490"/>
         </delo>
-        <delo mojID="4617">
+        <delo mojID="4617" cobiss="18488321">
                 <naslov>Civilizacija</naslov>
                 <cit did="2831" cid="2" avtor0="Clark Kenneth" naslov0="Civilizacija"
                         pubPlace="Ljubljana" publisher="Cankarjeva založba" year="1972"/>
         </delo>
-        <delo mojID="4620">
+        <delo mojID="4620" cobiss="18488321">
                 <naslov>Civilizacija: oseben pogled</naslov>
                 <cit did="3071" cid="19" avtor0="Clark Kenneth"
                         naslov0="Civilizacija: oseben pogled" pubPlace="Ljubljana"
                         publisher="Cankarjeva založba" year="1972"/>
         </delo>
-        <delo mojID="4622">
+        <delo mojID="4622" cobiss="6205489">
                 <naslov>Civilizacija srednjovjekovnog zapada</naslov>
                 <cit did="1481" cid="6" avtor0="Le Goff J."
                         naslov0="Civilizacija srednjovjekovnog zapada" pubPlace="Zagreb" year="1998"
@@ -23068,21 +23068,21 @@
                         naslov1="doktorska disertacija" pubPlace="Lincoln"
                         publisher="University of Nebraska" year="1996"/>
         </delo>
-        <delo mojID="4627">
+        <delo mojID="4627" cobiss="3681310">
                 <naslov>Civilna družba: poskusi za oživitev močne demokracije</naslov>
                 <cit did="2012" cid="5" avtor0="Barber B."
                         naslov0="Civilna družba: poskusi za oživitev močne demokracije"
                         source="Nova revija" year="2000" volume="19" issue="213-214" page="252-262"
                 />
         </delo>
-        <delo mojID="4628">
+        <delo mojID="4628" cobiss="2378100">
                 <naslov>Civilne žrtve druge svetovne vojne in povojnega nasilja na Primorskem: (10.
                         junij 1940 - februar 1946)</naslov>
                 <cit did="2299" cid="161" avtor0="Tominšek Rihtar Tadeja"
                         naslov0="Civilne žrtve druge svetovne vojne in povojnega nasilja na Primorskem: (10. junij 1940 - februar 1946)"
                         source="Prispevki za novejšo zgodovino" year="2007" issue="2" page="63-76"/>
         </delo>
-        <delo mojID="4630">
+        <delo mojID="4630" cobiss="17856861">
                 <naslov>Civilno-družbene asociacije kot sistem: k pojmu civilne družbe v
                         sistemsko-teoretski perspektivi</naslov>
                 <cit did="2012" cid="29" avtor0="Makarovič M."
@@ -23193,7 +23193,7 @@
                         naslov0="Claude Steele has scores to settle"
                         source="New York Times Magazine" year="1995" issue="sept 17"/>
         </delo>
-        <delo mojID="4648">
+        <delo mojID="4648" cobiss="114213888">
                 <naslov>Claudio Magris: Trst, obmejna identiteta</naslov>
                 <cit did="2136" cid="17" avtor0="Ara Angelo"
                         naslov0="Claudio Magris: Trst, obmejna identiteta" pubPlace="Ljubljana"
@@ -23213,14 +23213,14 @@
                         source="Arheološki vestnik" pubPlace="Ljubljana" year="1987" volume="38"
                         page="413-433"/>
         </delo>
-        <delo mojID="4652">
+        <delo mojID="4652" cobiss="125509632">
                 <naslov>Claustra Alpium Iuliarum - Rimski zid v Sloveniji, sektor Lanišče</naslov>
                 <cit did="2015" cid="6" avtor0="Frelih M."
                         naslov0="Claustra Alpium Iuliarum - Rimski zid v Sloveniji, sektor Lanišče"
                         naslov1="Roman wall in Slovenia, section Lanišče" pubPlace="Logatec"
                         publisher="Turistično društvo" year="2003"/>
         </delo>
-        <delo mojID="4653">
+        <delo mojID="4653" cobiss="108074752">
                 <naslov>Claustra Alpium Iuliarum - Rimski zid v Sloveniji, sektor Verd - Zaplana nad
                         Vrhniko / Roman wall in Slovenia, section Verd - Zaplana above Vrhnika,
                         Občina Vrhnika, Muzejsko društvo</naslov>
@@ -23242,7 +23242,7 @@
                         source="Poročilo o raziskovanju paleoliia. neolila in eneolila v Sloveniji 21."
                         pubPlace="Ljublajna" page="7-14"/>
         </delo>
-        <delo mojID="4656">
+        <delo mojID="4656" cobiss="9137250">
                 <naslov>Clay tokens - accounting before writing in Eurasia</naslov>
                 <cit did="381" cid="5" avtor0="Budja Mihael"
                         naslov0="Clay tokens - accounting before writing in Eurasia"
@@ -23270,7 +23270,7 @@
                         source="Now the Men 's Voices" pubPlace="Westport" publisher="Praeger"
                         year="1995"/>
         </delo>
-        <delo mojID="4660">
+        <delo mojID="4660" cobiss="29844525">
                 <naslov>Clerick Ludwig</naslov>
                 <cit did="3538" cid="12" avtor0="Lubej Uroš" naslov0="Clerick Ludwig"
                         source="Saur Allgemeines Künstlerlexikon. Die Bildenden Künstler aller Zeiten und Völker"
@@ -23281,12 +23281,12 @@
                 <cit did="2718" cid="13" avtor0="Grill Vatro" naslov0="Clevelandska Enakopravnost"
                         source="Slovenski izseljenski koledar 1974" year="1973" page="288-293"/>
         </delo>
-        <delo mojID="4663">
+        <delo mojID="4663" cobiss="4339250">
                 <naslov>Clima Goritiense</naslov>
                 <cit did="2363" cid="24" avtor0="Musnig A." naslov0="Clima Goritiense"
                         pubPlace="Goritiae" publisher="Valerii de Valeriis" year="0"/>
         </delo>
-        <delo mojID="4664">
+        <delo mojID="4664" cobiss="3596296">
                 <naslov>Climate Data and Resources</naslov>
                 <cit did="300" cid="7" avtor0="Linacre Edward" naslov0="Climate Data and Resources"
                         pubPlace="London" publisher="Routledge" year="1992"/>
@@ -23362,7 +23362,7 @@
                         naslov0="Codex diplomaticus Austriaco-Frisingensis"
                         source="Fontes rerum Aiutriacarum II" pubPlace="Wien" year="0" volume="31"/>
         </delo>
-        <delo mojID="4677">
+        <delo mojID="4677" cobiss="37927010">
                 <naslov>Codex diplomaticus comitum de Frangepanibus 1454-1527</naslov>
                 <cit did="163" cid="30" avtor0="Thallóczy Lajos, Barabás Sam"
                         naslov0="Codex diplomaticus comitum de Frangepanibus 1454-1527"
@@ -23410,7 +23410,7 @@
                         naslov0="Codice Penale reso esecutivo per italiano annotato per le Pro-vincie Napoletane con la Legge del 17 febbraio 1861 messo in relazione con le abo-lite Leggi penali dell'ex Regno delle Due Sicilie, col Codice Francese, e con tutti i Codici italiani che imper"
                         pubPlace="Napoli" publisher="Presso Giuseppe Marghieri Editore" year="0"/>
         </delo>
-        <delo mojID="4687">
+        <delo mojID="4687" cobiss="11062093">
                 <naslov>Codifying Cyberspace. Communications self-regulation in the age of Internet
                         convergence</naslov>
                 <cit did="2672" cid="32" avtor0="Tambini Damian" avtor1="Leonardi Danilo et al"
@@ -23444,7 +23444,7 @@
                         naslov0="CofradÃ­a y Compadrazgo en Espana e Hispano-América"
                         source="Gvatemala Indigena" year="1961" volume="1" page="107-147"/>
         </delo>
-        <delo mojID="4695">
+        <delo mojID="4695" cobiss="38319458">
                 <naslov>Cognitive English Grammar</naslov>
                 <cit did="3012" cid="21" avtor0="Radden, G., Dirven, R."
                         naslov0="Cognitive English Grammar" pubPlace="Amsterdam - Philadelphia"
@@ -23463,7 +23463,7 @@
                         naslov0="Cohors I Montanorum, Studien zu den Militärgrenzen Roms III. Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg"
                         pubPlace="Stuttgart" year="1986" page="782-786"/>
         </delo>
-        <delo mojID="4698">
+        <delo mojID="4698" cobiss="38311725">
                 <naslov>Cohors: The evidence for and a short history of the auxiliary infantry units
                         of the Imperial Roman Army</naslov>
                 <cit did="1976" cid="115" avtor0="Spaul J."
@@ -23471,7 +23471,7 @@
                         source="BAR International Series" pubPlace="Oxford" publisher="Archaeopress"
                         year="2000" volume="841"/>
         </delo>
-        <delo mojID="4699">
+        <delo mojID="4699" cobiss="5475168">
                 <naslov>Cohortes Breucorum, Berichten van de Rijksdienst voor het Oudheidkundig
                         Bodemonderzoek</naslov>
                 <cit did="1748" cid="91" avtor0="Bogaers J. E."
@@ -23485,25 +23485,25 @@
                         naslov0="Coi legionari cecoslovacchi al fonte italiano e in Slovacchia, 1918-1919"
                         pubPlace="Roma" year="1933" page="30"/>
         </delo>
-        <delo mojID="4701">
+        <delo mojID="4701" cobiss="2009952">
                 <naslov>Coin Hoards in Yugoslavia</naslov>
                 <cit did="1939" cid="54" avtor0="Mirnik I. A." naslov0="Coin Hoards in Yugoslavia"
                         source="BAR International Series" pubPlace="Oxford"
                         publisher="British Archaeological Reports" year="1981" volume="95"/>
         </delo>
-        <delo mojID="4702">
+        <delo mojID="4702" cobiss="1167968">
                 <naslov>Coinage and Money under the Roman Republic: Italy and the Mediterranean
                         Economy</naslov>
                 <cit did="1939" cid="18" avtor0="Crawford, M. H."
                         naslov0="Coinage and Money under the Roman Republic: Italy and the Mediterranean Economy"
                         pubPlace="London" publisher="Methuen" year="1985"/>
         </delo>
-        <delo mojID="4703">
+        <delo mojID="4703" cobiss="1644384">
                 <naslov>Coinage in the Roman World</naslov>
                 <cit did="1939" cid="11" avtor0="Burnett A." naslov0="Coinage in the Roman World"
                         pubPlace="London" publisher="Seaby" year="1987"/>
         </delo>
-        <delo mojID="4704">
+        <delo mojID="4704" cobiss="28107357">
                 <naslov>Cold Intimacies: The Making of Emotional Capitalism</naslov>
                 <cit did="3042" cid="16" avtor0="Illouz E."
                         naslov0="Cold Intimacies: The Making of Emotional Capitalism"
@@ -23588,7 +23588,7 @@
                         source="The changing politicla structure of Europe" year="1991"
                         page="107-125"/>
         </delo>
-        <delo mojID="4721">
+        <delo mojID="4721" cobiss="13233745">
                 <naslov>Collegium universi Juris Canonici</naslov>
                 <cit did="3105" cid="9" avtor0="Engel L."
                         naslov0="Collegium universi Juris Canonici" pubPlace="Salisburgi"
@@ -23606,7 +23606,7 @@
                         naslov0="Collonialism and Postcoloniality as (Latin)/ American Mirages"
                         source="Collonial Latin American Review" year="1992" page="3-23"/>
         </delo>
-        <delo mojID="4724">
+        <delo mojID="4724" cobiss="16033122">
                 <naslov>Colloredo Duemila, Nuove testimonianze archeologiche dall'ala Nievo del
                         castello di Colloredo di Montalbano</naslov>
                 <cit did="3101" cid="14" avtor0="Tomadin V."
@@ -23638,13 +23638,13 @@
                         source="BBC News – World – Africa, http://news.bbc.co.uk/1/hi/world/africa/4552473.stm"
                         year="2006"/>
         </delo>
-        <delo mojID="4729">
+        <delo mojID="4729" cobiss="40176226">
                 <naslov>Colonial Fantasies: Towards a feminist reading of Orientalism</naslov>
                 <cit did="2649" cid="75" avtor0="Yeğenoğlu Meyda"
                         naslov0="Colonial Fantasies: Towards a feminist reading of Orientalism"
                         pubPlace="Cambridge" publisher="Cambridge University Press" year="1998"/>
         </delo>
-        <delo mojID="4730">
+        <delo mojID="4730" cobiss="23707485">
                 <naslov>Colonialism in Question - Theory, Knowledge, History</naslov>
                 <cit did="3157" cid="8" avtor0="Cooper Frederick"
                         naslov0="Colonialism in Question - Theory, Knowledge, History"
@@ -23757,7 +23757,7 @@
                         naslov0="Comacchio (Valle Pega). Necropoli presso I'ecclesia beatae Mariae in Padovetere. Notizie degli Scavi di Antichita, s. 8"
                         pubPlace="Roma" year="1970" volume="24" page="69-121"/>
         </delo>
-        <delo mojID="4747">
+        <delo mojID="4747" cobiss="212877">
                 <naslov>Combats pour histoire</naslov>
                 <cit did="3505" cid="89" avtor0="Febvre Lucien" naslov0="Combats pour histoire"
                         pubPlace="Pariz" publisher="Armand Colin" year="1992"/>
@@ -23915,7 +23915,7 @@
                 <cit did="2631" cid="181" avtor0="Lazius W."
                         naslov0="Commentarium in genealogiam austriacam libri duo" year="0"/>
         </delo>
-        <delo mojID="4774">
+        <delo mojID="4774" cobiss="86420480">
                 <naslov>Commentarium seu lectionis publicae in D. Gregorii IX. Decretalium libros V
                         compositae</naslov>
                 <cit did="3105" cid="34" avtor0="Schambogen J. Ch."
@@ -24068,7 +24068,7 @@
                         naslov0="Communal Reformation and Peasant Piety: The Peasant Reformation and its Late Medieval Origins"
                         source="Central European History" year="1987" issue="20" page="216-228"/>
         </delo>
-        <delo mojID="4798">
+        <delo mojID="4798" cobiss="10337122">
                 <naslov>Communicating with children and adults</naslov>
                 <cit did="704" cid="11" avtor0="Petrie P."
                         naslov0="Communicating with children and adults"
@@ -24089,13 +24089,13 @@
                         pubPlace="Philadelphia" publisher="University of Pennsylvania Press"
                         year="1979"/>
         </delo>
-        <delo mojID="4801">
+        <delo mojID="4801" cobiss="1327965">
                 <naslov>Communication and the evolution of society</naslov>
                 <cit did="669" cid="18" avtor0="Habermas  Jürgen"
                         naslov0="Communication and the evolution of society" pubPlace="Boston"
                         publisher="Beacon Press" year="1979"/>
         </delo>
-        <delo mojID="4802">
+        <delo mojID="4802" cobiss="122253">
                 <naslov>Communism and nationalism : Karl Marx versus Friedrich List</naslov>
                 <cit did="3363" cid="15" avtor0="Szporluk Roman"
                         naslov0="Communism and nationalism : Karl Marx versus Friedrich List"
@@ -24115,7 +24115,7 @@
                         naslov0="Communities of Discourse : Ideology and Social Structure in the Reformation, the Enlightenment, and European Socialism"
                         pubPlace="Cambridge" publisher="Harvard UP" year="1989"/>
         </delo>
-        <delo mojID="4806">
+        <delo mojID="4806" cobiss="1024332865">
                 <naslov>Community</naslov>
                 <cit did="680" cid="2" avtor0="Bauman Zygmunt" naslov0="Community"
                         source="Seeking safety in an insecure world" pubPlace="Cambridge"
