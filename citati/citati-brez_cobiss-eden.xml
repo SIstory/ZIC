@@ -24159,20 +24159,20 @@
                         pubPlace="New York, Chicago, San Francisco, Atlanta, Dallas, Montreal, Toronto, Sydney, London"
                         publisher="Holt, Rinehart and Winston, Inc." year="1970" page="207-208"/>
         </delo>
-        <delo mojID="4812">
+        <delo mojID="4812" cobiss="23084125">
                 <naslov>Comparative government and politics: An introduction</naslov>
                 <cit did="2888" cid="53" avtor0="Hague Rod" avtor1="Harrop Martin"
                         naslov0="Comparative government and politics: An introduction"
                         naslov1="6th edition" pubPlace="Basingstoke" publisher="Palgrave Macmillan"
                         year="2004"/>
         </delo>
-        <delo mojID="4813">
+        <delo mojID="4813" cobiss="59373568">
                 <naslov>Comparative Law</naslov>
                 <cit did="2748" cid="4" avtor0="Bogdan Michael" naslov0="Comparative Law"
                         pubPlace="Tano" publisher="Kluweer Law &amp; Norstedts Juristik" year="1994"
                 />
         </delo>
-        <delo mojID="4814">
+        <delo mojID="4814" cobiss="2567249">
                 <naslov>Comparative Legal Traditions: Text, Materials and Cases on the Civil and
                         Common Law Traditions, with Special Reference to French, German, English and
                         European Law</naslov>
@@ -24180,7 +24180,7 @@
                         naslov0="Comparative Legal Traditions: Text, Materials and Cases on the Civil and Common Law Traditions, with Special Reference to French, German, English and European Law"
                         pubPlace="St. Paul, Minnesota" publisher="West Publishing" year="1994"/>
         </delo>
-        <delo mojID="4815">
+        <delo mojID="4815" cobiss="30655325">
                 <naslov>Comparative Method: Moving Beyond Qualitative and Quantitative
                         Strategy</naslov>
                 <cit did="2005" cid="26" avtor0="Ragin C. C."
@@ -24292,13 +24292,13 @@
                         source="Studi storici - Giustizia e reati sessuali nel Medioevo"
                         pubPlace="Roma" year="1986" page="577-607"/>
         </delo>
-        <delo mojID="4834">
+        <delo mojID="4834" cobiss="79362048">
                 <naslov>Composers at Work, The Craft of Musical Composition 1450-1600</naslov>
                 <cit did="2693" cid="11" avtor0="Owens Jessie Ann"
                         naslov0="Composers at Work, The Craft of Musical Composition 1450-1600"
                         pubPlace="New York, oxford" year="1997"/>
         </delo>
-        <delo mojID="4835">
+        <delo mojID="4835" cobiss="4328034">
                 <naslov>Composers of the Low Countries</naslov>
                 <cit did="284" cid="6" avtor0="Elders Willem"
                         naslov0="Composers of the Low Countries" pubPlace="Oxford" year="1991"
@@ -24354,7 +24354,7 @@
                         publisher="Istituto per l'Enciclopedica del Friuli-Venezia Giulis"
                         year="1983" page="39"/>
         </delo>
-        <delo mojID="4845">
+        <delo mojID="4845" cobiss="4710957">
                 <naslov>Comunita alpine. Ambiente, popolazione, struttura sociale nelle Alpi dal XVI
                         secolo a oggi</naslov>
                 <cit did="2538" cid="30" avtor0="Viazzo Pier Paolo"
@@ -24367,7 +24367,7 @@
                         naslov0="Comunita greche di Dalmazia: le emissioni monetali"
                         source="Hesperia" year="2003" volume="17" page="41-54"/>
         </delo>
-        <delo mojID="4847">
+        <delo mojID="4847" cobiss="42662145">
                 <naslov>Comunità e beni comunali nel Carso Triestino e Goriziano</naslov>
                 <cit did="1317" cid="106" avtor0="Golemac Nicola"
                         naslov0="Comunità e beni comunali nel Carso Triestino e Goriziano"
@@ -24380,7 +24380,7 @@
                         source="Journal of Modern History" pubPlace="Chicago" year="1992"
                         volume="64" issue="1" page="79-116"/>
         </delo>
-        <delo mojID="4851">
+        <delo mojID="4851" cobiss="21602">
                 <naslov>Concept, Image, and Symbol. The Cognitive Basis of Grammar</naslov>
                 <cit did="3012" cid="17" avtor0="Langacker R."
                         naslov0="Concept, Image, and Symbol. The Cognitive Basis of Grammar"
@@ -24422,7 +24422,7 @@
                         pubPlace="Leiden - Boston - Köln" publisher="Brill" year="2002"
                         page="262, 284"/>
         </delo>
-        <delo mojID="4859">
+        <delo mojID="4859" cobiss="1529165">
                 <naslov>Conceptual problems in the protection of minorities</naslov>
                 <cit did="3071" cid="83" avtor0="Rodley Nigel S."
                         naslov0="Conceptual problems in the protection of minorities"
@@ -24571,7 +24571,7 @@
                         source="Zeitschrift fur historische Forschung" year="1989" volume="3"
                         page="43-79"/>
         </delo>
-        <delo mojID="4881">
+        <delo mojID="4881" cobiss="8549709">
                 <naslov>Conditional recognition as an instrument of ethnic conflict regulation: the
                         European community and Yugoslavia</naslov>
                 <cit did="3151" cid="7" avtor0="Caplan Richard"
@@ -24599,7 +24599,7 @@
                         source="Collegium Antropologicum" pubPlace="Zagreb" year="2006" volume="30"
                         issue="2" page="71-78"/>
         </delo>
-        <delo mojID="4885">
+        <delo mojID="4885" cobiss="5578252">
                 <naslov>Condorcet: Un intellectuel en politique</naslov>
                 <cit did="2018" cid="14" avtor0="Badinter E., Badinter R."
                         naslov0="Condorcet: Un intellectuel en politique" pubPlace="Pariz"
@@ -24617,13 +24617,13 @@
                         source="Per Alfredo de Marsico. Due secoli di eloquenza forense"
                         pubPlace="Napoli" publisher="Giannini" year="2000" page="187-195"/>
         </delo>
-        <delo mojID="4888">
+        <delo mojID="4888" cobiss="4591437">
                 <naslov>Confine orientale</naslov>
                 <cit did="303" cid="136" avtor0="Pacor Mario" naslov0="Confine orientale"
                         naslov1="Questione nazionale e Resistenza nel Friuli-Venezia Giulia"
                         pubPlace="Milano" publisher="Feltrinelli" year="1964"/>
         </delo>
-        <delo mojID="4890">
+        <delo mojID="4890" cobiss="4591437">
                 <naslov>Confine orientale, Questione nazionale e resistenza nel Friuli-Venzia
                         Giulia</naslov>
                 <cit did="1782" cid="256" avtor0="Pacor Mario"
@@ -24652,7 +24652,7 @@
                         naslov0="Conflict and Communication, The Use of Controlled Communication in International Relations"
                         pubPlace="London" publisher="Macmillan" year="1969"/>
         </delo>
-        <delo mojID="4896">
+        <delo mojID="4896" cobiss="16947549">
                 <naslov>Conflict and Consensus: A General Theory of Collective Decisions</naslov>
                 <cit did="2007" cid="14" avtor0="Moscovici S., Doise  W."
                         naslov0="Conflict and  Consensus: A General Theory of Collective Decisions"
@@ -24664,7 +24664,7 @@
                         naslov0="Conflict and crisis in the greater horn of Africa"
                         source="Current History" year="1999" issue="May" page="213-217"/>
         </delo>
-        <delo mojID="4898">
+        <delo mojID="4898" cobiss="10757350">
                 <naslov>Conflict and Growth in Africa Vol. 3: Southern Africa</naslov>
                 <cit did="2847" cid="14" avtor0="Goudie Andrew" avtor1="Neyapti Bilin"
                         naslov0="Conflict and Growth in Africa Vol. 3: Southern Africa"
@@ -24672,7 +24672,7 @@
                         publisher="Development Centre of the Organisation for Economic Co-operation and Development"
                         year="1999"/>
         </delo>
-        <delo mojID="4899">
+        <delo mojID="4899" cobiss="7132237">
                 <naslov>Conflict, Cleavage and Change in Central Asia and the Caucasus</naslov>
                 <cit did="142" cid="43" avtor0="Dawisha Karen, Parrott Bruce"
                         naslov0="Conflict, Cleavage and Change in Central Asia and the Caucasus"
@@ -24810,7 +24810,7 @@
                         pubPlace="Minneapolis" publisher="University of Minnesota Press" year="1982"
                 />
         </delo>
-        <delo mojID="4925">
+        <delo mojID="4925" cobiss="6820448">
                 <naslov>Conservation of Plastics. Material Science, Degradation and
                         Preservation</naslov>
                 <cit did="1807" cid="20" avtor0="Scascoua Yvonne"
@@ -24942,7 +24942,7 @@
                         naslov0="Constitutional Law of England" pubPlace="London"
                         publisher="Steven &amp; Sons" year="1937"/>
         </delo>
-        <delo mojID="4948">
+        <delo mojID="4948" cobiss="3212881">
                 <naslov>Constitutional Law of the European Union</naslov>
                 <cit did="51" cid="24" avtor0="Lenaerts Koen, (van) Nuffel Piet"
                         naslov0="Constitutional Law of the European Union" pubPlace="London"
@@ -24988,13 +24988,13 @@
                         naslov0="Constitutions, Constitutionalism and the State" year="2005"
                         page="31-45"/>
         </delo>
-        <delo mojID="4956">
+        <delo mojID="4956" cobiss="123647">
                 <naslov>Constitutions of Nations</naslov>
                 <cit did="2748" cid="14" avtor0="Peaslee Amos J." naslov0="Constitutions of Nations"
                         naslov1="vol. 3, Europe, third edition" pubPlace="The Hague"
                         publisher="M. Nijhoff" year="1968"/>
         </delo>
-        <delo mojID="4957">
+        <delo mojID="4957" cobiss="1024477041">
                 <naslov>Constitutions That Made History</naslov>
                 <cit did="2748" cid="3" avtor0="Blaustein Albert P." avtor1="Sigler Jay A."
                         naslov0="Constitutions That Made History" pubPlace="New YPrk"
@@ -25015,7 +25015,7 @@
                         source="Journal of European Public Policy" year="1999" volume="6" issue="4"
                         page="618"/>
         </delo>
-        <delo mojID="4960">
+        <delo mojID="4960" cobiss="39702573">
                 <naslov>Constructing Identity: The Roman Funerary Monuments of Aquileia, Mainz and
                         Nimes</naslov>
                 <cit did="1976" cid="63" avtor0="Hope V. M."
@@ -25023,7 +25023,7 @@
                         source="BAR International Series" pubPlace="Oxford" publisher="Archaeopress"
                         year="2001"/>
         </delo>
-        <delo mojID="4961">
+        <delo mojID="4961" cobiss="16917341">
                 <naslov>Constructing Masculinity</naslov>
                 <cit did="106" cid="21" avtor0="Berger M., Wallis B., Watson S."
                         naslov0="Constructing Masculinity" pubPlace="London" publisher="Routledge"
@@ -25046,7 +25046,7 @@
                         pubPlace="Clevedon" publisher="Multilingual Matters" year="2004"
                         page="68-92"/>
         </delo>
-        <delo mojID="4967">
+        <delo mojID="4967" cobiss="3138405">
                 <naslov>Constructive Social Work</naslov>
                 <cit did="171" cid="3" avtor0="Parton N., O'Byrne P."
                         naslov0="Constructive Social Work" naslov1="Towards a new Practice"
@@ -25091,7 +25091,7 @@
                         naslov0="Consumer Behaviour and Material Culture in Britain 1660-1760"
                         pubPlace="London-New York" year="1988"/>
         </delo>
-        <delo mojID="4975">
+        <delo mojID="4975" cobiss="17737565">
                 <naslov>Consumer Culture</naslov>
                 <cit did="3155" cid="16" avtor0="Lury Celia" naslov0="Consumer Culture"
                         pubPlace="Cambridge in Oxford" publisher="Polity Press" year="1996"/>
@@ -25109,7 +25109,7 @@
                 <cit did="3020" cid="22" avtor0="Sassatelli R." naslov0="Consumo, cultura e societa"
                         pubPlace="Bologna" publisher="II Mulino" year="2004"/>
         </delo>
-        <delo mojID="4982">
+        <delo mojID="4982" cobiss="28229730">
                 <naslov>Consumption and the Making of Respectability 1600-1800</naslov>
                 <cit did="2288" cid="138" avtor0="Smith W. D."
                         naslov0="Consumption and the Making of Respectability 1600-1800"
@@ -25136,7 +25136,7 @@
                         source="Ai confini orientali della Reppublica di Venezia tra '400 e '800"
                         pubPlace="Udine" publisher="Forum" year="2002"/>
         </delo>
-        <delo mojID="4991">
+        <delo mojID="4991" cobiss="16743522">
                 <naslov>Containing Nationalism</naslov>
                 <cit did="2833" cid="12" avtor0="Hechter Michael" naslov0="Containing Nationalism"
                         pubPlace="Oxford, New York" publisher="Oxford University Press" year="2000"
@@ -25166,20 +25166,20 @@
                         source="Alma mater cordium" publisher="Rocca S. Casciano" year="1917"
                         page="12"/>
         </delo>
-        <delo mojID="4995">
+        <delo mojID="4995" cobiss="23574365">
                 <naslov>Contemporary Critical Theorists: From Lacan to Said</naslov>
                 <cit did="1932" cid="15" avtor0="Simons J."
                         naslov0="Contemporary Critical Theorists:  From Lacan to Said"
                         pubPlace="Edinburgh" publisher="Edinburgh University Press" year="2004"/>
         </delo>
-        <delo mojID="4996">
+        <delo mojID="4996" cobiss="110105856">
                 <naslov>Contemporary Nationalism: Civic, ethnocultural and multicultural
                         politics</naslov>
                 <cit did="2823" cid="27" avtor0="Brown David"
                         naslov0="Contemporary Nationalism: Civic, ethnocultural and multicultural politics"
                         pubPlace="London - New York" publisher="Routledge" year="2000"/>
         </delo>
-        <delo mojID="4997">
+        <delo mojID="4997" cobiss="16728925">
                 <naslov>Contemporary Philosophy of Social Science</naslov>
                 <cit did="2803" cid="19" avtor0="Fay Brian"
                         naslov0="Contemporary Philosophy of Social Science"
@@ -25212,13 +25212,13 @@
                         naslov0="Contemporary Racisms and Ethnicities: Social and Cultural Transformations"
                         pubPlace="Buckingham" publisher="Open University Press" year="1999"/>
         </delo>
-        <delo mojID="5002">
+        <delo mojID="5002" cobiss="213866240">
                 <naslov>Contention and Democracy in Europe 1650-2000</naslov>
                 <cit did="278" cid="4" avtor0="Tilly Charles"
                         naslov0="Contention and Democracy in Europe 1650-2000"
                         publisher="Cambridge University Press" year="2004"/>
         </delo>
-        <delo mojID="5003">
+        <delo mojID="5003" cobiss="40258093">
                 <naslov>Contes de l'Ouest: Vendee, Briere, Angoumois</naslov>
                 <cit did="1742" cid="29" avtor0="Massignon Genevieve"
                         naslov0="Contes de l'Ouest: Vendee, Briere, Angoumois" pubPlace="Paris"
@@ -25232,7 +25232,7 @@
                         source="Ancient Perceptions of Greek Ethnicity"
                         publisher="Cambridge - Mass. - London" year="2001" page="159-186"/>
         </delo>
-        <delo mojID="5005">
+        <delo mojID="5005" cobiss="799117">
                 <naslov>Contested Landscapes: movement, exile and place</naslov>
                 <cit did="1994" cid="11" avtor0="Bender B., Winer M."
                         naslov0="Contested Landscapes: movement, exile and place"
@@ -25253,13 +25253,13 @@
                         naslov0="Contests and contexts: The Irish language and Ireland's socio-economic development"
                         pubPlace="Oxford" publisher="Peter Lang" year="2011"/>
         </delo>
-        <delo mojID="5009">
+        <delo mojID="5009" cobiss="1758700">
                 <naslov>Conti di Gorizia: una dinastia nella politica europea medievale</naslov>
                 <cit did="1421" cid="2" avtor0="Baum Wilhelm"
                         naslov0="Conti di Gorizia: una dinastia nella politica europea medievale"
                         pubPlace="Gorizia" publisher="Libreria Editrice Goriziana" year="2000"/>
         </delo>
-        <delo mojID="5010">
+        <delo mojID="5010" cobiss="1806409">
                 <naslov>Continuing Professional Development: A Practical Guide for TeacftJ and
                         Schools</naslov>
                 <cit did="3189" cid="5" avtor0="Craft A."
@@ -25280,7 +25280,7 @@
                         source="Cafetele echfnox" pubPlace="Cluj"
                         publisher="Universitatea &#34;Babes-Bolyai&#34;" year="2003"/>
         </delo>
-        <delo mojID="5013">
+        <delo mojID="5013" cobiss="17438301">
                 <naslov>Continuities in the study of social conflict</naslov>
                 <cit did="2976" cid="6" avtor0="Coser Lewis A."
                         naslov0="Continuities in the study of social conflict" pubPlace="New York"
@@ -25337,7 +25337,7 @@
                         naslov0="Contributi alla storia della guerra di Ottavio in Illiria nel 35-33 e della cam-pagna di Tiberio nel 15 a. C."
                         source="Rivista di Storia Antica" year="1903" volume="7" page="489-504"/>
         </delo>
-        <delo mojID="5022">
+        <delo mojID="5022" cobiss="33953378">
                 <naslov>Contribution of Czech Musicians to the Serbian Music in the 19th
                         Century</naslov>
                 <cit did="2196" cid="76" avtor0="Tomašević Katarina"
@@ -25397,7 +25397,7 @@
                         publisher="Unione Italiana (Fiume) - Universita popolare di Trieste"
                         year="1994" volume="14"/>
         </delo>
-        <delo mojID="5030">
+        <delo mojID="5030" cobiss="94541056">
                 <naslov>Contributo alla storia dei processi del ventuno e dello Spielberg. Dagli
                         atti officiali segreti degli archivi di Stato di Vienna e dal carteggio
                         dell'imperatore Francesco 1. co' suoi ministri e col presidente del Senato
@@ -25455,7 +25455,7 @@
                         source="Gli Ebrei e Venezia. secoli XIV-XVIII" pubPlace="Milano"
                         publisher="Edizioni di Comunita" year="1987" page="595-615"/>
         </delo>
-        <delo mojID="5041">
+        <delo mojID="5041" cobiss="511988">
                 <naslov>Convegno di studi su Giangiorgio Trissino</naslov>
                 <cit did="1920" cid="55" avtor0="Pozza N."
                         naslov0="Convegno di studi su Giangiorgio Trissino" pubPlace="Vincenza"
@@ -25482,7 +25482,7 @@
                         source="Diego de Castro nel centenario della nascita 1907–2007"
                         pubPlace="Piran/Pirano" publisher="Edizioni Il Trillo"/>
         </delo>
-        <delo mojID="5045">
+        <delo mojID="5045" cobiss="25216349">
                 <naslov>Conversation analysis: Principles, practices and applications</naslov>
                 <cit did="1937" cid="5" avtor0="Hutchby I., Wooffitt R."
                         naslov0="Conversation analysis: Principles, practices and applications"
@@ -25496,7 +25496,7 @@
                         naslov0="Conversations with Gorbachev: On Perestroika, the Prague Spring, and the Crossroads of Socialism"
                         pubPlace="New York" publisher="Columbia University Press" year="2002"/>
         </delo>
-        <delo mojID="5050">
+        <delo mojID="5050" cobiss="5673517">
                 <naslov>Conversio Bagoariorum et Carantanorum</naslov>
                 <cit did="1320" cid="10" avtor0="Lošek Fritz"
                         naslov0="Conversio Bagoariorum et Carantanorum" pubPlace="Hannover"
@@ -25530,7 +25530,7 @@
                         naslov0="Cooperatives as Information  maschines: German rural Credit Cooperatives, 1883-1914"
                         source="The Journal of Economic History" year="2001" page="366-389"/>
         </delo>
-        <delo mojID="5057">
+        <delo mojID="5057" cobiss="43609089">
                 <naslov>Coordinating history across the primary school</naslov>
                 <cit did="1374" cid="9" avtor0="Davies Julie" avtor1="Redmond Jason"
                         naslov0="Coordinating history across the primary school"
@@ -25587,7 +25587,7 @@
                         source="Friuli Venezia Giulia - Jewish Itineraries: Places, history and art"
                         pubPlace="Venice" publisher="Marsilio Editori" year="1998" page="38-43"/>
         </delo>
-        <delo mojID="5066">
+        <delo mojID="5066" cobiss="6954034">
                 <naslov>Cormons 1914—1918 : terra per due patrie</naslov>
                 <cit did="1429" cid="5" avtor0="Panzera Giovanni Battista"
                         naslov0="Cormons 1914—1918 : terra per due patrie" pubPlace="Cormons"
@@ -25642,7 +25642,7 @@
                         naslov1="Donne e uomini dal mondo antico all'età contemporanea"
                         pubPlace="Roma" publisher="Viella" year="2002"/>
         </delo>
-        <delo mojID="5075">
+        <delo mojID="5075" cobiss="22653533">
                 <naslov>Corporatism packaged in pluralist ideology</naslov>
                 <cit did="365" cid="24" avtor0="Luksic Igor"
                         naslov0="Corporatism packaged in pluralist ideology"
@@ -25699,7 +25699,7 @@
                         source="Foibe: 'Foibe revisionisma di Stato e amnesie della Repubblica"
                         pubPlace="Udine" publisher="Kappa Vu" year="2008" page="148"/>
         </delo>
-        <delo mojID="5086">
+        <delo mojID="5086" cobiss="162028">
                 <naslov>Cosacchi perduti, Dal Friuli all' URSS 1944-45.</naslov>
                 <cit did="1782" cid="173" avtor0="Ivanov A."
                         naslov0="Cosacchi perduti, Dal Friuli all' URSS 1944-45." pubPlace="Udine"
@@ -25736,13 +25736,13 @@
                         source="Journal of World History" year="2010" volume="21" issue="3"
                         page="369-374"/>
         </delo>
-        <delo mojID="5092">
+        <delo mojID="5092" cobiss="1067791">
                 <naslov>Cosmos and history, the Myth of Eternal Return</naslov>
                 <cit did="3005" cid="21" avtor0="Eliade M."
                         naslov0="Cosmos and history, the Myth of Eternal Return"
                         pubPlace="Nevv York, Harper and Rovv" year="1959"/>
         </delo>
-        <delo mojID="5093">
+        <delo mojID="5093" cobiss="66206208">
                 <naslov>Costa, Henrik: Ljubljanski kongres</naslov>
                 <cit did="2638" cid="15" avtor0="Holz Eva"
                         naslov0="Costa, Henrik: Ljubljanski kongres" pubPlace="Ljubljana"
@@ -25924,12 +25924,12 @@
                         source="L. Lievrouvv in S.  Livingstone:  Hanbook of nevv media"
                         pubPlace="London" publisher="Sage" year="2002"/>
         </delo>
-        <delo mojID="5126">
+        <delo mojID="5126" cobiss="943238">
                 <naslov>Creating ethnicity</naslov>
                 <cit did="2667" cid="27" avtor0="Roosens Eugeen" naslov0="Creating ethnicity"
                         pubPlace="London" publisher="Sage" year="1989"/>
         </delo>
-        <delo mojID="5127">
+        <delo mojID="5127" cobiss="1286481">
                 <naslov>Creating German communism 1890-1990</naslov>
                 <cit did="1508" cid="25" avtor0="Weitz E."
                         naslov0="Creating German communism 1890-1990" pubPlace="Princeton"
@@ -26016,7 +26016,7 @@
                         pubPlace="Slovenska Bistrica" publisher="Arheoloski pregled" year="1964"
                         volume="6" page="93-94"/>
         </delo>
-        <delo mojID="5142">
+        <delo mojID="5142" cobiss="1844852">
                 <naslov>Crime and Society in England, 1750-1900</naslov>
                 <cit did="1492" cid="14" avtor0="Emsley C."
                         naslov0="Crime and Society in England, 1750-1900"
