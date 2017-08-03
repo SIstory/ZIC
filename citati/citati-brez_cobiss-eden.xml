@@ -30056,7 +30056,7 @@
                 <cit did="1490" cid="8" avtor0="Magno A." naslov0="De animalibus. Voi. I-XXVI"
                         pubPlace="Munster" publisher="Aschendorff" year="1916"/>
         </delo>
-        <delo mojID="5915">
+        <delo mojID="5915" cobiss="51392354">
                 <naslov>De bello civili commentarii tres</naslov>
                 <cit did="272" cid="376" avtor0="Caesar Caius Iulius"
                         naslov0="De bello civili commentarii tres" pubPlace="Leipzig" year="0"/>
@@ -30162,7 +30162,7 @@
                 <cit did="2372" cid="18" avtor0="Mercurio S."
                         naslov0="De gli errori populari d'Italia" pubPlace="Verona" year="0"/>
         </delo>
-        <delo mojID="5932">
+        <delo mojID="5932" cobiss="6397489">
                 <naslov>De Historia</naslov>
                 <cit did="737" cid="6" avtor0="Hobsbawm Eric J." naslov0="De Historia"
                         pubPlace="Milano" publisher="Rizzoli" year="1997"/>
@@ -30173,7 +30173,7 @@
                         naslov0="De Hominibus dubiis Baptizandis seu de Baptismo abortivorum"
                         pubPlace="Lugdunii" year="0"/>
         </delo>
-        <delo mojID="5934">
+        <delo mojID="5934" cobiss="87807232">
                 <naslov>De humani corporis fabrica</naslov>
                 <cit did="1490" cid="13" avtor0="Vesalio A." naslov0="De humani corporis fabrica"
                         pubPlace="Basilea" publisher="Johannes Oporinus" year="0"/>
@@ -30208,7 +30208,7 @@
                         naslov0="De la condotion historique du sociologue" pubPlace="Paris"
                         year="1980"/>
         </delo>
-        <delo mojID="5940">
+        <delo mojID="5940" cobiss="50947170">
                 <naslov>De la féte imperiale au mur des féderés</naslov>
                 <cit did="22" cid="3" avtor0="Plessis Alain"
                         naslov0="De la féte imperiale au mur des féderés"
@@ -30278,7 +30278,7 @@
                         pubPlace="Toulouse" publisher="Presses Universitaires du Mirail."
                         year="2005"/>
         </delo>
-        <delo mojID="5949">
+        <delo mojID="5949" cobiss="21158957">
                 <naslov>De l'acte autobiographique</naslov>
                 <cit did="3378" cid="17" avtor0="Chiantaretto Jean François"
                         naslov0="De l'acte autobiographique" pubPlace="Seysell"
@@ -30333,7 +30333,7 @@
                         publisher="Facultat de Geografia i Història de la Universitat de Valencia"
                         year="2005" volume="55" page="77-98"/>
         </delo>
-        <delo mojID="5959">
+        <delo mojID="5959" cobiss="197265152">
                 <naslov>De Musica : Faksimile : Nachdruck</naslov>
                 <cit did="282" cid="28" avtor0="Salinas Francisco"
                         naslov0="De Musica : Faksimile : Nachdruck" pubPlace="Kassel, Basel"
@@ -30388,7 +30388,7 @@
                         naslov0="De pace religions acta publica et originalia...."
                         pubPlace="Franckfurt" year="0"/>
         </delo>
-        <delo mojID="5968">
+        <delo mojID="5968" cobiss="973873">
                 <naslov>De pavone. Ob najdbi fibule iz Pirana</naslov>
                 <cit did="1978" cid="22" avtor0="Snoj D."
                         naslov0="De pavone. Ob najdbi fibule iz Pirana"
@@ -30508,7 +30508,7 @@
                         naslov0="Dead man walking: an cyewiiness account of the dealh penah; in the United States"
                         pubPlace="New York" publisher="Random House" year="1993"/>
         </delo>
-        <delo mojID="5992">
+        <delo mojID="5992" cobiss="1282676">
                 <naslov>Death and deliverance</naslov>
                 <cit did="1813" cid="33" avtor0="Burleigh Michael" naslov0="Death and deliverance"
                         pubPlace="London" year="2002"/>
@@ -30570,7 +30570,7 @@
                         naslov1="152 Popular Myths Exploded" pubPlace="Phoenix Mill" year="2002"
                         page="XI-XV"/>
         </delo>
-        <delo mojID="6003">
+        <delo mojID="6003" cobiss="211472">
                 <naslov>Deca komunizma</naslov>
                 <cit did="3210" cid="129" avtor0="Marič Milomir" naslov0="Deca komunizma"
                         pubPlace="Mladost" publisher="Beograd" year="1987"/>
@@ -30710,7 +30710,7 @@
                         publisher="Filozofska fakulteta, Fakulteta za telesno kulturo" year="1989"
                         page="18-26"/>
         </delo>
-        <delo mojID="6031">
+        <delo mojID="6031" cobiss="106062080">
                 <naslov>Dediščina lanu in platna na Slovenskem</naslov>
                 <cit did="3369" cid="9" avtor0="Smerdel Inja"
                         naslov0="Dediščina lanu in platna na Slovenskem"
@@ -30725,7 +30725,7 @@
                         source="Dediščina: priloga revije Naša žena: prva slovenska ženska in družinska revija"
                         year="2000" issue="7-8"/>
         </delo>
-        <delo mojID="6033">
+        <delo mojID="6033" cobiss="217750272">
                 <naslov>Dediščina nasilja v islamu in krščanstvu</naslov>
                 <cit did="106" cid="241" avtor0="Häring H."
                         naslov0="Dediščina nasilja v islamu in krščanstvu" source="Znamenje"
@@ -30740,7 +30740,7 @@
                         publisher="Slovensko stalno gledališče – Teatro stabile sloveno" year="2006"
                         page="10–12, 34–36"/>
         </delo>
-        <delo mojID="6035">
+        <delo mojID="6035" cobiss="222995712">
                 <naslov>Dediščina rapalske meje, Rupnikova linija in Alpski zid, življenje ob
                         rapalski meji v letih 1918-43(47)</naslov>
                 <cit did="2015" cid="25" avtor0="Naglič M."
@@ -30754,14 +30754,14 @@
                         naslov0="Dediščina rapalske meje: življenje ob rapalski meji 1918-1943 (1947)"
                         pubPlace="Ljubljana" publisher="Pegaz International" year="2005"/>
         </delo>
-        <delo mojID="6037">
+        <delo mojID="6037" cobiss="60637696">
                 <naslov>Dediščine, dedno pravo in plemstvo na Kranjskem in Slovenjskem Štajerskem v
                         13. in 14. stoletju</naslov>
                 <cit did="2647" cid="153" avtor0="Kos Dušan"
                         naslov0="Dediščine, dedno pravo in plemstvo na Kranjskem in Slovenjskem Štajerskem v 13. in 14. stoletju"
                         source="ČZ" year="1994" page="35-56"/>
         </delo>
-        <delo mojID="6038">
+        <delo mojID="6038" cobiss="60637696">
                 <naslov>Dediščine, dedno pravo in plemstvo na Kranjskem in slovenskem Štajerskem
                         (posebej v 14. stoletju)</naslov>
                 <cit did="2629" cid="25" avtor0="Kos Dušan"
@@ -30842,7 +30842,7 @@
                         source="II Popolano dell'lstria" pubPlace="Trieste" year="0" volume="28"
                         issue="4"/>
         </delo>
-        <delo mojID="6052">
+        <delo mojID="6052" cobiss="27401472">
                 <naslov>Dehteči vrt za osvežitev duše</naslov>
                 <cit did="142" cid="139" avtor0="An-nefzawi Umar ibn Muhammad"
                         naslov0="Dehteči vrt za osvežitev duše" pubPlace="Radizel"
@@ -30916,7 +30916,7 @@
                         naslov0="Deitsche Lehnwörter im Slowenischen" pubPlace="Berlin"
                         publisher="Osteuropa Institut Berlin, Dahlem" year="1963"/>
         </delo>
-        <delo mojID="6064">
+        <delo mojID="6064" cobiss="3976265">
                 <naslov>Dejavniki celostnega razvoja otroka kot izhodišče specialnih didaktik na
                         razredni stopnji osnovne šole</naslov>
                 <cit did="708" cid="34" avtor0="Pišot Rado"
@@ -30925,7 +30925,7 @@
                         pubPlace="Maribor" publisher="Univerza v Mariboru, Pedagoška fakulteta"
                         year="2000" page="215-221"/>
         </delo>
-        <delo mojID="6065">
+        <delo mojID="6065" cobiss="9667661">
                 <naslov>Dejavniki ohranjanja ali opuščanja elementov etnične identitete v
                         medgeneracijski kontinuiteti na narodno mešanih območjih ob slovenski
                         meji</naslov>
@@ -30934,14 +30934,14 @@
                         source="RiG" pubPlace="Ljubljana" publisher="INV" year="2005" issue="46"
                         page="100–153"/>
         </delo>
-        <delo mojID="6071">
+        <delo mojID="6071" cobiss="5176094">
                 <naslov>Dejavnost slovenskega Penkluba pred drugo svetovno vojno</naslov>
                 <cit did="2173" cid="1" avtor0="Mahnič Joža"
                         naslov0="Dejavnost slovenskega Penkluba pred drugo svetovno vojno"
                         source="Zgodovinski časopis" year="2005" volume="59" issue="1-2"
                         page="183-192"/>
         </delo>
-        <delo mojID="6072">
+        <delo mojID="6072" cobiss="20646445">
                 <naslov>Dejiny Komunistické strany Československa</naslov>
                 <cit did="1626" cid="62" avtor0="Rupnik Jacques"
                         naslov0="Dejiny Komunistické strany Československa"
@@ -30987,13 +30987,13 @@
                         source="Državni zbor Republike Slovenije : 1992-2002" pubPlace="Ljubljana"
                         publisher="Državni zbor Republike Slovenije" year="2002"/>
         </delo>
-        <delo mojID="6079">
+        <delo mojID="6079" cobiss="3213427">
                 <naslov>Dejstva na Jadranu u narodnooslobodilačkom ratu</naslov>
                 <cit did="2914" cid="5" avtor0="Vasiljević Jovan"
                         naslov0="Dejstva na Jadranu u narodnooslobodilačkom ratu" pubPlace="Beograd"
                         year="1957" page="81-82"/>
         </delo>
-        <delo mojID="6080">
+        <delo mojID="6080" cobiss="6985549">
                 <naslov>Dejstva, vzburjenja, procesi</naslov>
                 <cit did="857" cid="7" avtor0="Jeri Janko" naslov0="Dejstva, vzburjenja, procesi"
                         naslov1="Nekateri podatki o strukturi slovenske narodne manjšine v Italiji"
@@ -31014,7 +31014,7 @@
                         naslov0="Deklaracija, narodno edinstvo in še nekaj" source="UT" year="2011"
                 />
         </delo>
-        <delo mojID="6088">
+        <delo mojID="6088" cobiss="98530816">
                 <naslov>"deklaracijske razglednice"</naslov>
                 <cit did="2189" cid="4" avtor0="Švajncer Janez J."
                         naslov0="&#34;deklaracijske razglednice&#34;" source="Numizmatični vestnik"
@@ -31050,7 +31050,7 @@
                         naslov0="Dekliška osnovna šola na Studencih. Deset let državne slovenske osnovne in meščanske šole v Mariboru"
                         pubPlace="Maribor" year="1929"/>
         </delo>
-        <delo mojID="6097">
+        <delo mojID="6097" cobiss="74770688">
                 <naslov>Dekliška šola in vojaki revolucije</naslov>
                 <cit did="2403" cid="2" avtor0="Hladnik Milharčič Ervin"
                         naslov0="Dekliška šola in vojaki revolucije" source="Mladina" year="2024"
@@ -31121,12 +31121,12 @@
                         naslov0="Del proteo anguino di Laurenti" pubPlace="Pavia" publisher="Fusi"
                         year="1819"/>
         </delo>
-        <delo mojID="6111">
+        <delo mojID="6111" cobiss="53460225">
                 <naslov>Del tuha, romski pozdrav</naslov>
                 <cit did="3199" cid="25" avtor0="Kleibencetl J." naslov0="Del tuha, romski pozdrav"
                         pubPlace="Murska Sobota" publisher="Franc-Franc" year="2004"/>
         </delo>
-        <delo mojID="6114">
+        <delo mojID="6114" cobiss="38116864">
                 <naslov>Dela Valvasorjeva leta 1989 v srednjeevropskih knjižnicah in njegov sodobnik
                         Franz von Wützenstein</naslov>
                 <cit did="259" cid="26" avtor0="Oražem Stele M."
@@ -31134,14 +31134,14 @@
                         source="Valvasorjev zbornik ob 300 letnici izida Slave vojvodine Kranjske"
                         pubPlace="Ljubljana" year="1990" page="250"/>
         </delo>
-        <delo mojID="6115">
+        <delo mojID="6115" cobiss="4533248">
                 <naslov>Delavci iz drugih jugoslovanskih republik in pokrajin v Sloveniji</naslov>
                 <cit did="2845" cid="22" avtor0="Mežnarić Silva"
                         naslov0="Delavci iz drugih jugoslovanskih republik in pokrajin v Sloveniji"
                         pubPlace="Ljubljana"
                         publisher="Raziskovalni center za samoupravljanje RS ZSS" year="1982"/>
         </delo>
-        <delo mojID="6116">
+        <delo mojID="6116" cobiss="729949">
                 <naslov>Delavci iz drugih republik v rudniku lignita Velenje</naslov>
                 <cit did="2566" cid="10" avtor0="Lukner Janko" avtor1="Verbič Vlado"
                         naslov0="Delavci iz drugih republik v rudniku lignita Velenje"
@@ -31156,13 +31156,13 @@
                         pubPlace="Ljubljana" publisher="Inštitut za zgodovino delavskega gibanja"
                         year="1966" volume="VI" issue="1–2" page="307–313"/>
         </delo>
-        <delo mojID="6121">
+        <delo mojID="6121" cobiss="10982458">
                 <naslov>Delavska pevska društva na Slovenskem</naslov>
                 <cit did="370" cid="20" avtor0="Kuret Primož"
                         naslov0="Delavska pevska društva na Slovenskem" source="Zgodovina za vse"
                         year="1999" volume="6" issue="2" page="68-82"/>
         </delo>
-        <delo mojID="6122">
+        <delo mojID="6122" cobiss="2009460">
                 <naslov>Delavska ustava</naslov>
                 <cit did="1513" cid="53" avtor0="Čepič Zdenko" naslov0="Delavska ustava"
                         source="Slovenska novejsa zgodovina: Odprograma zedinjene Slovenije do mednarodnega priznanja Republike Slovenije 1848-1992"
@@ -31194,19 +31194,19 @@
                         source="Slovenska kronika 19. stoletja" pubPlace="Ljubljana"
                         publisher="Nova revija" year="2003"/>
         </delo>
-        <delo mojID="6128">
+        <delo mojID="6128" cobiss="8618753">
                 <naslov>Delavski razred in delavsko gibanje</naslov>
                 <cit did="2170" cid="6" avtor0="Pribičević Branko"
                         naslov0="Delavski razred in delavsko gibanje" pubPlace="Ljubljana"
                         year="1979" page="11"/>
         </delo>
-        <delo mojID="6129">
+        <delo mojID="6129" cobiss="1063731">
                 <naslov>Delavski razred in Zveza komunistov Jugoslavije 1926-1977</naslov>
                 <cit did="826" cid="18" avtor0="Broz Tito Josip"
                         naslov0="Delavski razred in Zveza komunistov Jugoslavije 1926-1977"
                         pubPlace="Ljubljana" publisher="DZS" year="1978"/>
         </delo>
-        <delo mojID="6131">
+        <delo mojID="6131" cobiss="59225088">
                 <naslov>Delavski zaupniki v Sloveniji v obdobju socializma</naslov>
                 <cit did="795" cid="3" avtor0="Jeraj Mateja"
                         naslov0="Delavski zaupniki v Sloveniji v obdobju socializma"
@@ -31231,13 +31231,13 @@
                         naslov0="Delavsko gibanje in Zveza komunistov Jugoslavije"
                         pubPlace="Maribor" publisher="Obzorja" year="1984"/>
         </delo>
-        <delo mojID="6136">
+        <delo mojID="6136" cobiss="6841860">
                 <naslov>Delavsko gibanje na Slovenskem v Taaffejevi dobi</naslov>
                 <cit did="1783" cid="155" avtor0="Rozman Franc"
                         naslov0="Delavsko gibanje na Slovenskem v Taaffejevi dobi" source="ZČ"
                         year="1973" issue="1-2" page="119"/>
         </delo>
-        <delo mojID="6137">
+        <delo mojID="6137" cobiss="13244724">
                 <naslov>Delavsko gibanje v Mežiški dolini od nastanka Države SHS do šestojanuarske
                         diktature</naslov>
                 <cit did="3022" cid="104" avtor0="Krivograd Alojz"
@@ -31245,7 +31245,7 @@
                         source="Med Peco in Pohorjem" pubPlace="Maribor" year="1965" page="235-269"
                 />
         </delo>
-        <delo mojID="6138">
+        <delo mojID="6138" cobiss="5970738">
                 <naslov>Delavsko in nameščensko pravo</naslov>
                 <cit did="1335" cid="6" avtor0="Bajič Stojan"
                         naslov0="Delavsko in nameščensko pravo" pubPlace="Ljubljana, Maribor"
@@ -31257,7 +31257,7 @@
                         naslov0="Delavsko in nameščensko socialno zavarovanje"
                         source="Slovenčev koledar" year="1941"/>
         </delo>
-        <delo mojID="6140">
+        <delo mojID="6140" cobiss="4326147">
                 <naslov>Delavsko vprašanje, Okrožnica Sv. očeta Leona XIII. 1891.</naslov>
                 <cit did="2261" cid="8" avtor0="Kalan Andrej"
                         naslov0="Delavsko vprašanje, Okrožnica Sv. očeta Leona XIII. 1891."
@@ -31297,7 +31297,7 @@
                         naslov0="Delež Ernesta Vranca v slovenski pedagoški kulturi (26.5.1899 do 25. 5.1961)"
                         source="Sodobna pedagogika" year="1961" issue="5-6"/>
         </delo>
-        <delo mojID="6151">
+        <delo mojID="6151" cobiss="80367617">
                 <naslov>Delež falske graščinske posesti pri razvoju gospodarstva in preoblikovanje
                         pokrajine na lovrenškem in ruškem Pohorju v 19. stoletju</naslov>
                 <cit did="305" cid="3" avtor0="Zgonik Mavricij"
@@ -31312,20 +31312,20 @@
                         source="Zgodivnski časopis" year="1977" volume="31" issue="4" page="465-474"
                 />
         </delo>
-        <delo mojID="6154">
+        <delo mojID="6154" cobiss="244069632">
                 <naslov>Delež Jána Kollárja pri južnoslovanskem prerodu</naslov>
                 <cit did="167" cid="40" avtor0="Kudělka Viktor"
                         naslov0="Delež Jána Kollárja pri južnoslovanskem prerodu"
                         source="Jezik in slovstvo" year="1975" volume="21"/>
         </delo>
-        <delo mojID="6155">
+        <delo mojID="6155" cobiss="24978733">
                 <naslov>Delež Slovencev v speleologiji</naslov>
                 <cit did="2638" cid="115" avtor0="Habe France" avtor1="Kranjc Andrej"
                         naslov0="Delež Slovencev v speleologiji"
                         source="Zbornik za zgodovino naravoslovja in tehnike, zv. 5-6"
                         pubPlace="Ljubljana" publisher="Slovenska matica" year="1981" page="13-93"/>
         </delo>
-        <delo mojID="6156">
+        <delo mojID="6156" cobiss="43070977">
                 <naslov>Deležniki in deležja na -č in -ši</naslov>
                 <cit did="369" cid="2" avtor0="Jesenšek Marko"
                         naslov0="Deležniki in deležja na -č in -ši" pubPlace="Maribor" year="1998"
