@@ -39485,7 +39485,7 @@
                         naslov0="Die Hungerjahre 1770-1772 in den böhmischen Ländern. Verlauf, meteorologische Gsachen und Auswirkungen"
                         source="ÖZG" year="2001" issue="2" page="34-76"/>
         </delo>
-        <delo mojID="7824">
+        <delo mojID="7824" cobiss="7348744">
                 <naslov>Die hygienische Forderung. Königstein im Taunus</naslov>
                 <cit did="3424" cid="23" avtor0="Grotjahn Alfred"
                         naslov0="Die hygienische Forderung. Königstein im Taunus" pubPlace="Leipzig"
@@ -39542,7 +39542,7 @@
                         naslov0="Die Ideologie des politischen Katholizismus in Österreich 1918-1938"
                         pubPlace="Wien/Salzburg" year="1977" page="14"/>
         </delo>
-        <delo mojID="7832">
+        <delo mojID="7832" cobiss="54518626">
                 <naslov>Die illuminierten Handschriften in Dalmatien</naslov>
                 <cit did="328" cid="8" avtor0="Folnesics H."
                         naslov0="Die illuminierten Handschriften in Dalmatien" pubPlace="Leipzig"
@@ -39554,7 +39554,7 @@
                         naslov0="Die Illyrer und die Epiroten: Parallelen und Besonderheiten,"
                         source="Iliria" year="1989" volume="19" issue="2" page="60"/>
         </delo>
-        <delo mojID="7834">
+        <delo mojID="7834" cobiss="252248064">
                 <naslov>Die Illyrier - Illyrii proprie dicti: Geschichte und
                         Siedlungsgebiete</naslov>
                 <cit did="1748" cid="737" avtor0="Pajakowski W."
@@ -39568,7 +39568,7 @@
                         source="Dall' Adriatico al Danubio: L 'Illirico nell'eta greca e romana"
                         pubPlace="Pisa" year="2004" page="207-220"/>
         </delo>
-        <delo mojID="7836">
+        <delo mojID="7836" cobiss="5943648">
                 <naslov>Die illyrische Stammesgemeinschaft und die hellenistische
                         Zivilisation</naslov>
                 <cit did="1748" cid="581" avtor0="Kurz K."
@@ -39619,14 +39619,14 @@
                         source="1000 Jahre österreichisches Judentum. Ausstellungskatalog. Studia Judaica Austriaca IX."
                         publisher="Roetzer" year="1982" page="21-24"/>
         </delo>
-        <delo mojID="7844">
+        <delo mojID="7844" cobiss="421989">
                 <naslov>Die Internationale der Rassisten, Aufstieg und Niedergang der
                         internationalen Bewegung fur Eugenik und Rassenhygiene...</naslov>
                 <cit did="1884" cid="12" avtor0="Kühl Stefan"
                         naslov0="Die Internationale der Rassisten, Aufstieg und Niedergang der internationalen Bewegung fur Eugenik und Rassenhygiene..."
                         pubPlace="Main - New York" year="1997"/>
         </delo>
-        <delo mojID="7845">
+        <delo mojID="7845" cobiss="11533831">
                 <naslov>Die Internationalität und der Krieg</naslov>
                 <cit did="2948" cid="16" avtor0="Kautsky Karl"
                         naslov0="Die Internationalität und der Krieg" pubPlace="Berlin"
@@ -39718,7 +39718,7 @@
                 <cit did="986" cid="4" avtor0="Cott Del" naslov0="Die Journalistik"
                         source="Laibacher Zeitung" year="0" issue="76" page="450"/>
         </delo>
-        <delo mojID="7864">
+        <delo mojID="7864" cobiss="2787188">
                 <naslov>Die Juden von Prekmurje (Ubermurgebiet) zwischen 1848 und 1914</naslov>
                 <cit did="2575" cid="32" avtor0="Toš Marjan"
                         naslov0="Die Juden von Prekmurje (Ubermurgebiet) zwischen 1848 und 1914"
@@ -39822,7 +39822,7 @@
                         naslov0="Die karolingische Civitas Mosaburg (Zalavar)"
                         source="Europas Milte 1" page="217-220"/>
         </delo>
-        <delo mojID="7887">
+        <delo mojID="7887" cobiss="36379490">
                 <naslov>Die karolingischen Reichsteilungen bis 831....</naslov>
                 <cit did="2208" cid="17" avtor0="Kaschke Sören"
                         naslov0="Die karolingischen Reichsteilungen bis 831...." pubPlace="Hamburg"
@@ -39834,19 +39834,19 @@
                         naslov0="Die katolische Religion, das beste Fundament des Staates"
                         source="Laibacher Kirchenzeitung" year="0" issue="6" page="43"/>
         </delo>
-        <delo mojID="7891">
+        <delo mojID="7891" cobiss="1005523">
                 <naslov>Die Kelten in Jugoslawien</naslov>
                 <cit did="1748" cid="438" avtor0="Guštin M." naslov0="Die Kelten in Jugoslawien"
                         source="Jahrbuch d. Röm.-German. Zentralmuseums Mainz" year="1984"
                         volume="31" page="305-363"/>
         </delo>
-        <delo mojID="7892">
+        <delo mojID="7892" cobiss="29326336">
                 <naslov>Die Kelten in Österreich nach den ältesten Berichten der Antike</naslov>
                 <cit did="1748" cid="274" avtor0="Dobesch G."
                         naslov0="Die Kelten in Österreich nach den ältesten Berichten der Antike"
                         pubPlace="Wien - Köln - Graz" year="1980"/>
         </delo>
-        <delo mojID="7893">
+        <delo mojID="7893" cobiss="7882317">
                 <naslov>Die Kelten und Kärnten</naslov>
                 <cit did="2447" cid="1" avtor0="Gleirscher Paul" naslov0="Die Kelten und Kärnten"
                         source="Kärntner Jahrbuch für Politik 2000" pubPlace="Klagenfurt"
@@ -39872,7 +39872,7 @@
                         source="Transgenerationale Weitergabe kriegsbelasteter Kindheiten"
                         pubPlace="Weinheim, München" publisher="Juventa" year="2008" page="57-74"/>
         </delo>
-        <delo mojID="7897">
+        <delo mojID="7897" cobiss="466106">
                 <naslov>Die Kinder des Holocaust. Gespräche mit Söhnen und Töchtern von
                         Überlebenden</naslov>
                 <cit did="2839" cid="11" avtor0="Epstein Helen"
@@ -39910,7 +39910,7 @@
                 <cit did="1912" cid="74" avtor0="Kroll Oskar" naslov0="Die Klarinette"
                         pubPlace="Kassel" year="1965"/>
         </delo>
-        <delo mojID="7905">
+        <delo mojID="7905" cobiss="21069101">
                 <naslov>Die Kleidung nach Quellen des frühen Mittelalters, Textilien und Mode von
                         Karl dem Großen bis Heinrich III.</naslov>
                 <cit did="2448" cid="23" avtor0="Müller Metschild"
@@ -40004,7 +40004,7 @@
                         source="Ein Beitrag zur Geschichte&#xA;der Genesisexegese" pubPlace="Leiden"
                         publisher="Brill" year="1968"/>
         </delo>
-        <delo mojID="7925">
+        <delo mojID="7925" cobiss="33299298">
                 <naslov>Die Kosovo Bilanz</naslov>
                 <cit did="2715" cid="32" avtor0="Kramer Helmut" avtor1="Džihić Vedran"
                         naslov0="Die Kosovo Bilanz" pubPlace="Wien" publisher="LIT Verlag"
@@ -40120,7 +40120,7 @@
                         source="MKS simpozij Mogersdorf 1982" pubPlace="Gradz" year="1983"
                         page="301-302"/>
         </delo>
-        <delo mojID="7948">
+        <delo mojID="7948" cobiss="6523469">
                 <naslov>Die kulturpolitische Bedeutung der "St. Hermagoras - Bruderschaft*</naslov>
                 <cit did="435" cid="38" avtor0="Ferdinand Kristof Johann"
                         naslov0="Die kulturpolitische Bedeutung der &#34;St. Hermagoras - Bruderschaft*"
@@ -40177,7 +40177,7 @@
                         source="Die Kärntner Fürstenstein im europäischen Vergleich"
                         pubPlace="Gmund/Kärnten" year="1997" page="45"/>
         </delo>
-        <delo mojID="7960">
+        <delo mojID="7960" cobiss="1038804">
                 <naslov>Die Kärntner Grenzfrage und der Kalte Krieg</naslov>
                 <cit did="964" cid="7" avtor0="Knight Robert"
                         naslov0="Die Kärntner Grenzfrage und der Kalte Krieg" source="Carinthia I"
@@ -40190,7 +40190,7 @@
                         source="Festschrift Adolf Zycha. Abhandlungen zur Rechts- und Wirtschaftsgeschichte"
                         pubPlace="Weimar" year="1941" page="173-232"/>
         </delo>
-        <delo mojID="7963">
+        <delo mojID="7963" cobiss="1034452">
                 <naslov>Die Kärntner Herzogseinsetzung und die Edlingerfrage: Protokoll eines
                         Kolloquiums aus dem Jahre 1965</naslov>
                 <cit did="3257" cid="23" avtor0="Grafenauer Bogo"
@@ -40211,7 +40211,7 @@
                         source="Politische, wirtschaftliche und gesellschaftliche Entwicklung"
                         pubPlace="Klagenfurt" year="1999" page="245-247"/>
         </delo>
-        <delo mojID="7970">
+        <delo mojID="7970" cobiss="24034817">
                 <naslov>Die Kärntner Slowenen im Spiegel der Volkszählung 1981</naslov>
                 <cit did="2729" cid="8" avtor0="Ibounig Peter"
                         naslov0="Die Kärntner Slowenen im Spiegel der Volkszählung 1981"
@@ -40273,7 +40273,7 @@
                         source="Frauen in Konzentrationslagern. Bergen-Belsen; Ravensbrück."
                         pubPlace="Bremen" publisher="Edition Temmen" year="1994" page="79-88"/>
         </delo>
-        <delo mojID="7984">
+        <delo mojID="7984" cobiss="86145280">
                 <naslov>Die Laibacher Studenten- und Volksküche in ihrem Einfluss auf die
                         Volkswohlfahrt: Anläßlich der Wiener Jubiläums-Ausstellung</naslov>
                 <cit did="2638" cid="54" avtor0="Radics Peter von"
@@ -40307,14 +40307,14 @@
                         source="Forschungen zur Verfassungs-und Vemoaltungsgeschichte der Steiermark"
                         pubPlace="Graz" year="1955" volume="15"/>
         </delo>
-        <delo mojID="7991">
+        <delo mojID="7991" cobiss="1028653">
                 <naslov>Die landesfürstliche Visitation der Pfarren und Klöster in der
                         Steiermark...</naslov>
                 <cit did="1589" cid="6" avtor0="Höfer Rudolf K."
                         naslov0="Die landesfürstliche Visitation der Pfarren und Klöster in der Steiermark..."
                         pubPlace="Graz" year="1992" page="248"/>
         </delo>
-        <delo mojID="7992">
+        <delo mojID="7992" cobiss="44670977">
                 <naslov>Die landesfürstliche Visitation und Inquisition von 1528 in der Steiermark.
                         Edition der Texte und Darstellung der Aussagen uber die kirchlichen
                         Zustände</naslov>
@@ -40323,7 +40323,7 @@
                         pubPlace="Graz" publisher="Historische Landeskommission für Steiermark"
                         year="1997"/>
         </delo>
-        <delo mojID="7993">
+        <delo mojID="7993" cobiss="288389">
                 <naslov>Die landesfürstlichen Gesamturbare der Steiermark aus dem
                         Mittelalter</naslov>
                 <cit did="2588" cid="9" avtor0="Dopsch A."
@@ -40361,7 +40361,7 @@
                         naslov0="Die Landtagswahlreform in Galizien" source="Der Kampf" year="1914"
                         volume="7" page="248-252"/>
         </delo>
-        <delo mojID="8006">
+        <delo mojID="8006" cobiss="3363424">
                 <naslov>Die Langobarden in Pannonien. Beiträge zur Kenntnis der langobardischen
                         Bodenfunde vor 586</naslov>
                 <cit did="2532" cid="51" avtor0="Werner Joachim"
@@ -40369,7 +40369,7 @@
                         pubPlace="München" publisher="Bayerische Akademie der Wissenschaften"
                         year="1962"/>
         </delo>
-        <delo mojID="8007">
+        <delo mojID="8007" cobiss="18218541">
                 <naslov>Die Langobarden zwischen Pannonien und Italien</naslov>
                 <cit did="2532" cid="23" avtor0="Jarnut Jörg"
                         naslov0="Die Langobarden zwischen Pannonien und Italien"
@@ -40405,7 +40405,7 @@
                         source="Der Aufstieg der Deutschen Arbeiterbewegung" pubPlace="München"
                         year="1990" page="185-218"/>
         </delo>
-        <delo mojID="8014">
+        <delo mojID="8014" cobiss="512767116">
                 <naslov>Die Legaten von Moesien</naslov>
                 <cit did="1748" cid="923" avtor0="Stein A." naslov0="Die Legaten von Moesien"
                         pubPlace="Budapest" year="1940"/>
@@ -40419,7 +40419,7 @@
                         source="Limes XVIII. Proceedings of the XVIIIth Intern. Congress of Roman Frontier Studies held in Amman"
                         pubPlace="Oxford" year="2002" page="51-66"/>
         </delo>
-        <delo mojID="8016">
+        <delo mojID="8016" cobiss="28872290">
                 <naslov>Die Lehen des Bistums Seckau</naslov>
                 <cit did="2609" cid="9" avtor0="Lang A." naslov0="Die Lehen des Bistums Seckau"
                         source="Veröffentlichungen der Historischen Lindes-Kommission für Steiermark"
@@ -40463,14 +40463,14 @@
                         source="3rd FIS Ski History Conference" pubPlace="Mürzzunschlag"
                         publisher="Wintersportmuseum" year="2005" page="171-177"/>
         </delo>
-        <delo mojID="8024">
+        <delo mojID="8024" cobiss="13939463">
                 <naslov>Die letzten Jahrzehnte einer Großmacht: Menschen, Volker, Probleme des
                         Habsburger-Reichs</naslov>
                 <cit did="1760" cid="176" avtor0="Sieghart Rudolf"
                         naslov0="Die letzten Jahrzehnte einer Großmacht: Menschen, Volker, Probleme des Habsburger-Reichs"
                         pubPlace="Berlin" year="1932"/>
         </delo>
-        <delo mojID="8025">
+        <delo mojID="8025" cobiss="21523201">
                 <naslov>Die letzten Tage der Menschheit</naslov>
                 <cit did="1300" cid="41" avtor0="Kraus Karl"
                         naslov0="Die letzten Tage der Menschheit" pubPlace="Leipzig" year="1922"/>
@@ -40488,7 +40488,7 @@
                         naslov0="Die liberalen Parteien in der Weimarer Republik : politische Parteien in Deutschland und Frankreich 1918-1939"
                         pubPlace="Wiesbaden" year="1969"/>
         </delo>
-        <delo mojID="8029">
+        <delo mojID="8029" cobiss="30925922">
                 <naslov>'Die Liebe sei Euer Heldentum'. Geschlecht und Nation in volkischen Vereinen
                         der Habsburgermonarchie</naslov>
                 <cit did="2638" cid="86" avtor0="Zettelbauer Heidrun"
@@ -40549,7 +40549,7 @@
                         naslov0="Die Luateren Warmbäder (Akratothermen) des Herzogthumes Steiermark neuhaus"
                         pubPlace="Graz" year="1867"/>
         </delo>
-        <delo mojID="8041">
+        <delo mojID="8041" cobiss="32109869">
                 <naslov>Die Lueger-Partei auf Slowenisch. Die Entstehungsgescichte des
                         schlowenischen politischen Katholizismus</naslov>
                 <cit did="2768" cid="17" avtor0="Rahten Andrej"
@@ -40617,7 +40617,7 @@
                         naslov0="Die Martrikeln der Universität Graz 1711-1765" pubPlace="Graz"
                         year="2002"/>
         </delo>
-        <delo mojID="8056">
+        <delo mojID="8056" cobiss="1552224">
                 <naslov>Die materielle Kultur der Spätantike in den Ostalpen: eine Fallstudie am
                         Beispiel der westlichen....</naslov>
                 <cit did="2207" cid="78" avtor0="Ladstätter Sabine"
@@ -40675,7 +40675,7 @@
                         naslov0="Die Maximilianischen Halsgerichtsordnung für Tirol (1499) und Radolfzell (1506) als Zeugnisse mittelalterlicher Strafrechtspflege"
                         pubPlace="Elbe" publisher="Meissner" year="1949" page="140"/>
         </delo>
-        <delo mojID="8066">
+        <delo mojID="8066" cobiss="514159500">
                 <naslov>Die Mehrsprachigkeit bei den innerösterreichischen Jesuiten und ihre
                         wissenschaflichen Leistungen</naslov>
                 <cit did="1789" cid="12" avtor0="Rajšp Vincenc"
@@ -40730,7 +40730,7 @@
                         naslov0="Die Militär-Sanitärsversorgung an der Südwestfront 1914- 1918. Wicn. Univ. Diss., 1995."
                         pubPlace="Wien" year="1995"/>
         </delo>
-        <delo mojID="8076">
+        <delo mojID="8076" cobiss="2459508">
                 <naslov>Die Militärverwaltung in den von den österreichisch-ungarischen Truppen
                         besetzten Gebieten</naslov>
                 <cit did="1300" cid="37" avtor0="Kerchnawe Hugo"
@@ -40910,14 +40910,14 @@
                         source="Theorien des sozialen Wandels" pubPlace="Köln - Berlin" year="1970"
                         page="362-381"/>
         </delo>
-        <delo mojID="8112">
+        <delo mojID="8112" cobiss="20184321">
                 <naslov>Die Musik des 20. Jahrhunderts</naslov>
                 <cit did="2196" cid="16" avtor0="Danuser Hermann"
                         naslov0="Die Musik des 20. Jahrhunderts"
                         source="Neues Handbuch der Musikuiissenschafi" publisher="Laaber Verlag"
                         year="1984" volume="7" page="48-62"/>
         </delo>
-        <delo mojID="8113">
+        <delo mojID="8113" cobiss="83867136">
                 <naslov>Die Musik in Krain und die Bedeutung der philharmonischen
                         Gesellschaft</naslov>
                 <cit did="370" cid="10" avtor0="Keesbacher Friedrich"
@@ -40955,7 +40955,7 @@
                         publisher="Kommissionsverlag Akademische Druck und Verlagsanstalt"
                         year="1959"/>
         </delo>
-        <delo mojID="8119">
+        <delo mojID="8119" cobiss="1140576">
                 <naslov>Die Münzfunde von Manching und die keltischen Fundmunzen aus
                         Südbayern</naslov>
                 <cit did="1939" cid="42" avtor0="Kellner H. J."
@@ -40978,7 +40978,7 @@
                         naslov0="Die nachholende Revolution" pubPlace="Frankfurt am Main"
                         publisher="Suhrkamp" year="1990"/>
         </delo>
-        <delo mojID="8123">
+        <delo mojID="8123" cobiss="702581">
                 <naslov>Die Nachkommen des 1. Fürsten von Schönburg</naslov>
                 <cit did="2623" cid="51" avtor0="Frickert Matthias"
                         naslov0="Die Nachkommen des 1. Fürsten von Schönburg" pubPlace="Glauchau"
@@ -41025,20 +41025,20 @@
                         naslov0="Die nationalistiche Bewegung in Kärnten (1918-1933)"
                         pubPlace="Klagenfurt" year="1998" page="26"/>
         </delo>
-        <delo mojID="8135">
+        <delo mojID="8135" cobiss="43639553">
                 <naslov>Die Nationalitäten in den Staaten Europas</naslov>
                 <cit did="1511" cid="71" avtor0="Čermelj Lavo"
                         naslov0="Die Nationalitäten in den Staaten Europas" pubPlace="Wien"
                         year="1931"/>
         </delo>
-        <delo mojID="8138">
+        <delo mojID="8138" cobiss="27621633">
                 <naslov>Die Nationalitätenproblem der Habsburgermonarchie</naslov>
                 <cit did="220" cid="22" avtor0="Kann A. Robert"
                         naslov0="Die Nationalitätenproblem der Habsburgermonarchie"
                         naslov1="Geschichte und Ideengahalt der nationalen Bestrebungen von Vormärz bis zur Auflösung des Reiches im Jahre 1918"
                         pubPlace="Graz-Köln" year="1964"/>
         </delo>
-        <delo mojID="8139">
+        <delo mojID="8139" cobiss="619892">
                 <naslov>Die nationalsozialistischen Konzentrationslager</naslov>
                 <cit did="405" cid="8" avtor0="Herbert Ulrich, Orth Karin"
                         avtor1="Dieckmann Christoph"
@@ -41052,7 +41052,7 @@
                 <cit did="442" cid="45" avtor0="Vinzez Rizzi" naslov0="Die Nationaltäten in Kärnten"
                         source="Carinthia" year="0"/>
         </delo>
-        <delo mojID="8142">
+        <delo mojID="8142" cobiss="1577684">
                 <naslov>Die Nationswerdung der Slowenen und damit verknüpfte Geschichtsvorstellungen
                         und Geschichtsmythen</naslov>
                 <cit did="2207" cid="81" avtor0="Štih Peter"
@@ -41072,12 +41072,12 @@
                         naslov0="Die neue Wissenschaft von der gemeinschaftlichen Natur der Nation"
                         pubPlace="Frankfurt" year="1981"/>
         </delo>
-        <delo mojID="8145">
+        <delo mojID="8145" cobiss="12189009">
                 <naslov>Die neuen Aufgaben der modernen Jurisprudenz</naslov>
                 <cit did="51" cid="87" avtor0="Meili Friedrich"
                         naslov0="Die neuen Aufgaben der modernen Jurisprudenz" year="0" page="23"/>
         </delo>
-        <delo mojID="8147">
+        <delo mojID="8147" cobiss="1904038">
                 <naslov>Die neuen spatkeltischen und frühkaiserzeitlichen Heiligtumer von
                         Celeia</naslov>
                 <cit did="1943" cid="8" avtor0="Krempus R., Gaspari A., Novsak M."
@@ -41232,7 +41232,7 @@
                         naslov0="Die Ordnung die bürgerlichen Welt, Verhaltensideale und soziale Praktiken im 19. Jahrhundert"
                         pubPlace="Frankfurt - New York" year="1994" page="107"/>
         </delo>
-        <delo mojID="8174">
+        <delo mojID="8174" cobiss="1764186">
                 <naslov>Die Orgel in der Franziskanerkirche in Piran</naslov>
                 <cit did="1912" cid="146" avtor0="Škulj Edo"
                         naslov0="Die Orgel in der Franziskanerkirche in Piran"
@@ -41281,7 +41281,7 @@
                         naslov0="Die Ostalpenländer im Altertum: Regionalgeschichte und europäische Geschichte"
                         source="Tyche" year="1998" volume="13" page="1-18"/>
         </delo>
-        <delo mojID="8182">
+        <delo mojID="8182" cobiss="6291040">
                 <naslov>Die ostalpinen Taurisker und Latobiker</naslov>
                 <cit did="1748" cid="789" avtor0="Petra P."
                         naslov0="Die ostalpinen Taurisker und Latobiker" source="ANRW II"
@@ -41312,13 +41312,13 @@
                         source="Die Frühgeschichte der europäischen Stadt im Mittelalter"
                         page="315-357"/>
         </delo>
-        <delo mojID="8187">
+        <delo mojID="8187" cobiss="68151552">
                 <naslov>Die Oststeiermark: ihre Kunstwerke...</naslov>
                 <cit did="1589" cid="10" avtor0="Kren Peter"
                         naslov0="Die Oststeiermark: ihre Kunstwerke..." pubPlace="Wien-Köln"
                         year="1997" page="78"/>
         </delo>
-        <delo mojID="8188">
+        <delo mojID="8188" cobiss="514934325">
                 <naslov>Die Parabeln des Herrn</naslov>
                 <cit did="1267" cid="21" avtor0="Schäfer J." naslov0="Die Parabeln des Herrn"
                         pubPlace="Freiburg im B." year="1911"/>
@@ -41335,7 +41335,7 @@
                         naslov0="Die Parteien der Weimarer Republik" pubPlace="Stuttgart"
                         year="1965"/>
         </delo>
-        <delo mojID="8191">
+        <delo mojID="8191" cobiss="1001940">
                 <naslov>Die Partisanen in Kärnten. Kämpfer gegen den Faschismus. Kämpfer für ...
                         ?</naslov>
                 <cit did="1705" cid="19" avtor0="Wadl Wilhelm, Ogris Alfred"
@@ -41348,7 +41348,7 @@
                         naslov0="Die Peinliche Gerichtsordnung Kaiser Karls V. von 1532 (Carolina)"
                         pubPlace="Stuttgart" publisher="Reclam" year="1960"/>
         </delo>
-        <delo mojID="8197">
+        <delo mojID="8197" cobiss="513172876">
                 <naslov>Die Personennamen in der römischen Provinz Dalmatia</naslov>
                 <cit did="1748" cid="10" avtor0="Alföldy G."
                         naslov0="Die Personennamen in der römischen Provinz Dalmatia"
@@ -41361,7 +41361,7 @@
                         source="Mittheilungen der K. K. Zentral-Commission zur Erforschung und Erhaltung der Kunst- und historischen Denkmale"
                         pubPlace="Wien" year="0" volume="XVIII" page="173"/>
         </delo>
-        <delo mojID="8202">
+        <delo mojID="8202" cobiss="101075456">
                 <naslov>Die Philharmonische Gesellschaft in Laibach</naslov>
                 <cit did="370" cid="1" avtor0="Bock Emil"
                         naslov0="Die Philharmonische Gesellschaft in Laibach" pubPlace="Laibach"
@@ -41427,7 +41427,7 @@
                         naslov0="Die politische Integration ethnischer Minderheiten aus staats- und völkerrechtlicher Sicht"
                         pubPlace="Frankfurt/Main" year="1995" issue="5"/>
         </delo>
-        <delo mojID="8217">
+        <delo mojID="8217" cobiss="35678306">
                 <naslov>"Die politische Meinung der slowenischen Bevölkerung 1917/18 im Spiegel der
                         Zensurberichte...."</naslov>
                 <cit did="2430" cid="8" avtor0="Lukan Walter"
@@ -41524,7 +41524,7 @@
                         naslov0="Die praurbanen Zentren in Nordwestböhmen auf dem Wege zur Stadt"
                         source="Rurg Buigstudt-Stadt" page="241-255"/>
         </delo>
-        <delo mojID="8239">
+        <delo mojID="8239" cobiss="5423405">
                 <naslov>Die Preussenreisen des europäischen Adels</naslov>
                 <cit did="2631" cid="254" avtor0="Paravicini W."
                         naslov0="Die Preussenreisen des europäischen Adels"
@@ -41615,7 +41615,7 @@
                         source="Kolner historische Abhandlungen 6" pubPlace="Köln - Graz"
                         publisher="Böhlau" year="1961"/>
         </delo>
-        <delo mojID="8255">
+        <delo mojID="8255" cobiss="28694274">
                 <naslov>Die Quellenaussagen zur Paläoethnologie des zentralen Balkanraumes (Iskazi
                         povijesnih vrela o paleoetnologiji središnjega Balkana)</naslov>
                 <cit did="1748" cid="531" avtor0="Katičić R."
@@ -41642,7 +41642,7 @@
                         naslov0="Die Raiffeisenschen Darlehnskassen in der Rheinprovinz und die Grundkreditfrage fur den landlichen Kleinbesitz"
                         pubPlace="Leipzig" year="0"/>
         </delo>
-        <delo mojID="8259">
+        <delo mojID="8259" cobiss="512788108">
                 <naslov>Die Rangordnung des römischen Heeres</naslov>
                 <cit did="1976" cid="38" avtor0="Domaszewski A.,  Dobson B."
                         naslov0="Die  Rangordnung des römischen Heeres" pubPlace="Köln"
@@ -41668,7 +41668,7 @@
                         naslov0="Die rechtlichen Grundsätze der Bestimmung der Volksgruppenzugehörigkeit"
                         pubPlace="Würzburg-Aumühle" year="1940" page="153-155"/>
         </delo>
-        <delo mojID="8263">
+        <delo mojID="8263" cobiss="21190400">
                 <naslov>Die rechtmäßige Revolution. Lajos Kossuth und die Ungarn 1848–1849</naslov>
                 <cit did="2719" cid="4" avtor0="Deák István"
                         naslov0="Die rechtmäßige Revolution. Lajos Kossuth und die Ungarn 1848–1849"
@@ -41683,7 +41683,7 @@
                         naslov0="Die Rechts- und Einredeverzichtsformeln (renuntiationes) der deutschen Urkunden des Mittelalters vom 13. bis zum ausgehenden 15. Jahrhundert (Untersuchungen zur deutsche Staats- und Rechtsgeschichte, Neue Folge 2)"
                         pubPlace="Aalen" year="1963"/>
         </delo>
-        <delo mojID="8265">
+        <delo mojID="8265" cobiss="10311425">
                 <naslov>Die Rechtsentwicklung in Österreich 1848-1918</naslov>
                 <cit did="1487" cid="33" avtor0="Ogris W."
                         naslov0="Die Rechtsentwicklung in Österreich 1848-1918" pubPlace="Wien"
@@ -41789,13 +41789,13 @@
                         pubPlace="Stuttgart" publisher="Franz Steiner Verlag" year="1987"
                         page="165-172"/>
         </delo>
-        <delo mojID="8286">
+        <delo mojID="8286" cobiss="12102189">
                 <naslov>Die Reichsbeamten der römischen Macedonia der Prinzipatsepoche</naslov>
                 <cit did="1748" cid="2" avtor0="Aichinger A."
                         naslov0="Die Reichsbeamten der römischen Macedonia der Prinzipatsepoche"
                         source="Arheološki vestnik" year="1979" volume="30" page="603-691"/>
         </delo>
-        <delo mojID="8287">
+        <delo mojID="8287" cobiss="49723136">
                 <naslov>Die Reichsministerialität der Salier und Staufer: Teil 1</naslov>
                 <cit did="2631" cid="20" avtor0="Bosl K."
                         naslov0="Die Reichsministerialität der Salier und Staufer: Teil 1"
@@ -41836,19 +41836,19 @@
                         source="Gesammelte kleinere Schriften und Bruchsttücke über Strafrecht, Strafprozess, Gefängnisskunde, Literatur und Dogmen-geschichte der Rechtslehre in Österreich"
                         pubPlace="Wien" publisher="Hölder" year="0" page="1-17"/>
         </delo>
-        <delo mojID="8297">
+        <delo mojID="8297" cobiss="34596609">
                 <naslov>Die Revolution der poetischen Sprache</naslov>
                 <cit did="2701" cid="43" avtor0="Kristeva Julia"
                         naslov0="Die Revolution der poetischen Sprache" pubPlace="Frankfurt/Main"
                         publisher="Suhrkamp" year="1978"/>
         </delo>
-        <delo mojID="8298">
+        <delo mojID="8298" cobiss="33529186">
                 <naslov>Die Revolution im Kaisertum Österreich 1848-1849</naslov>
                 <cit did="29" cid="113" avtor0="Kiszling Rudolf"
                         naslov0="Die Revolution im Kaisertum Österreich 1848-1849" pubPlace="Wien"
                         year="1948"/>
         </delo>
-        <delo mojID="8299">
+        <delo mojID="8299" cobiss="21477986">
                 <naslov>Die Revolution von 1848 in Graz</naslov>
                 <cit did="3277" cid="11" avtor0="Pfeisinger Gerhard"
                         naslov0="Die Revolution von 1848 in Graz" pubPlace="Wien" year="1986"/>
