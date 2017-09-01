@@ -3853,7 +3853,7 @@
             naslov0="Erneuerung der Vergangenheit: die Historiker im Imperium Romanum von Florus bis Cassius Dio (Beiträge zur Altertumskunde 45)"
             pubPlace="Stuttgart - Leipzig" year="1994"/>
     </delo>
-    <delo mojID="10785">
+    <delo mojID="10785" cobiss="513957503">
         <naslov>Erotizacija svetniških likov v poznem srednjem veku in renesansi</naslov>
         <cit did="1735" cid="49" avtor0="Mikuž Jure"
             naslov0="Erotizacija svetniških likov v poznem srednjem veku in renesansi"
@@ -3868,13 +3868,13 @@
             source="Glasnik srpskog geografskog društva" year="1968" volume="49" issue="2"
             page="75-98"/>
     </delo>
-    <delo mojID="10787">
+    <delo mojID="10787" cobiss="29387053">
         <naslov>Erozijski procesi v hrvaškem delu "Sive Istre"</naslov>
         <cit did="2056" cid="78" avtor0="Zorn Matija"
             naslov0="Erozijski procesi v hrvaškem delu &#34;Sive Istre&#34;"
             source="Geografski vestnik" year="2008" volume="80" issue="2" page="29-52"/>
     </delo>
-    <delo mojID="10788">
+    <delo mojID="10788" cobiss="242385408">
         <naslov>Erozijski procesi v slovenski Istri</naslov>
         <cit did="2056" cid="79" avtor0="Zorn Matija" naslov0="Erozijski procesi v slovenski Istri"
             source="Geografija Slovenije" pubPlace="Ljubljana" publisher="Založba ZRC" year="2008"
@@ -3938,7 +3938,7 @@
         <cit did="115" cid="12" avtor0="Werner Anselm"
             naslov0="Erweiterungs-Projekt zur Pfarrkirche in Košana" pubPlace="Görz" year="1911"/>
     </delo>
-    <delo mojID="10802">
+    <delo mojID="10802" cobiss="27597569">
         <naslov>Erzahlende Quellen des Mittelalters: Die problematik mittelalterlicher
                         Historiographie am Beispiel der Schlacht bei Dürnkrut und Jedenspeigen
                         1278</naslov>
@@ -3969,13 +3969,13 @@
             naslov0="Erzherzog Johann und die k.k. Land-wirtschaftgeselschaft in Steiermark mit besonderer Berücksichtigung ihrer Anfänge, Inaugural Dissertation an der Philosopischen Fakultät der Karl-Franzens Universität in Graz"
             pubPlace="Graz" year="1968"/>
     </delo>
-    <delo mojID="10811">
+    <delo mojID="10811" cobiss="20357">
         <naslov>Erzherzog Johann und Steiermark</naslov>
         <cit did="28" cid="13" avtor0="Tremel Ferdinand" naslov0="Erzherzog Johann und Steiermark"
             source="Zeitschrift des historischen Vereins für Steiermark : Sonderband 2"
             pubPlace="Graz" year="1959"/>
     </delo>
-    <delo mojID="10812">
+    <delo mojID="10812" cobiss="24078893">
         <naslov>Erzherzog Johanns Tagebuchaufzeichnungen von seinem Aufenthalte im Kurorte
                         Rohitsch =Sauerbrunn und über seine Reisen in Untersteiermark aus den Jahren
                         1810,1811 und 1812</naslov>
@@ -3983,26 +3983,26 @@
             naslov0="Erzherzog Johanns Tagebuchaufzeichnungen von seinem Aufenthalte im  Kurorte Rohitsch =Sauerbrunn und über seine Reisen in Untersteiermark aus den Jahren  1810,1811 und 1812"
             pubPlace="Graz" publisher="Leykam" year="1912"/>
     </delo>
-    <delo mojID="10813">
+    <delo mojID="10813" cobiss="513020556">
         <naslov>Erzherzog Karl II. und die slowenische reformation</naslov>
         <cit did="2705" cid="17" avtor0="Balduin Saria"
             naslov0="Erzherzog Karl II. und die slowenische reformation"
             source="Innerösterreich 1564-1619" pubPlace="Graz" year="1968"/>
     </delo>
-    <delo mojID="10814">
+    <delo mojID="10814" cobiss="20322568">
         <naslov>Erziehung zu europäischer Solidaritat durch geographische Schulbücher der
                         Sekundearstuffe</naslov>
         <cit did="2001" cid="43" avtor0="Weinbrenner U. C."
             naslov0="Erziehung zu europäischer Solidaritat  durch  geographische  Schulbücher der Sekundearstuffe"
             pubPlace="Nürnberg" year="1998"/>
     </delo>
-    <delo mojID="10815">
+    <delo mojID="10815" cobiss="33919586">
         <naslov>Erzählen. Von Homer zu Boccaccio, von Cervantes zu Faulkner</naslov>
         <cit did="2289" cid="6" avtor0="Klotz Volker"
             naslov0="Erzählen. Von Homer zu Boccaccio, von Cervantes zu Faulkner" pubPlace="München"
             publisher="Beck" year="2006"/>
     </delo>
-    <delo mojID="10816">
+    <delo mojID="10816" cobiss="27597569">
         <naslov>Erzählende Quellen des Mittelalters. Die problematik mittelalterlicher
                         Historiographie am Beispiel der Schlacht bei Dürnkrut und Jedenspeigen
                         1278</naslov>
@@ -4010,13 +4010,13 @@
             naslov0="Erzählende Quellen des Mittelalters. Die problematik mittelalterlicher Historiographie am Beispiel der Schlacht bei Dürnkrut und Jedenspeigen 1278"
             pubPlace="Wien" year="1982"/>
     </delo>
-    <delo mojID="10817">
+    <delo mojID="10817" cobiss="35801954">
         <naslov>Erzählstruktur und Lebenslauf : Autobiographische Untersuchungen</naslov>
         <cit did="287" cid="10" avtor0="Lehmann Albrecht"
             naslov0="Erzählstruktur und Lebenslauf : Autobiographische Untersuchungen"
             pubPlace="Frankfurt/Main, New York" publisher="Campus Verlag" year="1983" page="27-31"/>
     </delo>
-    <delo mojID="10819">
+    <delo mojID="10819" cobiss="13631240">
         <naslov>'[...] es flogen Apfel, Eier und andere Gegenstande [...] auf die Bühne'. Zu
                         einigcn Merkmalen der Nestroy-Rezeption in einer
                         südslawisch-osterreichischen Provinz im Vormarz und darüber hinaus</naslov>
@@ -4029,7 +4029,7 @@
         <cit did="213" cid="149" avtor0="Weissensteiner Eva" naslov0="Es wird keinen Frieden geben"
             source="Kärntner Tageszeitung" pubPlace="Klagenfurt/Celovec" year="0" page="4"/>
     </delo>
-    <delo mojID="10821">
+    <delo mojID="10821" cobiss="1309556">
         <naslov>Esau's Tears. Modern anti-Semitism and the rise of the Jews.</naslov>
         <cit did="2904" cid="90" avtor0="Lindemann Albert S."
             naslov0="Esau's Tears. Modern anti-Semitism and the rise of the Jews."
@@ -4064,7 +4064,7 @@
             naslov0="Eschtruth. Natalie. Neue Deutsche Biographie" pubPlace="Berlin"
             publisher="Duncker &amp; Humblot" year="1959" page="651-652"/>
     </delo>
-    <delo mojID="10826">
+    <delo mojID="10826" cobiss="513835600">
         <naslov>Escursioni fra i nomi di luogo del Friuli</naslov>
         <cit did="671" cid="8" avtor0="Desinan C. C."
             naslov0="Escursioni fra i nomi di luogo del Friuli" pubPlace="Udine"
@@ -4075,23 +4075,23 @@
         <cit did="1472" cid="56" avtor0="Scarabello G." naslov0="Esecutori contro la bestemmia"
             pubPlace="Venezia" publisher="Centro internazionale della grafica" year="1991"/>
     </delo>
-    <delo mojID="10830">
+    <delo mojID="10830" cobiss="2215688">
         <naslov>Esej o deseniški Veroniki</naslov>
         <cit did="236" cid="26" avtor0="Kmecl Matjaž" naslov0="Esej o deseniški&#xA;Veroniki"
             pubPlace="Ljubljana" publisher="Partizanska knjiga :&#xA;Orbital-Progres" year="1974"/>
     </delo>
-    <delo mojID="10832">
+    <delo mojID="10832" cobiss="1808852">
         <naslov>Esej o Lipušu</naslov>
         <cit did="2735" cid="63" avtor0="Paternu Boris" naslov0="Esej o Lipušu"
             source="Razpotja slovenske proze" pubPlace="Novo mesto" publisher="Dolenjska založba"
             year="1993" page="171-190"/>
     </delo>
-    <delo mojID="10833">
+    <delo mojID="10833" cobiss="1888257">
         <naslov>Esej o smehu</naslov>
         <cit did="428" cid="5" avtor0="Bergson H." naslov0="Esej o smehu" pubPlace="Ljubljana"
             publisher="Slovenska Matica" year="1977"/>
     </delo>
-    <delo mojID="10834">
+    <delo mojID="10834" cobiss="5644033">
         <naslov>Eseji</naslov>
         <cit did="435" cid="8" avtor0="Bezlaj France" naslov0="Eseji" pubPlace="Ljubljana"
             year="1967"/>
@@ -4101,7 +4101,7 @@
         <cit did="327" cid="2" avtor0="Desnica V." naslov0="Eseji, kritike, pogledi"
             pubPlace="Zagreb" year="1975"/>
     </delo>
-    <delo mojID="10841">
+    <delo mojID="10841" cobiss="3987762">
         <naslov>Esiste il "Catechismus slavonicus" del Cusani?</naslov>
         <cit did="39" cid="3" avtor0="Jelinčič Valentin"
             naslov0="Esiste il &#34;Catechismus slavonicus&#34; del Cusani?"
@@ -4129,7 +4129,7 @@
             naslov0="Espacios publicos, sociabilidad e insercion de los inmigrantes: El caso de dos parques en Valencia.' Prispevek predstavljen na 4, Congreso sobre la inmigracion en Espana"
             pubPlace="Girona" year="2004"/>
     </delo>
-    <delo mojID="10846">
+    <delo mojID="10846" cobiss="97235">
         <naslov>Esperienza di guerra nelle scritture autobiografiche</naslov>
         <cit did="1313" cid="20" avtor0="Verginella Marta"
             naslov0="Esperienza di guerra nelle scritture autobiografiche" source="Qualestoria"
@@ -4295,7 +4295,7 @@
             naslov0="Estimating series of vital rates and age structure from baptisms and burials: a new tecnique, with applications to preindustrial England"
             source="Population Studies" year="1974" volume="28" issue="3" page="495-512"/>
     </delo>
-    <delo mojID="10875">
+    <delo mojID="10875" cobiss="248313">
         <naslov>Estimi e catasticazioni descrittive : Cartografia storica</naslov>
         <cit did="671" cid="15" avtor0="Molteni E."
             naslov0="Estimi e catasticazioni descrittive : Cartografia storica"
@@ -4404,13 +4404,13 @@
         <cit did="2975" cid="22" avtor0="Stevenson Charles L." naslov0="Ethics and language"
             pubPlace="New Haven" publisher="Yale University Press" year="1994"/>
     </delo>
-    <delo mojID="10894">
+    <delo mojID="10894" cobiss="512004467">
         <naslov>Ethics in International Relations: A Constitutive Theory</naslov>
         <cit did="2690" cid="4" avtor0="Frost Mervyn"
             naslov0="Ethics in International Relations: A Constitutive Theory" pubPlace="Cambridge"
             publisher="Cambridge University Press" year="1996"/>
     </delo>
-    <delo mojID="10895">
+    <delo mojID="10895" cobiss="4582993">
         <naslov>Ethics in the Public Domain: Essays in the Morality of Law and
                         Politics</naslov>
         <cit did="3043" cid="26" avtor0="Raz J."
@@ -4430,7 +4430,7 @@
             naslov0="Ethnic and nationalist conflict" source="World security" pubPlace="New York"
             publisher="St. Martin's Press" year="1994" page="175-187"/>
     </delo>
-    <delo mojID="10898">
+    <delo mojID="10898" cobiss="48552193">
         <naslov>Ethnic Cleansing in the Balkans : Nationalism and the Destruction of
                         Tradition</naslov>
         <cit did="2861" cid="16" avtor0="Carmichael Cathie"
@@ -4450,12 +4450,12 @@
             naslov0="Ethnic complexity: routes to discriminatory repertoires in an inner-city neighbourhood"
             source="Ethnic and racial studies" year="2003" volume="26" issue="1" page="1-24"/>
     </delo>
-    <delo mojID="10902">
+    <delo mojID="10902" cobiss="23910237">
         <naslov>Ethnic conflict and political development</naslov>
         <cit did="2382" cid="13" avtor0="Enloe Cintia H."
             naslov0="Ethnic conflict and political development" pubPlace="Boston" year="1973"/>
     </delo>
-    <delo mojID="10903">
+    <delo mojID="10903" cobiss="4638029">
         <naslov>Ethnic Conflict in World Politics</naslov>
         <cit did="2746" cid="33" avtor0="Gurr Ted Robert" avtor1="Harff Barbara"
             naslov0="Ethnic Conflict in World Politics" naslov1="Dilemmas in World Politics"
@@ -4543,13 +4543,13 @@
             source="Hispanic Journal of Behavioral Sciences" year="1991" volume="13" issue="2"
             page="193-208"/>
     </delo>
-    <delo mojID="10922">
+    <delo mojID="10922" cobiss="4382029">
         <naslov>Ethnic identity - cultural continuities and change</naslov>
         <cit did="2917" cid="12" avtor0="De Vos George A." avtor1="Romanucci Ross Lola"
             naslov0="Ethnic identity - cultural continuities and change" pubPlace="Palo Alto"
             publisher="Mayfield Publicity" year="1975"/>
     </delo>
-    <delo mojID="10926">
+    <delo mojID="10926" cobiss="11109197">
         <naslov>Ethnic intolerance and ethnic conflict in the dissolution of
                         Yugoslavia</naslov>
         <cit did="2667" cid="28" avtor0="Sekulić Duško" avtor1="Massey Garth et al"
@@ -4654,7 +4654,7 @@
             source="Urban studies / Http://proquest.umi.com." pubPlace="Abingdon" year="1998"
             volume="35" issue="10"/>
     </delo>
-    <delo mojID="10948">
+    <delo mojID="10948" cobiss="34017536">
         <naslov>Ethnic structure of the Czech Republic in the Census of 1991 and its
                         connections</naslov>
         <cit did="3026" cid="28" avtor0="Vaishar Antonín"
@@ -4678,7 +4678,7 @@
             source="Ethnic identity and equality: varieties of experience in a Canadian City"
             pubPlace="Toronto" publisher="University of Toronto Press" year="1990" page="35-38"/>
     </delo>
-    <delo mojID="10953">
+    <delo mojID="10953" cobiss="634836">
         <naslov>Ethnicity and Identity in the Cold War: The Carinthian Border Dispute,
                         1945-1946</naslov>
         <cit did="1648" cid="16" avtor0="Knight Robert"
@@ -4690,7 +4690,7 @@
         <cit did="2823" cid="79" avtor0="Hutchinson John" naslov0="Ethnicity and modem nations"
             source="Ethnic and Racial Studies" year="2000" volume="23" issue="4" page="651-669"/>
     </delo>
-    <delo mojID="10956">
+    <delo mojID="10956" cobiss="7610626">
         <naslov>Ethnicity and nationhood</naslov>
         <cit did="2968" cid="158" avtor0="Wolf Eric R." naslov0="Ethnicity and nationhood"
             source="Revija za narodnostna vprašanja/Journal for ethnic studies" pubPlace="Ljubljana"
@@ -4729,7 +4729,7 @@
             naslov0="Ethnicity in Anthropological and Archeological Research"
             source="Archeologia Polona" year="1991" issue="29" page="9-11"/>
     </delo>
-    <delo mojID="10964">
+    <delo mojID="10964" cobiss="2845745">
         <naslov>Ethnicity in Borderland</naslov>
         <cit did="386" cid="28" avtor0="Kappus Elke-Nicole" naslov0="Ethnicity in Borderland"
             naslov1="Slovenes and Italians in Trieste" source="MESS" pubPlace="Piran-Ljubljana"
@@ -4886,13 +4886,13 @@
             naslov0="Ethnogonie und Ethnogenese. Teoretisch-ethnologische und ideologiekritische Studie"
             source="Studien zur Ethnogonese" pubPlace="Opladen" year="1985"/>
     </delo>
-    <delo mojID="10996">
+    <delo mojID="10996" cobiss="58617600">
         <naslov>Ethnographische Karte der Oesterreichischen Monarchie</naslov>
         <cit did="3465" cid="16" avtor0="Czoernig Karl"
             naslov0="Ethnographische Karte der Oesterreichischen Monarchie" pubPlace="Wien"
             publisher="K. k. Direction der administrativen Statistik" year="1855"/>
     </delo>
-    <delo mojID="10997">
+    <delo mojID="10997" cobiss="208892160">
         <naslov>Ethnographisches Gemählde der slavonischen Militärgränze, oder ausführliche
                         Darstellung der Lage, Beschaffenheit und politischen Verfassung des Landes,
                         dann der Lebensart, Sitten, Gebräuche, der geistigen Bildung und des
@@ -4915,7 +4915,7 @@
             naslov0="Ethnography in/of the World System: The Emergence of Multi-Sited Ethnography"
             source="Annual Revieiw of Anthropo!ogy" year="1995" volume="24" page="95-117"/>
     </delo>
-    <delo mojID="11000">
+    <delo mojID="11000" cobiss="634973">
         <naslov>Ethnography : Principles And Practice</naslov>
         <cit did="287" cid="8" avtor0="Hammersley Martyn, Atkinson Paul"
             naslov0="Ethnography : Principles And Practice" pubPlace="London, New York"
@@ -4955,7 +4955,7 @@
             naslov0="Ethnopolitics and Transition to Democracy: The Collapse of the USSR and Latvia"
             pubPlace="Washington, D.C." publisher="Woodrow Wilson Center Press" year="1994"/>
     </delo>
-    <delo mojID="11008">
+    <delo mojID="11008" cobiss="923080">
         <naslov>Ethnopolitics in Constitutional Courts: Estonia and Latvia Compared</naslov>
         <cit did="2841" cid="20" avtor0="Pettai Vello"
             naslov0="Ethnopolitics in Constitutional Courts: Estonia and Latvia Compared"
@@ -4969,7 +4969,7 @@
             source="12. ICAES; Revija za narodnostna vprašanja/Journal for ethnic studies"
             pubPlace="Zagreb; Ljubljana" publisher="INV" year="1988" issue="21"/>
     </delo>
-    <delo mojID="11010">
+    <delo mojID="11010" cobiss="2032364">
         <naslov>Ethnos e civiltà</naslov>
         <cit did="418" cid="42" avtor0="Tullio-Altan Carlo" naslov0="Ethnos e civiltà"
             naslov1="Identità ethniche e valori democratici" pubPlace="Milano"
@@ -4992,7 +4992,7 @@
             naslov0="Etica e politica nell'utilitarismo di Cesare Beccaria" pubPlace="Napoli"
             publisher="Istituto Italiano per gli Studi Storici" year="1971"/>
     </delo>
-    <delo mojID="11015">
+    <delo mojID="11015" cobiss="638828">
         <naslov>Etika i tradicije narodnooslobodilačkog rata i socijalističke revolucije u
                         Jugoslaviji</naslov>
         <cit did="634" cid="31" avtor0="Miladinović Milan M."
@@ -5004,19 +5004,19 @@
         <cit did="860" cid="186" avtor0="Puhar Alenka" naslov0="&#34;Etika in psihiatrija&#34;"
             source="Ampak" publisher="Nova revija" page="2-6"/>
     </delo>
-    <delo mojID="11019">
+    <delo mojID="11019" cobiss="218963712">
         <naslov>Etika popolnega humanizma za danes</naslov>
         <cit did="106" cid="237" avtor0="Grmič Vekoslav"
             naslov0="Etika popolnega humanizma za danes" source="Znamenje" year="2002" issue="1-2"
             page="13-22"/>
     </delo>
-    <delo mojID="11020">
+    <delo mojID="11020" cobiss="318573">
         <naslov>Etika skrbi v migracijskih politikah</naslov>
         <cit did="2907" cid="32" avtor0="Zavratnik Zimic Simona"
             naslov0="Etika skrbi v migracijskih politikah" source="Teorija in praksa" year="2003"
             issue="40" page="1143-1154"/>
     </delo>
-    <delo mojID="11021">
+    <delo mojID="11021" cobiss="11430242">
         <naslov>Etika v sistemu filozofije</naslov>
         <cit did="106" cid="294" avtor0="Toth C." naslov0="Etika v sistemu filozofije"
             source="Anthropos" year="1999" volume="31" issue="4-6" page="85-95"/>
@@ -5036,7 +5036,7 @@
             naslov0="Etimologiceskij slovari skogo jazyka I—IV. Perevod s nemeckogo i dopolr clena-korrespondenta AN SSSR O. N. Trubacev, danie vtoroe, stereotipnoe"
             pubPlace="Moskva" publisher="Progres" year="0"/>
     </delo>
-    <delo mojID="11025">
+    <delo mojID="11025" cobiss="5750161">
         <naslov>Etimološki prikaz izbranih pojmov iz ribiškega izrazja na slovenski
                         obali</naslov>
         <cit did="2636" cid="42" avtor0="Filipi G."
@@ -5056,7 +5056,7 @@
             source="Štiristolet let prevajanja na Slovenskem" pubPlace="Ljubljana" year="1985"
             page="7"/>
     </delo>
-    <delo mojID="11032">
+    <delo mojID="11032" cobiss="2908506">
         <naslov>Etični in moralni prerez Rogerijevih hagiografskih pridig</naslov>
         <cit did="1735" cid="51" avtor0="Mlinar Anton"
             naslov0="Etični in moralni prerez Rogerijevih hagiografskih pridig"
@@ -5064,39 +5064,39 @@
             pubPlace="Ljubljana" publisher="SAZU, Razred za filološke in literarne vede" year="2001"
             page="77-97"/>
     </delo>
-    <delo mojID="11033">
+    <delo mojID="11033" cobiss="409222">
         <naslov>Etnicitet u novom ključu, Prevela I. Spasič, Biblioteka XX vek</naslov>
         <cit did="2612" cid="49" avtor0="Dženkins Ričard"
             naslov0="Etnicitet u novom ključu, Prevela I. Spasič, Biblioteka XX vek"
             pubPlace="Beograd" year="2001"/>
     </delo>
-    <delo mojID="11034">
+    <delo mojID="11034" cobiss="8988493">
         <naslov>Etnicità e classi. Elementi di riflessione sulle dinamiche
                         confinarie</naslov>
         <cit did="2895" cid="5" avtor0="Cherini Marcello"
             naslov0="Etnicità e classi. Elementi di riflessione sulle dinamiche confinarie"
             pubPlace="Milano" publisher="Ed. Dott. A. Giuffre" year="1982"/>
     </delo>
-    <delo mojID="11036">
+    <delo mojID="11036" cobiss="7535410">
         <naslov>Etnička grupa Bezjaci</naslov>
         <cit did="2612" cid="44" avtor0="Gušić Marijana" naslov0="Etnička grupa Bezjaci"
             source="Zbornik za narodni život i običaje južnih Slavena, Knjiga 43" pubPlace="Zagreb"
             year="1967"/>
     </delo>
-    <delo mojID="11037">
+    <delo mojID="11037" cobiss="23653218">
         <naslov>Etnička slika Srbije - popis 2002. godine</naslov>
         <cit did="2727" cid="11" avtor0="Raduški Nada"
             naslov0="Etnička slika Srbije - popis 2002. godine" source="Migracijske i etničke teme"
             year="2003" volume="19" issue="2/3" page="253-267"/>
     </delo>
-    <delo mojID="11038">
+    <delo mojID="11038" cobiss="2966793">
         <naslov>Etnička struktura Pule od 1613. do 1797. s posebnim osvrtom na smjer
                         doseljivanja njezina stanovništva</naslov>
         <cit did="3516" cid="2" avtor0="Bertoša M."
             naslov0="Etnička struktura Pule od 1613. do 1797. s posebnim osvrtom na smjer doseljivanja njezina stanovništva"
             source="Vjesnik historijskih arhiva u Rijeci i Pazinu" pubPlace="Rijeka" year="1970"/>
     </delo>
-    <delo mojID="11039">
+    <delo mojID="11039" cobiss="49751809">
         <naslov>Etnička vremena</naslov>
         <cit did="3072" cid="22" avtor0="Kecmanović Dušan" naslov0="Etnička vremena"
             pubPlace="Beograd" publisher="Biblioteka XX. vek" year="2001" page="190"/>
@@ -5155,7 +5155,7 @@
             source="Etnološki pregled 11, Izdaje Etnološko društvo Jugoslavije" pubPlace="Beograd"
             year="1973"/>
     </delo>
-    <delo mojID="11055">
+    <delo mojID="11055" cobiss="10967885">
         <naslov>Etnična podoba skozi statistične podatke</naslov>
         <cit did="3151" cid="16" avtor0="Komac Miran"
             naslov0="Etnična podoba skozi statistične podatke"
@@ -5170,13 +5170,13 @@
             naslov1="referat na mednarodnem posvetu &#34;Nacionalne  manjine u jugoističnoj Europi&#34;"
             pubPlace="Vrbovsko, Gorski Kotar" year="2001"/>
     </delo>
-    <delo mojID="11057">
+    <delo mojID="11057" cobiss="9667917">
         <naslov>Etnična sestava prebivalstva in medetnični odnosi v Velenju</naslov>
         <cit did="2727" cid="14" avtor0="Zupančič Jernej"
             naslov0="Etnična sestava prebivalstva in medetnični odnosi v Velenju" source="RiG"
             pubPlace="Ljubljana" publisher="INV" year="2004" issue="46" page="154-165"/>
     </delo>
-    <delo mojID="11063">
+    <delo mojID="11063" cobiss="22500141">
         <naslov>Etnične in jezikovne razmere v mestih in trgih štajerskega Podravja in
                         Pomurja v stoletjih pred 1800</naslov>
         <cit did="1288" cid="25" avtor0="Golec Boris"
@@ -5184,7 +5184,7 @@
             source="Podravina : časopis za multidisciplinarna istraživanja" year="2004"
             page="107-121"/>
     </delo>
-    <delo mojID="11065">
+    <delo mojID="11065" cobiss="5599774">
         <naslov>Etnične manjšine v slovenskih množičnih medijih</naslov>
         <cit did="2717" cid="10" avtor0="Makarovič Matej" avtor1="Rončević Borut"
             naslov0="Etnične manjšine v slovenskih množičnih medijih" source="Družboslovne razprave"
@@ -5196,7 +5196,7 @@
             naslov0="Etnične prvine v kulturi potomcev žumberških Uskokov v Sloveniji"
             naslov1="Diplomsko delo" pubPlace="Ljubljana" year="1985" page="15"/>
     </delo>
-    <delo mojID="11068">
+    <delo mojID="11068" cobiss="244349696">
         <naslov>Etnični preobrat zgodnjega srednjega veka in njegov vpliv</naslov>
         <cit did="2535" cid="38" avtor0="Pohl Walter"
             naslov0="Etnični preobrat zgodnjega srednjega veka in njegov vpliv"
@@ -5214,7 +5214,7 @@
             naslov0="Etnično-regionalni problemi italijanske narodnosti v Sloveniji"
             source="Geografija v šoli 1" year="1991" page="34-35"/>
     </delo>
-    <delo mojID="11073">
+    <delo mojID="11073" cobiss="244349696">
         <naslov>Etničnoregionalni problemi madžarske manjšine v Prekmurju</naslov>
         <cit did="2854" cid="15" avtor0="Zupančič Jernej"
             naslov0="Etničnoregionalni problemi madžarske manjšine v Prekmurju"
@@ -5251,7 +5251,7 @@
             naslov0="Etničnost na hrvatskom prostoru u XIX. Stoljeću: Od etnićke zajednice, plemićkog naroda i pokrajinskih partikularizma do hrvatske nacije"
             pubPlace="Zagreb" year="1999" page="123"/>
     </delo>
-    <delo mojID="11079">
+    <delo mojID="11079" cobiss="7844173">
         <naslov>Etničnost, nacija, nacionalizam: selektivna bibliografija
                         (1997–2000)</naslov>
         <cit did="2803" cid="29" avtor0="Kumpes Josip"
@@ -5273,19 +5273,19 @@
             naslov0="Etnodemografski okvir srpske agresije na hrvatsko Podunavlje" pubPlace="Zagreb"
             publisher="Acta geographica Croatica" year="1997" volume="32" page="145-160"/>
     </delo>
-    <delo mojID="11083">
+    <delo mojID="11083" cobiss="17838637">
         <naslov>Etnogeneza Slovencev: rezultati antropoloških raziskav</naslov>
         <cit did="1893" cid="15" avtor0="Leben Seljak Petra"
             naslov0="Etnogeneza Slovencev: rezultati antropoloških raziskav"
             source="Slovenija in sosednje dežele" page="554-556"/>
     </delo>
-    <delo mojID="11084">
+    <delo mojID="11084" cobiss="512140672">
         <naslov>Etnografije interneta</naslov>
         <cit did="2008" cid="56" avtor0="Senkovič R., Pleše I." naslov0="Etnografije   interneta"
             pubPlace="Zagreb" publisher="Institut za etnologiju i folkloristiku - IBIS Grafika"
             year="2004"/>
     </delo>
-    <delo mojID="11088">
+    <delo mojID="11088" cobiss="4698189">
         <naslov>Etnografske posebnosti v nekdanjem Kočevskem nemškem jezikovnem
                         otoku</naslov>
         <cit did="2670" cid="20" avtor0="Kundegraber Lackner Marija"
@@ -5299,7 +5299,7 @@
             source="Enciklopedija Slovenije 3." pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1989" page="63-70"/>
     </delo>
-    <delo mojID="11093">
+    <delo mojID="11093" cobiss="19854893">
         <naslov>Etnološka muzeologija in razvoj: od raziskovanja preteklosti k načrtovanju
                         razvoja</naslov>
         <cit did="1622" cid="2" avtor0="Gačnik Aleš"
@@ -5320,18 +5320,18 @@
             publisher="Občina Cerknica: Znanstveni inštitut Filozofske fakultete v Ljubljani"
             year="1990"/>
     </delo>
-    <delo mojID="11096">
+    <delo mojID="11096" cobiss="57114880">
         <naslov>Etnološka topografija slovenskega etničnega ozemlja : 20. stoletje</naslov>
         <cit did="430" cid="22" avtor0="Miklavčič-Brezigar Inga"
             naslov0="Etnološka topografija slovenskega etničnega ozemlja : 20. stoletje"
             pubPlace="Ljubljana" year="1996" page="28"/>
     </delo>
-    <delo mojID="11098">
+    <delo mojID="11098" cobiss="3797248">
         <naslov>Etnološki razgledi in dileme</naslov>
         <cit did="2256" cid="3" avtor0="Kremenšek Slavko" naslov0="Etnološki razgledi in dileme"
             pubPlace="Ljubljana" year="1985" volume="2"/>
     </delo>
-    <delo mojID="11102">
+    <delo mojID="11102" cobiss="7445837">
         <naslov>Etnološko raziskovanje manjšin v Sloveniji / Kisebbségi néprajzi kutatások
                         Szlovéniában</naslov>
         <cit did="2802" cid="15" avtor0="Munda Hirnök Katalin"
@@ -5345,7 +5345,7 @@
             naslov0="Etnonacionalni sindrom: između čovječanstva i plemena" pubPlace="Zagreb"
             publisher="Durieux" issue="2007"/>
     </delo>
-    <delo mojID="11104">
+    <delo mojID="11104" cobiss="28436482">
         <naslov>Etnonim Illyrioi u dvama epitafskim epigramima jonskomorskih i jadranskih
                         Grka i u nekim drugim epigrafskim tekstovima (Ethnonym Illyrioi in zwei
                         Epitaph-Epigrammen der Griechen vom Ionischen und Adriatischen Meer und noch
@@ -5389,7 +5389,7 @@
             naslov0="Etymologiae : Libri etymologiarum (sive originum) libri XX (et de summo bono libri tres)"
             source="Scriptorum classicorum bibliotheca Oxoniensis" pubPlace="Oxonii" year="1911"/>
     </delo>
-    <delo mojID="11112">
+    <delo mojID="11112" cobiss="23102977">
         <naslov>Etymologicky slovnik slovanskych jazykü, 2. Spojky, častice, zàjmena
                         zàjmennà adverbia</naslov>
         <cit did="3256" cid="28" avtor0="Kopečny Frantisele, Vladimir Šaur, Vàclav Polàk"
@@ -5408,7 +5408,7 @@
             naslov1="Theories de la Langue" source="Annales" year="1981" volume="36" page="946-962"
         />
     </delo>
-    <delo mojID="11116">
+    <delo mojID="11116" cobiss="3072557">
         <naslov>Etymologisches Worterbuch des Altindoarischen l-lll</naslov>
         <cit did="1926" cid="13" avtor0="Mayrhofer M."
             naslov0="Etymologisches Worterbuch des Altindoarischen l-lll" source="1986-2001"
@@ -5434,12 +5434,12 @@
             source="Communist and Post-Communist Studies" year="2005" volume="38" issue="1"
             page="71-88"/>
     </delo>
-    <delo mojID="11122">
+    <delo mojID="11122" cobiss="5232721">
         <naslov>EU Law</naslov>
         <cit did="51" cid="21" avtor0="Craig Paul, de Brúca" naslov0="EU Law" pubPlace="Oxford"
             year="2003" page="7-10"/>
     </delo>
-    <delo mojID="11123">
+    <delo mojID="11123" cobiss="285384">
         <naslov>EU Law</naslov>
         <cit did="51" cid="22" avtor0="Weatherill Stephen, Beaumont Paul" naslov0="EU Law"
             pubPlace="London" year="1999" page="1-2"/>
@@ -5470,7 +5470,7 @@
             naslov0="Eucherius von Lynon, Theodor von Octodurus und ihre Legionäre: Zu den historischen Bedingungen einer hagiographischen Geschichtsdeutung"
             source="Mauritius und die Thebäische Legion" page="95-117"/>
     </delo>
-    <delo mojID="11129">
+    <delo mojID="11129" cobiss="19953409">
         <naslov>Eufrazijeva bazilika u Poreču</naslov>
         <cit did="2408" cid="10" avtor0="Prelog Matija" naslov0="Eufrazijeva bazilika u Poreču"
             pubPlace="Zagreb" year="1986" page="13-14"/>
@@ -5592,7 +5592,7 @@
             naslov0="Europdisches Städtewesen und Burgertum von der Spätantike bis zum hohen Mittelalter"
             pubPlace="Darmstadt" publisher="Wissenschaftliche Buchgesellschaft" year="1991"/>
     </delo>
-    <delo mojID="11153">
+    <delo mojID="11153" cobiss="21850205">
         <naslov>Europe</naslov>
         <cit did="51" cid="58" avtor0="Duroselle Jean Baptiste" naslov0="Europe"
             naslov1="A History of its People" pubPlace="London" year="1990" page="19"/>
@@ -5646,7 +5646,7 @@
             naslov0="Europe and the Turk: a Pattern of Alliances 1350-1700" pubPlace="Liverpool"
             publisher="At the University Press" year="1954"/>
     </delo>
-    <delo mojID="11163">
+    <delo mojID="11163" cobiss="75049984">
         <naslov>Europe as an Idea and an Identity</naslov>
         <cit did="2823" cid="111" avtor0="Mikkeli Heikki"
             naslov0="Europe as an Idea and an Identity" pubPlace="New York"
@@ -5688,7 +5688,7 @@
             source="http://www.taemag.com/issues/arti-cleid l7420/article_detail.asp, obiskano 11.2. 2004."
             year="2004"/>
     </delo>
-    <delo mojID="11174">
+    <delo mojID="11174" cobiss="32361005">
         <naslov>Europe on the move: War and Population Changes, 1917-1947</naslov>
         <cit did="2547" cid="13" avtor0="Kulisher Eugene"
             naslov0="Europe on the move: War and Population Changes, 1917-1947" pubPlace="New York"
@@ -5707,7 +5707,7 @@
             source="European Journal of Social Theory" year="2008" volume="11" issue="2"
             page="257-274"/>
     </delo>
-    <delo mojID="11178">
+    <delo mojID="11178" cobiss="512140160">
         <naslov>Europe without Borders : remapping Territory, Citizenship and Identity in a
                         Transnational Age</naslov>
         <cit did="673" cid="2" avtor0="Berezin M., Schain M."
@@ -5746,12 +5746,12 @@
         <cit did="51" cid="238" avtor0="Pinder John" naslov0="European Community and Nation-State"
             source="International Affairs" year="1986" volume="62" issue="1" page="46"/>
     </delo>
-    <delo mojID="11186">
+    <delo mojID="11186" cobiss="190975">
         <naslov>European Constitutionalism Beyond the State</naslov>
         <cit did="51" cid="244" avtor0="Weiler Joseph, Wind Marlene"
             naslov0="European Constitutionalism Beyond the State" pubPlace="Cambridge" year="2003"/>
     </delo>
-    <delo mojID="11188">
+    <delo mojID="11188" cobiss="3584349">
         <naslov>European Democracies</naslov>
         <cit did="2669" cid="28" avtor0="Steiner Jürg" naslov0="European Democracies"
             naslov1="second edition" pubPlace="London, New York" publisher="Longman" year="1991"/>
@@ -5768,7 +5768,7 @@
             naslov0="European economic community migrations" pubPlace="Den Haag"
             publisher="Martinus Nijhoff" year="1969"/>
     </delo>
-    <delo mojID="11192">
+    <delo mojID="11192" cobiss="5299021">
         <naslov>European ethnic and linguistic minorities in social anthropological
                         perspective</naslov>
         <cit did="3039" cid="76" avtor0="Knudsen Anne"
@@ -5781,12 +5781,12 @@
         <cit did="51" cid="229" avtor0="Riker H. William" naslov0="European Federalism"
             source="The Lessons of Past Experience" year="1996" page="10"/>
     </delo>
-    <delo mojID="11195">
+    <delo mojID="11195" cobiss="22064477">
         <naslov>European Forms of Belonging</naslov>
         <cit did="51" cid="50" avtor0="Debeljak Aleš" naslov0="European Forms of Belonging"
             source="East European Politics and Societies" year="2003" volume="17" issue="2"/>
     </delo>
-    <delo mojID="11196">
+    <delo mojID="11196" cobiss="8842829">
         <naslov>European identities: Central Europe, the EU eastern enlargement and identity
                         formation</naslov>
         <cit did="2829" cid="19" avtor0="Žagar Mitja"
@@ -5831,7 +5831,7 @@
             naslov0="European migration from east to west: present patterns and future directions"
             source="New Community" year="1996" volume="22" issue="2" page="227-242"/>
     </delo>
-    <delo mojID="11203">
+    <delo mojID="11203" cobiss="63098624">
         <naslov>European migration in the late Twentieth Century</naslov>
         <cit did="3028" cid="8" avtor0="Fassmann Heinz" avtor1="Münz Rainer"
             naslov0="European migration in the late Twentieth Century" pubPlace="Aldershot"
@@ -5866,7 +5866,7 @@
             naslov0="European pluralingualism from national language perspective" source="RiG"
             pubPlace="Ljubljana" publisher="INV" year="2001" issue="38/39" page="6-25"/>
     </delo>
-    <delo mojID="11211">
+    <delo mojID="11211" cobiss="6397773">
         <naslov>European regionalism and the search for new representational spaces</naslov>
         <cit did="673" cid="39" avtor0="Williams Colin H."
             naslov0="European regionalism and the search for new representational spaces"
@@ -5955,12 +5955,12 @@
             naslov0="‘Europe’s Second Demographic Transition" source="Population Bulletin"
             year="1987" volume="42" issue="1" page="3–57"/>
     </delo>
-    <delo mojID="11229">
+    <delo mojID="11229" cobiss="12298041">
         <naslov>Europäische Helme</naslov>
         <cit did="1627" cid="14" avtor0="Müller Heinrich" naslov0="Europäische Helme"
             pubPlace="Berlin" year="1971" page="28"/>
     </delo>
-    <delo mojID="11230">
+    <delo mojID="11230" cobiss="1122912">
         <naslov>Europäische Hieb- und Stichwaffen</naslov>
         <cit did="1627" cid="2" avtor0="Müller Heinrich" naslov0="Europäische Hieb- und Stichwaffen"
             pubPlace="Berlin" year="1981" page="43"/>
@@ -5977,7 +5977,7 @@
             naslov0="Europäische Kunst im 19. Jahrhundert" pubPlace="Freiburg-Basel-Dunaj"
             year="1990" page="215"/>
     </delo>
-    <delo mojID="11234">
+    <delo mojID="11234" cobiss="1237600">
         <naslov>Europäische Plaketten und Medaillen vom 15. bis zum 18. Jahrhundert</naslov>
         <cit did="3381" cid="4" avtor0="Bekker Gerd"
             naslov0="Europäische Plaketten und Medaillen vom 15. bis zum 18. Jahrhundert"
@@ -6014,7 +6014,7 @@
             source="http://mediawatch.mirovni-institut.si/eng/eurosis.pdf" pubPlace="Ljubljana"
             publisher="Mirovni inštitut" year="2005"/>
     </delo>
-    <delo mojID="11241">
+    <delo mojID="11241" cobiss="26527021">
         <naslov>»Euthanasie« im NS-Staat</naslov>
         <cit did="1813" cid="32" avtor0="Klee Ernst" naslov0="»Euthanasie« im NS-Staat"
             pubPlace="Frankfurt am Main" year="1985"/>
@@ -6090,12 +6090,12 @@
             naslov0="Evangelische Geistlichkeit in der Frühen Neueit..." pubPlace="Gütersloh"
             year="1996"/>
     </delo>
-    <delo mojID="11252">
+    <delo mojID="11252" cobiss="36889857">
         <naslov>Evangeličanska cerkev na Slovenskem</naslov>
         <cit did="2784" cid="6" avtor0="Kerčmar Vili" naslov0="Evangeličanska cerkev na Slovenskem"
             pubPlace="Murska Sobota" publisher="Evangeličanska cerkev v Sloveniji" year="1995"/>
     </delo>
-    <delo mojID="11253">
+    <delo mojID="11253" cobiss="11934472">
         <naslov>Evangeličanska cerkvena občina v Mariboru (1862-1945) s posebnim ozirom na
                         obdobje med obema vojnama</naslov>
         <cit did="2784" cid="23" avtor0="Zajšek Boštjan"
@@ -6109,7 +6109,7 @@
             naslov0="Eversioni di destra, terrorismo, stragi : i fatti e l'intervento giudiziario"
             pubPlace="Milano" publisher="Franco Angeli" year="1986" page="65-67 in 81, 87"/>
     </delo>
-    <delo mojID="11256">
+    <delo mojID="11256" cobiss="7084505">
         <naslov>Evgen Kansky dr. phil., dr. med., 1887-1977</naslov>
         <cit did="1639" cid="4" avtor0="Kansky Aleksej"
             naslov0="Evgen Kansky dr. phil., dr. med., 1887-1977" source="Zdravstveni vestnik"
@@ -6120,17 +6120,17 @@
         <cit did="1884" cid="13" avtor0="Ušeničnik Aleš" naslov0="Evgenika" source="Čas" year="1931"
             issue="3-4" page="128-133"/>
     </delo>
-    <delo mojID="11258">
+    <delo mojID="11258" cobiss="39209729">
         <naslov>Evgenika dr. Ivana Tavčarja</naslov>
         <cit did="1884" cid="10" avtor0="Županič Niko" naslov0="Evgenika dr. Ivana Tavčarja"
             pubPlace="Ljubljana" year="1921"/>
     </delo>
-    <delo mojID="11259">
+    <delo mojID="11259" cobiss="21994496">
         <naslov>Evgipij. Življenje svetega Severina</naslov>
         <cit did="2532" cid="2" avtor0="Bratož Rajko" naslov0="Evgipij. Življenje svetega Severina"
             pubPlace="Ljubljana" publisher="Filozofska fakulteta, Znanstveni inštitut" year="1982"/>
     </delo>
-    <delo mojID="11260">
+    <delo mojID="11260" cobiss="6527021">
         <naslov>Evidence for Christianity in Roman Southern Pannonia (Northern
                         Croatia)</naslov>
         <cit did="173" cid="10" avtor0="Migotti Branka"
@@ -6159,7 +6159,7 @@
             source="Odlomci o jugoslovenskim zemljama" pubPlace="Sarajevo" publisher="Svjetlost"
             year="1954" page="7-61"/>
     </delo>
-    <delo mojID="11267">
+    <delo mojID="11267" cobiss="246455552">
         <naslov>Evine hčere: konstruiranje ženskosti v slovenskem javnem diskurzu
                         1848-1902</naslov>
         <cit did="3127" cid="9" avtor0="Mihurko Poniž Katja"
@@ -6185,7 +6185,7 @@
             source="Le popolazioni del mare. Porti franchi, città, isole e  villaggi costieri tra età moderna e contemporanea"
             pubPlace="Udine" year="2003" page="13-46"/>
     </delo>
-    <delo mojID="11271">
+    <delo mojID="11271" cobiss="248774656">
         <naslov>Evrocentrizem. Kritika neke ideologije</naslov>
         <cit did="2656" cid="1" avtor0="Amin Samir" naslov0="Evrocentrizem. Kritika neke ideologije"
             pubPlace="Ljubljana" publisher="Založba Sophia" year="2009"/>
@@ -6195,18 +6195,18 @@
         <cit did="51" cid="45" avtor0="Mancini C. Federico" naslov0="Evropa"
             naslov1="Argumenti za državnost" source="Ustava Evrope" year="2002" page="337"/>
     </delo>
-    <delo mojID="11273">
+    <delo mojID="11273" cobiss="129341184">
         <naslov>Evropa brez Evropejcev</naslov>
         <cit did="677" cid="4" avtor0="Debeljak Aleš" naslov0="Evropa brez Evropejcev"
             pubPlace="Ljubljana" publisher="Založba Sophia" year="2004"/>
     </delo>
-    <delo mojID="11274">
+    <delo mojID="11274" cobiss="4595021">
         <naslov>Evropa domovin ali evropski narod?</naslov>
         <cit did="407" cid="11" avtor0="Rovan J." naslov0="Evropa domovin ali evropski narod?"
             source="Nova revija" pubPlace="Ljubljana" year="1996" volume="15" issue="167"
             page="104-111"/>
     </delo>
-    <delo mojID="11275">
+    <delo mojID="11275" cobiss="228006144">
         <naslov>Evropa. Geografija za 2. in 3. letnik gimnazij</naslov>
         <cit did="2001" cid="36" avtor0="Senegačnik J., Lipovšek I., Pak M."
             naslov0="Evropa. Geografija za 2. in 3. letnik gimnazij" pubPlace="Ljubljana"
@@ -6218,30 +6218,30 @@
             naslov0="Evropa in Slovenci kot evropski narod" source="Naši razgledi" year="1987"
             volume="36" page="684"/>
     </delo>
-    <delo mojID="11278">
+    <delo mojID="11278" cobiss="76666624">
         <naslov>Evropa in svet od 16. do 18. stoletja (priročnik za učitelje zgodovine v
                         osnovni šoli)</naslov>
         <cit did="1721" cid="5" avtor0="Mrevlje Božidar"
             naslov0="Evropa in svet od 16. do 18. stoletja (priročnik za učitelje zgodovine v osnovni šoli)"
             pubPlace="Ljubljana" year="1998"/>
     </delo>
-    <delo mojID="11279">
+    <delo mojID="11279" cobiss="18928733">
         <naslov>Evropa kot odgovor na globalizacijo</naslov>
         <cit did="2823" cid="14" avtor0="Beck Ulrich" naslov0="Evropa kot odgovor na globalizacijo"
             source="Nova revija" year="1998" volume="17" page="54-59"/>
     </delo>
-    <delo mojID="11280">
+    <delo mojID="11280" cobiss="75195392">
         <naslov>Evropa med evolucijo in evtanazijo</naslov>
         <cit did="2822" cid="45" avtor0="Mastnak Tomaž" naslov0="Evropa med evolucijo in evtanazijo"
             pubPlace="Ljubljana"
             publisher="Zavod za založniško dejavnost (Studia Humanitatis, Apes; 8)" year="1998"/>
     </delo>
-    <delo mojID="11281">
+    <delo mojID="11281" cobiss="128093696">
         <naslov>Evropa: naša preteklost in sedanjost</naslov>
         <cit did="1662" cid="3" avtor0="Boden Martina"
             naslov0="Evropa: naša preteklost in sedanjost" pubPlace="Ljubljana" year="2004"/>
     </delo>
-    <delo mojID="11282">
+    <delo mojID="11282" cobiss="19357021">
         <naslov>Evropa (ne)enakih možnosti spolov</naslov>
         <cit did="106" cid="251" avtor0="Jogan M." naslov0="Evropa (ne)enakih možnosti spolov"
             source="Anthropos" year="1999" volume="31" issue="4-6" page="142-148"/>
@@ -6258,7 +6258,7 @@
         <cit did="2823" cid="49" avtor0="Fant Lars" naslov0="Evropa pred zrcalom"
             pubPlace="Ljubljana" publisher="Založba *cf" year="2004"/>
     </delo>
-    <delo mojID="11292">
+    <delo mojID="11292" cobiss="222047488">
         <naslov>Evropa v času razsvetljenstva</naslov>
         <cit did="2018" cid="148" avtor0="Im Hof U." naslov0="Evropa v času razsvetljenstva"
             pubPlace="Ljubljana" publisher="Založba *cf" year="2005"/>
@@ -6274,25 +6274,25 @@
             naslov0="Evropejskaja diplomatija i Serbija v nacale 60-h godov XIX veka"
             pubPlace="Moskva" year="1957"/>
     </delo>
-    <delo mojID="11295">
+    <delo mojID="11295" cobiss="4620642">
         <naslov>Evropska dimenzija pouka geografije v Sloveniji: magistrska naloga</naslov>
         <cit did="2001" cid="30" avtor0="Resnik Planine T."
             naslov0="Evropska dimenzija pouka geografije v Sloveniji: magistrska naloga"
             pubPlace="Ljubljana" publisher="Filozofska fakulteta, Oddelek za geografijo" year="1998"
         />
     </delo>
-    <delo mojID="11297">
+    <delo mojID="11297" cobiss="21371229">
         <naslov>Evropska ideja v slovenski politični misli</naslov>
         <cit did="1552" cid="11" avtor0="Toplak Cirila"
             naslov0="Evropska ideja v slovenski politični misli" source="Teorija in praksa"
             year="2002" volume="39" page="579-587"/>
     </delo>
-    <delo mojID="11299">
+    <delo mojID="11299" cobiss="2224129">
         <naslov>Evropska misel v XVIII. stoletju</naslov>
         <cit did="2632" cid="44" avtor0="Hazard P." naslov0="Evropska misel v XVIII. stoletju"
             pubPlace="Ljubljana" year="1960"/>
     </delo>
-    <delo mojID="11302">
+    <delo mojID="11302" cobiss="23046493">
         <naslov>Evropska unija in varstvo narodnih manjšin</naslov>
         <cit did="2823" cid="47" avtor0="Ermenc Blaž"
             naslov0="Evropska unija in varstvo narodnih manjšin" naslov1="diplomsko delo"
@@ -6322,7 +6322,7 @@
             source="Autonomija i multietnička društva. (Zbornik tekstova)" pubPlace="Subotica"
             publisher="Otvoreni univerzitet" year="2000" page="71-88"/>
     </delo>
-    <delo mojID="11309">
+    <delo mojID="11309" cobiss="10682701">
         <naslov>Evropski pravni standardi manjšinskega varstva, uresničevanje in dileme
                         razvoja</naslov>
         <cit did="2706" cid="16" avtor0="Klopčič Vera"
@@ -6337,7 +6337,7 @@
             source="Evropski vplivi na slovensko družbo. Zbirka Zgodovinskega časopisa"
             pubPlace="Ljubljana" year="2008" issue="35"/>
     </delo>
-    <delo mojID="11317">
+    <delo mojID="11317" cobiss="107141888">
         <naslov>Evrotaoizem. H kritiki politične kinetike</naslov>
         <cit did="2386" cid="13" avtor0="Sloterdijk Peter"
             naslov0="Evrotaoizem. H kritiki politične kinetike" pubPlace="Ljubljana" year="2000"
@@ -6356,14 +6356,14 @@
             naslov0="Ex universa philosophia. Stampe barocce con le Tesi del Gesuiti di Gorizia"
             pubPlace="Gorizia" year="1998"/>
     </delo>
-    <delo mojID="11321">
+    <delo mojID="11321" cobiss="4327981">
         <naslov>Ex universa philosophia. Stampe barocche con le Tesi dei Gesuiti di Gorica.
                         Catalogo della mostra</naslov>
         <cit did="2528" cid="11" avtor0="Malni Pascoletti Maddalena"
             naslov0="Ex universa philosophia. Stampe barocche con le Tesi dei Gesuiti di Gorica. Catalogo della mostra"
             pubPlace="Monfalcone" publisher="Laguna" year="1992"/>
     </delo>
-    <delo mojID="11322">
+    <delo mojID="11322" cobiss="30922240">
         <naslov>Ex voto, votivne podobe pomorcev</naslov>
         <cit did="2636" cid="154" avtor0="Žitko D." naslov0="Ex voto, votivne podobe pomorcev"
             pubPlace="Koper" year="1992"/>
@@ -6525,7 +6525,7 @@
         <cit did="201" cid="32" avtor0="Cahn Robert S., Ingol Christopher K., Prelog Vladimir"
             naslov0="Experientia" year="1956" volume="12" issue="81"/>
     </delo>
-    <delo mojID="11351">
+    <delo mojID="11351" cobiss="35219969">
         <naslov>Experiment Jugoslawien: von der Staatsgründung bis zum Zerfall</naslov>
         <cit did="2207" cid="42" avtor0="Sundhaussen Holm"
             naslov0="Experiment Jugoslawien: von der Staatsgründung bis zum Zerfall"
@@ -6537,7 +6537,7 @@
             naslov0="Experimenta et considerationes de coloribus ..." pubPlace="Londini"
             publisher="Herrigman" year="0"/>
     </delo>
-    <delo mojID="11353">
+    <delo mojID="11353" cobiss="190048">
         <naslov>Experimental Archaeology</naslov>
         <cit did="1942" cid="5" avtor0="Coles J. M." naslov0="Experimental Archaeology"
             pubPlace="London - New York - Toronto" publisher="Academic Press" year="1979"/>
@@ -6611,7 +6611,7 @@
             source="International Social Science Journal" year="2000" volume="52" issue="165"
             page="283-296"/>
     </delo>
-    <delo mojID="11366">
+    <delo mojID="11366" cobiss="10874701">
         <naslov>Exploited. Migrant Labour in the Global Economy</naslov>
         <cit did="3055" cid="17" avtor0="Shelley T."
             naslov0="Exploited. Migrant Labour in the Global Economy" pubPlace="London - Nevv York"
@@ -6624,7 +6624,7 @@
             naslov0="Exploring Continuities and Reconciling Ruptures: Nationalism, Feminsm and the Ukrainian Womens Movement"
             source="Aspasia" year="2007" volume="1" page="36-60"/>
     </delo>
-    <delo mojID="11369">
+    <delo mojID="11369" cobiss="6120269">
         <naslov>Exploring Ethnicity: Constitutional Regulation of (Inter)Ethnic Relations:
                         New Approaches to a Multicultural Education</naslov>
         <cit did="2746" cid="67" avtor0="Žagar Mitja"
@@ -6639,7 +6639,7 @@
             naslov0="Exploring European Frontiers. British Travellers in the Age of Enlightenment"
             pubPlace="Houndmills - London - New York" publisher="Palgrave" year="2000"/>
     </delo>
-    <delo mojID="11371">
+    <delo mojID="11371" cobiss="27768418">
         <naslov>Exploring the City: Inquiries toward an Urban Anthropology</naslov>
         <cit did="2853" cid="83" avtor0="Hannerz Ulf"
             naslov0="Exploring the City: Inquiries toward an Urban Anthropology" pubPlace="New York"
@@ -6685,7 +6685,7 @@
             publisher="Université de Droit, d'Economie et de Sciences d'Aix-Marseille - Faculté de Droit et de Sciences politiques -Presses universitaires d'Aix-Marseille"
             year="1988" page="111-127"/>
     </delo>
-    <delo mojID="11378">
+    <delo mojID="11378" cobiss="8902477">
         <naslov>Extending the boundaries and definition of the ghetto</naslov>
         <cit did="3039" cid="111" avtor0="Pattilo Mary"
             naslov0="Extending the boundaries and definition of the ghetto"
@@ -6717,7 +6717,7 @@
             source="Psyche: Zeitschrift für Psychoanalyse und ihre Anwendungen" year="1979"
             issue="11" page="991"/>
     </delo>
-    <delo mojID="11384">
+    <delo mojID="11384" cobiss="7652177">
         <naslov>Eye for an Eye</naslov>
         <cit did="51" cid="228" avtor0="Miller William" naslov0="Eye for an Eye"
             pubPlace="Cambridge" year="2006"/>
@@ -6728,7 +6728,7 @@
             naslov0="Eyewitness Auschwitz. Three years in the gas chambers." pubPlace="New York"
             publisher="Stein and Day" year="1979"/>
     </delo>
-    <delo mojID="11386">
+    <delo mojID="11386" cobiss="800653">
         <naslov>Eyewitnessing: The Uses of Images as Historical Evidence</naslov>
         <cit did="1930" cid="7" avtor0="Burke P."
             naslov0="Eyewitnessing: The Uses of Images as Historical Evidence"
