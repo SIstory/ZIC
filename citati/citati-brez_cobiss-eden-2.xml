@@ -16189,19 +16189,19 @@
             source="Dall'abraccio friulano alla soppressione della provincia"
             pubPlace="Cefastu (Videm)" year="1999" volume="75" page="177-203"/>
     </delo>
-    <delo mojID="13348">
+    <delo mojID="13348" cobiss="43262208">
         <naslov>Gorizia nel Risorgimento italiano (1840-1866)</naslov>
         <cit did="1317" cid="280" avtor0="Lodatti Egone"
             naslov0="Gorizia nel Risorgimento italiano (1840-1866)" pubPlace="Gorizia" year="1992"
             page="65"/>
     </delo>
-    <delo mojID="13349">
+    <delo mojID="13349" cobiss="4743725">
         <naslov>Gorizia nel Risorgimento italiano (1867-1888)</naslov>
         <cit did="1317" cid="231" avtor0="Lodatti Egone"
             naslov0="Gorizia nel Risorgimento italiano (1867-1888)" pubPlace="Gorizia" year="1996"
             page="277"/>
     </delo>
-    <delo mojID="13352">
+    <delo mojID="13352" cobiss="3612210">
         <naslov>Gorizia nelle sue istituzioni e nella sua azienda comunale durante il
                         triennio 1869-1871</naslov>
         <cit did="1317" cid="203" avtor0="Claricini Alessandro"
@@ -16261,19 +16261,19 @@
             source="Srečanja" pubPlace="Nova Gorica" year="1972" volume="7" issue="33-34"
             page="43-45"/>
     </delo>
-    <delo mojID="13363">
+    <delo mojID="13363" cobiss="16206386">
         <naslov>Goriška Brda</naslov>
         <cit did="49" cid="16" avtor0="Ludvik Zorzut" naslov0="Goriška Brda"
             source="Koledar Družbe sv. Mohorja za 1945" pubPlace="Ljubljana" year="1944"
             page="77-81"/>
     </delo>
-    <delo mojID="13364">
+    <delo mojID="13364" cobiss="13987117">
         <naslov>Goriška brda - gospodarska geografija</naslov>
         <cit did="2056" cid="69" avtor0="Vrišer Igor"
             naslov0="Goriška brda - gospodarska geografija" source="Geografski zbornik" year="1954"
             volume="2" page="51-113"/>
     </delo>
-    <delo mojID="13365">
+    <delo mojID="13365" cobiss="108216320">
         <naslov>Goriška Brda kot zaledje soške fronte</naslov>
         <cit did="2624" cid="48" avtor0="Sedmak Drago"
             naslov0="Goriška Brda kot zaledje soške fronte"
@@ -16285,13 +16285,13 @@
         <cit did="1421" cid="26" avtor0="Kos Franz" naslov0="Goriška Brda v srednjem veku"
             source="Jadranski almanah za leto 1923" pubPlace="Trst" year="1922"/>
     </delo>
-    <delo mojID="13367">
+    <delo mojID="13367" cobiss="1389101">
         <naslov>Goriška, Dežela, provinca, okraj, pokrajina</naslov>
         <cit did="1439" cid="8" avtor0="Vidmar Cveto"
             naslov0="Goriška, Dežela, provinca, okraj, pokrajina" source="Tipkopis"
             pubPlace="Nova Gorica" year="1993"/>
     </delo>
-    <delo mojID="13368">
+    <delo mojID="13368" cobiss="14510381">
         <naslov>Goriška dežela v času Janeza Svetokriškega</naslov>
         <cit did="1423" cid="17" avtor0="Marušič Branko"
             naslov0="Goriška dežela v času Janeza Svetokriškega"
@@ -16304,7 +16304,7 @@
             naslov0="Goriška Furlanija v delih Štefana Kociančiča" source="Primorski čas pretekli"
             pubPlace="Koper" year="1985" page="266-279"/>
     </delo>
-    <delo mojID="13370">
+    <delo mojID="13370" cobiss="731091">
         <naslov>Goriška in habsburško-beneški odnosi v luči Dnevnikov Marina Sanuda</naslov>
         <cit did="2424" cid="11" avtor0="Pavlin Vojko"
             naslov0="Goriška in habsburško-beneški odnosi v luči Dnevnikov Marina Sanuda"
@@ -16316,7 +16316,7 @@
             source="Koledar za leto 1998" pubPlace="Gorica" publisher="Goriška Mohorjeva dužba"
             year="1997" page="90-93"/>
     </delo>
-    <delo mojID="13374">
+    <delo mojID="13374" cobiss="12095026">
         <naslov>Goriška slovenska politika med leti 1875 in 1880</naslov>
         <cit did="1317" cid="53" avtor0="Marušič Branko"
             naslov0="Goriška slovenska politika med leti 1875 in 1880" source="Jadranski koledar"
@@ -16328,26 +16328,26 @@
             naslov0="Goriška v vojnem letu 1916 v poročanju Edinosti" source="Primorski dnevnik"
             year="0" issue="293" page="4"/>
     </delo>
-    <delo mojID="13377">
+    <delo mojID="13377" cobiss="12858674">
         <naslov>Goriške redovnice med prvo svetovno vojno</naslov>
         <cit did="2440" cid="7" avtor0="Podberšič Renato"
             naslov0="Goriške redovnice med prvo svetovno vojno" source="Kronika" year="2007"
             issue="2" page="305-314"/>
     </delo>
-    <delo mojID="13378">
+    <delo mojID="13378" cobiss="39486976">
         <naslov>Goriški grofe ter njihovi ministeriali in militi v Istri in na
                         Kranjskem</naslov>
         <cit did="3249" cid="31" avtor0="Štih Peter"
             naslov0="Goriški grofe ter njihovi ministeriali in militi v Istri in na Kranjskem"
             pubPlace="Ljubljana" publisher="Znanstveni inštitut Filozofske fakultete" year="1994"/>
     </delo>
-    <delo mojID="13379">
+    <delo mojID="13379" cobiss="121138944">
         <naslov>Goriški grofje</naslov>
         <cit did="163" cid="17" avtor0="Štih Peter" naslov0="Goriški grofje"
             source="Srednjeveške goriške študije : prispevki za&#xA;zgodovino Gorice, Goriške in goriških grofov"
             pubPlace="Nova Gorica" publisher="Goriški muzej" year="2002" page="70"/>
     </delo>
-    <delo mojID="13380">
+    <delo mojID="13380" cobiss="34551040">
         <naslov>Goriški grofje in Devinski gospodje</naslov>
         <cit did="375" cid="82" avtor0="Štih Peter" naslov0="Goriški grofje in Devinski gospodje"
             source="ZČ" pubPlace="Ljubljana" year="1992" volume="46" issue="3" page="309-321"/>
@@ -16358,7 +16358,7 @@
             naslov0="Goriški grofje in dežela  Grofija v Marki in Metliki" pubPlace="Ljubljana"
             volume="1997" page="106"/>
     </delo>
-    <delo mojID="13392">
+    <delo mojID="13392" cobiss="38698752">
         <naslov>Goriški sprehodi</naslov>
         <cit did="1429" cid="6" avtor0="Perat Mariza" naslov0="Goriški sprehodi"
             source="Gorica : Goriška" publisher="Mohorjeva družba" year="1985"/>
@@ -16374,13 +16374,13 @@
             naslov0="Goriško ozemlje, Zemljevid in seznam krajevnih in ledinskih imen"
             pubPlace="Gorica" publisher="SLORI" year="1999"/>
     </delo>
-    <delo mojID="13396">
+    <delo mojID="13396" cobiss="11738162">
         <naslov>Goriško pevsko društvo "Slavec"</naslov>
         <cit did="1317" cid="40" avtor0="Marušič Branko"
             naslov0="Goriško pevsko društvo &#34;Slavec&#34;" source="Jadranski koledar" year="1970"
         />
     </delo>
-    <delo mojID="13398">
+    <delo mojID="13398" cobiss="2682370">
         <naslov>Gorkić : biografija</naslov>
         <cit did="2894" cid="45" avtor0="Očak Ivan" naslov0="Gorkić : biografija" pubPlace="Zagreb"
             year="1988"/>
@@ -16397,7 +16397,7 @@
             naslov0="Gorozia: la Nizza austriaca. Il territorio di Gorizia e Gradisca I."
             pubPlace="Gorizia" publisher="Cassa di risparmiodi Gorizia" year="1987"/>
     </delo>
-    <delo mojID="13403">
+    <delo mojID="13403" cobiss="278579">
         <naslov>"Gorske bukve" : v izvirniku, prevodih in priredbah</naslov>
         <cit did="104" cid="19" avtor0="Dolenc Metod"
             naslov0="&#34;Gorske bukve&#34; : v izvirniku, prevodih in&#xA;priredbah"
@@ -16427,13 +16427,13 @@
             source="Slovenska kronika XX. stoletja, knjiga 1, 1900-1941" pubPlace="Ljubljana"
             publisher="Nova revija" year="1995" page="402"/>
     </delo>
-    <delo mojID="13410">
+    <delo mojID="13410" cobiss="104326912">
         <naslov>Gosenica (avtor spremnega besedila Ervin Dolenc)</naslov>
         <cit did="1914" cid="80" avtor0="Kosmač Ciril"
             naslov0="Gosenica (avtor spremnega besedila Ervin Dolenc)" pubPlace="Ljubljana"
             publisher="DZS" year="1999"/>
     </delo>
-    <delo mojID="13412">
+    <delo mojID="13412" cobiss="5426177">
         <naslov>Gospa Pompadour</naslov>
         <cit did="238" cid="9" avtor0="Mitford N." naslov0="Gospa Pompadour" pubPlace="Maribor"
             year="1972" page="139"/>
@@ -16443,7 +16443,7 @@
         <cit did="304" cid="17" avtor0="Grdina Igor" naslov0="Gospod kmet med domorodci"
             source="Pomlad narodov" pubPlace="Celovec - Ljubljana - Wien" year="1999" page="144"/>
     </delo>
-    <delo mojID="13415">
+    <delo mojID="13415" cobiss="29422593">
         <naslov>Gospod Mirodolski (1870)</naslov>
         <cit did="3127" cid="34" avtor0="Stritar Josip" naslov0="Gospod Mirodolski (1870)"
             source="Zbrano delo, 3. knj. Ljubljana: Državna založba Slovenije, 1954"
@@ -16455,7 +16455,7 @@
             naslov0="Gospodar volkov v slovanski mitologiji" pubPlace="Ljubljana"
             publisher="Županičeva knjižnica" year="2001" issue="6"/>
     </delo>
-    <delo mojID="13420">
+    <delo mojID="13420" cobiss="6485049">
         <naslov>Gospodar zemlje orlova</naslov>
         <cit did="2872" cid="153" avtor0="Zlatar Pero" naslov0="Gospodar zemlje orlova"
             pubPlace="Zagreb" publisher="Grafički zavod Hrvatske" year="1984"/>
@@ -16466,13 +16466,13 @@
             naslov0="Gospodarska in družbena struktura turniške pražupanije po letu 1381"
             source="Razprave" publisher="SAZU" year="1972" volume="8" issue="5"/>
     </delo>
-    <delo mojID="13424">
+    <delo mojID="13424" cobiss="241695744">
         <naslov>Gospodarska in poklicna struktura krakovskega prebivalstva</naslov>
         <cit did="854" cid="82" avtor0="Valenčič Vlado"
             naslov0="Gospodarska in poklicna struktura krakovskega prebivalstva" source="Kronika"
             year="1971" volume="19" issue="3" page="152-157"/>
     </delo>
-    <delo mojID="13426">
+    <delo mojID="13426" cobiss="2923081">
         <naslov>Gospodarska in socialna zgodovina v delih Petra Pavla Radiča (Radicsa)
                         -prispevek k zgodovini zgodovinopisja</naslov>
         <cit did="2058" cid="4" avtor0="Janša Zorn Olga"
@@ -16480,7 +16480,7 @@
             source="Gestrinov zbornik" pubPlace="Ljubljana" publisher="Založba ZRC" year="1999"
             page="301-313"/>
     </delo>
-    <delo mojID="13427">
+    <delo mojID="13427" cobiss="595316">
         <naslov>Gospodarska interesna združenja ter upravljanje in vodenje slovenskih
                         podjetij pred drugo svetovno vojno Pogled v zgodovino slovenskega
                         podjetništva</naslov>
@@ -16488,7 +16488,7 @@
             naslov0="Gospodarska interesna združenja ter&#xA;upravljanje in vodenje slovenskih podjetij pred drugo svetovno vojno&#xA;Pogled v zgodovino slovenskega podjetništva"
             pubPlace="Vrhnika" publisher="Razum" year="1998"/>
     </delo>
-    <delo mojID="13433">
+    <delo mojID="13433" cobiss="621940">
         <naslov>Gospodarska ohromitev slovenskega Primorja v času okupacijskih con
                         (1945-1954)</naslov>
         <cit did="663" cid="71" avtor0="Zagradnik Maruša"
@@ -16512,7 +16512,7 @@
             pubPlace="Gorica" publisher="SLORI - Slovenski raziskovalni inštitut" year="2002"
             page="136-159"/>
     </delo>
-    <delo mojID="13440">
+    <delo mojID="13440" cobiss="12480301">
         <naslov>Gospodarska problematika Bovškega v preteklosti</naslov>
         <cit did="2640" cid="106" avtor0="Kos Milko"
             naslov0="Gospodarska problematika Bovškega v preteklosti" source="Geografski vestnik"
@@ -16528,14 +16528,14 @@
         <cit did="3241" cid="346" avtor0="Lah Ivo" naslov0="Gospodarska struktura Dravske banovine"
             source="trgovsko-obrtno-industrijski letnik"/>
     </delo>
-    <delo mojID="13446">
+    <delo mojID="13446" cobiss="1990481">
         <naslov>Gospodarska uspešnost slovenskih vlad</naslov>
         <cit did="2378" cid="7" avtor0="Križanič France"
             naslov0="Gospodarska uspešnost slovenskih vlad"
             source="Prevrati in slovensko gospodarstvo v XX. stoletju" pubPlace="Ljubljana"
             year="1996" page="37-47"/>
     </delo>
-    <delo mojID="13450">
+    <delo mojID="13450" cobiss="207670">
         <naslov>Gospodarske in socialne razmere na imenju Golnik (Gallenfels) sredi 18.
                         stoletja</naslov>
         <cit did="2781" cid="10" avtor0="Kos Dušan, Perko Marija"
@@ -16548,7 +16548,7 @@
             naslov0="Gospodarske osnove krščanskega socializma" source="Ljubljanski zvon"
             year="1934" issue="LIV" page="530-537"/>
     </delo>
-    <delo mojID="13453">
+    <delo mojID="13453" cobiss="8150276">
         <naslov>Gospodarske posledice turških vpadov na Kras do tridesetih let 16.
                         stoletja</naslov>
         <cit did="2543" cid="34" avtor0="Šumrada Janez"
@@ -16563,7 +16563,7 @@
             naslov0="Gospodarske povezave jugoslovanskih dežel in Italije v 15. in 16. stoletju"
             source="Istorijski časopis" year="1971" volume="18" page="155-163"/>
     </delo>
-    <delo mojID="13455">
+    <delo mojID="13455" cobiss="936264">
         <naslov>Gospodarske povezave zgornje Soške, zgornje Savske, spodnje Ziljske in
                         Kanalske doline skozi stoletja</naslov>
         <cit did="448" cid="5" avtor0="Podliping Karl"
@@ -16577,7 +16577,7 @@
             naslov0="Gospodarske prilike istarskog sela između dva svetska rata..."
             source="Pazinski memorijal" pubPlace="Pazin" year="1979"/>
     </delo>
-    <delo mojID="13459">
+    <delo mojID="13459" cobiss="232880128">
         <naslov>Gospodarske, socialne, kulturne in politične razmere na Spodnjem Štajerskem
                         v času Taaffejeve vlade : (1879-1893)</naslov>
         <cit did="1561" cid="11" avtor0="Čuček Filip"
@@ -16605,7 +16605,7 @@
             naslov0="Gospodarski krizi se je v tretjem letu pridružila še vladna"
             source="Nedelo (25. 11. 2011)" pubPlace="Ljubljana" year="2011"/>
     </delo>
-    <delo mojID="13468">
+    <delo mojID="13468" cobiss="3798274">
         <naslov>Gospodarski okvir problemov socialnega zavarovanja ob nastanku stare
                         Jugoslavije</naslov>
         <cit did="3241" cid="176" avtor0="Kresal France"
@@ -16617,7 +16617,7 @@
         <cit did="3241" cid="171" avtor0="Kaiser I." naslov0="Gospodarski pogled po Evropi"
             source="TT" year="1930" issue="9"/>
     </delo>
-    <delo mojID="13471">
+    <delo mojID="13471" cobiss="44685569">
         <naslov>Gospodarski položaj Ilirskih provinc</naslov>
         <cit did="3526" cid="9" avtor0="Pivec Stele M."
             naslov0="Gospodarski položaj Ilirskih provinc"
@@ -16636,21 +16636,21 @@
             publisher="Urad za makroekonomske analize in razvoj, United Nations Development Programme"
             year="2001" page="73-79"/>
     </delo>
-    <delo mojID="13474">
+    <delo mojID="13474" cobiss="99710976">
         <naslov>Gospodarski razvoj lupoglavskega gospostva v 16. stoletju v luči urbarjev in
                         urbarialnih zapisov 1523-1573</naslov>
         <cit did="1421" cid="25" avtor0="Juričič Čargo Daniela"
             naslov0="Gospodarski razvoj lupoglavskega gospostva v 16. stoletju v luči urbarjev in urbarialnih zapisov 1523-1573"
             pubPlace="Ljubljana" publisher="ARS" year="1999"/>
     </delo>
-    <delo mojID="13475">
+    <delo mojID="13475" cobiss="6350593">
         <naslov>Gospodarski razvoj Maribora. Gradivo k zgodovini industrializacije mesta
                         Maribora</naslov>
         <cit did="3241" cid="49" avtor0="Kržičnik Ermin"
             naslov0="Gospodarski razvoj Maribora. Gradivo k zgodovini industrializacije mesta Maribora"
             pubPlace="Maribor" publisher="Obzorja" year="1956"/>
     </delo>
-    <delo mojID="13477">
+    <delo mojID="13477" cobiss="2295121">
         <naslov>Gospodarski sistemi in učinkovitost gospodarjenja</naslov>
         <cit did="1339" cid="2" avtor0="Mencinger Jože"
             naslov0="Gospodarski sistemi in učinkovitost gospodarjenja" source="Gospodarska gibanja"
@@ -16674,20 +16674,20 @@
         <cit did="859" cid="2" avtor0="Šiftar Vanek"
             naslov0="Gospodarsko in kulturno sodelovanje med SRS in LRM" year="1969"/>
     </delo>
-    <delo mojID="13487">
+    <delo mojID="13487" cobiss="3613420">
         <naslov>Gospodarsko sodelovanje obmejnih področij Italije in Jugoslavije in možnosti
                         vključevanja slovenske narodne skupnosti v Italiji</naslov>
         <cit did="151" cid="1" avtor0="Lokar Aleš"
             naslov0="Gospodarsko sodelovanje obmejnih področij Italije in Jugoslavije in možnosti vključevanja slovenske narodne skupnosti v Italiji"
             source="Razprave in gradivo" year="1982" issue="15" page="99"/>
     </delo>
-    <delo mojID="13492">
+    <delo mojID="13492" cobiss="966473">
         <naslov>Gospodarsko ustanovitev Stične ali njena dotacija leta 1135</naslov>
         <cit did="2946" cid="7" avtor0="Grebenc Jože M."
             naslov0="Gospodarsko ustanovitev Stične ali njena dotacija leta 1135" pubPlace="Stična"
             publisher="Samostan Stična" year="1973"/>
     </delo>
-    <delo mojID="13497">
+    <delo mojID="13497" cobiss="45441793">
         <naslov>Gospodarstvo in tehniška dediščina Koroške : razstavni katalog</naslov>
         <cit did="2243" cid="11" avtor0="Oder Karla"
             naslov0="Gospodarstvo in tehniška dediščina Koroške : razstavni katalog"
@@ -16705,7 +16705,7 @@
             naslov0="Gospodarstvo pod okupacijo: italijansko zasedbeno območje"
             source="Slovenska novejša zgodovina" pubPlace="Ljubljana" year="2005" page="600"/>
     </delo>
-    <delo mojID="13501">
+    <delo mojID="13501" cobiss="19697709">
         <naslov>Gospodarstvo rimske provincije Dalmacije</naslov>
         <cit did="751" cid="59" avtor0="Škegro A."
             naslov0="Gospodarstvo rimske provincije Dalmacije" pubPlace="Zagreb" year="1999"/>
@@ -16722,26 +16722,26 @@
             naslov0="Gospodarstvo v razmerju z narodnostmi na Kočevskem"
             source="Koledar Družbe sv. Citfla in Metoda v Ljubljani" year="1931" page="58-66"/>
     </delo>
-    <delo mojID="13510">
+    <delo mojID="13510" cobiss="1175127">
         <naslov>Gospodinjstvo - ker so tudi zanj ženske ustvarjene</naslov>
         <cit did="1892" cid="7" avtor0="Žagar Žnidarišič Sabina"
             naslov0="Gospodinjstvo - ker so tudi zanj ženske ustvarjene" source="Šolsko polje"
             year="2004" issue="3-4" page="99-125"/>
     </delo>
-    <delo mojID="13511">
+    <delo mojID="13511" cobiss="38125825">
         <naslov>Gospodinjstvo: navodilo za vsa v domačem gospodinjstvu važna opravila: z
                         mnogimi podobami</naslov>
         <cit did="3424" cid="38" avtor0="Purgaj Lidvina"
             naslov0="Gospodinjstvo: navodilo za vsa v domačem gospodinjstvu važna opravila: z mnogimi podobami"
             pubPlace="Ljubljana" publisher="Katoliška bukvama" year="1911"/>
     </delo>
-    <delo mojID="13522">
+    <delo mojID="13522" cobiss="512494463">
         <naslov>Gospostvo Renče in Hoferjevi renski urbarji 16. stoletja</naslov>
         <cit did="1421" cid="38" avtor0="Pavlin Vojko"
             naslov0="Gospostvo Renče in Hoferjevi renski urbarji 16. stoletja" source="Kronika"
             year="2003" volume="51" page="229-248"/>
     </delo>
-    <delo mojID="13523">
+    <delo mojID="13523" cobiss="786053">
         <naslov>Gospostvo Štatenberg v zadnjem desetletju 17. stoletja po štiftregistrih iz
                         let 1689-1691, 1692, 1694, 1696-1700</naslov>
         <cit did="1629" cid="5" avtor0="Zadravec Dejan"
@@ -16752,7 +16752,7 @@
         <naslov>Gosposvetsko polje</naslov>
         <cit did="3022" cid="39" avtor0="Prežihov Voranc" naslov0="Gosposvetsko polje" year="1942"/>
     </delo>
-    <delo mojID="13526">
+    <delo mojID="13526" cobiss="19266817">
         <naslov>Gospoščina Negova na začetku 17. stoletja</naslov>
         <cit did="263" cid="10" avtor0="Mlinarič Jože"
             naslov0="Gospoščina Negova na začetku 17. stoletja" source="Ptujski zbornik IV"
@@ -16763,7 +16763,7 @@
         <cit did="2521" cid="29" avtor0="Škoro Aida" naslov0="Gost Raatn" source="magistrsko delo"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="13529">
+    <delo mojID="13529" cobiss="252772608">
         <naslov>Gostilne in birti v Koprivniku : iz fotografske dediščine Kočevarjev,
                         Gasthäuser und Wirte in Nesseltal : aus demfet^ fischen Erbe der
                         Gottscheer</naslov>
@@ -16772,13 +16772,13 @@
             publisher="Koprivnik, Zavod za ohranitev kulturne dediščine Nesseltal Koprivnik"
             year="2010"/>
     </delo>
-    <delo mojID="13530">
+    <delo mojID="13530" cobiss="177736">
         <naslov>Gostilne, kakršnih se pri nas spominjamo</naslov>
         <cit did="1744" cid="36" avtor0="Tomažič Tanja"
             naslov0="Gostilne, kakršnih se pri nas spominjamo" source="Slovenski etnograf"
             year="1976" volume="29" page="3-38"/>
     </delo>
-    <delo mojID="13531">
+    <delo mojID="13531" cobiss="42864482">
         <naslov>Gostilne v Ljubljani ob koncu 19. stoletja</naslov>
         <cit did="1251" cid="3" avtor0="Čad Gorazd"
             naslov0="Gostilne v Ljubljani ob koncu 19. stoletja" naslov1="Diplomsko delo"
@@ -16791,7 +16791,7 @@
             source="Publikacije Zgodovinskega arhiva Ljubljana, Razprave 4" pubPlace="Ljubljana"
             year="1977" page="103-105"/>
     </delo>
-    <delo mojID="13534">
+    <delo mojID="13534" cobiss="10699618">
         <naslov>Gostujoči italijanski umetniki v Ljubljanski pokrajini med
                         okupacijo</naslov>
         <cit did="1509" cid="154" avtor0="Šipič Maja"
@@ -16803,13 +16803,13 @@
         <cit did="3485" cid="60" avtor0="Šega Tone" naslov0="Gotenica, Od naselitve do leta 1945"
             naslov1="tipkopis" pubPlace="Gotenice" year="2007"/>
     </delo>
-    <delo mojID="13536">
+    <delo mojID="13536" cobiss="27402850">
         <naslov>Gothic Painting in Bohemia, 1350-1450</naslov>
         <cit did="3461" cid="38" avtor0="Matějček Antonin" avtor1="Pešina Jaroslav"
             naslov0="Gothic Painting in Bohemia, 1350-1450" pubPlace="Prague" publisher="Artia"
             year="1956"/>
     </delo>
-    <delo mojID="13537">
+    <delo mojID="13537" cobiss="512351116">
         <naslov>Goths and Romans 332 - 489</naslov>
         <cit did="2532" cid="19" avtor0="Heather Peter J." naslov0="Goths and Romans 332 - 489"
             pubPlace="Oxford" publisher="Clarendon Press" year="1991"/>
@@ -16827,7 +16827,7 @@
             source="Jahrbuch für Antike und Christentum" pubPlace="Münster" year="1990" volume="33"
             page="36-52"/>
     </delo>
-    <delo mojID="13541">
+    <delo mojID="13541" cobiss="1017908">
         <naslov>Gotika na Slovenskem: Cerkvi svete Ane in svetega Volbenka na Lešah</naslov>
         <cit did="2236" cid="17" avtor0="Kumprej Leonard"
             naslov0="Gotika na Slovenskem: Cerkvi svete Ane in svetega Volbenka na Lešah"
@@ -16844,12 +16844,12 @@
             naslov0="Gotische Arhitektur in der Steiermark, Gotik in der Steiermark" pubPlace="Graz"
             year="1978" page="66-67"/>
     </delo>
-    <delo mojID="13545">
+    <delo mojID="13545" cobiss="33854209">
         <naslov>Gotische Baukunst in Österreich</naslov>
         <cit did="1588" cid="22" avtor0="Brücher Günter" naslov0="Gotische Baukunst in Österreich"
             pubPlace="Salzburg-Wien" year="1990" page="113-116"/>
     </delo>
-    <delo mojID="13546">
+    <delo mojID="13546" cobiss="46198784">
         <naslov>Gotičke crkve Hrvatskog zagorja</naslov>
         <cit did="1588" cid="64" avtor0="Vukičević-Samaržija Diana"
             naslov0="Gotičke crkve Hrvatskog zagorja" pubPlace="Zagreb" year="1993" page="162"/>
@@ -16861,7 +16861,7 @@
             source="Saopštenja Republičkog zavoda za zaštitu spomenika kulture" pubPlace="Beograd"
             year="1986" volume="48" page="215-228"/>
     </delo>
-    <delo mojID="13548">
+    <delo mojID="13548" cobiss="1931013">
         <naslov>Gotičko kiparstvo u Istri</naslov>
         <cit did="711" cid="11" avtor0="Ekl V." naslov0="Gotičko kiparstvo u Istri"
             pubPlace="Zagreb" publisher="Grafički zavod Hrvatske : Krščanska sadašnjost" year="1982"
@@ -16877,7 +16877,7 @@
         <cit did="3224" cid="47" avtor0="Elze Theodor" naslov0="Gotschee und die Gotschewer"
             source="Jahresheft für Krainischen Landesmuseums" year="1862" volume="3" page="1-66"/>
     </delo>
-    <delo mojID="13552">
+    <delo mojID="13552" cobiss="98829568">
         <naslov>Gotska arhitektura na Goriškem: stavbarske delavnice (1460-1530)</naslov>
         <cit did="1588" cid="58" avtor0="Peskar Robert"
             naslov0="Gotska arhitektura na Goriškem: stavbarske delavnice (1460-1530)"
@@ -16899,7 +16899,7 @@
             source="Zbornik za umetnostno zgodovino" pubPlace="Ljubljana" year="1938" issue="XV"
             page="30-31"/>
     </delo>
-    <delo mojID="13558">
+    <delo mojID="13558" cobiss="512427647">
         <naslov>Gotske freske v župnijski cerkvi sv. Antona puščavnika v
                         Cerkvenjaku</naslov>
         <cit did="943" cid="1" avtor0="Balažič Janez"
@@ -16913,7 +16913,7 @@
             naslov0="Gotske freskve v cerkvi sv. Duha v Slovenj Gradcu" source="ČZN" year="1919"
             volume="15" page="113-114"/>
     </delo>
-    <delo mojID="13560">
+    <delo mojID="13560" cobiss="3683373">
         <naslov>Gotsko pohištvo na Slovenskem</naslov>
         <cit did="2631" cid="196" avtor0="Lozar Štamcar M." naslov0="Gotsko pohištvo na Slovenskem"
             source="Gotika v Sloveniji. Svet predmetov" pubPlace="Ljubljana" year="1995"
@@ -16931,7 +16931,7 @@
         <cit did="106" cid="115" avtor0="Halkes Catharina" naslov0="Gott hat nicht mir starke Söhne"
             pubPlace="Gütersloh" publisher="Gerd Mohn" year="1980" page="51"/>
     </delo>
-    <delo mojID="13565">
+    <delo mojID="13565" cobiss="2895363">
         <naslov>Gott in Sicht - Betrachtungen</naslov>
         <cit did="302" cid="17" avtor0="Ortega y Gasset José"
             naslov0="Gott in Sicht - Betrachtungen" pubPlace="München" publisher="DTV" year="1969"/>
@@ -17006,14 +17006,14 @@
         <cit did="1513" cid="120" avtor0="Miller Peter, Rose Nikolas"
             naslov0="Governing Economic Life" source="Economy and Society" year="1990" volume="19"/>
     </delo>
-    <delo mojID="13582">
+    <delo mojID="13582" cobiss="24032093">
         <naslov>Governing Europe: Discourse, Governmentality and European
                         Integration</naslov>
         <cit did="2648" cid="78" avtor0="Walters William" avtor1="Haahr Jens Henrik"
             naslov0="Governing Europe: Discourse, Governmentality and European Integration"
             pubPlace="New York" publisher="Routledge" year="2005"/>
     </delo>
-    <delo mojID="13583">
+    <delo mojID="13583" cobiss="3090533">
         <naslov>Governing the present</naslov>
         <cit did="3437" cid="24" avtor0="Rose Nikolas, Miller Peter" naslov0="Governing the present"
             pubPlace="Cambridge" publisher="Polity Press" year="2008"/>
@@ -17071,7 +17071,7 @@
             naslov0="govor dr. Antona Korošca, predsednika Slovenske ljudske stranke, na zboru strankarskih zaupnikov"
             source="Slovenec" year="1984"/>
     </delo>
-    <delo mojID="13592">
+    <delo mojID="13592" cobiss="5717512">
         <naslov>Govor Gomile pri Kogu, rojstnega kraja Božidarja Borka</naslov>
         <cit did="394" cid="17" avtor0="Zorko Zinka"
             naslov0="Govor Gomile pri Kogu, rojstnega kraja Božidarja Borka" pubPlace="Maribor"
@@ -17150,13 +17150,13 @@
             source="Delo (6., 8., 11. in 13. 10. 1920)" pubPlace="Trst" year="1920" volume="1"
             issue="59-62"/>
     </delo>
-    <delo mojID="13606">
+    <delo mojID="13606" cobiss="25883234">
         <naslov>Govor Studencev, predmestja Maribora</naslov>
         <cit did="3279" cid="15" avtor0="Redjko Mojca"
             naslov0="Govor Studencev, predmestja Maribora" naslov1="Diplomska naloga"
             pubPlace="Ljubljana" year="1992"/>
     </delo>
-    <delo mojID="13608">
+    <delo mojID="13608" cobiss="4115459">
         <naslov>Govor v UNESCO</naslov>
         <cit did="106" cid="3" avtor0="Janez Pavel II." naslov0="Govor v UNESCO"
             pubPlace="Ljubljana" publisher="Slovenske rimskokatoliške" year="1980" page="10"/>
@@ -17184,7 +17184,7 @@
         <cit did="1008" cid="10" avtor0="Žolger Jožica" naslov0="Govor vasi Žahenberc"
             naslov1="diplomska naloga" pubPlace="Maribor" year="2005"/>
     </delo>
-    <delo mojID="13614">
+    <delo mojID="13614" cobiss="95446784">
         <naslov>Govor za dvajsetletnico škofovskega posvečenja knezoškofa dr. Antona B.
                         Jegliča na praznik Marijinega imena, 12. septembra 1917</naslov>
         <cit did="2618" cid="109" avtor0="Stroj Alojzij"
@@ -17197,7 +17197,7 @@
             source="Zora: Časopis za zabavo, znanost in umetnost" pubPlace="Maribor" year="0"
             page="235-238"/>
     </delo>
-    <delo mojID="13618">
+    <delo mojID="13618" cobiss="17288749">
         <naslov>Govori in govorci Lipniške doline in Dobrav</naslov>
         <cit did="393" cid="6" avtor0="Škofic Jožica"
             naslov0="Govori in govorci Lipniške doline in Dobrav"
@@ -17209,19 +17209,19 @@
             naslov1="Doktorska disertacija" pubPlace="Zagreb" publisher="Filozofski fakultet"
             year="2004"/>
     </delo>
-    <delo mojID="13621">
+    <delo mojID="13621" cobiss="1872393">
         <naslov>Govori protiv Turaka. Govori protiv Turaka</naslov>
         <cit did="2414" cid="25" avtor0="Gligo Vedran"
             naslov0="Govori protiv Turaka. Govori protiv Turaka" pubPlace="Split" publisher="Logos"
             year="1983" page="7-65"/>
     </delo>
-    <delo mojID="13622">
+    <delo mojID="13622" cobiss="114331392">
         <naslov>Govorica jih izdaja : skica govora kovaške Krope</naslov>
         <cit did="393" cid="8" avtor0="Škofic Jožica"
             naslov0="Govorica jih izdaja : skica govora kovaške Krope" pubPlace="Kropa"
             publisher="Tompco" year="2001"/>
     </delo>
-    <delo mojID="13625">
+    <delo mojID="13625" cobiss="18011904">
         <naslov>Govoriti slovensko - biti Slovenec: Jezikovni kodi in kolektivne samopodobe:
                         Nekaj primerjav med Kanalsko dolino in Ziljsko dolino</naslov>
         <cit did="2853" cid="140" avtor0="Minnich Robert G."
@@ -17240,7 +17240,7 @@
             naslov0="Gozdna revolucija. Slovenska kronika XIX. stoletja, 1800-1860"
             pubPlace="Ljubljana" publisher="Nova revija" year="2001" page="315-316"/>
     </delo>
-    <delo mojID="13634">
+    <delo mojID="13634" cobiss="43369984">
         <naslov>Gozdne železnice na Slovenskem</naslov>
         <cit did="844" cid="12" avtor0="Brate Tadej" naslov0="Gozdne železnice na Slovenskem"
             pubPlace="Ljubljana" year="1994"/>
@@ -17284,12 +17284,12 @@
             publisher="International Society for the History of Physical Education and Sport; Norwegian Society of Sports History"
             year="1994" page="223-239"/>
     </delo>
-    <delo mojID="13643">
+    <delo mojID="13643" cobiss="241414912">
         <naslov>Grad Brdo skozi stoletja</naslov>
         <cit did="2115" cid="3" avtor0="Potočnik Mitja" naslov0="Grad Brdo skozi stoletja"
             pubPlace="Novo mesto" publisher="Markus" year="2008"/>
     </delo>
-    <delo mojID="13645">
+    <delo mojID="13645" cobiss="1903925">
         <naslov>Grad Gornje Celje</naslov>
         <cit did="2053" cid="1" avtor0="Curk Jože" naslov0="Grad Gornje Celje"
             source="Celjski zbornik" year="1957" page="103-152"/>
@@ -17299,7 +17299,7 @@
         <cit did="3312" cid="1" avtor0="Rutar Simon" naslov0="Grad (Grado, Grau)"
             source="Soča (8. in 15. 8. 1884)" year="1884" issue="32, 33"/>
     </delo>
-    <delo mojID="13648">
+    <delo mojID="13648" cobiss="9518903">
         <naslov>Grad Grm in Mordaksi</naslov>
         <cit did="259" cid="48" avtor0="Žvanut Maja" naslov0="Grad Grm in Mordaksi" source="Rast"
             year="2001" volume="12" issue="2" page="185-205"/>
@@ -17321,19 +17321,19 @@
             source="Kulturni in naravni spomeniki Slovenije, Zbirka vodnikov" pubPlace="Ljubljana"
             year="1985" issue="145" page="3"/>
     </delo>
-    <delo mojID="13652">
+    <delo mojID="13652" cobiss="108916224">
         <naslov>Grad Kamen in njegovi prebivalci do konca Ortenburžanov</naslov>
         <cit did="775" cid="2" avtor0="Adam Stane"
             naslov0="Grad Kamen in njegovi prebivalci do konca Ortenburžanov"
             source="Doneski za zgodovino Radovljice v srednjem veku" pubPlace="Radovljica"
             year="2000"/>
     </delo>
-    <delo mojID="13660">
+    <delo mojID="13660" cobiss="1630007">
         <naslov>Grad Mirna na Dolenjskem</naslov>
         <cit did="2619" cid="3" avtor0="Cugelj H., Kulovec L." naslov0="Grad Mirna na Dolenjskem"
             naslov1="Raziskovalna naloga" pubPlace="Novo mesto" year="1994"/>
     </delo>
-    <delo mojID="13661">
+    <delo mojID="13661" cobiss="5262665">
         <naslov>Grad Mirna na Dolenjskem</naslov>
         <cit did="2619" cid="24" avtor0="Kramer K." naslov0="Grad Mirna na Dolenjskem"
             naslov1="Diplomska naloga" pubPlace="Ljubljana"
@@ -17352,13 +17352,13 @@
             naslov0="Grad Mirna na Dolenjskem. Študijska naloga pri predmetu Prenova arhitekturne dediščine"
             pubPlace="Ljubljana" publisher="Fakulteta za arhitekturo" year="1991"/>
     </delo>
-    <delo mojID="13664">
+    <delo mojID="13664" cobiss="224122880">
         <naslov>Grad Mirna v srednjeveških listinah</naslov>
         <cit did="1298" cid="57" avtor0="Baraga France"
             naslov0="Grad Mirna v srednjeveških listinah" pubPlace="Mirna" publisher="Studio 5"
             year="2005" page="11, 18"/>
     </delo>
-    <delo mojID="13665">
+    <delo mojID="13665" cobiss="56084481">
         <naslov>Grad na Goričkem</naslov>
         <cit did="375" cid="98" avtor0="Curk Jože, Habjanič Marlenka, Sapač Igor"
             naslov0="Grad na Goričkem" naslov1="Stavbni razvoj" pubPlace="Grad" year="2006"/>
@@ -17381,18 +17381,18 @@
             source="Sinj i Cetinjska krajina za vrijeme osmanlijske vlasti" pubPlace="Sinj"
             year="1989"/>
     </delo>
-    <delo mojID="13674">
+    <delo mojID="13674" cobiss="5982720">
         <naslov>Grad Smlednik</naslov>
         <cit did="2631" cid="286" avtor0="Reisp Branko" naslov0="Grad Smlednik"
             source="Kulturni in naravni spomeniki Slovenije, Zbirka vodnikov" pubPlace="Ljubljana"
             year="1987" volume="156"/>
     </delo>
-    <delo mojID="13676">
+    <delo mojID="13676" cobiss="110217984">
         <naslov>Grad Snežnik po drugi svetovni vojni</naslov>
         <cit did="2606" cid="2" avtor0="Bučič Vesna" naslov0="Grad Snežnik po drugi svetovni vojni"
             source="Kronika" year="2000" volume="48" issue="1-2" page="74-94"/>
     </delo>
-    <delo mojID="13677">
+    <delo mojID="13677" cobiss="38718976">
         <naslov>Grad Stanjel</naslov>
         <cit did="1933" cid="59" avtor0="Silič Nemec N." naslov0="Grad Stanjel"
             pubPlace="Nova Gorica" publisher="Goriški muzej" year="1988"/>
@@ -17402,7 +17402,7 @@
         <cit did="854" cid="52" avtor0="Mumford Lewis" naslov0="Grad u istoriji" pubPlace="Zagreb"
             publisher="Naprijed" year="1968"/>
     </delo>
-    <delo mojID="13684">
+    <delo mojID="13684" cobiss="109752588">
         <naslov>Gradanski rat u miru</naslov>
         <cit did="2872" cid="42" avtor0="Dimitrijevič B. Bojan" naslov0="Gradanski rat u miru"
             pubPlace="Beograd" publisher="Srpska reč" year="2003"/>
