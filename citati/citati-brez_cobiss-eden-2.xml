@@ -17420,25 +17420,25 @@
             naslov0="Gradbena dejavnost v Ormožu med obema svetovnima vojnama"
             source="Ormož skozi stoletja III." pubPlace="Ormož" year="1988" page="137-164"/>
     </delo>
-    <delo mojID="13687">
+    <delo mojID="13687" cobiss="1750114">
         <naslov>Gradbena dejavnost Valentina Fabrija</naslov>
         <cit did="1912" cid="179" avtor0="Klemenčič Matjaž"
             naslov0="Gradbena dejavnost Valentina Fabrija" source="Gotika v Sloveniji"
             pubPlace="Ljubljana" year="1995"/>
     </delo>
-    <delo mojID="13688">
+    <delo mojID="13688" cobiss="11609147">
         <naslov>Gradbena in stanovanjska statistika mesta Ljubljana</naslov>
         <cit did="154" cid="11" avtor0="Vogelnik A."
             naslov0="Gradbena in stanovanjska statistika mesta Ljubljana" source="Kronika"
             year="1938" volume="3" issue="5" page="151-153"/>
     </delo>
-    <delo mojID="13689">
+    <delo mojID="13689" cobiss="9488289">
         <naslov>Gradbena zgodovina gradu in mesta</naslov>
         <cit did="2604" cid="13" avtor0="Curk Jože" naslov0="Gradbena zgodovina gradu in mesta"
             source="Časopis za zgodovino in narodopisje" pubPlace="Maribor" year="1981"
             volume="52 - 17" issue="2" page="228-251"/>
     </delo>
-    <delo mojID="13690">
+    <delo mojID="13690" cobiss="221349632">
         <naslov>Gradbenik, ki je postal arhitekt</naslov>
         <cit did="1232" cid="19" avtor0="Zupančič Bogo" naslov0="Gradbenik, ki je  postal arhitekt"
             source="Delo" year="2046" page="6"/>
@@ -17448,7 +17448,7 @@
         <cit did="1298" cid="96" avtor0="Breščak Danilo" naslov0="Gradec nad Mihovim"
             source="Dolenjski zbornik" year="1997" page="98"/>
     </delo>
-    <delo mojID="13692">
+    <delo mojID="13692" cobiss="19130418">
         <naslov>Gradili smo Novo Gorico</naslov>
         <cit did="1437" cid="3" avtor0="Markič Stane" naslov0="Gradili smo Novo Gorico"
             source="V korak s časom: slovensko mladinsko prostovoljno delo" pubPlace="Ljubljana"
@@ -17459,7 +17459,7 @@
         <cit did="2787" cid="33" avtor0="Matejčić Radmila" naslov0="Gradina Badanj kod Crikvenice"
             source="Jadranski zbornik 10" year="1976" page="239-270"/>
     </delo>
-    <delo mojID="13694">
+    <delo mojID="13694" cobiss="81652">
         <naslov>Gradina Monkodonja. Monografije i katalozi</naslov>
         <cit did="1950" cid="15" avtor0="Buršić Matijašić K."
             naslov0="Gradina Monkodonja. Monografije i katalozi" pubPlace="Pulj"
@@ -17486,7 +17486,7 @@
             naslov0="Gradina u Ošaničima u Stocu (naseobinski okviri i problemi arheoloških istraživanja)"
             source="Hercegovina" year="2000" volume="6-7" issue="14-15" page="7-29"/>
     </delo>
-    <delo mojID="13698">
+    <delo mojID="13698" cobiss="6450434">
         <naslov>Gradina Vrčin u okviru brončanog doba Istre</naslov>
         <cit did="1988" cid="5" avtor0="Buršić Matijašić K."
             naslov0="Gradina Vrčin u okviru brončanog doba Istre" source="Arheološki Vestnik"
@@ -17497,7 +17497,7 @@
         <cit did="1748" cid="148" avtor0="Bulić F." naslov0="Gradina Šutan (Soetovia)"
             source="Bullettino di arch. e storia dalm. 30" year="1907" page="123-127"/>
     </delo>
-    <delo mojID="13700">
+    <delo mojID="13700" cobiss="3125996">
         <naslov>Gradine Istre: Povijest Istre</naslov>
         <cit did="1929" cid="17" avtor0="Buršić Matijašić K."
             naslov0="Gradine Istre: Povijest Istre" pubPlace="Pula" publisher="ZN" year="2007"/>
@@ -17510,7 +17510,7 @@
             source="Obrambeni sistemi u praistoriji i antici na tlu Jugoslavije: Verteidigungssysteme in der Vorgeschichte und Antike im Gebiet von Jugoslawien"
             pubPlace="Novi Sad" year="1986" page="74-89"/>
     </delo>
-    <delo mojID="13702">
+    <delo mojID="13702" cobiss="5628417">
         <naslov>Graditelji sveta</naslov>
         <cit did="238" cid="14" avtor0="Zweig S." naslov0="Graditelji sveta" pubPlace="Koper"
             year="1967" page="191"/>
@@ -17562,7 +17562,7 @@
             naslov0="Gradivo o agrarni reformi in kolonizaciji v fondu Ministrstva za finance"
             source="Arhivi" year="1990" volume="13" issue="1-2" page="28-30"/>
     </delo>
-    <delo mojID="13716">
+    <delo mojID="13716" cobiss="784201">
         <naslov>Gradivo o razvoju Ljubljane v prvem desetletju po osvoboditvi
                         1945-1955</naslov>
         <cit did="3139" cid="1" avtor0="Miklavčič Zvone"
@@ -17574,7 +17574,7 @@
         <cit did="860" cid="7" avtor0="Bajec Franjo" naslov0="Gradivo o Vetrinju" source="Vestnik"
             year="1962" issue="1-12"/>
     </delo>
-    <delo mojID="13718">
+    <delo mojID="13718" cobiss="19446840">
         <naslov>Gradivo za bibliografijo Franca Jeze</naslov>
         <cit did="1768" cid="13" avtor0="Emeršič Jakob"
             naslov0="Gradivo za bibliografijo Franca Jeze" source="Zbornik simpozija o Francu Jezi"
@@ -17600,7 +17600,7 @@
             naslov1="Pražupnija Mengeš" source="Acta Ecclesiastica SloveniÃ¦" year="1990"
             volume="12" page="90"/>
     </delo>
-    <delo mojID="13724b">
+    <delo mojID="13724b" cobiss="74972160">
         <naslov>Gradivo za historično topografijo predjožefinskih župnij na Slovenskem</naslov>
         <cit did="2705" cid="19" avtor0="Höfler Janez"
             naslov0="Gradivo za historično topografijo predjožefinskih župnij na Slovenskem"
@@ -17620,14 +17620,14 @@
             naslov0="Gradivo za historično topografijo predjožefinskih župnij na Slovenskem"
             pubPlace="Ljubljana" year="1988"/>
     </delo>
-    <delo mojID="13735">
+    <delo mojID="13735" cobiss="11955464">
         <naslov>Gradivo za severozahodnoprleški narečni slovar</naslov>
         <cit did="2076" cid="15" avtor0="Rajh Bernard"
             naslov0="Gradivo za severozahodnoprleški narečni slovar"
             source="Med dialektologijo in zgodovino slovenskega jezika. Zora 18." pubPlace="Maribor"
             year="2002" page="117-123"/>
     </delo>
-    <delo mojID="13737">
+    <delo mojID="13737" cobiss="232412672">
         <naslov>Gradivo za slovensko zgodovino v srednjem veku</naslov>
         <cit did="2604" cid="92" avtor0="Preinfalk Miha"
             naslov0="Gradivo za slovensko zgodovino v srednjem veku" pubPlace="Ljubljana"
@@ -17641,19 +17641,19 @@
             naslov0="Gradivo za slovensko zgodovino v srednjem veku. 6/1, (Listine 1246-1255)"
             pubPlace="Ljubljana" publisher="Založba ZRC, ZRC SAZU" year="1995"/>
     </delo>
-    <delo mojID="13740">
+    <delo mojID="13740" cobiss="232412672">
         <naslov>Gradivo za slovensko zgodovino v srednjem veku 6/2: (Imensko kazalo)
                         (Thesaurus memoriae. Fontes, 5)</naslov>
         <cit did="2796" cid="14" avtor0="Preinfalk Miha"
             naslov0="Gradivo za slovensko zgodovino v srednjem veku 6/2: (Imensko kazalo) (Thesaurus memoriae. Fontes, 5)"
             pubPlace="Ljubljana" publisher="Zgodovinski inštitut Milka Kosa ZRC SAZU" year="2007"/>
     </delo>
-    <delo mojID="13746">
+    <delo mojID="13746" cobiss="1389086">
         <naslov>Gradivo za zgodovino Maribora</naslov>
         <cit did="2630" cid="3" avtor0="Mlinarič Jože" naslov0="Gradivo za zgodovino Maribora"
             pubPlace="Maribor" year="1975"/>
     </delo>
-    <delo mojID="13747">
+    <delo mojID="13747" cobiss="1390622">
         <naslov>Gradivo za zgodovino Maribora</naslov>
         <cit did="2609" cid="12" avtor0="Mlinarič J." naslov0="Gradivo za zgodovino Maribora"
             pubPlace="Maribor" year="1983"/>
@@ -17665,7 +17665,7 @@
             naslov0="Gradivo za zgodovino OF na Idrijskem in Cerkljanskem (1941–april 1943)"
             source="Idrijski razgledi" year="1978" page="25-46"/>
     </delo>
-    <delo mojID="13756">
+    <delo mojID="13756" cobiss="313989">
         <naslov>Gradivo za zgodovino Ormoža in njegovega okraja</naslov>
         <cit did="1288" cid="38" avtor0="Klasinc Anton"
             naslov0="Gradivo za zgodovino Ormoža in njegovega okraja" source="Ormož skozi stoletja"
@@ -17712,12 +17712,12 @@
             naslov0="Gradiščanski Hrvati od XVI stolječa do danas" pubPlace="Zagreb"
             publisher="Povijesni muzej" year="1970"/>
     </delo>
-    <delo mojID="13771">
+    <delo mojID="13771" cobiss="17726509">
         <naslov>Gradišče Presek pri Črešnjevcu</naslov>
         <cit did="1945" cid="28" avtor0="Pahič S." naslov0="Gradišče Presek pri Črešnjevcu"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1950" volume="1" page="170-176"/>
     </delo>
-    <delo mojID="13773">
+    <delo mojID="13773" cobiss="220709888">
         <naslov>Gradišče pri Divači : vas z roba Regijskega parka Škocjanske jame</naslov>
         <cit did="424" cid="1" avtor0="Cerkvenik Branko"
             naslov0="Gradišče pri Divači : vas z roba Regijskega parka Škocjanske jame"
@@ -17748,14 +17748,14 @@
             naslov0="Gradnja ratnih brodova u Kraljevici 1764-1767: iz povijesti Titovog brodogradilišta u Kraljevici"
             pubPlace="Pazin" publisher="Historijski Arhiv Rijeka" year="1979" page="84-85"/>
     </delo>
-    <delo mojID="13782">
+    <delo mojID="13782" cobiss="69231616">
         <naslov>Gradnja tovarne glinice in aluminija Strnišče med drugo svetovno
                         vojno</naslov>
         <cit did="2299" cid="163" avtor0="Ferenc Tone"
             naslov0="Gradnja tovarne glinice in aluminija Strnišče med drugo svetovno vojno"
             source="Časopis za zgodovino in narodopisje" year="1996" issue="2" page="174-204"/>
     </delo>
-    <delo mojID="13783">
+    <delo mojID="13783" cobiss="21923629">
         <naslov>Gradnja Zavoda sv. Stanislava</naslov>
         <cit did="2866" cid="24" avtor0="Okoliš Stane" naslov0="Gradnja Zavoda sv. Stanislava"
             source="Zbornik simpozija ob stoletnici začetka gradnje prve slovenske gimnazije"
@@ -17790,18 +17790,18 @@
         <cit did="747" cid="26" avtor0="Mor C. G." naslov0="Grado da Bisanzio a Venezia"
             source="MSF" year="1979" volume="59" page="11-23"/>
     </delo>
-    <delo mojID="13790">
+    <delo mojID="13790" cobiss="1117820">
         <naslov>Gradovi</naslov>
         <cit did="2631" cid="273" avtor0="Polšak A." avtor1="Železnik A." naslov0="Gradovi"
             source="Boštanj - 800 let" volume="1998" page="81-98"/>
     </delo>
-    <delo mojID="13793">
+    <delo mojID="13793" cobiss="49312256">
         <naslov>Gradovi, graščine in dvorci na Slovenskem</naslov>
         <cit did="2015" cid="11" avtor0="Jakič L."
             naslov0="Gradovi, graščine in dvorci na Slovenskem" pubPlace="Radovljica"
             publisher="Diadakta" year="1995"/>
     </delo>
-    <delo mojID="13796">
+    <delo mojID="13796" cobiss="651009">
         <naslov>Gradovi in graščine v narodnem izročilu 1</naslov>
         <cit did="441" cid="2" avtor0="Orožen Janko"
             naslov0="Gradovi in graščine v narodnem izročilu 1"
@@ -17813,19 +17813,19 @@
         <cit did="2619" cid="1" avtor0="Bartelj A., Splichal J."
             naslov0="Gradovi in usode. Podlistek" source="Dolenjski list" year="2013"/>
     </delo>
-    <delo mojID="13801">
+    <delo mojID="13801" cobiss="13586733">
         <naslov>Gradovi na Krasu</naslov>
         <cit did="375" cid="170" avtor0="Štupar Šumi Nataša" naslov0="Gradovi na Krasu"
             naslov1="Kras. Pokrajina, življenje, ljudje" pubPlace="Ljubljana" year="1999"
             page="272-283"/>
     </delo>
-    <delo mojID="13802">
+    <delo mojID="13802" cobiss="1544758">
         <naslov>Gradovi na območju Kranja</naslov>
         <cit did="422" cid="4" avtor0="Žontar Majda" naslov0="Gradovi na območju Kranja"
             source="Kranjski zbornik 1970" pubPlace="Kranj" publisher="Skupščina občine Kranj"
             year="1970" page="192"/>
     </delo>
-    <delo mojID="13803">
+    <delo mojID="13803" cobiss="47743842">
         <naslov>Gradovi na Pivškem</naslov>
         <cit did="375" cid="106" avtor0="Jeršin Jadran" naslov0="Gradovi na Pivškem"
             naslov1="diplomska naloga, tipkopis" pubPlace="Ljubljana" year="1985" page="55-61"/>
@@ -17847,12 +17847,12 @@
             naslov0="Gradovi v občinah Domžale, Moravče in Lukovica" pubPlace="Domžale" year="2006"
         />
     </delo>
-    <delo mojID="13810">
+    <delo mojID="13810" cobiss="239059">
         <naslov>Gradovi Vojne krajine</naslov>
         <cit did="1481" cid="2" avtor0="Buczynski A." naslov0="Gradovi Vojne krajine"
             pubPlace="Zagreb" year="1997"/>
     </delo>
-    <delo mojID="13811">
+    <delo mojID="13811" cobiss="22021888">
         <naslov>Gradovi. Zbirka Slovenska dediščina</naslov>
         <cit did="2619" cid="51" avtor0="Stopar Ivan" naslov0="Gradovi. Zbirka Slovenska dediščina"
             pubPlace="Ljubljana" year="1991"/>
@@ -17890,7 +17890,7 @@
             source="Želja in krivda" pubPlace="Ljubljana" publisher="Analecta" year="1988"
             page="121-140"/>
     </delo>
-    <delo mojID="13823">
+    <delo mojID="13823" cobiss="11686989">
         <naslov>Grafenauer, Danijel, Die Auswanderung von Österreichern nach Jugoslawien
                         nach der Kärntner Volksabstimmung 1920</naslov>
         <cit did="2564" cid="18" avtor0="Stergar Janez"
@@ -17910,7 +17910,7 @@
             naslov0="Grafenauerjev zbornik. Slovenska akademija znanosti in umetnosti, Znanstvenoraziskovalni center SAZU, Filozofska fakulteta"
             pubPlace="Ljubljana" publisher="Pedagoška akademija, Maribor" year="1996"/>
     </delo>
-    <delo mojID="13826">
+    <delo mojID="13826" cobiss="20250717">
         <naslov>Grafit kot eden izmed načinov subkulturnega izražanja</naslov>
         <cit did="2168" cid="1" avtor0="Novak Maja"
             naslov0="Grafit kot eden izmed načinov subkulturnega izražanja"
@@ -17929,7 +17929,7 @@
             source="Galerija Zorana Mušiča grad Dobrovo: stalna zbirka graficnih del Zorana Mušiča"
             pubPlace="Nova Gorica" publisher="Goriski muzej" year="1991" page="13-18"/>
     </delo>
-    <delo mojID="13831">
+    <delo mojID="13831" cobiss="1109962846">
         <naslov>Grafologija našega narodnega gospodarstva</naslov>
         <cit did="2278" cid="12" avtor0="Lah Ivo"
             naslov0="Grafologija našega narodnega gospodarstva" source="Trgovski tovariš"
@@ -17941,7 +17941,7 @@
             naslov0="Grafološko karakterološka oznaka slovenskih književnikov" source="SRL"
             year="1986" issue="3" page="279-314"/>
     </delo>
-    <delo mojID="13833">
+    <delo mojID="13833" cobiss="27313664">
         <naslov>Grajska zapuščina: katalog ob razstavi keramike in stekla, 14.-17. stol. :
                         grad Dobrovo, 1991</naslov>
         <cit did="2237" cid="30" avtor0="Žbona Trkman Beatriče"
@@ -17955,19 +17955,19 @@
             naslov0="Grajske stavbe na Dolenjskem in v Beli krajini. Terenski zapiski iz let 1988-2003. Rokopis"
         />
     </delo>
-    <delo mojID="13837">
+    <delo mojID="13837" cobiss="62637824">
         <naslov>Grajske stavbe v osrednji Sloveniji, 6-10</naslov>
         <cit did="2631" cid="330" avtor0="Stopar Ivan"
             naslov0="Grajske stavbe v osrednji Sloveniji, 6-10" pubPlace="Ljubljana" year="1996"/>
     </delo>
-    <delo mojID="13845">
+    <delo mojID="13845" cobiss="109511168">
         <title>Grajske stavbe v osrednji Sloveniji - II. Dolenjska</title>
         <cit did="2598" cid="26" avtor0="Stopar Ivan"
             naslov0="Grajske stavbe v osrednji Sloveniji - II. Dolenjska"
             source="Med Bogenšjierkom in Mokrica mi." pubPlace="Ljubljana" publisher="Viharnik"
             year="2000"/>
     </delo>
-    <delo mojID="13852">
+    <delo mojID="13852" cobiss="226545408">
         <naslov>Grajske stavbe v osrednji Sloveniji 3, Notranjska, Med Idrijo in
                         Snežnikom</naslov>
         <cit did="2015" cid="29" avtor0="Sapač Igor"
@@ -17980,7 +17980,7 @@
             naslov0="Grajske stavbe v vzhodni Sloveniji 3." pubPlace="Maribor" publisher="Obzorja"
             year="1961"/>
     </delo>
-    <delo mojID="13856">
+    <delo mojID="13856" cobiss="21858560">
         <naslov>Grajske stavbe v vzhodni Sloveniji. 5 knjig.</naslov>
         <cit did="1945" cid="51" avtor0="Stopar I."
             naslov0="Grajske stavbe v vzhodni Sloveniji. 5 knjig." pubPlace="Ljubljana"
@@ -17992,18 +17992,18 @@
         <cit did="844" cid="213" avtor0="Tschinkel Walter" naslov0="Gramatik der Gottscheer Mundart"
             pubPlace="Halle" year="1907"/>
     </delo>
-    <delo mojID="13867">
+    <delo mojID="13867" cobiss="118555392">
         <naslov>Grammaire comparee des langues slaves</naslov>
         <cit did="730" cid="31" avtor0="Vaillant A." naslov0="Grammaire comparee des langues slaves"
             source="Tome IV. La formation des noms" pubPlace="Paris" publisher="Klincksieck"
             year="1974"/>
     </delo>
-    <delo mojID="13868">
+    <delo mojID="13868" cobiss="69210">
         <naslov>Grammaire des civilisations</naslov>
         <cit did="3505" cid="41" avtor0="Braudel Fernand" naslov0="Grammaire des civilisations"
             pubPlace="Pariz" publisher="Flammarion" year="1993"/>
     </delo>
-    <delo mojID="13869">
+    <delo mojID="13869" cobiss="1038178">
         <naslov>Grammaire méthodique du francais</naslov>
         <cit did="704" cid="12" avtor0="Riegel M. Pellat, J.-C. Rioul R."
             naslov0="Grammaire méthodique du francais" pubPlace="Paris"
@@ -18042,7 +18042,7 @@
         <cit did="408" cid="7" avtor0="Maslov J. S." naslov0="Grammatika bolgarskogo jazyka"
             pubPlace="Moskva" publisher="Vysšaja škola" year="1981"/>
     </delo>
-    <delo mojID="13879">
+    <delo mojID="13879" cobiss="7097421">
         <naslov>Grand delusion: Stalin and the German invasion of Russia</naslov>
         <cit did="2919" cid="19" avtor0="Gorodetsky Gabriel"
             naslov0="Grand delusion: Stalin and the German invasion of Russia"
@@ -18067,7 +18067,7 @@
             naslov1="2. Il Friuli, Trieste e l'Istria nel periodo veneziano" pubPlace="Udine"
             year="1987" page="426-427"/>
     </delo>
-    <delo mojID="13885">
+    <delo mojID="13885" cobiss="512029219">
         <naslov>Grande guerra</naslov>
         <cit did="1315" cid="33" avtor0="Meregalli Carlo" naslov0="Grande guerra"
             naslov1="Tappe della Vittoria" pubPlace="Bassano" publisher="Ghedina Tassotti"
@@ -18096,17 +18096,17 @@
             naslov0="Granica Liburnije i Histrije u predantičko i antičko doba" source="Obavijesti"
             year="2000" volume="32" issue="2"/>
     </delo>
-    <delo mojID="13890">
+    <delo mojID="13890" cobiss="469553">
         <naslov>Graničarji</naslov>
         <cit did="2625" cid="66" avtor0="Magajna Bogomir" naslov0="Graničarji" pubPlace="Celje"
             publisher="Založila družba Sv. Mohorja" year="1934"/>
     </delo>
-    <delo mojID="13891">
+    <delo mojID="13891" cobiss="13303041">
         <naslov>Grascine na nekdanjem Kranjskem</naslov>
         <cit did="2647" cid="326" avtor0="Smole Majda" naslov0="Grascine na nekdanjem Kranjskem"
             pubPlace="Ljubljana" year="1982"/>
     </delo>
-    <delo mojID="13892">
+    <delo mojID="13892" cobiss="82441729">
         <naslov>Graslova ustanova in ustanovitev župnije v Poljčanah</naslov>
         <cit did="2604" cid="104" avtor0="Richter Jakob"
             naslov0="Graslova ustanova in ustanovitev župnije v Poljčanah"
@@ -18137,14 +18137,14 @@
             source="Parliaments, estates &amp; representation = Parlements, états &amp; représentation"
             pubPlace="London" publisher="Pageant Publishing, A. F. Upton" year="1997" page="13"/>
     </delo>
-    <delo mojID="13896">
+    <delo mojID="13896" cobiss="12241718">
         <naslov>Graverstvo in cizelerstvo v Kropi</naslov>
         <cit did="1661" cid="3" avtor0="Dolžan Eržen Tatjana"
             naslov0="Graverstvo in cizelerstvo v Kropi"
             source="Vigenjc, 20. stoletje: umetno kovaštvo, graverstvo in cizelerstvo" year="2006"
             volume="6" page="139-144"/>
     </delo>
-    <delo mojID="13898">
+    <delo mojID="13898" cobiss="40573441">
         <naslov>Graz zur Gründerzeit</naslov>
         <cit did="1567" cid="23" avtor0="Schiffer Ekhart Armgard, Schaukal Barbara"
             naslov0="Graz zur Gründerzeit" pubPlace="Graz" year="1993"/>
@@ -18168,13 +18168,13 @@
             naslov0="Građa o nemirima u Hrvatskoj na kraju 1918" source="Historijski zbornik"
             year="1957" issue="1-4" page="143"/>
     </delo>
-    <delo mojID="13902">
+    <delo mojID="13902" cobiss="13312098">
         <naslov>Građa o Srbima u Hrvatskoj i Slavoniji : 1848-1914</naslov>
         <cit did="174" cid="6" avtor0="Krestić Đ. V."
             naslov0="Građa o Srbima u Hrvatskoj i Slavoniji : 1848-1914" pubPlace="Beograd"
             publisher="BIGZ" year="1995" issue="2" page="231"/>
     </delo>
-    <delo mojID="13904">
+    <delo mojID="13904" cobiss="7822157">
         <naslov>Građa o talijanskoj okupaciji Rijeke, Istre i Hrvatskog Primorja 1918.
                         godine : iz "spisa Narodno vijeće Slovenaca, Hrvata i Srba" u Državnom
                         arhivu u Zagrebu</naslov>
@@ -18189,7 +18189,7 @@
             naslov0="Građa za povijest školstva kraljevine Hrvatske i Slavonije od najstarijih vremena do danas"
             pubPlace="Zagreb" year="1910" page="446"/>
     </delo>
-    <delo mojID="13906">
+    <delo mojID="13906" cobiss="37233671">
         <naslov>Građanska Evropa</naslov>
         <cit did="18" cid="12" avtor0="Popov Čedomir" naslov0="Građanska Evropa"
             naslov1="1770-1871 : Prva knjiga : Osnovi evropske istorije XIX. veka,"
@@ -18203,7 +18203,7 @@
             publisher="Institut za migracije i narodnosti, Naklada Jesenski i Turk, Hrvatsko sociološko društvo"
             year="1998" page="223–234"/>
     </delo>
-    <delo mojID="13908">
+    <delo mojID="13908" cobiss="1612660">
         <naslov>Građanski rat u Crnoj Gori, knjiga 1</naslov>
         <cit did="1510" cid="117" avtor0="Ređić Vučeta"
             naslov0="Građanski rat u Crnoj Gori, knjiga 1" pubPlace="Podgorica" year="2002"
@@ -18226,7 +18226,7 @@
             naslov0="Graški zlatarji in srebrarji na slovenskem Štajerskem"
             source="Zbornik za umetnostno zgodovino" year="1981" volume="N.V. 17" page="75-87"/>
     </delo>
-    <delo mojID="13915">
+    <delo mojID="13915" cobiss="5211393">
         <naslov>Graščina Turn ob Ljubljanici</naslov>
         <cit did="2393" cid="3" avtor0="Smole Majda" naslov0="Graščina Turn ob Ljubljanici"
             pubPlace="Ljubljana" publisher="Arhiv SR Slovenije" year="1980"/>
@@ -18237,7 +18237,7 @@
             naslov0="Graščine in hiše rodovine Valvasorjeve na Kranjskem" source="Ljubljanski zvon"
             year="1894" volume="14" issue="7" page="433-437"/>
     </delo>
-    <delo mojID="13920">
+    <delo mojID="13920" cobiss="80129537">
         <naslov>Graščinski oskrbnik, sreski komisar Josip Herzog v podčetrtku
                         (1860)</naslov>
         <cit did="64" cid="3" avtor0="Ilešič Fran"
@@ -18250,13 +18250,13 @@
             source="Enciklopedija Slovenije. Knj. 3" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" page="377-378"/>
     </delo>
-    <delo mojID="13922">
+    <delo mojID="13922" cobiss="25371437">
         <naslov>Grb družine Khisl in njegove izboljšave</naslov>
         <cit did="2604" cid="143" avtor0="Žabota Barbara"
             naslov0="Grb družine Khisl in njegove izboljšave" source="Kronika" pubPlace="Ljubljana"
             volume="53" issue="1" page="28-33"/>
     </delo>
-    <delo mojID="13923">
+    <delo mojID="13923" cobiss="512176255">
         <naslov>Grb in mit. Primer psevdokraljevskega izročila o gospodih Svibenskih (12.—
                         19. stoletje)</naslov>
         <cit did="2647" cid="165" avtor0="Kos Dušan"
@@ -18336,13 +18336,13 @@
             naslov0="Greater Perfections: The Practice of Garden History" pubPlace="London"
             publisher="Thames and Hudson" year="2000"/>
     </delo>
-    <delo mojID="13938">
+    <delo mojID="13938" cobiss="23257133">
         <naslov>Greci delle periferie: Dal Danubio all'Atlantico</naslov>
         <cit did="1748" cid="119" avtor0="Braccesi L."
             naslov0="Greci delle periferie: Dal Danubio all'Atlantico" pubPlace="Roma - Bari"
             year="2003"/>
     </delo>
-    <delo mojID="13939">
+    <delo mojID="13939" cobiss="513170060">
         <naslov>Grecita adriatica: un capitolo della colonizzazione greca in
                         occidente</naslov>
         <cit did="1748" cid="118" avtor0="Braccesi L."
@@ -18368,7 +18368,7 @@
             source="Ancient Perceptions of Greek Ethnicity" pubPlace="London" year="2001"
             page="187-212"/>
     </delo>
-    <delo mojID="13944">
+    <delo mojID="13944" cobiss="11087917">
         <naslov>Greek and Latin Literature of the Roman Empire from Augustus to
                         Justinian</naslov>
         <cit did="272" cid="62" avtor0="Dihle Albrecht"
@@ -18381,22 +18381,22 @@
             naslov0="Greek and Roman Historians. Information and Misinformation"
             pubPlace="London - New York" publisher="Routledge" year="1999"/>
     </delo>
-    <delo mojID="13946">
+    <delo mojID="13946" cobiss="33484288">
         <naslov>Greek and Roman Maps</naslov>
         <cit did="1748" cid="269" avtor0="Dilke O. A. W." naslov0="Greek and Roman Maps"
             pubPlace="London" year="1985"/>
     </delo>
-    <delo mojID="13947">
+    <delo mojID="13947" cobiss="7905325">
         <naslov>Greek and Roman Technology</naslov>
         <cit did="419" cid="23" avtor0="Humphrey et al." naslov0="Greek and Roman Technology"
             source="A Sourcebook" pubPlace="London - New York" publisher="Routledge" year="1998"/>
     </delo>
-    <delo mojID="13948">
+    <delo mojID="13948" cobiss="2879747">
         <naslov>Greek Art</naslov>
         <cit did="272" cid="24" avtor0="Boardman John" naslov0="Greek Art" pubPlace="London"
             year="1964"/>
     </delo>
-    <delo mojID="13949">
+    <delo mojID="13949" cobiss="19433773">
         <naslov>Greek Historians</naslov>
         <cit did="272" cid="130" avtor0="Marincola John" naslov0="Greek Historians"
             pubPlace="Oxford" year="2001"/>
@@ -18412,7 +18412,7 @@
         <cit did="763" cid="31" avtor0="Weitzmann Kurt" naslov0="Greek Mythology in Byzantine Art"
             pubPlace="Princeton" publisher="Princeton University Press" year="1984"/>
     </delo>
-    <delo mojID="13952">
+    <delo mojID="13952" cobiss="3113261">
         <naslov>Greek &amp; Roman Historians : Informations and Misinformation</naslov>
         <cit did="272" cid="81" avtor0="Grant Michael"
             naslov0="Greek &amp; Roman Historians : Informations and Misinformation"
@@ -18425,7 +18425,7 @@
             source="Renaissance and revolution: humanists, scholars, craftsmen and natural philosophers in early modern Europe"
             pubPlace="Cambridge" publisher="Cambridge University Press" year="1993" page="15-28"/>
     </delo>
-    <delo mojID="13954">
+    <delo mojID="13954" cobiss="512622988">
         <naslov>Greek Sophists in the Roman Empire</naslov>
         <cit did="1748" cid="109" avtor0="Bowersock G. W."
             naslov0="Greek Sophists in the Roman Empire" pubPlace="Oxford" year="1969"/>
@@ -18457,14 +18457,14 @@
             source="Studies in Ancient Society" pubPlace="London - Boston" year="1974"
             page="166-209"/>
     </delo>
-    <delo mojID="13959">
+    <delo mojID="13959" cobiss="37286754">
         <naslov>Green George Paths and Spaces - A Comparative Approach</naslov>
         <cit did="3002" cid="21" avtor0="Šmitek Zmago"
             naslov0="Green George Paths and Spaces - A Comparative Approach"
             source="Space and Time in Europe: East and West, Past and Present" pubPlace="Ljubljana"
             publisher="Univerza v Ljubljani, Filozofska fakulteta" year="2008" page="67-87"/>
     </delo>
-    <delo mojID="13960">
+    <delo mojID="13960" cobiss="35271469">
         <naslov>Greenberg Marc, O jeziku slovanskih prebivalcev med Donavo in Jadranom v
                         srednjem veku (pogled jezikoslovcev)</naslov>
         <cit did="3257" cid="68" avtor0="Snoj Marko"
@@ -18477,7 +18477,7 @@
             naslov0="Gregor Rihar (1796-1863) - ob 200. obletnici rojstva" source="Naši zbori"
             year="1996" volume="48"/>
     </delo>
-    <delo mojID="13963">
+    <delo mojID="13963" cobiss="1311349">
         <naslov>Gregor Vlahovič (1523-1581), življenje in delo predikanta na meji
                         cesarstva</naslov>
         <cit did="3465" cid="121" avtor0="Weiss Janez"
@@ -18491,7 +18491,7 @@
             naslov0="Gregor Voglar - Carbo-narius (1651-1717), zdravnik carja Petra Velikega"
             source="http://vestnik.zsd.si/st2-10/st2-10-649-651. htm."/>
     </delo>
-    <delo mojID="13966">
+    <delo mojID="13966" cobiss="10871394">
         <naslov>Gregorec, Lavoslav</naslov>
         <cit did="1783" cid="32" avtor0="Cvirn Janez" naslov0="Gregorec, Lavoslav"
             source="Enciklopedija Slovenije, knjiga 3," pubPlace="Ljubljana" year="1989"/>
