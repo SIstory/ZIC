@@ -21793,7 +21793,7 @@
             naslov1="v rokopisu na Zgodovinskem inštitutu Milka Kosa ZRC SAZU" pubPlace="Ljubljana"
         />
     </delo>
-    <delo mojID="14655">
+    <delo mojID="14655" cobiss="636253">
         <naslov>Historične konstante na tleh nekdanje Jugoslavije in neupoštevanje le teh
                         pri oblikovanju multinacionalne države</naslov>
         <cit did="2536" cid="45" avtor0="Simoniti Vasko"
@@ -21808,7 +21808,7 @@
             naslov0="Historv in exile : Memory and Identitv at the Borders of the Balkans"
             pubPlace="Princeton" publisher="Princeton Universitv Press"/>
     </delo>
-    <delo mojID="14660">
+    <delo mojID="14660" cobiss="1511997">
         <naslov>History: A Very Short Introduction</naslov>
         <cit did="2018" cid="7" avtor0="Arnold J. H." naslov0="History: A Very Short Introduction"
             pubPlace="Oxford" publisher="Oxford University Press" year="2000"/>
@@ -21873,7 +21873,7 @@
         <cit did="272" cid="336" avtor0="Lynn Hunt" naslov0="History, Culture and Text"
             pubPlace="Berkeley" year="1989" page="10"/>
     </delo>
-    <delo mojID="14675">
+    <delo mojID="14675" cobiss="512020352">
         <naslov>History for today and tomorrow. What does Europe mean for School
                         History?</naslov>
         <cit did="2577" cid="6" avtor0="Van der Leeuw Roord Joke"
@@ -21907,12 +21907,12 @@
             naslov0="History in fragments: Montecassino's politics of memory"
             source="Early medieval Europe" year="2001" volume="10" issue="3" page="343-374"/>
     </delo>
-    <delo mojID="14681">
+    <delo mojID="14681" cobiss="58129153">
         <naslov>History in the early years</naslov>
         <cit did="3183" cid="2" avtor0="Cooper H." naslov0="History in the early years"
             pubPlace="London: New York" publisher="Routledge Farmer" year="2002"/>
     </delo>
-    <delo mojID="14682">
+    <delo mojID="14682" cobiss="128542208">
         <naslov>History in Three Keys: The Boxers as Event, Experience, and Myth</naslov>
         <cit did="1450" cid="11" avtor0="Cohen Paul A."
             naslov0="History in Three Keys: The Boxers as Event, Experience, and Myth"
@@ -21933,12 +21933,12 @@
         <cit did="3173" cid="4" avtor0="Joseph Ki Zerbo" naslov0="History of Africa"
             pubPlace="Ljubljana" year="1974"/>
     </delo>
-    <delo mojID="14686">
+    <delo mojID="14686" cobiss="19395584">
         <naslov>History of ancient India</naslov>
         <cit did="72" cid="48" avtor0="Tripathi R. S." naslov0="History of ancient India"
             pubPlace="Delhi" year="1987"/>
     </delo>
-    <delo mojID="14687">
+    <delo mojID="14687" cobiss="3654957">
         <naslov>History of Cave Science. The Exploration and Study of Limestone Caves, to
                         1900</naslov>
         <cit did="2424" cid="13" avtor0="Shaw Trevor R."
@@ -21967,7 +21967,7 @@
             pubPlace="New York, Chicago, San Francisco, Atlanta, Dallas, Montreal, Toronto, London, Sydney"
             publisher="Holt, Reinhart &amp; Winston" year="1975"/>
     </delo>
-    <delo mojID="14693">
+    <delo mojID="14693" cobiss="4338743">
         <naslov>History of Food</naslov>
         <cit did="3128" cid="14" avtor0="Toussanit Samat Maguelonne" naslov0="History of Food"
             source="Cambridge" publisher="Blackvvell Publishers Ltd." year="1996"/>
@@ -21998,7 +21998,7 @@
             naslov1="rokopis" source="arhiv KC Sinagoga Maribor" pubPlace="Maribor" year="2002"
             page="4"/>
     </delo>
-    <delo mojID="14700">
+    <delo mojID="14700" cobiss="58638080">
         <naslov>History of Magic and Experimental Science</naslov>
         <cit did="2409" cid="10" avtor0="Lynn Thorndike"
             naslov0="History of Magic and Experimental Science" pubPlace="New York" year="1941"
@@ -22009,12 +22009,12 @@
         <cit did="51" cid="104" avtor0="Voltaire" naslov0="History of Russia under Peter the Great"
         />
     </delo>
-    <delo mojID="14704">
+    <delo mojID="14704" cobiss="29009757">
         <naslov>History of Shit</naslov>
         <cit did="272" cid="360" avtor0="Leponte D." naslov0="History of Shit" pubPlace="Cambridge"
             year="2000"/>
     </delo>
-    <delo mojID="14706">
+    <delo mojID="14706" cobiss="861029">
         <naslov>History of social Work in Europe (1900-1960)</naslov>
         <cit did="136" cid="10" avtor0="Hering Sabine, Waaldijk, Berteke (ur.)"
             naslov0="History of social Work in Europe (1900-1960)" pubPlace="Opladen"
@@ -22062,7 +22062,7 @@
             naslov0="History of the Society of Jesus in North America : colonial and federal : vol. III"
             pubPlace="London" publisher="Longmans, Green" year="1917"/>
     </delo>
-    <delo mojID="14718">
+    <delo mojID="14718" cobiss="6556497">
         <naslov>History of the United Nations Charter</naslov>
         <cit did="2973" cid="3" avtor0="Russell Ruth B."
             naslov0="History of the United Nations Charter" pubPlace="Washington D.C."
@@ -22073,13 +22073,13 @@
         <cit did="759" cid="6" avtor0="Procopius" naslov0="History of the wars" pubPlace="London"
             publisher="The Loeb classical library. 5. izdaja." year="2000"/>
     </delo>
-    <delo mojID="14720">
+    <delo mojID="14720" cobiss="3808054">
         <naslov>History of the world</naslov>
         <cit did="305" cid="1" avtor0="Wright Esmond" naslov0="History of the world"
             source="The last five hundred years" publisher="Bonanza Books" year="1984"
             page="468-476"/>
     </delo>
-    <delo mojID="14722">
+    <delo mojID="14722" cobiss="835657">
         <naslov>History of Women in the III.: Renaissance and Enlightenment
                         Paradoxes</naslov>
         <cit did="2018" cid="72" avtor0="Duby G., Perrot M."
@@ -22096,7 +22096,7 @@
         <cit did="2018" cid="96" avtor0="Gilbert F." naslov0="History: Politics or Culture?"
             pubPlace="Princeton" publisher="Princeton University Press" year="1990"/>
     </delo>
-    <delo mojID="14726">
+    <delo mojID="14726" cobiss="40338689">
         <naslov>History : What &amp; Why</naslov>
         <cit did="272" cid="171" avtor0="Southgate Beverly" naslov0="History : What &amp; Why"
             pubPlace="London - New York" year="1996"/>
@@ -22136,7 +22136,7 @@
         <cit did="742" cid="17" avtor0="Fest J." naslov0="Hitler :  eine Biographie"
             pubPlace="Frankfurt am Main - Berlin - Wien" year="1973"/>
     </delo>
-    <delo mojID="14737">
+    <delo mojID="14737" cobiss="46669">
         <naslov>Hitler - Mussolini: Die Entstehung der Achse Berlin-Rom 1933-1936</naslov>
         <cit did="2919" cid="34" avtor0="Peterson Jens"
             naslov0="Hitler - Mussolini: Die Entstehung der Achse Berlin-Rom 1933-1936"
@@ -22160,18 +22160,18 @@
             naslov0="Hitler : Selbstverständnis eines Revolutionärs" pubPlace="München" year="1998"
             page="310"/>
     </delo>
-    <delo mojID="14742">
+    <delo mojID="14742" cobiss="159503">
         <naslov>Hitler's Balkan Campaign and the Invasion of the USSR</naslov>
         <cit did="3361" cid="4" avtor0="Zapantis Andrew L."
             naslov0="Hitler's Balkan Campaign and the Invasion of the USSR" pubPlace="New York"
             publisher="Columbia University Press" year="1987" page="57-63"/>
     </delo>
-    <delo mojID="14744">
+    <delo mojID="14744" cobiss="1146740">
         <naslov>Hitler's Europe</naslov>
         <cit did="1659" cid="10" avtor0="Toynbee Arnold" avtor1="Toynbee Veronica Majorie"
             naslov0="Hitler's Europe" pubPlace="London-New York-Toronto" year="1954" page="108"/>
     </delo>
-    <delo mojID="14745">
+    <delo mojID="14745" cobiss="1223284">
         <naslov>Hitler's Italian Allies. Royal armed forces, Fascist regime, and the war of
                         1940-1943</naslov>
         <cit did="2919" cid="28" avtor0="Knox MacGregor"
@@ -22185,7 +22185,7 @@
             source="Der &#34;Führerstaat&#34;: Mythos und Realität. Studien zur Struktur und Politik des Dritten Reiches"
             pubPlace="Stuttgart" year="1981" page="43-72"/>
     </delo>
-    <delo mojID="14750">
+    <delo mojID="14750" cobiss="1609076">
         <naslov>Hitler's War Aims: The Establishment of the New Order. II.</naslov>
         <cit did="1815" cid="3" avtor0="Norman Rich"
             naslov0="Hitler's War Aims: The Establishment of the New Order. II." pubPlace="New York"
@@ -22202,7 +22202,7 @@
         <cit did="1522" cid="13" avtor0="Zupanič Jelka" naslov0="Hitrejši konfederacijski dogovor"
             source="Večer" year="0" page="4"/>
     </delo>
-    <delo mojID="14757">
+    <delo mojID="14757" cobiss="59988992">
         <naslov>Hitrost osvoboditve</naslov>
         <cit did="2008" cid="65" avtor0="Virilio P." naslov0="Hitrost osvoboditve"
             pubPlace="Ljubljana" publisher="Študentska organizacija Univerze" year="1996"/>
@@ -22214,7 +22214,7 @@
             publisher="Ministarstvo zdravstva i socijalne skrbi - Hrvatski zavod za javno zdravstvo"
             year="2006"/>
     </delo>
-    <delo mojID="14759">
+    <delo mojID="14759" cobiss="8687925">
         <naslov>Hiša Alme Karlin bo spomenik</naslov>
         <cit did="2296" cid="6" avtor0="Stamejčič Damjana" naslov0="Hiša Alme Karlin bo spomenik"
             source="Delo" year="2001" volume="43" issue="222" page="6"/>
@@ -22224,19 +22224,19 @@
         <cit did="2296" cid="4" avtor0="Grušovnik Mojca" naslov0="Hiša je celjska sramota"
             source="www.dnevnik.si/tiskane_izdaje" year="2001"/>
     </delo>
-    <delo mojID="14761">
+    <delo mojID="14761" cobiss="68343297">
         <naslov>Hiša kot "sveti kraj" v ljudskem verovanju in običajih pri koroških
                         Slovencih</naslov>
         <cit did="3380" cid="11" avtor0="Wiesflecker Peter"
             naslov0="Hiša kot &#34;sveti kraj&#34; v ljudskem verovanju in običajih pri koroških Slovencih"
             source="Časopis za zgodovino in narodopisje" year="2011" volume="82" page="193-206"/>
     </delo>
-    <delo mojID="14764">
+    <delo mojID="14764" cobiss="22716161">
         <naslov>Hiša št. 15</naslov>
         <cit did="1509" cid="14" avtor0="Vojskovič Marija" naslov0="Hiša št. 15"
             pubPlace="Ljubljana" year="1988"/>
     </delo>
-    <delo mojID="14765">
+    <delo mojID="14765" cobiss="284550">
         <naslov>Hiše in hišni posestniki v mestu Ormož</naslov>
         <cit did="1288" cid="20" avtor0="Fournier Gernot, Hernja Masten Marija"
             naslov0="Hiše in hišni posestniki v mestu Ormož" source="Ormož skozi stoletja III"
@@ -22257,20 +22257,20 @@
             source="www.vace.si/BENEDIKH.htm" pubPlace="Vače" publisher="Župnijski urad na Vačah"
             year="1972"/>
     </delo>
-    <delo mojID="14769">
+    <delo mojID="14769" cobiss="18498093">
         <naslov>Hišna imena v Kropi</naslov>
         <cit did="393" cid="9" avtor0="Škofic Jožica" naslov0="Hišna imena v Kropi"
             source="Zbornik s simpozija '99 v Pišecah" pubPlace="Novo mesto"
             publisher="Dolenjska založba" year="2001" page="21-40"/>
     </delo>
-    <delo mojID="14770">
+    <delo mojID="14770" cobiss="10964">
         <naslov>Hišna imena - zgodovina starejših hiš v občini Dobrla vas</naslov>
         <cit did="2612" cid="78" avtor0="Kotnik Bertrand"
             naslov0="Hišna imena - zgodovina starejših hiš v občini Dobrla vas"
             source="Dobrla vas in okolica, ur. Marija Makarovič in drugi"
             pubPlace="Celovec-Ljubljana-Dunaj" publisher="Mohorjeva založba" year="1996"/>
     </delo>
-    <delo mojID="14771">
+    <delo mojID="14771" cobiss="16982573">
         <naslov>Hišna oprema svobodnikov na Kranjskem v 17. in 18. stoletju</naslov>
         <cit did="2288" cid="15" avtor0="Baš Angelos"
             naslov0="Hišna oprema svobodnikov na Kranjskem v 17. in 18. stoletju"
@@ -22283,7 +22283,7 @@
             naslov0="Hišne pomočnice – žensko delo v mreži narodnih in socialnih odnosov na Goriškem v 19. in 20. stoletju, doktorska disertacija"
             naslov1="tipkopis" pubPlace="Ljubljana" year="2010"/>
     </delo>
-    <delo mojID="14774">
+    <delo mojID="14774" cobiss="512249141">
         <naslov>Hišni red za gojence škofijskega zavoda sv. Stanislava v Št. Vidu nad
                         Ljubljano</naslov>
         <cit did="2869" cid="3" avtor0="Jeglič Anton Bonaventura"
@@ -22297,7 +22297,7 @@
             naslov0="Hladno oružje iz Zbirke oružja Povijesnog odjela Gradskog muzeja Vinkovci"
             pubPlace="Vinkovci" year="2007"/>
     </delo>
-    <delo mojID="14777">
+    <delo mojID="14777" cobiss="38309888">
         <naslov>Hlapci</naslov>
         <cit did="2014" cid="3" avtor0="Cankar Ivan" naslov0="Hlapci" pubPlace="Ljubljana"
             publisher="Mihelač" year="1994"/>
@@ -22320,7 +22320,7 @@
             naslov0="Hledání ztraceného smyslu revoluce. Zrod a počátky marxistického revizionismu ve střední Evropě 1953-1960"
             pubPlace="Praga" publisher="Argo" year="2009"/>
     </delo>
-    <delo mojID="14782">
+    <delo mojID="14782" cobiss="1054465">
         <naslov>Hmeljarstvo v savinjski dolini</naslov>
         <cit did="3241" cid="273" avtor0="Kač Lojze" naslov0="Hmeljarstvo v savinjski dolini"
             source="CZ" year="1951"/>
@@ -22359,7 +22359,7 @@
             naslov0="Hochmittelalterliche Siedlungsplanungen und Stadtgründungen im Ostalpenraum"
             source="Forschungen zur Geschichte der Städte und Märkte Österreichs 1." page="1-68"/>
     </delo>
-    <delo mojID="14789">
+    <delo mojID="14789" cobiss="456837">
         <naslov>Hochverrat und "Serbophile Umtriebe": der Kriminalfall Maria-Rast als
                         Beispiel...</naslov>
         <cit did="2201" cid="34" avtor0="Moll Martin"
@@ -22432,7 +22432,7 @@
             naslov0="Hohe Berge - Wilde Frauen: Betrachtungen zur Antiken Sozialanthropologie"
             source="Grazer Beiträge" year="1994" volume="20" page="195-211"/>
     </delo>
-    <delo mojID="14806">
+    <delo mojID="14806" cobiss="8922157">
         <naslov>Hohenwart Kari</naslov>
         <cit did="2227" cid="20" avtor0="Rajšp Vinko" naslov0="Hohenwart Kari"
             source="Enciklopedija Slovenije 4." pubPlace="Ljubljana" year="1990" page="39"/>
@@ -22450,7 +22450,7 @@
         <cit did="1916" cid="29" avtor0="Moser L. K." naslov0="Hohlenforschungen im Kustenlande"
             source="MAGW" year="1901" volume="31"/>
     </delo>
-    <delo mojID="14810">
+    <delo mojID="14810" cobiss="943316">
         <naslov>Hoja za mavrico: Spomini iz temnih dni pričakovanja</naslov>
         <cit did="2900" cid="86" avtor0="Jelen Tone"
             naslov0="Hoja za mavrico: Spomini iz temnih dni pričakovanja"
@@ -22492,7 +22492,7 @@
         <cit did="2822" cid="73" avtor0="Hartman Geoffrey" naslov0="Holocaust Remembrance"
             pubPlace="Oxford, Cambridge" publisher="Blackwell" year="1994"/>
     </delo>
-    <delo mojID="14820">
+    <delo mojID="14820" cobiss="27188525">
         <naslov>Holocene vegetation development in Bela krajina (Slovenia) and the impact of
                         first farmers on the landscape</naslov>
         <cit did="2584" cid="2" avtor0="Andrič M."
@@ -22504,7 +22504,7 @@
         <cit did="2476" cid="10" avtor0="Wolfgang Benz" naslov0="Holokaust" pubPlace="Ljubljana"
             year="2000" page="3537"/>
     </delo>
-    <delo mojID="14824">
+    <delo mojID="14824" cobiss="54018561">
         <naslov>Holokavst 1933-1945</naslov>
         <cit did="504" cid="1" avtor0="Kuzmič Franc, Toš Marjan" naslov0="Holokavst 1933-1945"
             naslov1="katalog razstave v Sinagogi Maribor" pubPlace="Maribor"
@@ -22576,7 +22576,7 @@
         <cit did="3505" cid="38" avtor0="Bourdieu Pierre" naslov0="Homo academicus" pubPlace="Pariz"
             publisher="Eds. de Minuit" year="1984"/>
     </delo>
-    <delo mojID="14838">
+    <delo mojID="14838" cobiss="107478272">
         <naslov>Homo diplomaticus Slovenicus</naslov>
         <cit did="2625" cid="36" avtor0="Grobovšek Bojan" naslov0="Homo diplomaticus Slovenicus"
             pubPlace="Ljubljana" publisher="Cankarjeva založba" year="2000"/>
@@ -22594,7 +22594,7 @@
             naslov1="The European Citizen According to Max Weber" source="The Idea of Europe"
             year="2002" page="135"/>
     </delo>
-    <delo mojID="14846">
+    <delo mojID="14846" cobiss="514549900">
         <naslov>Homo sacer. Die souveräne Macht und das nackte Leben</naslov>
         <cit did="2839" cid="1" avtor0="Agamben Giorgio"
             naslov0="Homo sacer. Die souveräne Macht und das nackte Leben"
@@ -22631,7 +22631,7 @@
         <cit did="3066" cid="18" avtor0="Végel László" naslov0="Hontalan esszék" pubPlace="Pécs"
             publisher="Jelenkor" year="2003" page="36-38"/>
     </delo>
-    <delo mojID="14852">
+    <delo mojID="14852" cobiss="27954269">
         <naslov>Horizontal Inequalities and Conflict: An Introduction and Some
                         Hypotheses</naslov>
         <cit did="2659" cid="54" avtor0="Stewart Frances"
@@ -22705,7 +22705,7 @@
             publisher="Center for Comparative Immigration Studies, University of California"
             year="2003" page="1-18"/>
     </delo>
-    <delo mojID="14866">
+    <delo mojID="14866" cobiss="22987821">
         <naslov>Hostnikovi polemiki s Stanislavom Škrabcem na rob</naslov>
         <cit did="408" cid="9" avtor0="Nartnik V."
             naslov0="Hostnikovi polemiki s Stanislavom Škrabcem na rob"
@@ -22731,7 +22731,7 @@
             source="Encounter Images in the Meeting Between Africa andEurope"
             pubPlace="Nordiska Afrikainstitutet" publisher="Uppsala" year="2001" page="54-75"/>
     </delo>
-    <delo mojID="14871">
+    <delo mojID="14871" cobiss="19392562">
         <naslov>House made of dawn</naslov>
         <cit did="2968" cid="92" avtor0="Momaday N. Scott" naslov0="House made of dawn"
             pubPlace="New York, Evanstown" publisher="Harper &amp; Row Publishers" year="1968"/>
@@ -22779,7 +22779,7 @@
             source="The Communication theory reader" pubPlace="London" publisher="Rutledge"
             year="1996" page="148-171"/>
     </delo>
-    <delo mojID="14878">
+    <delo mojID="14878" cobiss="26803293">
         <naslov>Hovv to think about information</naslov>
         <cit did="2008" cid="55" avtor0="Schiller  D." naslov0="Hovv to think about information"
             pubPlace="Chicago" publisher="University of Illinois Press" year="2007"/>
@@ -22817,13 +22817,13 @@
             naslov0="How Has War Changed Since the End of the Cold War?" source="Parameters"
             year="2005" issue="1" page="14-26"/>
     </delo>
-    <delo mojID="14885">
+    <delo mojID="14885" cobiss="7394381">
         <naslov>How Immigration is Changing Citizenship: a Comparative View</naslov>
         <cit did="2645" cid="17" avtor0="Joppke Christian"
             naslov0="How Immigration is Changing Citizenship: a Comparative View"
             source="Ethnic and Racial Studies" year="1999" volume="22" issue="4" page="629-652"/>
     </delo>
-    <delo mojID="14886">
+    <delo mojID="14886" cobiss="94093">
         <naslov>How Institutions Think.</naslov>
         <cit did="2828" cid="9" avtor0="Douglas Mary" naslov0="How Institutions Think."
             pubPlace="London" publisher="Routledge &amp; Kegan Paul Ltd" year="1987"/>
@@ -22856,7 +22856,7 @@
             naslov0="How nationalisms spread: Eastern Europe adrift the tides and cycles of nationalist contention"
             source="Social Research" year="1996" volume="63" issue="1"/>
     </delo>
-    <delo mojID="14892">
+    <delo mojID="14892" cobiss="1654861">
         <naslov>How Nation-States Respond to Immigration and Ethnic Diversity?</naslov>
         <cit did="2728" cid="5" avtor0="Castles Stephen"
             naslov0="How Nation-States Respond to Immigration and Ethnic Diversity?"
@@ -22869,7 +22869,7 @@
             source="Journal of Common Market Studies" pubPlace="Oxford" year="2001" volume="39"
             issue="3"/>
     </delo>
-    <delo mojID="14894">
+    <delo mojID="14894" cobiss="21444397">
         <naslov>How Our Lives Become Stories: Making Selves</naslov>
         <cit did="2701" cid="17" avtor0="Eakin Paul John"
             naslov0="How Our Lives Become Stories: Making Selves" pubPlace="Ithaca, London"
@@ -22902,7 +22902,7 @@
             source="Learner strategies in language learning" pubPlace="New York" year="1987"
             page="103-117"/>
     </delo>
-    <delo mojID="14900">
+    <delo mojID="14900" cobiss="179025">
         <naslov>How to Create a Currency?</naslov>
         <cit did="1283" cid="6" avtor0="Mencinger Jože" naslov0="How to Create a Currency?"
             naslov1="The Experience of Slovenia" source="Weltwirtschaftliches Archiv" year="1993"
@@ -22934,7 +22934,7 @@
             source="Conference Presentation at the Economic History Association"
             pubPlace="Philadelphia" year="2001"/>
     </delo>
-    <delo mojID="14908">
+    <delo mojID="14908" cobiss="17765218">
         <naslov>How to use Orientalism: Good, Dirty and Evil Tuaregs</naslov>
         <cit did="2853" cid="28" avtor0="Brumen Borut"
             naslov0="How to use Orientalism: Good, Dirty and Evil Tuaregs"
@@ -22962,7 +22962,7 @@
             naslov0="Hočemo konkretno rešitev naših vprašanj" source="Naš tednik" pubPlace="Celovec"
             year="0" volume="33" issue="7" page="1"/>
     </delo>
-    <delo mojID="14913">
+    <delo mojID="14913" cobiss="21789997">
         <naslov>Hočevarjeva smrt je za vso Dolenjsko imenitna dogodba ...</naslov>
         <cit did="2599" cid="8" avtor0="Granda Stane"
             naslov0="Hočevarjeva smrt je za vso Dolenjsko imenitna dogodba ..."
@@ -22981,18 +22981,18 @@
             naslov0="Hrabata z Thurnu a Valsassina. Dejinj jich českomoravske vetve"
             pubPlace="Praze" year="1923"/>
     </delo>
-    <delo mojID="14916">
+    <delo mojID="14916" cobiss="1109647966">
         <naslov>Hram slave pri Sv. Krištofu</naslov>
         <cit did="3538" cid="24" avtor0="Stele France" naslov0="Hram slave pri Sv. Krištofu"
             source="Dom in svet" year="1933" volume="46" page="64-71"/>
     </delo>
-    <delo mojID="14917">
+    <delo mojID="14917" cobiss="1763849">
         <naslov>Hrana kao glavni vid UNRRA-ine pomoči Jugoslaviji 1943-1948</naslov>
         <cit did="2017" cid="42" avtor0="Kržišnik Bukič Vera"
             naslov0="Hrana kao glavni vid UNRRA-ine pomoči Jugoslaviji 1943-1948"
             source="Časopis za suvremenu povijest" pubPlace="Zagreb" year="1988" page="59-76"/>
     </delo>
-    <delo mojID="14919">
+    <delo mojID="14919" cobiss="3022434">
         <naslov>Hrast se omaje in hrib, zvestoba Slovencu ne gane: Cesar Franc Jožef v
                         slovenski literaturi</naslov>
         <cit did="1626" cid="75" avtor0="Grdina Igor"
@@ -23005,13 +23005,13 @@
             source="Zavod za varstvo naravne in kulturne dediščine Maribor" pubPlace="Maribor"
             year="2002" page="126-127"/>
     </delo>
-    <delo mojID="14922">
+    <delo mojID="14922" cobiss="118748928">
         <naslov>Hrastovlje</naslov>
         <cit did="712" cid="29" avtor0="Zadnikar M." naslov0="Hrastovlje"
             source="Romanske arhitektura in gotske freske" pubPlace="Ljubljana" publisher="Družina"
             year="2002"/>
     </delo>
-    <delo mojID="14923">
+    <delo mojID="14923" cobiss="7632640">
         <naslov>Hrastovlje: romanska arhitektura in gotske freske</naslov>
         <cit did="1996" cid="29" avtor0="Zadnikar M."
             naslov0="Hrastovlje: romanska arhitektura in gotske freske" pubPlace="Ljubljana"
@@ -23033,12 +23033,12 @@
             source="Hrvatski biografski leksikon : 5. knjiga" pubPlace="Zagreb" year="2002"
             page="705-706"/>
     </delo>
-    <delo mojID="14929">
+    <delo mojID="14929" cobiss="110735104">
         <naslov>Hrenove korne knjige</naslov>
         <cit did="1912" cid="148" avtor0="Škulj Edo" naslov0="Hrenove korne knjige"
             pubPlace="Ljubljana" year="2001"/>
     </delo>
-    <delo mojID="14930">
+    <delo mojID="14930" cobiss="675870">
         <naslov>Hribar, Stanko, Potočnik, Miha: Triglav, gora in simbol</naslov>
         <cit did="3156" cid="3" avtor0="Lovšin Evgen"
             naslov0="Hribar, Stanko, Potočnik, Miha: Triglav, gora in simbol" pubPlace="Ljubljana"
@@ -23079,7 +23079,7 @@
             source="Enciklopedija Slovenije : 4" pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1990" page="55"/>
     </delo>
-    <delo mojID="14937">
+    <delo mojID="14937" cobiss="19779640">
         <naslov>Hrvati i Osmansko Carstvo</naslov>
         <cit did="1481" cid="7" avtor0="Mažuran I." naslov0="Hrvati i Osmansko Carstvo"
             pubPlace="Zagreb" year="1998"/>
@@ -23116,7 +23116,7 @@
             source="Hrvati u Sloveniji" pubPlace="Zagreb"
             publisher="Institut za migracije i narodnosti" year="1997" page="215-225"/>
     </delo>
-    <delo mojID="14945">
+    <delo mojID="14945" cobiss="6184013">
         <naslov>Hrvati u Sloveniji - etnička (nacionalna) manjina?</naslov>
         <cit did="3072" cid="293" avtor0="Vukas Budislav"
             naslov0="Hrvati u Sloveniji - etnička (nacionalna) manjina?" source="Hrvati u Sloveniji"
@@ -23173,7 +23173,7 @@
             pubPlace="Zagreb" publisher="Institut za migracije i narodnosti" year="2002"
             page="157–220"/>
     </delo>
-    <delo mojID="14956">
+    <delo mojID="14956" cobiss="2376747">
         <naslov>Hrvatska država u međunarodnoj zajednici, razvitak njezine međunarodnopravne
                         osobnosti tijekom povijesti</naslov>
         <cit did="303" cid="35" avtor0="Degan Vladimir-Đuro"
@@ -23221,12 +23221,12 @@
         <cit did="29" cid="150" avtor0="Žavčanin K." naslov0="Hrvatska in slovenska književnost"
             source="Novice" year="1973"/>
     </delo>
-    <delo mojID="14967">
+    <delo mojID="14967" cobiss="4185865">
         <naslov>Hrvatska na mučilištu</naslov>
         <cit did="1351" cid="4" avtor0="Horvat Rudolf" naslov0="Hrvatska na mučilištu"
             pubPlace="Zagreb" publisher="Školska knjiga" year="1992" page="261"/>
     </delo>
-    <delo mojID="14968">
+    <delo mojID="14968" cobiss="45366785">
         <naslov>Hrvatska na tajnim zemljovidima 18. i 19. stoljeća, Zv. 1: Gradiška
                         pukovnija</naslov>
         <cit did="2056" cid="9" avtor0="Buczynski Alexander, Kruhek Milan, Valentič Mirko"
@@ -23239,14 +23239,14 @@
             naslov0="Hrvatska plemena od XII. do XVI. stoljeća" source="Rad JAZU" pubPlace="Zagreb"
             year="0" page="1-34"/>
     </delo>
-    <delo mojID="14971">
+    <delo mojID="14971" cobiss="1347188">
         <naslov>Hrvatska politika 1990–2000: izbori, stranke i parlament u
                         Hrvatskoj</naslov>
         <cit did="2820" cid="13" avtor0="Kasapović Mirjana"
             naslov0="Hrvatska politika 1990–2000: izbori, stranke i parlament u Hrvatskoj"
             pubPlace="Zagreb" year="2001"/>
     </delo>
-    <delo mojID="14973">
+    <delo mojID="14973" cobiss="1454708">
         <naslov>Hrvatska povijest</naslov>
         <cit did="675" cid="3" avtor0="Goldstein Ivo" naslov0="Hrvatska povijest" pubPlace="Zagreb"
             publisher="Novi liber" year="2003" page="182-189, 213-214"/>
@@ -23257,13 +23257,13 @@
             naslov0="Hrvatska povijest III.: Od godine 1790 do godine 1847" pubPlace="Zagreb"
             year="1913"/>
     </delo>
-    <delo mojID="14975">
+    <delo mojID="14975" cobiss="64765952">
         <naslov>Hrvatska pravoslavna crkva u prošlosti i budućnosti</naslov>
         <cit did="1894" cid="10" avtor0="Požar Petar"
             naslov0="Hrvatska pravoslavna crkva u prošlosti i budućnosti" pubPlace="Zagreb"
             year="1996" page="68"/>
     </delo>
-    <delo mojID="14976">
+    <delo mojID="14976" cobiss="45731329">
         <naslov>Hrvatska riječ svijetu, Razgovori sa stranim predstavnicima</naslov>
         <cit did="3226" cid="13" avtor0="Tuđman Franjo"
             naslov0="Hrvatska riječ svijetu, Razgovori sa stranim predstavnicima" pubPlace="Zagreb"
@@ -23276,7 +23276,7 @@
             naslov0="Hrvatska u djelu &#34;Die österreichisch-ungarische Monarchie in Wort und Bild&#34;"
             source="Forum" pubPlace="Zagreb" year="2003" volume="42" page="758-788"/>
     </delo>
-    <delo mojID="14983">
+    <delo mojID="14983" cobiss="2147700">
         <naslov>Hrvatska u monarhističkoj Jugoslaviji</naslov>
         <cit did="1911" cid="86" avtor0="Perić Ivo" naslov0="Hrvatska u monarhističkoj Jugoslaviji"
             pubPlace="Zagreb" publisher="Dom i svijet" year="2006" page="176"/>
@@ -23311,7 +23311,7 @@
         <cit did="29" cid="210" avtor0="Klepac Dušan, Čorkalo Katica"
             naslov0="Hrvatski ban Josip Šokčević" pubPlace="Zagreb-Vinkovci" year="2000"/>
     </delo>
-    <delo mojID="14994">
+    <delo mojID="14994" cobiss="678942">
         <naslov>Hrvatski bog Mars</naslov>
         <cit did="3161" cid="45" avtor0="Krleža Miroslav" naslov0="Hrvatski bog Mars"
             pubPlace="Ljubljana" publisher="Slovenski knjižni zavod" year="1949"/>
@@ -23326,7 +23326,7 @@
         <cit did="29" cid="124" avtor0="Iveljič Iskra, Josip Kolanović, Stančić Nikša"
             naslov0="Hrvatski državni sabor 1848" pubPlace="Zagreb" year="2001" page="413"/>
     </delo>
-    <delo mojID="14998">
+    <delo mojID="14998" cobiss="33026305">
         <naslov>Hrvatski etimološki rječnik</naslov>
         <cit did="730" cid="7" avtor0="Gluhak A." naslov0="Hrvatski etimološki rječnik"
             pubPlace="Zagreb" publisher="August Cesarec" year="1993"/>
@@ -23349,7 +23349,7 @@
         <cit did="2025" cid="4" avtor0="Šišić Ferdo"
             naslov0="Hrvatski ilirizam: njegova politička strana" pubPlace="Zagreb" year="1922"/>
     </delo>
-    <delo mojID="15006">
+    <delo mojID="15006" cobiss="6058061">
         <naslov>Hrvatski jezik u Sloveniji</naslov>
         <cit did="3072" cid="236" avtor0="Požgaj Hadži Vesna" avtor1="Medica Karmen"
             naslov0="Hrvatski jezik u Sloveniji" source="Hrvati u Sloveniji" pubPlace="Zagreb"
@@ -23392,7 +23392,7 @@
             naslov0="Hrvatski seljački pokret braće Radića" naslov1="Knjiga I: Seljački pokret"
             pubPlace="Beograd" publisher="Antun Radić" year="1940" page="83-150"/>
     </delo>
-    <delo mojID="15023">
+    <delo mojID="15023" cobiss="1383796">
         <naslov>Hrvatski smrtni put</naslov>
         <cit did="1897" cid="13" avtor0="Šimundić Mate" naslov0="Hrvatski smrtni put"
             pubPlace="Split" year="2001" page="387"/>
@@ -23418,27 +23418,27 @@
             source="Radovi - Sveučilište u Splitu. Filozofski fakultet Zadar. Razdio povijesnih znanosti"
             pubPlace="Zadar" year="2000" volume="39" page="165-190"/>
     </delo>
-    <delo mojID="15030">
+    <delo mojID="15030" cobiss="56132097">
         <naslov>Hrvatsko novinarstvo u 20. stoljeću</naslov>
         <cit did="2180" cid="4" avtor0="Novak Božidar" naslov0="Hrvatsko novinarstvo u 20. stoljeću"
             pubPlace="Zagreb" year="2005"/>
     </delo>
-    <delo mojID="15031">
+    <delo mojID="15031" cobiss="2742387">
         <naslov>Hrvatsko pitanje</naslov>
         <cit did="2214" cid="40" avtor0="Horvat Rudolf" naslov0="Hrvatsko pitanje" pubPlace="Zagreb"
             year="1923"/>
     </delo>
-    <delo mojID="15032">
+    <delo mojID="15032" cobiss="21065986">
         <naslov>Hrvatsko pitanje 1918.-1990</naslov>
         <cit did="3223" cid="5" avtor0="Đodan Šime" naslov0="Hrvatsko pitanje 1918.-1990"
             pubPlace="Zagreb" publisher="Alfa" year="1991"/>
     </delo>
-    <delo mojID="15033">
+    <delo mojID="15033" cobiss="5539699">
         <naslov>Hrvatsko pitanje: Boljševizam i Jugoslavija</naslov>
         <cit did="2214" cid="41" avtor0="Radošević Mijo"
             naslov0="Hrvatsko pitanje: Boljševizam i  Jugoslavija" pubPlace="Zagreb" year="1925"/>
     </delo>
-    <delo mojID="15034">
+    <delo mojID="15034" cobiss="6418183">
         <naslov>Hrvatsko pitanje i nacionalno jedinstvo</naslov>
         <cit did="2214" cid="43" avtor0="Kosić Mirko M."
             naslov0="Hrvatsko pitanje i nacionalno jedinstvo" pubPlace="Novi Sad" year="1937"
@@ -23463,7 +23463,7 @@
             naslov0="Hrvatsko - slavonska Vojna krajina i Hrvati pod vlašču Osmanskega carstva u ranome novom vijeku"
             pubPlace="Zagreb" publisher="Barbat - leykam international" year="2007"/>
     </delo>
-    <delo mojID="15040">
+    <delo mojID="15040" cobiss="8239185">
         <naslov>Hrvatsko srednjovjekovno obiteljsko i nasljedno pravo</naslov>
         <cit did="2101" cid="23" avtor0="Margetič L."
             naslov0="Hrvatsko srednjovjekovno obiteljsko i nasljedno pravo" pubPlace="Zagreb"
@@ -23541,7 +23541,7 @@
             source="Mednarodni sestanek &#34;Perspektive slovensko-hrvaške obmejnosti&#34; = Glasnik ZRS Koper"
             pubPlace="Koper" publisher="ZRS" year="2009"/>
     </delo>
-    <delo mojID="15054">
+    <delo mojID="15054" cobiss="347391">
         <naslov>Hrvatsko-slovensko razgraničenje: međunarodno pravo je crta ispod koje se ne
                         ide</naslov>
         <cit did="3072" cid="46" avtor0="Vidas Davor"
@@ -23559,12 +23559,12 @@
             source="Posavje v letih 1989-1991" pubPlace="Brežice" publisher="Posavski muzej"
             year="2001"/>
     </delo>
-    <delo mojID="15057">
+    <delo mojID="15057" cobiss="242484224">
         <naslov>Hrvaška zgodovina</naslov>
         <cit did="3072" cid="16" avtor0="Goldstein Ivo" naslov0="Hrvaška zgodovina"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="2008" page="361"/>
     </delo>
-    <delo mojID="15060">
+    <delo mojID="15060" cobiss="6947149">
         <naslov>Hrvaški »zgodovinski dolg« Slovencem, O dejavnosti primorskih Slovencev v
                         korist ohranitve hrvaške nacionalnosti v Istri</naslov>
         <cit did="1511" cid="142" avtor0="Kacin Wohinz Milica"
@@ -23602,7 +23602,7 @@
         <cit did="1912" cid="11" avtor0="Buchner Alexander"
             naslov0="Hudebni nastroje od praveku k dnešku" pubPlace="Praga" year="1956"/>
     </delo>
-    <delo mojID="15070">
+    <delo mojID="15070" cobiss="55569920">
         <naslov>Hudičeva shodnica</naslov>
         <cit did="1366" cid="4" avtor0="Mihelčič Franc" naslov0="Hudičeva shodnica"
             pubPlace="Ljubljana" publisher="Salezijanski inšpektorat" year="1944"/>
@@ -23642,7 +23642,7 @@
             pubPlace="Paris" publisher="Editions Recherche sur le Civilisations" year="1985"
             page="101-114"/>
     </delo>
-    <delo mojID="15078">
+    <delo mojID="15078" cobiss="16437760">
         <naslov>Hugo Wolf</naslov>
         <cit did="243" cid="6" avtor0="Dorschel A." naslov0="Hugo Wolf" pubPlace="Celovec"
             year="1990"/>
@@ -23665,7 +23665,7 @@
         <cit did="370" cid="58" avtor0="Krek Gojmir" naslov0="Hugo Wolf in Slovenci"
             source="Novi akordi" year="1910" volume="9" issue="3"/>
     </delo>
-    <delo mojID="15083">
+    <delo mojID="15083" cobiss="18477286">
         <naslov>Hugo Zagoršek in Aljaž Hribernik. The shadow economy and its impact on
                         national compatitiveness: the case of Slovenia</naslov>
         <cit did="3437" cid="11" avtor0="Jaklič Marko"
@@ -23673,7 +23673,7 @@
             source="South East European journal of economics and business" year="2009" volume="4"
             issue="1" page="37-50"/>
     </delo>
-    <delo mojID="15085">
+    <delo mojID="15085" cobiss="11562317">
         <naslov>Human and Minority Rights</naslov>
         <cit did="2669" cid="33" avtor0="Žagar Mitja" naslov0="Human and Minority Rights"
             naslov1="Reconstruction and Reconciliation in the Process of State- and Nation-Building in the Western Balkans"
@@ -23697,7 +23697,7 @@
             naslov0="Human Chromosomes" pubPlace="New York" publisher="Springer Verlag" year="1993"
         />
     </delo>
-    <delo mojID="15090">
+    <delo mojID="15090" cobiss="578146">
         <naslov>Human geography: culture, society, and space</naslov>
         <cit did="2891" cid="6" avtor0="Blij Harm J."
             naslov0="Human geography: culture, society, and space" pubPlace="New York"
@@ -23736,18 +23736,18 @@
             naslov0="Human rights: an interdiseiplinary approach" pubPlace="Cambridge - Oxford"
             publisher="Polity Press" year="2002"/>
     </delo>
-    <delo mojID="15097">
+    <delo mojID="15097" cobiss="26123101">
         <naslov>Human Rights and development</naslov>
         <cit did="2659" cid="57" avtor0="Uvin Peter" naslov0="Human Rights and development"
             pubPlace="Bloomfield" publisher="Kumarian Press" year="2004"/>
     </delo>
-    <delo mojID="15098">
+    <delo mojID="15098" cobiss="6563917">
         <naslov>Human rights and the United Nations: A great adventure</naslov>
         <cit did="3071" cid="33" avtor0="Humphrey John P."
             naslov0="Human rights and the United Nations: A great adventure" pubPlace="New York"
             publisher="Transnational Publishers" year="1984"/>
     </delo>
-    <delo mojID="15099">
+    <delo mojID="15099" cobiss="4601933">
         <naslov>Human rights as legal rights</naslov>
         <cit did="3071" cid="8" avtor0="Drost Pieter" naslov0="Human rights as legal rights"
             pubPlace="Leyden" publisher="A.W. Sijthoff" year="1965"/>
@@ -23758,14 +23758,14 @@
             naslov0="Human rights, culture and context: anthropological pespectives" source="London"
             pubPlace="Pluto Press" year="1997"/>
     </delo>
-    <delo mojID="15102">
+    <delo mojID="15102" cobiss="20409949">
         <naslov>Human Rights in Europe: A Study of the European Convention of Human Rights,
                         4th ed.</naslov>
         <cit did="2748" cid="11" avtor0="Merrills John G." avtor1="Robertson Arthur H."
             naslov0="Human Rights in Europe: A Study of the European Convention of Human Rights, 4th ed."
             pubPlace="Manchester" publisher="Manchester University Press" year="2001" page="1-22"/>
     </delo>
-    <delo mojID="15103">
+    <delo mojID="15103" cobiss="9306669">
         <naslov>Human rights in the emerging global order: A new sovereignty?</naslov>
         <cit did="2703" cid="37" avtor0="Mills Kurt"
             naslov0="Human rights in the emerging global order: A new sovereignty?"
@@ -23792,7 +23792,7 @@
             source="American Anthropologist" pubPlace="Washington" year="1978" volume="80"
             page="21-41"/>
     </delo>
-    <delo mojID="15107">
+    <delo mojID="15107" cobiss="4853602">
         <naslov>Human territoriality: its theory and history</naslov>
         <cit did="1994" cid="54" avtor0="Sack R. D."
             naslov0="Human territoriality: its theory and history" pubPlace="Cambridge"
@@ -23804,7 +23804,7 @@
             naslov0="Human-environmental relations with tourism" source="Annals of Tourism Research"
             pubPlace="Amsterdam, London, New York" year="2002" volume="29" issue="2"/>
     </delo>
-    <delo mojID="15109">
+    <delo mojID="15109" cobiss="29369645">
         <naslov>Humanismus bei den Slovenen. Slovenische Humanisten bis zur Mitte des 16.
                         Jahrhunderts</naslov>
         <cit did="2424" cid="16" avtor0="Simoniti Primož"
@@ -23817,7 +23817,7 @@
             naslov0="Humanistic Ideals (Ideals of Humanity)" pubPlace="(London)"
             publisher="Bucknell University (George Allen and Unwin)" year="1971"/>
     </delo>
-    <delo mojID="15112">
+    <delo mojID="15112" cobiss="1907767">
         <naslov>Humanistične vede in filozofija</naslov>
         <cit did="3262" cid="7" avtor0="Goldmann Lucien" naslov0="Humanistične vede in filozofija"
             pubPlace="Ljubljana" publisher="CZ" year="1958"/>
@@ -23840,7 +23840,7 @@
         <cit did="272" cid="4" avtor0="Allen Thomas" naslov0="Humeri Opera , I -V" pubPlace="Oxford"
             year="1902"/>
     </delo>
-    <delo mojID="15117">
+    <delo mojID="15117" cobiss="661715">
         <naslov>Humke starijeg gvozdenog doba sa nalazišta Nova tabla kod Murske Sobote
                         (Slovenija)</naslov>
         <cit did="1947" cid="5" avtor0="Guštin M."
@@ -23876,13 +23876,13 @@
         <cit did="252" cid="44" avtor0="Teleki J." naslov0="Hundyadiak kora Magyarorságom X"
             pubPlace="Budimpešta" year="0" page="347-356"/>
     </delo>
-    <delo mojID="15123">
+    <delo mojID="15123" cobiss="13894400">
         <naslov>Hungarian Anti-Fascism and Resistance 1941-1945</naslov>
         <cit did="1457" cid="50" avtor0="Pintér István"
             naslov0="Hungarian Anti-Fascism and Resistance 1941-1945" pubPlace="Budapest"
             year="1986"/>
     </delo>
-    <delo mojID="15124">
+    <delo mojID="15124" cobiss="13898240">
         <naslov>Hungarian Foreign Policy 1919-1945</naslov>
         <cit did="1654" cid="22" avtor0="Juhász Gyula" naslov0="Hungarian Foreign Policy 1919-1945"
             pubPlace="Budapest" year="1979" page="243-245"/>
@@ -23947,7 +23947,7 @@
             source="American anthropologist" pubPlace="Washington" year="1975" volume="77"
             page="53-68"/>
     </delo>
-    <delo mojID="15136">
+    <delo mojID="15136" cobiss="26827106">
         <naslov>Hunter-gatherers and the politics of environment and deve-lopment in
                         India</naslov>
         <cit did="1633" cid="17" avtor0="Reddy Prakash G."
@@ -23991,7 +23991,7 @@
             publisher="Univerzitetna konferenca ZSMS, Knjižnica revolucionarne teorije" year="1989"
         />
     </delo>
-    <delo mojID="15144">
+    <delo mojID="15144" cobiss="1031937">
         <naslov>Hvalnica norosti: Encomium morias</naslov>
         <cit did="2536" cid="39" avtor0="Roterodamus Erasmus"
             naslov0="Hvalnica norosti: Encomium morias" pubPlace="Ljubljana" publisher="DZS"
@@ -24024,7 +24024,7 @@
             naslov0="Hydronymie et toponymie dans les regions orientales de l'illyricum, de la conquete romaine aux invasions slaves"
             source="Dialogues d'Histoire Ancienne" year="2002" volume="28" issue="1" page="41-60"/>
     </delo>
-    <delo mojID="15149">
+    <delo mojID="15149" cobiss="12600877">
         <naslov>Hygiene in the Early Modern Medical Tradition</naslov>
         <cit did="1977" cid="16" avtor0="Mikkeli H."
             naslov0="Hygiene in the Early Modern Medical Tradition" pubPlace="Helsinki"
@@ -24041,7 +24041,7 @@
         <cit did="272" cid="315" avtor0="Carr E. H." naslov0="Hystory without Bias"
             source="The Times Literary Supplement" year="0"/>
     </delo>
-    <delo mojID="15153">
+    <delo mojID="15153" cobiss="19622701">
         <naslov>Häuser in der frühmittelalterlichen slawischen Welt</naslov>
         <cit did="2534" cid="31" avtor0="Šalkovsky Peter"
             naslov0="Häuser in der frühmittelalterlichen slawischen Welt"
