@@ -31468,20 +31468,20 @@
             naslov0="International handbook of mulitgenerational legacies of trauma"
             pubPlace="New York" publisher="Plenum Press" year="1998"/>
     </delo>
-    <delo mojID="16679">
+    <delo mojID="16679" cobiss="1000785">
         <naslov>International human rights in context: Law, politics, morals: Text and
                         materials</naslov>
         <cit did="2703" cid="47" avtor0="Steiner Henry J." avtor1="Alston Philip"
             naslov0="International human rights in context: Law, politics, morals: Text and materials"
             pubPlace="Oxford" publisher="Clarendom Press" year="1996"/>
     </delo>
-    <delo mojID="16680">
+    <delo mojID="16680" cobiss="1079377">
         <naslov>International human rights: problems and law, policy and practice</naslov>
         <cit did="2703" cid="33" avtor0="Lillich Richard B." avtor1="Hannum Hurst"
             naslov0="International human rights: problems and law, policy and practice"
             pubPlace="New York, Toronto, London" publisher="Little, Brown and Company" year="1995"/>
     </delo>
-    <delo mojID="16681">
+    <delo mojID="16681" cobiss="1200209">
         <naslov>International human rights: Text and materials</naslov>
         <cit did="2703" cid="54" avtor0="Wallace Rebecca"
             naslov0="International human rights: Text and materials" pubPlace="London"
@@ -31493,7 +31493,7 @@
             naslov0="International Law: A Treatise, Vol. I: Peace" naslov1="7th edition"
             pubPlace="London, New York, Toronto" publisher="Longmans, Green &amp; Co." year="1948"/>
     </delo>
-    <delo mojID="16684">
+    <delo mojID="16684" cobiss="45329920">
         <naslov>International Law, Rights and Politics: Developments in Eastern Europe and
                         the CIS</naslov>
         <cit did="2749" cid="5" avtor0="Müllerson Rein"
@@ -31561,7 +31561,7 @@
             naslov0="International organisation: A state of the art on the art of the state"
             source="International organisation" year="1986" volume="40" issue="4" page="84"/>
     </delo>
-    <delo mojID="16695">
+    <delo mojID="16695" cobiss="16063325">
         <naslov>International organizations: Principles and issues</naslov>
         <cit did="2888" cid="49" avtor0="Bennett A. LeRoy"
             naslov0="International organizations: Principles and issues"
@@ -31573,7 +31573,7 @@
             naslov0="International politics : a framework for analisys (5th ed.)."
             pubPlace="Englewood Cliffs" year="1988"/>
     </delo>
-    <delo mojID="16698">
+    <delo mojID="16698" cobiss="10393645">
         <naslov>International Population Movements in the Modern World</naslov>
         <cit did="2847" cid="5" avtor0="Castles Stephen" avtor1="Miller Mark J."
             naslov0="International Population Movements in the Modern World" naslov1="2. izdaja"
@@ -31658,7 +31658,7 @@
             source="Communication Research" pubPlace="London" year="1992" volume="19" issue="1"
             page="52-91"/>
     </delo>
-    <delo mojID="16712">
+    <delo mojID="16712" cobiss="29169664">
         <naslov>Interpretacija nekaterih sodobnih teorij zgodovinopisja : miti, pesništvo,
                         znanost in vedenje kot pojavne oblike novejše zgodovine občega in
                         nacionalnega zgodovinopisja</naslov>
@@ -31666,7 +31666,7 @@
             naslov0="Interpretacija nekaterih sodobnih teorij zgodovinopisja : miti, pesništvo, znanost in vedenje kot pojavne oblike novejše zgodovine občega in nacionalnega zgodovinopisja"
             naslov1="disertacija" year="1991"/>
     </delo>
-    <delo mojID="16713">
+    <delo mojID="16713" cobiss="1639891">
         <naslov>Interpretacije "posameznika, družbe in naroda" znotraj ideologije
                         političnega katolicizma na Slovenskem</naslov>
         <cit did="2769" cid="37" avtor0="Pelikan Egon"
@@ -31777,7 +31777,7 @@
         <cit did="3022" cid="144" avtor0="Gradišnik Janez" naslov0="Intervju" source="NRazgl"
             year="1994" issue="21" page="4-7"/>
     </delo>
-    <delo mojID="16736">
+    <delo mojID="16736" cobiss="28483677">
         <naslov>Intervju</naslov>
         <cit did="2673" cid="42" avtor0="Ule Mirjana" naslov0="Intervju" source="Mladina"
             year="2009" issue="26" page="32-36"/>
@@ -31936,7 +31936,7 @@
             publisher="Agencija Republike Slovenije za prestrukturiranje in privatizacijo : Sklad Republike Slovenije za razvoj"
             year="1995" issue="18" page="2-3"/>
     </delo>
-    <delo mojID="16761">
+    <delo mojID="16761" cobiss="333702">
         <naslov>Intervju z dr. Pavlo Štrukelj</naslov>
         <cit did="3199" cid="20" avtor0="Horvat Muc, J." naslov0="Intervju z dr. Pavlo Štrukelj"
             source="Romano them - Romski svet" year="1999" issue="5" page="7-11"/>
@@ -31998,7 +31998,7 @@
             publisher="Agencija Republike Slovenije za prestrukturiranje in privatizacijo : Sklad Republike Slovenije za razvoj"
             year="1998" issue="55" page="2-4"/>
     </delo>
-    <delo mojID="16769">
+    <delo mojID="16769" cobiss="24061185">
         <naslov>Intervju z Jožetom Jurančičem in Martinom Mencejem. Raziskovalna naloga
                         Pedagoško gibanje in pedagoško šolstvo v Mariboru od ustanovitve učiteljišča
                         1862/63 do ustanovitve Pedagoške akademije</naslov>
@@ -32154,7 +32154,7 @@
             naslov0="Introduccion: Que ha pasado en El Ejido?" source="El Ejido: La ciudad-cortijo"
             pubPlace="Barcelona" publisher="Francisco Checa" year="2001" page="11-29"/>
     </delo>
-    <delo mojID="16796">
+    <delo mojID="16796" cobiss="3177818">
         <naslov>Introducing Feminist Theology</naslov>
         <cit did="106" cid="94" avtor0="Clifford A. M." naslov0="Introducing Feminist Theology"
             pubPlace="New York" publisher="Orbis Books" year="2001" page="32-34"/>
@@ -32166,7 +32166,7 @@
             source="Postcommunist Elites and Democracy in Eastern Europe" pubPlace="London"
             publisher="Macmillan Press Ltd." year="1998" page="1-33"/>
     </delo>
-    <delo mojID="16798">
+    <delo mojID="16798" cobiss="50809856">
         <naslov>Introductio ad historiam naturalem ...</naslov>
         <cit did="3264" cid="37" avtor0="Scopoli Janez Anton"
             naslov0="Introductio ad historiam naturalem ..." pubPlace="Pragae" year="1777"/>
@@ -32224,7 +32224,7 @@
             naslov0="&#34;Introduction&#34;" source="Uncertain Transition" pubPlace="Lanham"
             publisher="Rowman" year="1999" page="1-18"/>
     </delo>
-    <delo mojID="16808">
+    <delo mojID="16808" cobiss="16430310">
         <naslov>Introduction</naslov>
         <cit did="2308" cid="13" avtor0="Casson Mark" naslov0="Introduction"
             source="The Oxford Handbook of Entrepreneurship" pubPlace="Oxford" year="2006" page="1"
@@ -32307,7 +32307,7 @@
             source="Citizenship Today: Global Perspectives and Practices" pubPlace="Washington D.C."
             publisher="Carnegie Endowment for International Peace" year="2001" page="1-14"/>
     </delo>
-    <delo mojID="16823">
+    <delo mojID="16823" cobiss="11462221">
         <naslov>Introduction</naslov>
         <cit did="2662" cid="26" avtor0="Klemenčič Matjaž" avtor1="Harris Mary N."
             naslov0="Introduction"
@@ -32363,7 +32363,7 @@
             source="Epidemics and Ideas" pubPlace="Cambridge - New York"
             publisher="Cambridge University Press" year="1995"/>
     </delo>
-    <delo mojID="16833">
+    <delo mojID="16833" cobiss="24459613">
         <naslov>Introduction</naslov>
         <cit did="365" cid="55" avtor0="Svetlik Ivan" naslov0="Introduction"
             naslov1="Cracks in the Success Story" source="HRM'S Contribution to Hard Work"
@@ -32402,14 +32402,14 @@
             naslov0="Introduction a Louvre de Rene Schikele" pubPlace="Salde" publisher="Morstadt"
             year="1982"/>
     </delo>
-    <delo mojID="16841">
+    <delo mojID="16841" cobiss="870029">
         <naslov>"Introduction: An Anthropology of Postsocialism"</naslov>
         <cit did="1513" cid="10" avtor0="Bierdahl, Daphne"
             naslov0="&#34;Introduction: An Anthropology of Postsocialism&#34;"
             source="Altering States: Ethnographies of transition in Eastern Europe and the former Soviet Union"
             pubPlace="Michigan" publisher="University of Michigan Press" year="2000" page="1-13"/>
     </delo>
-    <delo mojID="16842">
+    <delo mojID="16842" cobiss="20036359">
         <naslov>Introduction aux etudes historiques</naslov>
         <cit did="2018" cid="197" avtor0="Langlois C.-V., Seignobos C."
             naslov0="Introduction aux etudes historiques" pubPlace="Pariz" publisher="Kime" year="0"
@@ -32483,7 +32483,7 @@
             source="The archeology and anthropology of landscape: shaping your landscape"
             pubPlace="London - New York" publisher="Routledge" year="1999" page="1-20"/>
     </delo>
-    <delo mojID="16853">
+    <delo mojID="16853" cobiss="7902285">
         <naslov>Introduction: Gender, State and Society in Soviet and post-Soviet
                         Russia</naslov>
         <cit did="136" cid="4" avtor0="Aswin Sarah"
@@ -32674,7 +32674,7 @@
             source="The Politics of Multiculturalism in the New Europe: Racism, Identity and Community"
             pubPlace="London" publisher="Zed Books" year="1997" page="1-25"/>
     </delo>
-    <delo mojID="16884">
+    <delo mojID="16884" cobiss="38941794">
         <naslov>Introduction: the power of memory, the memory of power and the power over
                         memory</naslov>
         <cit did="1434" cid="14" avtor0="Müller Jan-Werner"
@@ -32714,7 +32714,7 @@
             source="Companion Encyclopedia of Anthropology" pubPlace="London" publisher="Routledge"
             year="1994" page="329-349"/>
     </delo>
-    <delo mojID="16891">
+    <delo mojID="16891" cobiss="34417921">
         <naslov>Introduction to Korean History and Culture</naslov>
         <cit did="142" cid="134" avtor0="Nahm Andrew C."
             naslov0="Introduction to Korean History and Culture" pubPlace="New Yersey"
@@ -32727,7 +32727,7 @@
             naslov0="Introduction to Peace through Tourism, IIPT Occasional Paper No.I. Http://wvw.iipt.org/ educators/OccPapOl .pdf (06.08.2011)."
             year="2006"/>
     </delo>
-    <delo mojID="16893">
+    <delo mojID="16893" cobiss="137061">
         <naslov>Introduction to qualitative research methods: A guidebook and
                         resource</naslov>
         <cit did="3042" cid="30" avtor0="Tylor S. J., Bogdan R."
@@ -32829,7 +32829,7 @@
             naslov0="Introduzione alla storia del diritto europea" pubPlace="Bologna"
             publisher="Il Mulino" year="2003"/>
     </delo>
-    <delo mojID="16918">
+    <delo mojID="16918" cobiss="512195408">
         <naslov>Introduzione all'edizione 1972</naslov>
         <cit did="718" cid="5" avtor0="Cervani G." naslov0="Introduzione all'edizione 1972"
             source="Storia del Consiglio dei patrizi di Trieste, dall'anno 1382 all'anno 1809 con documenti"
@@ -32874,20 +32874,20 @@
             source="Les actes notaries. Source de l'histoire sociale," pubPlace="Strassbourg"
             year="1979"/>
     </delo>
-    <delo mojID="16930">
+    <delo mojID="16930" cobiss="57749761">
         <naslov>Inventar arhivskega gradiva gospostva Dolnja Lendava/Alsólendva v arhivu
                         knezov Esterházy grad Forchtenstein</naslov>
         <cit did="2789" cid="4" avtor0="Hozjan Andrej"
             naslov0="Inventar arhivskega gradiva gospostva Dolnja Lendava/Alsólendva v arhivu knezov Esterházy grad Forchtenstein"
             pubPlace="Maribor" publisher="Pokrajinski arhiv" year="2006"/>
     </delo>
-    <delo mojID="16931">
+    <delo mojID="16931" cobiss="19928621">
         <naslov>Inventar dobara Mihovila suknara pokojnog Petra iz godine 1385.</naslov>
         <cit did="2091" cid="12" avtor0="Stipišić J."
             naslov0="Inventar dobara Mihovila suknara pokojnog Petra iz godine 1385."
             pubPlace="Zadar" publisher="Stalna izložba crkvene umjetnosti u Zadru" year="2000"/>
     </delo>
-    <delo mojID="16932">
+    <delo mojID="16932" cobiss="61440256">
         <naslov>Inventar notarskih spisov v Pokrajinskem arhivu Koper (1558-1850)</naslov>
         <cit did="255" cid="19" avtor0="Darovec Darko"
             naslov0="Inventar notarskih spisov v Pokrajinskem arhivu Koper (1558-1850)"
@@ -32914,7 +32914,7 @@
             naslov0="Inventario dell'antico archivio municipale di Capodistria" pubPlace="Koper"
             year="1910"/>
     </delo>
-    <delo mojID="16938">
+    <delo mojID="16938" cobiss="1660213">
         <naslov>Inventarji Zgodovinskega arhiva Celje o industrijskih podjetjih do leta
                         1945</naslov>
         <cit did="304" cid="12" avtor0="Mikola Milko"
@@ -32927,7 +32927,7 @@
             naslov0="Inventing Europe: Idea, ldentity, Reality" pubPlace="New York"
             publisher="St. Martin's Press" year="1995"/>
     </delo>
-    <delo mojID="16942">
+    <delo mojID="16942" cobiss="212975">
         <naslov>Inventing Futurism: The Art and Politics of Artificial Optimism</naslov>
         <cit did="2328" cid="21" avtor0="Poggi C."
             naslov0="Inventing Futurism: The Art and Politics of Artificial Optimism"
@@ -33041,7 +33041,7 @@
             naslov0="Investimenti e sviluppo economico a Genova alla vigilia della prima guerra mondiale, vol. 1 (1883-1914)"
             pubPlace="Milano" publisher="Giuffrè" year="1973"/>
     </delo>
-    <delo mojID="16961">
+    <delo mojID="16961" cobiss="1566001">
         <naslov>Investiture feudali e conflitti locali nell'Istria del '700: il caso dei
                         conti Becich e della città di Parenzo</naslov>
         <cit did="1483" cid="20" avtor0="Zamperetti S."
@@ -33059,7 +33059,7 @@
             naslov0="&#34;Investment Cycles in Planned Economies&#34;" source="Acta Oeconomica"
             year="1978" volume="21" page="243-260"/>
     </delo>
-    <delo mojID="16964">
+    <delo mojID="16964" cobiss="4220721">
         <naslov>Invito alla lettura di Tomizza</naslov>
         <cit did="418" cid="21" avtor0="Neirotti Marco" naslov0="Invito alla lettura di Tomizza"
             pubPlace="Milano" publisher="Mursia" year="1997"/>
@@ -33072,7 +33072,7 @@
             source="Journal of Civil Society" pubPlace="Los Angeles" year="2005" volume="1"
             issue="1" page="45-59"/>
     </delo>
-    <delo mojID="16968">
+    <delo mojID="16968" cobiss="68121088">
         <naslov>Inštitut za arheologijo polstoletnik</naslov>
         <cit did="1915" cid="34" avtor0="Pleterski A."
             naslov0="Inštitut za arheologijo polstoletnik" pubPlace="Ljubljana" publisher="ZRC SAZU"
@@ -33084,20 +33084,20 @@
             naslov0="Inštitut za nenehne razprtije" source="Delo" pubPlace="Ljubljana" year="2010"
             volume="52" issue="79" page="5"/>
     </delo>
-    <delo mojID="16970">
+    <delo mojID="16970" cobiss="10811912">
         <naslov>Inštitut za zgodovino delavskega gibanja : ob dvajsetletnici</naslov>
         <cit did="2303" cid="3" avtor0="Ferenc Tone"
             naslov0="Inštitut za zgodovino delavskega gibanja : ob dvajsetletnici"
             pubPlace="Ljubljana" publisher="Inštitut za zgodovino delavskega gibanja" year="1979"
             page="22"/>
     </delo>
-    <delo mojID="16971">
+    <delo mojID="16971" cobiss="10811912">
         <naslov>Inštitut za zgodovino delavskega gibanja v Ljubljani</naslov>
         <cit did="2299" cid="1" avtor0="Ferenc Tone"
             naslov0="Inštitut za zgodovino delavskega gibanja v Ljubljani" pubPlace="Ljubljana"
             year="1979"/>
     </delo>
-    <delo mojID="16972">
+    <delo mojID="16972" cobiss="7249157">
         <naslov>Inženjering o bujičnim tokovima i eroziji</naslov>
         <cit did="2056" cid="15" avtor0="Gavrilović Slobodan"
             naslov0="Inženjering o bujičnim tokovima i eroziji" pubPlace="Beograd"
@@ -33134,7 +33134,7 @@
             source="Godišnjak, Centarza balkanoloska ispitivanja" year="1972" volume="9" issue="7"
             page="185-201"/>
     </delo>
-    <delo mojID="16979">
+    <delo mojID="16979" cobiss="56588032">
         <naslov>Ipavci</naslov>
         <cit did="370" cid="15" avtor0="Barle Janko" naslov0="Ipavci" pubPlace="Ljubljana"
             year="1909" page="14-18"/>
@@ -33146,7 +33146,7 @@
             publisher="Sklad za postavitev spomenikov skladateljem Ipavcem" year="1972" page="23-32"
         />
     </delo>
-    <delo mojID="16982">
+    <delo mojID="16982" cobiss="56588032">
         <naslov>Ipavci. Prilog k zgodovini slovenske pesmi</naslov>
         <cit did="3250" cid="5" avtor0="Barle Janko"
             naslov0="Ipavci. Prilog k zgodovini slovenske pesmi" pubPlace="Ljubljana" year="1909"/>
@@ -33169,7 +33169,7 @@
             pubPlace="Melbourne, Oakland, London, Paris" publisher="Lonely Planet Publications"
             year="2003"/>
     </delo>
-    <delo mojID="16987">
+    <delo mojID="16987" cobiss="13014529">
         <naslov>Iran proti Iranu - islam - revolucija - Homeini</naslov>
         <cit did="142" cid="114" avtor0="Lipušček Uroš"
             naslov0="Iran proti Iranu - islam - revolucija - Homeini" pubPlace="Ljubljana"
@@ -33194,7 +33194,7 @@
             source="Europljani, Kultura i identitet. Naklada Jesenski i Turk, Zagreb, str. 51-70."
             pubPlace="Zagreb" year="2004" page="51-70"/>
     </delo>
-    <delo mojID="16991">
+    <delo mojID="16991" cobiss="1583988">
         <naslov>Iredentistična bomba v Trstu</naslov>
         <cit did="1382" cid="1" avtor0="Studen Andrej" naslov0="Iredentistična bomba v Trstu"
             source="Slvenska kronika XIX. stoletja, 1861-1883" pubPlace="Ljubljana"
@@ -33220,7 +33220,7 @@
             naslov0="Iron and Blood : Civil Wars in Sixteenth-Century France" pubPlace="Montreal"
             publisher="McGill-Queen's UP" year="1991"/>
     </delo>
-    <delo mojID="16995">
+    <delo mojID="16995" cobiss="15152482">
         <naslov>Iron Blacksmiths and Tools, Ancient European Crafts</naslov>
         <cit did="2787" cid="20" avtor0="Feugere Michel, Guštin Mitja"
             naslov0="Iron Blacksmiths and Tools, Ancient European Crafts"
@@ -33234,7 +33234,7 @@
             source="Bulletin du Groupe de travail europeén sur l'artisanat et les productions manufacturées dans l'Antiquité"
             publisher="Montagnac" year="2002" volume="15" page="27-30"/>
     </delo>
-    <delo mojID="16997">
+    <delo mojID="16997" cobiss="512293419">
         <naslov>Iron, Land and Power...</naslov>
         <cit did="2584" cid="84" avtor0="Mason P." naslov0="Iron, Land and Power..."
             source="Internationales Symposium..." pubPlace="Budapest" year="1996" page="274-282"/>
@@ -33259,7 +33259,7 @@
             naslov0="Is anyone out there listening? Meeting the educational needs of Alaska natives in higher education"
             naslov1="unpublished ms" publisher="University of Alaska Fairbanks" year="1992"/>
     </delo>
-    <delo mojID="17003">
+    <delo mojID="17003" cobiss="2208343">
         <naslov>Is education for patriotism morally required, permitted or
                         unacceptable?</naslov>
         <cit did="3043" cid="7" avtor0="Kodelja Z."
@@ -33306,7 +33306,7 @@
             naslov0="Is marriage losing its centrality in ltaly?" source="Demographic Research"
             pubPlace="Rostock" year="2004" volume="11" issue="6" page="149-172"/>
     </delo>
-    <delo mojID="17010">
+    <delo mojID="17010" cobiss="6714445">
         <naslov>Is Multiculturalism the Solution?</naslov>
         <cit did="2648" cid="80" avtor0="Wieviorka Michel"
             naslov0="Is Multiculturalism the Solution?" source="Ethnic and Racial Studies"
@@ -33366,7 +33366,7 @@
             source="Nationalism and Archaeology in Europe" pubPlace="London"
             publisher="University Colledge London Press" year="1996" page="265-293"/>
     </delo>
-    <delo mojID="17021">
+    <delo mojID="17021" cobiss="103582464">
         <naslov>Isaac Posch 'diditus Eois Hesperiisque plagis' - slavljen v deželah ore in
                         zatona</naslov>
         <cit did="2693" cid="33" avtor0="Kokole Metoda"
@@ -33394,7 +33394,7 @@
             source="Rad Jugoslavenske akademije znanosti i umjetnosti" year="1949" volume="270"
             page="67-92"/>
     </delo>
-    <delo mojID="17025">
+    <delo mojID="17025" cobiss="21260845">
         <naslov>Iseljavanje njemačke narodne skupine u nezavisnoj državi Hrvatskoj s
                         područja Slavonije potkraj drugoga svjetskoga rata</naslov>
         <cit did="2719" cid="9" avtor0="Geiger Vladimir"
@@ -33416,19 +33416,19 @@
             source="Iseljeništvo naroda i narodnosti Jugoslavije i njegove uzajamne veze s domovinom"
             pubPlace="Zagreb" year="1978" page="211"/>
     </delo>
-    <delo mojID="17030">
+    <delo mojID="17030" cobiss="39541504">
         <naslov>Iskanja, Društvo piscev zgodovine NOB Slovenije</naslov>
         <cit did="3210" cid="184" avtor0="Ribičič Mitja"
             naslov0="Iskanja, Društvo piscev zgodovine NOB Slovenije" pubPlace="Ljubljana"
             year="1994"/>
     </delo>
-    <delo mojID="17031">
+    <delo mojID="17031" cobiss="51271936">
         <naslov>Iskanje barbara</naslov>
         <cit did="428" cid="14" avtor0="Kolakowski L." naslov0="Iskanje barbara"
             source="Nova revija" pubPlace="Ljubljana" year="1995" volume="14" issue="156/157"
             page="161"/>
     </delo>
-    <delo mojID="17033">
+    <delo mojID="17033" cobiss="6903341">
         <naslov>Iskanje novih paleolitskih postaj v letih 1971-1982</naslov>
         <cit did="1915" cid="5" avtor0="Brodar M."
             naslov0="Iskanje novih paleolitskih postaj v letih 1971-1982"
@@ -33461,7 +33461,7 @@
             naslov1="Deliberating in Divided Societies" pubPlace="Farnham, Burlington"
             publisher="Ashgate" year="2009"/>
     </delo>
-    <delo mojID="17046">
+    <delo mojID="17046" cobiss="7842893">
         <naslov>Islam i muslimani u Hrvatskoj. Skica stvaranja muslimanskog /bošnjačkog
                         sociokulturnog prostora</naslov>
         <cit did="2907" cid="6" avtor0="Čičak Chand Ružica"
@@ -33469,7 +33469,7 @@
             source="Migracijske teme, Časopis za iztraživanje migracija i narodnosti"
             pubPlace="Zagreb" year="1999" volume="15" issue="4"/>
     </delo>
-    <delo mojID="17047">
+    <delo mojID="17047" cobiss="46426624">
         <naslov>Islam in History : Ideas, People, and Events in the middle East</naslov>
         <cit did="379" cid="10" avtor0="Lewis B."
             naslov0="Islam in History : Ideas, People, and Events in the middle East"
@@ -33480,13 +33480,13 @@
         <cit did="379" cid="17" avtor0="Smith C." naslov0="Islam in Modern History"
             pubPlace="New York" publisher="Mentor" year="1957"/>
     </delo>
-    <delo mojID="17051">
+    <delo mojID="17051" cobiss="19836160">
         <naslov>Islam in Transition</naslov>
         <cit did="379" cid="4" avtor0="Donohue  J. J., Esposito J. L." naslov0="Islam in Transition"
             source="Muslim Perspective" pubPlace="Oxford" publisher="Oxford University" year="1982"
         />
     </delo>
-    <delo mojID="17052">
+    <delo mojID="17052" cobiss="72909568">
         <naslov>Islam - mali leksikon</naslov>
         <cit did="2489" cid="4" avtor0="Thoraval Yves" naslov0="Islam - mali leksikon"
             pubPlace="Ljubljana" year="1998" page="27-28"/>
@@ -33508,7 +33508,7 @@
         <cit did="379" cid="7" avtor0="Halliday F." naslov0="Islamophobia"
             source="Ethnic and Racial Studies" pubPlace="London" year="0" page="892-902"/>
     </delo>
-    <delo mojID="17059">
+    <delo mojID="17059" cobiss="34195757">
         <naslov>Island of hope, island of tears</naslov>
         <cit did="2937" cid="6" avtor0="Brownstone David M." avtor1="Franck Irene M. et al"
             naslov0="Island of hope, island of tears" pubPlace="New York" publisher="Metro Books"
@@ -33527,13 +33527,13 @@
         <cit did="51" cid="140" avtor0="Norlin" naslov0="Isocrates, Speeches and Letters"
             pubPlace="e.vir"/>
     </delo>
-    <delo mojID="17064">
+    <delo mojID="17064" cobiss="6307985">
         <naslov>Isola d'Istria ed il Monastero di S. Maria di Aquileia</naslov>
         <cit did="251" cid="20" avtor0="Russignan G."
             naslov0="Isola d'Istria ed il Monastero di S. Maria di Aquileia" pubPlace="Trieste"
             year="1987" page="12-16"/>
     </delo>
-    <delo mojID="17066">
+    <delo mojID="17066" cobiss="7330105">
         <naslov>Isolanthis. Roman vom Sinken eines Erdteils</naslov>
         <cit did="2290" cid="6" avtor0="Karlin Alma M."
             naslov0="Isolanthis. Roman vom Sinken eines Erdteils" year="1936"/>
@@ -33546,7 +33546,7 @@
             naslov0="Isole famose, porti, fortezze, e terre marittime sottoposte alla ser.ma Sig.ria di Venetia, ad altri Principi Christiani et al sig.or Turco novamente poste in luce"
             pubPlace="Venetia" year="0" page="232"/>
     </delo>
-    <delo mojID="17068">
+    <delo mojID="17068" cobiss="7682105">
         <naslov>Isonzo</naslov>
         <cit did="1315" cid="111" avtor0="Seifert Josef" naslov0="Isonzo" pubPlace="Dunaj"
             publisher="Waldheim - Eberle AG" year="1936"/>
@@ -33566,19 +33566,19 @@
         <cit did="1315" cid="45" avtor0="Weber Fritz" naslov0="Isonzo 1917" pubPlace="Klagenfurt"
             publisher="A. Kollitsch Verlag" year="1927" page="13-14, 40, 59, 88, 106"/>
     </delo>
-    <delo mojID="17072">
+    <delo mojID="17072" cobiss="4584269">
         <naslov>Isonzo 1917</naslov>
         <cit did="1315" cid="49" avtor0="Silvestri Mario" naslov0="Isonzo 1917" pubPlace="Torino"
             publisher="Giulio Einaudi editore" year="1965"
             page="236, 283, 310-311, 378-379, 407, 453, 455, 456 ..."/>
     </delo>
-    <delo mojID="17073">
+    <delo mojID="17073" cobiss="82760">
         <naslov>Isonzo addio</naslov>
         <cit did="1318" cid="19" avtor0="Liberini Franco" naslov0="Isonzo addio"
             pubPlace="Pordenone" publisher="Centro studi e ricerche storice Pordenone" year="1996"
             page="20"/>
     </delo>
-    <delo mojID="17074">
+    <delo mojID="17074" cobiss="5693490">
         <naslov>Isonzo - Là dove morirono</naslov>
         <cit did="1315" cid="109" avtor0="Schaumann Walther, Schubert Peter"
             naslov0="Isonzo - Là dove morirono" pubPlace="Bassano dell Grappa"
@@ -33600,7 +33600,7 @@
             source="Arhiv za zaštitu majke i djeteta" year="1973" volume="17" issue="6"
             page="269-320"/>
     </delo>
-    <delo mojID="17078">
+    <delo mojID="17078" cobiss="10629677">
         <naslov>Isprave hrvatskih narodnih vladara i latinske isprave bosansko-humskih
                         vladara i velmoža</naslov>
         <cit did="2631" cid="24" avtor0="Brković M."
