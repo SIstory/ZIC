@@ -33608,7 +33608,7 @@
             source="Zavod za povijesne znanosti Hrvatske akademije znanosti i umjetnosti u Zadru. Djela 10"
             pubPlace="Zadar-Mostar" year="1998"/>
     </delo>
-    <delo mojID="17079">
+    <delo mojID="17079" cobiss="10629677">
         <naslov>Isprave narodnih vladara i latinske isprave bosansko-humskih vladara i
                         velmoža</naslov>
         <cit did="253" cid="4" avtor0="Brković M."
@@ -33659,7 +33659,7 @@
             naslov0="Israeli left wavering behind Barak" source="Manhattan Mercury" year="2001"
             issue="Feb 5"/>
     </delo>
-    <delo mojID="17087">
+    <delo mojID="17087" cobiss="22741037">
         <naslov>Issa, a historical and archaeological guide</naslov>
         <cit did="1748" cid="230" avtor0="Čargo B."
             naslov0="Issa, a historical and archaeological guide" pubPlace="Split" year="2004"/>
@@ -33709,7 +33709,7 @@
         <cit did="423" cid="5" avtor0="Mihovilić K." naslov0="Istarska enciklopedia"
             pubPlace="Zagreb" publisher="Leksikografski zavod Miroslav Krleža" year="2005"/>
     </delo>
-    <delo mojID="17097">
+    <delo mojID="17097" cobiss="3079008">
         <naslov>Istarska grupa spomenika sakralne arhitekture s upisanom apsidom</naslov>
         <cit did="1998" cid="25" avtor0="Marušić B."
             naslov0="Istarska grupa spomenika sakralne arhitekture s upisanom apsidom"
@@ -33731,7 +33731,7 @@
             publisher="Hrvatski institut za povijest- Društvo Egzodus istarskih Hrvata" year="2001"
             page="736"/>
     </delo>
-    <delo mojID="17100">
+    <delo mojID="17100" cobiss="2894857">
         <naslov>Istarska škrinjica, iz kulturne baštine naroda Istre</naslov>
         <cit did="2614" cid="51" avtor0="Mikac J."
             naslov0="Istarska škrinjica, iz kulturne baštine naroda Istre" pubPlace="Zagreb"
@@ -33744,7 +33744,7 @@
             source="Istarski preporoditelj Ju-raj Dobrila 1812-1882. Zbornik radova sa znanstvenog skupa i manifestacija održanih 1982. godine u povodu 100-godisnjice smrti Jurja Dobrile. Organizacioni odbor za obiljezevanje 100-godišnjice smrti Jurja Dobrile"
             pubPlace="Pazin" year="1985" page="88"/>
     </delo>
-    <delo mojID="17110">
+    <delo mojID="17110" cobiss="191543">
         <naslov>Istina o Golom otoku</naslov>
         <cit did="3210" cid="127" avtor0="Markovič Dragan" naslov0="Istina o Golom otoku"
             pubPlace="Beograd" publisher="Narodna knjiga, Partizanska knjiga" year="1987"/>
@@ -33850,7 +33850,7 @@
         <cit did="2521" cid="3" avtor0="Cirkovič Sima" naslov0="Istorija Bosne" pubPlace="Beograd"
             year="1964"/>
     </delo>
-    <delo mojID="17133">
+    <delo mojID="17133" cobiss="90440960">
         <naslov>Istorija Državne hipotekarne banke 1862-1932</naslov>
         <cit did="9" cid="7" avtor0="M. Glomazić"
             naslov0="Istorija Državne hipotekarne banke 1862-1932" pubPlace="Beograd" year="1933"/>
@@ -33862,7 +33862,7 @@
             naslov0="Istorija građenja železnica i železnička politika kod nas (1850–1935)"
             pubPlace="Beograd" year="1936"/>
     </delo>
-    <delo mojID="17135">
+    <delo mojID="17135" cobiss="1643270">
         <naslov>Istorija Jugoslavije</naslov>
         <cit did="2214" cid="12" avtor0="Ćorović Vladimir" naslov0="Istorija Jugoslavije"
             pubPlace="Beograd" year="1933" page="590"/>
@@ -33872,7 +33872,7 @@
         <cit did="2181" cid="7" avtor0="Žečević M." naslov0="Istorija Jugoslavije 1918-1988"
             pubPlace="Beograd" year="1988" page="74"/>
     </delo>
-    <delo mojID="17139">
+    <delo mojID="17139" cobiss="1539700">
         <naslov>Istorija jugoslovenske krize 1990-2000</naslov>
         <cit did="1532" cid="14" avtor0="Guskova Jelena"
             naslov0="Istorija jugoslovenske krize 1990-2000" pubPlace="Beograd" year="2003"/>
@@ -33882,7 +33882,7 @@
         <cit did="2708" cid="25" avtor0="Rokai Petar" avtor1="Đere Zoltan et al"
             naslov0="Istorija Mađara" pubPlace="Beograd" publisher="Clio" year="2002"/>
     </delo>
-    <delo mojID="17141">
+    <delo mojID="17141" cobiss="20683013">
         <naslov>Istorija parnog stroja i parobroda</naslov>
         <cit did="1613" cid="16" avtor0="Šolić Franjo" naslov0="Istorija parnog stroja i parobroda"
             pubPlace="Beograd" publisher="Tehnička knjiga" year="1950" page="15"/>
@@ -33909,7 +33909,7 @@
         <cit did="2190" cid="1" avtor0="Brozović Ante" naslov0="Istorija Sokolstva"
             source="Sveslavensko Sokolstvo" pubPlace="Beograd" year="1930" page="28"/>
     </delo>
-    <delo mojID="17148">
+    <delo mojID="17148" cobiss="72204">
         <naslov>Istorija Srba, 3. del.</naslov>
         <cit did="1894" cid="42" avtor0="Ćorović Vladimir" naslov0="Istorija Srba, 3. del."
             pubPlace="Beograd" year="1989" page="250"/>
@@ -33931,12 +33931,12 @@
             naslov0="Istorija srpskog naroda. Od Prvog ustanka do Berlinskog kongresa 1804-1878"
             pubPlace="Beograd" year="1981"/>
     </delo>
-    <delo mojID="17155">
+    <delo mojID="17155" cobiss="1192200">
         <naslov>Istorija zapadne filosofije</naslov>
         <cit did="3071" cid="48" avtor0="Russel Bertrand" naslov0="Istorija zapadne filosofije"
             pubPlace="Beograd" publisher="Kosmos" year="1962"/>
     </delo>
-    <delo mojID="17156">
+    <delo mojID="17156" cobiss="20639789">
         <naslov>Istorijski i geografski opis Kraljevine Slavonije i Vojvodstva
                         Srema</naslov>
         <cit did="2708" cid="35" avtor0="Taube Friedrich Wilhelm von"
@@ -33967,7 +33967,7 @@
             naslov0="Istoričar u politici: Slobodan Jovanović" pubPlace="Beograd" year="1998"
             page="117"/>
     </delo>
-    <delo mojID="17162">
+    <delo mojID="17162" cobiss="1554733">
         <naslov>Istoričeskoe razvitie slovenskoj zapadnoj granicy</naslov>
         <cit did="1511" cid="184" avtor0="Kos Milko"
             naslov0="Istoričeskoe razvitie slovenskoj zapadnoj granicy" pubPlace="Ljubljana"
@@ -34001,7 +34001,7 @@
             source="Zbronik radova &#34;Pazinski Memorial" pubPlace="Pazin" year="1994"
             volume="23-24" page="270"/>
     </delo>
-    <delo mojID="17171">
+    <delo mojID="17171" cobiss="2025777">
         <naslov>Istra i sjevernojadranski prostor u ranom srednjem vijeku (materijalna
                         kultura od 7. do 11. stoljeća)</naslov>
         <cit did="1998" cid="27" avtor0="Marušić B."
@@ -34009,18 +34009,18 @@
             source="Monografije i katalozi" pubPlace="Pula" publisher="Arheološki muzej Istre"
             year="1995" volume="4"/>
     </delo>
-    <delo mojID="17172">
+    <delo mojID="17172" cobiss="50478592">
         <naslov>Istra između zbilje i fikcije</naslov>
         <cit did="386" cid="9" avtor0="Bertoša Miroslav" naslov0="Istra između zbilje i fikcije"
             pubPlace="Zagreb" publisher="Matica hrvatska" year="1993"/>
     </delo>
-    <delo mojID="17173">
+    <delo mojID="17173" cobiss="9437745">
         <naslov>Istra, Jadran, Sredozemlje. Identiteti i imaginariji</naslov>
         <cit did="2595" cid="15" avtor0="Bertoša M."
             naslov0="Istra, Jadran, Sredozemlje. Identiteti i imaginariji"
             pubPlace="Zagreb-Dubrovnik" year="2003"/>
     </delo>
-    <delo mojID="17176">
+    <delo mojID="17176" cobiss="613453">
         <naslov>Istra. Novi problemi starih regij</naslov>
         <cit did="2895" cid="3" avtor0="Bufon Milan" naslov0="Istra. Novi problemi starih regij"
             source="Annales" pubPlace="Koper" year="1993" issue="3"/>
@@ -34092,14 +34092,14 @@
             naslov0="Istraživanje tradicijske baštine, identiteta i etnogeneze primorskih Bunjevaca"
             source="Senjski zbornik" pubPlace="Senj" year="2003" page="407-424"/>
     </delo>
-    <delo mojID="17197">
+    <delo mojID="17197" cobiss="8855602">
         <naslov>Istria. Citta maggiori: Capodistria, Parenzo, Pirano</naslov>
         <cit did="1919" cid="24" avtor0="Pavanello G. et al."
             naslov0="Istria. Citta maggiori: Capodistria, Parenzo, Pirano"
             source="Pola: opere d'arte dal Medioevo airottocento" pubPlace="Pola"
             publisher="Edizioni della Laguna" year="2001"/>
     </delo>
-    <delo mojID="17198">
+    <delo mojID="17198" cobiss="5325869">
         <naslov>Istria città minori</naslov>
         <cit did="711" cid="2" avtor0="Alisi A." naslov0="Istria città minori" pubPlace="Trieste"
             publisher="Italo Svevo" year="1997"/>
@@ -34134,7 +34134,7 @@
             naslov0="„Istria Is Ours and We Can Prove It&#34;: An Examination of lstrian Historiography in the Nineteenth and Twentieth Centuries"
             pubPlace="Pittsburgh" publisher="University of Pittsburgh" year="2006"/>
     </delo>
-    <delo mojID="17208">
+    <delo mojID="17208" cobiss="9409585">
         <naslov>Istria, teatro di guerra e di contrasti internazionali (estate 1944
                         -primavera 1945)</naslov>
         <cit did="2873" cid="269" avtor0="Giuricin L."
@@ -34164,7 +34164,7 @@
             naslov0="Istrien in Fruehmittelalter : Archeologisch-historische Darstellung"
             pubPlace="Pulj" publisher="Ausgabe" year="1964"/>
     </delo>
-    <delo mojID="17214">
+    <delo mojID="17214" cobiss="652109">
         <naslov>Istriotski jezikovni otoki v Istri</naslov>
         <cit did="1927" cid="13" avtor0="Filipi G." naslov0="Istriotski jezikovni otoki v Istri"
             source="Annales - Anali Koprskega primorja in bliznjih pokrajin" pubPlace="Koper"
@@ -34197,12 +34197,12 @@
         <cit did="395" cid="13" avtor0="Filipi Goran" naslov0="Istrorumunjske etimologinje"
             source="Slezena" pubPlace="Zagreb" year="2002" page="19-30"/>
     </delo>
-    <delo mojID="17220">
+    <delo mojID="17220" cobiss="538579">
         <naslov>Istrorumunjski lingvistički atlas</naslov>
         <cit did="693" cid="21" avtor0="Filipi Goran" naslov0="Istrorumunjski lingvistički atlas"
             pubPlace="Pula" publisher="Znanstvena udruga Mediteran" year="2002"/>
     </delo>
-    <delo mojID="17221">
+    <delo mojID="17221" cobiss="5270833">
         <naslov>Istrorumunjsko-hrvatski rječnik s gramatikom i tekstovima</naslov>
         <cit did="395" cid="15" avtor0="Kovačec A."
             naslov0="Istrorumunjsko-hrvatski rječnik s gramatikom i tekstovima" pubPlace="Pula"
@@ -34214,19 +34214,19 @@
             source="Lahresbericht des instituts für rumänische Sprache IV." pubPlace="Leipzig"
             year="0" page="174-396"/>
     </delo>
-    <delo mojID="17224">
+    <delo mojID="17224" cobiss="5551949">
         <naslov>Istrska polifonija - večjezičnost in literatura</naslov>
         <cit did="334" cid="288" avtor0="Strutz Johann"
             naslov0="Istrska polifonija - večjezičnost in literatura" source="Annales"
             pubPlace="Koper" year="1996" volume="8" page="189-190"/>
     </delo>
-    <delo mojID="17225">
+    <delo mojID="17225" cobiss="12389634">
         <naslov>Istrske zdrahe ob koncu 18. stoletja</naslov>
         <cit did="1624" cid="47" avtor0="Holz Eva" naslov0="Istrske zdrahe ob koncu 18. stoletja"
             source="Kronika: časopis za slovensko krajevno zgodovino" pubPlace="Ljubljana"
             year="1989" volume="37" issue="1-2" page="52-58"/>
     </delo>
-    <delo mojID="17228">
+    <delo mojID="17228" cobiss="5420544">
         <naslov>Istrski odred</naslov>
         <cit did="1469" cid="13" avtor0="Zadnik Maks" naslov0="Istrski odred" pubPlace="Nova Gorica"
             year="1975" page="55"/>
@@ -34245,7 +34245,7 @@
             naslov0="Istruzioni scientifiche e tecniche ossia corso teorico e pratico di agricoltura. Vol. II. Libro IX."
             pubPlace="Torino" publisher="U.T.E.T." year="0"/>
     </delo>
-    <delo mojID="17236">
+    <delo mojID="17236" cobiss="11376461">
         <naslov>István Bibó on Self-Governance</naslov>
         <cit did="2651" cid="21" avtor0="Kupa László" naslov0="István Bibó on Self-Governance"
             source="RiG" pubPlace="Ljubljana" publisher="INV" year="2009" issue="58" page="126-138"
@@ -34257,19 +34257,19 @@
             naslov0="Isusovci i hrvatski narod, I. Rad u XVI stolječu" pubPlace="Zagreb"
             publisher="Filozofsko-teološki institut družbe Isusove" year="1969"/>
     </delo>
-    <delo mojID="17238">
+    <delo mojID="17238" cobiss="64480768">
         <naslov>Iswolsky und Aehrenthal vor der bosnischen Annexionskrise: Russische und
                         österreichisch-ungarische Balkanpolitik 1906-1908</naslov>
         <cit did="1760" cid="24" avtor0="Carlgren William Mauritz"
             naslov0="Iswolsky und Aehrenthal vor der bosnischen Annexionskrise: Russische und österreichisch-ungarische Balkanpolitik 1906-1908"
             pubPlace="Upssala" year="1955"/>
     </delo>
-    <delo mojID="17239">
+    <delo mojID="17239" cobiss="79143936">
         <naslov>Ita Rina</naslov>
         <cit did="1325" cid="17" avtor0="Nedič Lilijana" naslov0="Ita Rina" pubPlace="Ljubljana"
             publisher="Slovenska kinoteka" year="1998"/>
     </delo>
-    <delo mojID="17240">
+    <delo mojID="17240" cobiss="1438324">
         <naslov>Italia</naslov>
         <cit did="374" cid="2" avtor0="Apih E." naslov0="Italia"
             source="Fascismo e antifascismo nella Venezia Giulia  (1918-1943)" pubPlace="Bari"
@@ -34336,7 +34336,7 @@
             naslov0="Italian cities 1300-1800. A quantitative approach"
             source="Rivista di Storia Economica" year="1998" volume="15" issue="2" page="92-126"/>
     </delo>
-    <delo mojID="17252">
+    <delo mojID="17252" cobiss="240075264">
         <naslov>Italian claims to property in Slovenia</naslov>
         <cit did="303" cid="181" avtor0="Škrk Mirjam"
             naslov0="Italian claims to property in Slovenia"
@@ -34373,7 +34373,7 @@
         <cit did="1930" cid="21" avtor0="Masson G." naslov0="Italian Gardens" pubPlace="London"
             publisher="Thames and Hudson" year="1996"/>
     </delo>
-    <delo mojID="17258">
+    <delo mojID="17258" cobiss="4536653">
         <naslov>Italian genocide policy against the Slovenes and the Croats</naslov>
         <cit did="440" cid="14" avtor0="Mihovilović - Lavo Čermelj"
             naslov0="Italian genocide policy against the Slovenes and the Croats"
@@ -34392,13 +34392,13 @@
             source="(abstract no. Pub.D.1328). Http://vvww. aegis.com/conferences/11wac/PubD1328.html (20. 9. 2010)."
             year="1996" volume="11" page="489"/>
     </delo>
-    <delo mojID="17262">
+    <delo mojID="17262" cobiss="4393549">
         <naslov>Italian Policy Toward the Slovenes from 1915 to 1994</naslov>
         <cit did="2763" cid="83" avtor0="Pirjevec Jože"
             naslov0="Italian Policy Toward the Slovenes from 1915 to 1994" source="Slovene Studies"
             year="2003" volume="15" issue="1/2" page="63-73"/>
     </delo>
-    <delo mojID="17263">
+    <delo mojID="17263" cobiss="4393549">
         <naslov>Italian Policy towards Slovenes: 1915-1994</naslov>
         <cit did="1511" cid="287" avtor0="Pirjevec Jože"
             naslov0="Italian Policy towards Slovenes: 1915-1994" source="Slovene Studies"
@@ -34416,7 +34416,7 @@
             naslov0="Italian Villas and Gardens" pubPlace="Amsterdam" publisher="Toth Publishers"
             year="1993"/>
     </delo>
-    <delo mojID="17266">
+    <delo mojID="17266" cobiss="10270769">
         <naslov>Italiani di Dalmazia</naslov>
         <cit did="386" cid="30" avtor0="Monzali Luciano" naslov0="Italiani di Dalmazia"
             naslov1="Dal Risorgimento alla Grande Guerra" pubPlace="Firenze" publisher="Le Lettere"
@@ -34428,7 +34428,7 @@
             naslov0="Italiani e Slavi nella Venezia Giulia" source="Quaderni Geografici"
             pubPlace="Novara" year="1919" volume="9"/>
     </delo>
-    <delo mojID="17269">
+    <delo mojID="17269" cobiss="4760585">
         <naslov>Italiani e Slavi nell'Adriatico</naslov>
         <cit did="3013" cid="50" avtor0="Tamaro A." naslov0="Italiani e Slavi nell'Adriatico"
             pubPlace="Roma" publisher="Athenaeum" year="1915"/>
@@ -34447,7 +34447,7 @@
             source="Italian Fascism: History, Memory and Representation" pubPlace="New York"
             publisher="St. Martin's Press" year="1999" page="183"/>
     </delo>
-    <delo mojID="17275">
+    <delo mojID="17275" cobiss="13645">
         <naslov>Italiano in Istria e a Fiume 1945-1977</naslov>
         <cit did="1324" cid="97" avtor0="Dassovich M."
             naslov0="Italiano in Istria e a Fiume 1945-1977" pubPlace="Trieste" publisher="LINT"
@@ -34461,7 +34461,7 @@
             source="Scuola, societa, territorio, a. VIII, numero unico" pubPlace="Bologna"
             year="1984" page="165-194"/>
     </delo>
-    <delo mojID="17277">
+    <delo mojID="17277" cobiss="115351040">
         <naslov>Italia-Slovenia</naslov>
         <cit did="303" cid="112" avtor0="Lusa Stefano" naslov0="Italia-Slovenia" pubPlace="Pirano"
             publisher="Il Trillo" year="2001"/>
@@ -34501,17 +34501,17 @@
             naslov0="Italienische Verfassungsgeschichte von der Gothenzeit bis zur Zunftherrschaft"
             pubPlace="Leipzig" year="1909"/>
     </delo>
-    <delo mojID="17286">
+    <delo mojID="17286" cobiss="911181">
         <naslov>Italija i Srednja Evropa</naslov>
         <cit did="71" cid="84" avtor0="Hauptmann Ljudmil" naslov0="Italija i Srednja Evropa"
             pubPlace="Split" publisher="Naklada Izvršnog odbora Jadranske straže" year="1928"/>
     </delo>
-    <delo mojID="17287">
+    <delo mojID="17287" cobiss="1384564">
         <naslov>Italija i Črna Gora 1914-1925</naslov>
         <cit did="1662" cid="147" avtor0="Živojinović Dragoljub"
             naslov0="Italija i Črna Gora 1914-1925" pubPlace="Beograd" year="1998"/>
     </delo>
-    <delo mojID="17290">
+    <delo mojID="17290" cobiss="778195">
         <naslov>Italija in srednjeevropske povezave v polovici tridesetih let dvajsetega
                         stoletja</naslov>
         <cit did="1782" cid="190" avtor0="Klabjan Borut"
@@ -34519,12 +34519,12 @@
             source="Acta Histriae" pubPlace="Koper" year="2004" volume="12" issue="2" page="107-134"
         />
     </delo>
-    <delo mojID="17292">
+    <delo mojID="17292" cobiss="234307328">
         <naslov>Italijani, dobri ljudje?</naslov>
         <cit did="1914" cid="29" avtor0="Del Boca Angelo" naslov0="Italijani, dobri ljudje?"
             pubPlace="Ljubljana" publisher="MK" year="2007"/>
     </delo>
-    <delo mojID="17293">
+    <delo mojID="17293" cobiss="9495629">
         <naslov>Italijani in Madžari v Sloveniji v perspektivi slovenskih etničnih študij –
                         Participacija v politiki in pri urejanju javnih zadev</naslov>
         <cit did="2808" cid="9" avtor0="Jesih Boris"
@@ -34537,19 +34537,19 @@
             naslov0="Italijani in Slovenci v Avstrijskem Primorju (1880-1918)"
             source="Melikov zbornik" pubPlace="Ljubljana" year="2001" page="806"/>
     </delo>
-    <delo mojID="17296">
+    <delo mojID="17296" cobiss="7746050">
         <naslov>Italijani v Jugoslaviji</naslov>
         <cit did="1278" cid="5" avtor0="Juri Franco" naslov0="Italijani v Jugoslaviji"
             naslov1="Ob izginjanju ene od manjšin" source="Teorija in praksa" year="1989"
             volume="26" issue="6/7" page="823-827"/>
     </delo>
-    <delo mojID="17301">
+    <delo mojID="17301" cobiss="559059">
         <naslov>Italijanska majolika iz Celja</naslov>
         <cit did="1948" cid="3" avtor0="Cunja R." naslov0="Italijanska majolika iz Celja"
             source="Srednjeveško Celje: Archaeologia historica" pubPlace="Ljubljana" publisher="FF"
             year="2001" page="97-123"/>
     </delo>
-    <delo mojID="17303">
+    <delo mojID="17303" cobiss="842195">
         <naslov>Italijanska narodna skupnost v Republiki Sloveniji: družbena
                         (samo)umestitev</naslov>
         <cit did="679" cid="18" avtor0="Sedmak M."
@@ -34557,20 +34557,20 @@
             source="Teorija in praksa" pubPlace="Ljubljana" year="2005" volume="42" issue="1"
             page="89-112"/>
     </delo>
-    <delo mojID="17304">
+    <delo mojID="17304" cobiss="512177279">
         <naslov>Italijanska narodnostna skupnost v Sloveniji med letoma 1954 in
                         1990</naslov>
         <cit did="476" cid="1" avtor0="Troha Nevenka"
             naslov0="Italijanska narodnostna skupnost v Sloveniji med letoma 1954 in 1990"
             source="ZÄŒ" year="2002" volume="56" issue="34"/>
     </delo>
-    <delo mojID="17309">
+    <delo mojID="17309" cobiss="15320832">
         <naslov>Italijanska politika do nastajajoče Jugoslavije</naslov>
         <cit did="1511" cid="288" avtor0="Pirjevec Jože"
             naslov0="Italijanska politika do nastajajoče Jugoslavije" source="Zgodovinski časopis"
             year="1989" volume="43" issue="3" page="387-391"/>
     </delo>
-    <delo mojID="17310">
+    <delo mojID="17310" cobiss="26718818">
         <naslov>Italijanska politika do vprašanja pripadnosti Primorske v luči virov Special
                         Operations Executive: od kapitulacije Italije do konca druge svetovne
                         vojne</naslov>
@@ -34584,74 +34584,74 @@
             naslov0="Italijanska publicistika o Slovencih" source="Borec" year="1966" volume="18"
             issue="10" page="804-807"/>
     </delo>
-    <delo mojID="17312">
+    <delo mojID="17312" cobiss="453686">
         <naslov>Italijanska romantika v korespondenci Savio - Čop</naslov>
         <cit did="442" cid="26" avtor0="Pirjevec Marija"
             naslov0="Italijanska romantika v korespondenci Savio - Čop"
             source="Na pretoku dveh literatur / Študije in eseji" pubPlace="Trst" year="1992"/>
     </delo>
-    <delo mojID="17313">
+    <delo mojID="17313" cobiss="45501697">
         <naslov>Italijanska slovnica - Grammatica italiana</naslov>
         <cit did="1984" cid="1" avtor0="Berce S."
             naslov0="Italijanska slovnica - Grammatica italiana" pubPlace="Maribor"
             publisher="Obzorja" year="2001"/>
     </delo>
-    <delo mojID="17314">
+    <delo mojID="17314" cobiss="68540416">
         <naslov>Italijanska taborišča za Slovence med drugo svetovno vojno</naslov>
         <cit did="2771" cid="9" avtor0="Jezernik Božidar"
             naslov0="Italijanska taborišča za Slovence med drugo svetovno vojno"
             pubPlace="Ljubljana"
             publisher="Društvo za preučevanje zgodovine, literature in antropologije" year="1997"/>
     </delo>
-    <delo mojID="17316">
+    <delo mojID="17316" cobiss="12421682">
         <naslov>Italijanska zasedba Gorice 9. avgusta 1916: spregledani 75-letnici ob
                         rob</naslov>
         <cit did="2431" cid="9" avtor0="Svoljšak Petra"
             naslov0="Italijanska zasedba Gorice 9. avgusta 1916: spregledani 75-letnici ob rob"
             source="Jadranski koledar" pubPlace="Trst" year="1992" page="99"/>
     </delo>
-    <delo mojID="17317">
+    <delo mojID="17317" cobiss="21334317">
         <naslov>Italijanska šolska stavbna dediščina med obema vojnama na severnem
                         Primorskem</naslov>
         <cit did="2221" cid="6" avtor0="Drole Ernesta"
             naslov0="Italijanska šolska stavbna dediščina med obema vojnama na severnem Primorskem"
             source="Šolska kronika" year="2003" volume="12" issue="1" page="31-40"/>
     </delo>
-    <delo mojID="17319">
+    <delo mojID="17319" cobiss="22890850">
         <naslov>Italijanske demonstracije v Istri</naslov>
         <cit did="1609" cid="1" avtor0="Cvirn Janez" naslov0="Italijanske demonstracije v Istri"
             source="Slovenska kronika XIX. stoletja, III. del" pubPlace="Ljubljana"
             publisher="Nova revija" year="2003"/>
     </delo>
-    <delo mojID="17321">
+    <delo mojID="17321" cobiss="13673005">
         <naslov>Italijanske operne predstave pri Auerspergih sredi 17 stoletja - drobtinica
                         k slovenskemu glasbenemu zgodovinopisju</naslov>
         <cit did="2638" cid="127" avtor0="Kokole Metoda"
             naslov0="Italijanske operne predstave pri Auerspergih sredi 17 stoletja - drobtinica k slovenskemu glasbenemu zgodovinopisju"
             source="Muzikološki zbornik" year="1999" volume="35" page="115-129"/>
     </delo>
-    <delo mojID="17323">
+    <delo mojID="17323" cobiss="6232653">
         <naslov>Italijanski begunci iz Istre kot subjekt "propagande italijanstva" v Italiji
                         in "nacionalne bonifikacije" v Trstu v letih 1945-1954</naslov>
         <cit did="1278" cid="4" avtor0="Volk Sandi"
             naslov0="Italijanski begunci iz Istre kot subjekt &#34;propagande italijanstva&#34; v Italiji in &#34;nacionalne bonifikacije&#34; v Trstu v letih 1945-1954"
             source="Zgodovinski časopis" year="1997" volume="51" issue="2" page="241-254"/>
     </delo>
-    <delo mojID="17325">
+    <delo mojID="17325" cobiss="4821581">
         <naslov>Italijanski načrt izkoriščanja in poselitve Kočevske. Genocidno uničevanje
                         slovenskega prebivalstva in naselij ob Kolpi in Gorjancih</naslov>
         <cit did="2567" cid="17" avtor0="Korošec Branko"
             naslov0="Italijanski načrt izkoriščanja in poselitve Kočevske. Genocidno uničevanje slovenskega prebivalstva in naselij ob Kolpi in Gorjancih"
             source="Svobodna misel" year="1996"/>
     </delo>
-    <delo mojID="17331">
+    <delo mojID="17331" cobiss="19545954">
         <naslov>Italijansko prebivalstvo na narodnostno mešanem ozemlju na Koprskem</naslov>
         <cit did="2854" cid="7" avtor0="Klemenčič Vladimir"
             naslov0="Italijansko prebivalstvo na narodnostno mešanem ozemlju na Koprskem"
             source="Geografski obzornik" pubPlace="Ljubljana" year="1986" volume="33" issue="2/3"
             page="96–100"/>
     </delo>
-    <delo mojID="17333">
+    <delo mojID="17333" cobiss="4206921">
         <naslov>'Italijanščina med globalizacijo in amerikanizacijo'</naslov>
         <cit did="2823" cid="170" avtor0="Zorman Anja"
             naslov0="'Italijanščina med globalizacijo in amerikanizacijo'" pubPlace="Ljubljana"
@@ -34675,7 +34675,7 @@
             source="Foreign Affairs; An American Quarterly Review Vol. 21" year="1942"
             page="412-426"/>
     </delo>
-    <delo mojID="17337">
+    <delo mojID="17337" cobiss="13436473">
         <naslov>Italy and the Grand Tour</naslov>
         <cit did="2321" cid="22" avtor0="Black J." naslov0="Italy and the Grand Tour"
             pubPlace="New Haven - London" publisher="Yale University Press" year="2003"/>
@@ -34685,7 +34685,7 @@
         <cit did="1415" cid="14" avtor0="Page Thomas Nelson" naslov0="Italy and the world war"
             pubPlace="New York" year="1920" page="305"/>
     </delo>
-    <delo mojID="17340">
+    <delo mojID="17340" cobiss="1154515">
         <naslov>Italy from Below and from the Outside-In: an Istrian Life-Story across the
                         Italo-Yugoslav Border</naslov>
         <cit did="3452" cid="84" avtor0="Thomassen B."
@@ -34789,13 +34789,13 @@
         <cit did="1748" cid="602" avtor0="Mainardis F." naslov0="Iulium Carnicum"
             source="Supplementa Italica n.s. 12" pubPlace="Roma" year="1994" page="67-150"/>
     </delo>
-    <delo mojID="17360">
+    <delo mojID="17360" cobiss="16488961">
         <naslov>IUPAC Nomenklatura anorganske kemije</naslov>
         <cit did="201" cid="36" avtor0="Lazarini Franc, Šmalc Andrej"
             naslov0="IUPAC Nomenklatura anorganske kemije" pubPlace="Ljubljana"
             publisher="Državna založba Slovenije" year="1986"/>
     </delo>
-    <delo mojID="17361">
+    <delo mojID="17361" cobiss="17265664">
         <naslov>iupac Nomenklatura organskih spojin : sekcije D, E, F, H in S.</naslov>
         <cit did="201" cid="38" avtor0="Stanovnik Branko, Tišler Miha"
             naslov0="iupac Nomenklatura  organskih spojin : sekcije D, E, F, H in S."
@@ -34841,7 +34841,7 @@
             naslov0="Ivan Duknovič, loannes Dalmata u domovini" pubPlace="Split"
             publisher="Književni krug" year="1990"/>
     </delo>
-    <delo mojID="17371">
+    <delo mojID="17371" cobiss="22361345">
         <naslov>(Ivan Hmelak): Soška fronta</naslov>
         <cit did="2015" cid="23" avtor0="Mesesnel J." naslov0="(Ivan Hmelak): Soška fronta"
             pubPlace="Ljubljana" publisher="Prešernova družba v Ljubljani" year="1987"/>
@@ -34865,7 +34865,7 @@
             source="Črmošnjiško-poljanska dolina in njeni ljudje: Kočevarji staroselci in Slovenci iz preteklosti v sedanjost"
             pubPlace="Ljubljana" publisher="ZRC" year="2005" page="282-302"/>
     </delo>
-    <delo mojID="17377">
+    <delo mojID="17377" cobiss="31573549">
         <naslov>Ivan Koršič</naslov>
         <cit did="2646" cid="27" avtor0="Podbersič Renato ml." naslov0="Ivan Koršič"
             source="Tvorci slovenske pomorske identitete" pubPlace="Ljubljana"
@@ -34888,7 +34888,7 @@
         <cit did="3093" cid="112" avtor0="Murko Matija" naslov0="Ivan Navratil"
             source="Ljubljanski zvon" year="1895" volume="15" page="209-213"/>
     </delo>
-    <delo mojID="17383">
+    <delo mojID="17383" cobiss="15638273">
         <naslov>Ivan Tavčar</naslov>
         <cit did="2618" cid="9" avtor0="Bohanec Franček" naslov0="Ivan Tavčar" pubPlace="Ljubljana"
             year="1985"/>
@@ -34901,7 +34901,7 @@
             naslov1="Iztis referata na Tavčarjevem simpoziju, ki ga je 2. 3. 2011 pripravil Inštitut za kulturno zgodovino ZRC SAZU v Ljubljani"
             year="2011"/>
     </delo>
-    <delo mojID="17385">
+    <delo mojID="17385" cobiss="544467">
         <naslov>Ivan Tavčar in narodno vprašanje: od slovenstva k jugoslovanstvu</naslov>
         <cit did="2201" cid="13" avtor0="Bergant Zvone"
             naslov0="Ivan Tavčar in narodno vprašanje: od slovenstva k jugoslovanstvu" source="PNZ"
@@ -34913,7 +34913,7 @@
             naslov0="Ivan Turjaški, krajiški zapovednik (?-1580)" source="LMS" year="0"
             page="130-158"/>
     </delo>
-    <delo mojID="17388">
+    <delo mojID="17388" cobiss="1099048030">
         <naslov>Ivan Vajkard Turjaški (1615-1677)</naslov>
         <cit did="2623" cid="232" avtor0="Steklasa Ivan" naslov0="Ivan Vajkard Turjaški (1615-1677)"
             source="LMS" year="0" page="39-112"/>
@@ -34930,13 +34930,13 @@
             naslov0="Ivan Šusteršič i hrvatski političari" source="Pilar" pubPlace="Zagreb"
             year="2010" volume="4" issue="7-8" page="87-102"/>
     </delo>
-    <delo mojID="17395">
+    <delo mojID="17395" cobiss="100071936">
         <naslov>Ivan Žabota - Slovenec in Slovak, umetnik in bohem</naslov>
         <cit did="1626" cid="241" avtor0="Kregar Tone"
             naslov0="Ivan Žabota - Slovenec in Slovak, umetnik in bohem" source="ZČ" year="1998"
             volume="52" issue="4" page="541-551"/>
     </delo>
-    <delo mojID="17398">
+    <delo mojID="17398" cobiss="1187469">
         <naslov>Ivanka Anžič Klemenčič</naslov>
         <cit did="226" cid="219" avtor0="Vodopivec Nina" naslov0="Ivanka Anžič Klemenčič"
             source="Splošno žensko društvo : 1901-1945" pubPlace="Ljubljana"
@@ -34947,13 +34947,13 @@
         <cit did="146" cid="2" avtor0="Frančič Nace" naslov0="Ivanki Primožič - Ireni v spomin"
             source="Tabor" year="1994" issue="5-6" page="126-127"/>
     </delo>
-    <delo mojID="17400">
+    <delo mojID="17400" cobiss="3669043">
         <naslov>Ivanocyjev pomen za slovensko narodno zavest v Prekmurju</naslov>
         <cit did="2131" cid="10" avtor0="Zelko Ivan"
             naslov0="Ivanocyjev pomen za slovensko narodno zavest v Prekmurju"
             source="Ivanocyjev simpozij v Rimu" pubPlace="Rim" year="1985" page="68"/>
     </delo>
-    <delo mojID="17401">
+    <delo mojID="17401" cobiss="3669555">
         <naslov>Ivanocyjevo slovstveno delovanje in njegov pomen za prekmurske
                         Slovence</naslov>
         <cit did="2131" cid="25" avtor0="Novak Vilko"
@@ -34971,7 +34971,7 @@
             naslov0="Ive Mihovilović: Biografija" pubPlace="Zagreb"
             publisher="Spectator - Profil Int." year="2005" page="36, 45, 50"/>
     </delo>
-    <delo mojID="17405">
+    <delo mojID="17405" cobiss="95027207">
         <naslov>Ivo Lola Ribar</naslov>
         <cit did="71" cid="172" avtor0="Petričević Jozo" naslov0="Ivo Lola Ribar" pubPlace="Zagreb"
             year="1964"/>
