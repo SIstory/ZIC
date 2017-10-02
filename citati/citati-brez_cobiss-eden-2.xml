@@ -34990,7 +34990,7 @@
             source="Goriški letnik: Zbornik Goriškega muzeja - Juvančičev zbornik" year="1979"
             volume="6" page="137-149"/>
     </delo>
-    <delo mojID="17415">
+    <delo mojID="17415" cobiss="1977460">
         <naslov>Iz avanturizma v turizem. Slovenska novejša zgodovina (ur. Jasna Fischer et
                         al.)</naslov>
         <cit did="2035" cid="26" avtor0="Studen Andrej"
@@ -35003,13 +35003,13 @@
         <cit did="1572" cid="71" avtor0="Stegenšek Avguštin" naslov0="Iz Betlehema"
             source="Glasnik najsvetejših src" year="1914" volume="13" issue="1" page="44-46"/>
     </delo>
-    <delo mojID="17418">
+    <delo mojID="17418" cobiss="8229709">
         <naslov>Iz bibliografije o Židih v Sloveniji</naslov>
         <cit did="2574" cid="9" avtor0="Kuzmič Franc" naslov0="Iz bibliografije o Židih v Sloveniji"
             source="Zbornik soboškega muzeja 6" pubPlace="Murska Sobota"
             publisher="Pokrajinski muzej" year="2001" page="137-143"/>
     </delo>
-    <delo mojID="17419">
+    <delo mojID="17419" cobiss="5876793">
         <naslov>Iz boja junaške Ljubljane</naslov>
         <cit did="1509" cid="31" avtor0="Čepe Marica" naslov0="Iz boja junaške Ljubljane"
             source="Ljubljana za bodečo žico" pubPlace="Ljubljana" year="1972" page="30-33"/>
@@ -35063,7 +35063,7 @@
             naslov0="Iz delavnice za našo opereto. V: , št. 6, Gregorc-"
             source="Gledališki list: Opera" year="1943" issue="6"/>
     </delo>
-    <delo mojID="17430">
+    <delo mojID="17430" cobiss="68146688">
         <naslov>Iz dnevnika Evgena Lampeta</naslov>
         <cit did="1304" cid="12" avtor0="Grdina Igor" naslov0="Iz dnevnika Evgena Lampeta"
             source="Tretji dan" year="1996" issue="10" page="33"/>
@@ -35095,24 +35095,24 @@
             naslov0="Iz dopisovanja med J. Vošnjakom in V. Spinčićem" source="Arhivski vjesnik"
             pubPlace="Zagreb" year="1989" volume="32" page="113-123"/>
     </delo>
-    <delo mojID="17437">
+    <delo mojID="17437" cobiss="4779315">
         <naslov>Iz dopisovanja med škofom J. Szilyjem in Miklošem Küzmičem v zvezi s sedmimi
                         Küzmičevimi knjigami</naslov>
         <cit did="3465" cid="106" avtor0="Škafar Ivan"
             naslov0="Iz dopisovanja med škofom J. Szilyjem in Miklošem Küzmičem v zvezi s sedmimi Küzmičevimi knjigami"
             source="Slavistična revija" year="1975" volume="23" page="87-112"/>
     </delo>
-    <delo mojID="17441">
+    <delo mojID="17441" cobiss="32997377">
         <naslov>Iz Dubrovačkog arhiva I</naslov>
         <cit did="314" cid="6" avtor0="Dinić M." naslov0="Iz Dubrovačkog arhiva I"
             pubPlace="Beograd" year="1957" page="35-90"/>
     </delo>
-    <delo mojID="17442">
+    <delo mojID="17442" cobiss="33091329">
         <naslov>Iz Dubrovačkog arhiva II</naslov>
         <cit did="314" cid="5" avtor0="Dinić M." naslov0="Iz Dubrovačkog arhiva II"
             pubPlace="Beograd" year="1963"/>
     </delo>
-    <delo mojID="17443">
+    <delo mojID="17443" cobiss="33094913">
         <naslov>Iz Dubrovačkog arhiva III</naslov>
         <cit did="310" cid="9" avtor0="Dinić M." naslov0="Iz Dubrovačkog arhiva III"
             pubPlace="Beograd" year="1967" page="185"/>
@@ -35174,46 +35174,46 @@
             source="Istoriski glasnik" pubPlace="Beograd" publisher="Društvo istoričara SR Srbije"
             year="1949" issue="3" page="3-23"/>
     </delo>
-    <delo mojID="17456">
+    <delo mojID="17456" cobiss="68049920">
         <naslov>Iz katerih območij v Jugoslaviji so prihajali, kje v Sloveniji so se
                         naselili: selitve prebivalstva v Slovenijo v letih 1982-1990</naslov>
         <cit did="2861" cid="24" avtor0="Kodelja Jerina"
             naslov0="Iz katerih območij v Jugoslaviji so prihajali, kje v Sloveniji so se naselili: selitve prebivalstva v Slovenijo v letih 1982-1990"
             source="IB Revija" year="1992" volume="26" issue="1/2" page="12-17"/>
     </delo>
-    <delo mojID="17458">
+    <delo mojID="17458" cobiss="6805255">
         <naslov>Iz kolijevke hrvatske prošlosti</naslov>
         <cit did="328" cid="28" avtor0="Karman L." naslov0="Iz kolijevke hrvatske prošlosti"
             pubPlace="Zagreb" year="1930"/>
     </delo>
-    <delo mojID="17459">
+    <delo mojID="17459" cobiss="1104400990">
         <naslov>Iz koncertne dvorane</naslov>
         <cit did="370" cid="48" avtor0="Kogoj Marij" naslov0="Iz koncertne dvorane"
             source="Dom in svet" year="1920" page="96"/>
     </delo>
-    <delo mojID="17460">
+    <delo mojID="17460" cobiss="11776562">
         <naslov>Iz korespondence Štefana Široka</naslov>
         <cit did="1317" cid="36" avtor0="Marušič Branko" naslov0="Iz korespondence Štefana Široka"
             source="Jadranski koledar" year="1973" issue="183"/>
     </delo>
-    <delo mojID="17461">
+    <delo mojID="17461" cobiss="36578304">
         <naslov>Iz koroških obzorij</naslov>
         <cit did="1292" cid="3" avtor0="Vospernik Reginald" naslov0="Iz koroških obzorij"
             source="Celovški zvon" year="1991" issue="32" page="11-13"/>
     </delo>
-    <delo mojID="17462">
+    <delo mojID="17462" cobiss="46828288">
         <naslov>Iz kreditnega gospodarstva ob koncu srednjega veka</naslov>
         <cit did="2647" cid="387" avtor0="Valenčič Vlado"
             naslov0="Iz kreditnega gospodarstva ob koncu srednjega veka" source="ZČ" year="1993"
             volume="47" page="5-24"/>
     </delo>
-    <delo mojID="17465">
+    <delo mojID="17465" cobiss="667860">
         <naslov>Iz kronike župnije Železna Kapla</naslov>
         <cit did="964" cid="21" avtor0="Till Jože" naslov0="Iz kronike župnije Železna Kapla"
             naslov1="Spomini župnika Aleša Zechnerja iz let nacistične diktature ter povojne osvoboditve"
             source="Koledar Mohorjeve družbe v Celovcu" year="2001" page="48-59"/>
     </delo>
-    <delo mojID="17466">
+    <delo mojID="17466" cobiss="12407041">
         <naslov>Iz krvi in mesa</naslov>
         <cit did="432" cid="14" avtor0="Rožanc Marjan" naslov0="Iz krvi in mesa"
             naslov1="Eseji o slovenskih mitih" pubPlace="Ljubljana" year="1981" page="8"/>
@@ -35229,7 +35229,7 @@
         <cit did="1926" cid="4" avtor0="Gagović S." naslov0="Iz leksike Pive (selo Bezuje)"
             source="Srpski dialektoloski zbornik" pubPlace="Beograd" year="2004" page="1-312"/>
     </delo>
-    <delo mojID="17470">
+    <delo mojID="17470" cobiss="33812834">
         <naslov>Iz Lesc v Ljubljano po francosko: Prispevek k poznavanju jezikovne rabe
                         kranjskega plemstva v prvi polovici 18. stoletja</naslov>
         <cit did="2288" cid="157" avtor0="Štuhec Marko"
@@ -35254,7 +35254,7 @@
             naslov0="Iz ljubljanskih zaporov v beneške ječe" source="Slovenke v NOB I"
             pubPlace="Ljubljana" year="1970" page="333"/>
     </delo>
-    <delo mojID="17475">
+    <delo mojID="17475" cobiss="377654">
         <naslov>Iz manj znanega kranjskega življenja v prejšnjem stoletju</naslov>
         <cit did="2032" cid="26" avtor0="Stariha Gorazd"
             naslov0="Iz manj znanega kranjskega življenja v prejšnjem stoletju" source="Kronika"
@@ -35356,7 +35356,7 @@
         <cit did="47" cid="40" avtor0="Čermelj Lavo" naslov0="Iz okupacijske dobe na Primorskem"
             source="Misel in delo" year="1937" volume="3" page="167-167"/>
     </delo>
-    <delo mojID="17503">
+    <delo mojID="17503" cobiss="22036525">
         <naslov>Iz osnutka za življenjepis Dušana Kermavnerja</naslov>
         <cit did="1683" cid="28" avtor0="Kermauner Taras"
             naslov0="Iz osnutka za življenjepis Dušana Kermavnerja"
@@ -35387,7 +35387,7 @@
             naslov0="Iz politične situacije v Jugoslaviji" source="Zapiski Delavsko-kmetske matice"
             pubPlace="Ljubljana" publisher="Delavsko-kmetska matica" year="1925" page="41-42"/>
     </delo>
-    <delo mojID="17510">
+    <delo mojID="17510" cobiss="538580">
         <naslov>Iz politične zgodovine koroških Slovencev 1905-1914</naslov>
         <cit did="73" cid="118" avtor0="Malle Avguštin"
             naslov0="Iz politične zgodovine koroških Slovencev 1905-1914"
@@ -35402,7 +35402,7 @@
             naslov0="Iz pomorske prošlosti istočnog Jadrana: tragovima hrvatskih kapetana i paruna brodova u Mlecima. Zbornik Odsjeka za povijesne znanosti Zavoda za povijesne i društvene znanosti HAZU u Zagrebu"
             year="2001" volume="19" page="143-182"/>
     </delo>
-    <delo mojID="17513">
+    <delo mojID="17513" cobiss="89789696">
         <naslov>Iz poslednjih let let Krekovega življenja</naslov>
         <cit did="2618" cid="21" avtor0="Dolenec Ivan"
             naslov0="Iz poslednjih let let Krekovega življenja" pubPlace="Ljubljana" year="1929"/>
@@ -35423,7 +35423,7 @@
             naslov0="Iz predzgodovine slovenskega planinskega društva" source="Planinski vestnik"
             year="1964" volume="20" page="102-108, 153-159, 204-212"/>
     </delo>
-    <delo mojID="17519">
+    <delo mojID="17519" cobiss="513101183">
         <naslov>Iz preteklih stoletij Novega mesta</naslov>
         <cit did="1298" cid="92" avtor0="Jarc Janko" naslov0="Iz preteklih stoletij Novega mesta"
             source="Novo mesto, Kulturnozgodovinski vodnik" pubPlace="Novo mesto"
@@ -35447,7 +35447,7 @@
         <cit did="3281" cid="26" avtor0="Malenšek Jože" naslov0="iz prevratniških dni 1918/19"
             source="Boj za Maribor 1918-1919" year="1988"/>
     </delo>
-    <delo mojID="17524">
+    <delo mojID="17524" cobiss="326764">
         <naslov>Iz primorske epopeje: Mirko Brovč in narodna vstaja organizacije TIGR v
                         letih 1938-1941</naslov>
         <cit did="1914" cid="124" avtor0="Rutar Borut"
@@ -35461,12 +35461,12 @@
             naslov0="Iz prostosti Barske nadbiskupije. Pismo barskoga klera i puka papi Benediktu XIV. iz 1743. godine"
             source="Povijesni priloži" pubPlace="Zagreb" year="2006" issue="30" page="129-139"/>
     </delo>
-    <delo mojID="17527">
+    <delo mojID="17527" cobiss="543093">
         <naslov>Iz protokolov ljubljanskih škofov</naslov>
         <cit did="258" cid="1" avtor0="Benedik M." naslov0="Iz protokolov ljubljanskih škofov"
             pubPlace="Ljubljana" year="1984" page="36"/>
     </delo>
-    <delo mojID="17528">
+    <delo mojID="17528" cobiss="8484611">
         <naslov>Iz prošlosti Dukljansko-barske nadbiskupije</naslov>
         <cit did="2340" cid="11" avtor0="Jovović I."
             naslov0="Iz prošlosti Dukljansko-barske nadbiskupije" pubPlace="Bar"
@@ -35483,7 +35483,7 @@
             naslov0="Iz prošlosti Kostela - Pietre Pilose i njegovih sela"
             source="Buzetski zbornik 2." pubPlace="Buzet" year="1977" page="29-50"/>
     </delo>
-    <delo mojID="17532">
+    <delo mojID="17532" cobiss="11610171">
         <naslov>Iz ptujske glasbene preteklosti</naslov>
         <cit did="1912" cid="24" avtor0="Druzovič Hinko" naslov0="Iz ptujske glasbene preteklosti"
             source="Kronika slovenskih mest" year="1938" volume="5" page="171-177"/>
@@ -35500,7 +35500,7 @@
             naslov0="Iz razprave o rapallski pogodbi v rimski zbornici" source="Naša doba"
             year="1930" volume="1" page="460-463"/>
     </delo>
-    <delo mojID="17535">
+    <delo mojID="17535" cobiss="2351450">
         <naslov>Iz reformacije na Slovenskem v katoliško prenovo</naslov>
         <cit did="2238" cid="3" avtor0="Benedik Metod"
             naslov0="Iz reformacije na Slovenskem v katoliško prenovo"
@@ -35577,7 +35577,7 @@
             source="Slovensko narodno vprašanje in slovenski zgodovinski položaj"
             pubPlace="Ljubljana" year="1987" page="56"/>
     </delo>
-    <delo mojID="17554">
+    <delo mojID="17554" cobiss="13990706">
         <naslov>Iz starejše zgodovine Grgarja</naslov>
         <cit did="2517" cid="31" avtor0="Pavlin Vojko" naslov0="Iz starejše zgodovine Grgarja"
             source="Grgarski zbornik" publisher="Grgar : Krajevna skupnost in turistično društvo"
@@ -35607,7 +35607,7 @@
             naslov0="Iz vrhniške zgodovine. Kronika - časopis za slovensko krajevno zgodovino"
             source="Zgodovinsko društvo za Slovenijo" year="1961" volume="11" issue="1"/>
     </delo>
-    <delo mojID="17570">
+    <delo mojID="17570" cobiss="24790061">
         <naslov>Iz zakladnice priimkov : priimek Hrovat</naslov>
         <cit did="3418" cid="4" avtor0="Keber Janez"
             naslov0="Iz zakladnice priimkov : priimek Hrovat" source="Dnevnik (18. november 2005)"
@@ -35630,13 +35630,13 @@
         <cit did="3022" cid="185" avtor0="Albreht Fran" naslov0="Iz zaprašenih predalov"
             source="NRazgl" year="1955" page="222"/>
     </delo>
-    <delo mojID="17575">
+    <delo mojID="17575" cobiss="226826752">
         <naslov>Iz zapuščine Josipine Hočevar: gospodarstvo in štipendijski skladi</naslov>
         <cit did="2599" cid="7" avtor0="Černelič Krošelj Alenka"
             naslov0="Iz zapuščine Josipine Hočevar: gospodarstvo in štipendijski skladi"
             source="Valvasorjev raziskovalni center Krško" pubPlace="Krško" year="2006"/>
     </delo>
-    <delo mojID="17577">
+    <delo mojID="17577" cobiss="115138048">
         <naslov>Iz zgodovine antične grške filozofije</naslov>
         <cit did="1905" cid="3" avtor0="Zore Franci" naslov0="Iz zgodovine antične grške filozofije"
             pubPlace="Ljubljana" year="2001" page="34"/>
@@ -35664,7 +35664,7 @@
             source="Gostinski šolksi center &#34;58-68&#34;" pubPlace="Maribor" year="1968"
             page="20"/>
     </delo>
-    <delo mojID="17588">
+    <delo mojID="17588" cobiss="10872625">
         <naslov>Iz zgodovine naših gradov</naslov>
         <cit did="375" cid="19" avtor0="Poklar Franc" naslov0="Iz zgodovine naših gradov"
             source="Bistriški zapisi" year="2005" issue="6" page="19-20"/>
@@ -35675,18 +35675,18 @@
             naslov0="Iz zgodovine otroške bolnišnice v Ljubljani"
             source="Priroda, človek in zdravje" year="1956" issue="11-12" page="180"/>
     </delo>
-    <delo mojID="17592">
+    <delo mojID="17592" cobiss="1354801">
         <naslov>Iz zgodovine Portoroža</naslov>
         <cit did="1999" cid="32" avtor0="Pucer A." naslov0="Iz zgodovine Portoroža"
             source="Portorožan" pubPlace="Portorož" year="1994" volume="4,9,10,11"/>
     </delo>
-    <delo mojID="17596">
+    <delo mojID="17596" cobiss="693761">
         <naslov>Iz zgodovine rudarskih stavk v trboveljskem revirju</naslov>
         <cit did="1683" cid="8" avtor0="Kermavner Dušan"
             naslov0="Iz zgodovine rudarskih stavk v trboveljskem revirju" pubPlace="Ljubljana"
             year="1950"/>
     </delo>
-    <delo mojID="17597">
+    <delo mojID="17597" cobiss="11641650">
         <naslov>Iz zgodovine slovenskega pomorstva v Trstu</naslov>
         <cit did="2394" cid="19" avtor0="Vilhar Srečko"
             naslov0="Iz zgodovine slovenskega pomorstva v Trstu" source="Jadranski koledar za leto"
@@ -35716,7 +35716,7 @@
         <cit did="112" cid="32" avtor0="Horvat Stanka" naslov0="Iz zgodovine srednjega veka"
             source="Ljudje in kraji ob Pivki" pubPlace="Postojna" year="1975" page="75"/>
     </delo>
-    <delo mojID="17608">
+    <delo mojID="17608" cobiss="155775">
         <naslov>Iz zgodovine zlatarske in pasarske obrti v Mariboru</naslov>
         <cit did="2614" cid="95" avtor0="Simoniti M."
             naslov0="Iz zgodovine zlatarske in pasarske obrti v Mariboru"
@@ -35742,32 +35742,32 @@
             naslov0="Iz časov ječmenove kave : Življenjepisi Štajercev in Kranjcev ob sotočju rek Krke, Save in Sotle"
             pubPlace="Novo mesto" publisher="Dolenjska založba" year="1998"/>
     </delo>
-    <delo mojID="17613">
+    <delo mojID="17613" cobiss="2223924">
         <naslov>Iz šole za narod</naslov>
         <cit did="3377" cid="14" avtor0="Jurančič Josip" naslov0="Iz šole za narod"
             pubPlace="Ljubljana" year="1930"/>
     </delo>
-    <delo mojID="17617">
+    <delo mojID="17617" cobiss="1251028">
         <naslov>Iz življenja na obronkih: Spomini</naslov>
         <cit did="2900" cid="90" avtor0="Schlapper Tonči"
             naslov0="Iz življenja na obronkih: Spomini" pubPlace="Klagenfurt/Celovec" year="2004"/>
     </delo>
-    <delo mojID="17619">
+    <delo mojID="17619" cobiss="3206401">
         <naslov>Izabrana djela</naslov>
         <cit did="1606" cid="4" avtor0="Brlič-Mažuranič I.,Milčinovič A., Markovič Z."
             naslov0="Izabrana djela" pubPlace="Zagreb" publisher="Matica hrvatska" year="1968"/>
     </delo>
-    <delo mojID="17621">
+    <delo mojID="17621" cobiss="11276807">
         <naslov>Izabrani govori i članci</naslov>
         <cit did="3219" cid="5" avtor0="Ranković Aleksandar" naslov0="Izabrani govori i članci"
             pubPlace="Beograd" publisher="Kultura" year="1951"/>
     </delo>
-    <delo mojID="17622">
+    <delo mojID="17622" cobiss="11053063">
         <naslov>Izabrani govori i članci 1941-1947</naslov>
         <cit did="860" cid="89" avtor0="Pijade Moša" naslov0="Izabrani govori i članci 1941-1947"
             pubPlace="Beograd" year="1948"/>
     </delo>
-    <delo mojID="17623">
+    <delo mojID="17623" cobiss="44554753">
         <naslov>Izabrani politički spisi</naslov>
         <cit did="1894" cid="3" avtor0="Trumbić Ante" naslov0="Izabrani politički spisi"
             pubPlace="Zagreb" year="1998" page="272"/>
@@ -35782,23 +35782,23 @@
         <cit did="1760" cid="183" avtor0="Starčevič Ante" naslov0="Izabrani spisi" pubPlace="Zagreb"
             year="1943"/>
     </delo>
-    <delo mojID="17626">
+    <delo mojID="17626" cobiss="1363721">
         <naslov>Izabrani spisi</naslov>
         <cit did="306" cid="15" avtor0="Bulić F." naslov0="Izabrani spisi" pubPlace="Split"
             year="1984"/>
     </delo>
-    <delo mojID="17628">
+    <delo mojID="17628" cobiss="8695089">
         <naslov>Izazovi povijesnog zanata. Lokalna povijest i sveopći modeli</naslov>
         <cit did="2018" cid="26" avtor0="Bertoša M."
             naslov0="Izazovi povijesnog zanata. Lokalna povijest i sveopći modeli" pubPlace="Zagreb"
             publisher="Antibarbarus" year="2002"/>
     </delo>
-    <delo mojID="17629">
+    <delo mojID="17629" cobiss="920606">
         <naslov>Izbarno delo</naslov>
         <cit did="234" cid="38" avtor0="Prijatelj Ivan" naslov0="Izbarno delo"
             naslov1="Druga knjiga" pubPlace="Ljubljana" year="1970" page="22"/>
     </delo>
-    <delo mojID="17631">
+    <delo mojID="17631" cobiss="10769485">
         <naslov>Izbira jezika v medkulturni komunikaciji - ekonomski vidik. Predstavitev
                         izbranih empiričnih rezultatov</naslov>
         <cit did="2753" cid="18" avtor0="Novak Lukanovič Sonja"
@@ -35824,7 +35824,7 @@
         <cit did="1561" cid="9" avtor0="Jakulj Ivan"
             naslov0="Izbor pape od svetog Petra do Benedikta XVI." pubPlace="Split" year="2007"/>
     </delo>
-    <delo mojID="17637">
+    <delo mojID="17637" cobiss="4206083">
         <naslov>Izbor prekmurskega slovstva</naslov>
         <cit did="3465" cid="84" avtor0="Novak Vilko" naslov0="Izbor prekmurskega slovstva"
             pubPlace="Ljubljana" publisher="Zadruga katoliških duhovnikov" year="1976"/>
@@ -35840,30 +35840,30 @@
             naslov0="Izbrali so si geslo: Ne koristi, ne slave!" source="Slamnik 2004" year="2022"
             issue="16" page="12"/>
     </delo>
-    <delo mojID="17643">
+    <delo mojID="17643" cobiss="31817570">
         <naslov>Izbrana bibliografija o protestantizmu na Slovenskem (1995-2006)</naslov>
         <cit did="2660" cid="31" avtor0="Cindrič Alojz"
             naslov0="Izbrana bibliografija o protestantizmu na Slovenskem (1995-2006)"
             source="Protestantizem, slovenska identiteta in združujoča se Evropa"
             pubPlace="Ljubljana" year="2006" page="387-430"/>
     </delo>
-    <delo mojID="17647">
+    <delo mojID="17647" cobiss="339756">
         <naslov>Izbrana dela II—I V.</naslov>
         <cit did="2948" cid="18" avtor0="Lenin Vladimir lljič" naslov0="Izbrana dela II—I V."
             pubPlace="Ljubljana" publisher="CZ" year="1949"/>
     </delo>
-    <delo mojID="17649">
+    <delo mojID="17649" cobiss="4054272">
         <naslov>Izbrana pisma Louisa Adamiča</naslov>
         <cit did="2745" cid="9" avtor0="Christian Henry A." naslov0="Izbrana pisma Louisa Adamiča"
             pubPlace="Ljubljana" publisher="Cankarjeva založba" year="1981"/>
     </delo>
-    <delo mojID="17651">
+    <delo mojID="17651" cobiss="4012032">
         <naslov>Izbrana poglavja iz psihologije telesne vzgoje in športa</naslov>
         <cit did="708" cid="51" avtor0="Tancig S."
             naslov0="Izbrana poglavja iz psihologije telesne vzgoje in športa" pubPlace="Ljubljana"
             publisher="Fakulteta za telesno kulturo" year="1987"/>
     </delo>
-    <delo mojID="17652">
+    <delo mojID="17652" cobiss="77816832">
         <naslov>Izbrane listine Zgodovinskega arhiva Ljubljana : (1320-1782) : transkripcija
                         z registri in komentarji : (1320-1782) : transkripcije z regesti in
                         kometarji</naslov>
@@ -35871,7 +35871,7 @@
             naslov0="Izbrane listine Zgodovinskega arhiva Ljubljana : (1320-1782) : transkripcija z registri in komentarji&#xA;: (1320-1782) : transkripcije z regesti in kometarji"
             pubPlace="Ljubljana" publisher="Zgodovinski arhiv" year="1998"/>
     </delo>
-    <delo mojID="17653">
+    <delo mojID="17653" cobiss="4327479">
         <naslov>Izbrane pesmi</naslov>
         <cit did="302" cid="15" avtor0="Župančič Oton" naslov0="Izbrane pesmi" pubPlace="Ljubljana"
             publisher="SKZ" year="1950" page="265-266"/>
@@ -35881,107 +35881,107 @@
         <cit did="1635" cid="14" avtor0="Gspan Alfonz" naslov0="Izbrane pesmi Valentina Vodnika"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1958"/>
     </delo>
-    <delo mojID="17656">
+    <delo mojID="17656" cobiss="57624064">
         <naslov>Izbrane razprave in eseji</naslov>
         <cit did="408" cid="4" avtor0="Lenček R. L." naslov0="Izbrane razprave in eseji"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1996"/>
     </delo>
-    <delo mojID="17657">
+    <delo mojID="17657" cobiss="39582209">
         <naslov>Izbrane razprave in članki</naslov>
         <cit did="2612" cid="166" avtor0="Zelko Ivan" naslov0="Izbrane razprave in članki"
             pubPlace="Murska Sobota" year="1996"/>
     </delo>
-    <delo mojID="17658">
+    <delo mojID="17658" cobiss="805121">
         <naslov>Izbrani eseji I.</naslov>
         <cit did="2871" cid="34" avtor0="Prijatelj Ivan" naslov0="Izbrani eseji I."
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1952"/>
     </delo>
-    <delo mojID="17659">
+    <delo mojID="17659" cobiss="1889025">
         <naslov>Izbrani filozofski spisi</naslov>
         <cit did="3433" cid="10" avtor0="Leibniz, Gottfried Wilhelm"
             naslov0="Izbrani filozofski spisi" pubPlace="Ljubljana" publisher="Slovenska matica"
             year="1979"/>
     </delo>
-    <delo mojID="17660">
+    <delo mojID="17660" cobiss="1887489">
         <naslov>Izbrani filozofski spisi</naslov>
         <cit did="2765" cid="51" avtor0="Sodnik-Zupanec Alma" naslov0="Izbrani filozofski spisi"
             pubPlace="Ljubljana" publisher="Slovenska matica"/>
     </delo>
-    <delo mojID="17662">
+    <delo mojID="17662" cobiss="120795648">
         <naslov>Izbrani pedagoški spisi: vstop v kurikularne teorije</naslov>
         <cit did="2635" cid="63" avtor0="Kroflič Robi"
             naslov0="Izbrani pedagoški spisi: vstop v kurikularne teorije" pubPlace="Ljubljana"
             year="2002" page="53-54"/>
     </delo>
-    <delo mojID="17663">
+    <delo mojID="17663" cobiss="33545217">
         <naslov>Izbrani planinski spisi : I. del</naslov>
         <cit did="3365" cid="173" avtor0="Mlakar Janko" naslov0="Izbrani planinski spisi : I. del"
             pubPlace="Ljubljana" publisher="Slovensko planinsko društvo" year="1938"/>
     </delo>
-    <delo mojID="17664">
+    <delo mojID="17664" cobiss="203835">
         <naslov>Izbrani spisi</naslov>
         <cit did="2948" cid="31" avtor0="Luxemburg Rosa" naslov0="Izbrani spisi"
             pubPlace="Ljubljana" publisher="CZ" year="1977"/>
     </delo>
-    <delo mojID="17666">
+    <delo mojID="17666" cobiss="774145">
         <naslov>Izbrani spisi</naslov>
         <cit did="2634" cid="55" avtor0="Vodnik Valentin" naslov0="Izbrani spisi"
             pubPlace="Ljubljana" publisher="Matica slovenska" year="0"/>
     </delo>
-    <delo mojID="17667">
+    <delo mojID="17667" cobiss="78350336">
         <naslov>Izbrani spisi</naslov>
         <cit did="1931" cid="2" avtor0="Benjamin W." naslov0="Izbrani spisi" pubPlace="Ljubljana"
             publisher="Studia Humanitatis" year="1998"/>
     </delo>
-    <delo mojID="17669">
+    <delo mojID="17669" cobiss="474369">
         <naslov>Izbrani spisi</naslov>
         <cit did="237" cid="34" avtor0="Pregelj Ivan" naslov0="Izbrani spisi" naslov1="Drugi zvezek"
             pubPlace="Ljubljana" year="1928" page="247"/>
     </delo>
-    <delo mojID="17678">
+    <delo mojID="17678" cobiss="33015553">
         <naslov>Izbrano delo</naslov>
         <cit did="2274" cid="41" avtor0="Novačan Anton" naslov0="Izbrano delo" pubPlace="Maribor"
             publisher="Obzorja" year="1993"/>
     </delo>
-    <delo mojID="17682">
+    <delo mojID="17682" cobiss="476233">
         <naslov>Izbrano delo</naslov>
         <cit did="238" cid="7" avtor0="Kidrič Boris" naslov0="Izbrano delo" pubPlace="Ljubljana"
             year="1972" page="59-76"/>
     </delo>
-    <delo mojID="17683">
+    <delo mojID="17683" cobiss="129334">
         <naslov>Izbrano delo</naslov>
         <cit did="238" cid="11"
             avtor0="Pohlin Marko,  Zois Žiga,  Linhart Anton Tomaž, Vodnik  Valentin"
             naslov0="Izbrano delo" pubPlace="Ljubljana" year="1970" page="35"/>
     </delo>
-    <delo mojID="17684">
+    <delo mojID="17684" cobiss="4050947">
         <naslov>Izbrano delo</naslov>
         <cit did="234" cid="20" avtor0="Kardelj Edvard" naslov0="Izbrano delo"
             naslov1="Prva knjiga : Razvoj slovenskega narodnega vprašanja" pubPlace="Ljubljana"
             year="1973" page="28"/>
     </delo>
-    <delo mojID="17685">
+    <delo mojID="17685" cobiss="4508424">
         <naslov>Izbrano delo</naslov>
         <cit did="231" cid="14" avtor0="Trdina Janez" naslov0="Izbrano delo" naslov1="Prva knjiga"
             pubPlace="Ljubljana" year="1971" page="321"/>
     </delo>
-    <delo mojID="17686">
+    <delo mojID="17686" cobiss="614199">
         <naslov>Izbrano delo</naslov>
         <cit did="230" cid="15" avtor0="Pugelj Milan, Novačan Anton, Golar Cvetko"
             naslov0="Izbrano delo" pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1971"
             page="131"/>
     </delo>
-    <delo mojID="17690">
+    <delo mojID="17690" cobiss="626743">
         <naslov>Izbrano delo Il/2</naslov>
         <cit did="3002" cid="14" avtor0="Kosovel Srečko" naslov0="Izbrano delo Il/2"
             pubPlace="Ljubljana" publisher="MK" year="1977"/>
     </delo>
-    <delo mojID="17691">
+    <delo mojID="17691" cobiss="4183043">
         <naslov>Izbrano delo V</naslov>
         <cit did="230" cid="13" avtor0="Kranjec Miško" naslov0="Izbrano delo V" pubPlace="Ljubljana"
             year="1973" page="588-589"/>
     </delo>
-    <delo mojID="17692">
+    <delo mojID="17692" cobiss="4505352">
         <naslov>Izbrano delo VI</naslov>
         <cit did="230" cid="6" avtor0="Cankar Ivan" naslov0="Izbrano delo VI" pubPlace="Ljubljana"
             year="1970" page="126"/>
@@ -35991,7 +35991,7 @@
         <cit did="3287" cid="66" avtor0="Gačič Siniša" naslov0="Izbrisane pred puškomitraljez!"
             source="Mladina" pubPlace="Ljubljana" year="2005" issue="9"/>
     </delo>
-    <delo mojID="17696">
+    <delo mojID="17696" cobiss="222098944">
         <naslov>Izbruh na Tabrah</naslov>
         <cit did="2037" cid="5" avtor0="Košir Stanko" naslov0="Izbruh na Tabrah"
             pubPlace="Gozd Martuljek" publisher="samozaložba" year="2005"/>
@@ -36011,7 +36011,7 @@
         <cit did="1464" cid="85" avtor0="Miljatović Anđelko"
             naslov0="Izdan nalog za pokret prema Bleiburgu" source="Vjesnik" year="2020" page="63"/>
     </delo>
-    <delo mojID="17700">
+    <delo mojID="17700" cobiss="398615">
         <naslov>Izdana revolucija</naslov>
         <cit did="1882" cid="40" avtor0="Trocki Lev" naslov0="Izdana revolucija" pubPlace="Reka"
             publisher="Otokar Keršovani" year="1973" page="118-123"/>
@@ -36027,20 +36027,20 @@
             naslov0="Izdavačko preduzeče ministarstva rada FNRJ" pubPlace="Beograd" year="1948"
             page="74-82"/>
     </delo>
-    <delo mojID="17704">
+    <delo mojID="17704" cobiss="11809890">
         <naslov>Izdelovalci pihal na Slovenskem in njihova dediščina</naslov>
         <cit did="1912" cid="72" avtor0="Koter Darja"
             naslov0="Izdelovalci pihal na Slovenskem in njihova dediščina"
             source="Muzikološki zbornik" year="1999" volume="35" page="147-165"/>
     </delo>
-    <delo mojID="17705">
+    <delo mojID="17705" cobiss="240480768">
         <naslov>Izdelovanje orodja, strojev in orožja, orožarne in skladišča smodnika v
                         Ljubljani</naslov>
         <cit did="2614" cid="91" avtor0="Slokar Ivan"
             naslov0="Izdelovanje orodja, strojev in orožja, orožarne in skladišča smodnika v Ljubljani"
             source="Kronika" year="1960" volume="8" page="174-183"/>
     </delo>
-    <delo mojID="17706">
+    <delo mojID="17706" cobiss="48559360">
         <naslov>Izdelovanje prunel v Brdih</naslov>
         <cit did="2793" cid="24" avtor0="Kogej Katja" naslov0="Izdelovanje prunel v Brdih"
             source="Etnolog" year="1992" volume="53" issue="2/1" page="19-27"/>
@@ -36050,20 +36050,20 @@
         <cit did="531" cid="6" avtor0="Korošec Anton" naslov0="Izgledi v leto 1928"
             source="Slovenec" year="2011"/>
     </delo>
-    <delo mojID="17710">
+    <delo mojID="17710" cobiss="311598">
         <naslov>Izgradnja istorijskog sveta u duhovnim naukom</naslov>
         <cit did="272" cid="287" avtor0="Dilthey Vilhem"
             naslov0="Izgradnja istorijskog sveta u duhovnim naukom" pubPlace="Beograd" year="1980"
             page="278"/>
     </delo>
-    <delo mojID="17711">
+    <delo mojID="17711" cobiss="1587060">
         <naslov>Izgredi ob obisku čeških visokošolcev v Celju</naslov>
         <cit did="123" cid="9" avtor0="Studen Andrej"
             naslov0="Izgredi ob obisku čeških visokošolcev v Celju"
             source="Slovenska kronika XIX. stoletja : 1884-1899" pubPlace="Ljubljana" volume="2003"
             page="339-340"/>
     </delo>
-    <delo mojID="17713">
+    <delo mojID="17713" cobiss="55907328">
         <naslov>Izgubljena bitka J. V. Staljina</naslov>
         <cit did="1324" cid="101" avtor0="Dedijer V." naslov0="Izgubljena bitka J. V. Staljina"
             pubPlace="Sarajevo-Beograd" publisher="Svjetlost-&#xA;Oslobodjenje - Prosveta"
@@ -36076,30 +36076,30 @@
             publisher="Zavod Republike Slovenije za varstvo naravne in kulturne dediščine"
             year="1993"/>
     </delo>
-    <delo mojID="17717">
+    <delo mojID="17717" cobiss="31461633">
         <naslov>Izgubljena zemlja</naslov>
         <cit did="232" cid="40" avtor0="Šunderl Makso" naslov0="Izgubljena zemlja"
             pubPlace="Maribor" publisher="Tiskovna založba" year="1934"/>
     </delo>
-    <delo mojID="17719">
+    <delo mojID="17719" cobiss="87345664">
         <naslov>Izgubljeni bog. Resnična povest, tiskana z nedovoljenjem visokočastitega
                         knezoškofijskega ordinariata</naslov>
         <cit did="3427" cid="14" avtor0="Tavčar Ivan"
             naslov0="Izgubljeni bog. Resnična povest, tiskana z nedovoljenjem visokočastitega knezoškofijskega ordinariata"
             pubPlace="Ljubljana" year="1900"/>
     </delo>
-    <delo mojID="17723">
+    <delo mojID="17723" cobiss="6661197">
         <naslov>Izgubljeno pleme</naslov>
         <cit did="504" cid="13" avtor0="Kreft Lev" naslov0="Izgubljeno pleme" source="Razgledi"
             year="0" issue="19" page="13"/>
     </delo>
-    <delo mojID="17725">
+    <delo mojID="17725" cobiss="73443072">
         <naslov>Izhodišča in smer katoliškega družbenega nauka</naslov>
         <cit did="1804" cid="17" avtor0="Kremžar Marko"
             naslov0="Izhodišča in smer katoliškega družbenega nauka" pubPlace="Ljubljana"
             year="1998" page="90"/>
     </delo>
-    <delo mojID="17727">
+    <delo mojID="17727" cobiss="64925952">
         <naslov>Izhodišča za nov narodnostni program koroških Slovencev</naslov>
         <cit did="1292" cid="2" avtor0="Šturm Marjan"
             naslov0="Izhodišča za nov narodnostni program koroških Slovencev" source="Naši razgledi"
@@ -36111,14 +36111,14 @@
             naslov0="Izidin trag — Egipatski kultni spomenici u rimskom Iliriku" pubPlace="Split"
             year="1997"/>
     </delo>
-    <delo mojID="17732">
+    <delo mojID="17732" cobiss="82084865">
         <naslov>Izigravanje zakona o agrarni reformi v predaprilski Jugoslaviji na primeru
                         falske graščinske veleposesti</naslov>
         <cit did="305" cid="4" avtor0="Zgonik Mavricij"
             naslov0="Izigravanje zakona o agrarni reformi v predaprilski Jugoslaviji na primeru falske graščinske veleposesti"
             source="ČZN" year="1977" page="259-264"/>
     </delo>
-    <delo mojID="17734">
+    <delo mojID="17734" cobiss="2650484">
         <naslov>„Izjava enega zanesljivega Slovenca zadostuje" : denunciacije pronemških
                         elementov po razpadu habsburške monarhije v dokumentih okrajnega sodišča
                         Slovenske Konjice</naslov>
@@ -36175,25 +36175,25 @@
         <cit did="3022" cid="201" avtor0="Tito Josip Broz" naslov0="Izključitve" source="ZD"
             issue="4" page="172"/>
     </delo>
-    <delo mojID="17749">
+    <delo mojID="17749" cobiss="5236525">
         <naslov>Izkopavanja, ki jih je (so)financiral inštitut</naslov>
         <cit did="1915" cid="1" avtor0="Belak M."
             naslov0="Izkopavanja, ki jih je (so)financiral inštitut"
             source="Inštitut za arheologijo polstoletnik" pubPlace="Ljubljana" publisher="ZRC SAZU"
             year="1997" page="98-105"/>
     </delo>
-    <delo mojID="17752">
+    <delo mojID="17752" cobiss="7596803">
         <naslov>Izkustvena znanost, svetovni nazor, svoboda vesti</naslov>
         <cit did="826" cid="155" avtor0="Janžekovič Janez"
             naslov0="Izkustvena znanost, svetovni nazor, svoboda vesti" source="Nova pot"
             year="1952" issue="4-6" page="72-86"/>
     </delo>
-    <delo mojID="17753">
+    <delo mojID="17753" cobiss="82578688">
         <naslov>Izkustveno dušeslovje</naslov>
         <cit did="2016" cid="39" avtor0="Gabršek Fran" naslov0="Izkustveno dušeslovje"
             pubPlace="Ljubljana" year="0"/>
     </delo>
-    <delo mojID="17756">
+    <delo mojID="17756" cobiss="5539917">
         <naslov>Izkušnja NOB v pričevanju tržaških borcev</naslov>
         <cit did="1612" cid="14" avtor0="Verginella Marta"
             naslov0="Izkušnja NOB v pričevanju tržaških borcev" pubPlace="Koper"
@@ -36224,14 +36224,14 @@
         <cit did="385" cid="56" avtor0="Škrlj R." naslov0="Izložba cenenih sladkarij"
             source="Primorske novice" pubPlace="Koper" year="1977"/>
     </delo>
-    <delo mojID="17762">
+    <delo mojID="17762" cobiss="289294">
         <naslov>Izmedju reakcije i revolucije (Tra reazione e rivoluzione. Dal
                         sozialfascizmo alia guerra di Spagna)</naslov>
         <cit did="1981" cid="21" avtor0="Longo L."
             naslov0="Izmedju reakcije i revolucije (Tra reazione e rivoluzione. Dal sozialfascizmo alia guerra di Spagna)"
             pubPlace="Beograd" publisher="Komunist" year="1980"/>
     </delo>
-    <delo mojID="17763">
+    <delo mojID="17763" cobiss="137009676">
         <naslov>Između anarhije i autokratije, Srpsko društvo na prelazima vekova
                         (XIX-XXI)</naslov>
         <cit did="2178" cid="3" avtor0="Perović L."
@@ -36248,14 +36248,14 @@
         <cit did="334" cid="240" avtor0="Peruško Tone" naslov0="Između Lima i Dragonje"
             source="U svome vremenu" pubPlace="Pula-Rijeka" year="1984" page="118"/>
     </delo>
-    <delo mojID="17766">
+    <delo mojID="17766" cobiss="1307508">
         <naslov>Između obrazovanja i denacionalizacije</naslov>
         <cit did="386" cid="16" avtor0="Cukrov Ante"
             naslov0="Između obrazovanja i denacionalizacije"
             naslov1="Lega Nazionale i njezine škole u Istri krajem 19. i početkom 20. stoljeća"
             pubPlace="Pula" publisher="Cash" year="2001"/>
     </delo>
-    <delo mojID="17767">
+    <delo mojID="17767" cobiss="134109452">
         <naslov>Između srpa i čekića: represija u Srbiji 1944–1953</naslov>
         <cit did="2804" cid="2" avtor0="Cvetković Srđan"
             naslov0="Između srpa i čekića: represija u Srbiji 1944–1953" pubPlace="Beograd"
@@ -36268,7 +36268,7 @@
             source="Radio Slobodna Evropa Online, http://www.slobodnaevropa.org/content/ izmijenjen_nacin_glasanja_dijaspore_i_manjina/2248313.html"
             year="2010"/>
     </delo>
-    <delo mojID="17770">
+    <delo mojID="17770" cobiss="64920576">
         <naslov>Iznajdba duše</naslov>
         <cit did="432" cid="23" avtor0="Le Goff Jacques" naslov0="Iznajdba duše"
             source="Naši razgledi" year="0"/>
@@ -36279,7 +36279,7 @@
             naslov0="Izobrazba trgovskih vajencev in dolžnost naših gremijev" source="TT"
             year="1925" issue="5"/>
     </delo>
-    <delo mojID="17775">
+    <delo mojID="17775" cobiss="2043252">
         <naslov>Izobraževanje</naslov>
         <cit did="3241" cid="351" avtor0="Dolenc Ervin" naslov0="Izobraževanje"
             source="SNZ 1848-1992, 1. knjiga"/>
@@ -36290,7 +36290,7 @@
             naslov1="Pred posvetovanjem prosvetnih aktivistov Jugoslavije v Sarajevu"
             source="Delavska enotnost" year="1957" volume="16" issue="4" page="7"/>
     </delo>
-    <delo mojID="17777">
+    <delo mojID="17777" cobiss="11678002">
         <naslov>Izobraževanje goriške duhovščine med prvo svetovno vojno</naslov>
         <cit did="2440" cid="14" avtor0="Podberšič Renato"
             naslov0="Izobraževanje goriške duhovščine med prvo svetovno vojno"
@@ -36308,7 +36308,7 @@
         <cit did="1394" cid="2" avtor0="Stražar Stane" naslov0="Izobraževanje in razvoj šolstva"
             naslov1="tipkopis (hrani avtorica)"/>
     </delo>
-    <delo mojID="17780">
+    <delo mojID="17780" cobiss="40951906">
         <naslov>Izobraževanje na področju slovenščine kot drugega in tujega jezika</naslov>
         <cit did="2931" cid="25" avtor0="Pirih Svetina Nataša"
             naslov0="Izobraževanje na področju slovenščine kot drugega in tujega jezika"
@@ -36322,14 +36322,14 @@
             source="Gospodarski koledar 1960" pubPlace="Ljubljana" publisher="Nova proizvodnja"
             year="1960" page="32-33"/>
     </delo>
-    <delo mojID="17785">
+    <delo mojID="17785" cobiss="70417920">
         <naslov>Izobraževanje za kakovost: Organizacija, informatika, kadri privodenju in
                         upravljanju družb: XIIL posvetovanje organizatorjev dela, Portorož</naslov>
         <cit did="1513" cid="168" avtor0="Svetec Zoran"
             naslov0="Izobraževanje za kakovost: Organizacija, informatika, kadri privodenju in upravljanju družb: XIIL posvetovanje organizatorjev dela, Portorož"
             pubPlace="Kranj" publisher="Moderna organizacija" year="1994"/>
     </delo>
-    <delo mojID="17786">
+    <delo mojID="17786" cobiss="1464833">
         <naslov>Izobčeni, izbrisani</naslov>
         <cit did="2287" cid="6" avtor0="Conquest Robert" naslov0="Izobčeni, izbrisani"
             pubPlace="Ljubljana" publisher="Cankarjeva založba" year="1972"/>
@@ -36350,7 +36350,7 @@
         <cit did="2744" cid="52" avtor0="Valentin Pater Bazilij" naslov0="Izpod Triglava"
             source="Misli" year="1991" volume="40" issue="7" page="175"/>
     </delo>
-    <delo mojID="17792">
+    <delo mojID="17792" cobiss="14012680">
         <naslov>Izposojenke v narečnih poimenovanjih, vezanih na vrt in sadovnjak, v
                         rogašovskem govoru</naslov>
         <cit did="2076" cid="8" avtor0="Koletnik Mihaela"
@@ -36363,7 +36363,7 @@
         <cit did="1852" cid="7" avtor0="Merlak Ivan" naslov0="Izpoved ranjenca"
             source="Brez milosti" pubPlace="Ljubljana" year="2000" page="195-196"/>
     </delo>
-    <delo mojID="17794">
+    <delo mojID="17794" cobiss="2111235">
         <naslov>Izpovedi</naslov>
         <cit did="428" cid="4" avtor0="Avguštin A." naslov0="Izpovedi" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1978"/>
@@ -36403,13 +36403,13 @@
         <cit did="3359" cid="13" avtor0="Tomaszewski Jerzy" avtor1="Chojnowski Andrzej"
             naslov0="Izrael" pubPlace="Warszawa" publisher="Trio" year="2001"/>
     </delo>
-    <delo mojID="17806">
+    <delo mojID="17806" cobiss="31309568">
         <naslov>Izražanje povratnega dejanja v japonščini in slovenščini</naslov>
         <cit did="1623" cid="17" avtor0="Shigemori Bučar Chikako"
             naslov0="Izražanje povratnega dejanja v japonščini in slovenščini"
             source="Slavistična revija XL/2" year="1992" page="143-157"/>
     </delo>
-    <delo mojID="17807">
+    <delo mojID="17807" cobiss="23806253">
         <naslov>Izredni član Franc Ksaver Lukman (1880-1958)</naslov>
         <cit did="1592" cid="18" avtor0="Bernik France"
             naslov0="Izredni član Franc Ksaver Lukman (1880-1958)"
@@ -36429,14 +36429,14 @@
             source="Zbornik spl. bolnišnice dr. Jožeta Potrča" pubPlace="Ptuj" year="2004"
             page="73-79"/>
     </delo>
-    <delo mojID="17811">
+    <delo mojID="17811" cobiss="6018605">
         <naslov>Izseljenci in Kolodvorska ulica v Ljubljani</naslov>
         <cit did="2080" cid="5" avtor0="Drnovšek M."
             naslov0="Izseljenci in Kolodvorska ulica v Ljubljani"
             source="'Homo sum...'. Ivan Hribar in njegova Ljubljana" pubPlace="Ljubljana"
             publisher="Mestni muzej" year="1997" page="193-203"/>
     </delo>
-    <delo mojID="17816">
+    <delo mojID="17816" cobiss="18766637">
         <naslov>Izseljenec</naslov>
         <cit did="1279" cid="6" avtor0="Drnovšek Marjan" naslov0="Izseljenec"
             naslov1="Življenjske zgodbe Slovencev po svetu"
@@ -36448,7 +36448,7 @@
         <cit did="2567" cid="20" avtor0="Zajc Melita" naslov0="Izseljeni v Gotenico"
             source="Mladina" year="0"/>
     </delo>
-    <delo mojID="17818">
+    <delo mojID="17818" cobiss="26697517">
         <naslov>Izseljenska književnost in časopisje: zgovorne statistike</naslov>
         <cit did="2722" cid="12" avtor0="Žitnik Janja"
             naslov0="Izseljenska književnost in časopisje: zgovorne statistike"
@@ -36468,7 +36468,7 @@
             naslov0="Izseljenski učitelj Svatopulk Stoviček med belgijskimi Slovenci, Izseljenec, življenjske zgodbe Slovencev po svetu"
             pubPlace="Ljubljana" publisher="Muzej novejše zgodovine" year="2001" page="79-83"/>
     </delo>
-    <delo mojID="17822">
+    <delo mojID="17822" cobiss="75606784">
         <naslov>Izseljenski časopis Prosveta skozi prizmo etnologa</naslov>
         <cit did="2718" cid="30" avtor0="Sulič Nives"
             naslov0="Izseljenski časopis Prosveta skozi prizmo etnologa"
@@ -36494,7 +36494,7 @@
             naslov0="Izseljenstvo, naš neobdelan socialni problem" source="Izseljenski vestnik"
             year="1939" issue="3" page="33"/>
     </delo>
-    <delo mojID="17834">
+    <delo mojID="17834" cobiss="9719885">
         <naslov>Izseljevanje prebivalcev iz nekdanjega okraja Koper - cone B Svobodnega
                         tržaškega ozemlja</naslov>
         <cit did="734" cid="12" avtor0="Kostov E."
@@ -36518,14 +36518,14 @@
             source="Neobjavljena seminarska naloga" pubPlace="Ljubljana"
             publisher="Oddelek za etnologijo, Filozofska fakulteta" year="1982"/>
     </delo>
-    <delo mojID="17840">
+    <delo mojID="17840" cobiss="10459949">
         <naslov>Izseljevanje Slovencev v razvite evropske države do leta 1940</naslov>
         <cit did="130" cid="2" avtor0="Drnovšek Marjan"
             naslov0="Izseljevanje Slovencev v razvite evropske države do leta 1940"
             source="Slovenska izseljenska književnost" pubPlace="Ljubljana" year="1999" page="29-60"
         />
     </delo>
-    <delo mojID="17841">
+    <delo mojID="17841" cobiss="18986541">
         <naslov>Izseljevanje Slovencev v Severno Ameriko</naslov>
         <cit did="1279" cid="10" avtor0="Drnovšek Marjan"
             naslov0="Izseljevanje Slovencev v Severno Ameriko"
@@ -36544,14 +36544,14 @@
             naslov0="Izvajanje šolske reforme v polnem teku" source="Gospodarski koledar 1960"
             pubPlace="Ljubljana" publisher="Nova proizvodnja" year="1960" page="20-21"/>
     </delo>
-    <delo mojID="17852">
+    <delo mojID="17852" cobiss="501101">
         <naslov>Izvedbeni model izobraževanja romskih učencev za OŠ Bršljin</naslov>
         <cit did="165" cid="5" avtor0="Krek Janez"
             naslov0="Izvedbeni model izobraževanja romskih učencev za OŠ Bršljin"
             source="Poročilo skupine za spremljanje nestrpnosti 04" pubPlace="Ljubljana"
             publisher="Mirovni inštitut" year="2005" page="6-15"/>
     </delo>
-    <delo mojID="17853">
+    <delo mojID="17853" cobiss="209185024">
         <naslov>Izvenevropski kontinenti za drugi razred meščanskih šol</naslov>
         <cit did="2161" cid="34" avtor0="Radivojević Todor"
             naslov0="Izvenevropski kontinenti za drugi razred meščanskih šol" pubPlace="Beograd"
@@ -36584,7 +36584,7 @@
             source="Voda in življenje v kamniti pokrajini Kras" pubPlace="Ljubljana"
             publisher="Založba ZRC, ZRC SAZU" year="2005" page="294-310"/>
     </delo>
-    <delo mojID="17861">
+    <delo mojID="17861" cobiss="10231857">
         <naslov>Izvirna lesena maketa župnijske cerkve sv. Jurija v Piranu</naslov>
         <cit did="1978" cid="9" avtor0="Guček M."
             naslov0="Izvirna lesena maketa župnijske cerkve sv. Jurija v Piranu"
@@ -36624,7 +36624,7 @@
             naslov1="rokopis iz leta 1945, tipkopis iz leta 1991, v arhivu avtorja"
             pubPlace="Zagreb" year="1945"/>
     </delo>
-    <delo mojID="17871">
+    <delo mojID="17871" cobiss="108214272">
         <naslov>Izvor in oblike kolonata v Brdih</naslov>
         <cit did="1317" cid="105" avtor0="Podveršič Bruno"
             naslov0="Izvor in oblike kolonata v Brdih" source="Briški zbornik" pubPlace="Dobrovo"
@@ -36636,7 +36636,7 @@
             naslov0="Izvor in okolje delavk ljubljanske tobačne tovarne" source="Slovenski etnograf"
             year="1976" volume="29" page="91-100"/>
     </delo>
-    <delo mojID="17874">
+    <delo mojID="17874" cobiss="79363328">
         <naslov>Izvor pogube : Jugoslavija in njeni uničevalci</naslov>
         <cit did="1289" cid="6" avtor0="Zimmermann Warren"
             naslov0="Izvor pogube : Jugoslavija in njeni uničevalci"
@@ -36656,23 +36656,23 @@
             naslov0="Izvori i literatura o bratovštinama u Dalmaciji od srednjega vijeka do pada Mletačka republike"
             source="Croatica christiana periodica" year="1991" volume="27" page="88-96"/>
     </delo>
-    <delo mojID="17878">
+    <delo mojID="17878" cobiss="36460">
         <naslov>Izvori jedne katastrofe [Origins of a Catastrophe]</naslov>
         <cit did="2757" cid="38" avtor0="Zimmerman Warren"
             naslov0="Izvori jedne katastrofe [Origins of a Catastrophe]" pubPlace="Zagreb"
             publisher="Globus" year="1997"/>
     </delo>
-    <delo mojID="17879">
+    <delo mojID="17879" cobiss="37428224">
         <naslov>Izvori krščanskega mističnega izročila</naslov>
         <cit did="409" cid="26" avtor0="Louth A." naslov0="Izvori krščanskega mističnega izročila"
             source="Hieron" pubPlace="Ljubljana" publisher="Nova revija" year="1993"/>
     </delo>
-    <delo mojID="17881">
+    <delo mojID="17881" cobiss="2514696">
         <naslov>Izvori za hrvatsku povijest</naslov>
         <cit did="2521" cid="11" avtor0="Klaić Nada" naslov0="Izvori za hrvatsku povijest"
             pubPlace="Zagreb" publisher="Školska knjiga" year="1972"/>
     </delo>
-    <delo mojID="17883">
+    <delo mojID="17883" cobiss="12389122">
         <naslov>Izvoz vina iz Pirana v letih 1750-1780</naslov>
         <cit did="3539" cid="34" avtor0="Bonin F." naslov0="Izvoz vina iz Pirana v letih 1750-1780"
             source="Kronika" pubPlace="Ljubljana" year="1989" volume="37" page="49-52"/>
@@ -36691,7 +36691,7 @@
             naslov0="Izvoz žitarica iz osmanlijskog carstva u XIV, XV i XVI stoleću..."
             pubPlace="Priština" year="1971"/>
     </delo>
-    <delo mojID="17886">
+    <delo mojID="17886" cobiss="4656649">
         <naslov>Izvršni odbor Hrvatske republikanske seljačke stranke i njegovi otpadnici
                         (1945. - 1948.)</naslov>
         <cit did="1651" cid="13" avtor0="Radelić Zdenko"
@@ -36704,36 +36704,36 @@
             naslov0="Izvzem orožja in streliva iz stražnice Moste, oktober 1990"
             source="Slovenska vojska" year="1999" volume="7" issue="186" page="5"/>
     </delo>
-    <delo mojID="17889">
+    <delo mojID="17889" cobiss="4193283">
         <naslov>Izza kongresa. Zbrani spisi</naslov>
         <cit did="2033" cid="9" avtor0="Tavčar Ivan" naslov0="Izza kongresa. Zbrani spisi"
             pubPlace="Ljubljana" publisher="Tiskovna zadruga" year="1924"/>
     </delo>
-    <delo mojID="17892">
+    <delo mojID="17892" cobiss="2986330">
         <naslov>Izziv ženskega verskega gibanja in mistikinj v srednjem veku</naslov>
         <cit did="106" cid="281" avtor0="Plahutnjak I."
             naslov0="Izziv ženskega verskega gibanja in mistikinj v srednjem veku"
             source="Tretji dan" year="2002" issue="1-2" page="19-29"/>
     </delo>
-    <delo mojID="17894">
+    <delo mojID="17894" cobiss="1744595">
         <naslov>Izzivi medkulturnosti</naslov>
         <cit did="3056" cid="30" avtor0="Sedmak  Mateja" naslov0="Izzivi medkulturnosti"
             source="Podobe obmejnosti" pubPlace="Koper" publisher="Univerzitetna založba Annales"
             year="2009" page="13-35"/>
     </delo>
-    <delo mojID="17895">
+    <delo mojID="17895" cobiss="66358784">
         <naslov>Izzivi odprte družbe: sociološki komentarji (1989-1996)</naslov>
         <cit did="407" cid="8" avtor0="Rizman Rudi"
             naslov0="Izzivi odprte družbe: sociološki komentarji (1989-1996)" pubPlace="Ljubljana"
             publisher="Liberalna akademija" year="1997"/>
     </delo>
-    <delo mojID="17896">
+    <delo mojID="17896" cobiss="24490541">
         <naslov>Iška Loka - bronastodobno naselje na obrobju Ljubljanskega barja</naslov>
         <cit did="1948" cid="34" avtor0="Velušček A."
             naslov0="Iška Loka - bronastodobno naselje na obrobju Ljubljanskega barja"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="2005" volume="56" page="73-89"/>
     </delo>
-    <delo mojID="17897">
+    <delo mojID="17897" cobiss="19822637">
         <naslov>Ižanski člani Družbe sv. Mohorja v letih 1864-1954</naslov>
         <cit did="2623" cid="262" avtor0="Vovko Andrej"
             naslov0="Ižanski člani Družbe sv. Mohorja v letih 1864-1954"
