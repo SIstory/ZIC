@@ -37428,7 +37428,7 @@
         <cit did="385" cid="19" avtor0="Felc J." naslov0="Je bil 11. september performans?"
             source="Primorske novice" pubPlace="Koper" year="0" page="19"/>
     </delo>
-    <delo mojID="18066">
+    <delo mojID="18066" cobiss="42514786">
         <naslov>Je bil proces formiranja slovenskega naroda v 19. stoletju res zgolj končni
                         nasleden tisočletne slovenske kontinuitete?</naslov>
         <cit did="2764" cid="59" avtor0="Kosi Jernej"
@@ -37452,7 +37452,7 @@
             naslov0="Jean Jacques Rousseaus Einfluss auf Joachim Heinrich Campe"
             pubPlace="Neuenburg" publisher="F. Nelson" year="1904"/>
     </delo>
-    <delo mojID="18074">
+    <delo mojID="18074" cobiss="24801117">
         <naslov>Jean Monnet</naslov>
         <cit did="51" cid="251" avtor0="Duchêne François" naslov0="Jean Monnet"
             naslov1="The First Statesman of Independence" pubPlace="New York" year="1994" page="281"
@@ -37534,7 +37534,7 @@
         <cit did="352" cid="20" avtor0="Nešović Branimir"
             naslov0="Jedra lahko razumemo tudi drugače" source="Delo" year="0" page="10"/>
     </delo>
-    <delo mojID="18094">
+    <delo mojID="18094" cobiss="40853248">
         <naslov>Jefferson and the Ordeal of Liberty</naslov>
         <cit did="3276" cid="11" avtor0="Malone Dumas" naslov0="Jefferson and the Ordeal of Liberty"
             pubPlace="Boston" publisher="Brown &amp; Company" year="1962"/>
@@ -37555,7 +37555,7 @@
             naslov0="Jegličeva skrb za narod in njegovo naravnost" source="Zgodovina za vse"
             year="2002" issue="2"/>
     </delo>
-    <delo mojID="18105">
+    <delo mojID="18105" cobiss="60681472">
         <naslov>'Jegličevi pastirski listi.'</naslov>
         <cit did="3153" cid="30" avtor0="Kolar Bogdan" naslov0="'Jegličevi pastirski listi.'"
             source="Jegličev simpozij v Rimu" pubPlace="Celje" publisher="Mohorjeva družba"
@@ -37579,7 +37579,7 @@
             source="Sohn &amp;. Co. Aufbruch zu einer Philosophie der Frauenbefreiung"
             pubPlace="München" year="1978" page="21"/>
     </delo>
-    <delo mojID="18113">
+    <delo mojID="18113" cobiss="105348096">
         <naslov>Jernej Kopitar (1780-1844) in evropska znanost v zrcalu njegove zasebne
                         knjižnice (vodnik po razstavi)</naslov>
         <cit did="2018" cid="209" avtor0="Lukan W."
@@ -37591,7 +37591,7 @@
         <cit did="419" cid="38" avtor0="Ravnik Toman B." naslov0="Jernejeva draga"
             source="Varstvo spomenikov" year="1986" volume="28" page="267-268"/>
     </delo>
-    <delo mojID="18120">
+    <delo mojID="18120" cobiss="23760642">
         <naslov>Jesen srednjeg vijeka</naslov>
         <cit did="312" cid="25" avtor0="Huizinga J." naslov0="Jesen srednjeg vijeka"
             pubPlace="Zagreb" year="1991" page="161-177"/>
@@ -37608,7 +37608,7 @@
             naslov0="Jeseniška četa in Cankarjev bataljon v letu 1942" source="Jeklo in ljudje"
             pubPlace="Jesenice" year="1979" page="348"/>
     </delo>
-    <delo mojID="18125">
+    <delo mojID="18125" cobiss="5420032">
         <naslov>Jeseniško-bohinjski odred</naslov>
         <cit did="1510" cid="55" avtor0="Pavlin Mile" naslov0="Jeseniško-bohinjski odred"
             pubPlace="Ljubljana" year="1970" page="19"/>
@@ -37668,7 +37668,7 @@
             naslov0="Jeux romains dans les provinces balkano-danubiennes du II' siecle avant"
             pubPlace="Paris" year="2001"/>
     </delo>
-    <delo mojID="18140">
+    <delo mojID="18140" cobiss="6309122">
         <naslov>Jevreji u Sremu u XVIII i prvoj polovini XIX veka</naslov>
         <cit did="2708" cid="14" avtor0="Gavrilović Slavko"
             naslov0="Jevreji u Sremu u XVIII i prvoj polovini XIX veka" pubPlace="Beograd"
@@ -37733,18 +37733,18 @@
             source="Gorenjski kraji in ljudje" pubPlace="Kranj" publisher="Gorenjski muzej"
             year="1988" volume="8"/>
     </delo>
-    <delo mojID="18151">
+    <delo mojID="18151" cobiss="67606016">
         <naslov>Jezerske štorije</naslov>
         <cit did="2152" cid="6" avtor0="Karničar Andrej" naslov0="Jezerske štorije"
             pubPlace="Ljubljana" publisher="Kmečki glas" year="1997"/>
     </delo>
-    <delo mojID="18152">
+    <delo mojID="18152" cobiss="30959458">
         <naslov>Jezik i identitet na Balkanu. Raspad srpsko-hrvatskoga</naslov>
         <cit did="2764" cid="33" avtor0="Greenberg Robert D."
             naslov0="Jezik i identitet na Balkanu. Raspad srpsko-hrvatskoga" pubPlace="Zagreb"
             year="2005"/>
     </delo>
-    <delo mojID="18155">
+    <delo mojID="18155" cobiss="2816602">
         <naslov>Jezik in življenjski slog Slovencev kot prevlada slovenske
                         samopodobe</naslov>
         <cit did="1810" cid="2" avtor0="Kovač Edvard"
@@ -37758,27 +37758,27 @@
             naslov0="Jezik je takšna zver, da troši organizem: Tomaž Šalamun, pesnik"
             source="Delo - Sobotna priloga" year="2005" issue="23.7.2005" page="22-26"/>
     </delo>
-    <delo mojID="22004">
+    <delo mojID="22004" cobiss="6660429">
         <naslov>Jezik kot kazalec stanja medetničnih odnosov</naslov>
         <cit did="2890" cid="9" avtor0="Nećak Lük Albina"
             naslov0="Jezik kot kazalec stanja medetničnih odnosov"
             source="Medetnični odnosi v slovenskem etničnem prostoru" pubPlace="Ljubljana"
             publisher="INV" year="1998" page="333-347"/>
     </delo>
-    <delo mojID="18158">
+    <delo mojID="18158" cobiss="10187528">
         <naslov>Jezik kot odraz kulturnih vrednot</naslov>
         <cit did="2823" cid="151" avtor0="Šabec Nada" naslov0="Jezik kot odraz kulturnih vrednot"
             source="Kultura, identiteta in jezik v procesih evropske integracije. Društvo za uporabno jezikoslovje Slovenije"
             pubPlace="Ljubljana" year="2000" page="218-228"/>
     </delo>
-    <delo mojID="18159">
+    <delo mojID="18159" cobiss="14807808">
         <naslov>Jezik kot socialni in nacionalni pojav: primerjalno z jezikovnimi odnosi v
                         Radgonskem kotu</naslov>
         <cit did="1648" cid="1" avtor0="Križman Mirko"
             naslov0="Jezik kot socialni in nacionalni pojav: primerjalno z jezikovnimi odnosi v Radgonskem kotu"
             pubPlace="Maribor" year="1989"/>
     </delo>
-    <delo mojID="18161">
+    <delo mojID="18161" cobiss="47086336">
         <naslov>Jezik okolja in jezik šole: jezikovna politika pri Slovencih v
                         Italiji</naslov>
         <cit did="2753" cid="14" avtor0="Kaučič Baša Majda"
@@ -37808,7 +37808,7 @@
             pubPlace="Zagreb"
             publisher="Jugoslavenski leksikografski zavod &#34;Miroslav Krleža&#34;" year="1988"/>
     </delo>
-    <delo mojID="18166">
+    <delo mojID="18166" cobiss="217478912">
         <naslov>Jezik v zrcalu kultur : jezikovna sporazumevalna zmožnost in (med)etnična
                         ozaveščenost v slovenski Istri</naslov>
         <cit did="736" cid="13" avtor0="Mikolič V."
@@ -37830,45 +37830,45 @@
             publisher="Center za slovenščino kot drugi/ tuji jezik pri Oddelku za slovanske jezike in knjizevnosti Filozofske fakultete"
             volume="17" page="63-72"/>
     </delo>
-    <delo mojID="18175">
+    <delo mojID="18175" cobiss="214343936">
         <naslov>Jezikovna podoba negativnih čustev v v slovenščini</naslov>
         <cit did="682" cid="2" avtor0="Bedkowska-Kopczyk A."
             naslov0="Jezikovna podoba negativnih čustev v v slovenščini" source="Kognitivni pristop"
             pubPlace="Ljubljana" publisher="Študentska založba" year="2004"/>
     </delo>
-    <delo mojID="18180">
+    <delo mojID="18180" cobiss="40799745">
         <naslov>Jezikovna razmerja: jezik pragmatike in estetike v obmejnih predelih ob
                         Muri</naslov>
         <cit did="1648" cid="3" avtor0="Križman Mirko"
             naslov0="Jezikovna razmerja: jezik pragmatike in estetike v obmejnih predelih ob Muri"
             pubPlace="Maribor" year="1997"/>
     </delo>
-    <delo mojID="18181">
+    <delo mojID="18181" cobiss="286029">
         <naslov>Jezikovna slika Istre</naslov>
         <cit did="411" cid="7" avtor0="Filipi Goran" naslov0="Jezikovna slika Istre"
             source="Primorska srečanja" pubPlace="Nova Gorica" year="1993" issue="18" page="638"/>
     </delo>
-    <delo mojID="18183">
+    <delo mojID="18183" cobiss="2547572">
         <naslov>Jezikovne »težave« na Spodnjem Štajerskem v Taaftejevi dobi</naslov>
         <cit did="3130" cid="9" avtor0="Čuček Filip"
             naslov0="Jezikovne »težave« na Spodnjem Štajerskem v Taaftejevi dobi"
             source="Prispevki za novejšo zgodovino" year="2008" volume="48" issue="2" page="7-21"/>
     </delo>
-    <delo mojID="18185">
+    <delo mojID="18185" cobiss="3710468">
         <naslov>Jezikovni sistemi v slovenskem (alpskem in panonskem) govornem
                         območju</naslov>
         <cit did="1731" cid="4" avtor0="Jesenšek Marko"
             naslov0="Jezikovni sistemi v slovenskem (alpskem in panonskem) govornem območju"
             source="Jezik in slovstvo" year="1991" volume="37" issue="7" page="173-181"/>
     </delo>
-    <delo mojID="18186">
+    <delo mojID="18186" cobiss="1759980">
         <naslov>Jezikovni spomeniki zgodnje slovenščine. Rokopisna doba slovenskega jezika
                         (od XIV. stol. do leta 1550)</naslov>
         <cit did="3192" cid="18" avtor0="Mikhailov Nikolai"
             naslov0="Jezikovni spomeniki zgodnje slovenščine. Rokopisna doba slovenskega jezika (od XIV. stol. do leta 1550)"
             pubPlace="Trst" year="2001"/>
     </delo>
-    <delo mojID="18188">
+    <delo mojID="18188" cobiss="2292834">
         <naslov>Jezikovno načrtovanje in jezikovna politika pri Slovencih med 1945 in
                         1995</naslov>
         <cit did="827" cid="6" avtor0="Pogorelec Breda"
@@ -37925,7 +37925,7 @@
             publisher="Inštitut za zgodovino Cerkve Teološke fakultete v Ljubljani in Provincialat slovenske province Družbe Jezusove"
             year="1992" page="85-94"/>
     </delo>
-    <delo mojID="18200">
+    <delo mojID="18200" cobiss="52893696">
         <naslov>Jezuiti: podobe in nasprotne podobe iz 16. stoletja</naslov>
         <cit did="1738" cid="8" avtor0="Heiss Gernot"
             naslov0="Jezuiti: podobe in nasprotne podobe iz 16. stoletja"
@@ -37933,17 +37933,17 @@
             publisher="Inštitut za zgodovino Cerkve Teološke fakultete v Ljubljani in Provincialat slovenske province Družbe Jezusove"
             year="1992"/>
     </delo>
-    <delo mojID="18204">
+    <delo mojID="18204" cobiss="7743491">
         <naslov>Jezusov odnos do ženske</naslov>
         <cit did="106" cid="297" avtor0="Večko S." naslov0="Jezusov odnos do ženske"
             source="Tretji dan" year="2001" issue="4" page="2-7"/>
     </delo>
-    <delo mojID="18205">
+    <delo mojID="18205" cobiss="219658752">
         <naslov>Jezusovo gibanje</naslov>
         <cit did="106" cid="235" avtor0="Gianotto Claudio" naslov0="Jezusovo gibanje"
             source="Znamenje" year="2003" issue="5-6" page="52-64"/>
     </delo>
-    <delo mojID="18206">
+    <delo mojID="18206" cobiss="14668386">
         <naslov>Jezyki slowianskié</naslov>
         <cit did="408" cid="2" avtor0="Dalewska-greŕi H." naslov0="Jezyki slowianskié"
             source="Warszawa" publisher="Wydawnictwo Naukowe PWN" year="1997"/>
@@ -37998,7 +37998,7 @@
         <cit did="789" cid="16" avtor0="Dimitrijević" naslov0="JNA u tršćanskoj krizi" page="69-82"
         />
     </delo>
-    <delo mojID="18220">
+    <delo mojID="18220" cobiss="4454989">
         <naslov>Joan Bright Astley</naslov>
         <cit did="334" cid="352" avtor0="Wilkinson Peter" naslov0="Joan Bright Astley"
             naslov1="Gubbins and  SOE" pubPlace="London" publisher="Leo Cooper" year="1993"
@@ -38011,7 +38011,7 @@
             naslov0="Joannis Keppleri Somnium seu Opus posthumum de astronomia lunari: Accedit Plutarchi libellus De facie quae in orbe lunae apparet"
             publisher="Impressum partim Sagani Silesiorum, abso-lutum Francofurti" year="0"/>
     </delo>
-    <delo mojID="18222">
+    <delo mojID="18222" cobiss="19572061">
         <naslov>Job Insecurity and Company Unionism in Slovenia</naslov>
         <cit did="365" cid="47" avtor0="Stanojevic Miroslav"
             naslov0="Job Insecurity and Company Unionism in Slovenia"
@@ -38078,7 +38078,7 @@
         <cit did="2765" cid="12" avtor0="Biwald Leopold Gotlib"
             naslov0="Johann Friderich Gmelins, der Arzneygelarhrheit (sic!)..." pubPlace="Graz"/>
     </delo>
-    <delo mojID="18234">
+    <delo mojID="18234" cobiss="5414965">
         <naslov>Johann Gabriel Seidl</naslov>
         <cit did="441" cid="14" avtor0="Schlossar Anton" naslov0="Johann Gabriel Seidl"
             naslov1="Sagen und Geschichten aus Steiermark" pubPlace="Graz" year="0" page="125-128"/>
@@ -38111,7 +38111,7 @@
             naslov0="Johann Gottfried Herder. Kulturtheorie und Humanitätsidee der Ideen, Humanitätsbriefe und Adrastea"
             source="Epistemata. Reihe Literaturwissenschaft" pubPlace="Würzburg" year="2005"/>
     </delo>
-    <delo mojID="18239">
+    <delo mojID="18239" cobiss="30938978">
         <naslov>Johann Nepomuk Fuchs</naslov>
         <cit did="2224" cid="1" avtor0="Kemperl Metoda" naslov0="Johann Nepomuk Fuchs"
             source="Saur Allgemeines Kunstler  Lexikon.     Band     46."
@@ -38166,7 +38166,7 @@
             naslov0="Johannes A. Scopoli - Carl Linnaeus  : Dopisovanje/Correspondence 1760-1775"
             pubPlace="Ljubljana" publisher="Prirodoslovno društvo Slovenije" year="2004"/>
     </delo>
-    <delo mojID="18252">
+    <delo mojID="18252" cobiss="44328449">
         <naslov>Johannes Kepler in Selbstzeunissen und Bilddokumenten</naslov>
         <cit did="2023" cid="4" avtor0="Hemleben Johannes"
             naslov0="Johannes Kepler in Selbstzeunissen und Bilddokumenten" pubPlace="Hamburg"
@@ -38203,7 +38203,7 @@
             naslov0="Johannes von Nepomuk zu Ehren, Die Ettlinger SchloJškapelle und die Fresken von Cosmas Damian Asam"
             pubPlace="Karlsruhe" year="1992"/>
     </delo>
-    <delo mojID="18260">
+    <delo mojID="18260" cobiss="9655858">
         <naslov>John Adams</naslov>
         <cit did="3276" cid="32" avtor0="Mccullough David" naslov0="John Adams" pubPlace="New York"
             publisher="Simon &amp; Schuster: Touchstone" year="2002"/>
@@ -38214,7 +38214,7 @@
             naslov0="John Dewey, Confucius and Global Philosophy" pubPlace="Nevv York"
             publisher="State University of Nevv York Press" year="2004"/>
     </delo>
-    <delo mojID="18262">
+    <delo mojID="18262" cobiss="19413341">
         <naslov>John Dewey in pragmatistično razumevanje javnosti</naslov>
         <cit did="417" cid="6" avtor0="Pinter Andrej, Splichal Slavko"
             naslov0="John Dewey in pragmatistično razumevanje javnosti"
@@ -38233,12 +38233,12 @@
             naslov0="John Henryism and blood pressure differences among black men II. The role of occupational Stessors"
             source="Journal of behavioral medicine" year="1984" issue="7" page="259-275"/>
     </delo>
-    <delo mojID="18265">
+    <delo mojID="18265" cobiss="2876753">
         <naslov>John Rawls: Collected Papers</naslov>
         <cit did="3043" cid="29" avtor0="Rawls J." naslov0="John Rawls: Collected Papers"
             pubPlace="Cambridge, Mass." publisher="Belknap Harvard" year="1999"/>
     </delo>
-    <delo mojID="18266">
+    <delo mojID="18266" cobiss="13392429">
         <naslov>John Swinton - Potovanje skozi slovenske dežele leta 1734</naslov>
         <cit did="2634" cid="40" avtor0="Shaw Trevor"
             naslov0="John Swinton - Potovanje skozi slovenske dežele leta 1734"
@@ -38251,7 +38251,7 @@
             naslov0="Jones, Documents Illustrating the Reigns of Augustus and Tiberius"
             pubPlace="Oxford" year="1975"/>
     </delo>
-    <delo mojID="18269">
+    <delo mojID="18269" cobiss="12403970">
         <naslov>Jos. Bertok - kronika dvorazredne ljudske šole na Spodnjih Škofijah: gradivo
                         za podobo Škofij v Slovenski Istri 1900-1913</naslov>
         <cit did="2546" cid="44" avtor0="Šuštar Branko"
@@ -38265,13 +38265,13 @@
             source="Jože Plečnik - Architekt 1872-1957" pubPlace="München" publisher="Callwey"
             year="1987" page="98-99"/>
     </delo>
-    <delo mojID="18273">
+    <delo mojID="18273" cobiss="61334529">
         <naslov>Josef Ressel, A Common Central European "Lieu de Memoire"?</naslov>
         <cit did="2044" cid="4" avtor0="Bruckmüller Ernst"
             naslov0="Josef Ressel, A Common Central European &#34;Lieu de Memoire&#34;?"
             pubPlace="Wien" year="2007"/>
     </delo>
-    <delo mojID="18274">
+    <delo mojID="18274" cobiss="509317">
         <naslov>Josef Ritter von Gadolla. Ein österreichisches Offiziersleben in der k. u.
                         k. Armee, im Bundesheer und der Wehrmacht. 2. verbesserte und erweiterte
                         Auflage</naslov>
@@ -38322,7 +38322,7 @@
         <cit did="59" cid="38" avtor0="Hurwitz Joachim" naslov0="Joseph Haydn und die Freimaurer"
             pubPlace="Frankfurt am Main" year="1996"/>
     </delo>
-    <delo mojID="18283">
+    <delo mojID="18283" cobiss="85058304">
         <naslov>Joseph II. Seine politische und kulturelle Tätigkeit</naslov>
         <cit did="3258" cid="5" avtor0="Mitrofanov Paul von"
             naslov0="Joseph II. Seine politische und kulturelle Tätigkeit" pubPlace="Wien"
@@ -38334,7 +38334,7 @@
             naslov0="Joseph II und die Freimaurer im Lichte zeitgenössischer Broschuren"
             pubPlace="Wien" year="1987"/>
     </delo>
-    <delo mojID="18286">
+    <delo mojID="18286" cobiss="23211264">
         <naslov>Joseph Leopold Wiser pl. Berg</naslov>
         <cit did="375" cid="23" avtor0="Stopar Ivan" naslov0="Joseph Leopold Wiser pl. Berg"
             naslov1="Ljubljanski vedutist, kaligraf in miniaturist" pubPlace="Ljubljana" year="1991"
@@ -38358,7 +38358,7 @@
             naslov0="Joseph von: Geschichte des Osmanischen Reiches" pubPlace="Pest" year="0"
             volume="11"/>
     </delo>
-    <delo mojID="18290">
+    <delo mojID="18290" cobiss="27484673">
         <naslov>Joseph von Sonnenfels</naslov>
         <cit did="1487" cid="40" avtor0="Reinalter H." naslov0="Joseph von Sonnenfels"
             pubPlace="Wien" publisher="Verlag der Österreichischen Akademie der Wissenschaften"
@@ -38409,19 +38409,19 @@
             source="Istorija XX. veka" pubPlace="Beograd" publisher="ISI" year="2004" issue="2"
             page="175-178"/>
     </delo>
-    <delo mojID="18298">
+    <delo mojID="18298" cobiss="2899727">
         <naslov>Josip Broz Tito: a pictorial biography</naslov>
         <cit did="3210" cid="126" avtor0="Maclean Fitzroy"
             naslov0="Josip Broz Tito: a pictorial biography" pubPlace="New York"
             publisher="McGraw-Hill" year="1980"/>
     </delo>
-    <delo mojID="18300">
+    <delo mojID="18300" cobiss="69831936">
         <naslov>Josip Broz Tito. Kar dobro zapisan v spominu Slovencev</naslov>
         <cit did="3210" cid="177" avtor0="Repe Božo"
             naslov0="Josip Broz Tito. Kar dobro zapisan v spominu Slovencev"
             source="Delo, 23. 8. 1997." year="1997"/>
     </delo>
-    <delo mojID="18302">
+    <delo mojID="18302" cobiss="59033089">
         <naslov>Josip Broz Tito : priloži za biografiju</naslov>
         <cit did="742" cid="13" avtor0="Dedijer V."
             naslov0="Josip Broz Tito : priloži za biografiju" pubPlace="Beograd" publisher="Kultura"
@@ -38499,12 +38499,12 @@
         <cit did="3072" cid="5" avtor0="Bogner Šaban Antonija" naslov0="Josip Marotti"
             pubPlace="Zagreb" publisher="Kapitol" year="2005" page="215"/>
     </delo>
-    <delo mojID="18327">
+    <delo mojID="18327" cobiss="7278080">
         <naslov>Josip Vošnjak in njegovi spomini</naslov>
         <cit did="2770" cid="4" avtor0="Melik Vasilij" naslov0="Josip Vošnjak in njegovi spomini"
             source="Spomini" pubPlace="Ljubljana" year="1982" page="646-658"/>
     </delo>
-    <delo mojID="18328">
+    <delo mojID="18328" cobiss="20505901">
         <naslov>Josip Vuga, slovenski znanstvenik v Čeških Budejovicah</naslov>
         <cit did="1803" cid="5" avtor0="Godina Irena Gantar"
             naslov0="Josip Vuga, slovenski znanstvenik v Čeških Budejovicah"
@@ -38529,7 +38529,7 @@
             naslov0="Journal historique et anedoctique du règne de Louis" pubPlace="Paris" year="0"
         />
     </delo>
-    <delo mojID="18335">
+    <delo mojID="18335" cobiss="87437824">
         <naslov>Journal of a Tour made in the Years 1828-1829 through Styria, Carniola, and
                         Italy whilst accompanying the late Sir Humphry Davy</naslov>
         <cit did="2036" cid="14" avtor0="Tobin John James"
@@ -38553,7 +38553,7 @@
             naslov0="Jovan Vesel Koseški - poet in glasnik slovenske meščanske dobe"
             source="Obdobja" year="1991" volume="11" page="271-284"/>
     </delo>
-    <delo mojID="18340">
+    <delo mojID="18340" cobiss="1930612">
         <naslov>Jozef Tiso a Anton Korošec - vzt'ahy medzi Slovákmi a Slovincami</naslov>
         <cit did="1654" cid="14" avtor0="Godeša Bojan"
             naslov0="Jozef Tiso a Anton Korošec - vzt'ahy medzi Slovákmi a Slovincami"
@@ -38572,7 +38572,7 @@
             naslov0="Još jedna riječ o ekonomskoj povijesti in Fran Zwitter"
             source="Zgodovinski časopis" year="1955" volume="1-4" page="197-201"/>
     </delo>
-    <delo mojID="18346">
+    <delo mojID="18346" cobiss="2758658">
         <naslov>Još o Prizrenskom procesu</naslov>
         <cit did="2872" cid="29" avtor0="Bulatovič Ljiljana" naslov0="Još o Prizrenskom procesu"
             pubPlace="Novi Sad" publisher="Književna zajednica Novog Sada" year="1988"/>
@@ -38589,19 +38589,19 @@
             naslov0="Jože Mencinger je oče slovenske tajkunizacije" source="Finance (6. 5. 2009)"
             pubPlace="Ljubljana" year="2009" issue="85" page="12"/>
     </delo>
-    <delo mojID="18352">
+    <delo mojID="18352" cobiss="210564">
         <naslov>Jože Plečnik 1872-1957 (Architectura perennis)</naslov>
         <cit did="2156" cid="37" avtor0="Prelovšek Damjan"
             naslov0="Jože Plečnik 1872-1957 (Architectura perennis)" pubPlace="New Haven, London"
             publisher="Yale Universitv Press" year="1997"/>
     </delo>
-    <delo mojID="18353">
+    <delo mojID="18353" cobiss="229214720">
         <naslov>Jože Plečnik, Dunaj, Praga, Ljubljana</naslov>
         <cit did="1951" cid="5" avtor0="Hrausky A., Koželj J., Prelovšek D."
             naslov0="Jože Plečnik, Dunaj, Praga, Ljubljana" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="2006"/>
     </delo>
-    <delo mojID="18354">
+    <delo mojID="18354" cobiss="8920067">
         <naslov>Jože Rajhman in slovenski protestantizem 16. stoletja</naslov>
         <cit did="1793" cid="1" avtor0="Kranjc Vrečko Fanika"
             naslov0="Jože Rajhman in slovenski protestantizem 16. stoletja"
@@ -38626,7 +38626,7 @@
             source="Slovenski biografski leksikon : Prva knjiga" pubPlace="Ljubljana" year="1925"
             page="163"/>
     </delo>
-    <delo mojID="18361">
+    <delo mojID="18361" cobiss="27294209">
         <naslov>Jožef Košič, prekmurski pisatelj</naslov>
         <cit did="2612" cid="108" avtor0="Novak Vilko" naslov0="Jožef Košič, prekmurski pisatelj"
             source="Razprave III, Razred za filološke in literarne vede" pubPlace="Ljubljana"
@@ -38638,7 +38638,7 @@
             naslov0="Jožef Lamberg, drugi poslanec na turškem dvoru (1489-1554)"
             source="Letopis Slovenske" pubPlace="Ljubljana" year="0" page="190-204"/>
     </delo>
-    <delo mojID="18363">
+    <delo mojID="18363" cobiss="241171712">
         <naslov>Jožef Mrak kot geodet in risar</naslov>
         <cit did="2612" cid="145" avtor0="Šorn Jože" naslov0="Jožef Mrak kot geodet in risar"
             source="Kronika, Časopis za slovensko krajevno zgodovino, 23. letnik, 2. zvezek, Ljubljana"
@@ -38668,7 +38668,7 @@
             source="Enciklopedija Slovenije 4: Hac-Kare" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1990" page="314-315"/>
     </delo>
-    <delo mojID="18369">
+    <delo mojID="18369" cobiss="27947821">
         <naslov>Jožefinski vojaški zemljevid kot geografski vir</naslov>
         <cit did="2056" cid="80" avtor0="Zorn Matija"
             naslov0="Jožefinski vojaški zemljevid kot geografski vir" source="Geografski vestnik"
@@ -38680,7 +38680,7 @@
             source="Slovenska kronika XX. stoletja" pubPlace="Ljubljana" publisher="Nova revija"
             year="1995" page="400"/>
     </delo>
-    <delo mojID="18373">
+    <delo mojID="18373" cobiss="18342701">
         <naslov>Jubilejna koncertna sezona ljubljanske Filharmonične družbe</naslov>
         <cit did="370" cid="29" avtor0="Kuret Primož"
             naslov0="Jubilejna koncertna sezona ljubljanske Filharmonične družbe"
@@ -38692,7 +38692,7 @@
             naslov0="Juden un Syrer im westlichen Teil der römischen Welt" source="ANRW" year="1983"
             volume="29" issue="2" page="590-789"/>
     </delo>
-    <delo mojID="18378">
+    <delo mojID="18378" cobiss="3342637">
         <naslov>Judenburg: v boj proti vojni</naslov>
         <cit did="1626" cid="110" avtor0="Svoljšak Petra" naslov0="Judenburg: v boj proti vojni"
             source="Slovenska kronika XX. stoletja 1900-1941" pubPlace="Ljubljana"
@@ -38711,7 +38711,7 @@
             naslov0="Judeophobia. Attitudes towards the Jews in the Ancient World"
             pubPlace="Cambridge, Mass." publisher="Harvard University Press" year="1997"/>
     </delo>
-    <delo mojID="18382">
+    <delo mojID="18382" cobiss="273489">
         <naslov>Judges, Legislators and. Professors: Chapters in European Legal
                         History</naslov>
         <cit did="1995" cid="70" avtor0="Van Caenegem R. C."
@@ -38724,30 +38724,30 @@
             source="The Columbia Law Review" pubPlace="New York" year="2008" volume="108"
             page="55-142"/>
     </delo>
-    <delo mojID="18387">
+    <delo mojID="18387" cobiss="13188609">
         <naslov>Judje in Izrael</naslov>
         <cit did="2479" cid="14" avtor0="Šobajič Vladimir" naslov0="Judje in Izrael"
             pubPlace="Ljubljana" publisher="MK" year="1982"/>
     </delo>
-    <delo mojID="18388">
+    <delo mojID="18388" cobiss="243063040">
         <naslov>Judje Koroške, Stajerske, Kranjske, Goriske, Trsta in Istre v srednjem veku
                         do izgona iz Notranje Avstrije v letih 1496-1515</naslov>
         <cit did="2451" cid="9" avtor0="Jelinčić K."
             naslov0="Judje Koroške, Stajerske, Kranjske, Goriske, Trsta in Istre v srednjem veku do izgona iz Notranje Avstrije v letih 1496-1515"
             source="Doktorska disertacija" publisher="Filozofska fakulteta" year="2008"/>
     </delo>
-    <delo mojID="18389">
+    <delo mojID="18389" cobiss="6660685">
         <naslov>Judje kot objekt teoretičnega izživljanja</naslov>
         <cit did="504" cid="2" avtor0="Švarc Mladen A."
             naslov0="Judje kot objekt teoretičnega izživljanja" source="Razgledi" year="0"
             issue="19" page="11-12"/>
     </delo>
-    <delo mojID="18390">
+    <delo mojID="18390" cobiss="1099222622">
         <naslov>Judje na Kranjskem</naslov>
         <cit did="2311" cid="30" avtor0="Podgorjanski J. K." naslov0="Judje na Kranjskem"
             source="Zbornik Matice Slovenske" year="1906" issue="7" page="149"/>
     </delo>
-    <delo mojID="18394">
+    <delo mojID="18394" cobiss="15125346">
         <naslov>Judje v Ljubljani med drugo svetovno vojno</naslov>
         <cit did="2904" cid="28" avtor0="Dukarič Andreja"
             naslov0="Judje v Ljubljani med drugo svetovno vojno" naslov1="diplomska naloga"
@@ -38758,7 +38758,7 @@
         <cit did="2311" cid="12" avtor0="Rudaš Andreja" naslov0="Judje v Prekmurju"
             source="seminarska naloga" pubPlace="Ljubljana" year="2004" page="5-6"/>
     </delo>
-    <delo mojID="18399">
+    <delo mojID="18399" cobiss="1243004">
         <naslov>Judje v Sloveniji v srednjem veku</naslov>
         <cit did="2474" cid="23" avtor0="Jelinčič Boeta Klemen"
             naslov0="Judje v Sloveniji v srednjem veku" source="Zgodovina v šoli" year="2009"
@@ -38773,19 +38773,19 @@
             source="Poročilo o raziskovanju paleolita, neolita in eneolita v Sloveniji 13"
             pubPlace="Ljubljana" volume="13" page="7-15"/>
     </delo>
-    <delo mojID="18401">
+    <delo mojID="18401" cobiss="25756770">
         <naslov>Judovska skupnost Slovenije</naslov>
         <cit did="1695" cid="20" avtor0="Strnad Nastja" naslov0="Judovska skupnost Slovenije"
             naslov1="seminarska naloga" pubPlace="Ljubljana"
             publisher="Oddelek za etnologijo in kulturno antropologijo na Filozofski fakulteti Univerze v Ljubljani"
             year="2004"/>
     </delo>
-    <delo mojID="18404">
+    <delo mojID="18404" cobiss="234175232">
         <naslov>Judovski vojaki na soški fronti</naslov>
         <cit did="2440" cid="6" avtor0="Podberšič Renato" naslov0="Judovski vojaki na soški fronti"
             source="Na fronti" year="2006" issue="4" page="40-44"/>
     </delo>
-    <delo mojID="18405">
+    <delo mojID="18405" cobiss="2680948">
         <naslov>Judovsko prebivalstvo v Sloveniji do druge svetovne vojne</naslov>
         <cit did="2476" cid="19" avtor0="Pančur Andrej"
             naslov0="Judovsko prebivalstvo v Sloveniji do druge svetovne vojne"
@@ -38807,12 +38807,12 @@
             naslov0="Judovsko premoženje na Slovenskem v 20. stoletju. Študija, Ministrstvo za pravosodje RS - Sektor za popravo krivic in za narodno spravo"
             pubPlace="Ljubljana" year="2007" page="22"/>
     </delo>
-    <delo mojID="18408">
+    <delo mojID="18408" cobiss="114945792">
         <naslov>Judovstvo</naslov>
         <cit did="504" cid="18" avtor0="Unterman Alan" naslov0="Judovstvo" naslov1="Mali leksikon"
             pubPlace="Ljubljana" year="2001" page="211, 237"/>
     </delo>
-    <delo mojID="18409">
+    <delo mojID="18409" cobiss="8611073">
         <naslov>Jug Afrike in narodnoosvobodilni boj</naslov>
         <cit did="3210" cid="28" avtor0="Božič Jože" naslov0="Jug Afrike in narodnoosvobodilni boj"
             pubPlace="Ljubljana" publisher="Zavod SR Slovenije za šolstvo" year="1978"/>
@@ -38847,7 +38847,7 @@
             source="Praistorija jugoslavenskih zemalja" pubPlace="Sarajevo" year="1987" volume="5"
             page="23-181"/>
     </delo>
-    <delo mojID="18417">
+    <delo mojID="18417" cobiss="1590131">
         <naslov>Jugoslav Nationalism</naslov>
         <cit did="1894" cid="23" avtor0="Vošnjak Bogumil" naslov0="Jugoslav Nationalism"
             pubPlace="London" year="1916" page="44"/>
@@ -38870,7 +38870,7 @@
             naslov0="Jugoslavenska emigracija u Sovjetskom savezu i staljinske čistke"
             source="Britovškov zbornik" page="375-397"/>
     </delo>
-    <delo mojID="18422">
+    <delo mojID="18422" cobiss="2331912">
         <naslov>Jugoslavenska ideologija u hrvatskoj i slovenskoj nacionalnoj
                         politici...</naslov>
         <cit did="2025" cid="30" avtor0="Korunić Petar"
@@ -38889,7 +38889,7 @@
         <cit did="2964" cid="31" avtor0="Markovič Zvezdan" naslov0="Jugoslavenska ljudska armada"
             pubPlace="Ljubljana" year="2007"/>
     </delo>
-    <delo mojID="18426">
+    <delo mojID="18426" cobiss="356887">
         <naslov>Jugoslavenska muslimanska organizacija u političkom životu Kraljevine
                         Srba....</naslov>
         <cit did="2024" cid="31" avtor0="Purivatra Atif"
