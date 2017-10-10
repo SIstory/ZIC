@@ -39866,12 +39866,12 @@
             naslov0="K izućeniju pol'sko-jużnoslayjanskih jazykovyh syjazej" year="1965"
             page="33-36"/>
     </delo>
-    <delo mojID="18709">
+    <delo mojID="18709" cobiss="47323136">
         <naslov>K izvoru koroških letečih procesij</naslov>
         <cit did="279" cid="20" avtor0="Martnik Vlado" naslov0="K izvoru koroških letečih procesij"
             source="Koledar Družbe svetega Mohorja v Celovcu" year="1989" page="64-70"/>
     </delo>
-    <delo mojID="18710">
+    <delo mojID="18710" cobiss="318419">
         <naslov>K lončarski delavnici Kopru</naslov>
         <cit did="1952" cid="20" avtor0="Zupančič M., Cunja R."
             naslov0="K lončarski delavnici Kopru" source="Annales, Series historia et sociologia"
@@ -39883,17 +39883,17 @@
             naslov0="K najdbi doslej neznanega ljubljanskega gledališkega lista"
             source="Naši razgledi" year="1955" issue="7" page="165-166"/>
     </delo>
-    <delo mojID="18712">
+    <delo mojID="18712" cobiss="43182336">
         <naslov>K narečnim prislovom ponjer in tenčas</naslov>
         <cit did="730" cid="18" avtor0="Nartnik V." naslov0="K narečnim prislovom ponjer in tenčas"
             pubPlace="Ljubljana" publisher="Filozofska fakulteta" year="1989" page="27-29"/>
     </delo>
-    <delo mojID="18713">
+    <delo mojID="18713" cobiss="3019214">
         <naslov>"K nekdanjemu sijaju"</naslov>
         <cit did="3235" cid="8" avtor0="Ravbar Matjaž" naslov0="&#34;K nekdanjemu sijaju&#34;"
             source="Obramba" pubPlace="Ljubljana" year="2008" volume="40" issue="7"/>
     </delo>
-    <delo mojID="18714">
+    <delo mojID="18714" cobiss="33523298">
         <naslov>K normiranju slovenskih zemljepisnih imen...</naslov>
         <cit did="2161" cid="3" avtor0="Šivic Dular Alenka"
             naslov0="K normiranju slovenskih zemljepisnih imen..." pubPlace="Ljubljana" year="1988"
@@ -39924,7 +39924,7 @@
             source="Národnostní otázka v Polsku a Československu v meziválečném období"
             pubPlace="Praga" year="2005" page="133"/>
     </delo>
-    <delo mojID="18726">
+    <delo mojID="18726" cobiss="22436354">
         <naslov>K podobi nekdanjega Pirana (16./17. stoletje)</naslov>
         <cit did="1762" cid="103" avtor0="Mihelič Darja"
             naslov0="K podobi nekdanjega Pirana (16./17. stoletje)"
@@ -39953,7 +39953,7 @@
             naslov0="K poročilu bana dr. Marka Natlačna o dogodkih v Sloveniji v prvih mesecih okupacije"
             source="prispevki za novejšo zgodovino" year="2001" issue="1" page="117-120"/>
     </delo>
-    <delo mojID="18731">
+    <delo mojID="18731" cobiss="8514605">
         <naslov>K poselitveni zgodovini in urbanizaciji Slovenije v antiki</naslov>
         <cit did="1939" cid="65" avtor0="Šašel J."
             naslov0="K poselitveni zgodovini in urbanizaciji Slovenije v antiki"
@@ -39978,7 +39978,7 @@
             naslov0="K preosnovi obveznega osemletnega šolanja" source="Slovenski poročevalec"
             year="1953" volume="14" issue="28" page="4"/>
     </delo>
-    <delo mojID="18740">
+    <delo mojID="18740" cobiss="70232064">
         <naslov>K problematiki baroka na Slovenjebistriškem</naslov>
         <cit did="1629" cid="6" avtor0="Vrišer Sergej"
             naslov0="K problematiki baroka na Slovenjebistriškem"
@@ -39998,14 +39998,14 @@
             source="Hl’adanie novej podoby strednej Euröpy. (Fenomen vintegräcie a dezintegräcie od osvietenstva po 1. svetovu vojnu)"
             pubPlace="Bratislava" year="2005" page="54-65"/>
     </delo>
-    <delo mojID="18745">
+    <delo mojID="18745" cobiss="2495030">
         <naslov>K problemu nastanka Škofje Loke in njenega notranjega razvoja v srednjem
                         veku</naslov>
         <cit did="2583" cid="61" avtor0="Blaznik Pavle"
             naslov0="K problemu nastanka Škofje Loke in njenega notranjega razvoja v srednjem veku"
             source="ZČ" year="1965" volume="19-20" page="153-160"/>
     </delo>
-    <delo mojID="18746">
+    <delo mojID="18746" cobiss="750213">
         <naslov>K problemu novoveških privilegijev zahodnoogrskih utrjenih trgov/podeželskih
                         mest: privilegij Dolnje Lendave iz leta 1595</naslov>
         <cit did="2789" cid="5" avtor0="Hozjan Andrej"
@@ -40033,7 +40033,7 @@
             pubPlace="Ljubljana" publisher="Znanstveno in publicistično središče" year="0"
             page="13-23"/>
     </delo>
-    <delo mojID="18750">
+    <delo mojID="18750" cobiss="6755629">
         <naslov>K rabi in smislu barvnih izrazov v Cankarjevem Kurentu</naslov>
         <cit did="279" cid="18" avtor0="Nartnik Vlado"
             naslov0="K rabi in smislu barvnih izrazov v Cankarjevem Kurentu"
@@ -40049,7 +40049,7 @@
         <cit did="1617" cid="18" avtor0="Kukovec Vekoslav" naslov0="K sestanku naših zaupnikov"
             source="ND" year="0" page="1"/>
     </delo>
-    <delo mojID="18755">
+    <delo mojID="18755" cobiss="15881446">
         <naslov>K slovenskemu nacionalnemu gospodarstvu</naslov>
         <cit did="2313" cid="19" avtor0="Borak Neven"
             naslov0="K slovenskemu nacionalnemu gospodarstvu"
@@ -40062,7 +40062,7 @@
             naslov0="K sovražnostim med Sovjetsko Rusijo in Finsko" source="Misel in delo"
             year="1940" issue="1" page="6-12"/>
     </delo>
-    <delo mojID="18758">
+    <delo mojID="18758" cobiss="238548">
         <naslov>K sporazumevalni zmožnosti dvojezičnega govorca</naslov>
         <cit did="2940" cid="111" avtor0="Nečak Lük Albina"
             naslov0="K sporazumevalni zmožnosti dvojezičnega govorca" source="Koroški koledar"
@@ -40081,7 +40081,7 @@
             naslov0="K teoriji spola v slovenskem (knjižnem) jeziku" source="Slavistična revija"
             pubPlace="Ljubljana" year="1981" volume="29" issue="1" page="79-94"/>
     </delo>
-    <delo mojID="18763">
+    <delo mojID="18763" cobiss="11299373">
         <naslov>K tisočletju pred rimsko zasedbo</naslov>
         <cit did="1748" cid="979" avtor0="Šašel J." naslov0="K tisočletju pred rimsko zasedbo"
             source="Keltoi" year="1983" page="10-17"/>
@@ -40097,7 +40097,7 @@
         <cit did="2010" cid="16" avtor0="Kant Immanuel" naslov0="K večnemu miru"
             source="Dve razpravi" pubPlace="Ljubljana" publisher="Slovenska matica" year="1937"/>
     </delo>
-    <delo mojID="18767">
+    <delo mojID="18767" cobiss="1108538718">
         <naslov>K vprašanju enodružinske delavske hišice</naslov>
         <cit did="1807" cid="15" avtor0="Vurnik Ivan"
             naslov0="K vprašanju enodružinske delavske hišice" source="Dom in svet" year="1928"
@@ -40116,7 +40116,7 @@
         <cit did="3288" cid="128" avtor0="Petrovski Risto" naslov0="K vprašanju Makedonije"
             source="Mladina" year="1927" volume="IV" issue="1" page="22-23"/>
     </delo>
-    <delo mojID="18770">
+    <delo mojID="18770" cobiss="6683181">
         <naslov>K vprašanju narodne pripadnosti Antona Fistra</naslov>
         <cit did="2837" cid="20" avtor0="Stanonik Janez"
             naslov0="K vprašanju narodne pripadnosti Antona Fistra"
@@ -40130,7 +40130,7 @@
             source="Zapiski Delavsko-kmečke Matice" pubPlace="Ljubljana"
             publisher="Delavsko-kmetska matica" year="1925" issue="3" page="102-109"/>
     </delo>
-    <delo mojID="18773">
+    <delo mojID="18773" cobiss="38179585">
         <naslov>K vrednotenju identitete panonske kmetije</naslov>
         <cit did="1712" cid="7" avtor0="Puconja Miran"
             naslov0="K vrednotenju identitete panonske kmetije" publisher="Cven" year="1995"/>
@@ -40142,7 +40142,7 @@
             source="Slovensko v Československu 1918-1919 (ur. Milan Zemko,Valerián Bystřičky)"
             pubPlace="Bratislava" publisher="Veda" year="2004" page="417-444"/>
     </delo>
-    <delo mojID="18775">
+    <delo mojID="18775" cobiss="22396472">
         <naslov>K začetkom visokosrednjeveškega Ptuja</naslov>
         <cit did="2237" cid="15" avtor0="Lamut Brane"
             naslov0="K začetkom visokosrednjeveškega Ptuja"
@@ -40159,27 +40159,27 @@
         <cit did="2206" cid="9" avtor0="Stele France"
             naslov0="K zgodovini bibliotečnih stavb v Ljubljani" pubPlace="Ljubljana" year="1933"/>
     </delo>
-    <delo mojID="18779">
+    <delo mojID="18779" cobiss="9409325">
         <naslov>K zgodovini Emone v rimskih napisih in literaturi</naslov>
         <cit did="725" cid="44" avtor0="Šašel Jaro"
             naslov0="K zgodovini Emone v rimskih napisih in literaturi"
             source="Prispevki za monografijo: gradivo s Posvetovanja o zgodovini Ljubljane, 16. in 17. novembra 1983 v Ljubljani"
             pubPlace="Ljubljana" publisher="Kronika - zgodovinsko društvo" year="1984"/>
     </delo>
-    <delo mojID="18780">
+    <delo mojID="18780" cobiss="327477">
         <naslov>K zgodovini glasbe v Celju (1824-1866)</naslov>
         <cit did="1912" cid="164" avtor0="Zajc Cizelj Ivanka"
             naslov0="K zgodovini glasbe v Celju (1824-1866)" source="Celjski zbornik"
             pubPlace="Celje" year="1987" page="305-306"/>
     </delo>
-    <delo mojID="18786">
+    <delo mojID="18786" cobiss="2467700">
         <naslov>K zgodovini naborov v Kraljevini SHS/Jugoslaviji : 'V Dravski banovini je že
                         od pamti veka v navadi, da rekruti veseljačijo'</naslov>
         <cit did="2817" cid="8" avtor0="Zajc Marko"
             naslov0="K zgodovini naborov v Kraljevini SHS/Jugoslaviji : 'V Dravski banovini je že od pamti veka v navadi, da rekruti veseljačijo'"
             source="Prispevki za novejšo zgodovino" year="2008" issue="1" page="91-104"/>
     </delo>
-    <delo mojID="18788">
+    <delo mojID="18788" cobiss="27484930">
         <naslov>K zgodovini nižjega plemstva na Krasu in v Istri</naslov>
         <cit did="2583" cid="179" avtor0="Štih Peter"
             naslov0="K zgodovini nižjega plemstva na Krasu in v Istri" source="ZČ" year="1991"
@@ -40191,7 +40191,7 @@
             naslov0="K zgodovini odpustkov studeniške cerkve v srednjem veku"
             source="Voditelj v bogoslovnih vedah" year="1910" volume="13" page="226-231"/>
     </delo>
-    <delo mojID="18792">
+    <delo mojID="18792" cobiss="7529526">
         <naslov>K zgodovini prevedbe koseščin v kupna zemljišča</naslov>
         <cit did="2269" cid="26" avtor0="Žontar Josip"
             naslov0="K zgodovini prevedbe koseščin v kupna zemljišča" source="Slovenski pravnik"
