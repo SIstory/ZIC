@@ -40245,7 +40245,7 @@
         <cit did="3290" cid="83" avtor0="Bilimović Aleksander"
             naslov0="Ka pitanju o korporativnoj privredi"/>
     </delo>
-    <delo mojID="18804">
+    <delo mojID="18804" cobiss="4174381">
         <naslov>Kabinetne omarice in zbirka v Narodnem muzeju</naslov>
         <cit did="2118" cid="8" avtor0="Lozar Štamcar Maja"
             naslov0="Kabinetne omarice in zbirka v Narodnem muzeju" source="Argo" year="1996"
@@ -40256,7 +40256,7 @@
         <cit did="2902" cid="17" avtor0="Laketić Milan" naslov0="Kad je predsednik &#34;Srb&#34;"
             source="Politika" year="1989" issue="24. oktober"/>
     </delo>
-    <delo mojID="18807">
+    <delo mojID="18807" cobiss="4613641">
         <naslov>Kada je nastala Država Slovenaca, Hrvata i Srba</naslov>
         <cit did="2186" cid="2" avtor0="Boban Ljubo"
             naslov0="Kada je nastala Država Slovenaca, Hrvata i Srba"
@@ -40286,26 +40286,26 @@
             naslov0="Kadmos the Phoenician: A Study in Greek Legends and the Mycenaean Age"
             pubPlace="Amsterdam" year="1979"/>
     </delo>
-    <delo mojID="18812">
+    <delo mojID="18812" cobiss="3562508">
         <naslov>Kadrovi i kadrovska politika</naslov>
         <cit did="825" cid="11" avtor0="Nikolić Drago" naslov0="Kadrovi i kadrovska politika"
             pubPlace="Beograd" publisher="Vojnoizdavački i novinski centar" year="1989"
             page="207-222. 332-340"/>
     </delo>
-    <delo mojID="18813">
+    <delo mojID="18813" cobiss="19126328">
         <naslov>Kadrovski razvoj v občini</naslov>
         <cit did="976" cid="33" avtor0="Tetičkovič Franc" naslov0="Kadrovski razvoj v občini"
             source="Ptuj- monografija o gospodarskem in družbenem razvoju ptujske občine po drugi svetovni vojni"
             pubPlace="Ptuj" year="1992" page="19"/>
     </delo>
-    <delo mojID="18814">
+    <delo mojID="18814" cobiss="2243173">
         <naslov>Kadrovsko-socialna služba v gradbenem podjetju "Gradis", Ljubljana</naslov>
         <cit did="166" cid="3" avtor0="Cepuš Lojze"
             naslov0="Kadrovsko-socialna služba v gradbenem podjetju &#34;Gradis&#34;, Ljubljana"
             source="diplomska naloga" pubPlace="Ljubljana"
             publisher="Višja šola za socialne delavce" year="1961"/>
     </delo>
-    <delo mojID="18815">
+    <delo mojID="18815" cobiss="1139813">
         <naslov>Kadrovsko-socialne službe v gospodarskih organizacijah</naslov>
         <cit did="166" cid="8" avtor0="Kamušič Mitja"
             naslov0="Kadrovsko-socialne službe v gospodarskih organizacijah" pubPlace="Kranj"
@@ -40384,7 +40384,7 @@
         <cit did="1760" cid="32" avtor0="Demmerle Eva"
             naslov0="Kaiser Karl I. »Selig, die Frieden stiften...«" pubPlace="Wien" year="2004"/>
     </delo>
-    <delo mojID="18833">
+    <delo mojID="18833" cobiss="64808960">
         <naslov>Kaiser Karl und der Untergang der Donaumonarchie</naslov>
         <cit did="3497" cid="45" avtor0="Lorenz Reinhold"
             naslov0="Kaiser Karl und der Untergang der Donaumonarchie" pubPlace="Graz-Wien-Köln"
@@ -40431,7 +40431,7 @@
             naslov0="Kaiserjäger - Ruhm und Ende" pubPlace="Graz" publisher="L. Stocker Verlag"
             year="1977" page="140, 142"/>
     </delo>
-    <delo mojID="18845">
+    <delo mojID="18845" cobiss="15537709">
         <naslov>Kaiserliche Bautätigkeit in Rom: Das Echo in der antiken Literatur</naslov>
         <cit did="1748" cid="887" avtor0="Scheithauer A."
             naslov0="Kaiserliche Bautätigkeit in Rom: Das Echo in der antiken Literatur"
@@ -40474,7 +40474,7 @@
             source="Terorizem: filozofska vprašanja" pubPlace="Ljubljana" publisher="Krtina"
             year="2005" page="47-48"/>
     </delo>
-    <delo mojID="18858">
+    <delo mojID="18858" cobiss="8840241">
         <naslov>Kaj je tihotapil Krpan?</naslov>
         <cit did="2625" cid="89" avtor0="Pelicon Lucijan" naslov0="Kaj je tihotapil Krpan?"
             source="Primorska srečanja" pubPlace="Nova Gorica" publisher="Grafika Soča" year="2002"
@@ -40514,7 +40514,7 @@
         <cit did="2018" cid="49" avtor0="Canguilhem G." naslov0="»Kaj je znanstvena ideologija?«"
             source="Vestnik IMS" year="1987" issue="2" page="9-16"/>
     </delo>
-    <delo mojID="18866">
+    <delo mojID="18866" cobiss="328147">
         <naslov>Kaj je čast?</naslov>
         <cit did="226" cid="185" avtor0="Stewart H. Frank" naslov0="Kaj je čast?"
             source="Acta Histriae" year="2000" volume="8" issue="1" page="1-12"/>
@@ -40536,7 +40536,7 @@
         <cit did="226" cid="124" avtor0="Mahnič Anton" naslov0="Kaj piše Marica"
             source="Rimski katolik" year="0" volume="4" page="117-118"/>
     </delo>
-    <delo mojID="18875">
+    <delo mojID="18875" cobiss="27436637">
         <naslov>Kaj počnejo »psi čuvaji«?</naslov>
         <cit did="3077" cid="2" avtor0="Bašič Hrvatin S." naslov0="Kaj počnejo »psi čuvaji«?"
             source="Slovenski jezik, literatura, kultura in mediji. 44. seminar: - .enakega jezika, literature in kulture, 23. 6.-11.7."
@@ -40544,7 +40544,7 @@
             publisher="Center za slovenščino kot drugi/tuji jezik pri Oddelku za slovenistiko Filozofske fakultete"
             page="133-139"/>
     </delo>
-    <delo mojID="18877">
+    <delo mojID="18877" cobiss="13300573">
         <naslov>Kaj se dogaja znotraj manjšin? Antropologizacija zgodovine kot metodološki
                         prispevek k proučevanju slovenskih nacionalnih manjšin</naslov>
         <cit did="2823" cid="85" avtor0="Komac Miran"
@@ -40557,14 +40557,14 @@
             naslov0="Kaj se proti trtni uši na Ogerskem, in kaj pri nas stori"
             source="Novice gospodarske, obrtniške in narodne" year="0" page="List 46"/>
     </delo>
-    <delo mojID="18880">
+    <delo mojID="18880" cobiss="570100">
         <naslov>Kaj se skriva na morskem dnu?</naslov>
         <cit did="1950" cid="33" avtor0="Karinja S." naslov0="Kaj se skriva na morskem dnu?"
             source="Odprti k morju, 50 letnica Pomorskega muzeja &#34;Sergej Masera&#34; Piran"
             pubPlace="Piran" publisher="Pomorski muzej &#34;Sergej Masera&#34;" year="2005"
             page="48-49"/>
     </delo>
-    <delo mojID="18881">
+    <delo mojID="18881" cobiss="250866432">
         <naslov>Kaj si bo narod mislil? Ritual slovenske državnosti</naslov>
         <cit did="3048" cid="37" avtor0="Simonič P."
             naslov0="Kaj si bo narod mislil? Ritual slovenske državnosti" pubPlace="Ljubljana"
@@ -40586,14 +40586,14 @@
         <cit did="1809" cid="1" avtor0="Prepeluh Albin"
             naslov0="Kaj smo govorili in delali v Pragi?" source="Kmetski list" year="2066"/>
     </delo>
-    <delo mojID="18888">
+    <delo mojID="18888" cobiss="23033645">
         <naslov>Kaj storiti z avantgardo? Kaj ostaja od devetnajstega stoletja v umetnosti
                         dvajsetega stoletja?</naslov>
         <cit did="385" cid="15" avtor0="Duve T. de"
             naslov0="Kaj storiti z avantgardo? Kaj ostaja od devetnajstega stoletja v umetnosti dvajsetega stoletja?"
             source="Filozofski vestnik" pubPlace="Ljubljana" year="2004" volume="25/3"/>
     </delo>
-    <delo mojID="18889">
+    <delo mojID="18889" cobiss="7962376">
         <naslov>Kaj takega je mogoče pri nas v Avstriji sedaj v 20. stoletju? : odmev in
                         pomen septembrskih dogodkov leta 1908</naslov>
         <cit did="2790" cid="28" avtor0="Goropevšek Branko"
@@ -40605,7 +40605,7 @@
         <cit did="411" cid="25" avtor0="Rožić V." naslov0="Kajkavački dijalekat u Prigorju"
             pubPlace="Zagreb" publisher="Rad JAZU" year="0"/>
     </delo>
-    <delo mojID="18893">
+    <delo mojID="18893" cobiss="12507912">
         <naslov>Kajkavsko narečje kao književni jezik u djelima Tita Brezovačkoga</naslov>
         <cit did="369" cid="11" avtor0="Jurančič Janko"
             naslov0="Kajkavsko narečje kao književni jezik u djelima Tita Brezovačkoga"
@@ -40650,13 +40650,13 @@
         <cit did="290" cid="17" avtor0="Stergar Anton" naslov0="Kako bo pri nas z ogrskimi zakoni?"
             source="Voditelj v bogoslovnih vedah" year="1908" volume="XI" page="286-287"/>
     </delo>
-    <delo mojID="18903">
+    <delo mojID="18903" cobiss="3499010">
         <naslov>Kako citati grad. Rijeka jučer, danas</naslov>
         <cit did="2229" cid="14" avtor0="Matejčić Radmila"
             naslov0="Kako citati grad. Rijeka jučer, danas" pubPlace="Rijeka"
             publisher="Izdavački centar Rijeka" year="1988"/>
     </delo>
-    <delo mojID="18904">
+    <delo mojID="18904" cobiss="940156">
         <naslov>Kako daleč je holokavst? Literatura holokavsta pri pouku nemščine in
                         holokavst pri pouku zgodovine</naslov>
         <cit did="2479" cid="8" avtor0="Kač Liljana"
@@ -40678,7 +40678,7 @@
             source="Halo, tu Radio Ljubljana! : katalog k razstavi Tehniškega muzeja Slovenije ob sedemdeseti obletnici ustanovitve Radia Ljubljana"
             pubPlace="Ljubljana" publisher="Tehniški muzej Slovenije" year="1998"/>
     </delo>
-    <delo mojID="18907">
+    <delo mojID="18907" cobiss="219036928">
         <naslov>Kako do bolj kakovostnega znanja zgodovine</naslov>
         <cit did="2468" cid="1" avtor0="Brodnik Vilma"
             naslov0="Kako do bolj kakovostnega znanja zgodovine" pubPlace="Ljubljana"
@@ -40702,21 +40702,21 @@
             naslov0="Kako gledamo socialisti na gospodinjstvo in njegov razvoj"
             source="Sodobno gospodinjstvo" year="1955" volume="13-14" page="2-8"/>
     </delo>
-    <delo mojID="18916">
+    <delo mojID="18916" cobiss="1483062">
         <naslov>Kako je bila ukinjena kovinarska zadruga Plamen v Kropi</naslov>
         <cit did="1661" cid="7" avtor0="Holynski Nada"
             naslov0="Kako je bila ukinjena kovinarska zadruga Plamen v Kropi"
             source="Kroparski zbornik. Ob 100-letnici Plamena" pubPlace="Kropa - Radovljica"
             year="1995" page="106-130"/>
     </delo>
-    <delo mojID="18917">
+    <delo mojID="18917" cobiss="26247266">
         <naslov>Kako je bilo z razkrojem Wehrmannschafta na Gorenjskem : odgovor na pripombe
                         M. P.</naslov>
         <cit did="1545" cid="18" avtor0="Ferenc Tone"
             naslov0="Kako je bilo z razkrojem Wehrmannschafta na Gorenjskem : odgovor na pripombe M. P."
             source="Borec" year="1960" volume="12" issue="5" page="225"/>
     </delo>
-    <delo mojID="18918">
+    <delo mojID="18918" cobiss="306061">
         <naslov>Kako je gospodična Micka, v belo oblečena učiteljeva hčerka, deklamirala
                         Gregorčičevo Domovini</naslov>
         <cit did="2230" cid="9" avtor0="Zemljič Igor"
@@ -40786,12 +40786,12 @@
         <cit did="3365" cid="46" avtor0="Levstik Fran" naslov0="Kako je v Korotani (Šala)"
             source="Vrtec" year="1886" volume="16" issue="1"/>
     </delo>
-    <delo mojID="18934">
+    <delo mojID="18934" cobiss="236005632">
         <naslov>Kako končati državljansko vojno</naslov>
         <cit did="634" cid="21" avtor0="Stanovnik Justin" naslov0="Kako končati državljansko vojno"
             source="Zaveza" year="0" issue="60"/>
     </delo>
-    <delo mojID="18935">
+    <delo mojID="18935" cobiss="11439405">
         <naslov>Kako Metulum se Avgustu brani</naslov>
         <cit did="1748" cid="115" avtor0="Božič D." naslov0="Kako Metulum se Avgustu brani"
             source="Zakladi tisočletij - Zgodovina Slovenije od neandertalcev do Slovanov"
@@ -40802,7 +40802,7 @@
         <cit did="2841" cid="18" avtor0="Morin Edgar" naslov0="Kako misliti Europu"
             pubPlace="Sarajevo" publisher="Svetlost" year="1991"/>
     </delo>
-    <delo mojID="18937">
+    <delo mojID="18937" cobiss="61971456">
         <naslov>Kako nacionalizem in vojna prizadaneta ženske</naslov>
         <cit did="226" cid="93" avtor0="Iveković Rada"
             naslov0="Kako nacionalizem in vojna prizadaneta ženske"
@@ -40827,7 +40827,7 @@
             naslov0="Kako naj se kristjani politično organizirajo" source="Delo, 11. 3. 1989"
             year="1989"/>
     </delo>
-    <delo mojID="18941">
+    <delo mojID="18941" cobiss="43737345">
         <naslov>Kako naj se otrok uči</naslov>
         <cit did="3424" cid="25" avtor0="Hafner Kristina" naslov0="Kako naj se otrok uči"
             pubPlace="Ljubljana" publisher="Slomškova družba" year="1938"/>
@@ -40838,26 +40838,26 @@
             source="Slovenski vestnik" pubPlace="Celovec" year="1911" volume="31" issue="47"
             page="1"/>
     </delo>
-    <delo mojID="18944">
+    <delo mojID="18944" cobiss="15083266">
         <naslov>Kako naprej - zeleni</naslov>
         <cit did="417" cid="7" avtor0="Plut Dušan" naslov0="Kako naprej - zeleni"
             source="Teorija in praksa" pubPlace="Ljubljana" year="1990" volume="27" issue="8-9"
             page="1030-1038"/>
     </delo>
-    <delo mojID="18945">
+    <delo mojID="18945" cobiss="56188673">
         <naslov>Kako odpustiti? : odpustiti, da bi ozdravel, ozdraveti, da bi
                         odpustil</naslov>
         <cit did="1549" cid="22" avtor0="Monbourquette Jean"
             naslov0="Kako odpustiti? : odpustiti, da bi ozdravel, ozdraveti, da bi odpustil"
             pubPlace="Maribor" year="2006"/>
     </delo>
-    <delo mojID="18947">
+    <delo mojID="18947" cobiss="9208401">
         <naslov>Kako pomembna je izobrazba za zaposlitev tujca v Sloveniji?</naslov>
         <cit did="2699" cid="12" avtor0="Golja Mateja"
             naslov0="Kako pomembna je izobrazba za zaposlitev tujca v Sloveniji?"
             source="Pravna praksa" year="2008" volume="27" issue="16/17" page="21-23"/>
     </delo>
-    <delo mojID="18949">
+    <delo mojID="18949" cobiss="94192640">
         <naslov>Kako postanem dober prodajalec</naslov>
         <cit did="3241" cid="76" avtor0="Rakuša Rudolf" naslov0="Kako postanem dober prodajalec"
             pubPlace="Maribor" publisher="Združenje trgovcev v Mariboru" year="1936"/>
@@ -40868,29 +40868,29 @@
             naslov0="Kako premostiti prepad med ženo gospodinjo in ženo v poklicu"
             source="Ženski svet" year="1940" volume="18" page="203-204"/>
     </delo>
-    <delo mojID="18951">
+    <delo mojID="18951" cobiss="768372">
         <naslov>Kako priti fojbam do dna?</naslov>
         <cit did="1301" cid="51" avtor0="Nemec Nataša" naslov0="Kako priti fojbam do dna?"
             source="Oko" year="1997" issue="VI-X (83, 85-88)" page="16-18"/>
     </delo>
-    <delo mojID="18952">
+    <delo mojID="18952" cobiss="513545855">
         <naslov>Kako razmišljati o nepremični kulturni dediščini - pozitivno,
                         seveda!</naslov>
         <cit did="1622" cid="1" avtor0="Hohnec Tanja"
             naslov0="Kako razmišljati o nepremični kulturni dediščini - pozitivno, seveda!"
             source="Dediščina v rokah stroke" pubPlace="Ljubljana" year="2005" page="41-50"/>
     </delo>
-    <delo mojID="18953">
+    <delo mojID="18953" cobiss="1832535">
         <naslov>Kako razumeti študentska gibanja</naslov>
         <cit did="2503" cid="3" avtor0="Štrajn D." naslov0="Kako razumeti študentska gibanja"
             source="Zgodovina v šoli" year="2008" volume="17" issue="3-4"/>
     </delo>
-    <delo mojID="18954">
+    <delo mojID="18954" cobiss="36350721">
         <naslov>Kako sam branio Antu Markovića</naslov>
         <cit did="333" cid="80" avtor0="Tasić P." naslov0="Kako sam branio Antu Markovića"
             pubPlace="Skopje" year="1993" page="117"/>
     </delo>
-    <delo mojID="18955">
+    <delo mojID="18955" cobiss="19534599">
         <naslov>Kako sam hitao : Sećanja</naslov>
         <cit did="1324" cid="28" avtor0="Bebler A." naslov0="Kako sam hitao : Sećanja"
             pubPlace="Beograd" publisher="NIRO" year="1982"/>
