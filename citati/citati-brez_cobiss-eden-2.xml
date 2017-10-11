@@ -40908,12 +40908,12 @@
             naslov0="Kako se dogodio vodja [How the leader happened]" pubPlace="Beograd"
             publisher="Filip Višnjić" year="1992"/>
     </delo>
-    <delo mojID="18958">
+    <delo mojID="18958" cobiss="2444854">
         <naslov>Kako se je delala cesta na Vršič</naslov>
         <cit did="1304" cid="17" avtor0="Uhan Franz" naslov0="Kako se je delala cesta na Vršič"
             source="Planinski vestnik" year="0" volume="57" issue="3" page="151-163"/>
     </delo>
-    <delo mojID="18962">
+    <delo mojID="18962" cobiss="37441281">
         <naslov>Kako se lahko varčuje v gospodinjstvu</naslov>
         <cit did="1509" cid="106" avtor0="Izgoršek Amalija"
             naslov0="Kako se lahko varčuje v gospodinjstvu"
@@ -40927,7 +40927,7 @@
             naslov0="Kako se stvarala Opatija. Priloži povijesti naseljevanja, grada i zdravstvenog turizma"
             pubPlace="Opatija" year="1988"/>
     </delo>
-    <delo mojID="18966">
+    <delo mojID="18966" cobiss="36350721">
         <naslov>Kako sem branio Antu Markovića</naslov>
         <cit did="1533" cid="7" avtor0="Tasič Predrag" naslov0="Kako sem branio Antu Markovića"
             pubPlace="Kopje" year="1993"/>
@@ -40948,14 +40948,14 @@
             naslov0="Kako sem začela delati na usnjarski šoli" pubPlace="Domžale"
             publisher="Srednja šola Domžale" year="1999"/>
     </delo>
-    <delo mojID="18971">
+    <delo mojID="18971" cobiss="5837613">
         <naslov>Kako si je srednjeveska elita predstavljala kmete</naslov>
         <cit did="2319" cid="26" avtor0="Freedman P."
             naslov0="Kako si je srednjeveska elita predstavljala kmete"
             source="Historicni seminar II." pubPlace="Ljubljana" publisher="Zalozba ZRC" year="1997"
             page="49-69"/>
     </delo>
-    <delo mojID="18972">
+    <delo mojID="18972" cobiss="29583617">
         <naslov>Kako si ohranimo ljubo zdravje</naslov>
         <cit did="3424" cid="55" avtor0="Vedenik Herman" naslov0="Kako si ohranimo ljubo zdravje"
             pubPlace="Celovec" publisher="Družba sv. Mohorja" year="1918"/>
@@ -40965,7 +40965,7 @@
         <cit did="3365" cid="294" avtor0="Petrun Jože" naslov0="Kako si ustvarim smuči?"
             source="Naš dom" year="1930" volume="22" issue="12" page="182-184"/>
     </delo>
-    <delo mojID="18974">
+    <delo mojID="18974" cobiss="283501">
         <naslov>Kako "skrbna" je država?</naslov>
         <cit did="165" cid="13" avtor0="Švab Alenka" naslov0="Kako &#34;skrbna&#34; je država?"
             naslov1="Konceptualizacija skrbi v družinski politiki v Sloveniji"
@@ -40991,7 +40991,7 @@
             source="Za pobedu i slobodu – Završne operacije za oslobođenje Jugoslavije (učesnici govore)"
             pubPlace="Beograd" year="1986" page="99"/>
     </delo>
-    <delo mojID="18980">
+    <delo mojID="18980" cobiss="17002290">
         <naslov>Kako smo začeli</naslov>
         <cit did="1510" cid="159" avtor0="Vinžitin Mile" naslov0="Kako smo začeli"
             source="Goriški zbornik 1947–1951" pubPlace="Nova Gorica" year="1957"/>
@@ -41008,7 +41008,7 @@
             naslov0="Kako so bili Jugoslovani v Julijski krajini postopoma izključeni od sodelovanja v političnem in javnem življenju"
             source="Istra" year="0" issue="50-52"/>
     </delo>
-    <delo mojID="18984">
+    <delo mojID="18984" cobiss="2937654">
         <naslov>Kako so gradili cesto na Vršič</naslov>
         <cit did="2415" cid="1" avtor0="Blažej Anton" naslov0="Kako so gradili cesto na Vršič"
             source="Planinski vestnik" volume="52" issue="3" page="125-128"/>
@@ -41057,7 +41057,7 @@
             naslov0="Kako Stockholm odgovarja na Haag?"
             naslov1="XVI. dnevi slovenske uprave, referat" pubPlace="Portorož" year="2009"/>
     </delo>
-    <delo mojID="19002">
+    <delo mojID="19002" cobiss="2210676">
         <naslov>Kako su komunisti osvojili vlast 1944-1946</naslov>
         <cit did="1650" cid="4" avtor0="Vodušek Starič Jerca"
             naslov0="Kako su komunisti osvojili vlast 1944-1946" pubPlace="Zagreb" year="2006"/>
@@ -41074,13 +41074,13 @@
             naslov0="Kako su se izražavali različiti politički interesi u Jugoslaviji? Роlemika između Dobrice Ćosića i Dušana Pirjevca 1961/1962. godine"
             source="Http://www.cpi.hr/download/links/hr/7316.pdf"/>
     </delo>
-    <delo mojID="19006">
+    <delo mojID="19006" cobiss="1056211">
         <naslov>Kako velike so bile male kraje Matevža Kavčiča</naslov>
         <cit did="738" cid="3" avtor0="Čeč D."
             naslov0="Kako velike so bile male kraje Matevža Kavčiča" source="Zgodovina za vse"
             year="2005" issue="2" page="32-52"/>
     </delo>
-    <delo mojID="19007">
+    <delo mojID="19007" cobiss="95427072">
         <naslov>Kako vzgojim svojo deco. Za meščanske, kmečke in proletarske matere</naslov>
         <cit did="3424" cid="49" avtor0="Stupan Milica"
             naslov0="Kako vzgojim svojo deco. Za meščanske, kmečke in proletarske matere"
@@ -41093,7 +41093,7 @@
             naslov0="Kakovost izobraževanja s poudarkom na izobraževanju učiteljev in drugih izobraževalcev"
             source="Vzgoja in izobraževanje" year="2004" volume="35" issue="3" page="29"/>
     </delo>
-    <delo mojID="19010">
+    <delo mojID="19010" cobiss="3910985">
         <naslov>Kakovost v šoli</naslov>
         <cit did="3189" cid="15" avtor0="Medveš Z." naslov0="Kakovost v šoli"
             source="Sodobna pedagogika" year="2000" volume="52" issue="4" page="8-26"/>
