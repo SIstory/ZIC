@@ -41098,7 +41098,7 @@
         <cit did="3189" cid="15" avtor0="Medveš Z." naslov0="Kakovost v šoli"
             source="Sodobna pedagogika" year="2000" volume="52" issue="4" page="8-26"/>
     </delo>
-    <delo mojID="19011">
+    <delo mojID="19011" cobiss="4938241">
         <naslov>Kakršno vprašanje, takšen odgovor</naslov>
         <cit did="704" cid="9" avtor0="Marentič-Požarnik Barica, Plut Leopoldina"
             naslov0="Kakršno vprašanje, takšen odgovor" pubPlace="Ljubljana"
@@ -41161,7 +41161,7 @@
         <cit did="2409" cid="1" avtor0="Lilio Luigi"
             naslov0="Kalendarium Gregorianum perpetum cum privilegio..." pubPlace="Rim" year="0"/>
     </delo>
-    <delo mojID="19027">
+    <delo mojID="19027" cobiss="7106712">
         <naslov>Kali v Danah, Kal v Lasatkah, kal pri Vrabcih, Podkal</naslov>
         <cit did="2783" cid="5" avtor0="Maher Igor"
             naslov0="Kali v Danah, Kal v Lasatkah, kal pri Vrabcih, Podkal" pubPlace="Nova Gorica"
@@ -41200,12 +41200,12 @@
         <cit did="1512" cid="46" avtor0="Ušeničnik Aleš" naslov0="Kam plovemo?" source="Čas"
             year="1913" volume="7" page="228"/>
     </delo>
-    <delo mojID="19035">
+    <delo mojID="19035" cobiss="50050048">
         <naslov>Kameleoni : 1965-1995</naslov>
         <cit did="837" cid="2" avtor0="Hmeljak Franko" naslov0="Kameleoni : 1965-1995"
             pubPlace="Koper" publisher="Capris" year="1995" page="10-24"/>
     </delo>
-    <delo mojID="19036">
+    <delo mojID="19036" cobiss="124590336">
         <naslov>Kamen, voda, sonce in veter</naslov>
         <cit did="111" cid="4" avtor0="Gogala Andrej" naslov0="Kamen, voda, sonce in veter"
             source="Narava Krasa in slovenske Istre" pubPlace="Ljubljana" year="2003" page="80-81"/>
@@ -41216,19 +41216,19 @@
             naslov0="Kameni blokovi na gradini Karastak" source="Histria Antiqua" pubPlace="Pulj"
             year="1997" volume="3" page="77-82"/>
     </delo>
-    <delo mojID="19038">
+    <delo mojID="19038" cobiss="6976054">
         <naslov>Kameradi niso poslušali nemške komande</naslov>
         <cit did="1457" cid="23" avtor0="Košnjek Jože"
             naslov0="Kameradi niso poslušali nemške komande" source="Gorenjski glas" year="0"
             issue="78" page="3"/>
     </delo>
-    <delo mojID="19039">
+    <delo mojID="19039" cobiss="18049634">
         <naslov>Kamilo Mašek v prostoru in času</naslov>
         <cit did="2270" cid="15" avtor0="Nagode Aleš" naslov0="Kamilo Mašek v prostoru in času"
             source="Maškov zbornik" pubPlace="Ljubljana" publisher="Družina" year="2002"
             page="59-68"/>
     </delo>
-    <delo mojID="19040">
+    <delo mojID="19040" cobiss="97309696">
         <naslov>Kamna Gorica na nakovalu časa</naslov>
         <cit did="393" cid="16" avtor0="Kunej M." naslov0="Kamna Gorica na nakovalu časa"
             pubPlace="Kranj" publisher="Gorenjski muzej" year="1999"/>
@@ -41238,14 +41238,14 @@
         <cit did="2452" cid="2" avtor0="Grafenauer Bogo" naslov0="Kamnik 1229-1979"
             source="Zbornik s simpozija ob 750-letnici mesta" year="1984" page="17"/>
     </delo>
-    <delo mojID="19043">
+    <delo mojID="19043" cobiss="11343714">
         <naslov>Kamnita baročna plastika v Sloveniji. Topografske študije. Vplivno področje
                         Ljubljane</naslov>
         <cit did="2288" cid="81" avtor0="Klemenčič M."
             naslov0="Kamnita baročna plastika v Sloveniji. Topografske študije. Vplivno področje Ljubljane"
             naslov1="magistrska naloga" pubPlace="Ljubljana" year="1998"/>
     </delo>
-    <delo mojID="19045">
+    <delo mojID="19045" cobiss="650195">
         <naslov>Kamnita zgodnjesrednjeveška ornamentirana fragmenta iz okolice
                         Kopra</naslov>
         <cit did="765" cid="25" avtor0="Župančič Matej"
@@ -41258,14 +41258,14 @@
         <cit did="2636" cid="25" avtor0="Ciglič Z." naslov0="Kamniti svet - II mondo della pietra"
             pubPlace="Koper" year="1993"/>
     </delo>
-    <delo mojID="19047">
+    <delo mojID="19047" cobiss="62231040">
         <naslov>Kamniti velikan na Soči: most čez Sočo pri Solkanu - most z največjim
                         kamnitim lokom na železniških progah na svetu</naslov>
         <cit did="2078" cid="5" avtor0="Humar G."
             naslov0="Kamniti velikan na Soči: most čez Sočo pri Solkanu - most z največjim kamnitim lokom na železniških progah na svetu"
             pubPlace="Nova Gorica" publisher="Branko" year="1996"/>
     </delo>
-    <delo mojID="19049">
+    <delo mojID="19049" cobiss="661814">
         <naslov>Kamniško območje od srede 18. do srede 19. stoletja</naslov>
         <cit did="2590" cid="72" avtor0="Žontar Jože"
             naslov0="Kamniško območje od srede 18. do srede 19. stoletja"
@@ -41310,30 +41310,30 @@
         <cit did="440" cid="2" avtor0="Hauptmann Karl Gressel" naslov0="Kampf um Arnoldstein"
             source="Kampf um Kärnten" year="1930" page="96-98"/>
     </delo>
-    <delo mojID="19063">
+    <delo mojID="19063" cobiss="438349">
         <naslov>Kanalska dolina</naslov>
         <cit did="438" cid="29" avtor0="Stranj Pavel" naslov0="Kanalska dolina"
             source="Kritična analiza ocen etnične strukture prebivalstva"
             publisher="Razprave in gradivo" year="1992" volume="26-27" page="72-109"/>
     </delo>
-    <delo mojID="19064">
+    <delo mojID="19064" cobiss="1686252">
         <naslov>Kanalska dolina in slovenska kultura</naslov>
         <cit did="2900" cid="53" avtor0="Dolhar Vida" naslov0="Kanalska dolina in slovenska kultura"
             pubPlace="Trst" year="1999"/>
     </delo>
-    <delo mojID="19065">
+    <delo mojID="19065" cobiss="2540109">
         <naslov>Kanalska dolina/Val Canale</naslov>
         <cit did="857" cid="21" avtor0="Komac Miran, Venosi Salvatore"
             naslov0="Kanalska dolina/Val Canale" source="Razprave in gradivo" year="1987" issue="20"
             page="157-183"/>
     </delo>
-    <delo mojID="19066">
+    <delo mojID="19066" cobiss="12871981">
         <naslov>Kancelarisko poslovanje i arhivska služba</naslov>
         <cit did="2843" cid="76" avtor0="Vilfan Sergij"
             naslov0="Kancelarisko poslovanje i arhivska služba" source="Arhivist" year="1958"
             volume="8" issue="1-2" page="29-40"/>
     </delo>
-    <delo mojID="19067">
+    <delo mojID="19067" cobiss="10909261">
         <naslov>Kancler Gusenbauer je predlagal med 162 in 166 dvojezičnih napisov</naslov>
         <cit did="2734" cid="47" avtor0="Kumer Silvo"
             naslov0="Kancler Gusenbauer je predlagal med 162 in 166 dvojezičnih napisov"
@@ -41364,7 +41364,7 @@
             source="Kanfanar, Udruga za očuvanje i promociju naslijeđa Dvegrajci" year="1998"
             page="9-18"/>
     </delo>
-    <delo mojID="19073">
+    <delo mojID="19073" cobiss="545747">
         <naslov>Kann die Verschiebung der römischen Truppen vom Reinland nach Norditalien in
                         den Jahren 401/402 archäologisch bezeugt werden?</naslov>
         <cit did="2787" cid="47" avtor0="Župančič Matej"
@@ -41391,7 +41391,7 @@
         <cit did="2409" cid="60" avtor0="Mahal Günther" naslov0="Kannte Melanchthon Faust?"
             pubPlace="Wittenberg" year="1997" page="29-31"/>
     </delo>
-    <delo mojID="19078">
+    <delo mojID="19078" cobiss="6547714">
         <naslov>Kanonske vizitacije zagrebačke (nad)biskupije</naslov>
         <cit did="3465" cid="41" avtor0="Metod Kolanović Josip"
             naslov0="Kanonske vizitacije zagrebačke (nad)biskupije" pubPlace="Zagreb"
@@ -41451,7 +41451,7 @@
         <cit did="212" cid="35" avtor0="Gössinger Antonia" naslov0="Kanzler wird alle einladen"
             source="Kleine Zeitung" pubPlace="Graz" year="0" page="5"/>
     </delo>
-    <delo mojID="19091">
+    <delo mojID="19091" cobiss="3777283">
         <naslov>Kapelica</naslov>
         <cit did="3079" cid="10" avtor0="Širok K." naslov0="Kapelica" pubPlace="Ljubljana"
             publisher="Akademska založba" year="1935"/>
@@ -41462,12 +41462,12 @@
             naslov0="Kapelice i križevi Brodkupske doline" source="Etnološka tribina" year="2004"
             volume="27-28" page="173-183"/>
     </delo>
-    <delo mojID="19093">
+    <delo mojID="19093" cobiss="42138880">
         <naslov>Kapetanije u Bosni i Hercegovini</naslov>
         <cit did="2543" cid="21" avtor0="Kreševljaković Hamdija"
             naslov0="Kapetanije u Bosni i Hercegovini" pubPlace="Sarajeva" year="1980"/>
     </delo>
-    <delo mojID="19094">
+    <delo mojID="19094" cobiss="2703105">
         <naslov>Kapital: Kritika politične ekonomije</naslov>
         <cit did="3155" cid="17" avtor0="Marx Karl" naslov0="Kapital: Kritika politične ekonomije"
             pubPlace="Ljubljana" publisher="CZ" year="1961"/>
@@ -41478,7 +41478,7 @@
             pubPlace="Chicago" publisher="Jugoslovanska delavska tiskovna družba" year="1908"
             volume="3" issue="23" page="4"/>
     </delo>
-    <delo mojID="19097">
+    <delo mojID="19097" cobiss="71115776">
         <naslov>Kapiteljska njiva</naslov>
         <cit did="2266" cid="22" avtor0="Križ Borut" naslov0="Kapiteljska njiva"
             pubPlace="Novo mesto" year="1997"/>
@@ -41510,12 +41510,12 @@
             source="700-letnica nadžupnije Sv. Križ" pubPlace="Rogaška Slatina" year="2004"
             page="37"/>
     </delo>
-    <delo mojID="19109">
+    <delo mojID="19109" cobiss="46978560">
         <naslov>Kapucini v Novem mestu</naslov>
         <cit did="1298" cid="66" avtor0="Benedik Metod" naslov0="Kapucini v Novem mestu"
             source="Zgodovinski časopis" year="1994" volume="48" issue="2" page="195-216"/>
     </delo>
-    <delo mojID="19111">
+    <delo mojID="19111" cobiss="14473517">
         <naslov>Kapucinska pridigarska dejavnost</naslov>
         <cit did="1735" cid="8" avtor0="Benedik Metod" naslov0="Kapucinska pridigarska dejavnost"
             source="Zbornik o Janezu Svetokriškem: prispevki s simpozija v Vipavskem Križu 22.-24. aprila 1999"
@@ -41529,7 +41529,7 @@
             source="Slovenska kronika 19. stoletja" pubPlace="Ljubljana" publisher="Nova revija"
             year="2003" page="135"/>
     </delo>
-    <delo mojID="19113">
+    <delo mojID="19113" cobiss="220903424">
         <naslov>Kar ostaja od Auschwitza</naslov>
         <cit did="2477" cid="13" avtor0="Agamben Giorgio" naslov0="Kar ostaja od Auschwitza"
             pubPlace="Ljubljana" publisher="Založba ZRC" year="2005" page="23-25"/>
@@ -41567,7 +41567,7 @@
             naslov0="karakterizacija stavk in mezdnih bojev v Trstu v desetletjih pred prvo svetovno vojno"
             source="Goriški letnik" year="1979" page="93-113"/>
     </delo>
-    <delo mojID="19124">
+    <delo mojID="19124" cobiss="1102548">
         <naslov>Karantanien im Spannungsfeld zwischen Awaren und Baiern</naslov>
         <cit did="2165" cid="38" avtor0="Szameit Erik"
             naslov0="Karantanien im Spannungsfeld zwischen Awaren und Baiern"
@@ -41578,12 +41578,12 @@
         <cit did="2165" cid="5" avtor0="Gleirscher Paul"
             naslov0="Karantanijen: dasslawische Kärnten" pubPlace="Klagenfurt" year="2000"/>
     </delo>
-    <delo mojID="19132">
+    <delo mojID="19132" cobiss="7208708">
         <naslov>Karantanski Slovani in Neslovani</naslov>
         <cit did="751" cid="47" avtor0="Pleterski Andrej" naslov0="Karantanski Slovani in Neslovani"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1985" page="351-357"/>
     </delo>
-    <delo mojID="19134">
+    <delo mojID="19134" cobiss="31761152">
         <naslov>Karantenska postaja za vojne ujetnike na ljubljanskem gradu</naslov>
         <cit did="3161" cid="58" avtor0="Matič Dragan"
             naslov0="Karantenska postaja za vojne ujetnike na ljubljanskem gradu"
@@ -41595,7 +41595,7 @@
             naslov0="Karavanske stanice u Polinlju u srednjem veku" source="Mileševski zapisi 2"
             pubPlace="Priljepolje" year="1997" page="7-24"/>
     </delo>
-    <delo mojID="19137">
+    <delo mojID="19137" cobiss="1260660">
         <naslov>Karbonarji na ljubljanskem gradu</naslov>
         <cit did="2779" cid="9" avtor0="Studen Andrej" naslov0="Karbonarji na ljubljanskem gradu"
             source="Slovenska kronika XIX. stoletja. Knjiga 1." pubPlace="Ljubljana"
@@ -41642,7 +41642,7 @@
             naslov0="Karel Vaclav Klič: O zapomínanem umelci, který se stal vynalezcem, Statni nakladatelstvi krasne literatury, hud-by a umeni"
             pubPlace="Praga" year="1955"/>
     </delo>
-    <delo mojID="19147">
+    <delo mojID="19147" cobiss="970629">
         <naslov>Karel VI. potrdi celjske mestne svoboščine</naslov>
         <cit did="76" cid="1" avtor0="Žižek Aleksander"
             naslov0="Karel VI. potrdi celjske mestne svoboščine" pubPlace="Celje" year="2005"/>
@@ -41660,7 +41660,7 @@
             naslov0="Kari Hudeczek, Osterreichische Handelspolitik im Vormärz, Studien zur Sozial, Wirtschafts und Handels- geschichte XI, Wien 1918."
             pubPlace="Wien" year="1918"/>
     </delo>
-    <delo mojID="19150">
+    <delo mojID="19150" cobiss="513085823">
         <naslov>Kari Jožef Prenner - loški muzealec ter njegove zgodovinske, topografske in
                         umet-nostnozgodovinske razprave</naslov>
         <cit did="2032" cid="6" avtor0="Golob France"
@@ -41676,13 +41676,13 @@
             source="La necropoli di San Servolo: Veneti, Istri, Celti e Romani nel territorio di Trieste"
             pubPlace="Trieste" publisher="Civici Musei di Storia ed Arte" year="2002" page="17-23"/>
     </delo>
-    <delo mojID="19152">
+    <delo mojID="19152" cobiss="2445320">
         <naslov>Karibska rapsodija - življenjepis morja</naslov>
         <cit did="2625" cid="2" avtor0="Arciniegas German"
             naslov0="Karibska rapsodija - življenjepis morja" pubPlace="Gorenji Logatec"
             publisher="Državna založba Slovenije" year="1963"/>
     </delo>
-    <delo mojID="19155">
+    <delo mojID="19155" cobiss="119222272">
         <naslov>"Karikature v letih prve svetovne"</naslov>
         <cit did="2189" cid="2" avtor0="Globočnik D."
             naslov0="&#34;Karikature v letih prve svetovne&#34;" source="Zgodovinski časopis"
@@ -41745,7 +41745,7 @@
             naslov0="Karl Ludwig Moser e gli scavi a San Servolo alla luce del materiale archivistico della i.r."
             source="La necropoli San Servolo" pubPlace="Trieste" year="2002" page="17-23"/>
     </delo>
-    <delo mojID="19169">
+    <delo mojID="19169" cobiss="41379938">
         <naslov>Karl Lueger (1844-1910) - Christlichsoziale Politik als Beruf</naslov>
         <cit did="2768" cid="6" avtor0="Boyer John W."
             naslov0="Karl Lueger (1844-1910) - Christlichsoziale Politik als Beruf" pubPlace="Wien"
@@ -41756,7 +41756,7 @@
         <cit did="742" cid="41" avtor0="Mehring F." naslov0="Karl Marx :  Geschichte seines Lebens"
             pubPlace="Leipzig" publisher="Buchdruckerei Aktienges" year="1918"/>
     </delo>
-    <delo mojID="19171">
+    <delo mojID="19171" cobiss="214996">
         <naslov>Karl R. Popper in kritični racionalizem</naslov>
         <cit did="421" cid="2" avtor0="Baum W., Gozàlez K. E."
             naslov0="Karl R. Popper in kritični racionalizem" pubPlace="Celovec"
@@ -41779,7 +41779,7 @@
             naslov0="Karlovac, poviest i mjestopis grada i okolice" pubPlace="Zagreb" year="0"
             page="202"/>
     </delo>
-    <delo mojID="19178">
+    <delo mojID="19178" cobiss="2988343">
         <naslov>Karlovac: utvrde, granice i ljudi</naslov>
         <cit did="1787" cid="16" avtor0="Kruhek Milan" naslov0="Karlovac: utvrde, granice i ljudi"
             pubPlace="Karlovac" year="1995" page="67-68"/>
@@ -41792,19 +41792,19 @@
             naslov0="Karlsruhe im 18. Jahrhundert. Zur Genese und sozialen Schichtung einer residenzstädtischen Bevölkerung, Forschungen und Quellen zur Stadtgeschichte, Bd. 1. Schriftenreihe des Stadsarchivcs Karlsruhe"
             pubPlace="Karslruhe" year="1992"/>
     </delo>
-    <delo mojID="19180">
+    <delo mojID="19180" cobiss="112334336">
         <naslov>Karluzija Bistra</naslov>
         <cit did="2583" cid="136" avtor0="Mlinarič Jože" naslov0="Karluzija Bistra"
             pubPlace="Ljubljana" year="2001"/>
     </delo>
-    <delo mojID="19182">
+    <delo mojID="19182" cobiss="512089379">
         <naslov>Karntner Grenzbefestigungen - The Carinthian Border Fortifications, Museum
                         1915-18 Kotschach-Mouthe</naslov>
         <cit did="2015" cid="31" avtor0="Schaumann W."
             naslov0="Karntner Grenzbefestigungen - The Carinthian Border Fortifications, Museum 1915-18 Kotschach-Mouthe"
             pubPlace="Przasnysz" year="2003"/>
     </delo>
-    <delo mojID="19183">
+    <delo mojID="19183" cobiss="4634445">
         <naslov>Karntner Slowenen - Minderheit oder Elite? Neuere Tendenzen der ethnischen
                         Arbeilsteilung</naslov>
         <cit did="2825" cid="39" avtor0="Reiterer Albert F."
@@ -41822,7 +41822,7 @@
             source="Überlieferung und Geltung normativer Texte des frühen und hohen Mittelalters"
             pubPlace="Sigmaringen" publisher="Thorbecke" year="1986" page="25-50"/>
     </delo>
-    <delo mojID="19186">
+    <delo mojID="19186" cobiss="46201856">
         <naslov>Karolingische Markgrafen im Südosten</naslov>
         <cit did="425" cid="125" avtor0="Mitterauer Michael"
             naslov0="Karolingische Markgrafen im Südosten"
@@ -41847,12 +41847,12 @@
             naslov0="Karolinški rudarski red za idrijski rudnik 1580" source="Idrijski razgledi"
             year="1969" volume="14" issue="2" page="57-71"/>
     </delo>
-    <delo mojID="19190">
+    <delo mojID="19190" cobiss="776008">
         <naslov>Karta obsoške poti iz 17. stoletja</naslov>
         <cit did="2640" cid="39" avtor0="Gestrin Ferdo" naslov0="Karta obsoške poti iz 17. stoletja"
             source="ZČ" year="1987" volume="41" page="97-101"/>
     </delo>
-    <delo mojID="19193">
+    <delo mojID="19193" cobiss="27806465">
         <naslov>Karta slovenskih narečij v priročni izdaji</naslov>
         <cit did="1624" cid="95" avtor0="Ramovš Fran"
             naslov0="Karta slovenskih narečij v priročni izdaji" pubPlace="Ljubljana" publisher="CZ"
@@ -41866,7 +41866,7 @@
             source="Zgovornost podob: pogled iz drugega zornega kota (katalog razstave)"
             pubPlace="Ljubljana" publisher="Knjižnica Narodne galerije" year="2002" page="28-42"/>
     </delo>
-    <delo mojID="19198">
+    <delo mojID="19198" cobiss="23596845">
         <naslov>Kartografska podoba zemljevidov 19. stoletja</naslov>
         <cit did="2161" cid="28" avtor0="Fridl Jerneja"
             naslov0="Kartografska podoba zemljevidov 19. stoletja"
@@ -41895,12 +41895,12 @@
             naslov0="Kartographische Darstellungen der Grenzen zwieschen dem West- und Südslawischen auf österreichen Gebiet"
             source="Österreichische Namenfoschung 1" year="1974" page="10-18"/>
     </delo>
-    <delo mojID="19204">
+    <delo mojID="19204" cobiss="29339137">
         <naslov>Kartuzija Jurklošter ok. 1170-1595</naslov>
         <cit did="1912" cid="174" avtor0="Mlinarič Jože"
             naslov0="Kartuzija Jurklošter ok. 1170-1595" pubPlace="Maribor" year="1991"/>
     </delo>
-    <delo mojID="19207">
+    <delo mojID="19207" cobiss="7142915">
         <naslov>Kartuzija Žiče (1595-1782)</naslov>
         <cit did="296" cid="1" avtor0="Mlinarič Jože" naslov0="Kartuzija Žiče (1595-1782)"
             source="ČZN" year="1974" volume="45" issue="1" page="107"/>
@@ -41922,14 +41922,14 @@
             naslov0="Kasnoantičko i ranosrednjevjekovno groblje kaštela Dvograd"
             source="Histria archeologica" pubPlace="Pula" publisher="AMI" year="1970"/>
     </delo>
-    <delo mojID="19214">
+    <delo mojID="19214" cobiss="3080800">
         <naslov>Kasnoantičko i ranosrednjovjekovno groblje kaštela Dvograd</naslov>
         <cit did="1998" cid="22" avtor0="Marušić B."
             naslov0="Kasnoantičko i ranosrednjovjekovno groblje kaštela Dvograd"
             source="Histria archaeologica" pubPlace="Pula" year="1972" volume="1" issue="1"
             page="5-29"/>
     </delo>
-    <delo mojID="19215">
+    <delo mojID="19215" cobiss="6129504">
         <naslov>Kasnosrednjovjekovna i renesansna keramika s područja Istre: stolno posuđe
                         od 14. do 16. st. / Le ceramiche bassomedievali e rinascimentali in
                         territorio istriano: il vasellame da mensa dei secoli XIV-XVI</naslov>
@@ -41937,7 +41937,7 @@
             naslov0="Kasnosrednjovjekovna i renesansna keramika s područja Istre: stolno posuđe od 14. do 16. st. / Le ceramiche bassomedievali e rinascimentali in territorio istriano: il vasellame da mensa dei secoli XIV-XVI"
             pubPlace="Pula" publisher="Arheološki muzej Istre" year="2006"/>
     </delo>
-    <delo mojID="19217">
+    <delo mojID="19217" cobiss="806993">
         <naslov>Kastavščina in njeni statuti do konca 16. stoletja</naslov>
         <cit did="2583" cid="225" avtor0="Žontar Josip"
             naslov0="Kastavščina in njeni statuti do konca 16. stoletja"
@@ -41963,7 +41963,7 @@
             naslov0="Katalog keramičnih najdb iz Celja. Srednjeveško Celje"
             source="Archaeologia Historica Slovenka" year="2001" volume="3" page="195-238"/>
     </delo>
-    <delo mojID="19225">
+    <delo mojID="19225" cobiss="24512557">
         <naslov>Katalog knjiga XVI. st. u Metropolitanskoj knjiznici u Zagreb</naslov>
         <cit did="2638" cid="32" avtor0="Magić Vladimir"
             naslov0="Katalog knjiga XVI. st. u Metropolitanskoj knjiznici u Zagreb"
@@ -41999,7 +41999,7 @@
             source="Dictionare des Antiquites Grecques et Romaines" pubPlace="Paris" year="1904"
             page="808-810"/>
     </delo>
-    <delo mojID="19232">
+    <delo mojID="19232" cobiss="365877">
         <naslov>Katarina Celjska-Kotromanicka in njen pecat</naslov>
         <cit did="2631" cid="371" avtor0="Voje Ignacij"
             naslov0="Katarina Celjska-Kotromanicka in njen pecat"
@@ -42020,12 +42020,12 @@
             source="Zbornik radova Ilariona Ruvarca : Odabrani istorski radovi I" pubPlace="Beograd"
             year="1934" page="350"/>
     </delo>
-    <delo mojID="19236">
+    <delo mojID="19236" cobiss="109778944">
         <naslov>Katarina, pav in jezuit</naslov>
         <cit did="2544" cid="8" avtor0="Jančar Drago" naslov0="Katarina, pav in jezuit"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="2000"/>
     </delo>
-    <delo mojID="19237">
+    <delo mojID="19237" cobiss="1457153">
         <naslov>Katarina Velika</naslov>
         <cit did="238" cid="6" avtor0="Kaus G." naslov0="Katarina Velika" pubPlace="Ljubljana"
             year="1969" page="319"/>
@@ -42050,24 +42050,24 @@
             source="Virus. Beiträge zur Sozialgeschichte der Medizin" pubPlace="Wien" year="2009"
             issue="8" page="43-49"/>
     </delo>
-    <delo mojID="19241">
+    <delo mojID="19241" cobiss="91810816">
         <naslov>Katechismus der Einrichtung und des Betriebes der Wassermühlen</naslov>
         <cit did="2614" cid="43" avtor0="Kosak  G."
             naslov0="Katechismus der Einrichtung und des Betriebes der Wassermühlen" pubPlace="Wien"
             year="0"/>
     </delo>
-    <delo mojID="19242">
+    <delo mojID="19242" cobiss="45589090">
         <naslov>Katedrala Sv. Marije Velike u Rabu</naslov>
         <cit did="711" cid="8" avtor0="Domijan M." naslov0="Katedrala Sv. Marije Velike u Rabu"
             pubPlace="Split" publisher="Muzej hrvatskih arheoloških spomenika" year="2005"/>
     </delo>
-    <delo mojID="19243">
+    <delo mojID="19243" cobiss="49967458">
         <naslov>Katedrala v Šibeniku in vprašanje njene fasade</naslov>
         <cit did="328" cid="90" avtor0="Štefanac Samo"
             naslov0="Katedrala v Šibeniku in vprašanje njene fasade" naslov1="Diplomska naloga"
             pubPlace="Ljubljana" year="1981"/>
     </delo>
-    <delo mojID="19244">
+    <delo mojID="19244" cobiss="14514018">
         <naslov>Katedrála Svatého Víta na Pražském hradě</naslov>
         <cit did="1588" cid="44" avtor0="Líbal Dobroslav, Zahradník Pavel"
             naslov0="Katedrála Svatého Víta na Pražském hradě" pubPlace="Praha" year="1999"/>
@@ -42114,7 +42114,7 @@
             source="Evangelish in Steiermark, Glaubenskampf - Toleranz - Brüderlichkeit"
             pubPlace="Graz" year="1981"/>
     </delo>
-    <delo mojID="19257">
+    <delo mojID="19257" cobiss="29463808">
         <naslov>Katoliska cerkev in spolnost</naslov>
         <cit did="2631" cid="114" avtor0="Ranke Heinemann U." naslov0="Katoliska cerkev in spolnost"
             pubPlace="Ljubljana" year="1992"/>
@@ -42135,7 +42135,7 @@
             naslov0="Katolička crkva i Nezavisna država Hrvatska 1941-1945. Dokumenti"
             pubPlace="Zagreb" publisher="Hrvatski institut za povijest" year="1998" page="42-43"/>
     </delo>
-    <delo mojID="19263">
+    <delo mojID="19263" cobiss="21438306">
         <naslov>Katolička crkva na biokovsko-neretvanskom području u doba turške
                         vladavine</naslov>
         <cit did="2112" cid="10" avtor0="Jurišić K."
@@ -42147,50 +42147,50 @@
         <cit did="3292" cid="173" avtor0="Jeglič Anton Bonaventura"
             naslov0="Katolička Crkva u državi SHS" source="Nova Evropa" year="1923" issue="1"/>
     </delo>
-    <delo mojID="19267">
+    <delo mojID="19267" cobiss="5348611">
         <naslov>Katolička crkva u Srbiji pod zaštitom A. U. Monarhije</naslov>
         <cit did="1894" cid="48" avtor0="Lovrić Bruno"
             naslov0="Katolička crkva u Srbiji pod zaštitom A. U. Monarhije" pubPlace="Niš"
             year="1930" page="3"/>
     </delo>
-    <delo mojID="19269">
+    <delo mojID="19269" cobiss="4655881">
         <naslov>Katoličko priklanjanje ideologiji jugoslavenstva</naslov>
         <cit did="2201" cid="76" avtor0="Krišto Jure"
             naslov0="Katoličko priklanjanje ideologiji jugoslavenstva" source="ČSP" year="1992"
             volume="24" issue="2" page="25-45"/>
     </delo>
-    <delo mojID="19271">
+    <delo mojID="19271" cobiss="56436">
         <naslov>Katoliška Cerkev in Ameriški Slovenci 1871-1924</naslov>
         <cit did="1391" cid="7" avtor0="Friš Darko"
             naslov0="Katoliška Cerkev in Ameriški Slovenci 1871-1924"
             pubPlace="Celovec-Ljubljana-Dunaj" publisher="Mohorjeva družba v Celovcu" year="1995"
             page="339"/>
     </delo>
-    <delo mojID="19272">
+    <delo mojID="19272" cobiss="9469441">
         <naslov>Katoliška cerkev in država v Jugoslaviji 1945-1973</naslov>
         <cit did="826" cid="120" avtor0="Roter Zdenko"
             naslov0="Katoliška cerkev in država v Jugoslaviji 1945-1973" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="1976"/>
     </delo>
-    <delo mojID="19273">
+    <delo mojID="19273" cobiss="22173026">
         <naslov>Katoliška cerkev in oblast v osemdesetih letih</naslov>
         <cit did="1516" cid="9" avtor0="Repe Božo"
             naslov0="Katoliška cerkev in oblast v osemdesetih letih" source="ZČ" year="2003"
             volume="57" issue="1-2" page="135-146"/>
     </delo>
-    <delo mojID="19275">
+    <delo mojID="19275" cobiss="1796468">
         <naslov>Katoliška Cerkev na Goriškem med prvo svetovno vojno</naslov>
         <cit did="1429" cid="8" avtor0="Podbersič Renato"
             naslov0="Katoliška Cerkev na Goriškem med prvo svetovno vojno" pubPlace="Ljubljana"
             publisher="Filozofska fakulteta" year="2004"/>
     </delo>
-    <delo mojID="19277">
+    <delo mojID="19277" cobiss="608723">
         <naslov>Katoliška cerkev v Sloveniji in leto 1991</naslov>
         <cit did="1297" cid="8" avtor0="Pelikan Egon"
             naslov0="Katoliška cerkev v Sloveniji in leto 1991" source="Acta Histriae" year="2003"
             volume="11" issue="1" page="228"/>
     </delo>
-    <delo mojID="19278">
+    <delo mojID="19278" cobiss="235893">
         <naslov>Katoliška Cerkev v Sloveniji in Rim po l. 1945</naslov>
         <cit did="1854" cid="2" avtor0="Dolinar F. M."
             naslov0="Katoliška Cerkev v Sloveniji in Rim po l. 1945" source="V prelomnih časih"
@@ -42202,18 +42202,18 @@
             naslov0="Katoliška Cerkev v Sloveniji po drugi svetovni vojni"
             source="Temna stran meseca" pubPlace="Ljubljana" year="1998" page="222-233"/>
     </delo>
-    <delo mojID="19281">
+    <delo mojID="19281" cobiss="1530484">
         <naslov>Katoliška crkva, Stepinac i Pavelić</naslov>
         <cit did="3292" cid="160" avtor0="Mužić Ivan" naslov0="Katoliška crkva, Stepinac i Pavelić"
             pubPlace="Split" publisher="Marjan tisak" year="2003"/>
     </delo>
-    <delo mojID="19282">
+    <delo mojID="19282" cobiss="2206042">
         <naslov>Katoliška crkva u Kraljevini Jugoslaviji</naslov>
         <cit did="2769" cid="28" avtor0="Mužić Ivan"
             naslov0="Katoliška crkva u Kraljevini Jugoslaviji" pubPlace="Split"
             publisher="Crkva u svijetu" year="1978"/>
     </delo>
-    <delo mojID="19287">
+    <delo mojID="19287" cobiss="14060">
         <naslov>Katoliška socialno politična misel Virgila Sčeka</naslov>
         <cit did="1431" cid="1" avtor0="Bandelj Boris"
             naslov0="Katoliška socialno politična misel Virgila Sčeka"
@@ -42250,7 +42250,7 @@
             naslov0="Kauza Šefánik : legendy, fakty a otázniky okolo vzniku Češko-Slovenskej republiky"
             pubPlace="Martin" publisher="Matica slovenská" year="2004"/>
     </delo>
-    <delo mojID="19299">
+    <delo mojID="19299" cobiss="103284992">
         <naslov>Kava</naslov>
         <cit did="1738" cid="11" avtor0="Jezernik Božidar" naslov0="Kava" pubPlace="Ljubljana"
             publisher="Rokus" year="1999"/>
@@ -42261,7 +42261,7 @@
             naslov0="Kazališni i kulturno-umjetnički život Pule" pubPlace="Pula"
             publisher="Naučna biblioteka" year="1962"/>
     </delo>
-    <delo mojID="19301">
+    <delo mojID="19301" cobiss="13821538">
         <naslov>Kazalke kot problematično sredstvo za slovarski opis leksikalni
                         enot</naslov>
         <cit did="2527" cid="3" avtor0="Gabrovšek Dušan"
@@ -42269,7 +42269,7 @@
             source="Uporabno jezikoslovje" pubPlace="Ljubljana"
             publisher="Društvo za uporabno jezikoslovje Slovenije" year="1999" page="127-136"/>
     </delo>
-    <delo mojID="19302">
+    <delo mojID="19302" cobiss="4740099">
         <naslov>Kazalo k zgodovinskim publikacijam Muzejskega društva za Slovenijo 1891—
                         1939</naslov>
         <cit did="2116" cid="8" avtor0="Pivec Stele Melitta"
@@ -42289,12 +42289,12 @@
             naslov0="Kazenske določbe za stečaj in bankrot na Slovenske od 1868 do druge svetovne vojne"
             source="Stiplovškov zbornik" pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="19309">
+    <delo mojID="19309" cobiss="118340352">
         <naslov>Kazenski zakonik s komentarjem</naslov>
         <cit did="3111" cid="1" avtor0="Deisinger Mitja" naslov0="Kazenski zakonik s komentarjem"
             pubPlace="Ljubljana" year="2002"/>
     </delo>
-    <delo mojID="19310">
+    <delo mojID="19310" cobiss="1221163">
         <naslov>Kazensko- in civilnopravne določbe v rokah mestnega sodnika - mestno,
                         sejemsko in židovsko sodišče</naslov>
         <cit did="104" cid="28" avtor0="Holcman Borut"
@@ -42308,21 +42308,21 @@
             naslov0="Kazensko procesno pravo : odabrana poglavja" pubPlace="Zagreb"
             publisher="Ministrstvo za notranje zadeve RH" year="1995" issue="2" page="37"/>
     </delo>
-    <delo mojID="19318">
+    <delo mojID="19318" cobiss="949582">
         <naslov>Kazenskopravni in upravnopravni vidiki obravnavanja kolaboracije v
                         francoskem pravnem sistemu</naslov>
         <cit did="1656" cid="1" avtor0="Šelih Alenka"
             naslov0="Kazenskopravni in upravnopravni vidiki obravnavanja kolaboracije v francoskem pravnem sistemu"
             source="ČZN" year="2004" issue="2-3" page="515-528"/>
     </delo>
-    <delo mojID="19320">
+    <delo mojID="19320" cobiss="688918">
         <naslov>Kazenskopravno varstvo države in njene družbene ureditve: politični
                         delikti</naslov>
         <cit did="826" cid="5" avtor0="Bavcon Ljubo, Bele Ivan, Kobe Peter, Pavčnik Marijan"
             naslov0="Kazenskopravno varstvo države in njene družbene ureditve: politični delikti"
             pubPlace="Ljubljana" publisher="Delo - Globus" year="1987"/>
     </delo>
-    <delo mojID="19321">
+    <delo mojID="19321" cobiss="1584209">
         <naslov>Kazenskopravno varstvo človekovih pravic in temeljnih svoboščin</naslov>
         <cit did="107" cid="2" avtor0="Bavcon Ljubo"
             naslov0="Kazenskopravno varstvo človekovih pravic in&#xA;temeljnih svoboščin"
@@ -42340,7 +42340,7 @@
         <cit did="3022" cid="176" avtor0="Čolaković Rodoljub" naslov0="Kazivanje o jednom pokolenju"
             pubPlace="Sarajevo" year="1972"/>
     </delo>
-    <delo mojID="19324">
+    <delo mojID="19324" cobiss="242987">
         <naslov>Kazneno pravo : bilješke o Općem dijelu krivičnog zakonika od 4. 12.
                         1947</naslov>
         <cit did="107" cid="4" avtor0="Frank Stanko"
@@ -42349,7 +42349,7 @@
             publisher="Izdavački zavod Jugoslavenske&#xA;akademije znanosti i umjetnosti"
             year="1950"/>
     </delo>
-    <delo mojID="19325">
+    <delo mojID="19325" cobiss="6016593">
         <naslov>Kazneno procesualno pravo : s osobitim obzirom na judikaturu kralj. stola
                         sedmorice i kasacionega suda bečkoga</naslov>
         <cit did="107" cid="12" avtor0="Ogorelica Nikola"
@@ -42363,12 +42363,12 @@
             naslov0="Kaznenopravni sustav Dubrovačke Republike u XVIII. stoljeću"
             naslov1="Doktorska disertacija" pubPlace="Zagreb" year="1995"/>
     </delo>
-    <delo mojID="19327">
+    <delo mojID="19327" cobiss="31714561">
         <naslov>Kaznilnica v snegu</naslov>
         <cit did="2481" cid="1" avtor0="Charlet Gaston G." naslov0="Kaznilnica v snegu"
             pubPlace="Ljubljana" publisher="Borec" year="1966"/>
     </delo>
-    <delo mojID="19328">
+    <delo mojID="19328" cobiss="2256209">
         <naslov>Kazniva dejanja in kazni po Eklogi Leona III. v odnosu do rimskega
                         prava</naslov>
         <cit did="2367" cid="1" avtor0="Kambič Marko"
@@ -42376,7 +42376,7 @@
             source="Zbornik znanstvenih razprav pravne fakultete v Ljubljani" year="1998"
             volume="58" page="87-122"/>
     </delo>
-    <delo mojID="19331">
+    <delo mojID="19331" cobiss="4351533">
         <naslov>Kaznovanje prestopkov v srednjeveških severozahodnoistrskih mestih : Kdo
                         izgubi roko, nogo, oko, glavo?</naslov>
         <cit did="104" cid="37" avtor0="Mihelič Darja"
@@ -42384,22 +42384,22 @@
             source="Acta Histriae" pubPlace="Koper"
             publisher="Zgodovinsko društvo za Južno Primorsko" year="1996" volume="4" page="5"/>
     </delo>
-    <delo mojID="19332">
+    <delo mojID="19332" cobiss="222893568">
         <naslov>Kačiče na Krasu</naslov>
         <cit did="375" cid="36" avtor0="Potokar Klelija" naslov0="Kačiče na Krasu"
             pubPlace="Kačiče-Pared" year="2005" page="53"/>
     </delo>
-    <delo mojID="19333">
+    <delo mojID="19333" cobiss="8594733">
         <naslov>Kačiče-Pared</naslov>
         <cit did="375" cid="35" avtor0="Plesničar Ljudmila" naslov0="Kačiče-Pared"
             source="Arheološka najdišča Slovenije" pubPlace="Ljubljana" year="1975" page="131"/>
     </delo>
-    <delo mojID="19334">
+    <delo mojID="19334" cobiss="19364653">
         <naslov>Kačna jama - fojba?</naslov>
         <cit did="1301" cid="46" avtor0="Mihevc Andrej" naslov0="Kačna jama - fojba?"
             source="Naše jame" year="2001" issue="43" page="113-117"/>
     </delo>
-    <delo mojID="19336">
+    <delo mojID="19336" cobiss="217130752">
         <naslov>Kaštelir, Prazgodovinska naselbina pri Novi vasi / Brtonigla
                         (Istra)</naslov>
         <cit did="1950" cid="47" avtor0="Sakara Sučević M."
@@ -42411,7 +42411,7 @@
         <cit did="1950" cid="10" avtor0="Boltin E." naslov0="Kaštelir pri Dvorih"
             source="Varstvo spomenikov" pubPlace="Ljubljana" year="1960" volume="8" page="195"/>
     </delo>
-    <delo mojID="19338">
+    <delo mojID="19338" cobiss="35330914">
         <naslov>Kaštelir pri Novi vasi: Brtonigla</naslov>
         <cit did="1988" cid="30" avtor0="Sakara M." naslov0="Kaštelir pri Novi vasi: Brtonigla"
             naslov1="diplomska naloga" pubPlace="Ljubljana" publisher="Univerza v Ljubljani"
