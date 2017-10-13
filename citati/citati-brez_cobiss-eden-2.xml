@@ -42439,7 +42439,7 @@
         <cit did="1510" cid="109" avtor0="Škerl France" naslov0="Kdaj je prišel Matevž na Primorsko"
             source="Borec" year="1971" page="8-9"/>
     </delo>
-    <delo mojID="19344">
+    <delo mojID="19344" cobiss="29240930">
         <naslov>Kdo bo dajal naloge znanosti?</naslov>
         <cit did="727" cid="33" avtor0="Rotar Drago Braco" naslov0="Kdo bo dajal naloge znanosti?"
             source="Znanost o znanosti in refleksivnost: Pierre Bourdieu" pubPlace="Ljubljana"
@@ -42450,7 +42450,7 @@
         <cit did="515" cid="11" avtor0="Puhar Alenka" naslov0="Kdo bo rešil pridnega otroka"
             naslov1="Slovenski avtoportret 1918-1991" pubPlace="Ljubljana" year="1992" page="53"/>
     </delo>
-    <delo mojID="19347">
+    <delo mojID="19347" cobiss="99975168">
         <naslov>Kdo je bil Erwin Rösener</naslov>
         <cit did="860" cid="158" avtor0="Ferenc Tone" naslov0="Kdo je bil Erwin Rösener"
             source="Delo" year="0"/>
@@ -42487,7 +42487,7 @@
         <cit did="1522" cid="18" avtor0="Mekina Igor" naslov0="Kdo koga vleče za nos"
             pubPlace="Mladina" year="0" page="17"/>
     </delo>
-    <delo mojID="19359">
+    <delo mojID="19359" cobiss="55426304">
         <naslov>Kdo krade srednje šole v Ljubljani?</naslov>
         <cit did="2403" cid="23" avtor0="Lapajne Zdenko"
             naslov0="Kdo krade srednje šole v Ljubljani?"
@@ -42600,7 +42600,7 @@
             naslov1="Kandidatur als Start einer &#34;PoLIT-Offensive" source="Kleine Zeitung"
             pubPlace="Celovec" year="1979" volume="76" issue="204" page="8"/>
     </delo>
-    <delo mojID="19386">
+    <delo mojID="19386" cobiss="40709377">
         <naslov>Kelten: versuch einer Gesamtdarstellung ihrer Kultur</naslov>
         <cit did="1748" cid="84" avtor0="Birkhan H."
             naslov0="Kelten: versuch einer Gesamtdarstellung ihrer Kultur" pubPlace="Wien"
@@ -42618,13 +42618,13 @@
             source="Zemlja pod vašimi nogami. Arheologija na avtocestah Slovenije. Zbirka: Dnevi evropske kulturne dediščine"
             pubPlace="Ljubljana" year="2003" page="61-65, 160-162, 213-215"/>
     </delo>
-    <delo mojID="19390">
+    <delo mojID="19390" cobiss="4624685">
         <naslov>Keltska lončarska peč s Spodnje Hajdine pri Ptuju</naslov>
         <cit did="2069" cid="42" avtor0="Tomanič Jevremov M., Guštin M."
             naslov0="Keltska lončarska peč s Spodnje Hajdine pri Ptuju" source="Arh. ves."
             year="1996" volume="47" page="267-278"/>
     </delo>
-    <delo mojID="19391">
+    <delo mojID="19391" cobiss="14549805">
         <naslov>Keltska osobna imena u antičkoj Sloveniji</naslov>
         <cit did="1766" cid="9" avtor0="Katičič Radoslav"
             naslov0="Keltska osobna imena u antičkoj Sloveniji" source="Arheološki vestnik"
@@ -42636,7 +42636,7 @@
             source="Keltske Studije" pubPlace="Brežice" publisher="Posavski muzej" year="1977"
             volume="4" page="105-125"/>
     </delo>
-    <delo mojID="19394">
+    <delo mojID="19394" cobiss="3077216">
         <naslov>Keltski oppidum Židovar</naslov>
         <cit did="1748" cid="383" avtor0="Gavela B. B." naslov0="Keltski oppidum Židovar"
             pubPlace="Beograd" year="1952"/>
@@ -42648,24 +42648,24 @@
             naslov0="Keltsko oružje iz razorenih ratničkih grobova sa teritorije Srema i Bačke"
             source="Opuscula archaeologica" year="2003" volume="27" page="287-309"/>
     </delo>
-    <delo mojID="19396">
+    <delo mojID="19396" cobiss="512046634">
         <naslov>Keltsko-latenska kultura u Slavoniji i Srijemu</naslov>
         <cit did="1748" cid="603" avtor0="Majnarić Pandžić N."
             naslov0="Keltsko-latenska kultura u Slavoniji i Srijemu" pubPlace="Vinkovci" year="1970"
         />
     </delo>
-    <delo mojID="19397">
+    <delo mojID="19397" cobiss="52736512">
         <naslov>Kemija in mineralogija za IV. razred realk in sorodne šole</naslov>
         <cit did="201" cid="14" avtor0="Baebler Baltazar"
             naslov0="Kemija in mineralogija za IV. razred realk in sorodne šole"
             pubPlace="Ljubljana" publisher="Katoliška Bukvarna" year="1910"/>
     </delo>
-    <delo mojID="19398">
+    <delo mojID="19398" cobiss="86286848">
         <naslov>Kemija za sedmi gimnazijski razred</naslov>
         <cit did="201" cid="25" avtor0="Reisner Jožef" naslov0="Kemija za sedmi gimnazijski razred"
             pubPlace="Ljubljana" publisher="Knezoškofijski zavod sv. Stanislava" year="1912"/>
     </delo>
-    <delo mojID="19400">
+    <delo mojID="19400" cobiss="35501057">
         <naslov>Kemični poizkusi s preprostimi sredstvi</naslov>
         <cit did="201" cid="18" avtor0="Vales Alfons"
             naslov0="Kemični poizkusi s preprostimi sredstvi" pubPlace="Ljubljana"
@@ -42677,7 +42677,7 @@
             naslov0="Kenyszerpályán. Magyarok Jugoszláviában 1918-1941" pubPlace="Szeged"
             year="1997"/>
     </delo>
-    <delo mojID="19402">
+    <delo mojID="19402" cobiss="404225">
         <naslov>Kepa pepela</naslov>
         <cit did="2822" cid="65" avtor0="Zajc Dane" naslov0="Kepa pepela" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1984"/>
@@ -42728,13 +42728,13 @@
             naslov0="Keramika iz ranosrednjevjekovnih grobalja kontinentalnog dijela Hrvatske"
             source="Zgodnji Slovani...." pubPlace="Ljubljana" year="2002" page="140"/>
     </delo>
-    <delo mojID="19413">
+    <delo mojID="19413" cobiss="3682605">
         <naslov>Keramika v obdobju gotike</naslov>
         <cit did="2237" cid="14" avtor0="Kos Mateja" naslov0="Keramika v obdobju gotike"
             source="Gotika v Sloveniji. Svet predmetov" pubPlace="Ljubljana"
             publisher="Narodni muzej" year="1995" page="203-215"/>
     </delo>
-    <delo mojID="19414">
+    <delo mojID="19414" cobiss="271092">
         <naslov>Keramične najdbe iz Pomorskega muzeja "Sergej Masera" Piran</naslov>
         <cit did="1952" cid="17" avtor0="Karinja S."
             naslov0="Keramične najdbe iz Pomorskega muzeja &#34;Sergej Masera&#34; Piran"
@@ -42760,7 +42760,7 @@
             naslov0="Kershanski navuk sa Ilirske deshele vsit is Katehisma sa vse zerkve Franzoskiga Zesarstva"
             pubPlace="Lublana" publisher="H. W. Korn Bukveprodajavz" year="0"/>
     </delo>
-    <delo mojID="19418">
+    <delo mojID="19418" cobiss="1099155806">
         <naslov>Kettejevo življenje</naslov>
         <cit did="200" cid="1" avtor0="Ribarič Josip" naslov0="Kettejevo življenje" source="Mladika"
             year="1936" page="386-389"/>
@@ -42781,7 +42781,7 @@
         <cit did="102" cid="8" avtor0="Erler Adalbert" naslov0="Ketzer. Ketzerei" pubPlace="Berlin"
             publisher="Schmidt" year="1978" page="165"/>
     </delo>
-    <delo mojID="19422">
+    <delo mojID="19422" cobiss="933291">
         <naslov>Ketzerei im Mittelalter</naslov>
         <cit did="2631" cid="179" avtor0="Lambert M." naslov0="Ketzerei im Mittelalter"
             pubPlace="Freiburg-Basel-Wien" year="1991"/>
@@ -42806,7 +42806,7 @@
         <cit did="51" cid="66" avtor0="Williams Raymond" naslov0="Key words" pubPlace="London"
             year="1983"/>
     </delo>
-    <delo mojID="19429">
+    <delo mojID="19429" cobiss="363470">
         <naslov>KGB Lexicon, The Soviet Intelligence Officer's Handbook</naslov>
         <cit did="623" cid="15" avtor0="Mitrohin Vasilij"
             naslov0="KGB Lexicon, The Soviet Intelligence Officer's Handbook"
@@ -42826,7 +42826,7 @@
             pubPlace="Moskva" publisher="Prilozhenie k zhurnalu &#34;Istoricheskii arhiv&#34;"
             year="1998"/>
     </delo>
-    <delo mojID="19432">
+    <delo mojID="19432" cobiss="21194333">
         <naslov>Kiberkulture - k novim ekonomijam obdarovanja</naslov>
         <cit did="2008" cid="61" avtor0="Trček F."
             naslov0="Kiberkulture - k novim ekonomijam obdarovanja"
@@ -42928,7 +42928,7 @@
         <cit did="3299" cid="4" avtor0="Čopič Špelca" naslov0="Kipar Lojze Dolinar"
             pubPlace="Ljubljana" publisher="Moderna galerija" year="1997"/>
     </delo>
-    <delo mojID="19451">
+    <delo mojID="19451" cobiss="30401378">
         <naslov>Kiparski ukras Kneževa dvora u Dubrovniku u 15. stoljeću</naslov>
         <cit did="328" cid="61" avtor0="Novak  Klemenčič Renata"
             naslov0="Kiparski ukras Kneževa dvora u Dubrovniku u 15. stoljeću"
@@ -42941,7 +42941,7 @@
             naslov0="Kipovi Pieta u Dalmaciji i Boki Kotorskoj" source="Peristil" pubPlace="Zagreb"
             year="1986" volume="29" page="41-45"/>
     </delo>
-    <delo mojID="19457">
+    <delo mojID="19457" cobiss="2593027">
         <naslov>Kirche - Künstler und Konflikte</naslov>
         <cit did="1567" cid="6" avtor0="Celedin Getrude, Bouvier Friedrich, Liebmann Maximilian"
             naslov0="Kirche - Künstler und Konflikte" pubPlace="Graz-Wien-Köln" year="1991"/>
@@ -42976,7 +42976,7 @@
         <cit did="2210" cid="11" avtor0="Frohnes H., Knorr W. U."
             naslov0="Kirchengeschichte als Missiongeschichte, I" pubPlace="München" year="1974"/>
     </delo>
-    <delo mojID="19464">
+    <delo mojID="19464" cobiss="4022531">
         <naslov>Kirchengeschichte der Steiermark</naslov>
         <cit did="2867" cid="5" avtor0="Amon K., Leibmann M."
             naslov0="Kirchengeschichte  der Steiermark" pubPlace="Graz" year="1993"/>
@@ -43021,7 +43021,7 @@
             naslov0="Kisebbségi nemzetépítés: A romániai magyarság mint nemzetépítő kisebbség” (Minority nation-building: the Hungarians in Romania as a nationalising minority)"
             source="Regio" year="0" issue="3" page="219-240"/>
     </delo>
-    <delo mojID="19471">
+    <delo mojID="19471" cobiss="8686669">
         <naslov>Kisebbség-nemzetiség</naslov>
         <cit did="1643" cid="10" avtor0="Kövágó László" naslov0="Kisebbség-nemzetiség"
             pubPlace="Budapest" year="1977"/>
@@ -43039,7 +43039,7 @@
             source="Zbornik mednarodnega simpozija &#34;Aktualne teme iz Vzodne Azije.&#34; Oddelek za afriške in azijske študije FF"
             pubPlace="Ljubljana" year="1998" page="69-77"/>
     </delo>
-    <delo mojID="19475">
+    <delo mojID="19475" cobiss="42014720">
         <naslov>Kitajski zapiski</naslov>
         <cit did="142" cid="18" avtor0="Auersperger Alenka" naslov0="Kitajski zapiski"
             pubPlace="Novo mesto" publisher="Dolenjska založba" year="1994"/>
@@ -43065,13 +43065,13 @@
         <cit did="15" cid="42" avtor0="Pediček Franc" naslov0="Kje smo z našo pedagoško znanostjo"
             source="Naši razgledi" year="1958" volume="7" issue="1" page="6-7"/>
     </delo>
-    <delo mojID="19485">
+    <delo mojID="19485" cobiss="49297152">
         <naslov>Kje so bili Zoisovi vrtovi?</naslov>
         <cit did="3264" cid="3" avtor0="Andrejka Rudolf" naslov0="Kje so bili Zoisovi vrtovi?"
             source="Glasnik muzejskega društva za Slovenijo" year="1934" volume="15" page="107-115"
         />
     </delo>
-    <delo mojID="19487">
+    <delo mojID="19487" cobiss="27638017">
         <naslov>Kje so tradicionalne obrti</naslov>
         <cit did="1775" cid="7" avtor0="Čeplak Ralf" naslov0="Kje so tradicionalne obrti"
             source="Katalog Pokrajinskega muzeja Ptuj" pubPlace="Ptuj" year="1984" page="16"/>
@@ -43143,7 +43143,7 @@
         <cit did="1526" cid="20" avtor0="Mihelčič Ivanka" naslov0="Klas, Karantan - ne tolar"
             source="Dnevnik" year="0" issue="275" page="4"/>
     </delo>
-    <delo mojID="19503">
+    <delo mojID="19503" cobiss="23368449">
         <naslov>Klasični jeziki in učne ustanove pri Slovencih do leta 1918</naslov>
         <cit did="2638" cid="4" avtor0="Ciperle Jože"
             naslov0="Klasični jeziki in učne ustanove pri Slovencih do leta 1918"
@@ -43175,7 +43175,7 @@
             naslov0="»Klassische Wanderkino« 1896-1914, Filmkomunikation auf dem Weg zur Institution"
             naslov1="diplomsko delo" pubPlace="Wien" year="1992"/>
     </delo>
-    <delo mojID="19509">
+    <delo mojID="19509" cobiss="38681698">
         <naslov>Klaudije Ptolemej. O razvoju kartografije do otkrića longitude</naslov>
         <cit did="1988" cid="21" avtor0="Marković M."
             naslov0="Klaudije Ptolemej. O razvoju kartografije do otkrića longitude"
