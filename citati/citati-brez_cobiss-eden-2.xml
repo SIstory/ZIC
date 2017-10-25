@@ -43181,12 +43181,12 @@
             naslov0="Klaudije Ptolemej. O razvoju kartografije do otkrića longitude"
             pubPlace="Zagreb" publisher="Jesenski i Turk" year="2002"/>
     </delo>
-    <delo mojID="19510"><
+    <delo mojID="19510">
         <naslov>Kleemporos</naslov>
         <cit did="1748" cid="259" avtor0="Derow P. S." naslov0="Kleemporos" pubPlace="Phoenix"
             year="1973" volume="27" page="118-134"/>
     </delo>
-    <delo mojID="19511">
+    <delo mojID="19511" cobiss="40656129">
         <naslov>Kleine deutsche Geschichte</naslov>
         <cit did="1626" cid="81" avtor0="Schultze Hagen" naslov0="Kleine deutsche Geschichte"
             pubPlace="München" publisher="Beck" year="1996" page="141-157"/>
@@ -43204,13 +43204,13 @@
             naslov0="Kleine Geschichte des Zweiten Vatikanischen Konzils"
             pubPlace="Freeiburg-Basel- Wien" year="2005" page="17"/>
     </delo>
-    <delo mojID="19514">
+    <delo mojID="19514" cobiss="317261">
         <naslov>Kleine Geschichte des österreichischen Staatsvertrages</naslov>
         <cit did="73" cid="81" avtor0="Stourz Gerald"
             naslov0="Kleine Geschichte des österreichischen Staatsvertrages" pubPlace="Gradec"
             publisher="Styria" year="1975"/>
     </delo>
-    <delo mojID="19516">
+    <delo mojID="19516" cobiss="184020">
         <naslov>Kleine Kärntner Mundartkunde mit Wörterbuch</naslov>
         <cit did="435" cid="13" avtor0="Pohl Heinz-Dieter"
             naslov0="Kleine Kärntner Mundartkunde mit Wörterbuch" pubPlace="Klagenfurt" year="1989"
@@ -43245,7 +43245,7 @@
             naslov0="Klein's Drovvned Poet, Canadian Variations on an Old Theme"
             pubPlace="Vancouver" year="1960" page="5-17"/>
     </delo>
-    <delo mojID="19523">
+    <delo mojID="19523" cobiss="57615360">
         <naslov>Kleklovo slovenstvo in voditeljstvo</naslov>
         <cit did="2131" cid="31" avtor0="Vugrinec Jože"
             naslov0="Kleklovo slovenstvo in voditeljstvo" source="Kleklov simpozij v Rimu"
@@ -43290,12 +43290,12 @@
             naslov0="Klerikalni falzifikatorji na popolnem umiku" source="Jutro, 18. 6. 1926"
             year="1926"/>
     </delo>
-    <delo mojID="19532">
+    <delo mojID="19532" cobiss="66315008">
         <naslov>Kletvice in psovke</naslov>
         <cit did="676" cid="9" avtor0="Nežmah Bernard" naslov0="Kletvice in psovke"
             pubPlace="Ljubljana" year="1997" page="89"/>
     </delo>
-    <delo mojID="19534">
+    <delo mojID="19534" cobiss="93587712">
         <naslov>Klic od Gospe svete. Ob petstoletnici zadnjega ustoličenja koroških
                         vojvod</naslov>
         <cit did="3497" cid="39" avtor0="Ponikvar Adolf"
@@ -43327,7 +43327,7 @@
         <cit did="399" cid="4" avtor0="Lakušić R." naslov0="Klimatogeni ekosistemi BIH"
             source="Geografski pregled" pubPlace="Sarajevo" year="1981" volume="25" page="26-27"/>
     </delo>
-    <delo mojID="19539">
+    <delo mojID="19539" cobiss="3295330">
         <naslov>Klimatologija za geografe</naslov>
         <cit did="732" cid="19" avtor0="Šegota T." naslov0="Klimatologija za geografe"
             pubPlace="Zagreb" publisher="Školska knjiga" year="1996"/>
@@ -43339,26 +43339,26 @@
             naslov0="Klišeji i njihovo prevladovanje : Ne nova &#34;ženskost&#34; nego &#34;čovječnost&#34;"
             source="Žena" year="1989" volume="47" issue="3" page="69"/>
     </delo>
-    <delo mojID="19543">
+    <delo mojID="19543" cobiss="33838080">
         <naslov>Kljub vsemu rečem življenju da</naslov>
         <cit did="1549" cid="23" avtor0="Frankl Viktor" naslov0="Kljub vsemu rečem življenju da"
             pubPlace="Celje" year="1993"/>
     </delo>
-    <delo mojID="19545">
+    <delo mojID="19545" cobiss="239953664">
         <naslov>Ključ je v naših rokah. Študentska gibanja za univerzo in boljši
                         študij</naslov>
         <cit did="2385" cid="5" avtor0="Mihevc Bogomir"
             naslov0="Ključ je v naših rokah. Študentska gibanja za univerzo in boljši študij"
             pubPlace="Ljubljana" year="2008"/>
     </delo>
-    <delo mojID="19549">
+    <delo mojID="19549" cobiss="46717440">
         <naslov>Klub koroških Slovencev v Ljubljani in njegovo arhivsko gradivo od njegove
                         ustanovitve do danes (1928-1992)</naslov>
         <cit did="2564" cid="6" avtor0="Jeraj Mateja"
             naslov0="Klub koroških Slovencev v Ljubljani in njegovo arhivsko gradivo od njegove ustanovitve do danes (1928-1992)"
             source="Arhivi" pubPlace="Ljubljana" volume="16" issue="1-2" page="103-109"/>
     </delo>
-    <delo mojID="19550">
+    <delo mojID="19550" cobiss="51801857">
         <naslov>Klub koroških Slovencev v Mariboru 1928-2003</naslov>
         <cit did="2900" cid="96" avtor0="Vrbnjak Viktor"
             naslov0="Klub koroških Slovencev v Mariboru 1928-2003" source="Inventarji"
@@ -43371,7 +43371,7 @@
             publisher="Zadružna gospodarska banka,&#xA;1925-1991&#xA;Zadružna gospodarska banka"
             year="1928" page="466-468"/>
     </delo>
-    <delo mojID="19553">
+    <delo mojID="19553" cobiss="313857">
         <naslov>Kmet in stvari: Izbor iz pesmi in proze</naslov>
         <cit did="1768" cid="10" avtor0="Šifrer Tone"
             naslov0="Kmet in stvari: Izbor iz pesmi in proze" pubPlace="Ljubljana" year="1947"
@@ -43412,7 +43412,7 @@
         <cit did="2712" cid="111" avtor0="Mavrič Nada" naslov0="Kmetje svoje usode kovači"
             source="Dnevnik, 12.5. 1988" year="1988"/>
     </delo>
-    <delo mojID="19568">
+    <delo mojID="19568" cobiss="236105728">
         <naslov>Kmetje v evropski zgodovini</naslov>
         <cit did="2152" cid="14" avtor0="Rösener Werner" naslov0="Kmetje v evropski zgodovini"
             pubPlace="Ljubljana" publisher="Založba /* cf." year="2007"/>
@@ -43434,7 +43434,7 @@
         <cit did="3290" cid="222" avtor0="Bratko Ivan" naslov0="Kmetski dolgovi"
             source="Tehnika in gospodarstvo" year="1939" issue="5" page="230-235"/>
     </delo>
-    <delo mojID="19576">
+    <delo mojID="19576" cobiss="40250113">
         <naslov>Kmečka izobrazba</naslov>
         <cit did="3253" cid="15" avtor0="Krošl Jože" naslov0="Kmečka izobrazba" pubPlace="Ljubljana"
             publisher="Merkur" year="1939"/>
@@ -43448,24 +43448,24 @@
             publisher="Slovenska akademija znanosti in umetnosti, Državna založba Slovenije"
             year="1970" page="611-616"/>
     </delo>
-    <delo mojID="19578">
+    <delo mojID="19578" cobiss="15657517">
         <naslov>Kmečka naselja na Primorskem</naslov>
         <cit did="113" cid="4" avtor0="Ilešič Svetozar" naslov0="Kmečka naselja na Primorskem"
             source="Geografski vesnik 20 - 21" year="1948" page="217-249"/>
     </delo>
-    <delo mojID="19579">
+    <delo mojID="19579" cobiss="39809792">
         <naslov>Kmečka trgovina kot ozadje kmečkih uporov</naslov>
         <cit did="2127" cid="3" avtor0="Gestrin Ferdo"
             naslov0="Kmečka trgovina kot ozadje kmečkih uporov" source="Situla" year="1973"
             volume="13" page="45-67"/>
     </delo>
-    <delo mojID="19580">
+    <delo mojID="19580" cobiss="6781184">
         <naslov>Kmečke hiše v Karavankah</naslov>
         <cit did="2152" cid="1" avtor0="Cevc Tone, Primožič Ignac"
             naslov0="Kmečke hiše v Karavankah" pubPlace="Ljubljana"
             publisher="Znanstveno raziskovalni center SAZU" year="1988"/>
     </delo>
-    <delo mojID="19582">
+    <delo mojID="19582" cobiss="47634176">
         <naslov>Kmečki dolgovi v avstrijski dobi</naslov>
         <cit did="1317" cid="107" avtor0="Lazarević Žarko"
             naslov0="Kmečki dolgovi v avstrijski dobi" source="Prispevki za novejšo zgodovino"
@@ -43486,7 +43486,7 @@
         <cit did="880" cid="18" avtor0="Malenšek Mimi" naslov0="Kmečki glas" pubPlace="Ljubljana"
             year="1987"/>
     </delo>
-    <delo mojID="19587">
+    <delo mojID="19587" cobiss="12286472">
         <naslov>Kmečki nemiri in upori na posesti dominikanskega samostana v Studenicah v
                         16. in 17. stoletju</naslov>
         <cit did="1913" cid="39" avtor0="Mlinarič Jože"
@@ -43506,7 +43506,7 @@
             source="Vigred : dekliški list" pubPlace="Ljubljana" publisher="Orliška podzveza"
             year="1938" volume="XVI" issue="2" page="77-78"/>
     </delo>
-    <delo mojID="19595">
+    <delo mojID="19595" cobiss="36454656">
         <naslov>Kmečko gospodarstvo v dolini. Vodnik po razstavi</naslov>
         <cit did="2036" cid="8" avtor0="Novak Anka"
             naslov0="Kmečko gospodarstvo v dolini. Vodnik po razstavi" pubPlace="Kranj" year="1974"
@@ -43517,7 +43517,7 @@
         <cit did="1809" cid="10" avtor0="Puš Ludvik" naslov0="Kmečko nadaljevalna šola"
             source="Orač" year="0" page="169"/>
     </delo>
-    <delo mojID="19597">
+    <delo mojID="19597" cobiss="1172180">
         <naslov>Kmečko orodje in narečje - etnografske razstave v Podnu/Slovenjem Plajberku
                         in drugod po Koroškem</naslov>
         <cit did="729" cid="7" avtor0="Maurer-Lausegger H."
@@ -43526,7 +43526,7 @@
             pubPlace="Ljubljana" publisher="Slovensko etnološko društvo" year="2003" volume="35"
             page="109-120"/>
     </delo>
-    <delo mojID="19601">
+    <delo mojID="19601" cobiss="970357">
         <naslov>Kmečko življenje na visokogorskih kmetijah na primeru doline Tople v 19.
                         stoletju</naslov>
         <cit did="2127" cid="9" avtor0="Kačičnik Gabrič Alenka"
@@ -43556,7 +43556,7 @@
             naslov0="Knez Pavle Karađorđević, jedna zakasnela biofgrafija" pubPlace="Beograd"
             year="1990" page="235"/>
     </delo>
-    <delo mojID="19609">
+    <delo mojID="19609" cobiss="1677172">
         <naslov>Knez Pavle -od lepote do istine</naslov>
         <cit did="3133" cid="124" avtor0="Janković Miograd"
             naslov0="Knez Pavle -od lepote do istine" pubPlace="Beograd" year="2004" page="210-212"
@@ -43575,7 +43575,7 @@
             source="Praistorija jugoslavenskih zemalja" pubPlace="sarajevo" year="1987" volume="5"
             page="644-660"/>
     </delo>
-    <delo mojID="19614">
+    <delo mojID="19614" cobiss="512715033">
         <naslov>Knežji dvorec, Ljubljana</naslov>
         <cit did="1207" cid="19" avtor0="Murovec Barbara" naslov0="Knežji dvorec, Ljubljana"
             source="Almanach in slikarstvo druge polovice 17. stoletja na Kranjskem"
@@ -43586,7 +43586,7 @@
         <cit did="3094" cid="40" avtor0="Fabjančič Vladislav" naslov0="Knjiga hiš. I. Stari trg"
             pubPlace="Ljubljana" year="1940"/>
     </delo>
-    <delo mojID="19622">
+    <delo mojID="19622" cobiss="105771776">
         <naslov>Knjiga in bralci IV</naslov>
         <cit did="856" cid="9" avtor0="Žnideršič Martin, Podmenik Darka" avtor1="Kocijan Gregor"
             naslov0="Knjiga in bralci IV" pubPlace="Ljubljana"
@@ -43610,17 +43610,17 @@
         <cit did="317" cid="1" avtor0="Dinić M." naslov0="Knjiga Mihaila Lukarevića"
             source="Iz dubrovačkog arhiva : kjiga I" pubPlace="Beograd" year="1963" page="35-91"/>
     </delo>
-    <delo mojID="19629">
+    <delo mojID="19629" cobiss="1447681">
         <naslov>Knjiga o Darwinu</naslov>
         <cit did="2275" cid="2" avtor0="Pernant Marcel" naslov0="Knjiga o Darwinu"
             pubPlace="Ljubljana" year="1959" page="160"/>
     </delo>
-    <delo mojID="19630">
+    <delo mojID="19630" cobiss="20667905">
         <naslov>Knjiga o himni</naslov>
         <cit did="1911" cid="83" avtor0="Pavlovič Milivoje" naslov0="Knjiga o himni"
             pubPlace="Beograd" publisher="Nova knjiga" year="1986"/>
     </delo>
-    <delo mojID="19635">
+    <delo mojID="19635" cobiss="126481152">
         <naslov>Knjiga o Notranjski kuhinji in drugih rečeh</naslov>
         <cit did="2625" cid="98" avtor0="Renčelj Stanislav"
             naslov0="Knjiga o Notranjski kuhinji in drugih rečeh" pubPlace="Koper"
@@ -43638,7 +43638,7 @@
             naslov0="Knjiga sodnikov in županov, II del."
             publisher="Zgodovinski arhiv Ljubljana, rokopisna zapuščina"/>
     </delo>
-    <delo mojID="19640">
+    <delo mojID="19640" cobiss="103740928">
         <naslov>Knjige o mestu dam</naslov>
         <cit did="226" cid="161" avtor0="Pizan C." naslov0="Knjige o mestu dam" pubPlace="Ljubljana"
             publisher="Delta" year="1999"/>
@@ -43656,7 +43656,7 @@
             naslov0="Knjige zadolžnic, posebna notarska serija dubrovniškega arhiva"
             source="Zgodovinski časopis" year="1968" volume="22" page="207-223"/>
     </delo>
-    <delo mojID="19644">
+    <delo mojID="19644" cobiss="15849773">
         <naslov>Knjigovodstvo na Slovenskem v 16. stoletju</naslov>
         <cit did="2583" cid="80" avtor0="Gestrin Ferdo"
             naslov0="Knjigovodstvo na Slovenskem v 16. stoletju"
@@ -43680,7 +43680,7 @@
             naslov0="Književne teme u hrvatskoj periodici istarsko-kvarnerskog kruga."
             naslov1="magistarski rad"/>
     </delo>
-    <delo mojID="19651">
+    <delo mojID="19651" cobiss="114537472">
         <naslov>Književne študije</naslov>
         <cit did="2735" cid="64" avtor0="Paternu Boris" naslov0="Književne študije"
             pubPlace="Ljubljana" publisher="Gyrus" year="2001"/>
@@ -43690,7 +43690,7 @@
         <cit did="3518" cid="10" avtor0="Zorić M." naslov0="Književni dodiri hrvatsko-italijanski"
             pubPlace="Split" year="1992"/>
     </delo>
-    <delo mojID="19653">
+    <delo mojID="19653" cobiss="2978313">
         <naslov>Književni jezik u teoriji i praksi</naslov>
         <cit did="29" cid="225" avtor0="Jonke Ljudevit" naslov0="Književni jezik u teoriji i praksi"
             pubPlace="Zagreb" year="1965" page="67"/>
@@ -43712,13 +43712,13 @@
         <cit did="3292" cid="116" avtor0="Borko Božidar" naslov0="Književno pismo iz Slovenije"
             source="Nova Evropa" year="1925" issue="14" page="433-438"/>
     </delo>
-    <delo mojID="19657">
+    <delo mojID="19657" cobiss="239880">
         <naslov>Književnost</naslov>
         <cit did="836" cid="2" avtor0="Kos Janko" naslov0="Književnost"
             naslov1="Učbenik literarne zgodovine in teorije" pubPlace="Maribor"
             publisher="Založba Obzorja" year="1989"/>
     </delo>
-    <delo mojID="19658">
+    <delo mojID="19658" cobiss="10961965">
         <naslov>Književnost novih slovenskih priseljencev v ZDA po letu 1945</naslov>
         <cit did="2837" cid="16" avtor0="Glušič Helga"
             naslov0="Književnost novih slovenskih priseljencev v ZDA po letu 1945"
@@ -43730,27 +43730,27 @@
         <cit did="3022" cid="225" avtor0="Kreft Bratko" naslov0="Književnost o vasi in kmetu"
             source="Književnost" year="1933" issue="8" page="281-288"/>
     </delo>
-    <delo mojID="19660">
+    <delo mojID="19660" cobiss="10956333">
         <naslov>Književnost Slovencev pred letom 1891</naslov>
         <cit did="2837" cid="13" avtor0="Stanonik Janez"
             naslov0="Književnost Slovencev pred letom 1891"
             source="Slovenska izseljenska književnost 2: Severna Amerika." pubPlace="Ljubljana"
             publisher="ZRC SAZU" year="1999" page="15-88"/>
     </delo>
-    <delo mojID="19661">
+    <delo mojID="19661" cobiss="10956589">
         <naslov>Književnost slovenskih priseljencev in njihovih potomcev</naslov>
         <cit did="2745" cid="12" avtor0="Žitnik Janja"
             naslov0="Književnost slovenskih priseljencev in njihovih potomcev"
             source="Slovenska izseljenska književnost 2: Severna Amerika" pubPlace="Ljubljana"
             publisher="Založba ZRC, Rokus" year="1999" page="212 –223"/>
     </delo>
-    <delo mojID="19664">
+    <delo mojID="19664" cobiss="206646">
         <naslov>Knjižnica gradu Smlednik po katalogu iz leta 1771</naslov>
         <cit did="2632" cid="24" avtor0="Dtilar A."
             naslov0="Knjižnica gradu Smlednik po katalogu iz leta 1771" source="Kronika" year="1986"
             volume="34" page="15-32"/>
     </delo>
-    <delo mojID="19665">
+    <delo mojID="19665" cobiss="51622912">
         <naslov>Knjižnica Jugoslovanskega društva sv. Barbare iz Eisdna v Belgiji med
                         svetovnima vojnama</naslov>
         <cit did="2539" cid="7" avtor0="Drnovšek Marjan"
@@ -43788,7 +43788,7 @@
         <cit did="1133" cid="3" avtor0="Kranjc Cene" naslov0="Knjižnice"
             source="Spominski zbornik Slovenije" pubPlace="Ljubljana" year="1939" page="255-260"/>
     </delo>
-    <delo mojID="19674">
+    <delo mojID="19674" cobiss="302989">
         <naslov>Knjižničarstvo v občini Lenart</naslov>
         <cit did="2230" cid="10" avtor0="Zorko Breda" naslov0="Knjižničarstvo v občini Lenart"
             source="Zbornik občine Lenart" pubPlace="Lenart" publisher="Občina" year="1996"/>
@@ -43819,7 +43819,7 @@
             naslov0="Knut Schui.z, Die Ministerialicat als Problem der Stadigeschichte. Einige allgemeine Bemerkungen, erlautert am Beispiel der Stadt Worms"
             source="Rheinische Vierteljahrsblätter" year="1968" volume="32" page="184-219"/>
     </delo>
-    <delo mojID="19680">
+    <delo mojID="19680" cobiss="1516488">
         <naslov>Ko Afričan odide od doma, se ne sme vrniti praznih rok</naslov>
         <cit did="2853" cid="227" avtor0="Videmšek Boštjan"
             naslov0="Ko Afričan odide od doma, se ne sme vrniti praznih rok"
@@ -43871,7 +43871,7 @@
         <cit did="433" cid="11" avtor0="Madžar Ljubomir" naslov0="Ko koga eksploatiše"
             naslov1="Srpska strana rata" pubPlace="Beograd" year="1996" page="190-193"/>
     </delo>
-    <delo mojID="19693">
+    <delo mojID="19693" cobiss="5964084">
         <naslov>Ko praznika skoraj ni več ali o vplivu zamrzovalnih skrinj na prehrambeno
                         kulturo Slovencev</naslov>
         <cit did="835" cid="11" avtor0="Rajšter Brigita"
@@ -43880,7 +43880,7 @@
             publisher="Zveza prijateljev mladine Slovenije, Komisija za delo zgodovinskih krožkov"
             year="2002" page="77-79"/>
     </delo>
-    <delo mojID="19695">
+    <delo mojID="19695" cobiss="199502">
         <naslov>Ko se pojavijo kljukasti križi</naslov>
         <cit did="826" cid="6" avtor0="Bavcon Ljubo" naslov0="Ko se pojavijo kljukasti križi"
             source="Delo, Sobotna priloga, 11. september" year="1993"/>
@@ -43905,7 +43905,7 @@
         <cit did="49" cid="43" avtor0="Ludvik Zorzut" naslov0="Ko zajaše Svet' Martin" source="Soča"
             year="0" issue="13"/>
     </delo>
-    <delo mojID="19707">
+    <delo mojID="19707" cobiss="5274157">
         <naslov>Kobarid od leta 1848 do prve svetovne vojne</naslov>
         <cit did="435" cid="26" avtor0="Marušič Branko"
             naslov0="Kobarid od leta 1848 do prve svetovne vojne" pubPlace="Kobarid" year="1997"
@@ -43918,7 +43918,7 @@
             naslov0="Kobarid v coni A zavezniške vojaške uprave Julijske krajine (1945-1947)"
             pubPlace="Kobarid" year="1997" page="205-215"/>
     </delo>
-    <delo mojID="19709">
+    <delo mojID="19709" cobiss="20277549">
         <naslov>Koblarska jama na Kočevskem - prazgodovinsko grobišče in kultni prostor :
                         antropološka analiza skeletnih ostankov z opisom pridatkov</naslov>
         <cit did="3486" cid="35" avtor0="Jamnik Pavel et al."
@@ -43951,13 +43951,13 @@
             naslov0="Kochkiinste und Tafelfreunden" pubPlace="Munchen" publisher="Orbis Verlag"
             year="2000"/>
     </delo>
-    <delo mojID="19718">
+    <delo mojID="19718" cobiss="8589645">
         <naslov>Kociančičeva rokopisna knjiga o Matevžu Hladniku</naslov>
         <cit did="1317" cid="296" avtor0="Bratuž Lojzka"
             naslov0="Kociančičeva rokopisna knjiga o Matevžu Hladniku" pubPlace="Gorica"
             publisher="Koledar Goriške Mohorjeve družbe" year="2002" page="77-79"/>
     </delo>
-    <delo mojID="19719">
+    <delo mojID="19719" cobiss="120001024">
         <naslov>Kocine zgodovine</naslov>
         <cit did="1426" cid="18" avtor0="Zajc Marko" naslov0="Kocine zgodovine"
             pubPlace="Nova Gorica" publisher="Zavod masovna" year="2002"/>
@@ -43989,20 +43989,20 @@
             source="Nihon no Seifu Taikei  ( Japanese Government System)"
             publisher="Seibundo Publisher" year="2002"/>
     </delo>
-    <delo mojID="19729">
+    <delo mojID="19729" cobiss="53448448">
         <naslov>Kolaboracija in državljanjska vojna: kratek oris problematike s posebnim
                         ozirom na Slovenijo 1941-1945</naslov>
         <cit did="1656" cid="6" avtor0="Mlakar Boris"
             naslov0="Kolaboracija in državljanjska vojna: kratek oris problematike s posebnim ozirom na Slovenijo 1941-1945"
             source="Zgodovina v šoli" year="1992" issue="2" page="9-15"/>
     </delo>
-    <delo mojID="19731">
+    <delo mojID="19731" cobiss="8640768">
         <naslov>Kolaboracija - posebnosti na Štajerskem</naslov>
         <cit did="2287" cid="88" avtor0="Ževart Milan"
             naslov0="Kolaboracija - posebnosti na Štajerskem" source="Teorija in praksa" year="1986"
             issue="9-10" page="1006-1010"/>
     </delo>
-    <delo mojID="19732">
+    <delo mojID="19732" cobiss="128878336">
         <naslov>Kolaboracija Slovenije</naslov>
         <cit did="1872" cid="34" avtor0="Učakar Ljubo Marjan" naslov0="Kolaboracija Slovenije"
             pubPlace="Ljubljana" year="2004"/>
@@ -44033,7 +44033,7 @@
             source="Ljudje v vojni : Druga svetovna vojna v Trstu in na Primorskem" pubPlace="Koper"
             publisher="Zgodovinsko društvo za južno Primorsko" year="1995" page="168-169"/>
     </delo>
-    <delo mojID="19737">
+    <delo mojID="19737" cobiss="2581108">
         <naslov>Kolaboranti 1939-1945</naslov>
         <cit did="3535" cid="10" avtor0="Borovička Michael" naslov0="Kolaboranti 1939-1945"
             pubPlace="Praha" year="2007"/>
@@ -44057,12 +44057,12 @@
             source="Slovenski etnološki leksikon. Ljubljana, Mladinska knjiga." pubPlace="Ljubljana"
             publisher="MK" year="2004"/>
     </delo>
-    <delo mojID="19746">
+    <delo mojID="19746" cobiss="240742912">
         <naslov>Kolera na Kranjskem leta 1855</naslov>
         <cit did="2610" cid="37" avtor0="Janša Zorn Olga" naslov0="Kolera na Kranjskem leta 1855"
             source="Kronika" year="1964" volume="12" page="60-64"/>
     </delo>
-    <delo mojID="19749">
+    <delo mojID="19749" cobiss="116743168">
         <naslov>Koliko je arheoloških podatkov v delu Martina Bavčerja Zgodovina Norika in
                         Furlanije</naslov>
         <cit did="1423" cid="30" avtor0="Svoljšak Drago"
@@ -44167,18 +44167,18 @@
             naslov0="Kolonizacija in germanizacija slovenske zemlje" source="Historijski zbornik"
             year="1951" issue="4" page="9"/>
     </delo>
-    <delo mojID="19770">
+    <delo mojID="19770" cobiss="6479673">
         <naslov>Kolonizacija Ljubljanskega barja</naslov>
         <cit did="2115" cid="2" avtor0="Melik Anton" naslov0="Kolonizacija Ljubljanskega barja"
             naslov1="doktorska disertacija" pubPlace="Ljubljana" publisher="Tiskovna zadruga"
             year="1927"/>
     </delo>
-    <delo mojID="19771">
+    <delo mojID="19771" cobiss="2323766">
         <naslov>Kolonizacija Poljanske doline</naslov>
         <cit did="2583" cid="59" avtor0="Blaznik Pavle" naslov0="Kolonizacija Poljanske doline"
             source="GMS" year="1938" volume="19" page="1-62"/>
     </delo>
-    <delo mojID="19773">
+    <delo mojID="19773" cobiss="27094061">
         <naslov>Kolonizacijska in teritorialna zgodovina Slovenskega Primorja</naslov>
         <cit did="1317" cid="90" avtor0="Grafenauer Bogo"
             naslov0="Kolonizacijska in teritorialna zgodovina Slovenskega Primorja"
@@ -44190,13 +44190,13 @@
         <cit did="49" cid="9" avtor0="Ludvik Zorzut" naslov0="Kolonski motivi iz Brd"
             source="Mladika" year="1922" volume="3" page="325-327"/>
     </delo>
-    <delo mojID="19775">
+    <delo mojID="19775" cobiss="12655925">
         <naslov>Kolumbova hči: Alma Karlin med mitom in resničnostjo</naslov>
         <cit did="2296" cid="7" avtor0="Trnovec Barbara"
             naslov0="Kolumbova hči: Alma Karlin med mitom in resničnostjo"
             source="Nedeljski dnevnik" year="2005" volume="44" issue="254" page="25"/>
     </delo>
-    <delo mojID="19777">
+    <delo mojID="19777" cobiss="253814528">
         <naslov>Kolumbova hči - življenje in delo Alme M. Karlin</naslov>
         <cit did="3157" cid="31" avtor0="Trnovec Barbara"
             naslov0="Kolumbova hči - življenje in delo Alme M. Karlin" pubPlace="Celje"
@@ -44214,7 +44214,7 @@
             naslov0="Komedija, cirkus in druge zabavne prireditve" source="Podobe družabnosti"
             pubPlace="Ljubljana" year="2005" page="13-20"/>
     </delo>
-    <delo mojID="19783">
+    <delo mojID="19783" cobiss="219657984">
         <naslov>Komenski Kras 1914-1918</naslov>
         <cit did="1439" cid="6" avtor0="Močnik Mitja" naslov0="Komenski Kras 1914-1918"
             pubPlace="Ljubljana" publisher="Karantanija" year="2005"/>
@@ -44238,7 +44238,7 @@
             naslov0="Komentar k srečanju z Antonom Slodnjakom" source="Zadnje srečanje"
             pubPlace="Ljubljana" year="1990" page="187"/>
     </delo>
-    <delo mojID="19788">
+    <delo mojID="19788" cobiss="1593421">
         <naslov>Komentar Našega tednika</naslov>
         <cit did="212" cid="48" avtor0="Kulmesch Janko" naslov0="Komentar Našega tednika"
             naslov1="Zgovorne številke" source="Naš tednik" pubPlace="Celovec" year="2031"
@@ -44306,14 +44306,14 @@
             naslov0="Komparativna analiza Križevca i Samobora u ilirskom razdoblju 1835-1848/1849"
             source="Cris" year="2008" volume="10" issue="1" page="95-104"/>
     </delo>
-    <delo mojID="19801">
+    <delo mojID="19801" cobiss="5792260">
         <naslov>Komparativna analiza psihomotorične strukture dečkov in deklic, starih 5-5,5
                         let</naslov>
         <cit did="708" cid="44" avtor0="Rajtmajer Dolfe"
             naslov0="Komparativna analiza psihomotorične strukture dečkov in deklic, starih 5-5,5 let"
             source="Špot" pubPlace="Ljubljana" year="1993" issue="4" page="36-40"/>
     </delo>
-    <delo mojID="19802">
+    <delo mojID="19802" cobiss="20830813">
         <naslov>Komparativni vidik ustavnih izbir in proces konsolidacije demokracije v
                         postjugoslovanskem prostoru</naslov>
         <cit did="2820" cid="11" avtor0="Lajh Damjan"
@@ -44331,7 +44331,7 @@
         <cit did="273" cid="12" avtor0="Dietling Fischer" naslov0="Kompetence mentorjev" year="2005"
         />
     </delo>
-    <delo mojID="19805">
+    <delo mojID="19805" cobiss="26192994">
         <naslov>Kompetence : razmislek o razvoju koncepta splošne izobrazbe : sklepno
                         poročilo mednarodnega posveta o splošni izobrazbi</naslov>
         <cit did="273" cid="2" avtor0="Medveš Zdenko"
@@ -44352,7 +44352,7 @@
             naslov0="Kompetenz und Performanz in zweisprachigen Gebieten"
             source="Aspetti metodologici e teorici nello studio" pubPlace="Udine" year="1989"/>
     </delo>
-    <delo mojID="19808">
+    <delo mojID="19808" cobiss="3080288">
         <naslov>Kompleks bazilike sv. Sofije u Dvogradu</naslov>
         <cit did="1998" cid="24" avtor0="Marušić B."
             naslov0="Kompleks bazilike sv. Sofije u Dvogradu" source="Histria archaeologica"
@@ -44383,29 +44383,29 @@
         <cit did="790" cid="11" avtor0="Kozak Juš" naslov0="Komu zvoni?" source="Novi svet"
             year="1952" issue="5"/>
     </delo>
-    <delo mojID="19816">
+    <delo mojID="19816" cobiss="11189037">
         <naslov>Komun v Črnotičah</naslov>
         <cit did="457" cid="6" avtor0="Vilfan Sergij" naslov0="Komun v Črnotičah"
             source="Traditiones" pubPlace="Ljubljana" year="1972" volume="1" page="155"/>
     </delo>
-    <delo mojID="19817">
+    <delo mojID="19817" cobiss="919156">
         <naslov>Komuna in problemi njene graditve</naslov>
         <cit did="826" cid="49" avtor0="Globevnik Josip" naslov0="Komuna in problemi njene graditve"
             source="Uradni list LRS" pubPlace="Ljubljana" year="1955"/>
     </delo>
-    <delo mojID="19820">
+    <delo mojID="19820" cobiss="266754">
         <naslov>Komunalna palača - Pula, razvitak gradskog središta kroz dvadeset jedno
                         stoljeće</naslov>
         <cit did="1997" cid="28" avtor0="Krizmanić A."
             naslov0="Komunalna palača - Pula, razvitak gradskog središta kroz dvadeset jedno stoljeće"
             pubPlace="Pula" publisher="Istarska naklada Pula" year="1988"/>
     </delo>
-    <delo mojID="19821">
+    <delo mojID="19821" cobiss="2692698">
         <naslov>Komunikacija in izročanje</naslov>
         <cit did="106" cid="269" avtor0="Ocvirk D." naslov0="Komunikacija in izročanje"
             source="Tretji dan" year="2001" issue="1" page="48-62"/>
     </delo>
-    <delo mojID="19824">
+    <delo mojID="19824" cobiss="379091">
         <naslov>Komunikacijski sistem v prazgodovini in antiki na primeru logaške
                         kotline</naslov>
         <cit did="2633" cid="5" avtor0="Frelih Marko"
@@ -44413,7 +44413,7 @@
             source="Mladinski raziskovalni tabor Logatec 1988: Zbornik poročil raziskovalnih skupin"
             pubPlace="Logatec" year="1988"/>
     </delo>
-    <delo mojID="19825">
+    <delo mojID="19825" cobiss="8721664">
         <naslov>Komunikacijski tokovi med matico in manjšino</naslov>
         <cit did="2717" cid="18" avtor0="Susič Emidij"
             naslov0="Komunikacijski tokovi med matico in manjšino" source="Teorija in praksa"
@@ -44424,7 +44424,7 @@
         <cit did="3022" cid="186" avtor0="Damjanović Pero" naslov0="Komunist" pubPlace="Ljubljana"
             year="1967" issue="april - maj" page="5"/>
     </delo>
-    <delo mojID="19827">
+    <delo mojID="19827" cobiss="180766464">
         <naslov>Komuniste i nacionalno pitanje</naslov>
         <cit did="3288" cid="134" avtor0="Jurković Ljuba D."
             naslov0="Komuniste i nacionalno pitanje" pubPlace="Ljubljana"
@@ -44460,7 +44460,7 @@
             source="Enciklopedija Slovenije : 5" pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1991" page="112"/>
     </delo>
-    <delo mojID="19844">
+    <delo mojID="19844" cobiss="8355848">
         <naslov>Komunistična partija v revolucionarnem delavskem gibanju Savinjske doline
                         (1920–1941)</naslov>
         <cit did="1510" cid="91" avtor0="Kotnik Anton"
@@ -44474,18 +44474,18 @@
             source="Prispevki za zgodovino delavskega gibanja" year="1960" volume="1" issue="2"
             page="17-67"/>
     </delo>
-    <delo mojID="19846">
+    <delo mojID="19846" cobiss="15780096">
         <naslov>Komunistične kulturno-prosvetne organizacije v dvajsetih letih</naslov>
         <cit did="2299" cid="52" avtor0="Dolenc Ervin"
             naslov0="Komunistične kulturno-prosvetne organizacije v dvajsetih letih" source="PNZ"
             year="1989" issue="2" page="325-348"/>
     </delo>
-    <delo mojID="19850">
+    <delo mojID="19850" cobiss="27176193">
         <naslov>Komunizem</naslov>
         <cit did="447" cid="15" avtor0="Ločnik Primož (Ušeničnik Aleš)" naslov0="Komunizem"
             naslov1="Njegov pravi obraz" pubPlace="Ljubljana" year="1943"/>
     </delo>
-    <delo mojID="19851">
+    <delo mojID="19851" cobiss="27176449">
         <naslov>Komunizem in komunistična Rusija</naslov>
         <cit did="447" cid="5" avtor0="Erjavec Fran" naslov0="Komunizem in komunistična Rusija"
             pubPlace="Ljubljana" year="1937"/>
@@ -44502,25 +44502,25 @@
             source="Glasnik Zemaljskog muzeja u Bosni I Hercegovini" pubPlace="Sarajevo"
             publisher="Zemaljski muzej" year="1917"/>
     </delo>
-    <delo mojID="19855">
+    <delo mojID="19855" cobiss="1147145">
         <naslov>Konačno oslobođenje : Sjećanja i obrade</naslov>
         <cit did="1464" cid="21" avtor0="Brajović Petar S."
             naslov0="Konačno oslobođenje : Sjećanja i obrade" pubPlace="Zagreb" year="1983"/>
     </delo>
-    <delo mojID="19856">
+    <delo mojID="19856" cobiss="24812544">
         <naslov>Koncentracija delavstva v revirjih in industrijskih centrih v Sloveniji med
                         obema vojnama</naslov>
         <cit did="3241" cid="296" avtor0="Kresal France"
             naslov0="Koncentracija delavstva v revirjih in industrijskih centrih v Sloveniji med obema vojnama"
             source="ZČ" year="1991" issue="2"/>
     </delo>
-    <delo mojID="19860">
+    <delo mojID="19860" cobiss="3580172">
         <naslov>Koncepcija, doktrina i sistem opštenarodne odbrane</naslov>
         <cit did="825" cid="2" avtor0="Vučinić Mihajlo, Nikezić Ilija" avtor1="Todorović Boško"
             naslov0="Koncepcija, doktrina i sistem opštenarodne odbrane" pubPlace="Beograd"
             publisher="Vojnoizdavački i novinski centar" year="1989" page="41-180, 299-321"/>
     </delo>
-    <delo mojID="19861">
+    <delo mojID="19861" cobiss="981815">
         <naslov>Koncepcija jugoslovanske občine</naslov>
         <cit did="91" cid="5" avtor0="Šmidovnik Janez" naslov0="Koncepcija jugoslovanske občine"
             pubPlace="Ljubljana" year="1970" page="100"/>
@@ -44531,14 +44531,14 @@
             naslov0="Koncepcje powojennych granic Polski w programach..." pubPlace="Wroclaw"
             year="1971"/>
     </delo>
-    <delo mojID="19864">
+    <delo mojID="19864" cobiss="1395667">
         <naslov>Koncept skupnosti v informatični družbi</naslov>
         <cit did="2672" cid="20" avtor0="Lenarčič Blaž"
             naslov0="Koncept skupnosti v informatični družbi"
             source="Annales. Series historia et sociologia" year="2007" volume="17" issue="2"
             page="415-428"/>
     </delo>
-    <delo mojID="19865">
+    <delo mojID="19865" cobiss="2472293">
         <naslov>Koncept totalne ustanove in domovi za stare</naslov>
         <cit did="168" cid="6" avtor0="Mali Jana"
             naslov0="Koncept totalne ustanove in domovi za stare" source="Socialno delo" year="2006"
@@ -44560,12 +44560,12 @@
         <cit did="3022" cid="131" avtor0="Prežihov Gustl Avgust" naslov0="Konec" source="Korf"
             year="1955" issue="7/9" page="27-28"/>
     </delo>
-    <delo mojID="19873">
+    <delo mojID="19873" cobiss="107167488">
         <naslov>Konec dogovorne ekonomije</naslov>
         <cit did="1339" cid="6" avtor0="Bohinc Rado" naslov0="Konec dogovorne ekonomije"
             source="Delo" year="0"/>
     </delo>
-    <delo mojID="19875">
+    <delo mojID="19875" cobiss="4780548">
         <naslov>Konec je bil neslaven : prvi mariborski časnik -"Marburger Zeitung"</naslov>
         <cit did="889" cid="22" avtor0="Rajh Bernard"
             naslov0="Konec je bil neslaven : prvi mariborski časnik -&#34;Marburger Zeitung&#34;"
@@ -44587,7 +44587,7 @@
         <cit did="1512" cid="30" avtor0="Marušič Branko" naslov0="Konec slogaštva na Goriškem"
             source="Kronika" volume="20" issue="1" page="25"/>
     </delo>
-    <delo mojID="19884">
+    <delo mojID="19884" cobiss="99798528">
         <naslov>Konec tisočletja, račun tisočletja</naslov>
         <cit did="1552" cid="7" avtor0="Jančar Drago" naslov0="Konec tisočletja, račun tisočletja"
             pubPlace="Ljubljana" year="1999" page="32-37"/>
@@ -44608,7 +44608,7 @@
         <cit did="2712" cid="110" avtor0="Mandič Tatjana" naslov0="Konec vsiljene enotnosti"
             source="Dnevnik, 15.6. 1990" year="1990"/>
     </delo>
-    <delo mojID="19888">
+    <delo mojID="19888" cobiss="122925824">
         <naslov>Konec človeštva</naslov>
         <cit did="106" cid="41" avtor0="Fukujama F." naslov0="Konec človeštva"
             source="Posledice revolucije v biotehnologiji" pubPlace="Tržič" publisher="Učila"
@@ -44620,13 +44620,13 @@
             naslov0="(Kon)federalizacija sudstva u Srbiji" source="Istorija XX. veka"
             pubPlace="Beograd" publisher="ISI" year="2009" volume="1" page="57-72"/>
     </delo>
-    <delo mojID="19892">
+    <delo mojID="19892" cobiss="8588877">
         <naslov>Konferenca konsenza</naslov>
         <cit did="212" cid="82" avtor0="Kulmesch Janko" naslov0="Konferenca konsenza"
             naslov1="Med upanjem in skepso" source="Naš tednik" pubPlace="Celovec" year="0"
             volume="54" issue="29" page="2"/>
     </delo>
-    <delo mojID="19893">
+    <delo mojID="19893" cobiss="1100404">
         <naslov>Konferenca KPS na Cinku</naslov>
         <cit did="2299" cid="109" avtor0="Deželak Barič Vida" naslov0="Konferenca KPS na Cinku"
             pubPlace="Ljubljana" year="1982" page="39"/>
@@ -44692,12 +44692,12 @@
             source="Jugoslavenski odbor u Londonu" pubPlace="Zagreb" publisher="JAZU" year="1966"
             page="229-242"/>
     </delo>
-    <delo mojID="19905">
+    <delo mojID="19905" cobiss="5068077">
         <naslov>Kongres Svete alianse v Ljubljani 1821</naslov>
         <cit did="2033" cid="5" avtor0="Holz Eva" naslov0="Kongres Svete alianse v Ljubljani 1821"
             source="Grafenauerjev zbornik" pubPlace="Ljubljana" publisher="ZRC SAZU" year="1996"/>
     </delo>
-    <delo mojID="19906">
+    <delo mojID="19906" cobiss="1845699">
         <naslov>Kongresni trg z Zvezdo - spomenik urbane umetnosti zgodnjega 19.
                         stoletja</naslov>
         <cit did="2156" cid="26" avtor0="Mihelič Breda"
@@ -44710,7 +44710,7 @@
         <cit did="1913" cid="13" avtor0="Herrnritt von Rudolf Herrmann" naslov0="Kongrua"
             source="österreichisches Staatswörterbuch" pubPlace="Wien" year="1907" page="562-563"/>
     </delo>
-    <delo mojID="19908">
+    <delo mojID="19908" cobiss="6846765">
         <naslov>Konj kot kozmološko bitje v slovenskem mitopoetičnem izročilu : Studia
                         mythologica Slavica I.</naslov>
         <cit did="715" cid="16" avtor0="Kropej M."
@@ -44719,12 +44719,12 @@
             publisher="Znanstvenoraziskovalni center SAZU, Inštitut za slovensko narodopisje"
             year="1998" page="153-167"/>
     </delo>
-    <delo mojID="19909">
+    <delo mojID="19909" cobiss="5646646">
         <naslov>Konj v rokovnjaškem taboru</naslov>
         <cit did="528" cid="5" avtor0="Mejač Jože" naslov0="Konj v rokovnjaškem taboru"
             source="Rodna gruda" year="2000" issue="6" page="34"/>
     </delo>
-    <delo mojID="19912">
+    <delo mojID="19912" cobiss="17588993">
         <naslov>Konjiška dekanija : umetniški spomeniki lavantinske skofije II</naslov>
         <cit did="775" cid="210" avtor0="Stegensek A."
             naslov0="Konjiška dekanija : umetniški spomeniki lavantinske skofije II"
@@ -44738,7 +44738,7 @@
             source="Dialog povjeasničara - istočara 4 (Pečuh/Pečuj, 20.-22. listopada/oktobra 2000)"
             pubPlace="Zagreb" publisher="Zaklada Friedrich Naumann" year="2000" page="433-448"/>
     </delo>
-    <delo mojID="19916">
+    <delo mojID="19916" cobiss="1085043">
         <naslov>Konkordat sa sv. Stolicom i naše nacionalno pitanje</naslov>
         <cit did="1894" cid="7" avtor0="Vujnović Lujo"
             naslov0="Konkordat sa sv. Stolicom i naše nacionalno pitanje" pubPlace="Zagreb"
@@ -44782,7 +44782,7 @@
             naslov0="Konsens und Anarchie: Die Funktion der Rhetorik für die amerikanische identität"
             source="Amerikanische Mythen..." pubPlace="New York" year="1988" page="30"/>
     </delo>
-    <delo mojID="19925">
+    <delo mojID="19925" cobiss="7529805">
         <naslov>Konsenzualni smo, pravijo, in pa enojezični</naslov>
         <cit did="212" cid="87" avtor0="Malle Janko"
             naslov0="Konsenzualni smo, pravijo, in pa enojezični" source="Slovenski vestnik"
@@ -44847,7 +44847,7 @@
             naslov0="Konservieren, nicht restavrieren, Streitschriften zur Denkmalpflege um 1900"
             pubPlace="Braunschweig - Wiesbaden" year="1988"/>
     </delo>
-    <delo mojID="19935">
+    <delo mojID="19935" cobiss="2591342">
         <naslov>Konserviranje in restavriranje portreta Amalije in Maksimiljane
                         Skarja</naslov>
         <cit did="2120" cid="3" avtor0="Furlan Katarina"
@@ -44868,7 +44868,7 @@
             naslov0="Konstitucija nacionalnega interesa in raba merila nacionalnega v slovenski kulturni politiki"
             source="Monitor ISH" pubPlace="Ljubljana" year="2001" page="211"/>
     </delo>
-    <delo mojID="19941">
+    <delo mojID="19941" cobiss="23170146">
         <naslov>Konstituiranje slovenskega knjižnega jezika : vloga zgodovine in
                         lingvistike</naslov>
         <cit did="1791" cid="13" avtor0="Herrity Peter"
@@ -44904,7 +44904,7 @@
             source="Etnogeneza i topogeneza Słowian" pubPlace="Warszawa - Poznań" year="1980"
             page="43-52"/>
     </delo>
-    <delo mojID="19948">
+    <delo mojID="19948" cobiss="15697245">
         <naslov>Kontekst ženskih študij v Sloveniji</naslov>
         <cit did="226" cid="200" avtor0="Ule M." naslov0="Kontekst ženskih študij v Sloveniji"
             source="Od ženskih študij k feministični teoriji" pubPlace="Ljubljana"
@@ -44918,7 +44918,7 @@
             naslov0="Kontexte und Kulturen des Erinnerns. Maurice Halbwachs und das Paradigma des kollektiven Gedächtnisses. Mit einem Geleitwort von Jan Assmann"
             pubPlace="Konstanz" publisher="UVK Verlagsgesellschaft" year="2002"/>
     </delo>
-    <delo mojID="19950">
+    <delo mojID="19950" cobiss="8974669">
         <naslov>Kontinuiteta in spremembe</naslov>
         <cit did="623" cid="2" avtor0="Brunnbauer Ulf" naslov0="Kontinuiteta in spremembe"
             naslov1="Aktualni trendi v zgodovinopisju Jugovzhodne Evrope"
@@ -44930,7 +44930,7 @@
             naslov1="&#34;Asoziale&#34; Häftlinge im Frauen-Konzentrationslager Ravensbrück"
             pubPlace="Berlin" publisher="Metropol Verlag" year="2001"/>
     </delo>
-    <delo mojID="19956">
+    <delo mojID="19956" cobiss="6642432">
         <naslov>Kontrabant - roman iz drugih časov</naslov>
         <cit did="2625" cid="12" avtor0="Čadež Ivanka" naslov0="Kontrabant - roman iz drugih časov"
             pubPlace="Ljubljana" publisher="Časopisno založniško podjerje Kmečki glas" year="1988"/>
@@ -44941,17 +44941,17 @@
             naslov0="Kontracepcija po svetu in pri nas" source="Zdravniški vestnik" year="1968"
             volume="37" issue="7-8" page="270-273"/>
     </delo>
-    <delo mojID="19958">
+    <delo mojID="19958" cobiss="4921600">
         <naslov>Kontrola kretanja na granici</naslov>
         <cit did="2560" cid="6" avtor0="Mirčetič Franjo" naslov0="Kontrola kretanja na granici"
             pubPlace="Beograd" publisher="Savezni sekretarijat za unutrašnje poslove" year="1972"/>
     </delo>
-    <delo mojID="19961">
+    <delo mojID="19961" cobiss="6380290">
         <naslov>Kontroverze iz povijesti Jugoslavije</naslov>
         <cit did="1651" cid="3" avtor0="Boban Ljubo" naslov0="Kontroverze iz povijesti Jugoslavije"
             pubPlace="Zagreb" year="1989"/>
     </delo>
-    <delo mojID="19962">
+    <delo mojID="19962" cobiss="109314">
         <naslov>Kontroverze iz povijesti Jugoslavije (III.)</naslov>
         <cit did="3133" cid="63" avtor0="Boban Ljubo"
             naslov0="Kontroverze iz povijesti Jugoslavije (III.)" pubPlace="Zagreb"
@@ -44978,7 +44978,7 @@
         <cit did="174" cid="7" avtor0="Meyer" naslov0="Konversations-Lexikon" pubPlace="Leipzig"
             year="0" issue="4" page="925"/>
     </delo>
-    <delo mojID="19966">
+    <delo mojID="19966" cobiss="13579874">
         <naslov>Konverzace v češtine: pri rodinnych a přateskych navštevach</naslov>
         <cit did="1733" cid="3" avtor0="Hoffmannova Jana et al."
             naslov0="Konverzace v češtine: pri rodinnych a přateskych navštevach" pubPlace="Praga"
@@ -45005,7 +45005,7 @@
             naslov0="Konzerva-torski radovi na kapeli Sv. Kriza u Butonigi"
             source="Zbornik zastite spomenika kulture" pubPlace="Beograd" year="1960" volume="11"/>
     </delo>
-    <delo mojID="19972">
+    <delo mojID="19972" cobiss="34777954">
         <naslov>Končniški in mešani naglasni tip samostalnikov a-jevske sklanjatve v
                         nadiškem narečju slovenščine</naslov>
         <cit did="1989" cid="18" avtor0="Šekli M."
@@ -45020,7 +45020,7 @@
             naslov0="Končno poročilo: Oblikovanje spornih tern v javnosti: metodološki korektiv longitudinalnega anketnega raziskovanja na podlagi uporabe analize besedil in procesne teorije javnega mnenja"
             pubPlace="Koper" publisher="Znanstveno-raziskovalno središče Koper" year="2005"/>
     </delo>
-    <delo mojID="19974">
+    <delo mojID="19974" cobiss="30766848">
         <naslov>Kooperative Gewerkschaftspolitik in der Kriegswirtschaft : die freien
                         Gewerkschaften Osterreichs im ersten Weltkrieg...</naslov>
         <cit did="2777" cid="9" avtor0="Grandner Margarete"
@@ -45032,7 +45032,7 @@
         <cit did="976" cid="23" avtor0="Meško Ivan" naslov0="Kop" pubPlace="Ptuj, Celje"
             publisher="Gracer" year="2000"/>
     </delo>
-    <delo mojID="19976">
+    <delo mojID="19976" cobiss="11549499">
         <naslov>Kopališče na Mariborskem otoku</naslov>
         <cit did="3322" cid="22" avtor0="Novak Ludvik" naslov0="Kopališče na Mariborskem otoku"
             source="Kronika slovenskih mest" year="1935"/>
@@ -45042,12 +45042,12 @@
         <cit did="1707" cid="13" avtor0="Dekleva Milan" naslov0="Kope dol pred Quatebriga"
             source="Dnevnik" year="2044" page="23"/>
     </delo>
-    <delo mojID="19980">
+    <delo mojID="19980" cobiss="11992365">
         <naslov>Koper</naslov>
         <cit did="759" cid="49" avtor0="Šašel Jaro" naslov0="Koper" source="Arheološki Vestnik"
             pubPlace="Ljubljana" page="446-461"/>
     </delo>
-    <delo mojID="19981">
+    <delo mojID="19981" cobiss="5919489">
         <naslov>Koper, Izola, Piran. Organizem slovenskih obmorskih mest</naslov>
         <cit did="3539" cid="19" avtor0="Bernik S."
             naslov0="Koper, Izola, Piran. Organizem slovenskih obmorskih mest"
@@ -45060,20 +45060,20 @@
             source="The towns, settlements and topography of the Northeren Adriatic, Eastern alpine and Western Balkan Regions, Opera selecta"
             pubPlace="Ljubljana" year="1992" page="680-689"/>
     </delo>
-    <delo mojID="19983">
+    <delo mojID="19983" cobiss="2644273">
         <naslov>Koper kot Capo d’Istria</naslov>
         <cit did="3539" cid="72" avtor0="Darovec Darko" naslov0="Koper kot Capo d’Istria"
             source="Kriza socialnih idej. Britovškov zbornik" pubPlace="Ljubljana"
             publisher="Filozofska fakulteta" year="1996" page="27-44"/>
     </delo>
-    <delo mojID="19984">
+    <delo mojID="19984" cobiss="21039661">
         <naslov>Koper med morjem in kontinentom. Poskus demografske analize Kopra v 16.
                         stoletju. Zbornik Janko Pleterskega</naslov>
         <cit did="2540" cid="2" avtor0="Darovec Darko" avtor1="Krmac Dean"
             naslov0="Koper med morjem in kontinentom. Poskus demografske analize Kopra v 16. stoletju. Zbornik Janko Pleterskega"
             pubPlace="Ljubljana" year="2003" page="63-90"/>
     </delo>
-    <delo mojID="19985">
+    <delo mojID="19985" cobiss="7522304">
         <naslov>Koper med Rimom in Benetkami, Katalog razstave</naslov>
         <cit did="1952" cid="12" avtor0="Cunja R., Guštin M."
             naslov0="Koper med Rimom in Benetkami, Katalog razstave" pubPlace="Ljubljana"
@@ -45086,7 +45086,7 @@
             naslov0="Koper na načrtu Giacoma Fina u 1619, Pianta di Capod'lstria"
             pubPlace="Koper, I listria editiones." publisher="Histria editiones" year="2009"/>
     </delo>
-    <delo mojID="19987">
+    <delo mojID="19987" cobiss="120176640">
         <naslov>Koper na robovih stoletij</naslov>
         <cit did="2221" cid="19" avtor0="Simič Slobodan" naslov0="Koper na robovih stoletij"
             pubPlace="Piran" publisher="Sijart" year="2002"/>
@@ -45106,18 +45106,18 @@
         <cit did="29" cid="410" avtor0="Lončarič Mijo" naslov0="Kopitar i hrvatski jezik"
             source="Kopitarjev zbornik" pubPlace="Ljubljana" year="1977" page="327"/>
     </delo>
-    <delo mojID="19991">
+    <delo mojID="19991" cobiss="17691949">
         <naslov>Kopitar in Grki</naslov>
         <cit did="726" cid="16" avtor0="Gantar Kajetan" naslov0="Kopitar in Grki"
             source="Jezik in slovstvo" pubPlace="Ljubljana" year="1974"/>
     </delo>
-    <delo mojID="19992">
+    <delo mojID="19992" cobiss="3066210">
         <naslov>Kopitar in grštvo</naslov>
         <cit did="726" cid="17" avtor0="Gantar Kajetan" naslov0="Kopitar in grštvo"
             source="Kopitarjev zbornik, Mednarodni simpozij v Ljubljani, 29. junijâ€”1. julij 1994"
             pubPlace="Ljubljana" publisher="Filozofska fakulteta" page="375-380"/>
     </delo>
-    <delo mojID="19993">
+    <delo mojID="19993" cobiss="29389313">
         <naslov>Kopitar in Ranke. Donesek k životopisu J. Kopitarja</naslov>
         <cit did="2018" cid="164" avtor0="Kaspret A."
             naslov0="Kopitar in Ranke. Donesek k životopisu J. Kopitarja" pubPlace="Ljubljana"
@@ -45134,7 +45134,7 @@
         <cit did="2130" cid="8" avtor0="Miklosich Franc" naslov0="Kopitars Kleinere Schriften"
             pubPlace="Wien" year="0" page="40"/>
     </delo>
-    <delo mojID="19997">
+    <delo mojID="19997" cobiss="3575564">
         <naslov>Kopnena vojska, I.</naslov>
         <cit did="2384" cid="14" avtor0="Miljanić Gojko" naslov0="Kopnena vojska, I."
             pubPlace="Beograd" year="1988" page="156-162"/>
@@ -45145,14 +45145,14 @@
             naslov0="Koprska nota in miljski protokol: zahodno sosedstvo" pubPlace="Ljubljana"
             year="1996" page="51-60"/>
     </delo>
-    <delo mojID="20002">
+    <delo mojID="20002" cobiss="20104034">
         <naslov>Koprska škofija od prve omembe (599) do srede 8. stoletja</naslov>
         <cit did="2419" cid="11" avtor0="Bratož Rajko"
             naslov0="Koprska škofija od prve omembe (599) do srede 8. stoletja"
             source="Prispevki z mednarodne znanstvene konference 1400. letnica koprske škofije: Acta Histriae"
             year="2001" volume="9"/>
     </delo>
-    <delo mojID="20003">
+    <delo mojID="20003" cobiss="124894208">
         <naslov>Koprska škofija po letu 1945</naslov>
         <cit did="303" cid="199" avtor0="Vogrin Marjan" naslov0="Koprska škofija po letu 1945"
             source="Acta Histriae" year="2001" volume="9" issue="1" page="272-274"/>
@@ -45168,7 +45168,7 @@
         <cit did="16" cid="39" avtor0="Vremec Vid" naslov0="Koprski zapori. Jadranski koledar 1979"
             pubPlace="Trst" year="1979" page="127"/>
     </delo>
-    <delo mojID="20007">
+    <delo mojID="20007" cobiss="27797760">
         <naslov>Koprsko kot obmejno, narodnostno mešano in terciarizirano območje</naslov>
         <cit did="2854" cid="8" avtor0="Klemenčič Vladimir"
             naslov0="Koprsko kot obmejno, narodnostno mešano in terciarizirano območje"
@@ -45179,7 +45179,7 @@
         <cit did="212" cid="40" avtor0="Kert Adrian" naslov0="Korak naprej, dva nazaj"
             source="Naš tednik" pubPlace="Celovec" year="0" volume="49" issue="24" page="2"/>
     </delo>
-    <delo mojID="20012">
+    <delo mojID="20012" cobiss="108360704">
         <naslov>Koraki v času. Novi vek. Zgodovina za 7. razred osemletke</naslov>
         <cit did="3188" cid="1" avtor0="Cvirn Janez, Hriberšek Balkovec Elizabeta, Studen Andrej"
             naslov0="Koraki v času. Novi vek. Zgodovina za 7. razred osemletke" pubPlace="Ljubljana"
@@ -45218,20 +45218,20 @@
         <cit did="3424" cid="73" avtor0="Terzinski B." naslov0="Koristne reči: Tobak."
             source="Učiteljski tovariš, 15.2.1868" year="1868" volume="8" issue="4" page="59-60"/>
     </delo>
-    <delo mojID="20034">
+    <delo mojID="20034" cobiss="11358509">
         <naslov>Koritnica ob Bači</naslov>
         <cit did="1953" cid="11" avtor0="Kos P." naslov0="Koritnica ob Bači"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1973" volume="24" page="848-873"
         />
     </delo>
-    <delo mojID="20036">
+    <delo mojID="20036" cobiss="6134839">
         <naslov>Korne klopi v kapiteljski cerkvi</naslov>
         <cit did="1298" cid="27" avtor0="Jaki Barbara" naslov0="Korne klopi v kapiteljski cerkvi"
             source="500 let Kolegiatnega kapitlja v Novem mestu, Dolenjski zbornik 1996"
             pubPlace="Novo mesto" publisher="Tiskarna Novo mesto, Dolenjska založba" year="1997"
             page="183, 184 ..."/>
     </delo>
-    <delo mojID="20037">
+    <delo mojID="20037" cobiss="569118">
         <naslov>Koroski Slovenci v drugi avstrijski republiki (1945-1976): osnutek za
                         politiino zgodovino</naslov>
         <cit did="2825" cid="26" avtor0="Nečak Dušan"
@@ -45261,13 +45261,13 @@
         <cit did="212" cid="110" avtor0="Vouk Rudi" naslov0="Koroška žaloigra v treh dejanjih"
             source="Naš tednik" pubPlace="Celovec" year="0" volume="46" issue="16" page="1"/>
     </delo>
-    <delo mojID="20050">
+    <delo mojID="20050" cobiss="9676642">
         <naslov>Koroške partizanske enote</naslov>
         <cit did="466" cid="4" avtor0="Linasi Marjan" naslov0="Koroške partizanske enote"
             naslov1="magistrska naloga" pubPlace="Ljubljana" publisher="Filozofska fakulteta"
             year="1999"/>
     </delo>
-    <delo mojID="20051">
+    <delo mojID="20051" cobiss="7745849">
         <naslov>Koroške pripovedke</naslov>
         <cit did="2324" cid="4" avtor0="Möderndorfer V." naslov0="Koroške pripovedke"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1957"/>
@@ -45278,7 +45278,7 @@
             source="Bajalice" pubPlace="Celovec, Trst"
             publisher="Drava, Založništvo tržaškega tiska" year="1987" page="75-82"/>
     </delo>
-    <delo mojID="20053">
+    <delo mojID="20053" cobiss="11566925">
         <naslov>Koroški izobraženci v duhovnem življenju Slovenije ter v
                         slovensko-avstrijskem medkulturnem dialogu</naslov>
         <cit did="2564" cid="16" avtor0="Stergar Janez"
@@ -45305,14 +45305,14 @@
             naslov0="Koroški nacistični tisk o slovenskih vprašanjih v letih 1932-1933"
             source="Borec" year="1976" volume="28" issue="8/9" page="483-486"/>
     </delo>
-    <delo mojID="20059">
+    <delo mojID="20059" cobiss="127234816">
         <naslov>Koroški plebiscit, 1920</naslov>
         <cit did="205" cid="39" avtor0="Pleterski Janko" naslov0="Koroški plebiscit 1920"
             naslov1="Poskus enciklopedične razlage gesla o plebiscitu" pubPlace="Ljubljana"
             publisher="Zveza zgodovinskih društev Slovenije : Inštitut za narodnostna vprašanja"
             year="2003" page="11"/>
     </delo>
-    <delo mojID="20060">
+    <delo mojID="20060" cobiss="3689216">
         <naslov>Koroški plebiscit 1920</naslov>
         <cit did="2854" cid="14" avtor0="Sienčnik Luka" naslov0="Koroški plebiscit, 1920"
             pubPlace="Maribor" publisher="Obzorja" year="1987"/>
@@ -45323,32 +45323,32 @@
             naslov0="Koroški plebiscit. Slovenska kronika XIX. stoletja, 1900-1941"
             pubPlace="Ljubljana" publisher="Nova revija" year="1995"/>
     </delo>
-    <delo mojID="20068">
+    <delo mojID="20068" cobiss="553428">
         <naslov>Koroški Slovenci in ljudsko štetje dne 17. maja 1939</naslov>
         <cit did="3221" cid="22" avtor0="Zorn Tone"
             naslov0="Koroški Slovenci in ljudsko štetje dne 17. maja 1939" source="Koroški koledar"
             year="1974" page="53-59"/>
     </delo>
-    <delo mojID="20071">
+    <delo mojID="20071" cobiss="757204">
         <naslov>Koroški Slovenci po letu 1918</naslov>
         <cit did="858" cid="3" avtor0="Malle Avguštin" naslov0="Koroški Slovenci po letu 1918"
             source="Temeljne prelomnice preteklih tisočletj : 30. zborovanje slovenskih zgodovinarjev"
             pubPlace="Ljubljana" publisher="Zveza zgodovinskih društev Slovenije" year="2001"
             page="131,132,136, 137,138"/>
     </delo>
-    <delo mojID="20073">
+    <delo mojID="20073" cobiss="18142720">
         <naslov>Koroški Slovenci smo potrebni demokratične prenove</naslov>
         <cit did="1292" cid="1" avtor0="Pipp Marijan"
             naslov0="Koroški Slovenci smo potrebni demokratične prenove" source="Celovški zvon"
             year="1990" volume="8" issue="26" page="24-26"/>
     </delo>
-    <delo mojID="20077">
+    <delo mojID="20077" cobiss="9105408">
         <naslov>Koroški Slovenci v letih 1920-1930</naslov>
         <cit did="2564" cid="25" avtor0="Zorn Tone" naslov0="Koroški Slovenci v letih 1920-1930"
             source="Koroški plebiscit" pubPlace="Ljubljana" publisher="Slovenska matica" year="1970"
             page="507-547"/>
     </delo>
-    <delo mojID="20079">
+    <delo mojID="20079" cobiss="4439117">
         <naslov>Koroški Slovenci v luči sodobnih prostorskih, socialnih in etničnih procesov
                         / Die Kärntner Slowenen im Licht der gegenwärtigen räumlichen, sozialen und
                         ethnischen Prozesse</naslov>
@@ -45383,7 +45383,7 @@
             naslov0="Korporativna ideja po okrožnici &#34;Quadragesimo anno&#34;" source="Čas"
             year="1931" page="178"/>
     </delo>
-    <delo mojID="20097">
+    <delo mojID="20097" cobiss="221449216">
         <naslov>Korte in Korčani</naslov>
         <cit did="2152" cid="9" avtor0="Makarovič Marija" naslov0="Korte in Korčani"
             pubPlace="Korte" publisher="Trögern : samozaložba Skupnosti prebivalcev: avtorji"
@@ -45402,12 +45402,12 @@
             naslov0="Kosezi. Enciklopedija Slovenije: 5. knjiga." pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1991"/>
     </delo>
-    <delo mojID="20102">
+    <delo mojID="20102" cobiss="6086201">
         <naslov>Kositer, katalog razstave</naslov>
         <cit did="2119" cid="13" avtor0="Žargi Matija" naslov0="Kositer, katalog razstave"
             pubPlace="Ljubljana" publisher="Narodni muzej" year="1981" page="44"/>
     </delo>
-    <delo mojID="20103">
+    <delo mojID="20103" cobiss="43097698">
         <naslov>Kosmačeva mladostna muza</naslov>
         <cit did="3333" cid="11" avtor0="Mercina Marija" naslov0="Kosmačeva mladostna muza"
             source="Zvon" year="2010" issue="2"/>
@@ -45431,12 +45431,12 @@
             source="Čas. Znanstvena revija Leonove družbe" pubPlace="Ljubljana" year="1911"
             page="416-418"/>
     </delo>
-    <delo mojID="20109">
+    <delo mojID="20109" cobiss="52361473">
         <naslov>Kosovo: Background to a War</naslov>
         <cit did="2840" cid="29" avtor0="Schwartz Stephen" naslov0="Kosovo: Background to a War"
             pubPlace="London" publisher="Anthem Press" year="2000"/>
     </delo>
-    <delo mojID="20110">
+    <delo mojID="20110" cobiss="18769927">
         <naslov>Kosovo i albanska iredenta</naslov>
         <cit did="2872" cid="106" avtor0="Panjkovič Žarko" naslov0="Kosovo i albanska iredenta"
             pubPlace="Reka" publisher="Jugolinija" year="1981"/>
@@ -45447,7 +45447,7 @@
             naslov0="Kosovo i Metohija: decentralizacijom do Evrope"
             source="Limes plus (Geopolitički časopis)" year="2004" volume="2" page="83-91"/>
     </delo>
-    <delo mojID="20112">
+    <delo mojID="20112" cobiss="1169524">
         <naslov>Kosovo i Metohija u velikoalbanskim planovima 1878-2000</naslov>
         <cit did="2872" cid="126" avtor0="Popovič B. Nikola"
             naslov0="Kosovo i Metohija u velikoalbanskim planovima 1878-2000" pubPlace="Beograd"
@@ -45459,7 +45459,7 @@
             naslov0="Kosovo in Albanci v novi Jugoslaviji" source="Albanci" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="1984" page="201-226"/>
     </delo>
-    <delo mojID="20114">
+    <delo mojID="20114" cobiss="27129437">
         <naslov>Kosovo, kako naprej?</naslov>
         <cit did="2715" cid="17" avtor0="Grošelj Klemen" naslov0="Kosovo, kako naprej?"
             source="Obramba" year="2008" issue="40" page="29-31"/>
@@ -45473,7 +45473,7 @@
             publisher="Otvoreni univerzitet, Evropski centar za rešavanje konflikata" year="1994"
             page="66-100"/>
     </delo>
-    <delo mojID="20116">
+    <delo mojID="20116" cobiss="3473420">
         <naslov>Kosovo u u jugoslovensko-albanskim odnosima i projekt Balkanske federacije:
                         1945 - 1948</naslov>
         <cit did="2872" cid="117" avtor0="Petranović Branko"
@@ -45512,7 +45512,7 @@
             naslov0="Kosovsko pitawe, vtoro dopolneto izdanie" pubPlace="Zagreb" publisher="Globus"
             year="1989"/>
     </delo>
-    <delo mojID="20123">
+    <delo mojID="20123" cobiss="3091511">
         <naslov>Kostanjevica na Krki in njena imena</naslov>
         <cit did="2604" cid="11" avtor0="Bučar France" naslov0="Kostanjevica na Krki in njena imena"
             source="Rast" pubPlace="Novo mesto" volume="6" issue="7-8" page="549-557"/>
@@ -45524,18 +45524,18 @@
             naslov0="Kostanjeviške mestne pravice, Jahresbericht des k. k. Gymnasiums in Krainburg"
             pubPlace="Kranj" year="1910" page="1-7"/>
     </delo>
-    <delo mojID="20129">
+    <delo mojID="20129" cobiss="108379392">
         <naslov>Kostel do konca 15. stoletja</naslov>
         <cit did="283" cid="1" avtor0="Južnič Stanislav" naslov0="Kostel do konca 15. stoletja"
             source="ZČ" year="1999" volume="53" issue="3" page="295-323"/>
     </delo>
-    <delo mojID="20132">
+    <delo mojID="20132" cobiss="513180799">
         <naslov>Kostel med zadnjimi turškimi vpadi in Zrinjsko-Frankopansko zaroto</naslov>
         <cit did="283" cid="3" avtor0="Južnič Stanislav"
             naslov0="Kostel med zadnjimi turškimi vpadi in Zrinjsko-Frankopansko zaroto" source="ZČ"
             year="2004" volume="58" issue="3/4" page="301-336"/>
     </delo>
-    <delo mojID="20133">
+    <delo mojID="20133" cobiss="33310977">
         <naslov>Kostel ob Kolpi</naslov>
         <cit did="283" cid="23" avtor0="Cankar Franc" naslov0="Kostel ob Kolpi" pubPlace="Kočevje"
             year="1975" page="9"/>
@@ -45555,13 +45555,13 @@
             naslov0="Kostoreznoe delo v antičnyh gosudarstvah Severnego Pričernomor'a"
             pubPlace="Moskva" publisher="Nauka" year="1986"/>
     </delo>
-    <delo mojID="20137">
+    <delo mojID="20137" cobiss="8518197">
         <naslov>Kot bi hišo in Almine zgodbe varoval kakšen urok</naslov>
         <cit did="2296" cid="3" avtor0="Piano Brane"
             naslov0="Kot bi hišo in Almine zgodbe varoval kakšen urok" source="Delo" year="2001"
             volume="43" page="184"/>
     </delo>
-    <delo mojID="20139">
+    <delo mojID="20139" cobiss="4844333">
         <naslov>Kotnik in materialna kultura Mežiške doline</naslov>
         <cit did="2242" cid="19" avtor0="Oder Karla"
             naslov0="Kotnik in materialna kultura Mežiške doline"
@@ -45612,14 +45612,14 @@
         <cit did="1592" cid="7" avtor0="Baš Franjo" naslov0="Kovačič Fran"
             source="Časopis za zgodovino in narodopisje" year="1939" page="1-39"/>
     </delo>
-    <delo mojID="20150">
+    <delo mojID="20150" cobiss="1768052">
         <naslov>Kovinarska zadruga Plamen na koncu svoje poti (1945-1947)</naslov>
         <cit did="1661" cid="8" avtor0="Prinčič Jože"
             naslov0="Kovinarska zadruga Plamen na koncu svoje poti (1945-1947)"
             source="Vigenjc: Glasilo Kovaškega muzeja v Kropi. 20. stoletje. Industrijska zadruga"
             year="2004" volume="4" page="27-35"/>
     </delo>
-    <delo mojID="20151">
+    <delo mojID="20151" cobiss="129394944">
         <naslov>Kovinarska šola v Kropi</naslov>
         <cit did="1661" cid="4" avtor0="Dolžan Eržen Tatjana" naslov0="Kovinarska šola v Kropi"
             source="Vigenjc, Glasilo Kovaškega muzeja v Kropi. Ob 100. obletnici rojstva Joža Bertonclja"
@@ -45638,12 +45638,12 @@
             naslov0="Kovinsko gradivo z Ajdovščine nad Rodikom" naslov1="Diplomska naloga"
             source="Univerza v Ljubljani" pubPlace="Ljubljana" year="2000"/>
     </delo>
-    <delo mojID="20154">
+    <delo mojID="20154" cobiss="244847104">
         <naslov>Kovnica denarja Kostanjevica na Krki</naslov>
         <cit did="1940" cid="20" avtor0="Oražem F." naslov0="Kovnica denarja Kostanjevica na Krki"
             source="Numizmatični vestnik" year="2004" volume="31" page="10-22"/>
     </delo>
-    <delo mojID="20155">
+    <delo mojID="20155" cobiss="3786592">
         <naslov>Kovnica Kostanjevica (Landstrass-Landestrost) v obdobju visokega srednjega
                         veka</naslov>
         <cit did="1940" cid="37" avtor0="Šemrov A."
@@ -45658,7 +45658,7 @@
             naslov0="Kozakova lektura novele Greh na odoru in ob njej nekaj značilnosti Prežihovega jezika in stila"
             naslov1="diplomska naloga" pubPlace="Ljubljana" publisher="FF" year="1968"/>
     </delo>
-    <delo mojID="20159">
+    <delo mojID="20159" cobiss="18673927">
         <naslov>Kozaška pričevanja</naslov>
         <cit did="447" cid="1" avtor0="Kozak Vlado" naslov0="Kozaška pričevanja"
             pubPlace="Ljubljana" year="1982" page="23"/>
@@ -45668,18 +45668,18 @@
         <cit did="375" cid="67" avtor0="Petru Peter" naslov0="Kozjane"
             source="Arheološka najdišča Slovenije" pubPlace="Ljubljana" year="1975" page="141"/>
     </delo>
-    <delo mojID="20162">
+    <delo mojID="20162" cobiss="350005">
         <naslov>Kozjansko 1944</naslov>
         <cit did="1195" cid="18" avtor0="Vurcer Jože" naslov0="Kozjansko 1944"
             source="Celjski zbornik" year="1984" volume="19"/>
     </delo>
-    <delo mojID="20165">
+    <delo mojID="20165" cobiss="10870882">
         <naslov>Kočevar Ferdo. Enciklopedija Slovenije: 5. knjiga</naslov>
         <cit did="2269" cid="3" avtor0="Cvirn Janez"
             naslov0="Kočevar Ferdo. Enciklopedija Slovenije: 5. knjiga" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1991"/>
     </delo>
-    <delo mojID="20167">
+    <delo mojID="20167" cobiss="2214260">
         <naslov>Kočevarjeva Slovenska mati: podučna knjižica za matere in porodnice iz leta
                         1882 kot izhodišče za nekatera širša socialno- in kulturnozgodovinska
                         razmišljanja</naslov>
@@ -45694,35 +45694,35 @@
             source="Kočevski zbornik" pubPlace="Ljubljana"
             publisher="Vodstvo Družbe sv. Cirila in Metoda" year="1939"/>
     </delo>
-    <delo mojID="20175">
+    <delo mojID="20175" cobiss="736372">
         <naslov>Kočevje v NOB</naslov>
         <cit did="844" cid="55" avtor0="Ferenc Tone" naslov0="Kočevje v NOB"
             source="Enciklopedija Slovenije" year="1991" volume="5" page="181-182"/>
     </delo>
-    <delo mojID="20176">
+    <delo mojID="20176" cobiss="35654144">
         <naslov>Kočevska</naslov>
         <cit did="1443" cid="4" avtor0="Ferenc Mitja" naslov0="Kočevska"
             source="Izgubljena kulturna dediščina kočevskih Nemcev" pubPlace="Ljubljana"
             publisher="Zavod R Slovenije za varstvo naravne in kulturne dediščine" year="1993"/>
     </delo>
-    <delo mojID="20177">
+    <delo mojID="20177" cobiss="4549197">
         <naslov>Kočevska 600 let nemški jezikovni otok</naslov>
         <cit did="2670" cid="16" avtor0="Kren Ludwig"
             naslov0="Kočevska 600 let nemški jezikovni otok"
             source="Kronika, časopis za slovensko krajevno zgodovino, prispevki za zgodovino Kočevske"
             year="1995" issue="43" page="1-6"/>
     </delo>
-    <delo mojID="20178">
+    <delo mojID="20178" cobiss="46244608">
         <naslov>Kočevska, dežela posebnosti v najslabšem, 2.</naslov>
         <cit did="2567" cid="22" avtor0="Žajdela Ivo"
             naslov0="Kočevska, dežela posebnosti v najslabšem, 2." source="Slovenec" year="2035"/>
     </delo>
-    <delo mojID="20180">
+    <delo mojID="20180" cobiss="9641889">
         <naslov>Kočevska v boju za svobodo</naslov>
         <cit did="844" cid="168" avtor0="Šobar Peter" naslov0="Kočevska v boju za svobodo"
             source="Dolenjski list" year="1965" issue="23-32"/>
     </delo>
-    <delo mojID="20185">
+    <delo mojID="20185" cobiss="1238388">
         <naslov>Kočevski proces</naslov>
         <cit did="1187" cid="24" avtor0="Tominšek Teodor" naslov0="Kočevski proces" naslov1="sodba"
             source="Pravnik" year="1959" volume="14" issue="11-12" page="408-458"/>
@@ -45739,7 +45739,7 @@
             naslov0="Kočevski proces, Spomini na partizanska leta" pubPlace="Ljubljana" year="1963"
             page="66-96"/>
     </delo>
-    <delo mojID="20189">
+    <delo mojID="20189" cobiss="27491329">
         <naslov>Kočevski Rog</naslov>
         <cit did="1897" cid="65" avtor0="Žajdela Ivo" naslov0="Kočevski Rog" pubPlace="Maribor"
             year="1990" page="45-63"/>
@@ -45750,7 +45750,7 @@
             source="Rupnik Marko Ivan: V objemu življenja" pubPlace="Ljubljana" year="2006"
             page="5-11"/>
     </delo>
-    <delo mojID="20192">
+    <delo mojID="20192" cobiss="4718157">
         <naslov>Kočevski študenti na Dunajski univerzi (1365-1917)</naslov>
         <cit did="844" cid="17" avtor0="Cindrič Alojz"
             naslov0="Kočevski študenti na Dunajski univerzi (1365-1917)" source="Kronika"
@@ -45762,7 +45762,7 @@
             naslov0="Kočevsko okrajno glavarstvo. Zemljepisno - zgodovinski opis"
             pubPlace="Ljubljana" year="1987"/>
     </delo>
-    <delo mojID="20195">
+    <delo mojID="20195" cobiss="736884">
         <naslov>Kočevsko okrožje</naslov>
         <cit did="844" cid="56" avtor0="Ferenc Tone" naslov0="Kočevsko okrožje"
             source="Enciklopedija Slovenije" year="1991" volume="5" page="185-186"/>
@@ -45776,7 +45776,7 @@
             publisher="Univerza v Ljubljani, Filozofska fakulteta, Oddelek za zgodovino" year="1965"
         />
     </delo>
-    <delo mojID="20198">
+    <delo mojID="20198" cobiss="14916194">
         <naslov>Kočevsko - regionalni oris</naslov>
         <cit did="844" cid="171" avtor0="Štrus Franci" naslov0="Kočevsko - regionalni oris"
             naslov1="Diplomska naloga" pubPlace="Ljubljana"
@@ -45794,7 +45794,7 @@
             naslov0="Košanska šola v času italijanske okupacije" source="Košanska dolina in šola"
             pubPlace="Košana" year="2002"/>
     </delo>
-    <delo mojID="20202">
+    <delo mojID="20202" cobiss="47048192">
         <naslov>Košičev prispevek k zvrstnemu oblikovanju knjižne prekmurščine</naslov>
         <cit did="3465" cid="86" avtor0="Orožen Martina"
             naslov0="Košičev prispevek k zvrstnemu oblikovanju knjižne prekmurščine"
@@ -45807,7 +45807,7 @@
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1991"/>
     </delo>
-    <delo mojID="20204">
+    <delo mojID="20204" cobiss="471326">
         <naslov>Košček njihove mladosti</naslov>
         <cit did="466" cid="5" avtor0="Godina Ferdo" naslov0="Košček njihove mladosti"
             pubPlace="Ljubljana" year="1987" page="95"/>
@@ -45840,7 +45840,7 @@
             source="Poglavja iz revolucionarnega boja jugoslovanskih komunistov 1919-1939, I"
             pubPlace="Ljubljana" year="1981" page="356"/>
     </delo>
-    <delo mojID="20212">
+    <delo mojID="20212" cobiss="812404">
         <naslov>KPS 1941 (Organizacijski razvoj KPS v Ljubljani od aprila 1941 do septembra
                         1943?)</naslov>
         <cit did="644" cid="17" avtor0="Deželak Barič Vida"
@@ -45874,7 +45874,7 @@
             source="Radovi - Sveučilište u Splitu. Filozofski fakultet Zadar. Razdio povijesnih znanosti"
             pubPlace="Zadar" publisher="Filozofski fakultet" year="1986" volume="25"/>
     </delo>
-    <delo mojID="20222">
+    <delo mojID="20222" cobiss="1003324">
         <naslov>Kraj povijesti i posljednji čovjek</naslov>
         <cit did="3071" cid="27" avtor0="Fukuyama Francis"
             naslov0="Kraj povijesti i posljednji čovjek" pubPlace="Zagreb"
@@ -45885,7 +45885,7 @@
         <cit did="1526" cid="13" avtor0="Zupančič Jelka" naslov0="Kraj primeren čas za simbole?"
             source="Večer" year="0" issue="142" page="1"/>
     </delo>
-    <delo mojID="20224">
+    <delo mojID="20224" cobiss="1977871">
         <naslov>Kraj utopije: Esej o oslobođenju</naslov>
         <cit did="1931" cid="12" avtor0="Markuze H." naslov0="Kraj utopije: Esej o oslobođenju"
             pubPlace="Zagreb" publisher="Stvarnost" year="1972"/>
@@ -45896,7 +45896,7 @@
             naslov0="Kraj Šmarje pri Jelšah: Ljubljančani od aprila 1941 dalje" pubPlace="Ljubljana"
             year="1988" page="8"/>
     </delo>
-    <delo mojID="20226">
+    <delo mojID="20226" cobiss="290002">
         <naslov>Kraja po slovensko</naslov>
         <cit did="3114" cid="15" avtor0="Žnidaršič Kranjc Alenka" naslov0="Kraja po slovensko"
             source="Finance" year="20" page="2"/>
@@ -45920,7 +45920,7 @@
             naslov1="Seminarska naloga" publisher="Filozofska fakulteta, Oddelek za etnologijo"
             year="1986"/>
     </delo>
-    <delo mojID="20231">
+    <delo mojID="20231" cobiss="14657537">
         <naslov>Krajevna skupnost v sistemu socialističnega samoupravljanja</naslov>
         <cit did="91" cid="1" avtor0="Vlaj Stane"
             naslov0="Krajevna skupnost v sistemu socialističnega samoupravljanja"
@@ -45937,13 +45937,13 @@
             naslov1="Niti restriktivnega zakona niso docela izpolniti" source="Naš tednik"
             pubPlace="Celovec" year="0" volume="44" issue="38" page="2-3"/>
     </delo>
-    <delo mojID="20239">
+    <delo mojID="20239" cobiss="228914432">
         <naslov>Krajevno imenoslovje na slovenske zahodu</naslov>
         <cit did="1928" cid="17" avtor0="Merku P."
             naslov0="Krajevno imenoslovje na slovenske zahodu" pubPlace="Ljubljana"
             publisher="ZRC SAZU" year="2006"/>
     </delo>
-    <delo mojID="20243">
+    <delo mojID="20243" cobiss="4315001">
         <naslov>Krajinski potenciali Odoline za uresničevanje razvojnega plana občine
                         Hrpelje-Kozina</naslov>
         <cit did="375" cid="75" avtor0="Krebelj Ana"
@@ -45952,7 +45952,7 @@
             source="Oddelek za krajinsko arhitekturo, Biotehniška fakulteta" pubPlace="Ljubljana"
             year="2005"/>
     </delo>
-    <delo mojID="20245">
+    <delo mojID="20245" cobiss="11413037">
         <naslov>Krajna vas : Študija o prirodnih pogojih in agrarnem izkoriščanju
                         Krasa</naslov>
         <cit did="86" cid="48" avtor0="Gams Ivan, Lovrenčak Franc, Ingolič Borut"
@@ -45981,13 +45981,13 @@
         <cit did="1521" cid="13" avtor0="Jež Boris" naslov0="Kramberger zdaj!"
             source="Volilno Delo - posebna izdaja" year="1994"/>
     </delo>
-    <delo mojID="20258">
+    <delo mojID="20258" cobiss="3744798">
         <naslov>Kranj</naslov>
         <cit did="422" cid="45" avtor0="Slavec Andrejka" naslov0="Kranj"
             source="Gorenjska 1900-2000: knjiga gorenjske samozavesti" pubPlace="Kranj"
             publisher="Gorenjski glas" year="1999" page="96"/>
     </delo>
-    <delo mojID="20259">
+    <delo mojID="20259" cobiss="3669558">
         <naslov>Kranj in njegova širša okolica v prvi polovici 19. stoletja</naslov>
         <cit did="422" cid="19" avtor0="Žontar Jože"
             naslov0="Kranj in njegova širša okolica v prvi polovici 19. stoletja"
@@ -46000,19 +46000,19 @@
             naslov0="Kranj, križišče Iskra : katalogi in monografije 21" pubPlace="Ljubljana"
             year="1988"/>
     </delo>
-    <delo mojID="20264">
+    <delo mojID="20264" cobiss="7140918">
         <naslov>Kranj v Prešernovem času</naslov>
         <cit did="422" cid="18" avtor0="Žontar Majda in Žontar Jože"
             naslov0="Kranj v Prešernovem času" source="Prešernovi dnevi v Kranju" pubPlace="Kranj"
             publisher="Mestna občina Kranj" year="2000" page="23-34"/>
     </delo>
-    <delo mojID="20265">
+    <delo mojID="20265" cobiss="107613952">
         <naslov>Kranj v stoletju neslutenih sprememb</naslov>
         <cit did="422" cid="41" avtor0="Puhar Aci (Franc)"
             naslov0="Kranj v stoletju neslutenih sprememb" pubPlace="Kranj"
             publisher="Gorenjski glas" year="2000"/>
     </delo>
-    <delo mojID="20266">
+    <delo mojID="20266" cobiss="11177270">
         <naslov>Kranj v času nacistične okupacije</naslov>
         <cit did="422" cid="42" avtor0="Benedik Franc" naslov0="Kranj v času nacistične okupacije"
             source="Kranjski zbornik 2005" pubPlace="Kranj" publisher="Mestna občina Kranj"
@@ -46046,7 +46046,7 @@
         <cit did="39" cid="19" avtor0="Kociančič Štefan"
             naslov0="Kranjska pismenost okrajšana za male šole" pubPlace="Trst" year="0"/>
     </delo>
-    <delo mojID="20279">
+    <delo mojID="20279" cobiss="2371894">
         <naslov>Kranjska podružnica Državnega pokrajinskega arhiva v Celovcu v času nemške
                         okupacije</naslov>
         <cit did="2843" cid="46" avtor0="Žontar Jože"
@@ -46075,21 +46075,21 @@
             naslov0="Kranjski dijaki na nemških vseučiliščih v XVI. in XVII. veku"
             source="Izvestja Muzejskega društva za Kranjsko IX." year="1899" page="24-27"/>
     </delo>
-    <delo mojID="20296">
+    <delo mojID="20296" cobiss="629877">
         <naslov>Kranjski obrambni mehanizem za zaščito pred prvo epidemijo kolere v
                         Evropi</naslov>
         <cit did="2610" cid="43" avtor0="Keber Katarina"
             naslov0="Kranjski obrambni mehanizem za zaščito pred prvo epidemijo kolere v Evropi"
             source="Kronika" year="2005" volume="53" issue="3" page="351-364"/>
     </delo>
-    <delo mojID="20301">
+    <delo mojID="20301" cobiss="30578274">
         <naslov>Kranjsko plemstvo v času Almanachovega delovanja na Kranjskem</naslov>
         <cit did="288" cid="27" avtor0="Štuhec Marko"
             naslov0="Kranjsko plemstvo v času Almanachovega delovanja na Kranjskem"
             source="Almanach in slikarstvo druge polovice 17. stoletja na Kranjskem"
             pubPlace="Ljubljana" year="2005" page="120"/>
     </delo>
-    <delo mojID="20304">
+    <delo mojID="20304" cobiss="238929408">
         <naslov>Kras, knjiga o Soči</naslov>
         <cit did="3152" cid="1" avtor0="Abel Kornel" naslov0="Kras, knjiga o Soči"
             pubPlace="Doberdob" publisher="Društvo Rat-Sloga" year="2008"/>
@@ -46121,7 +46121,7 @@
             naslov0="Kratek obris strukture in delovanja Štajerske domovinske zveze na Celjskem v letih 1941 do 1945"
             source="Celjski zbornik" year="1993"/>
     </delo>
-    <delo mojID="20312">
+    <delo mojID="20312" cobiss="13246260">
         <naslov>Kratek oris delavskega gibanja v Mežiški dolini od 1929 do 1936</naslov>
         <cit did="124" cid="10" avtor0="Krivograd Alojz"
             naslov0="Kratek oris delavskega gibanja v Mežiški dolini od 1929 do 1936"
@@ -46133,7 +46133,7 @@
             naslov0="Kratek oris italijanskega slikarstva" source="Dom in svet" year="1925"
             volume="38" issue="3" page="115-117"/>
     </delo>
-    <delo mojID="20315">
+    <delo mojID="20315" cobiss="235308288">
         <naslov>Kratek oris preteklosti mesta in belokranjske regije od prvih začetkov do
                         novega veka</naslov>
         <cit did="2588" cid="60" avtor0="Weiss J."
@@ -46147,7 +46147,7 @@
             naslov0="Kratek oris priprav na množično vstajo in na oblikovanje osvobojenega ozemlja na Notranjskem pozimi 1941–1942"
             source="Notranjski listi II" pubPlace="Cerknica" year="1981" page="153"/>
     </delo>
-    <delo mojID="20318">
+    <delo mojID="20318" cobiss="1767733">
         <naslov>Kratek oris strukture in delovanja Štajerske domovinske zveze na Celjskem v
                         letih 1941-1945: Celjski zbornik 1993</naslov>
         <cit did="2292" cid="11" avtor0="Žižek Aleksander"
@@ -46161,7 +46161,7 @@
             source="Sprehod skozi čas : društvo upokojenih pedagoških delavcev : dokumenti časa"
             pubPlace="Ljubljana" publisher="Jutro" year="2005" page="27-33"/>
     </delo>
-    <delo mojID="20325">
+    <delo mojID="20325" cobiss="15086849">
         <naslov>Kratek pregled psihiatrije</naslov>
         <cit did="2632" cid="139" avtor0="Zalokar Jurij" naslov0="Kratek pregled psihiatrije"
             pubPlace="Idrija-Šempeter pri Gorici" year="1985"/>
@@ -46171,7 +46171,7 @@
         <cit did="1914" cid="14" avtor0="Brešan Franc"
             naslov0="Kratek pregled razvoja »TIGER« organizacije leta 1927" naslov1="tipkopis"/>
     </delo>
-    <delo mojID="20329">
+    <delo mojID="20329" cobiss="4892675">
         <naslov>Kratek pregled verstev sveta</naslov>
         <cit did="106" cid="57" avtor0="Langley M." naslov0="Kratek pregled verstev sveta"
             pubPlace="Koper" publisher="Ognjišče" year="1994" page="39"/>
@@ -46182,7 +46182,7 @@
             naslov0="Kratek pregled zgodovine knjižnic Ptuja in okolice"
             source="30 let Študijske knjižnice v Ptuju" pubPlace="Ptuj" year="1978" page="75"/>
     </delo>
-    <delo mojID="20332">
+    <delo mojID="20332" cobiss="1463923">
         <naslov>Kratek pregled življenja in naseljevanja ljudi v ožji ljubljanski kotlini od
                         prazgodovine do začetka druge svetovne vojne</naslov>
         <cit did="1509" cid="49" avtor0="Vahen Damjan"
@@ -46200,7 +46200,7 @@
             source="Monitor ISH" pubPlace="Ljubljana" year="2002" volume="4" issue="1-4"
             page="111-112"/>
     </delo>
-    <delo mojID="20337">
+    <delo mojID="20337" cobiss="54029824">
         <naslov>Kratek vodič po Evropski konvenciji o človekovih pravicah</naslov>
         <cit did="3071" cid="30" avtor0="Gomien Donna"
             naslov0="Kratek vodič po Evropski konvenciji o človekovih pravicah" pubPlace="Ljubljana"
@@ -46218,7 +46218,7 @@
             source="Ribnica skozi stoletja" pubPlace="Ljubljana - Washington" year="1982" page="126"
         />
     </delo>
-    <delo mojID="20340">
+    <delo mojID="20340" cobiss="1003988">
         <naslov>Kratka biografija slovenskih duhovnikov Podgorca, Ražuna in Limpla s
                         poudarkom na njihovem delovanju v Akademiji slovenskih bogoslovcev v
                         Celovcu</naslov>
@@ -46234,7 +46234,7 @@
             source="Dragotine kapiteljske cerkve" pubPlace="Novo mesto" publisher="Dolenjski muzej"
             year="1993" page="153-160"/>
     </delo>
-    <delo mojID="20344">
+    <delo mojID="20344" cobiss="102060800">
         <naslov>Kratka navodila za ohranitev arhivov</naslov>
         <cit did="2843" cid="33" avtor0="Mal Josip" naslov0="Kratka navodila za ohranitev arhivov"
             source="Časopis za zgodovino in narodopisje" year="1928" volume="23" page="175-179"/>
@@ -46263,19 +46263,19 @@
             naslov0="Kratka povijest podunavskih Njemaca" pubPlace="Osjek-Zagreb-Split" year="1999"
         />
     </delo>
-    <delo mojID="20351">
+    <delo mojID="20351" cobiss="2003501">
         <naslov>Kratka slovenska slovnica za pervence</naslov>
         <cit did="1623" cid="5" avtor0="Muršec Jožef"
             naslov0="Kratka slovenska slovnica za pervence" pubPlace="Gradec"
             publisher="Lajkamovi nasledniki" year="0"/>
     </delo>
-    <delo mojID="20352">
+    <delo mojID="20352" cobiss="53267712">
         <naslov>Kratka svetovna zgodovina za mlade bralce</naslov>
         <cit did="2470" cid="10" avtor0="Gombrich Ernst. H."
             naslov0="Kratka svetovna zgodovina za mlade bralce" pubPlace="Ljubljana" publisher="DZS"
             year="1995"/>
     </delo>
-    <delo mojID="20356">
+    <delo mojID="20356" cobiss="105714176">
         <naslov>Kratka zgodovina interpretacije Biblije</naslov>
         <cit did="728" cid="9" avtor0="Grant R. M., Tracy R."
             naslov0="Kratka zgodovina interpretacije Biblije" pubPlace="Ljubljana"
@@ -46288,18 +46288,18 @@
             source="Letno poročilo Franc Jožefove ljudske šole v Črnomlji, štirirazrednicez dvema paralelkama"
             pubPlace="Črnomelj" year="1906"/>
     </delo>
-    <delo mojID="20360">
+    <delo mojID="20360" cobiss="187905">
         <naslov>Kratka zgodovina Maribora</naslov>
         <cit did="2784" cid="8" avtor0="Majcen Gabrijel" naslov0="Kratka zgodovina Maribora"
             pubPlace="Maribor" publisher="Tiskarna sv. Cirila" year="1926"/>
     </delo>
-    <delo mojID="20361">
+    <delo mojID="20361" cobiss="4822020">
         <naslov>Kratka zgodovina mariborskega časopisja</naslov>
         <cit did="889" cid="24" avtor0="Rajh Bernard"
             naslov0="Kratka zgodovina mariborskega časopisja" source="Večer" year="1982" volume="37"
             issue="147" page="22-25"/>
     </delo>
-    <delo mojID="20362">
+    <delo mojID="20362" cobiss="221785344">
         <naslov>Kratka zgodovina mita</naslov>
         <cit did="528" cid="13" avtor0="Armstrong Karen" naslov0="Kratka zgodovina mita"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2005" page="14"/>
@@ -46318,7 +46318,7 @@
             naslov0="Kratka zgodovina Terotorialne: manevrske strukture narodne zaščite in Slovenske vojske v Posavju"
             source="Vojnozgodovinski zbornik" pubPlace="Logatec" year="2007" issue="29"/>
     </delo>
-    <delo mojID="20368">
+    <delo mojID="20368" cobiss="27093248">
         <naslov>Kratka zgodovina za mlade bralce: od pradavnine do sedanjosti</naslov>
         <cit did="3071" cid="29" avtor0="Gombrich Ernst Hans Josef"
             naslov0="Kratka zgodovina za mlade bralce: od pradavnine do sedanjosti"
@@ -46355,7 +46355,7 @@
             naslov0="Kratki sapopadik kershanskiga navuka sa otroke inu kmetiske ludy. (1. izd.: 1770)"
             pubPlace="Labacum" year="0"/>
     </delo>
-    <delo mojID="20375">
+    <delo mojID="20375" cobiss="93629184">
         <naslov>Kratko in lahkoumevno pojasnilo nove vojne postave</naslov>
         <cit did="629" cid="58" avtor0="Przibram Ludwig"
             naslov0="Kratko in lahkoumevno pojasnilo nove vojne postave" pubPlace="Ljubljana"
@@ -46366,7 +46366,7 @@
         <cit did="2628" cid="23" avtor0="Pohlin M."
             naslov0="Kratkočasne uganke inu čudne kunšte iz bele šole" pubPlace="Dunaj" year="0"/>
     </delo>
-    <delo mojID="20378">
+    <delo mojID="20378" cobiss="78662912">
         <naslov>Kravel, Halo, tu Radio Ljubljana!</naslov>
         <cit did="1531" cid="4" avtor0="Bezlaj Ljudmila" naslov0="Kravel, Halo, tu Radio Ljubljana!"
             pubPlace="Ljubljana" publisher="Tehniški muzej Slovenije" year="1998"/>
@@ -46376,13 +46376,13 @@
         <cit did="2612" cid="95" avtor0="Mantuani Josip" naslov0="Kravnska Kroneka"
             source="Dom in svet, letnik XXI" pubPlace="Ljubljana" volume="21" page="274-279"/>
     </delo>
-    <delo mojID="20381">
+    <delo mojID="20381" cobiss="216150016">
         <naslov>Kraška hiša in arhitektura Krasa</naslov>
         <cit did="375" cid="125" avtor0="Renčelj Stanislav, Lah Ljubo"
             naslov0="Kraška hiša in arhitektura Krasa" pubPlace="Koper" year="2004"
             page="12-13, 139"/>
     </delo>
-    <delo mojID="20383">
+    <delo mojID="20383" cobiss="85165">
         <naslov>Kraške agromelioracije : nastajanje, oblike in pomen za sedanjo rabo
                         tal</naslov>
         <cit did="86" cid="19" avtor0="Gams Ivan"
@@ -46390,24 +46390,24 @@
             source="Geographica Slovenica" pubPlace="Ljubljana" year="1987" issue="18"
             page="168-169"/>
     </delo>
-    <delo mojID="20385">
+    <delo mojID="20385" cobiss="9240621">
         <naslov>Kraške vode</naslov>
         <cit did="696" cid="10" avtor0="Kranjc Andrej" naslov0="Kraške vode"
             source="Geografski atlas Slovenije" pubPlace="Ljubljana" publisher="DZS" year="1998"/>
     </delo>
-    <delo mojID="20386">
+    <delo mojID="20386" cobiss="11177778">
         <naslov>Kraški kali nekoč in danes</naslov>
         <cit did="2271" cid="8" avtor0="Legiša Zvonko" naslov0="Kraški kali nekoč in danes"
             source="Koledar Goriške Mohorjeve družbe za leto 1977" pubPlace="Gorica"
             publisher="Goriška Mohorjeva družba" year="1977"/>
     </delo>
-    <delo mojID="20387">
+    <delo mojID="20387" cobiss="8306733">
         <naslov>Kraški pojavi Cerkniškega polja</naslov>
         <cit did="2150" cid="6" avtor0="Gospodarič Rado, Peter Habič"
             naslov0="Kraški pojavi Cerkniškega polja" source="Acta Carsologica" year="1979"
             volume="8" page="7-162"/>
     </delo>
-    <delo mojID="20388">
+    <delo mojID="20388" cobiss="112953344">
         <naslov>Kraški vodovod Sežana 1948-1998</naslov>
         <cit did="2783" cid="4" avtor0="Kristan Stanislav, Skrinjar Pavel"
             naslov0="Kraški vodovod Sežana 1948-1998" source="Kraški vodovod Sežana"
@@ -46438,40 +46438,40 @@
             naslov1="Aprachzählung : Jeder wirbt für sich allein" source="Kurier" pubPlace="Wien"
             year="0" issue="263" page="2"/>
     </delo>
-    <delo mojID="20394">
+    <delo mojID="20394" cobiss="4314115">
         <naslov>Krek</naslov>
         <cit did="2618" cid="49" avtor0="Jurčec Ruda" naslov0="Krek" pubPlace="Ljubljana"
             year="1935"/>
     </delo>
-    <delo mojID="20395">
+    <delo mojID="20395" cobiss="252726">
         <naslov>Krek in slovensko katoliško gibanje</naslov>
         <cit did="700" cid="19" avtor0="Pirc Jožko" naslov0="Krek in slovensko katoliško gibanje"
             source="Krekov simpozij v Rimu. Simpoziji v Rimu - 9" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1992" page="89-96"/>
     </delo>
-    <delo mojID="20396">
+    <delo mojID="20396" cobiss="10200109">
         <naslov>Krek in slovensko zadružništvo</naslov>
         <cit did="1391" cid="9" avtor0="Granda Stane" naslov0="Krek in slovensko zadružništvo"
             source="Janez Evangelist Krek" pubPlace="Maribor" publisher="Slomškova založba"
             year="1998"/>
     </delo>
-    <delo mojID="20397">
+    <delo mojID="20397" cobiss="259382">
         <naslov>Krek in žensko vprašanje</naslov>
         <cit did="700" cid="13" avtor0="Mlinar Anton" naslov0="Krek in žensko vprašanje"
             source="Krekov simpozij v Rimu. Simpoziji v Rimu - 9" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1992" page="195-210"/>
     </delo>
-    <delo mojID="20401">
+    <delo mojID="20401" cobiss="217576960">
         <naslov>Krekova tradicija</naslov>
         <cit did="2618" cid="201" avtor0="Prunk Janko" naslov0="Krekova tradicija"
             source="Revija 2000" year="1988" issue="40-41" page="3-23"/>
     </delo>
-    <delo mojID="20402">
+    <delo mojID="20402" cobiss="11720237">
         <naslov>Krekovo leposlovno delo</naslov>
         <cit did="2618" cid="180" avtor0="Mahnič Mirko" naslov0="Krekovo leposlovno delo"
             source="Bogoslovni vestnik" year="1988" issue="1" page="33-44"/>
     </delo>
-    <delo mojID="20405">
+    <delo mojID="20405" cobiss="259075">
         <naslov>Kreljeva Otročja Biblija, spremna beseda</naslov>
         <cit did="2612" cid="112" avtor0="Orožen Martina"
             naslov0="Kreljeva Otročja Biblija, spremna beseda" source="OTROZHIA BIBLIA 1566"
@@ -46497,7 +46497,7 @@
         <cit did="1647" cid="3" avtor0="Wrzesinski W." naslov0="Kresy czy pogranicze..."
             source="Miedzy Polska etniczna a historyczna" year="1988" page="119-165"/>
     </delo>
-    <delo mojID="20411">
+    <delo mojID="20411" cobiss="6183501">
         <naslov>Kretanje stanovništva i etnički sastav prigraničnog pojasa Hrvatske i
                         Slovenije</naslov>
         <cit did="3072" cid="231" avtor0="Pokos Nenad"
@@ -46516,7 +46516,7 @@
             naslov0="Kri ni voda, »imamo se radi« ničesar ne prekrije" source="Večer"
             pubPlace="Maribor" year="2029"/>
     </delo>
-    <delo mojID="20420">
+    <delo mojID="20420" cobiss="11815469">
         <naslov>Krieg der Partisanen: Memoiren 1941-1945</naslov>
         <cit did="1324" cid="112" avtor0="Djilas M."
             naslov0="Krieg der Partisanen: Memoiren 1941-1945" pubPlace="Wien" publisher="Molden"
@@ -46529,7 +46529,7 @@
             naslov0="Krieg der Philosophen : die deutsche und die britische Philosophie im Ersten Weltkrieg"
             pubPlace="Padernborn" year="2004"/>
     </delo>
-    <delo mojID="20422">
+    <delo mojID="20422" cobiss="3767136">
         <naslov>Krieg, Handel und Piraterie: Untersuchungen zur Geschichte des
                         hellenistischen Rhodos</naslov>
         <cit did="1748" cid="1110" avtor0="Wiemer H.-U."
@@ -46612,20 +46612,20 @@
             naslov0="Kriegwesen im späten Mittelalter. Technik, Taktik, Theorie" pubPlace="Weinheim"
             year="1990"/>
     </delo>
-    <delo mojID="20439">
+    <delo mojID="20439" cobiss="73640960">
         <naslov>Kriki in šepetanja</naslov>
         <cit did="226" cid="157" avtor0="Pagon. N." naslov0="Kriki in šepetanja"
             source="Od ženskih študij k feministični teoriji" pubPlace="Ljubljana"
             publisher="Študentska organizacija Univerze v Ljubljani" year="1993" page="51-52"/>
     </delo>
-    <delo mojID="20441">
+    <delo mojID="20441" cobiss="225725440">
         <naslov>Kriminalitätsgeschichte : Beiträge zur Sozial- und Kulturgeschichte der
                         Vormoderne : Konflikte und Kultur : Historische Perspektiven</naslov>
         <cit did="738" cid="38" avtor0="Schwerhoff G."
             naslov0="Kriminalitätsgeschichte : Beiträge zur Sozial- und Kulturgeschichte der Vormoderne : Konflikte und Kultur : Historische Perspektiven"
             pubPlace="Konstanz" publisher="Universitätsverlag Konstanz" year="2000"/>
     </delo>
-    <delo mojID="20442">
+    <delo mojID="20442" cobiss="251729">
         <naslov>Kriminalnopolitična presoja določil zadnjega odstavka čl. Vidovdanske
                         ustave</naslov>
         <cit did="2182" cid="14" avtor0="Dolenc Metod"
@@ -46651,19 +46651,19 @@
         <cit did="826" cid="164" avtor0="Šega Drago" naslov0="Kriterij in resničnost"
             source="Naša sodobnost" year="1956" issue="10" page="957-960"/>
     </delo>
-    <delo mojID="20452">
+    <delo mojID="20452" cobiss="27467008">
         <naslov>Kriteriji prestrukturiranja slovenskega gospodarstva</naslov>
         <cit did="852" cid="3" avtor0="Gmeiner Pavel"
             naslov0="Kriteriji prestrukturiranja slovenskega gospodarstva" pubPlace="Ljubljana"
             publisher="Delavska enotnost" year="1983"/>
     </delo>
-    <delo mojID="20453">
+    <delo mojID="20453" cobiss="41146">
         <naslov>Kritik der zynischen Vernunft</naslov>
         <cit did="2386" cid="7" avtor0="Sloterdijk Heinrichs"
             naslov0="Kritik der zynischen Vernunft" pubPlace="Frankfurt am Main" year="1983"
             page="207"/>
     </delo>
-    <delo mojID="20456">
+    <delo mojID="20456" cobiss="125271552">
         <naslov>Kritika ciničnega uma</naslov>
         <cit did="2386" cid="2" avtor0="Sloterdijk Peter" naslov0="Kritika ciničnega uma"
             pubPlace="Ljubljana" year="2003" page="17"/>
@@ -46680,12 +46680,12 @@
             source="Karl Marx, Friedrich Engels, Izbrana dela, 1. zvezek" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="1969" page="245-398"/>
     </delo>
-    <delo mojID="20461">
+    <delo mojID="20461" cobiss="104369408">
         <naslov>Kritika razsodne moči</naslov>
         <cit did="1670" cid="6" avtor0="Kant Immanuel" naslov0="Kritika razsodne moči"
             pubPlace="Ljubljana" publisher="ZRC" year="1999" page="270"/>
     </delo>
-    <delo mojID="20462">
+    <delo mojID="20462" cobiss="30808832">
         <naslov>Kritika Redfieldove teorije 'folk'društva</naslov>
         <cit did="2533" cid="8" avtor0="Jelič Jordan"
             naslov0="Kritika Redfieldove teorije 'folk'društva" pubPlace="Ljubljana"
@@ -46703,7 +46703,7 @@
             naslov0="Kritische Besprechung des neuen österreichischen Weingesetzes mit einigen Anregungen, die zum allgemeinen Besten dienen sollen"
             pubPlace="Wien" publisher="Wilhelm Frick, k. u. k. Hofbuchhandlung" year="1908"/>
     </delo>
-    <delo mojID="20466">
+    <delo mojID="20466" cobiss="52162304">
         <naslov>Kritische Sicht der Literatur über die (südslawische) Entsprechung der
                         Gruppe....</naslov>
         <cit did="3256" cid="10" avtor0="Cvetko Orešnik Varja"
@@ -46718,7 +46718,7 @@
             naslov0="Kritische Untersuchungen über die Quellen der vierten und fünften Dekade des Livius"
             pubPlace="Berlin" year="0"/>
     </delo>
-    <delo mojID="20468">
+    <delo mojID="20468" cobiss="231266048">
         <naslov>Kritična diskurzivna analiza novinarskih prispevkov. Knjižna zbirka
                         Maklen</naslov>
         <cit did="3077" cid="9" avtor0="Erjavec K., Poler Kovačič M."
@@ -46737,12 +46737,12 @@
         <cit did="710" cid="6" avtor0="Dujmušič D."
             naslov0="Kritična povijest Svete kuče Marijine u Loretu" pubPlace="Reka" year="1912"/>
     </delo>
-    <delo mojID="20476">
+    <delo mojID="20476" cobiss="118265600">
         <naslov>»Krivda je samo individualna«</naslov>
         <cit did="1872" cid="26" avtor0="Pučnik Jože" naslov0="»Krivda je samo individualna«"
             source="Ampak" year="2001" issue="12" page="34-39"/>
     </delo>
-    <delo mojID="20477">
+    <delo mojID="20477" cobiss="1488587">
         <naslov>Krivične trditve o vodstvu TIGR</naslov>
         <cit did="1914" cid="126" avtor0="Rutar Tone" naslov0="Krivične trditve o vodstvu TIGR"
             source="Bistriški zapisi" year="1984" volume="2" page="71-103"/>
@@ -46763,7 +46763,7 @@
         <cit did="2174" cid="1" avtor0="Nozomu Abe"
             naslov0="Kriza in razpad jugoslovanskega gospodarstva" pubPlace="Tokio" year="1993"/>
     </delo>
-    <delo mojID="20484">
+    <delo mojID="20484" cobiss="7585538">
         <naslov>Kriza industrijske moderne in novi individualizem</naslov>
         <cit did="170" cid="19" avtor0="Ule Mirjana"
             naslov0="Kriza industrijske moderne in novi individualizem"
@@ -46785,7 +46785,7 @@
             naslov0="Kriza kot priložnost za revizijo medijskega sistema" source="Medijska preža"
             year="2009" volume="34-35" page="10"/>
     </delo>
-    <delo mojID="20488">
+    <delo mojID="20488" cobiss="2114432">
         <naslov>Kriza moderne demokracije?</naslov>
         <cit did="2143" cid="5" avtor0="Gosar Andrej" naslov0="Kriza moderne demokracije?"
             source="Čas, znanstvena revija Leonove družbe" year="1926" page="125-162"/>
@@ -46807,7 +46807,7 @@
             naslov0="Kriza perestrojke I novi savez suverenih republic" source="Politička misao"
             year="1991" volume="28" issue="2" page="98-117"/>
     </delo>
-    <delo mojID="20493">
+    <delo mojID="20493" cobiss="115093504">
         <naslov>Kriza revije »Dom in svet« leta 1937 : zbornik dokumentov</naslov>
         <cit did="2894" cid="19" avtor0="Kocbek Edvard"
             naslov0="Kriza revije »Dom in svet« leta 1937 : zbornik dokumentov" pubPlace="Ljubljana"
@@ -46837,18 +46837,18 @@
             naslov0="Krize komunistického režimu v Československu v 50. letech 20. století"
             pubPlace="Brno" publisher="Centrum pro stadium demokracie a kultura" year="2008"/>
     </delo>
-    <delo mojID="20502">
+    <delo mojID="20502" cobiss="29428736">
         <naslov>Križ je bu enkrat mejstu: življenje nekega kraja</naslov>
         <cit did="1422" cid="18" avtor0="Koloini Borut"
             naslov0="Križ je bu enkrat mejstu: življenje nekega kraja" source="Vipavski križ"
             publisher="Samozaložba" year="1992"/>
     </delo>
-    <delo mojID="20504">
+    <delo mojID="20504" cobiss="100606976">
         <naslov>Križari u očima Arapa</naslov>
         <cit did="142" cid="118" avtor0="Maalouf Amin" naslov0="Križari u očima Arapa"
             pubPlace="Sarajevo" publisher="Bemust" year="1999"/>
     </delo>
-    <delo mojID="20507">
+    <delo mojID="20507" cobiss="15321186">
         <naslov>Križarji, romarji, spokorniki: naši stiki s Sveto deželo</naslov>
         <cit did="2623" cid="241" avtor0="Šmitek Zmago"
             naslov0="Križarji, romarji, spokorniki: naši stiki s Sveto deželo" source="ČZN"
@@ -46860,12 +46860,12 @@
             naslov0="Križarska vojna proti Kobaridcem 1331" source="Zgodovinski časopis" year="1984"
             volume="38" page="49-55"/>
     </delo>
-    <delo mojID="20510">
+    <delo mojID="20510" cobiss="4235011">
         <naslov>Križem sveta</naslov>
         <cit did="3022" cid="127" avtor0="Slemenik Valentin" naslov0="Križem sveta" publisher="MD"
             year="1877"/>
     </delo>
-    <delo mojID="20512">
+    <delo mojID="20512" cobiss="215606272">
         <naslov>Križev pot iz porušene župnijske cerkve sv. Janeza Krstnika v Kočevski
                         Reki</naslov>
         <cit did="3486" cid="85" avtor0="Zupan Gojko"
@@ -46877,13 +46877,13 @@
         <cit did="385" cid="66" avtor0="Vrdlovec Z." naslov0="Križi" source="Dnevnik"
             pubPlace="Ljubljana" year="0" volume="99" page="21"/>
     </delo>
-    <delo mojID="20515">
+    <delo mojID="20515" cobiss="9262641">
         <naslov>Križišče pri Sp. Škofijah</naslov>
         <cit did="383" cid="11" avtor0="Novšak Matjaž" naslov0="Križišče pri Sp. Škofijah"
             source="Zemlja pod vašimi nogami" pubPlace="Ljubljana"
             publisher="Zavod za varstvo kulturne dediščine Slovenije" year="2003" page="165"/>
     </delo>
-    <delo mojID="20516">
+    <delo mojID="20516" cobiss="7575815">
         <naslov>Križni put</naslov>
         <cit did="1897" cid="9" avtor0="Vlašić Boris" avtor1="Vojinović Aleksandar"
             naslov0="Križni put" pubPlace="Zagreb" year="1991" page="326"/>
@@ -46907,14 +46907,14 @@
             source="Millenium dioeceseos Pragnesis 973-1973. Beiträge zur Kirchengeschichte Mitteleuropas im 9.-11. Jahrehundert"
             pubPlace="Wien-Köln-Graz" year="1974" page="119-126"/>
     </delo>
-    <delo mojID="20521">
+    <delo mojID="20521" cobiss="731443">
         <naslov>Krleža-Partija: Miroslav Krleža u radničkom i komunističkom pokretu
                         1917-1941</naslov>
         <cit did="3210" cid="148" avtor0="Očak Ivan"
             naslov0="Krleža-Partija: Miroslav Krleža u radničkom i komunističkom pokretu 1917-1941"
             pubPlace="Zagreb" publisher="Spektar" year="1982"/>
     </delo>
-    <delo mojID="20522">
+    <delo mojID="20522" cobiss="61642496">
         <naslov>Krmilni mediji in posplošene forme komuniciranja</naslov>
         <cit did="2007" cid="18" avtor0="Škerlep A."
             naslov0="Krmilni mediji in posplošene forme komuniciranja"
@@ -46925,7 +46925,7 @@
         <cit did="3003" cid="32" avtor0="Robak Fritz" naslov0="Kroaten im Burgenland"
             pubPlace="Wien" publisher="Europa Verlag" year="1984"/>
     </delo>
-    <delo mojID="20524">
+    <delo mojID="20524" cobiss="20140039">
         <naslov>Kroaten und Slowenen</naslov>
         <cit did="29" cid="347" avtor0="Milčinović Andreas,  Krek Johann"
             naslov0="Kroaten und Slowenen" pubPlace="Jena" year="1916" page="11"/>
@@ -46956,7 +46956,7 @@
         <cit did="1509" cid="90" avtor0="Kunčič Mirko" naslov0="Krompir in krompirjevci"
             source="Vrtec" year="1941" issue="1-2" page="17"/>
     </delo>
-    <delo mojID="20532">
+    <delo mojID="20532" cobiss="11346477">
         <naslov>Krona</naslov>
         <cit did="2781" cid="11" avtor0="Kos Peter" avtor1="67" naslov0="Krona"
             source="Enciklopedija Slovenije 6: Krek-Marij" pubPlace="Ljubljana"
@@ -46973,7 +46973,7 @@
             source="Vjesnik za arheologiju i historiju dalmatinsku" year="2002" volume="94"
             page="431-457"/>
     </delo>
-    <delo mojID="20537">
+    <delo mojID="20537" cobiss="2991619">
         <naslov>Kronika Doba</naslov>
         <cit did="1386" cid="3" avtor0="Stražar Stane" naslov0="Kronika Doba" pubPlace="Domžale"
             publisher="Jamarski klub" year="1970" page="229-"/>
@@ -46983,13 +46983,13 @@
         <cit did="1438" cid="4" avtor0="Čibej Edmund" naslov0="Kronika Dol-Otlica"
             source="Tipkopis: hrani Goriški muzej Kromberk" year="1953"/>
     </delo>
-    <delo mojID="20539">
+    <delo mojID="20539" cobiss="9837985">
         <naslov>Kronika fare Videm</naslov>
         <cit did="2599" cid="15" avtor0="Ripšl Dragotin Ferdinand" naslov0="Kronika fare Videm"
             source="Med najlepše kraje slovenskega Štajerja šteje se župnija Videm: zbornik ob 850-letnici prve pisne omembe pražupnije Videm ob Savi. Valvasorjev raziskovalni center Krško"
             pubPlace="Krško" year="2007" page="139-163"/>
     </delo>
-    <delo mojID="20542">
+    <delo mojID="20542" cobiss="7020032">
         <naslov>Kronika Kluba koroških Slovencev v Mariboru 1928-1988</naslov>
         <cit did="2564" cid="10" avtor0="Kovačič Anton, Natek Jože"
             naslov0="Kronika Kluba koroških Slovencev v Mariboru 1928-1988" pubPlace="Maribor"
@@ -47015,7 +47015,7 @@
             naslov0="Kronika komunistického Československa : Kořeny reformy 1956–1968. Společnost a moc"
             pubPlace="Brno" publisher="Barrister &amp; Principal" year="2008"/>
     </delo>
-    <delo mojID="20547">
+    <delo mojID="20547" cobiss="11581243">
         <naslov>Kronika mesta Ljubljane v številkah</naslov>
         <cit did="3241" cid="241" avtor0="Vogelnik Adolf"
             naslov0="Kronika mesta Ljubljane v številkah" source="Kronika slovenskih mest"
@@ -47032,13 +47032,13 @@
             naslov0="Kronika Osnovne šole Črna na Koroškem" source="Šola nekoč in danes"
             pubPlace="Črna na Koroškem" publisher="OŠ Črna" year="2001" page="18-40"/>
     </delo>
-    <delo mojID="20553">
+    <delo mojID="20553" cobiss="5921353">
         <naslov>Kronika radostnega uporništva</naslov>
         <cit did="1935" cid="22" avtor0="Zadnikar D." naslov0="Kronika radostnega uporništva"
             source="Spreminjamo svet brez boja za oblast: časopis za kritiko znanosti, domišljijo in novo antropologijio"
             year="2004" volume="2" issue="3" page="201-225"/>
     </delo>
-    <delo mojID="20554">
+    <delo mojID="20554" cobiss="40433408">
         <naslov>Kronika Rihemberka-Branika</naslov>
         <cit did="2267" cid="11" avtor0="Vidmar Cvetko" naslov0="Kronika Rihemberka-Branika"
             pubPlace="Branik" publisher="Svet Krajevne skupnosti" year="1994"/>
@@ -47077,7 +47077,7 @@
             naslov1="I. del: Od začetkov do leta 1921" pubPlace="Volče"
             publisher="Župnijski urad Volče" year="1955"/>
     </delo>
-    <delo mojID="20562">
+    <delo mojID="20562" cobiss="63342080">
         <naslov>Kronika Šmarja pri Jelšah 1236-1996</naslov>
         <cit did="1566" cid="17" avtor0="Čakš Jože" naslov0="Kronika Šmarja pri Jelšah 1236-1996"
             pubPlace="Šmarje pri Jelšah" year="1996" page="9"/>
@@ -47093,7 +47093,7 @@
             naslov0="Kronka konca strašne vojne : dnevniški zapiski Marte Gollitsch"
             source="Kronika" year="1997" volume="45" issue="1/2" page="149-160"/>
     </delo>
-    <delo mojID="20570">
+    <delo mojID="20570" cobiss="20950882">
         <naslov>Kronologija dogodkov na južnem Koroškem ob postavitvi dvojezičnih
                         napisov</naslov>
         <cit did="3004" cid="8" avtor0="Nećak Dušan"
@@ -47115,7 +47115,7 @@
             source="Slovenci pod pritiskom turškega nasilja" pubPlace="Ljubljana" year="1996"
             page="17-59"/>
     </delo>
-    <delo mojID="20576">
+    <delo mojID="20576" cobiss="6444802">
         <naslov>Kronološka skica prazgodovinske naselbine v Ormožu</naslov>
         <cit did="1954" cid="20" avtor0="Lamut B."
             naslov0="Kronološka skica prazgodovinske naselbine v Ormožu" source="Arheološki vestnik"
@@ -47134,7 +47134,7 @@
             source="Slovenci v desetletju 1918-1928" pubPlace="Ljubljana" publisher="Leonova družba"
             year="1928" page="758-776"/>
     </delo>
-    <delo mojID="20581">
+    <delo mojID="20581" cobiss="37872384">
         <naslov>Kronološki pregled naprednega političnega gibanja na območju občin Črnomelj,
                         Metlika, Novo mesto in Trebnje v letih 1931-1941</naslov>
         <cit did="1372" cid="7" avtor0="Štampohar Anton"
@@ -47167,25 +47167,25 @@
         <cit did="2156" cid="43" avtor0="Schnith K." naslov0="Kronung. Lexikon des Mittelalters, V."
             pubPlace="Stuttagrt, Weimar" publisher="J. B. Metzler" year="1999" page="1547-1549"/>
     </delo>
-    <delo mojID="20591">
+    <delo mojID="20591" cobiss="72215808">
         <naslov>Kroparske družine od 15. do začetka 20. stoletja</naslov>
         <cit did="880" cid="9" avtor0="Gašparič Jože"
             naslov0="Kroparske družine od 15. do začetka 20. stoletja"
             naslov1="poskusni zvezek Gorenjskega biografskega leksikona" pubPlace="Radovljica"
             year="1998"/>
     </delo>
-    <delo mojID="20592">
+    <delo mojID="20592" cobiss="8089142">
         <naslov>Kroparski vedež inženir Janez Šmitek</naslov>
         <cit did="1661" cid="2" avtor0="Dežman Jože" naslov0="Kroparski vedež inženir Janez Šmitek"
             source="Glasilo Kovaškega muzeja v Kropi. Ob 50-letnici Kovaškega muzeja" year="2002"
             volume="2" page="101-109"/>
     </delo>
-    <delo mojID="20593">
+    <delo mojID="20593" cobiss="5134417">
         <naslov>Kroz jedno mučno stoljeće</naslov>
         <cit did="1301" cid="1" avtor0="Magazinović Hrvoje" naslov0="Kroz jedno mučno stoljeće"
             naslov1="sjećanja" pubPlace="Split" year="2002" page="186-187"/>
     </delo>
-    <delo mojID="20594">
+    <delo mojID="20594" cobiss="239238">
         <naslov>Krošnjarstvo</naslov>
         <cit did="1442" cid="16" avtor0="Grafenauer Bogo" avtor1="Bras Ljudmila"
             naslov0="Krošnjarstvo" source="Enciklopedija Slovenije" pubPlace="Ljubljana"
@@ -47202,12 +47202,12 @@
         <cit did="2625" cid="108" avtor0="Skušek Močnik Zoja" naslov0="Krpanov teorem: Problemi"
             pubPlace="Ljubljana" year="1978" issue="177-180"/>
     </delo>
-    <delo mojID="20598">
+    <delo mojID="20598" cobiss="59557888">
         <naslov>Krpanova sol</naslov>
         <cit did="2625" cid="60" avtor0="Košuta Miran" naslov0="Krpanova sol" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="1996"/>
     </delo>
-    <delo mojID="20601">
+    <delo mojID="20601" cobiss="65907">
         <naslov>Krst u krugu, Arhitektura manastira u srednjovekovnoj Srbiji</naslov>
         <cit did="1944" cid="18" avtor0="Popović S."
             naslov0="Krst u krugu, Arhitektura manastira u srednjovekovnoj Srbiji"
@@ -47226,7 +47226,7 @@
         <cit did="3210" cid="203" avtor0="Supek Ivan" naslov0="Krunski svjedok protiv Hebranga"
             pubPlace="Chicago" publisher="Markanton Press" year="1983"/>
     </delo>
-    <delo mojID="20606">
+    <delo mojID="20606" cobiss="45632513">
         <naslov>Krupp - der Aufstieg eines Industrieimperiums</naslov>
         <cit did="3343" cid="14" avtor0="Gall Lothar"
             naslov0="Krupp - der Aufstieg eines Industrieimperiums" pubPlace="Berlin"
@@ -47247,7 +47247,7 @@
         <cit did="2142" cid="12" avtor0="Pucelj Ivan" naslov0="Krvavi Korošec" source="Jutro"
             year="2023"/>
     </delo>
-    <delo mojID="20611">
+    <delo mojID="20611" cobiss="4343394">
         <naslov>Krvavška gorska skupina - turistični pomen in razvojne dileme</naslov>
         <cit did="696" cid="7" avtor0="Gregorin Mojca"
             naslov0="Krvavška gorska skupina - turistični pomen in razvojne dileme"
@@ -47294,7 +47294,7 @@
         <cit did="2600" cid="6" avtor0="Šribar Ljudmila" naslov0="Krško med obema vojnama"
             source="Krško; stoletje na razglednicah" pubPlace="Krško" page="61-65"/>
     </delo>
-    <delo mojID="20627">
+    <delo mojID="20627" cobiss="9093025">
         <naslov>Krško se (jih) spominja</naslov>
         <cit did="36" cid="29" avtor0="Hočevar Josipina, Hočevar Martin"
             naslov0="Krško se (jih) spominja" source="Posavski obzornik" pubPlace="Zavod Neviodunum"
@@ -47314,14 +47314,14 @@
         <cit did="144" cid="18" avtor0="Mrkun Anton" naslov0="Kršćanska karitas" pubPlace="Zagreb"
             publisher="Narodna prosvjeta" year="1925"/>
     </delo>
-    <delo mojID="20633">
+    <delo mojID="20633" cobiss="12026669">
         <naslov>Kršćanstvo i poganstvo na tlu Istre u IV i V stoljeću</naslov>
         <cit did="1998" cid="26" avtor0="Marušić B."
             naslov0="Kršćanstvo i poganstvo na tlu Istre u IV i V stoljeću"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1978" volume="29" page="549-572"
         />
     </delo>
-    <delo mojID="20635">
+    <delo mojID="20635" cobiss="23834717">
         <naslov>Krščanska religioznost in družbeno nasilje</naslov>
         <cit did="106" cid="314" avtor0="Bahovec Igor"
             naslov0="Krščanska religioznost in družbeno nasilje" source="Tretji dan" year="2001"
@@ -47352,7 +47352,7 @@
             source="Prispevki za zgodovino sindikalnega gibanja na Slovenskem: od začetkov strokovnega gibanja do Enotnih sindikatov Slovenije (1868-1945)"
             pubPlace="Maribor" publisher="Založba Obzorja" year="1989" page="138-147"/>
     </delo>
-    <delo mojID="20647">
+    <delo mojID="20647" cobiss="10648065">
         <naslov>Krščanstvo in kultura</naslov>
         <cit did="106" cid="198" avtor0="Trstenjak Anton" naslov0="Krščanstvo in kultura"
             pubPlace="Celovec" publisher="Mohorjeva družba" year="1975"/>
@@ -47363,13 +47363,13 @@
             source="Cerkev na Slovenskem : letopis 1971" pubPlace="Ljubljana"
             publisher="Nadškofijski ordinariat" year="1971" page="23-34"/>
     </delo>
-    <delo mojID="20650">
+    <delo mojID="20650" cobiss="54181632">
         <naslov>Krščanstvo v antiki</naslov>
         <cit did="1298" cid="56" avtor0="Bratož Rajko" naslov0="Krščanstvo v antiki"
             source="Zgodovina Cerkve na Slovenskem" pubPlace="Celje" publisher="Mohorjeva družba"
             year="1991" page="27"/>
     </delo>
-    <delo mojID="20652">
+    <delo mojID="20652" cobiss="2375770">
         <naslov>Krščanstvo, človekove pravice in dostojanstvo</naslov>
         <cit did="106" cid="274" avtor0="Ocvirk D."
             naslov0="Krščanstvo, človekove pravice in dostojanstvo" source="Bogoslovni vestnik"
@@ -47382,7 +47382,7 @@
             source="Frančišek Ksaverij, Ignacijev prijatelj" pubPlace="Ljubljana"
             publisher="Župnijski urad Dravlje" year="2001" page="184-195"/>
     </delo>
-    <delo mojID="20655">
+    <delo mojID="20655" cobiss="205933">
         <naslov>Ksenofobija ali samozascita? O vzpostavljanju nove slovenske državljanske
                         identitete</naslov>
         <cit did="1935" cid="16" avtor0="Jalušič V."
@@ -47420,17 +47420,17 @@
         <cit did="106" cid="23" avtor0="Bogovič L., Skušek Z." naslov0="KUD France Prešeren in ISH"
             pubPlace="Ljubljana" year="1996"/>
     </delo>
-    <delo mojID="20661">
+    <delo mojID="20661" cobiss="6198582">
         <naslov>Kuga na Kranjskem v 16. stoletju</naslov>
         <cit did="2610" cid="88" avtor0="Smole Majda" naslov0="Kuga na Kranjskem  v 16. stoletju"
             source="Kronika" year="1957" volume="5" issue="2" page="97-98"/>
     </delo>
-    <delo mojID="20664">
+    <delo mojID="20664" cobiss="2993388">
         <naslov>Kugy v prvi svetovni vojni</naslov>
         <cit did="2433" cid="5" avtor0="Mazzoli Enrico" naslov0="Kugy v prvi svetovni vojni"
             pubPlace="Trst" year="2007" page="42"/>
     </delo>
-    <delo mojID="20666">
+    <delo mojID="20666" cobiss="45527552">
         <naslov>Kuharica sestre Vendeline. Slovenska meščanska kuhinja</naslov>
         <cit did="3128" cid="6" avtor0="Ilc Marija"
             naslov0="Kuharica sestre Vendeline. Slovenska meščanska kuhinja" pubPlace="Ljubljana"
@@ -47442,24 +47442,24 @@
             naslov0="Kuharske bukve/is nemskiga preslavenjene od V.V." pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1999"/>
     </delo>
-    <delo mojID="20668">
+    <delo mojID="20668" cobiss="2202113">
         <naslov>Kuhinja, načrtovanje in oprema</naslov>
         <cit did="1807" cid="24" avtor0="Tancig Branka" naslov0="Kuhinja, načrtovanje in oprema"
             pubPlace="Ljubljana" publisher="Centralni zavod zanaprdek gospodinjstva LRS" year="1958"
         />
     </delo>
-    <delo mojID="20669">
+    <delo mojID="20669" cobiss="120103424">
         <naslov>Kuhinja naše družine</naslov>
         <cit did="3059" cid="23" avtor0="Grafenauer S." naslov0="Kuhinja naše družine"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2002"/>
     </delo>
-    <delo mojID="20670">
+    <delo mojID="20670" cobiss="1288706">
         <naslov>Kuhinja v baroku (17. in 18. stoletje)</naslov>
         <cit did="3128" cid="9" avtor0="Kuhar Boris"
             naslov0="Kuhinja v baroku (17. in 18. stoletje)" pubPlace="Ptuj"
             publisher="Pokrajinski muzej Ptuj" year="1988"/>
     </delo>
-    <delo mojID="20671">
+    <delo mojID="20671" cobiss="220777472">
         <naslov>Kuhinje Balkana: razkošje okusov za vse priložnosti</naslov>
         <cit did="3059" cid="28" avtor0="Mrlješ R. et al."
             naslov0="Kuhinje Balkana: razkošje okusov za vse priložnosti" pubPlace="Tržič"
@@ -47489,18 +47489,18 @@
             naslov0="Kultur als historisches Begriff: Gesellschaftsstruk tur und Semantik: Studien zur Wissen-soziologie der modernen Gesellschaft, zv. 4."
             pubPlace="Frankfurt/M" publisher="Suhrkamp" year="1999"/>
     </delo>
-    <delo mojID="20682">
+    <delo mojID="20682" cobiss="1628532">
         <naslov>Kultur - Nation - Milieu</naslov>
         <cit did="388" cid="29" avtor0="Rutar Sabine" naslov0="Kultur - Nation - Milieu"
             naslov1="Sozialdemokratie in Triest vor dem Ersten Weltkrieg. Veröffentlichungen des Instituts für soziale Bewegungen"
             pubPlace="Essen" publisher="Klartext" year="2004" issue="23"/>
     </delo>
-    <delo mojID="20692">
+    <delo mojID="20692" cobiss="923913">
         <naslov>Kultura i društvo</naslov>
         <cit did="2533" cid="2" avtor0="Bauman Zigmund" naslov0="Kultura i društvo"
             pubPlace="Beograd" publisher="Prosveta" year="1984"/>
     </delo>
-    <delo mojID="20693">
+    <delo mojID="20693" cobiss="223235328">
         <naslov>Kultura in globalna ekonomija</naslov>
         <cit did="3076" cid="24" avtor0="Osojnik I." naslov0="Kultura in globalna ekonomija"
             source="Revija 2000" year="2004" volume="31-38" page="168-170"/>
@@ -47510,7 +47510,7 @@
         <cit did="49" cid="22" avtor0="Ludvik Zorzut" naslov0="Kultura in omika v Brdih"
             source="Brda" pubPlace="Dobrovo" year="1958" page="30-37"/>
     </delo>
-    <delo mojID="20695">
+    <delo mojID="20695" cobiss="222195456">
         <naslov>Kultura javnosti</naslov>
         <cit did="2012" cid="34" avtor0="Splichal S." naslov0="Kultura javnosti"
             pubPlace="Ljubljana" publisher="FDV" year="2005"/>
@@ -47527,12 +47527,12 @@
             naslov0="Kultura na narodnostno mešanem ozemlju Slovenske Istre: varovanje naravne in kulturne dediščine na področju konzervatorstva in muzeologije"
             pubPlace="Ljubljana" publisher="Znanstveni inštitut Filozofske fakultete" year="2002"/>
     </delo>
-    <delo mojID="20699">
+    <delo mojID="20699" cobiss="40475905">
         <naslov>Kultura novoga vremena</naslov>
         <cit did="142" cid="57" avtor0="Friedell Egon" naslov0="Kultura novoga vremena"
             pubPlace="Zagreb" publisher="Minerva" year="1940"/>
     </delo>
-    <delo mojID="20700">
+    <delo mojID="20700" cobiss="65301248">
         <naslov>Kultura potepanja</naslov>
         <cit did="2853" cid="229" avtor0="Weber Irena" naslov0="Kultura potepanja"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1997"/>
@@ -47544,7 +47544,7 @@
             source="Jezik za danes in jutri" pubPlace="Ljubljana" publisher="DUJS" year="1998"
             page="292- 300"/>
     </delo>
-    <delo mojID="20702">
+    <delo mojID="20702" cobiss="23317597">
         <naslov>Kultura, reprezentacije kulture in realizacija realnega - kulturna politika
                         in družbena realnost</naslov>
         <cit did="727" cid="35" avtor0="Rotar Drago Braco"
@@ -47552,13 +47552,13 @@
             source="Družbena gibanja in civilna družba danes : Slovensko sociološko srečanje 2003, Portorož, 9. do 11. oktober 2003"
             pubPlace="Ljubljana" publisher="Slovensko sociološko društvo" year="2003" page="14-15"/>
     </delo>
-    <delo mojID="20703">
+    <delo mojID="20703" cobiss="222655744">
         <naslov>Kultura turizma: antropološki pogledi na razvoj Bohinja</naslov>
         <cit did="1633" cid="2" avtor0="Bajuk Senčar Tatiana"
             naslov0="Kultura turizma: antropološki pogledi na razvoj Bohinja" pubPlace="Ljubljana"
             publisher="ZRC, ZRC SAZU" year="2005"/>
     </delo>
-    <delo mojID="20708">
+    <delo mojID="20708" cobiss="4396545">
         <naslov>Kultura včeraj in danes</naslov>
         <cit did="827" cid="5" avtor0="Zupančič Beno" naslov0="Kultura včeraj in danes"
             pubPlace="Ljubljana" publisher="Komunist" year="1979" page="233"/>
@@ -47606,7 +47606,7 @@
             naslov0="Kulturlandschaftliche Veränderungen im Gebirgslande zwischen Drau und Sawe bis zum Beginn der deutschen Südostsiedlung"
             source="Südost-Forschungen" year="1942" issue="7" page="9-52"/>
     </delo>
-    <delo mojID="20718">
+    <delo mojID="20718" cobiss="13857024">
         <naslov>Kulturna dediščina kot kazen II</naslov>
         <cit did="375" cid="34" avtor0="Harej Zorko" naslov0="Kulturna dediščina kot kazen II"
             naslov1="Gradovi naši ter preteklost in sedanjost v njih" source="Primorska srečanja"
@@ -47637,7 +47637,7 @@
             naslov0="Kulturna in naravna dediščina občine Ljutomer"
             source="Ljutomer, osrčje Prlekije" pubPlace="Ljutomer" year="2007" page="119-141"/>
     </delo>
-    <delo mojID="20730">
+    <delo mojID="20730" cobiss="5396025">
         <naslov>Kulturna politika nacionalsocializma</naslov>
         <cit did="244" cid="4" avtor0="Brenner Hildegard"
             naslov0="Kulturna politika nacionalsocializma" pubPlace="Zagreb" year="1992" page="263"
@@ -47649,7 +47649,7 @@
             source="Europljani, Kultura i identitet. Naklada Jesenski i Turk" pubPlace="Zagreb"
             year="2004" page="295-304"/>
     </delo>
-    <delo mojID="20737">
+    <delo mojID="20737" cobiss="14035">
         <naslov>Kulturne in politične zgradbe v Trstu kot priče meščanske
                         samostojnosti</naslov>
         <cit did="1511" cid="290" avtor0="Pirjevec Jože"
@@ -47657,7 +47657,7 @@
             source="Kriza socialnih idej: Britovškov zbornik" pubPlace="Ljubljana" year="1996"
             page="59-62"/>
     </delo>
-    <delo mojID="20739">
+    <delo mojID="20739" cobiss="374362">
         <naslov>Kulturne pobude, revijalna in založniška dejavnost pri katoličanih
                         1890-1941</naslov>
         <cit did="1848" cid="1" avtor0="Smolik Marjan"
@@ -47671,14 +47671,14 @@
             naslov0="Kulturne veze Jugoslavije i Albanije 1946-1948" source="Istorija XX. veka"
             pubPlace="Beograd" publisher="ISI" year="2002" issue="2" page="61-86"/>
     </delo>
-    <delo mojID="20742">
+    <delo mojID="20742" cobiss="25078877">
         <naslov>Kulturne značilnosti slovenskih elit luči evropskih integracijskih
                         procesov</naslov>
         <cit did="2012" cid="40" avtor0="Tomšič M."
             naslov0="Kulturne značilnosti slovenskih elit luči evropskih integracijskih procesov"
             source="Družboslovne razprave" year="2006" volume="22" issue="51" page="73-91"/>
     </delo>
-    <delo mojID="20743">
+    <delo mojID="20743" cobiss="1974644">
         <naslov>Kulturni boj in njegove posledice</naslov>
         <cit did="2196" cid="85" avtor0="Vodopivec Peter"
             naslov0="Kulturni boj in njegove posledice"
@@ -47692,7 +47692,7 @@
             naslov0="Kulturni lik Dubrovnika u XV stoljeću, Dubrovnik časopis za književnost, nauku i umjetnost, I. del, g. III, br. 1-2"
             pubPlace="Dubrovnik" year="1957" page="1-22"/>
     </delo>
-    <delo mojID="20747">
+    <delo mojID="20747" cobiss="57612032">
         <naslov>Kulturni, narodnostni in verski tokovi v Prekmurju ob prelomu
                         stoletja</naslov>
         <cit did="2131" cid="1" avtor0="Novak Vilko"
@@ -47715,7 +47715,7 @@
             naslov0="Kulturni problem slovenstva: Slovenska kronika XX. stoletja"
             pubPlace="Ljubljana" year="1995" page="376"/>
     </delo>
-    <delo mojID="20756">
+    <delo mojID="20756" cobiss="1375286">
         <naslov>Kulturni razvoj Kranja in okolice od šestdesetih let 19. stoletja do prve
                         svetovne vojne</naslov>
         <cit did="422" cid="29" avtor0="Žontar Majda"
@@ -47723,12 +47723,12 @@
             source="Kranjski zbornik 1980" pubPlace="Kranj" publisher="Skupščina občine Kranj"
             year="1980" page="163-181"/>
     </delo>
-    <delo mojID="20758">
+    <delo mojID="20758" cobiss="1564211">
         <naslov>Kulturni stiki do osvobojenja</naslov>
         <cit did="2131" cid="22" avtor0="Novak Vilko" naslov0="Kulturni stiki do osvobojenja"
             source="Slovenska krajina Beltinci" year="1935" page="41-42"/>
     </delo>
-    <delo mojID="20759">
+    <delo mojID="20759" cobiss="590477">
         <naslov>Kulturni stiki: Slovenci, Slovenke - begunci, begunke</naslov>
         <cit did="3031" cid="19" avtor0="Rogelja Nataša"
             naslov0="Kulturni stiki: Slovenci, Slovenke - begunci, begunke"
@@ -47759,14 +47759,14 @@
             source="Izvestje srednjih šol s slovenskim učnim jezikom na Tržaškem ozemlju: Za šolsko leto 1971—72"
             pubPlace="Trst" year="1972" page="3-9"/>
     </delo>
-    <delo mojID="20771">
+    <delo mojID="20771" cobiss="819828">
         <naslov>Kulturno prosvetna društva slovenskih delavskih strank v letih
                         1918-1929</naslov>
         <cit did="2299" cid="51" avtor0="Dolenc Ervin"
             naslov0="Kulturno prosvetna društva slovenskih delavskih strank v letih 1918-1929"
             naslov1="magistrsko delo" pubPlace="Ljubljana" year="1989" page="247"/>
     </delo>
-    <delo mojID="20772">
+    <delo mojID="20772" cobiss="12527154">
         <naslov>Kulturno življenje v Tolminu od 1848 do druge svetovne vojne</naslov>
         <cit did="1315" cid="16" avtor0="Rutar Marija"
             naslov0="Kulturno življenje v Tolminu od 1848 do druge svetovne vojne"
@@ -47779,13 +47779,13 @@
         <cit did="290" cid="19" avtor0="Gruden Josip" naslov0="Kulturnobojni načrti" source="Čas"
             year="1912" page="8"/>
     </delo>
-    <delo mojID="20774">
+    <delo mojID="20774" cobiss="4023386">
         <naslov>Kulturno-duhovne razmere na Slovenskem v 19. stoletju</naslov>
         <cit did="2041" cid="21" avtor0="Vodopivec Peter"
             naslov0="Kulturno-duhovne razmere na Slovenskem v 19. stoletju"
             source="Bogoslovni vestnik" year="2007" volume="67" issue="1" page="9-17"/>
     </delo>
-    <delo mojID="20776">
+    <delo mojID="20776" cobiss="20957696">
         <naslov>Kulturnopolitični profil revije Sodobnost v letih 1933-1941</naslov>
         <cit did="2274" cid="167" avtor0="Prunk Janko"
             naslov0="Kulturnopolitični profil revije Sodobnost v letih 1933-1941" source="Sodobnost"
@@ -47798,7 +47798,7 @@
             source="Carniola : Izvestja Muzejskega društva za&#xA;Kranjsko : Mitteilungen des Museal-Vereines für Krain : Comptes-rendus de&#xA;l'Association du Musée de Carniole"
             pubPlace="Ljubljana" publisher="Blaznik Jožef" year="1910" page="194-195"/>
     </delo>
-    <delo mojID="20780">
+    <delo mojID="20780" cobiss="56274688">
         <naslov>Kulturní boj: slovenská kulturná politika v Kraljevini SHS
                         1918-1929</naslov>
         <cit did="1626" cid="174" avtor0="Dolenc Ervin"
@@ -47811,7 +47811,7 @@
             source="Österreichisches Staatswörterbuch, 3" pubPlace="Wien" year="1907" page="307-311"
         />
     </delo>
-    <delo mojID="20783">
+    <delo mojID="20783" cobiss="21321570">
         <naslov>Kunst als Sprache</naslov>
         <cit did="442" cid="76" avtor0="Lotman Juri M." naslov0="Kunst als Sprache"
             source="Untersuchungen zum Zeichencharakter von Literatur und Kunst" pubPlace="Leipzig"
@@ -47879,7 +47879,7 @@
             source="Partizanski koridor : tematski zbornik o partizanskih prehodih čez reko Savo, Železniško progo in nemško-italijansko mejo v nekdanjem litijeskem okrožju osvobodilne fronte slovenskega naroda"
             pubPlace="Ljubljana" publisher="Partizanska knjiga" year="1988" page="93-104"/>
     </delo>
-    <delo mojID="20800">
+    <delo mojID="20800" cobiss="1569652">
         <naslov>Kurs dinara i devizna politika Kraljevine Jugoslavije 1918-1941</naslov>
         <cit did="663" cid="102" avtor0="Nikolić Goran"
             naslov0="Kurs dinara i devizna politika Kraljevine Jugoslavije 1918-1941"
@@ -47921,7 +47921,7 @@
             naslov0="Kvalifikacija zločinov po novem kazenskem zakoniku" source="Slovenski pravnik"
             year="1929" volume="43" issue="7/8" page="190-197"/>
     </delo>
-    <delo mojID="20815">
+    <delo mojID="20815" cobiss="35803909">
         <naslov>Kvalitativna analyza</naslov>
         <cit did="201" cid="30" avtor0="Rebek Marij" naslov0="Kvalitativna analyza"
             pubPlace="Ljubljana" year="1919"/>
@@ -47933,7 +47933,7 @@
             source="Politički spisi : rasprave, govori, članci, memorandumi, pisma"
             pubPlace="Zagreb" publisher="Znanje" year="1971"/>
     </delo>
-    <delo mojID="20819">
+    <delo mojID="20819" cobiss="6227715">
         <naslov>Kvišku zdaj dežela vsa!</naslov>
         <cit did="1325" cid="24" avtor0="Kalan Janez" naslov0="Kvišku zdaj dežela vsa!"
             naslov1="Beseda o Katoliški akciji" pubPlace="Ljubljana"
@@ -48001,33 +48001,33 @@
             naslov1="Vortrag im Kulturzentrum Alter Schlachthof, Wels"
             source="http://ooe.kpoe.at/news/article.php/20060914172628339" year="2006"/>
     </delo>
-    <delo mojID="20832">
+    <delo mojID="20832" cobiss="757972">
         <naslov>Kärnten - deutsche und slowenische Namen/Koroška : slovenska in nemška
                         imena</naslov>
         <cit did="435" cid="10" avtor0="Pohl Heinz-Dieter"
             naslov0="Kärnten - deutsche und slowenische Namen/Koroška : slovenska in nemška imena"
             pubPlace="Klagenfurt" year="2000"/>
     </delo>
-    <delo mojID="20833">
+    <delo mojID="20833" cobiss="33444609">
         <naslov>Kärnten: Ein Dorf an der Grenze?</naslov>
         <cit did="3007" cid="5" avtor0="Sommeregger Borut"
             naslov0="Kärnten: Ein Dorf an der Grenze?" pubPlace="Klagenfurt/Celovec" year="1983"
             page="3-4"/>
     </delo>
-    <delo mojID="20834">
+    <delo mojID="20834" cobiss="26846465">
         <naslov>Kärnten. Eine geographische Landeskunde</naslov>
         <cit did="2729" cid="17" avtor0="Paschinger Herbert"
             naslov0="Kärnten. Eine geographische Landeskunde" naslov1="Erster Teil"
             pubPlace="Celovec" publisher="Verlag des Landesmuseums für Kärnten" year="1976"
             page="322"/>
     </delo>
-    <delo mojID="20835">
+    <delo mojID="20835" cobiss="512391052">
         <naslov>Kärnten, Geschichte und Kultur in Bildern und Dokumenten</naslov>
         <cit did="2612" cid="141" avtor0="Stejskal Herbert"
             naslov0="Kärnten, Geschichte und Kultur in Bildern und Dokumenten" pubPlace="Klagenfurt"
             year="1985"/>
     </delo>
-    <delo mojID="20836">
+    <delo mojID="20836" cobiss="721620">
         <naslov>Kärnten im Zeitalter von Aufklärung und Vormärz</naslov>
         <cit did="2578" cid="21" avtor0="Baum Wilhelm"
             naslov0="Kärnten im Zeitalter von Aufklärung und Vormärz"
@@ -48065,7 +48065,7 @@
             source="Kärntner Landesgeschichte und Archivwissenschaft" pubPlace="Klagenfurt"
             volume="2001" page="65-80"/>
     </delo>
-    <delo mojID="20845">
+    <delo mojID="20845" cobiss="196308">
         <naslov>Kärnten: Von der Deutschen Grenzmark zum österreichischen
                         Bundesland</naslov>
         <cit did="3036" cid="130" avtor0="Rumpler Helmut" avtor1="Burz Ulfried"
@@ -48078,7 +48078,7 @@
             naslov0="Kärntenfeindlicher Teufel" source="Profil" pubPlace="Wien" year="0"
             page="21-23"/>
     </delo>
-    <delo mojID="20850">
+    <delo mojID="20850" cobiss="5028429">
         <naslov>Kärntens Freiheitskampf</naslov>
         <cit did="3283" cid="26" avtor0="Wutte Martin" naslov0="Kärntens Freiheitskampf"
             pubPlace="Weimar" year="1943"/>
@@ -48115,7 +48115,7 @@
             naslov0="Kärntner Bauer im Urteil der &#34;aufgeklärten&#34; Obrigkeit"
             source="Carinthia I" pubPlace="Klagenfurt" year="1970" volume="160"/>
     </delo>
-    <delo mojID="20861">
+    <delo mojID="20861" cobiss="5028429">
         <naslov>Kärntner Freiheitskampf</naslov>
         <cit did="2437" cid="11" avtor0="Wutte Martin" naslov0="Kärntner Freiheitskampf"
             pubPlace="Klagenfurt" year="1943" page="18"/>
@@ -48127,7 +48127,7 @@
             naslov0="Kärntner - Krainer Frage und die Territorialpolitik der ersten Habsburger in Österreich"
             source="AÖG" year="1987" volume="1899" page="1-123"/>
     </delo>
-    <delo mojID="20864">
+    <delo mojID="20864" cobiss="1928916">
         <naslov>Kärntner Ortstafelstreit: der Rechtskonflikt als Identitätskonflikt</naslov>
         <cit did="2653" cid="26" avtor0="Pirker Jürgen"
             naslov0="Kärntner Ortstafelstreit: der Rechtskonflikt als Identitätskonflikt"
@@ -48180,7 +48180,7 @@
             source="Unter besonderer Berücksichtigung der Rüstungsindustrie" pubPlace="Klagenfurt"
             year="1976" volume="2" page="201"/>
     </delo>
-    <delo mojID="20875">
+    <delo mojID="20875" cobiss="15417600">
         <naslov>Kärten im Archiv</naslov>
         <cit did="2843" cid="147" avtor0="Wolff Fritz" naslov0="Kärten im Archiv" pubPlace="Marburg"
             year="1987"/>
