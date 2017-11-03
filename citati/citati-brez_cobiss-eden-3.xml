@@ -3966,12 +3966,12 @@
         <cit did="328" cid="93" avtor0="Venturi A." naslov0="La scultura dalmata nel XV secolo"
             source="L'Arte" year="1908" volume="11" page="113-121"/>
     </delo>
-    <delo mojID="21667">
+    <delo mojID="21667" cobiss="6106161">
         <naslov>La scultura gotica in Istria</naslov>
         <cit did="711" cid="12" avtor0="Ekl V." naslov0="La scultura gotica in Istria"
             pubPlace="Trieste" publisher="Italo Svevo" year="1999"/>
     </delo>
-    <delo mojID="21668">
+    <delo mojID="21668" cobiss="1581613">
         <naslov>La scultura lignea nel Friuli</naslov>
         <cit did="711" cid="19" avtor0="Marchetti C, Nicoletti G."
             naslov0="La scultura lignea nel Friuli" pubPlace="Milano" publisher="Silvana"
@@ -3988,7 +3988,7 @@
         <cit did="255" cid="47" avtor0="Orlandelli G." naslov0="La scuola bolognese di Notariato"
             source="Atti di un convegno" pubPlace="Rim" year="1977" page="29-46"/>
     </delo>
-    <delo mojID="21671">
+    <delo mojID="21671" cobiss="4588337">
         <naslov>La scuola e il regime fascista</naslov>
         <cit did="800" cid="2" avtor0="Andri Adriano" naslov0="La scuola e il regime fascista"
             source="Friuli e Venezia Giulia : storia del '900" pubPlace="Gorizia" year="1997"
@@ -4015,7 +4015,7 @@
             source="Storia d'Italia: Annali, 12. La criminalità" pubPlace="Torino" year="1997"
             page="121-155"/>
     </delo>
-    <delo mojID="21677">
+    <delo mojID="21677" cobiss="33882466">
         <naslov>La Seconda guerra mondiale e le memorie slovene</naslov>
         <cit did="2418" cid="57" avtor0="Verginella Marta"
             naslov0="La Seconda guerra mondiale e le memorie slovene" source="Oualestoria"
@@ -4129,7 +4129,7 @@
             naslov0="La societa giusta ed aqua: 'Repubblicanesimo e diritti dell'uomo in Gaetano Filangieri"
             pubPlace="Roma - Bari" publisher="Laterza" year="2003"/>
     </delo>
-    <delo mojID="21696">
+    <delo mojID="21696" cobiss="1336625">
         <naslov>La societa triestina nel secolo XVIII.</naslov>
         <cit did="1980" cid="1" avtor0="Apih E." naslov0="La societa triestina nel secolo XVIII."
             pubPlace="Bari" publisher="Del Bianco" year="1957"/>
@@ -4215,7 +4215,7 @@
             naslov0="La stampa a Gorizia dal 1800 al nostri giorni" year="1956" volume="29"
             issue="39-49"/>
     </delo>
-    <delo mojID="21716">
+    <delo mojID="21716" cobiss="4131593">
         <naslov>La stampa giuliano - dalmata in esilio</naslov>
         <cit did="1324" cid="48" avtor0="Bogneri M."
             naslov0="La stampa giuliano - dalmata in esilio" pubPlace="Trst"
@@ -4382,7 +4382,7 @@
             source="Atti" pubPlace="Rovigno" publisher="Centra di ricerche storiche" year="1990"
             volume="20"/>
     </delo>
-    <delo mojID="21749">
+    <delo mojID="21749" cobiss="4446818">
         <naslov>La toponomastica dell'Alta Val Torre</naslov>
         <cit did="1928" cid="16" avtor0="Merku P." naslov0="La toponomastica dell'Alta Val Torre"
             source="Comune di Lusevera" pubPlace="Udine" year="1997"/>
@@ -4459,7 +4459,7 @@
             pubPlace="Madrid" publisher="Departamento de antropologia de Espana  y America"
             year="2002"/>
     </delo>
-    <delo mojID="21761">
+    <delo mojID="21761" cobiss="521293">
         <naslov>La Val Canale fra le due guerre mondiali</naslov>
         <cit did="440" cid="15" avtor0="Gariup Mario"
             naslov0="La Val Canale fra le due guerre mondiali"
@@ -4490,7 +4490,7 @@
             naslov0="La Venezia Giulia e la Dalmazia nella rivoluzione nazionale del 1848-49. Studi e documenti"
             pubPlace="Udine" year="1949"/>
     </delo>
-    <delo mojID="21770">
+    <delo mojID="21770" cobiss="5705805">
         <naslov>La Venezia Giulia : saggio di una carta dei limiti nazionali
                         italo-jugoslavi</naslov>
         <cit did="1278" cid="1" avtor0="Schiffrer Carlo"
@@ -4529,7 +4529,7 @@
             pubPlace="Milano" publisher="Societa Anonima Isti-tuto Editoriale Scientifico"
             year="1927"/>
     </delo>
-    <delo mojID="21778">
+    <delo mojID="21778" cobiss="4961357">
         <naslov>La verita su Trieste</naslov>
         <cit did="1782" cid="294" avtor0="Savorgnan di Brazza Alvise" naslov0="La verita su Trieste"
             pubPlace="Trieste" publisher="Lint" year="1980"/>
@@ -4578,7 +4578,7 @@
         <cit did="226" cid="118" avtor0="Lebrun F." naslov0="La vie conjugale sous l'Ancien Régime"
             pubPlace="Paris" publisher="Armand Colin" year="1975" page="82"/>
     </delo>
-    <delo mojID="21789">
+    <delo mojID="21789" cobiss="4211281">
         <naslov>La vie du droit. Coutumes et droit ecrit</naslov>
         <cit did="2092" cid="24" avtor0="Hilaire J."
             naslov0="La vie du droit. Coutumes et droit ecrit" pubPlace="Paris" publisher="PUF"
@@ -4653,7 +4653,7 @@
             source="Archivio Foucault: Interventi, colloqui, interviste" pubPlace="Milano"
             year="1997" page="247-265"/>
     </delo>
-    <delo mojID="21804">
+    <delo mojID="21804" cobiss="1622260">
         <naslov>La vita di Apostolo Zeno</naslov>
         <cit did="1921" cid="10" avtor0="Negri F." naslov0="La vita di Apostolo Zeno"
             pubPlace="Venezia" publisher="di Alvisopoli" year="0"/>
@@ -4693,7 +4693,7 @@
             naslov0="La vita xe ub bidon : Storia di Angelo Cecchelin, comico triestino"
             pubPlace="Milano" publisher="Baldini Castoldi" year="1995"/>
     </delo>
-    <delo mojID="21812">
+    <delo mojID="21812" cobiss="229005056">
         <naslov>La vittima nello scenario del processo penale: Dai crimini senza vittime
                         all'irruzione della vittima nel dibattito sociale e politico</naslov>
         <cit did="1495" cid="18" avtor0="Povolo C."
@@ -4705,7 +4705,7 @@
         <cit did="1428" cid="25" avtor0="Marchetti Giuseppe" naslov0="&#34;La Voce&#34;"
             source="Ambiente opere protagonisti" pubPlace="Firenze" year="1986"/>
     </delo>
-    <delo mojID="21814">
+    <delo mojID="21814" cobiss="9099756">
         <naslov>La Voce 1908-1913. Cronaca, antologia e fortuna di una rivista</naslov>
         <cit did="2136" cid="5" avtor0="Prezzolini Giuseppe"
             naslov0="La Voce 1908-1913. Cronaca, antologia e fortuna di una rivista"
@@ -4746,7 +4746,7 @@
             naslov0="La Yougoslavie dans la strategie Francoaise de l'entre-deux-guerres (1918-1935)"
             pubPlace="Berlin, Bern, Wien" year="1999"/>
     </delo>
-    <delo mojID="21822">
+    <delo mojID="21822" cobiss="67663104">
         <naslov>la Yougoslavie et le Statut de Trieste</naslov>
         <cit did="1511" cid="33" avtor0="Bebler Aleš"
             naslov0="la Yougoslavie et le Statut de Trieste" pubPlace="Paris" year="1946"/>
@@ -4763,7 +4763,7 @@
             naslov0="La Yugoslavie sous la menace extérieure et intérieure" pubPlace="Paris"
             publisher="Les Iles d'Or" year="1951"/>
     </delo>
-    <delo mojID="21825">
+    <delo mojID="21825" cobiss="1229640">
         <naslov>L'abbazia di Rosazzo</naslov>
         <cit did="1421" cid="9" avtor0="Cadau Micheala" naslov0="L'abbazia di Rosazzo"
             source="Possessi fondiari e potere signorile nel Cinquecento" pubPlace="Udine"
