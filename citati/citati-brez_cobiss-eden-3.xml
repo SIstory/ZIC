@@ -6283,7 +6283,7 @@
             source="Dizionario biografico friulano. Bassaldella di Campoformido" publisher="Ribis"
             year="1997" page="365"/>
     </delo>
-    <delo mojID="22122">
+    <delo mojID="22122" cobiss="2102126">
         <naslov>Lasje/Hair</naslov>
         <cit did="1934" cid="26" avtor0="Tratnik P." naslov0="Lasje/Hair" pubPlace="Ljubljana"
             publisher="Galerija Kapelica, Moderna galerija Ljubljana, Galerija Miklova hiša"
@@ -6327,12 +6327,12 @@
             naslov0="Lastna opazovanja saturnizma v rudniku Mežica" source="Zdravstveni vestnik"
             year="1950" issue="11-12" page="230"/>
     </delo>
-    <delo mojID="22131">
+    <delo mojID="22131" cobiss="76441088">
         <naslov>Lastna soba</naslov>
         <cit did="2450" cid="1" avtor0="Woolf Virginia" naslov0="Lastna soba" pubPlace="Ljubljana"
             publisher="Založba /*cf." year="1998" page="47"/>
     </delo>
-    <delo mojID="22132">
+    <delo mojID="22132" cobiss="11439361">
         <naslov>Lastne podobe</naslov>
         <cit did="3002" cid="13" avtor0="Kermauner Taras" naslov0="Lastne podobe"
             pubPlace="Ljubljana" publisher="MK" year="1979"/>
@@ -6342,7 +6342,7 @@
         <cit did="2239" cid="19" avtor0="Wlodyga Ervin" naslov0="Lastniki naše tovarne"
             source="Koroški fužinar" year="1977" volume="27" page="43-52"/>
     </delo>
-    <delo mojID="22135">
+    <delo mojID="22135" cobiss="1763637">
         <naslov>Lastniki, posestniki in prebivalci grajskih poslopij na Celjskem do začetka
                         15. stoletja</naslov>
         <cit did="2604" cid="49" avtor0="Kos Dušan"
@@ -6359,7 +6359,7 @@
         <cit did="2628" cid="9" avtor0="Grandjouan J.-O." naslov0="L'Astragale et le pari"
             pubPlace="Paris" year="1969"/>
     </delo>
-    <delo mojID="22144">
+    <delo mojID="22144" cobiss="512292907">
         <naslov>Lata Roman Bela Krajina</naslov>
         <cit did="2584" cid="86" avtor0="Mason P." naslov0="Lata Roman Bela Krajina"
             source="Dalmatia: Research in the Roman Province 1970-2001" year="2006" page="115-131"/>
@@ -6380,7 +6380,7 @@
             source="Iron, Blacksmiths and Tools, Ancieti European Crafts, Acts of the Instrumentum Conference at Podsreda (Slovenia) in April 1999"
             publisher="Montagnac" year="2000" page="205-208"/>
     </delo>
-    <delo mojID="22147">
+    <delo mojID="22147" cobiss="18642733">
         <naslov>Late Medieval Estate Economics: The Example of Škofja Loka,
                         Slovenia</naslov>
         <cit did="2583" cid="54" avtor0="Bizjak Matjaž"
@@ -6394,7 +6394,7 @@
             source="A typology and economic study : the Catalan evidence" pubPlace="Oxford"
             publisher="BAR" year="1984" page="196"/>
     </delo>
-    <delo mojID="22149">
+    <delo mojID="22149" cobiss="1101357">
         <naslov>Late Roman Pottery</naslov>
         <cit did="2069" cid="8" avtor0="Hayes J. W." naslov0="Late Roman Pottery" pubPlace="London"
             year="1972"/>
@@ -6436,7 +6436,7 @@
             source="4th Anual Congress of the European College of Sport Science: Proceedings book"
             pubPlace="Rome" publisher="University Institute of Motor Science" year="1999"/>
     </delo>
-    <delo mojID="22158">
+    <delo mojID="22158" cobiss="3210569">
         <naslov>Latent structure of six-and-a-half years old girls motor space after
                         partialisation of morphological characteristics</naslov>
         <cit did="708" cid="32" avtor0="Pišot Rado"
@@ -6469,12 +6469,12 @@
             naslov0="Latino racial choices: the effects of skin colour and discrimination on Latinos' and Latinas' racial selfidentifications"
             source="Ethnic and Racial Studies" year="2008" volume="31" issue="5" page="899-934"/>
     </delo>
-    <delo mojID="22163">
+    <delo mojID="22163" cobiss="31755362">
         <naslov>Latinska paleografija i diplomatika</naslov>
         <cit did="2091" cid="13" avtor0="Šanjek F." naslov0="Latinska paleografija i diplomatika"
             pubPlace="Zagreb" publisher="Hrvatski študiji" year="2005"/>
     </delo>
-    <delo mojID="22165">
+    <delo mojID="22165" cobiss="44526593">
         <naslov>Latinsko-hrvatski rječnik</naslov>
         <cit did="693" cid="19" avtor0="Divkovič M." naslov0="Latinsko-hrvatski rječnik"
             pubPlace="Zagreb" publisher="Naprijed" year="1997"/>
@@ -6554,7 +6554,7 @@
             source="Siciliane: Dizionario biografico" pubPlace="Siracusa" year="2006" page="257-260"
         />
     </delo>
-    <delo mojID="22181">
+    <delo mojID="22181" cobiss="7833421">
         <naslov>Lausche, Frank J.</naslov>
         <cit did="2745" cid="37" avtor0="Klemenčič Matjaž" naslov0="Lausche, Frank J."
             naslov1="(1895–1990)"
@@ -6585,14 +6585,14 @@
         <cit did="3378" cid="19" avtor0="Lejeune Philippe" naslov0="L'Autobiographie en France"
             pubPlace="Paris" publisher="Armand Colin" year="1971"/>
     </delo>
-    <delo mojID="22189">
+    <delo mojID="22189" cobiss="5765165">
         <naslov>Lavfarji na filmu in lavfarji danes</naslov>
         <cit did="2506" cid="7" avtor0="Leskovec Ivana"
             naslov0="Lavfarji na filmu in lavfarji danes"
             source="Etnološki film med tradicijo in Vidijo" pubPlace="Ljubljana"
             publisher="Založba ZRC" year="1997" page="121-126"/>
     </delo>
-    <delo mojID="22191">
+    <delo mojID="22191" cobiss="8212557">
         <naslov>Lavo Čermelj in njegova knjiga o škofu Santinu</naslov>
         <cit did="1511" cid="200" avtor0="Maganja Nadja"
             naslov0="Lavo Čermelj in njegova knjiga o škofu Santinu" source="Zgodovinski časopis"
@@ -6658,13 +6658,13 @@
             naslov0="Law Magistracy and Crime in Old Regime Paris 1735-1789" pubPlace="Cambridge"
             publisher="Cambridge University Press" year="1994"/>
     </delo>
-    <delo mojID="22206">
+    <delo mojID="22206" cobiss="284494">
         <naslov>Law of the European convention on human rights</naslov>
         <cit did="2983" cid="11" avtor0="Harris David J." avtor1="O'Boyle Michael et al"
             naslov0="Law of the European convention on human rights"
             pubPlace="London, Dublin, Edinburgh" publisher="Butterwirths" year="1995"/>
     </delo>
-    <delo mojID="22207">
+    <delo mojID="22207" cobiss="5453852">
         <naslov>Law of the European Union</naslov>
         <cit did="51" cid="23" avtor0="Shaw Malcom" naslov0="Law of the European Union" year="2000"
             page="41-42"/>
@@ -6696,7 +6696,7 @@
             source="American Journal of International Law" year="1981" volume="75" issue="1"
             page="1-27"/>
     </delo>
-    <delo mojID="22214">
+    <delo mojID="22214" cobiss="41848065">
         <naslov>Lazar, Beata, Židje v Lendavi</naslov>
         <cit did="2573" cid="3" avtor0="Gašpar Mirjana" naslov0="Lazar, Beata, Židje v Lendavi"
             pubPlace="Lendava" year="1997"/>
@@ -6780,7 +6780,7 @@
             naslov0="Le  antiche ceramiche veneziane scoperte nella Laguna" pubPlace="Venezia"
             publisher="Fantoni" year="1940"/>
     </delo>
-    <delo mojID="22231">
+    <delo mojID="22231" cobiss="137204">
         <naslov>Le antichita d'Aquileia profane e sacre per la maggior parte finora
                         inedite</naslov>
         <cit did="1976" cid="11" avtor0="Bertoli G."
@@ -6812,7 +6812,7 @@
         <cit did="1494" cid="7" avtor0="Zecchino O." naslov0="Le Assise di Ariano"
             source="Cava dei Tirreni" year="1984" page="52-56"/>
     </delo>
-    <delo mojID="22238">
+    <delo mojID="22238" cobiss="51271680">
         <naslov>Le associazioni e giornali sloveni a Trieste dal 1848 al 1890</naslov>
         <cit did="1511" cid="343" avtor0="Sturman Robi"
             naslov0="Le associazioni e giornali sloveni a Trieste dal 1848 al 1890"
@@ -6850,7 +6850,7 @@
             source="L'edilizia prima della rivoluzione industriale, secc. XIII-XVIII, Istitutio Internazionale di Storia Economica &#34;F. Datini&#34;"
             pubPlace="Prato" year="2004" page="49-107"/>
     </delo>
-    <delo mojID="22245">
+    <delo mojID="22245" cobiss="4814385">
         <naslov>Le Bestie del diavolo : gli animali e la stregoneria tra fonti storiche e
                         folklore</naslov>
         <cit did="715" cid="5" avtor0="Centini M."
@@ -6959,7 +6959,7 @@
             naslov0="Le comunita rurali bellunesi (secoli XV-XVI)" pubPlace="Belluno"
             publisher="Tarantola" year="1979"/>
     </delo>
-    <delo mojID="22264">
+    <delo mojID="22264" cobiss="2164832">
         <naslov>Le condizioni degli italiani soggetti all'Austria nella Venezia Giulia e
                         nella Dalmazia</naslov>
         <cit did="382" cid="39" avtor0="Tamaro Attilio"
@@ -7134,7 +7134,7 @@
             naslov0="Le droit de cuissage: La fabrication d'un mythe, XIII-XIX siecles"
             pubPlace="Paris" year="1995"/>
     </delo>
-    <delo mojID="22298">
+    <delo mojID="22298" cobiss="6254413">
         <naslov>Le droit des langues dans l'ex-Yugoslavie</naslov>
         <cit did="2763" cid="31" avtor0="Klopčič Vera"
             naslov0="Le droit des langues dans l'ex-Yugoslavie"
@@ -7163,7 +7163,7 @@
             naslov0="Le désencbantement du monde: Une-histoire politique i de la religion"
             pubPlace="Pariz" publisher="Gallimard" year="1985"/>
     </delo>
-    <delo mojID="22303">
+    <delo mojID="22303" cobiss="52924002">
         <naslov>Le elezioni galiziane al Reichsrat di Vienna, 1907-1911</naslov>
         <cit did="382" cid="17" avtor0="Franzinetti Guido"
             naslov0="Le elezioni galiziane al Reichsrat di Vienna, 1907-1911" pubPlace="Alessandria"
@@ -7204,14 +7204,14 @@
         <cit did="226" cid="40" avtor0="Cavarero A., Restaino F." naslov0="Le filosofie femministe"
             pubPlace="Milano" publisher="Bruno Mondatori" year="2002"/>
     </delo>
-    <delo mojID="22312">
+    <delo mojID="22312" cobiss="1172179">
         <naslov>Le »foibe«: contributo ad un dibattito storiografico in corso</naslov>
         <cit did="1511" cid="20" avtor0="Bajc Gorazd"
             naslov0="Le »foibe«: contributo ad un dibattito storiografico in corso"
             source="Revisionismo storico e terre di confine" pubPlace="Udine" year="2007"
             page="195-205"/>
     </delo>
-    <delo mojID="22314">
+    <delo mojID="22314" cobiss="1754673">
         <naslov>Le foibe giuliane 1943-1945 : i nodi del dibattito</naslov>
         <cit did="720" cid="56" avtor0="Pupo Raoul"
             naslov0="Le foibe giuliane 1943-1945 : i nodi del dibattito" source="Qualestoria"
@@ -7281,7 +7281,7 @@
             naslov0="Le formalità del processo criminale nel dominio veneto" pubPlace="Padova"
             year="0"/>
     </delo>
-    <delo mojID="22328">
+    <delo mojID="22328" cobiss="576521">
         <naslov>Le forme elementari della vita religiosa</naslov>
         <cit did="743" cid="4" avtor0="Durkheim E."
             naslov0="Le forme elementari della vita religiosa" pubPlace="Milano"
@@ -7458,7 +7458,7 @@
             naslov0="Le livornine del 1591 e del 1593" pubPlace="Livorno"
             publisher="Cooperativa Risorgimento" year="1987"/>
     </delo>
-    <delo mojID="22362">
+    <delo mojID="22362" cobiss="4221234">
         <naslov>Le lotte contadine nel Friuli Orientale</naslov>
         <cit did="1317" cid="67" avtor0="Jacumin Renato"
             naslov0="Le lotte contadine nel Friuli Orientale" pubPlace="Udine" year="1974" page="40"
@@ -7498,7 +7498,7 @@
         <cit did="3523" cid="6" avtor0="Christophe R." naslov0="Le Marechal Marmont, duc de Raguse"
             pubPlace="Paris" year="1968"/>
     </delo>
-    <delo mojID="22370">
+    <delo mojID="22370" cobiss="570115">
         <naslov>Le mariage en Occident : Les moeurs et le droit</naslov>
         <cit did="277" cid="13" avtor0="Gaudemet Jean"
             naslov0="Le mariage en Occident : Les moeurs et le droit" pubPlace="Pariz"
@@ -7543,7 +7543,7 @@
             source="Un qurantennio di governo asbrugico nel &#34;Litorale&#34;" pubPlace="Trieste"
             year="2003" volume="24" issue="2" page="303-362"/>
     </delo>
-    <delo mojID="22377">
+    <delo mojID="22377" cobiss="2490604">
         <naslov>Le metamorfosi della memoria: La Grande Guerra tra modernita
                         tradizione</naslov>
         <cit did="2433" cid="7" avtor0="Todero Fabio"
@@ -7626,13 +7626,13 @@
             naslov0="Le municipium Malvesatium et son territoire" source="Živa antika" year="1957"
             volume="7" page="114-122"/>
     </delo>
-    <delo mojID="22389">
+    <delo mojID="22389" cobiss="8640512">
         <naslov>Le narodnoosvobodilna vojna - ali tudi državljanska vojna</naslov>
         <cit did="644" cid="9" avtor0="Bavcon Ljubo"
             naslov0="Le narodnoosvobodilna vojna - ali tudi državljanska vojna"
             source="Teorija in praksa" pubPlace="Ljubljana" year="1986" issue="9/10" page="1005"/>
     </delo>
-    <delo mojID="22390">
+    <delo mojID="22390" cobiss="513668895">
         <naslov>Le nationalisme français. Anthologie 1871 - 1914</naslov>
         <cit did="3505" cid="108" avtor0="Girardet Raoul"
             naslov0="Le nationalisme français. Anthologie 1871 - 1914" pubPlace="Pariz" year="1983"
@@ -7644,7 +7644,7 @@
             source="Gli strumenti dei velieri di Camogli" pubPlace="Genova"
             publisher="Nuova editrice genovese" year="1993" page="103-113"/>
     </delo>
-    <delo mojID="22392">
+    <delo mojID="22392" cobiss="2641132">
         <naslov>Le necropoli di San Pietro al Natisone e Dernazzacco</naslov>
         <cit did="1953" cid="19" avtor0="Pettarin S."
             naslov0="Le necropoli di San Pietro al Natisone e Dernazzacco"
@@ -7682,7 +7682,7 @@
         <cit did="1978" cid="19" avtor0="Morteani L."
             naslov0="Le notizie storiche della citta Pirano" pubPlace="Trieste" year="0"/>
     </delo>
-    <delo mojID="22399">
+    <delo mojID="22399" cobiss="920461">
         <naslov>Le Nouvel Islam balkanique: Les musulmans, acteurs du post-communisme
                         1990-2000</naslov>
         <cit did="2861" cid="9" avtor0="Bougarel Xavier" avtor1="Clayer Nathalie"
@@ -7735,7 +7735,7 @@
         <cit did="684" cid="15" avtor0="Tagliavini C." naslov0="Le origini delle lingue neolatine"
             pubPlace="Bologna" publisher="Patron" year="1982"/>
     </delo>
-    <delo mojID="22411">
+    <delo mojID="22411" cobiss="2094964">
         <naslov>Le origini dell'irredentismo triestino</naslov>
         <cit did="1317" cid="247" avtor0="Schiffrer Carlo"
             naslov0="Le origini dell'irredentismo triestino" pubPlace="Udine" year="1937"/>
@@ -7777,12 +7777,12 @@
             naslov0="Le origini etniche delle nazioni" pubPlace="Bologna" publisher="Mulino"
             year="1992"/>
     </delo>
-    <delo mojID="22419">
+    <delo mojID="22419" cobiss="3130860">
         <naslov>Le Orsoline a Gorizia: 1672-1972</naslov>
         <cit did="1429" cid="2" avtor0="Medeot Camillo" naslov0="Le Orsoline a Gorizia: 1672-1972"
             pubPlace="Udine/Videm" publisher="Arti Grafiche Friulane" year="1972"/>
     </delo>
-    <delo mojID="22420">
+    <delo mojID="22420" cobiss="7752394">
         <naslov>Le ostanite Romi gredo!</naslov>
         <cit did="3199" cid="9" avtor0="Briziani Traja I." naslov0="Le ostanite Romi gredo!"
             pubPlace="Celovec" publisher="Mohorjeva" year="2000"/>
@@ -7835,7 +7835,7 @@
         <cit did="374" cid="21" avtor0="Iordasche N." naslov0="Le petite entente et L'Europe"
             pubPlace="Genève" publisher="Inst. Univ. De Hautes" year="1977"/>
     </delo>
-    <delo mojID="22435">
+    <delo mojID="22435" cobiss="4641888">
         <naslov>Le pianificazioni agrarie di eta romana nella pianura aquileiese</naslov>
         <cit did="1976" cid="97" avtor0="Prenc F."
             naslov0="Le pianificazioni agrarie di eta romana nella pianura aquileiese"
@@ -7963,7 +7963,7 @@
             naslov0="Le questioni nazionali nell'Europa centro-orientale" pubPlace="Milano"
             publisher="Il Saggiatore" year="1994"/>
     </delo>
-    <delo mojID="22460">
+    <delo mojID="22460" cobiss="6322509"> 
         <naslov>Le ragioni dell'esodo del 1953</naslov>
         <cit did="709" cid="11" avtor0="Spazzali Roberto" naslov0="Le ragioni dell'esodo del 1953"
             naslov1="Spunti ed interpretazioni"
@@ -7975,7 +7975,7 @@
         <cit did="1933" cid="58" avtor0="Serque A." naslov0="Le raison du paysage" pubPlace="Paris"
             publisher="Hazan" year="1995"/>
     </delo>
-    <delo mojID="22462">
+    <delo mojID="22462" cobiss="349314">
         <naslov>Le razze e i popoli della terra</naslov>
         <cit did="1445" cid="3" avtor0="Biasutti Renato" naslov0="Le razze e i popoli della terra"
             pubPlace="Torino" publisher="Oceania-America" year="1941"/>
@@ -8045,7 +8045,7 @@
             source="Archeologia subacauea in Croazia. Studi e ricerche" pubPlace="Venezia"
             year="2006" page="117-126"/>
     </delo>
-    <delo mojID="22476">
+    <delo mojID="22476" cobiss="14084962">
         <naslov>Le ricerche archeologiche sul Medioevo e sull'eta moderna in
                         Slovenia</naslov>
         <cit did="1952" cid="13" avtor0="Guštin M."
@@ -8091,7 +8091,7 @@
             source="Strutture portuali e rotte marittime nell' Adriatico di eta romana"
             pubPlace="Trieste - Roma" year="2001" page="43-54"/>
     </delo>
-    <delo mojID="22482">
+    <delo mojID="22482" cobiss="229650432">
         <naslov>Le sacrifice</naslov>
         <cit did="3002" cid="9" avtor0="Girard R." naslov0="Le sacrifice" pubPlace="Paris"
             publisher="Bibliotheque nationale de France" year="2003"/>
@@ -8134,7 +8134,7 @@
         <cit did="255" cid="1" avtor0="Anselmi A." naslov0="Le scuole di Notariato in Italia"
             pubPlace="Viterbo" year="1926"/>
     </delo>
-    <delo mojID="22491">
+    <delo mojID="22491" cobiss="38364205">
         <naslov>Le scuole e la vita culturale dal medio evo al cinquecento</naslov>
         <cit did="3412" cid="49" avtor0="Cavazza Silvano"
             naslov0="Le scuole e la vita culturale dal medio evo al cinquecento"
@@ -8146,7 +8146,7 @@
         <cit did="1748" cid="1078" avtor0="Vulić N." naslov0="Le sedi dei Triballi, Studi Romani 1"
             year="1913" page="233-240"/>
     </delo>
-    <delo mojID="22494">
+    <delo mojID="22494" cobiss="424279">
         <naslov>Le sexe et l'Occident</naslov>
         <cit did="2288" cid="62" avtor0="Flandrin J. L." naslov0="Le sexe et l'Occident"
             pubPlace="Paris" year="1981"/>
@@ -8175,7 +8175,7 @@
             naslov0="Le sorprese della realta. Dizionario penale di giurisprudenza, dottrina e legislazione, pt. II. Citta di Castello."
             year="1926"/>
     </delo>
-    <delo mojID="22499">
+    <delo mojID="22499" cobiss="48277602">
         <naslov>Le souvenir des évèques. Sépultures, listes épiscopales et culte des évèques
                         en Italie du Nord des origines au Xe siècle</naslov>
         <cit did="3261" cid="22" avtor0="Picard J. C."
@@ -8188,7 +8188,7 @@
             naslov0="Le spese militari in età giolittiana" naslov1="Le gestione dei bilanci"
             source="Italia Contemporanea" year="1992" issue="186" page="33-62"/>
     </delo>
-    <delo mojID="22501">
+    <delo mojID="22501" cobiss="24217133">
         <naslov>Le spie del regime</naslov>
         <cit did="1782" cid="66" avtor0="Canali Mauro" naslov0="Le spie del regime"
             pubPlace="Bologna" publisher="Il Mulino" year="2004"/>
@@ -8220,7 +8220,7 @@
         <cit did="742" cid="8" avtor0="Candar G." naslov0="Le statut de la biographie"
             source="Essai de chronologie" year="2000" page="61"/>
     </delo>
-    <delo mojID="22506">
+    <delo mojID="22506" cobiss="3115821">
         <naslov>Le strade romane della Venetia e dell' Histria</naslov>
         <cit did="2592" cid="4" avtor0="Bosio L."
             naslov0="Le strade romane della Venetia e dell' Histria" pubPlace="Padova" year="1991"/>
