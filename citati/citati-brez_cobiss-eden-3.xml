@@ -10901,7 +10901,7 @@
             naslov0="Liberalism and Multiculturalism: The Politics of Indifference"
             source="Political Theory" year="1998" volume="26" issue="5" page="686-699"/>
     </delo>
-    <delo mojID="23070">
+    <delo mojID="23070" cobiss="47674978">
         <naslov>Liberalism, community and culture</naslov>
         <cit did="3039" cid="81" avtor0="Kymlicka Will" naslov0="Liberalism, community and culture"
             pubPlace="Oxford" publisher="Clarendon Press" year="1989"/>
@@ -10933,7 +10933,7 @@
             naslov0="Liberalism, Nationalism, Citizenship: Essays on the Problem of Political Community"
             pubPlace="Vancouver" publisher="University of British Columbia Press" year="2003"/>
     </delo>
-    <delo mojID="23075">
+    <delo mojID="23075" cobiss="35161601">
         <naslov>Liberalismus in der Provinz? : Das Beispiel des Triester
                         Hinterlandes</naslov>
         <cit did="538" cid="2" avtor0="Vodopivec Peter"
@@ -10974,7 +10974,7 @@
         <cit did="2618" cid="48" avtor0="Jamnik Anton" naslov0="Liberalizem in vprašanje etike"
             pubPlace="Ljubljana" year="1996"/>
     </delo>
-    <delo mojID="23090">
+    <delo mojID="23090" cobiss="2129268">
         <naslov>Liberalni tabor na Štajerskem v letih 1918-1923</naslov>
         <cit did="2027" cid="12" avtor0="Žuraj Marko"
             naslov0="Liberalni tabor na Štajerskem v letih 1918-1923" naslov1="magistrsko delo"
@@ -10985,7 +10985,7 @@
         <cit did="2097" cid="51" avtor0="Malatesta M." naslov0="Libere professioni"
             pubPlace="Torino" publisher="Einaudi" year="2003" page="42—45"/>
     </delo>
-    <delo mojID="23094">
+    <delo mojID="23094" cobiss="10721">
         <naslov>Libertés publiques et droits de l’homme</naslov>
         <cit did="2703" cid="32" avtor0="Lebreton Gilles"
             naslov0="Libertés publiques et droits de l’homme" pubPlace="Paris"
@@ -11023,7 +11023,7 @@
             naslov0="Libro bianco / White paper / Bjela knjiga / Weissbuch" pubPlace="Trieste"
             year="2000"/>
     </delo>
-    <delo mojID="23100">
+    <delo mojID="23100" cobiss="374644">
         <naslov>Libro di scorno libro d'onore</naslov>
         <cit did="699" cid="1" avtor0="De Rosa Diana" naslov0="Libro di scorno libro d'onore"
             naslov1="La scuola elementare triestina durante l'amministrazione austriaca (1761-1918)"
@@ -11036,7 +11036,7 @@
             naslov0="Liburna: Rassegna delle fonti, caratteristiche della nave, accezioni del termine"
             source="Epigraphica" year="1956" volume="18" page="129-156"/>
     </delo>
-    <delo mojID="23103">
+    <delo mojID="23103" cobiss="7737090">
         <naslov>Liburnia militaris</naslov>
         <cit did="1748" cid="1135" avtor0="Zaninović M." naslov0="Liburnia militaris"
             source="Opuscula archaeologica" year="1988" volume="13" page="43-67"/>
@@ -11095,7 +11095,7 @@
             naslov1="Storia e critica di un concetto equivoco" pubPlace="Roma"
             publisher="La Nuova Italia Scientifica" year="1995"/>
     </delo>
-    <delo mojID="23118">
+    <delo mojID="23118" cobiss="16082013">
         <naslov>L'identitä etnica : gli italiani dell'area istro-quarnerina</naslov>
         <cit did="736" cid="3" avtor0="Bogliun-Debeljuh L."
             naslov0="L'identitä etnica : gli italiani dell'area istro-quarnerina"
@@ -11206,7 +11206,7 @@
             naslov1="unpublished dissertation" publisher="University of British Columbia"
             year="1994"/>
     </delo>
-    <delo mojID="23138">
+    <delo mojID="23138" cobiss="848651">
         <naslov>Life on the Screen: Identity in the Age of the Internet</naslov>
         <cit did="3041" cid="21" avtor0="Turkle S."
             naslov0="Life on the Screen: Identity in the Age of the Internet" pubPlace="New York"
@@ -11218,19 +11218,19 @@
             source="Ars Electronica 93: Genetische Kunst - Künstliches Leben" pubPlace="Wien"
             publisher="PVS Verleger" year="1993" volume="93"/>
     </delo>
-    <delo mojID="23140">
+    <delo mojID="23140" cobiss="2318964">
         <naslov>Life with the Enemy : Collaboration and Resistance in Hitler's Europe
                         1939-1945</naslov>
         <cit did="1814" cid="2" avtor0="Rings Werner"
             naslov0="Life with the Enemy : Collaboration and Resistance in Hitler's Europe 1939-1945"
             pubPlace="New York" year="1982"/>
     </delo>
-    <delo mojID="23141">
+    <delo mojID="23141" cobiss="5587021">
         <naslov>Life with Two Languages</naslov>
         <cit did="371" cid="9" avtor0="Grosjean Francois" naslov0="Life with Two Languages"
             source="An Introduktion to Bilingualism" pubPlace="Cambridge" year="1982"/>
     </delo>
-    <delo mojID="23143">
+    <delo mojID="23143" cobiss="13356633">
         <naslov>Lifelong learning technology innovations for efficient adult
                         education</naslov>
         <cit did="702" cid="5" avtor0="Dinevski Dejan, Brodnik Andrej"
@@ -11256,7 +11256,7 @@
         <cit did="3309" cid="35" avtor0="Ottoni Gregorio" naslov0="L'igiene del matrimonio"
             pubPlace="Padova" publisher="Tip. alla Minerva dei Fratelli Salmin" year="1871"/>
     </delo>
-    <delo mojID="23147">
+    <delo mojID="23147" cobiss="18847330">
         <naslov>Lik Juda kot tujca v novejši slovenski prozi</naslov>
         <cit did="2904" cid="106" avtor0="Pisek Staša"
             naslov0="Lik Juda kot tujca v novejši slovenski prozi" naslov1="diplomska naloga"
@@ -11269,31 +11269,31 @@
             source="Uomini e corpi. Una riflessione sui rivestimenti della mascolinita"
             pubPlace="Milano" publisher="Franco Angeli" year="2009" page="129-146"/>
     </delo>
-    <delo mojID="23150">
+    <delo mojID="23150" cobiss="48093953">
         <naslov>Likovna dediščina cerkva Mežiške doline</naslov>
         <cit did="2235" cid="11" avtor0="Javornik Simona"
             naslov0="Likovna dediščina cerkva Mežiške doline" pubPlace="Ravne na Koroškem"
             publisher="Koroški muzej Ravne na Koroškem" year="2002"/>
     </delo>
-    <delo mojID="23153">
+    <delo mojID="23153" cobiss="11218997">
         <naslov>Likovni salon Celje : dokumentacija razstav 1962 - 1992</naslov>
         <cit did="96" cid="23" avtor0="Kislinger Juro, Domjan Alenka"
             naslov0="Likovni salon Celje : dokumentacija razstav 1962 - 1992" pubPlace="Celje"
             year="2003"/>
     </delo>
-    <delo mojID="23154">
+    <delo mojID="23154" cobiss="525621">
         <naslov>Likovni salon - novi celjski kulturni hram</naslov>
         <cit did="96" cid="22" avtor0="Kislinger Juro"
             naslov0="Likovni salon - novi celjski kulturni hram" source="Celjski zbornik"
             year="1963" page="287-294"/>
     </delo>
-    <delo mojID="23156">
+    <delo mojID="23156" cobiss="21463085">
         <naslov>Likovni viri za baročno stropno slikarstvo v Sloveniji</naslov>
         <cit did="2126" cid="12" avtor0="Murovec Barbara"
             naslov0="Likovni viri za baročno stropno slikarstvo v Sloveniji"
             source="Zbornik za umetnostno zgodovino" year="2003" volume="39" page="92-141"/>
     </delo>
-    <delo mojID="23157">
+    <delo mojID="23157" cobiss="37989986">
         <naslov>Likovni viri za vojaško zgodovino poznega srednjega veka; Stensko in tabelno
                         slikarstvo na Slovenskem in v sosednjih deželah, 2. del.</naslov>
         <cit did="3249" cid="15" avtor0="Lazar Tomaž"
@@ -11326,7 +11326,7 @@
             naslov0="L'image des Illyriens a Rome: Etude de mentalite" source="Iliria" year="1986"
             volume="16" issue="1" page="203-214"/>
     </delo>
-    <delo mojID="23164">
+    <delo mojID="23164" cobiss="732036">
         <naslov>Limes (Claustra Alpium Iuliarum) - poizkus oživitve manj znanega kulturnega
                         potenciala</naslov>
         <cit did="2015" cid="41" avtor0="Zupančič M."
@@ -11513,7 +11513,7 @@
             naslov0="Lineamenti dell'espansione romana nelle Alpi Orientali e nei Balcani occidentali"
             source="Aquileia e l'arco alpino Orientale" pubPlace="Udine" year="1976" page="71-90"/>
     </delo>
-    <delo mojID="23200">
+    <delo mojID="23200" cobiss="512426892">
         <naslov>Lineamenti di politica e legislazione feudale veneziana in
                         Terraferma</naslov>
         <cit did="1483" cid="5" avtor0="Fasoli G."
@@ -11557,7 +11557,7 @@
             naslov0="Lingua e rivoluzione. Ricerche sul vocabolario politico italiano del triennio rivoluzionario 1796-1799"
             pubPlace="Venezia" publisher="Istituto veneto di scienze lettere ed arti" year="1991"/>
     </delo>
-    <delo mojID="23209">
+    <delo mojID="23209" cobiss="1134803">
         <naslov>Lingue in contatto nella coscienza dei parlanti: un'applicazione del modello
                         teorico di Jan Baudouin de Courtenay</naslov>
         <cit did="1928" cid="27" avtor0="Spinozzi Monai  L."
@@ -11571,7 +11571,7 @@
             source="Kontaktlinguistik - Contact Linguistics" pubPlace="Berlin - New York"
             page="332-342"/>
     </delo>
-    <delo mojID="23214">
+    <delo mojID="23214" cobiss="1935458"> 
         <naslov>Linguistic criticism</naslov>
         <cit did="3077" cid="12" avtor0="Fovvler R." naslov0="Linguistic criticism"
             pubPlace="Oxford - Nevv York" publisher="Oxford University Press" year="1996"/>
@@ -11583,19 +11583,19 @@
             naslov0="Linguistic interdependence and the educational development in bilingual children"
             source="Review of educational research" year="1979" issue="49" page="222-251"/>
     </delo>
-    <delo mojID="23217">
+    <delo mojID="23217" cobiss="920059">
         <naslov>Linguistic minorities in democratic context</naslov>
         <cit did="2912" cid="19" avtor0="Williams Colin H."
             naslov0="Linguistic minorities in democratic context" pubPlace="Basingstoke"
             publisher="Palgrave" year="2008"/>
     </delo>
-    <delo mojID="23218">
+    <delo mojID="23218" cobiss="543565">
         <naslov>Linguistic Minorities, Society and Territory</naslov>
         <cit did="673" cid="38" avtor0="Williams Colin H."
             naslov0="Linguistic Minorities, Society and Territory" pubPlace="Clevedon"
             publisher="Multilingual Matters" year="1991"/>
     </delo>
-    <delo mojID="23219">
+    <delo mojID="23219" cobiss="3192072">
         <naslov>Linguistic Purism</naslov>
         <cit did="3255" cid="19" avtor0="Thomas George" naslov0="Linguistic Purism"
             pubPlace="London, New York" publisher="Longman" year="1991"/>
@@ -11611,7 +11611,7 @@
             naslov0="Linguistic Variability and Intellectual Development" pubPlace="Coral Gables"
             publisher="University of Miami Press" year="1971"/>
     </delo>
-    <delo mojID="23222">
+    <delo mojID="23222" cobiss="14784776">
         <naslov>Linguistic Variation as Social Practice: The Linguistic Construction of
                         Identity in Belten High (= Language in Society 27).</naslov>
         <cit did="3256" cid="12" avtor0="Eckert Penelope"
@@ -11640,13 +11640,13 @@
             source="Le Nouvel Islam balkanique: Les musulmans, acteurs du post-communisme 1990-2000"
             pubPlace="Paris" publisher="Maisonneuve et Larose" year="2001" page="397-428"/>
     </delo>
-    <delo mojID="23230">
+    <delo mojID="23230" cobiss="13831513">
         <naslov>Linhart v ljubljanskih šolah</naslov>
         <cit did="2018" cid="160" avtor0="Južnič S." naslov0="Linhart v ljubljanskih šolah"
             source="Anton Tomaž Linhart (jubilejna monografija ob 250-letnici rojstva)"
             pubPlace="Ljubljana" publisher="Založba Sophia" page="313-333"/>
     </delo>
-    <delo mojID="23232">
+    <delo mojID="23232" cobiss="24509485">
         <naslov>Linhartovo delo na šolskem področju</naslov>
         <cit did="2018" cid="244" avtor0="Okoliš S." naslov0="Linhartovo delo na šolskem področju"
             source="Ivo Svetina et al, Anton Tomaž Linhart" pubPlace="Ljubljana"
@@ -11675,7 +11675,7 @@
             naslov0="Linné. 1757. Iter Palaestinum, Eller Resa til Heliga Landet, Förrättad ifran ar 1749 til 1752; 1769. Voyages dans le Levant. Paris; 1769. nemški prevod; 1766. Voyages and Travels in the Laevant, in the years 1749"
             year="1757"/>
     </delo>
-    <delo mojID="23236">
+    <delo mojID="23236" cobiss="5698865">
         <naslov>L'inquisizione nel patriarcato e diocesi di Aquileia 1557-1559</naslov>
         <cit did="2330" cid="11" avtor0="Del Col A."
             naslov0="L'inquisizione nel patriarcato e diocesi di Aquileia 1557-1559"
@@ -11748,7 +11748,7 @@
         <cit did="2346" cid="8" avtor0="de Certeau M." naslov0="L'invenzione del quotidiano"
             pubPlace="Roma" publisher="Edizioni lavoro" year="2001"/>
     </delo>
-    <delo mojID="23251">
+    <delo mojID="23251" cobiss="15894016">
         <naslov>Lipica</naslov>
         <cit did="375" cid="41" avtor0="Dolenc Milan" naslov0="Lipica" pubPlace="Ljubljana"
             year="1980" page="31, 36"/>
@@ -11758,7 +11758,7 @@
         <cit did="333" cid="6" avtor0="Bukovec T." naslov0="Lipov list sredi vojašnice"
             source="Nedeljski dnevnik" year="0"/>
     </delo>
-    <delo mojID="23255">
+    <delo mojID="23255" cobiss="20104029">
         <naslov>Liquid Modernity</naslov>
         <cit did="2735" cid="14" avtor0="Baumann Zygmunt" naslov0="Liquid Modernity"
             pubPlace="Cambridge" publisher="Polity Press" year="2000"/>
@@ -11769,7 +11769,7 @@
             naslov0="L'Irap e la riforma delle finanze regionali"
             source="La finanza pubblica italiana" year="1997" page="137-160"/>
     </delo>
-    <delo mojID="23257">
+    <delo mojID="23257" cobiss="5197568">
         <naslov>Lire et écrire: l’alphabétisation des Francais de Calvin a Jules
                         Ferry</naslov>
         <cit did="3505" cid="97" avtor0="Furet François, Ozouf Jacques"
@@ -11860,7 +11860,7 @@
             naslov0="Listina iz 1232 in starejša zgodovina Kamnika (Kamnik 1229-1979. Zbornik razprav s simpozija ob 750-letnici mesta)"
             pubPlace="Kamnik" year="1979" page="23-32"/>
     </delo>
-    <delo mojID="23278">
+    <delo mojID="23278" cobiss="18594560">
         <naslov>Listine Lavantinske škofije v Pokrajinskem arhivu Maribor</naslov>
         <cit did="2616" cid="12" avtor0="Ožinger A."
             naslov0="Listine Lavantinske škofije v Pokrajinskem arhivu Maribor" pubPlace="Maribor"
@@ -11886,14 +11886,14 @@
             publisher="Università degli Studi di Venezia - Ca' Foscari, Facoltà di Lettere e Filosofia"
             year="2001"/>
     </delo>
-    <delo mojID="23287">
+    <delo mojID="23287" cobiss="18208045">
         <naslov>L'Istria bizantina ed alcuni problemi del Placito di Risano</naslov>
         <cit did="747" cid="24" avtor0="Margetić Lujo"
             naslov0="L'Istria bizantina ed alcuni problemi del Placito di Risano"
             source="Slovenija in sosednje dežele med antiko in karolinško dobo : začetki slovenske etnogeneze : Slowenien und die Nachbarländer zwischen Antike und karolingischer Epoche / Situla"
             pubPlace="Ljubljana" publisher="SAZU" year="2000" issue="1/18" page="81-95"/>
     </delo>
-    <delo mojID="23288">
+    <delo mojID="23288" cobiss="5852465">
         <naslov>L'Istria bizantina : le istituzioni militari ai confini dell'esarcato
                         ravennate</naslov>
         <cit did="759" cid="45" avtor0="Ravegnani G."
@@ -11912,7 +11912,7 @@
         <cit did="2595" cid="36" avtor0="Ivetic E." naslov0="L'Istria nel Sei-Settecento"
             source="Archivio Storico Italiano" year="2004" volume="559" page="127-139"/>
     </delo>
-    <delo mojID="23296">
+    <delo mojID="23296" cobiss="512682636">
         <naslov>L'Istria nella descrizione della Tabula Peutingeriana</naslov>
         <cit did="765" cid="3" avtor0="Bosio Luciano"
             naslov0="L'Istria nella descrizione della Tabula Peutingeriana" source="AMSIA"
@@ -11923,13 +11923,13 @@
         <cit did="720" cid="46" avtor0="Papo Luigi" naslov0="L'Istria tradita" pubPlace="Roma"
             publisher="Settimo Sigillo" year="1999"/>
     </delo>
-    <delo mojID="23301">
+    <delo mojID="23301" cobiss="1102385">
         <naslov>L'Istria, una quercia</naslov>
         <cit did="1278" cid="3" avtor0="Miglia Guido" naslov0="L'Istria, una quercia"
             pubPlace="Trieste" publisher="Circolo di cultura &#34;Istria&#34;" year="1994"
             page="174"/>
     </delo>
-    <delo mojID="23302">
+    <delo mojID="23302" cobiss="4324497">
         <naslov>L'Istria veneta dal 1797 al 1813</naslov>
         <cit did="2596" cid="2" avtor0="Apollonio A." naslov0="L'Istria veneta dal 1797 al 1813"
             pubPlace="Gorizia" year="1998"/>
@@ -12004,7 +12004,7 @@
         <cit did="1428" cid="16" avtor0="Gruden Igor" naslov0="L'Italia futurista"
             source="Dom in svet" year="1913" volume="26" issue="12" page="453-456"/>
     </delo>
-    <delo mojID="23323">
+    <delo mojID="23323" cobiss="7943730">
         <naslov>L'Italia giacobina e carbonara: 1789-1831</naslov>
         <cit did="2779" cid="7" avtor0="Montanelli Indro"
             naslov0="L'Italia giacobina e carbonara: 1789-1831" pubPlace="Milano"
@@ -12017,14 +12017,14 @@
             source="Bollettino deiristituto per la storia del movimento di liberazione nel Friuli-Venezia Giulia"
             year="1976" issue="2-3"/>
     </delo>
-    <delo mojID="23325">
+    <delo mojID="23325" cobiss="28361517">
         <naslov>L'Italia in piazza. I luoghi della vita pubblica dal 1848 ai giorni
                         nostri</naslov>
         <cit did="2354" cid="31" avtor0="Isnenghi M."
             naslov0="L'Italia in piazza. I luoghi della vita pubblica dal 1848 ai giorni nostri"
             pubPlace="Bologna" publisher="II Mulino" year="2004"/>
     </delo>
-    <delo mojID="23326">
+    <delo mojID="23326" cobiss="512007548">
         <naslov>L'Italia, l'Europa centro-orientale e i Balcani</naslov>
         <cit did="303" cid="50" avtor0="Favaretto Tito, Gobet Sergio"
             naslov0="L'Italia, l'Europa centro-orientale e i Balcani" pubPlace="Roma-Bari"
@@ -12044,12 +12044,12 @@
             source="L'Italia repubblicana nella crisi degli anni Settanta. Tra guerra fredda e distensione"
             pubPlace="Roma" publisher="Soveria Mannelli, Rubbettino" year="2003" page="271-298"/>
     </delo>
-    <delo mojID="23329">
+    <delo mojID="23329" cobiss="89382656">
         <naslov>L'Italia nella Guerra Mondiale</naslov>
         <cit did="1315" cid="21" avtor0="Caracciolo Mario" naslov0="L'Italia nella Guerra Mondiale"
             pubPlace="Roma" publisher="Edizioni Roma" year="1935" page="93, 137, 153"/>
     </delo>
-    <delo mojID="23330">
+    <delo mojID="23330" cobiss="4570957">
         <naslov>L'Italia nella prima guerra 1915-1918</naslov>
         <cit did="1304" cid="6" avtor0="Piero Pieri" naslov0="L'Italia nella prima guerra 1915-1918"
             pubPlace="Torino" year="1965"/>
@@ -12101,13 +12101,13 @@
             naslov0="Litauisches etymologisches Worterbuch l-ll" pubPlace="Heidelberg - Gottingen"
             publisher="Carl Winter Universitätsverlag" year="1962"/>
     </delo>
-    <delo mojID="23339">
+    <delo mojID="23339" cobiss="2757356">
         <naslov>L'Itdlia e il confine orientale, 1866-2006</naslov>
         <cit did="3452" cid="12" avtor0="Cattaruzza M."
             naslov0="L'Itdlia e il confine orientale, 1866-2006" pubPlace="Bologna"
             publisher="Il Mulino" year="2007"/>
     </delo>
-    <delo mojID="23341">
+    <delo mojID="23341" cobiss="795494">
         <naslov>Literacy and Development in the West</naslov>
         <cit did="435" cid="23" avtor0="Cipolla Carlo M."
             naslov0="Literacy and Development in the West" pubPlace="London" year="1969"/>
@@ -12169,7 +12169,7 @@
             source="Annual review of applied linguistics" pubPlace="Rowley, MA"
             publisher="Newbury House" year="1983"/>
     </delo>
-    <delo mojID="23350">
+    <delo mojID="23350" cobiss="656742">
         <naslov>Literacy in Theory and Practice</naslov>
         <cit did="3016" cid="12" avtor0="Street B." naslov0="Literacy in Theory and Practice"
             pubPlace="New York" publisher="Cambridge University Press" year="1984"/>
@@ -12185,7 +12185,7 @@
             source="Situated Literacies. Reading and Writing in Context" pubPlace="New York"
             publisher="Routledge" year="2000" page="7-15"/>
     </delo>
-    <delo mojID="23353">
+    <delo mojID="23353" cobiss="10961709">
         <naslov>Literarna dejavnost prekmurskih Slovencev v ZDA</naslov>
         <cit did="2837" cid="15" avtor0="Kuzmič Mihael"
             naslov0="Literarna dejavnost prekmurskih Slovencev v ZDA"
@@ -12199,7 +12199,7 @@
             naslov0="Literarna umetnina med zgodovino in teorijo - razprave. Levstikov duševni obraz"
             pubPlace="Ljubljana" publisher="Državna založba Slovenije" year="1978"/>
     </delo>
-    <delo mojID="23356">
+    <delo mojID="23356" cobiss="2145039">
         <naslov>Literarne kritike</naslov>
         <cit did="2625" cid="127" avtor0="Vidmar Josip" naslov0="Literarne kritike"
             pubPlace="Ljubljana" publisher="Državna založba Slovenije" year="1951"/>
@@ -12210,13 +12210,13 @@
             naslov0="Literarni odnošaji med Štajerskimi Slovenci in Nemci" source="ČZN" year="1908"
         />
     </delo>
-    <delo mojID="23358">
+    <delo mojID="23358" cobiss="5220864">
         <naslov>Literarno delo mladega A. T. Linharta</naslov>
         <cit did="2018" cid="368" avtor0="Zupančič M."
             naslov0="Literarno delo mladega A. T. Linharta" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1972"/>
     </delo>
-    <delo mojID="23360">
+    <delo mojID="23360" cobiss="10472493">
         <naslov>Literarno ustvarjanje Slovencev v Avstraliji v slovenskem jeziku</naslov>
         <cit did="2722" cid="11" avtor0="Šuša Barbara"
             naslov0="Literarno ustvarjanje Slovencev v Avstraliji v slovenskem jeziku"
@@ -12236,7 +12236,7 @@
             source="Redovnistvo na Slovenskem: Benediktinci. Kartuzijani. Cistercijani."
             pubPlace="Ljubljana" year="1984" page="61"/>
     </delo>
-    <delo mojID="23364">
+    <delo mojID="23364" cobiss="16555008">
         <naslov>Literarno-zgodovinski spisi</naslov>
         <cit did="2058" cid="3" avtor0="Grafenauer Ivan" naslov0="Literarno-zgodovinski spisi"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1980"/>
@@ -12254,12 +12254,12 @@
             naslov0="Literatur und Lebenswelt: Ehre und Liebe...." pubPlace="Tübingen"
             publisher="Diskord" year="1995" page="173-201"/>
     </delo>
-    <delo mojID="23369">
+    <delo mojID="23369" cobiss="106113536">
         <naslov>Literatura ali življenje</naslov>
         <cit did="432" cid="15" avtor0="Kovačič Lojze" naslov0="Literatura ali življenje"
             naslov1="Eseji, članki, dnevniki" pubPlace="Ljubljana" year="1999" page="15"/>
     </delo>
-    <delo mojID="23371">
+    <delo mojID="23371" cobiss="29821538">
         <naslov>Literatura in odpor, odpor v literaturi</naslov>
         <cit did="2839" cid="35" avtor0="Leben Andrej" avtor1="Köstler Erwin"
             naslov0="Literatura in odpor, odpor v literaturi" source="Jezik in slovstvo" year="2005"
@@ -12318,7 +12318,7 @@
             naslov0="Liturgija : pregled krščanskega bogoslužja" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1995"/>
     </delo>
-    <delo mojID="23392">
+    <delo mojID="23392" cobiss="374618">
         <naslov>Liturgija v času katoliške prenove</naslov>
         <cit did="2692" cid="3" avtor0="Smolik Marijan" naslov0="Liturgija v času katoliške prenove"
             source="katolische Reform und Gegenreformation in Innerösterreich 1564-1628"
@@ -12346,7 +12346,7 @@
             naslov0="Livingstone's Tribe. A Journey from Zanzibar to the Cape" pubPlace="London"
             publisher="Flamingo" year="2000"/>
     </delo>
-    <delo mojID="23400">
+    <delo mojID="23400" cobiss="733212">
         <naslov>Lični dohoci i inflacija troškova</naslov>
         <cit did="852" cid="10" avtor0="Popov Sofija" naslov0="Lični dohoci i inflacija troškova"
             naslov1="Analiza kretanja cena i ličnih dohodaka u Jugoslaviji" pubPlace="Beograd"
