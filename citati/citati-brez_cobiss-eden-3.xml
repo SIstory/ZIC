@@ -12352,7 +12352,7 @@
             naslov1="Analiza kretanja cena i ličnih dohodaka u Jugoslaviji" pubPlace="Beograd"
             publisher="Ekonomika" year="1983"/>
     </delo>
-    <delo mojID="23406">
+    <delo mojID="23406" cobiss="30031197">
         <naslov>Ljubezen na prvi klik: Uporaba interneta za spoznavanje intimnih in
                         seksualnih partnerjev</naslov>
         <cit did="3041" cid="13" avtor0="Kuhar R., Kogovšek T., Švab A."
@@ -12360,13 +12360,13 @@
             source="Družboslovne razprave" pubPlace="Ljubljana" year="2010" volume="26" issue="65"
             page="45-64"/>
     </delo>
-    <delo mojID="23409">
+    <delo mojID="23409" cobiss="2720858">
         <naslov>Ljubi me nežno!</naslov>
         <cit did="106" cid="332" avtor0="Ocvirk D." naslov0="Ljubi me nežno!"
             source="Dialog v službi človeka" pubPlace="Celovec - Ljubljana - Dunaj"
             publisher="Mohorjeva družba" year="2001" page="138"/>
     </delo>
-    <delo mojID="23410">
+    <delo mojID="23410" cobiss="19580216">
         <naslov>Ljubi očka, kaj si rekel...</naslov>
         <cit did="1902" cid="4" avtor0="Fideršek Franc" naslov0="Ljubi očka, kaj si rekel..."
             source="Tednik" year="2029"/>
@@ -12377,12 +12377,12 @@
             source="Varstvo spomenikov" pubPlace="Ljubljana" year="2007" volume="43" page="231-232"
         />
     </delo>
-    <delo mojID="23413">
+    <delo mojID="23413" cobiss="95226880">
         <naslov>Ljubljana</naslov>
         <cit did="1509" cid="3" avtor0="Stele France" naslov0="Ljubljana" pubPlace="Ljubljana"
             year="1940" page="7"/>
     </delo>
-    <delo mojID="23414">
+    <delo mojID="23414" cobiss="117782528">
         <naslov>Ljubljana 1170 dni v žični zapori, 1942–1945</naslov>
         <cit did="1509" cid="33" avtor0="Lukež Niko, Kos Janez"
             naslov0="Ljubljana 1170 dni v žični zapori, 1942–1945" pubPlace="Ljubljana" year="2002"
@@ -12395,12 +12395,12 @@
             naslov0="Ljubljana and Emigrant Agencies at the Beginning of the Tvventieth Century"
             source="AEMI Journal" year="2003" volume="1" page="47-55"/>
     </delo>
-    <delo mojID="23417">
+    <delo mojID="23417" cobiss="1286701">
         <naslov>Ljubljana, die Hauptstadt Sloveniens</naslov>
         <cit did="1509" cid="178" avtor0="Andrejka Rudolf"
             naslov0="Ljubljana, die Hauptstadt Sloveniens" pubPlace="Ljubljana" year="1929"/>
     </delo>
-    <delo mojID="23418">
+    <delo mojID="23418" cobiss="4913737">
         <naslov>Ljubljana: gostiteljica 4. vseslovenskega časnikarskega kongresa maja
                         1902</naslov>
         <cit did="2062" cid="1" avtor0="Gantar Godina Irena"
@@ -12412,18 +12412,18 @@
         <cit did="16" cid="87" avtor0="Knez Richard" naslov0="Ljubljana, Koper, Parma, Trst"
             source="Ljubljana v ilegali, IV." pubPlace="Ljubljana" year="1970" page="503"/>
     </delo>
-    <delo mojID="23422">
+    <delo mojID="23422" cobiss="78196">
         <naslov>Ljubljana od 1895 do 1941</naslov>
         <cit did="1509" cid="15" avtor0="Valant Milan" naslov0="Ljubljana od 1895 do 1941"
             pubPlace="Ljubljana" year="1977" page="34"/>
     </delo>
-    <delo mojID="23423">
+    <delo mojID="23423" cobiss="60671488">
         <naslov>Ljubljana od prazgodovine do srednjega veka</naslov>
         <cit did="918" cid="15" avtor0="Sivec Irena"
             naslov0="Ljubljana od prazgodovine do srednjega veka" pubPlace="Ljubljana"
             publisher="Mestni muzej" year="1996" page="94"/>
     </delo>
-    <delo mojID="23428">
+    <delo mojID="23428" cobiss="21723392">
         <naslov>Ljubljana skozj stoletja. Mesto na načrtih, projektih in v
                         stvarnosti</naslov>
         <cit did="2517" cid="24" avtor0="Korošec Branko"
@@ -12435,7 +12435,7 @@
         <cit did="3241" cid="236" avtor0="Gestrin Ferdo" naslov0="Ljubljana v 16. in 17. stoletju"
             source="Zgodovina Ljubljane" year="1955"/>
     </delo>
-    <delo mojID="23431">
+    <delo mojID="23431" cobiss="5968640">
         <naslov>Ljubljana v bodeči žici, 99. zvezek zbirke vodnikov Kulturni in naravni
                         spomeniki Slovenije</naslov>
         <cit did="2015" cid="42" avtor0="Žgajnar M."
@@ -12453,17 +12453,17 @@
             naslov0="Ljubljana v luči umrljivosti za tuberkulozo" source="Delo proti tuberkulozi"
             year="1940" volume="6" page="17-20"/>
     </delo>
-    <delo mojID="23434">
+    <delo mojID="23434" cobiss="240752128">
         <naslov>Ljubljana v osvobodilnem boju</naslov>
         <cit did="1509" cid="32" avtor0="Čepe Marica" naslov0="Ljubljana v osvobodilnem boju"
             source="Kronika XII" year="1964" page="90-91"/>
     </delo>
-    <delo mojID="23436">
+    <delo mojID="23436" cobiss="240852480">
         <naslov>Ljubljana v srednjem veku</naslov>
         <cit did="2611" cid="28" avtor0="Grafenauer Bogo" naslov0="Ljubljana v srednjem veku"
             source="Kronika" year="1963" volume="9" issue="3" page="131"/>
     </delo>
-    <delo mojID="23439">
+    <delo mojID="23439" cobiss="54478946">
         <naslov>Ljubljana v času obnove 1945–1947</naslov>
         <cit did="1509" cid="18" avtor0="Petrovič Mateja"
             naslov0="Ljubljana v času obnove 1945–1947" source="Diplomska naloga"
@@ -12498,7 +12498,7 @@
             source="Glasnik Muzejskega drustva za Slovenijo" year="1933" volume="14" page="140-141"
         />
     </delo>
-    <delo mojID="23445">
+    <delo mojID="23445" cobiss="60762112">
         <naslov>Ljubljanica: tok reke. naplavina zgodovine</naslov>
         <cit did="2640" cid="8" avtor0="Bitenc P., Knific T."
             naslov0="Ljubljanica: tok reke. naplavina zgodovine"
@@ -12511,7 +12511,7 @@
             naslov0="Ljubljanska arhitektura 18. stoletja" source="Kronika" pubPlace="Ljubljana"
             year="1984" page="177-188"/>
     </delo>
-    <delo mojID="23450">
+    <delo mojID="23450" cobiss="1508980">
         <naslov>Ljubljanska brigada : 10. slovenska narodnoosvobodilna udarna brigada
                         »Ljubljanska« : njena vloga in pomen v narodnoosvobodilnem boju
                         1943-1945</naslov>
@@ -12519,13 +12519,13 @@
             naslov0="Ljubljanska brigada : 10. slovenska narodnoosvobodilna udarna brigada »Ljubljanska« : njena vloga in pomen v narodnoosvobodilnem boju 1943-1945"
             pubPlace="Ljubljana" year="2003" page="48"/>
     </delo>
-    <delo mojID="23455">
+    <delo mojID="23455" cobiss="240512256">
         <naslov>Ljubljanska Glasbena Matica in njen pomen</naslov>
         <cit did="3129" cid="1" avtor0="Cvetko Dragotin"
             naslov0="Ljubljanska Glasbena Matica in njen pomen" source="Kronika" year="1954"
             volume="2" issue="2" page="37-38"/>
     </delo>
-    <delo mojID="23457">
+    <delo mojID="23457" cobiss="89104896">
         <naslov>Ljubljanska mestna aglomeracija in njena antropogeografska meja</naslov>
         <cit did="854" cid="2" avtor0="Bohinec Valter"
             naslov0="Ljubljanska mestna aglomeracija in njena antropogeografska meja"
@@ -12542,13 +12542,13 @@
             naslov0="Ljubljanska &#34;Philharmonische gesellschaft&#34; in mi Slovenci"
             source="Slovenec (21. 12. 1919)" year="1919"/>
     </delo>
-    <delo mojID="23461">
+    <delo mojID="23461" cobiss="317301">
         <naslov>Ljubljanska policija v drugi polovici 18. stoletja</naslov>
         <cit did="2510" cid="3" avtor0="Klasinc Škofljanec Andreja"
             naslov0="Ljubljanska policija v drugi polovici 18. stoletja" source="Kronika"
             year="2002" volume="50" issue="3" page="291-300"/>
     </delo>
-    <delo mojID="23462">
+    <delo mojID="23462" cobiss="11556411">
         <naslov>Ljubljanska srajca</naslov>
         <cit did="3129" cid="6" avtor0="Vrhovnik Ivan" naslov0="Ljubljanska srajca"
             source="Kronika slovenskih mest" year="1935" volume="2" issue="2" page="183"/>
@@ -12560,7 +12560,7 @@
             naslov0="Ljubljanska trgovina v 16. in 17. stoletju. Iz starejše gospodarske in družbene zgodovine Ljubljane"
             source="Zbornik razprav 2" pubPlace="Ljubljana" year="1971" page="97-154"/>
     </delo>
-    <delo mojID="23468">
+    <delo mojID="23468" cobiss="240407808">
         <naslov>Ljubljanska učna stolica za kmetijstvo</naslov>
         <cit did="2041" cid="20" avtor0="Valenčič Vlado"
             naslov0="Ljubljanska učna stolica za kmetijstvo" source="Kronika" year="1960" volume="7"
@@ -12571,7 +12571,7 @@
         <cit did="109" cid="75" avtor0="Potočnik Drago" naslov0="Ljubljanske banke 1900-1913"
             source="Kronika slovenskih mest" year="1937" issue="4" page="241-242"/>
     </delo>
-    <delo mojID="23472">
+    <delo mojID="23472" cobiss="241894912">
         <naslov>Ljubljanske cene kruha in mesa v predmarčni dobi</naslov>
         <cit did="2610" cid="62" avtor0="Melik Vasilij"
             naslov0="Ljubljanske cene kruha in mesa v predmarčni dobi" source="Kronika" year="1981"
@@ -12583,12 +12583,12 @@
             naslov0="Ljubljanske srednje in višje šole v Kvasovih časih" source="Ljubljanski zvon"
             year="1934" volume="54" page="590-597"/>
     </delo>
-    <delo mojID="23482">
+    <delo mojID="23482" cobiss="5979904">
         <naslov>Ljubljanski grad: zgodovinski oris</naslov>
         <cit did="1940" cid="31" avtor0="Reisp B." naslov0="Ljubljanski grad: zgodovinski oris"
             pubPlace="Maribor" publisher="Obzorja" year="1985"/>
     </delo>
-    <delo mojID="23484">
+    <delo mojID="23484" cobiss="23267938">
         <naslov>Ljubljanski hoteli od leta 1731 do leta 1945</naslov>
         <cit did="1509" cid="194" avtor0="Jovanovič Nataša"
             naslov0="Ljubljanski hoteli od leta 1731 do leta 1945" naslov1="Diplomska naloga"
@@ -12599,12 +12599,12 @@
         <cit did="1738" cid="26" avtor0="Rozman Ksenija" naslov0="Ljubljanski javni spomeniki"
             source="Kronika" year="1965" issue="2" page="94-97"/>
     </delo>
-    <delo mojID="23486">
+    <delo mojID="23486" cobiss="104476928">
         <naslov>Ljubljanski klasiki 1563-1965</naslov>
         <cit did="2765" cid="14" naslov0="Ljubljanski klasiki 1563-1965" pubPlace="Ljubljana"
             year="1999"/>
     </delo>
-    <delo mojID="23488">
+    <delo mojID="23488" cobiss="27945005">
         <naslov>Ljubljanski Kolizej in njegova usoda</naslov>
         <cit did="2510" cid="4" avtor0="Mavrič Darja" naslov0="Ljubljanski Kolizej in njegova usoda"
             source="Umetnostna kronika" year="2008" volume="18" page="34-44"/>
@@ -12616,7 +12616,7 @@
             naslov0="Ljubljanski kongres 1. 1821. po dnevniku zagrebškega škofa Maksimiljana Vrhovca"
             source="Carniola: Izvestja Muzejskega društva za Kranjsko" year="1911"/>
     </delo>
-    <delo mojID="23491">
+    <delo mojID="23491" cobiss="1098025054">
         <naslov>Ljubljanski kongres 1821 - največji diplomatski dogodek v zgodovini na tleh
                         današnje prestolnice</naslov>
         <cit did="2033" cid="10" avtor0="Vodopivec Peter"
@@ -12624,7 +12624,7 @@
             pubPlace="Ljubljana" publisher="Glasilo Mestne občine Ljubljana" year="2001" volume="6"
             issue="5-6"/>
     </delo>
-    <delo mojID="23493">
+    <delo mojID="23493" cobiss="16359213">
         <naslov>Ljubljanski mestni muziki</naslov>
         <cit did="1912" cid="118" avtor0="Rijavec Andrej" naslov0="Ljubljanski mestni muziki"
             source="Muzikološki zbornik" year="1966" page="37-51"/>
@@ -12634,7 +12634,7 @@
         <cit did="1855" cid="4" avtor0="Rus R." naslov0="Ljubljanski nadškof A. Vovk"
             source="Vesoljni cerkveni zbor" pubPlace="Celovec" year="1966" page="76"/>
     </delo>
-    <delo mojID="23497">
+    <delo mojID="23497" cobiss="113959168">
         <naslov>Ljubljanski nebotičnik: denar in arhitektura</naslov>
         <cit did="1911" cid="126" avtor0="Zupančič Bogo"
             naslov0="Ljubljanski nebotičnik: denar in arhitektura" pubPlace="Ljubljana"
@@ -12646,7 +12646,7 @@
             naslov0="Ljubljanski pivovarji od XVI. do XIX. stoletja"
             source="Kronika slovenskih mest" pubPlace="Ljubljana" year="1937" volume="4"/>
     </delo>
-    <delo mojID="23499">
+    <delo mojID="23499" cobiss="2441588">
         <naslov>Ljubljanski predmoderni visokošolski študij biotehnike (kmetijstva) v 18. in
                         19. stoletju: razstavni katalog Arhivsko-muzejske službe Univerze v
                         Ljubljani.</naslov>
@@ -12677,7 +12677,7 @@
             naslov0="Ljubljanski trgovci od začetka 18. do srede 19. stoletja" pubPlace="Ljubljana"
             publisher="ZAL" page="82-83"/>
     </delo>
-    <delo mojID="23509">
+    <delo mojID="23509" cobiss="16734306">
         <naslov>Ljubljanski velesejem</naslov>
         <cit did="3289" cid="228" avtor0="Lazarević Žarko" naslov0="Ljubljanski velesejem"
             source="Slovenska kronika XX. stoletja" pubPlace="Ljubljana" publisher="Nova revija"
@@ -12702,27 +12702,27 @@
             source="Bili so zaprti, pregnani, obešeni, ustreljeni  na suženjskem delu uporni"
             pubPlace="Ljubljana" year="1981" page="126"/>
     </delo>
-    <delo mojID="23513">
+    <delo mojID="23513" cobiss="535157">
         <naslov>Ljubljanski zdravnik Fran Viljem Lipič in preteča epidemija kolere leta
                         1831</naslov>
         <cit did="2610" cid="44" avtor0="Keber Katarina"
             naslov0="Ljubljanski zdravnik Fran Viljem Lipič in preteča epidemija kolere leta 1831"
             source="Kronika" year="2004" volume="52" issue="1" page="35-44"/>
     </delo>
-    <delo mojID="23514">
+    <delo mojID="23514" cobiss="1104363358">
         <naslov>Ljubljanski Zmaji na Koroškem</naslov>
         <cit did="3004" cid="4" avtor0="Stergar Janez" naslov0="Ljubljanski Zmaji na Koroškem"
             source="Tovariš, ilustrirani tednik &#34;Dela&#34;" pubPlace="Ljubljana" year="1967"
             page="24-26"/>
     </delo>
-    <delo mojID="23520">
+    <delo mojID="23520" cobiss="47750">
         <naslov>Ljubljanski živilski trg in prehrana meščanov v dvajsetih in tridesetih
                         letih 20. stoletja</naslov>
         <cit did="1509" cid="81" avtor0="Židov Nena"
             naslov0="Ljubljanski živilski trg in prehrana meščanov v dvajsetih in tridesetih letih 20. stoletja"
             source="Traditiones" year="1996" volume="25" page="229-237"/>
     </delo>
-    <delo mojID="23522">
+    <delo mojID="23522" cobiss="217278976">
         <naslov>Ljubljanski župani skozi čas = Ljubljana Mayors Through Time: 500 let
                         ljubljanskih županov = 500 Years of Ljubljana Mayors 1504— 2004</naslov>
         <cit did="2401" cid="1" avtor0="Anžič Sonja"
@@ -12735,13 +12735,13 @@
             naslov0="Ljubljansko baročno kiparstvo v kamnu" source="Zbornik za umetnostno zgodovino"
             year="1957" volume="n. v. 4" page="31-70"/>
     </delo>
-    <delo mojID="23524">
+    <delo mojID="23524" cobiss="27608064">
         <naslov>Ljubljansko kiparstvo na prostem</naslov>
         <cit did="2403" cid="15" avtor0="Čopič Špelca; Prelovšek Damjan, Žitko Sonja"
             naslov0="Ljubljansko kiparstvo na prostem" pubPlace="Ljubljana"
             publisher="Državna založba Slovenije" year="1991"/>
     </delo>
-    <delo mojID="23525">
+    <delo mojID="23525" cobiss="1771009">
         <naslov>Ljubljansko naselje Zelena jama kot etnološki problem</naslov>
         <cit did="155" cid="3" avtor0="Kremenšek S."
             naslov0="Ljubljansko naselje Zelena jama kot etnološki problem" pubPlace="Ljubljana"
@@ -12759,20 +12759,20 @@
             naslov0="Ljubljansko vseučilišče. Zgodovinska črtica" source="Katoliški Obzornik"
             year="0" volume="3" page="76-79"/>
     </delo>
-    <delo mojID="23534">
+    <delo mojID="23534" cobiss="21875549">
         <naslov>Ljublj@na: iz vasi kablov v info-urbani habitat</naslov>
         <cit did="2008" cid="60" avtor0="Trček F."
             naslov0="Ljublj@na: iz vasi kablov v info-urbani habitat"
             source="Sociološke podobe Ljubljane. Knjižna zbirka Teorija in praksa"
             pubPlace="Ljubljana" publisher="Fakulteta za družbene vede" year="2002" page="81-96"/>
     </delo>
-    <delo mojID="23536">
+    <delo mojID="23536" cobiss="80288256">
         <naslov>Ljudevit Gaj and the Illyrian Movement</naslov>
         <cit did="2024" cid="3" avtor0="Despalatović Elinor Murray"
             naslov0="Ljudevit Gaj and the Illyrian Movement" pubPlace="New York - London"
             year="1975" page="45-202"/>
     </delo>
-    <delo mojID="23537">
+    <delo mojID="23537" cobiss="18452480">
         <naslov>Ljudevit Gaj: njegov život, njegovo doba</naslov>
         <cit did="1606" cid="7" avtor0="Horvat Josip"
             naslov0="Ljudevit Gaj: njegov život, njegovo doba" pubPlace="Zagreb" publisher="Liber"
@@ -12784,12 +12784,12 @@
             naslov0="Ljudi mog vremena: suza za Bleiburg 2" pubPlace="Zagreb" year="2007"
             page="118-119"/>
     </delo>
-    <delo mojID="23545">
+    <delo mojID="23545" cobiss="47779840">
         <naslov>Ljudje ob Raci. Tri zgodbe</naslov>
         <cit did="2128" cid="11" avtor0="Stražar Stane" naslov0="Ljudje ob Raci. Tri zgodbe"
             pubPlace="Domžale" publisher="samozaložba" year="1995"/>
     </delo>
-    <delo mojID="23546">
+    <delo mojID="23546" cobiss="223697920">
         <naslov>Ljudje ob Radomeljski mlinščici</naslov>
         <cit did="2039" cid="8" avtor0="Cerar Franc" naslov0="Ljudje ob Radomeljski mlinščici"
             pubPlace="Radomlje" publisher="Kulturno društvo Mlin" year="2005"/>
@@ -12800,7 +12800,7 @@
             naslov0="Ljudje se čedalje bolj zavedajo, da se v parku splača živeti" source="Delo"
             year="2019"/>
     </delo>
-    <delo mojID="23549">
+    <delo mojID="23549" cobiss="37939968">
         <naslov>Ljudje z reke/The River People. Prvinskost bivanja</naslov>
         <cit did="3084" cid="17" avtor0="Šav Vlado"
             naslov0="Ljudje z reke/The River People. Prvinskost bivanja" pubPlace="Koper"
@@ -12830,7 +12830,7 @@
             naslov0="Ljudska pesnica, kmetica Katarina Miklav, po domače Šrtevka, v Lepeni pri Železni Kapli"
             source="Svoboda" pubPlace="Celovec" year="1951" issue="1/2" page="25"/>
     </delo>
-    <delo mojID="23563">
+    <delo mojID="23563" cobiss="20245505">
         <naslov>Ljudska umetnost na Slovenskem</naslov>
         <cit did="1438" cid="9" avtor0="Sedej Ivan" naslov0="Ljudska umetnost na Slovenskem"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1985"/>
@@ -12850,7 +12850,7 @@
         <cit did="1809" cid="8" avtor0="Puš Ludvik" naslov0="Ljudska šola na kmetih" source="Orač"
             year="0" page="121-122"/>
     </delo>
-    <delo mojID="23568">
+    <delo mojID="23568" cobiss="6866945">
         <naslov>Ljudske pesmi</naslov>
         <cit did="1742" cid="19" avtor0="Grbec Ivan" naslov0="Ljudske pesmi" pubPlace="Trst"
             year="1971"/>
@@ -12860,7 +12860,7 @@
         <cit did="844" cid="215" avtor0="Ostanek France" naslov0="Ljudske šole na Kočevskem"
             source="Kočevski zbornik" page="357-361"/>
     </delo>
-    <delo mojID="23570">
+    <delo mojID="23570" cobiss="25447169">
         <naslov>Ljudski odbori, organi ljudske samouprave: pregled razvoja in njihova nova
                         ureditev</naslov>
         <cit did="826" cid="48" avtor0="Globevnik Josip"
@@ -12892,12 +12892,12 @@
             naslov0="Ljudsko odvetništvo pritrdilo manjšini" source="Delo" pubPlace="Ljubljana"
             year="2064" volume="48" issue="80" page="28"/>
     </delo>
-    <delo mojID="23576">
+    <delo mojID="23576" cobiss="21707777">
         <naslov>Ljudsko pesništvo</naslov>
         <cit did="947" cid="20" avtor0="Tereseglav Marko" naslov0="Ljudsko pesništvo"
             pubPlace="Ljubljana" publisher="DZS" year="1987"/>
     </delo>
-    <delo mojID="23577">
+    <delo mojID="23577" cobiss="7058253">
         <naslov>Ljudsko pesništvo Kanalske doline</naslov>
         <cit did="442" cid="111" avtor0="Zuljan - Kumar Danila"
             naslov0="Ljudsko pesništvo Kanalske doline" source="Primorska srečanja" year="1999"
@@ -12913,12 +12913,12 @@
         <cit did="209" cid="1" avtor0="Apovnik Pavel" naslov0="Ljudsko štetje pred vrati"
             source="Naš tednik" pubPlace="Celovec" year="2035" volume="43" issue="18" page="2-3"/>
     </delo>
-    <delo mojID="23581">
+    <delo mojID="23581" cobiss="2224641">
         <naslov>Ljudstva brez kovin</naslov>
         <cit did="1445" cid="8" avtor0="Škerlj Božo" naslov0="Ljudstva brez kovin"
             pubPlace="Ljubljana" publisher="DZS" year="1962"/>
     </delo>
-    <delo mojID="23582">
+    <delo mojID="23582" cobiss="17832493">
         <naslov>"Ljudstvo ... jasno in razumljivo poučujemo"</naslov>
         <cit did="1735" cid="75" avtor0="Snoj A. S."
             naslov0="&#34;Ljudstvo ... jasno in razumljivo poučujemo&#34;"
@@ -12931,7 +12931,7 @@
             source="Iz stare kitajske filozofije" pubPlace="Ljubljana" publisher="Slovenska matica"
             year="1988" page="7-19"/>
     </delo>
-    <delo mojID="23584">
+    <delo mojID="23584" cobiss="23200256">
         <naslov>Ljutomer in njegova okolica</naslov>
         <cit did="1711" cid="1" avtor0="Curk Jože" naslov0="Ljutomer in njegova okolica"
             pubPlace="Maribor" year="1990"/>
@@ -12949,14 +12949,14 @@
             naslov0="Ljutomer in okolica po letu 1848" source="Ljutomer, osrčje Prlekije"
             pubPlace="Ljutomer" year="2007" page="49-61"/>
     </delo>
-    <delo mojID="23588">
+    <delo mojID="23588" cobiss="28217346">
         <naslov>Ljutomerska župnija do konca 18. stoletja</naslov>
         <cit did="1711" cid="5" avtor0="Mlinarič Jože"
             naslov0="Ljutomerska župnija do konca 18. stoletja"
             source="Zbornik župnije sv. Janeza Krstnika v Ljutomeru." pubPlace="Ljutomer - Maribor"
             year="1990" page="13-44"/>
     </delo>
-    <delo mojID="23589">
+    <delo mojID="23589" cobiss="24891649">
         <naslov>Ljutomerske konjske dirke</naslov>
         <cit did="299" cid="3" avtor0="Baš Angelos" naslov0="Ljutomerske konjske dirke"
             pubPlace="Maribor" year="1976" page="31"/>
@@ -13115,7 +13115,7 @@
             naslov0="lnequalities in Young People's Health - HBSC International Report from the 2005/2006 Survey"
             publisher="World Health Organization" year="2008"/>
     </delo>
-    <delo mojID="23620">
+    <delo mojID="23620" cobiss="255780864">
         <naslov>ln-ln - Življenjske zgodbe o sestavljenih identitetah</naslov>
         <cit did="3049" cid="17" avtor0="Milharčič Hladnik M."
             naslov0="ln-ln - Življenjske zgodbe o sestavljenih identitetah" pubPlace="Ljubljana"
@@ -13175,7 +13175,7 @@
             naslov0="Lo sguardo vagabondo: Il flaneur e la città da Baudelaire ai postmoderni"
             pubPlace="Bologna" publisher="Il mulino" year="2006"/>
     </delo>
-    <delo mojID="23629">
+    <delo mojID="23629" cobiss="22887431">
         <naslov>Lo spazio letterario</naslov>
         <cit did="1479" cid="16" avtor0="Gibellini P., Oliva G., Tesio G."
             naslov0="Lo spazio letterario" pubPlace="Brescia" publisher="La scuola" year="1991"/>
@@ -13221,7 +13221,7 @@
             naslov0="Lo Stato criminale: i genocido del XX secolo" pubPlace="Milano"
             publisher="Corbaccio" year="1997" page="49-50"/>
     </delo>
-    <delo mojID="23636">
+    <delo mojID="23636" cobiss="2740084">
         <naslov>Lo Stato-partito del fascismo: Genesi, evoluzione e crisi 1919–1943</naslov>
         <cit did="2797" cid="3" avtor0="Di Nucci Loreto"
             naslov0="Lo Stato-partito del fascismo: Genesi, evoluzione e crisi 1919–1943"
@@ -13337,24 +13337,24 @@
             source="The Managment Of Cities in The Information Age" pubPlace="London"
             publisher="Earthscan Publictions" year="1997"/>
     </delo>
-    <delo mojID="23655">
+    <delo mojID="23655" cobiss="31304961">
         <naslov>Local Chronik der Edlinge von Tüchern</naslov>
         <cit did="2269" cid="20" avtor0="Pečnak Josef"
             naslov0="Local Chronik der Edlinge von Tüchern" pubPlace="Cilli-Celje" year="0"/>
     </delo>
-    <delo mojID="23656">
+    <delo mojID="23656" cobiss="222596608">
         <naslov>Local Consultative Bodies for Foreign Residents</naslov>
         <cit did="2683" cid="12" avtor0="Gsir Sonja" avtor1="Martiniello Marco"
             naslov0="Local Consultative Bodies for Foreign Residents" naslov1="a handbook"
             pubPlace="Strasbourg" publisher="Council of Europe Publishing" year="2004"/>
     </delo>
-    <delo mojID="23657">
+    <delo mojID="23657" cobiss="113071">
         <naslov>Local identities and the integration of refugees</naslov>
         <cit did="3031" cid="11" avtor0="Lindholmer Doris"
             naslov0="Local identities and the integration of refugees" source="Regional contact"
             year="1998" volume="12" issue="13" page="135-142"/>
     </delo>
-    <delo mojID="23658">
+    <delo mojID="23658" cobiss="24156258">
         <naslov>Local Knowledge. Further Essays in Interpretive Anthropology</naslov>
         <cit did="2719" cid="6" avtor0="Geertz Clifford"
             naslov0="Local Knowledge. Further Essays in Interpretive Anthropology"
@@ -13411,7 +13411,7 @@
             source="Latinska paleografija i diplomatika" pubPlace="Zagreb" year="2005"
             page="202-205"/>
     </delo>
-    <delo mojID="23674">
+    <delo mojID="23674" cobiss="14521442">
         <naslov>L'odierna Slovenia</naslov>
         <cit did="2171" cid="20" avtor0="Bratož Rajko" avtor1="Ciglenečki S."
             naslov0="L'odierna Slovenia" source="AAAd" year="2000" volume="47" page="489-533"/>
@@ -13452,14 +13452,14 @@
             source="Neue Welten, Wilhelm Olbers und die Naturwissenschaften um 1800"
             pubPlace="Braunschweig" year="2001" page="162-175"/>
     </delo>
-    <delo mojID="23680">
+    <delo mojID="23680" cobiss="43529728">
         <naslov>Logarithmische, trigonometrische, und andere zum Gebrauche der Mathematik
                         eingerichtete Tafeln und Formeln</naslov>
         <cit did="58" cid="55" avtor0="Vega Jurij"
             naslov0="Logarithmische, trigonometrische, und andere&#xA;zum Gebrauche der Mathematik eingerichtete Tafeln und Formeln"
             pubPlace="Wien" year="0" page="419"/>
     </delo>
-    <delo mojID="23681">
+    <delo mojID="23681" cobiss="2644313">
         <naslov>Logarithmisch-trigonometrisches Handbuch : anstatt der kleinen Vlackischen,
                         Wolfischen, und andern dergleichen, meistens sehr fehlerhaften,
                         logarithmisch-trigonometrischen Tafeln, für die Mathematikbeflissenen
@@ -13468,18 +13468,18 @@
             naslov0="Logarithmisch-trigonometrisches Handbuch : anstatt der kleinen Vlackischen,&#xA;Wolfischen, und andern dergleichen, meistens sehr fehlerhaften,&#xA;logarithmisch-trigonometrischen Tafeln, für die Mathematikbeflissenen&#xA;eingerichtet"
             pubPlace="Leipzig" year="0"/>
     </delo>
-    <delo mojID="23684">
+    <delo mojID="23684" cobiss="22185728">
         <naslov>Logatec. črtice iz življenja kraja in obeh župnij</naslov>
         <cit did="2633" cid="15" avtor0="Kompare Tone"
             naslov0="Logatec. črtice iz življenja kraja in obeh župnij" pubPlace="Logatec"
             year="1990"/>
     </delo>
-    <delo mojID="23685">
+    <delo mojID="23685" cobiss="120072448">
         <naslov>Logaška lekama</naslov>
         <cit did="2633" cid="12" avtor0="Jerič Tilka" naslov0="Logaška lekama" pubPlace="Logatec"
             year="2002"/>
     </delo>
-    <delo mojID="23686">
+    <delo mojID="23686" cobiss="3412379">
         <naslov>Logaško okrajno glavarstvo</naslov>
         <cit did="2634" cid="37" avtor0="Ribnikar Vojteh" naslov0="Logaško okrajno glavarstvo"
             pubPlace="Logatec" publisher="Društvo učiteljev in šolskih prijateljev" year="0"/>
@@ -13498,7 +13498,7 @@
             naslov0="Logiche meticce. Antropologia deiridentita in Africa e altrove"
             pubPlace="Torino" publisher="Bollati Boringhieri" year="1999"/>
     </delo>
-    <delo mojID="23689">
+    <delo mojID="23689" cobiss="73336320">
         <naslov>Logika znanstvenega odkritja</naslov>
         <cit did="421" cid="20" avtor0="Popper K." naslov0="Logika znanstvenega odkritja"
             pubPlace="Ljubljana" publisher="Studia humanitatis" year="1998"/>
@@ -13516,7 +13516,7 @@
             naslov0="Logische meticce: antropologia dell9identita in Africa e altrove"
             pubPlace="Torino" year="1999"/>
     </delo>
-    <delo mojID="23692">
+    <delo mojID="23692" cobiss="9250561">
         <naslov>Logično filozofski traktat</naslov>
         <cit did="1905" cid="9" avtor0="Wittgenstein Ludwig" naslov0="Logično filozofski traktat"
             pubPlace="Ljubljana" year="1976"/>
@@ -13539,29 +13539,29 @@
         <cit did="213" cid="130" avtor0="Pirc Vanja" naslov0="Lojze Petrle, evropski poslanec"
             source="Mladina" pubPlace="Ljubljana" year="0" issue="33" page="33-35"/>
     </delo>
-    <delo mojID="23696">
+    <delo mojID="23696" cobiss="106951424">
         <naslov>Lojze Spacal</naslov>
         <cit did="1933" cid="1" avtor0="Badovinac Z. et al." naslov0="Lojze Spacal"
             pubPlace="Ljubljana" publisher="Moderna galerija" year="2000"/>
     </delo>
-    <delo mojID="23697">
+    <delo mojID="23697" cobiss="6234418">
         <naslov>Lojze Spacal</naslov>
         <cit did="1933" cid="3" avtor0="Bassin A." naslov0="Lojze Spacal" pubPlace="Maribor - Trst"
             publisher="Založba obzorja Maribor - Zalozništvo trzaškega tiska" year="1967"/>
     </delo>
-    <delo mojID="23699">
+    <delo mojID="23699" cobiss="35053313">
         <naslov>Lojze Spacal, grafika 1937-1972</naslov>
         <cit did="1933" cid="23" avtor0="Kržišnik Z., Krečič P."
             naslov0="Lojze Spacal, grafika 1937-1972" pubPlace="Nova Gorica"
             publisher="Goriški muzej Nova Gorica" year="1972"/>
     </delo>
-    <delo mojID="23700">
+    <delo mojID="23700" cobiss="58347264">
         <naslov>Lojze Spacal, kolaži - mešana tehnika 1990-1995</naslov>
         <cit did="1933" cid="28" avtor0="Kržišnik Z."
             naslov0="Lojze Spacal, kolaži -  mešana tehnika 1990-1995" pubPlace="Kranj"
             publisher="Galerija Bevisa" year="1996"/>
     </delo>
-    <delo mojID="23703">
+    <delo mojID="23703" cobiss="2963457">
         <naslov>Lojze Ude, Slovenci in jugoslovanska skupnost</naslov>
         <cit did="1662" cid="132" avtor0="Ude Lojze"
             naslov0="Lojze Ude, Slovenci in jugoslovanska skupnost" pubPlace="Maribor" year="1972"/>
@@ -13578,26 +13578,26 @@
             source="Mitteilungen des Musealvereines für Krain" year="1904" issue="27" page="151-192"
         />
     </delo>
-    <delo mojID="23707">
+    <delo mojID="23707" cobiss="10093645">
         <naslov>Lokale Identitäten im viersprachigen Kanaltal/Kanalska dolina</naslov>
         <cit did="2733" cid="25" avtor0="Vavti Stefanie" avtor1="Steinicke Ernst"
             naslov0="Lokale Identitäten im viersprachigen Kanaltal/Kanalska dolina" source="RiG"
             pubPlace="Ljubljana" publisher="INV" year="2005" issue="47" page="102–121"/>
     </delo>
-    <delo mojID="23708">
+    <delo mojID="23708" cobiss="230038528">
         <naslov>Lokalna oblast na Slovenskem 1945-1955</naslov>
         <cit did="2017" cid="37" avtor0="Kopač Janez"
             naslov0="Lokalna oblast na Slovenskem 1945-1955" pubPlace="Ljubljana-Kranj" year="2006"
         />
     </delo>
-    <delo mojID="23711">
+    <delo mojID="23711" cobiss="239685120">
         <naslov>Lokalna zgodovina pri družboslovnih predmetih v osnovni in srednji
                         šoli</naslov>
         <cit did="3177" cid="1" avtor0="Kukanja Gabrijelčič Mojca"
             naslov0="Lokalna zgodovina pri družboslovnih predmetih v osnovni in srednji šoli"
             pubPlace="Ljubljana" year="2008"/>
     </delo>
-    <delo mojID="23712">
+    <delo mojID="23712" cobiss="32671842">
         <naslov>Lokalna zgodovina: pri pouku zgodovine na celjskih osnovnih šolah</naslov>
         <cit did="2454" cid="2" avtor0="Krašovec K."
             naslov0="Lokalna zgodovina: pri pouku zgodovine na celjskih osnovnih šolah"
@@ -13627,7 +13627,7 @@
         <cit did="1663" cid="50" avtor0="Stephen C. Fanning" naslov0="Lombard Arianism Reconsidered"
             source="Speculum" year="1981" issue="56" page="241-258"/>
     </delo>
-    <delo mojID="23719">
+    <delo mojID="23719" cobiss="2116588">
         <naslov>L'ombra di Gladio</naslov>
         <cit did="720" cid="14" avtor0="Cernigoi Claudia" naslov0="L'ombra di Gladio"
             source="Le foibe tra mito ed eversione :  la Nuova Alabarda e la Coda del Diavolo"
@@ -13643,7 +13643,7 @@
         <cit did="634" cid="4" avtor0="Paris Erna" naslov0="Long Shadows - Truth, Lies and History"
             pubPlace="London" year="2002"/>
     </delo>
-    <delo mojID="23725">
+    <delo mojID="23725" cobiss="107729408">
         <naslov>Long-Distance Nationalism</naslov>
         <cit did="599" cid="6" avtor0="Skrbiš Zlatko" naslov0="Long-Distance Nationalism"
             naslov1="Diasporas, Homelands and Identities" pubPlace="Singapore, Sydney"
@@ -13655,7 +13655,7 @@
             source="Rivista penale" pubPlace="Roma" year="1935" volume="6" issue="1-4" page="77-81"
         />
     </delo>
-    <delo mojID="23727">
+    <delo mojID="23727" cobiss="2912090">
         <naslov>Longing for Running Water</naslov>
         <cit did="106" cid="47" avtor0="Gebara Ivone" naslov0="Longing for Running Water"
             pubPlace="Minneapolis" publisher="Fortres Press" year="1999"/>
@@ -13682,7 +13682,7 @@
             pubPlace="Zagreb" publisher="Državni zavod za zaštitu obitelji, materinstva i mladeži"
             year="2004"/>
     </delo>
-    <delo mojID="23731">
+    <delo mojID="23731" cobiss="178131">
         <naslov>L'onore delle magistrature: per un'individuazione della 'cultura politica'
                         delle istituzioni in eta moderna - note su alcuni libri recenti</naslov>
         <cit did="1995" cid="30" avtor0="De Benedictis A."
@@ -13700,18 +13700,18 @@
             naslov0="L'ONU e morta a Sarajevo : dal genocidio alla spartizione" pubPlace="Milano"
             publisher="II Saggiatore" year="1996"/>
     </delo>
-    <delo mojID="23734">
+    <delo mojID="23734" cobiss="47838720">
         <naslov>Lončar in Masaryk</naslov>
         <cit did="278" cid="17" avtor0="Gantar Godina Irena" naslov0="Lončar in Masaryk"
             pubPlace="Ljubljana" publisher="Slovenska Matica" year="1994"/>
     </delo>
-    <delo mojID="23736">
+    <delo mojID="23736" cobiss="634835">
         <naslov>Lončarske delavnice</naslov>
         <cit did="1952" cid="14" avtor0="Guštin M." naslov0="Lončarske delavnice"
             source="Srednjeveška in novoveška keramika iz Pirana in Svetega Ivana: Ceramiche medievali e postmedievali da Pirano e San Giovanni: Srednjovjekovna i novovjekovna keramika iz Pirana i Svetog Ivana. Annales Mediterranea"
             pubPlace="Koper" publisher="Zalozba Annales" year="2004" page="53-65"/>
     </delo>
-    <delo mojID="23737">
+    <delo mojID="23737" cobiss="50295552">
         <naslov>Lončarsko-opekarska delavnica v rimski obrtniški četrti na Ptuju</naslov>
         <cit did="2069" cid="47" avtor0="Vomer Gojkovič M."
             naslov0="Lončarsko-opekarska delavnica v rimski obrtniški četrti na Ptuju"
@@ -13725,13 +13725,13 @@
             publisher="Osnovna šola Leskovec, Podružnična šob Veliki Podlog. Veliki Podlog"
             year="2002" page="17-20"/>
     </delo>
-    <delo mojID="23740">
+    <delo mojID="23740" cobiss="1676339">
         <naslov>Lončarstvo v Prekmurju</naslov>
         <cit did="3065" cid="14" avtor0="Novak Vilko" naslov0="Lončarstvo v Prekmurju"
             source="Slovenski etnograf" pubPlace="Ljubljana" publisher="DZS" year="1951" issue="3/4"
             page="111-131"/>
     </delo>
-    <delo mojID="23741">
+    <delo mojID="23741" cobiss="20178989">
         <naslov>Lončenina na Gorenjem Mokronogu in vprašanje prevzema lončarskih
                         znanj</naslov>
         <cit did="2534" cid="29" avtor0="Pleterski Andrej, Belak Mateja"
@@ -13739,7 +13739,7 @@
             source="Zgodnji Slovani. Zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp"
             pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="98-103"/>
     </delo>
-    <delo mojID="23742">
+    <delo mojID="23742" cobiss="24487469">
         <naslov>Lončenina s kamniskega Malega gradu. Izkopavanja 1992</naslov>
         <cit did="1948" cid="33" avtor0="Štular B."
             naslov0="Lončenina s kamniskega Malega gradu. Izkopavanja 1992"
@@ -13753,7 +13753,7 @@
             naslov0="Looking white people in the eye: Gendr, race, and culture in courtrooms and classrooms"
             pubPlace="Toronto, ON" publisher="University of Toronto Press" year="1998"/>
     </delo>
-    <delo mojID="23745">
+    <delo mojID="23745" cobiss="1013971">
         <naslov>L'opera dans l'arene du provincialisme et du nationalisme: Un regard
                         anthropologique sur la culture d'opera en Slovenie</naslov>
         <cit did="2018" cid="178" avtor0="Kotnik V."
@@ -13876,13 +13876,13 @@
         <cit did="2090" cid="17" avtor0="Grossi P." naslov0="L'ordine giuridico medievale"
             pubPlace="Bari" publisher="Laterza" year="1995"/>
     </delo>
-    <delo mojID="23767">
+    <delo mojID="23767" cobiss="687717">
         <naslov>L'ordine psichiatrico</naslov>
         <cit did="1488" cid="13" avtor0="Castel R." naslov0="L'ordine psichiatrico"
             source="L'epoca d'oro dell'alienismo" pubPlace="Milano" publisher="Feltrinelli"
             year="1980"/>
     </delo>
-    <delo mojID="23768">
+    <delo mojID="23768" cobiss="683365">
         <naslov>L'ordre psychiatrique</naslov>
         <cit did="1488" cid="12" avtor0="Castel R." naslov0="L'ordre psychiatrique"
             source="L'àge de l'aliénisme" pubPlace="Paris" publisher="Minuit" year="1976"/>
@@ -13967,7 +13967,7 @@
             naslov0="L'oro verde. I boschi nello Stato pontificio tra XVIII e XIX secolo"
             pubPlace="Bologna" publisher="Clueb" year="2003"/>
     </delo>
-    <delo mojID="23783">
+    <delo mojID="23783" cobiss="3480928">
         <naslov>Loron : un grand centre de production d'amphores a huile istriennes</naslov>
         <cit did="421" cid="34" avtor0="Tassaux Francis, Matijašić Robert, Kovačić Vladimir"
             naslov0="Loron : un grand centre de production d'amphores a huile istriennes"
@@ -14019,7 +14019,7 @@
             source="Reunión de Investigadores del Area Zoque" pubPlace="Tecpatán"
             publisher="Chiapas" year="1989" page="66-74"/>
     </delo>
-    <delo mojID="23792">
+    <delo mojID="23792" cobiss="1002125">
         <naslov>Loss. The politics of mourning</naslov>
         <cit did="2904" cid="29" avtor0="Eng David" avtor1="Kazanjian David"
             naslov0="Loss. The politics of mourning" pubPlace="Berkeley"
@@ -14030,7 +14030,7 @@
         <cit did="2290" cid="5" avtor0="Hilton James" naslov0="Lost Horizon" pubPlace="Nevv York"
             publisher="Morrow" year="1933"/>
     </delo>
-    <delo mojID="23794">
+    <delo mojID="23794" cobiss="1627764">
         <naslov>Lost momentum : austrian economic development 1750s-1830s</naslov>
         <cit did="109" cid="3" avtor0="Freudenberger Herman"
             naslov0="Lost momentum : austrian economic development&#xA;1750s-1830s"
@@ -14041,13 +14041,13 @@
         <cit did="1513" cid="72" avtor0="Goldman Marshall" naslov0="Lost Opportunity"
             pubPlace="New York" publisher="Norton" year="1994"/>
     </delo>
-    <delo mojID="23796">
+    <delo mojID="23796" cobiss="37887842">
         <naslov>Lost time</naslov>
         <cit did="975" cid="9" avtor0="Gross David" naslov0="Lost time"
             naslov1="On Remembering and Forgetin in late Modern Culture" pubPlace="Amherst"
             publisher="University of Massachusetts Press" year="2000"/>
     </delo>
-    <delo mojID="23797">
+    <delo mojID="23797" cobiss="902285">
         <naslov>L'oubli de la cite: la memoire collective a l'epreuve du lignage dans le
                         jerid tunisien</naslov>
         <cit did="1513" cid="54" avtor0="Dakhlia Jocelyne"
@@ -14091,7 +14091,7 @@
             source="Http://www.docin.com/p-16766551.html (4. 6. 2010)" pubPlace="Toronto"
             year="2001"/>
     </delo>
-    <delo mojID="23805">
+    <delo mojID="23805" cobiss="23443293">
         <naslov>Love Online. Emotions on the Internet</naslov>
         <cit did="3042" cid="4" avtor0="Ben Ze'ev A."
             naslov0="Love Online. Emotions on the Internet" pubPlace="Cambridge"
@@ -14131,7 +14131,7 @@
             naslov0="Loška dolina z Babnim Poljem. II. del." pubPlace="Ljubljana"
             publisher="Družina" year="2002"/>
     </delo>
-    <delo mojID="23822">
+    <delo mojID="23822" cobiss="60993281">
         <naslov>Loški grad, leto 1315 in bojna oprema posameznika</naslov>
         <cit did="3249" cid="24" avtor0="Plemeniti Nenad"
             naslov0="Loški grad, leto 1315 in bojna oprema posameznika"
@@ -14198,7 +14198,7 @@
         <cit did="743" cid="21" avtor0="Portelli A." naslov0="L'uccisione di Luigi Trastulli"
             source="Provinca di Treni" pubPlace="Treni" year="1999"/>
     </delo>
-    <delo mojID="23834">
+    <delo mojID="23834" cobiss="2305376">
         <naslov>Lucerne del Museo di Aquileia</naslov>
         <cit did="1946" cid="2" avtor0="Buchi E." naslov0="Lucerne del Museo di Aquileia"
             pubPlace="Aquileia" publisher="Associazione Nazionale per Aquileia" year="1975"/>
@@ -14226,7 +14226,7 @@
             naslov0="&#34;Lucius Cotta and Metellus&#34;: Roman Campaigns in Illyria during the Late Second Century"
             source="Athenaeum" year="1971" volume="49" page="271-301"/>
     </delo>
-    <delo mojID="23843">
+    <delo mojID="23843" cobiss="7704621">
         <naslov>Lucky country Where?</naslov>
         <cit did="599" cid="9" avtor0="Čebulj Sajko Breda" naslov0="Lucky country Where?"
             source="Soočenje mita in realnosti ob prihodu izseljencev v novo okolje, zbornik"
@@ -14256,7 +14256,7 @@
             naslov0="Ludwig Feuerbach e il punto d'approdo délia filosofía classica tedesca"
             pubPlace="Roma" publisher="Editori Riuniti" year="1969"/>
     </delo>
-    <delo mojID="23849">
+    <delo mojID="23849" cobiss="22327809">
         <naslov>Ludwig Wittgenstein</naslov>
         <cit did="421" cid="1" avtor0="Baum W." naslov0="Ludwig Wittgenstein"
             source="Med mistiko in logiko" pubPlace="Celovec" publisher="Mohorjeva družba"
@@ -14321,7 +14321,7 @@
             source="Die Universiät Wien im Konzert europäischer Bildungszentren. 14.-16. Jahrhundert"
             pubPlace="Wien-München" year="2010" page="234-244"/>
     </delo>
-    <delo mojID="23864">
+    <delo mojID="23864" cobiss="512082211">
         <naslov>L'ultima Guerra Dell' impero Austro-Ungarico</naslov>
         <cit did="2015" cid="32" avtor0="Scopani P."
             naslov0="L'ultima Guerra Dell' impero Austro-Ungarico" pubPlace="Vicenza"
@@ -14346,7 +14346,7 @@
         <cit did="2977" cid="9" avtor0="Garin Eugenio" naslov0="L'Umanesimo italiano"
             pubPlace="Bari" publisher="Laterza" year="1958" page="45"/>
     </delo>
-    <delo mojID="23868">
+    <delo mojID="23868" cobiss="512014627">
         <naslov>L'undicesima battaglia</naslov>
         <cit did="1315" cid="48" avtor0="Unia Gerardo" naslov0="L'undicesima battaglia"
             pubPlace="Dronero" publisher="Edizioni L'Arciere" year="2000" page="145"/>
@@ -14375,7 +14375,7 @@
             naslov0="L'Union forcecee: La Croatie et la creation de l'Etat yougoslave (1918)"
             pubPlace="Geneve" year="1997"/>
     </delo>
-    <delo mojID="23874">
+    <delo mojID="23874" cobiss="316660">
         <naslov>L'università italiana a Trieste</naslov>
         <cit did="1317" cid="181" avtor0="Pasini Ferdinando"
             naslov0="L'università italiana a Trieste" pubPlace="Firenze" year="1910"/>
@@ -14472,7 +14472,7 @@
             naslov0="Luther im Spiegel der deutchen Geistesgeschichte..." pubPlace="Heidelberg"
             year="1955" page="31-60"/>
     </delo>
-    <delo mojID="23889">
+    <delo mojID="23889" cobiss="13917953">
         <naslov>Luther, Njegovo življenje in čas</naslov>
         <cit did="2711" cid="2" avtor0="Friedenthal Richard"
             naslov0="Luther, Njegovo življenje in čas" pubPlace="Murska Sobota" year="1983"
@@ -14483,7 +14483,7 @@
         <cit did="2693" cid="31" avtor0="Buszin Walter E." naslov0="Luther on Music"
             source="The Musical Quarterly" year="1946" volume="1" page="80-97"/>
     </delo>
-    <delo mojID="23891">
+    <delo mojID="23891" cobiss="8405763">
         <naslov>Luther und die Reformation, Beiträge zu einem ökumenischen
                         Lutherverständnis</naslov>
         <cit did="2704" cid="1" avtor0="Iserloch Erwin"
@@ -14497,7 +14497,7 @@
             naslov0="Luthers Lehre von den drei Ständen und die drei Dimensionen der Ethik"
             source="Luterjahrbuch" year="1978" volume="45" page="15-34"/>
     </delo>
-    <delo mojID="23893">
+    <delo mojID="23893" cobiss="2807136">
         <naslov>Luthers Lehre von drei Hierarchien und ihr mittelalterlicher
                         Hintergrund</naslov>
         <cit did="2691" cid="16" avtor0="Maurer Wilhelm"
@@ -14548,7 +14548,7 @@
             naslov1="spominsko dokumentirana zgodba o vojakih 87. pešpolka  -IR 87"
             pubPlace="Maribor" year="2004"/>
     </delo>
-    <delo mojID="23901">
+    <delo mojID="23901" cobiss="233722368">
         <naslov>Luč, tema in naše sence</naslov>
         <cit did="2287" cid="74" avtor0="Rošker Cilka, Rošker Janez"
             naslov0="Luč, tema in naše sence" pubPlace="Leskovec pri Krškem" publisher="Samozaložba"
@@ -14611,7 +14611,7 @@
             source="Inter-Allied Conference on War Medicine Convened by the Royal Society of Medicine"
             pubPlace="Praha" year="1948"/>
     </delo>
-    <delo mojID="23913">
+    <delo mojID="23913" cobiss="524404">
         <naslov>L'élite del potere a Trieste</naslov>
         <cit did="391" cid="25" avtor0="Millo Anna" naslov0="L'élite del potere a Trieste"
             naslov1="Una biografia collettiva, 1891-1938" pubPlace="Milano"
@@ -14622,12 +14622,12 @@
         <cit did="3535" cid="27" avtor0="Assouline Pierre" naslov0="L'épuration des intellectuels"
             pubPlace="Bruxelles" year="1985"/>
     </delo>
-    <delo mojID="23915">
+    <delo mojID="23915" cobiss="2437236">
         <naslov>L'Épuration ou la fin d'un monde</naslov>
         <cit did="3535" cid="15" avtor0="Gillieth Pierre" naslov0="L'Épuration ou la fin d'un monde"
             pubPlace="Grez-sur-Loing" year="2007"/>
     </delo>
-    <delo mojID="23916">
+    <delo mojID="23916" cobiss="1284689">
         <naslov>L’état de droit: Émergence d’un principe du droit international</naslov>
         <cit did="2703" cid="38" avtor0="Morin Jacques‑Yvan"
             naslov0="L’état de droit: Émergence d’un principe du droit international"
