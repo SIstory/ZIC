@@ -16944,12 +16944,12 @@
         <cit did="2614" cid="12" avtor0="Šoštarić N." naslov0="Matematski model solane"
             pubPlace="Zagreb" year="1965"/>
     </delo>
-    <delo mojID="24420">
+    <delo mojID="24420" cobiss="515068731">
         <naslov>Mater ecclesiae-Presveta Bogorodica</naslov>
         <cit did="1273" cid="5" avtor0="Turnšek Metod" naslov0="Mater ecclesiae-Presveta Bogorodica"
             pubPlace="Celovec" year="1969"/>
     </delo>
-    <delo mojID="24421">
+    <delo mojID="24421" cobiss="1251889">
         <naslov>Materada</naslov>
         <cit did="418" cid="34" avtor0="Tomizza Fulvio" naslov0="Materada" pubPlace="Milano"
             publisher="Mondadori" year="1960"/>
@@ -17001,7 +17001,7 @@
             naslov0="Materialne osnove šolstva v RS Sloveniji" source="Prikazi in študije"
             year="1955" volume="5" page="19-21"/>
     </delo>
-    <delo mojID="24437">
+    <delo mojID="24437" cobiss="3499098">
         <naslov>Materialni dokazi navzočnosti freisinških škofov na Slovenskem</naslov>
         <cit did="2217" cid="1" avtor0="Ambrožič Matjaž"
             naslov0="Materialni dokazi navzočnosti freisinških škofov na Slovenskem"
@@ -17009,7 +17009,7 @@
             pubPlace="Ljubljana - Škofja Loka"
             publisher="Založba ZRC in Muzejsko društvo Skofja Loka" year="2005" page="203-224"/>
     </delo>
-    <delo mojID="24438">
+    <delo mojID="24438" cobiss="869492">
         <naslov>Materialni položaj duhovnikov kranjskega dela ljubljanske škofije od konca
                         15. do srede 16. stoletja</naslov>
         <cit did="2583" cid="223" avtor0="Žnidaršič  Liljana"
@@ -17017,14 +17017,14 @@
             source="Vilfanov zbornik. Pravo - zgodovina - narod" pubPlace="Ljubljana" year="1999"
             page="245-255"/>
     </delo>
-    <delo mojID="24440">
+    <delo mojID="24440" cobiss="66088">
         <naslov>Materialno varovanje klasičnih in novih nosilcev informacij v
                         arhivih</naslov>
         <cit did="2843" cid="51" avtor0="Klasinc Peter P."
             naslov0="Materialno varovanje klasičnih in novih nosilcev informacij v arhivih"
             pubPlace="Maribor" year="1992"/>
     </delo>
-    <delo mojID="24441">
+    <delo mojID="24441" cobiss="596869">
         <naslov>Materialno varstvo novejših nosilcev zapisov v ISO standardih skupine
                         18900</naslov>
         <cit did="2843" cid="47" avtor0="Čibej Nada"
@@ -17038,13 +17038,13 @@
             naslov0="Materiaux pour une typologie des structures trifonctonielles" source="L'Homme"
             year="1985" volume="93"/>
     </delo>
-    <delo mojID="24444">
+    <delo mojID="24444" cobiss="220776704">
         <naslov>Materinski mit</naslov>
         <cit did="226" cid="113" avtor0="Kristan Z." naslov0="Materinski mit"
             naslov1="Kultura, psihoanaliza, spolna razlika" pubPlace="Ljubljana" publisher="Delta"
             year="2005"/>
     </delo>
-    <delo mojID="24445">
+    <delo mojID="24445" cobiss="51917824">
         <naslov>Materinščina je imetje</naslov>
         <cit did="3076" cid="23" avtor0="Nečak Lük A." naslov0="Materinščina je imetje"
             source="Slovenski koledar" year="1993" page="48-52"/>
@@ -17090,7 +17090,7 @@
             naslov0="Mathematics in Vienna in the first half of thr 19th century" source="IMN"
             year="2004" page="27-36"/>
     </delo>
-    <delo mojID="24455">
+    <delo mojID="24455" cobiss="12274265">
         <naslov>Mathematiker-Anekdoten</naslov>
         <cit did="2544" cid="1" avtor0="Ahrens W." naslov0="Mathematiker-Anekdoten"
             pubPlace="Leipzig - Berlin" publisher="B. G. Treubner" year="1920"/>
@@ -17124,19 +17124,19 @@
             source="Dolenjski zbornik 1996" pubPlace="Novo mesto"
             publisher="Tiskarna Novo mesto, Dolenjska založba" year="1997" page="89-94"/>
     </delo>
-    <delo mojID="24462">
+    <delo mojID="24462" cobiss="788084">
         <naslov>Matija Kunc</naslov>
         <cit did="3289" cid="110" avtor0="Fischer Jasna" naslov0="Matija Kunc"
             source="Slovenski biografski leksikon : 6" pubPlace="Ljubljana"
             publisher="Zadružna gospodarska banka" year="1952" page="588-589"/>
     </delo>
-    <delo mojID="24463">
+    <delo mojID="24463" cobiss="722132">
         <naslov>Matija Majar i Hrvati</naslov>
         <cit did="1760" cid="133" avtor0="Pavličevič Dragutin" naslov0="Matija Majar i Hrvati"
             source="Matija Majar Ziljski" pubPlace="Celovec-Ljubljana-Dunaj" year="1995"
             page="163-181"/>
     </delo>
-    <delo mojID="24465">
+    <delo mojID="24465" cobiss="118973184">
         <naslov>Matija Malešič - vojni dnevnik 1914</naslov>
         <cit did="3386" cid="24" avtor0="Ciglar Jakob" naslov0="Matija Malešič - vojni dnevnik 1914"
             source="Vojnozgodovinski zbornik" year="2001" issue="6" page="28-43"/>
@@ -17148,18 +17148,18 @@
             source="Naše Prekmurje : zbrane razprave in članki / zbral, uredil in avtorjevo delo predstavil Viktor Vrbnjak"
             pubPlace="Murska Sobota" publisher="Pomurska založba" year="1999" page="315-348"/>
     </delo>
-    <delo mojID="24468">
+    <delo mojID="24468" cobiss="4193795">
         <naslov>Matija Valjavec - izbrani spisi za mladino</naslov>
         <cit did="2625" cid="21" avtor0="Erjavec Fran, Pavel Flerc"
             naslov0="Matija Valjavec - izbrani spisi za mladino" pubPlace="Ljubljana"
             publisher="Učiteljska tiskarna" year="1922"/>
     </delo>
-    <delo mojID="24473">
+    <delo mojID="24473" cobiss="1759489">
         <naslov>Matija Čop: Izbrani spisi (2. knjiga)</naslov>
         <cit did="2018" cid="170" avtor0="Kidrič F." naslov0="Matija Čop: Izbrani spisi (2. knjiga)"
             pubPlace="Ljubljana" publisher="SAZU" year="1978"/>
     </delo>
-    <delo mojID="24474">
+    <delo mojID="24474" cobiss="18575405">
         <naslov>Matija Žargi, Železarna na Dvoru ob Krki 1795-1891</naslov>
         <cit did="2606" cid="10" avtor0="Granda Stane"
             naslov0="Matija Žargi, Železarna na Dvoru ob Krki 1795-1891" source="Kronika"
@@ -17172,7 +17172,7 @@
             naslov0="Matične in družinske knjige kot vir za etnološko preučevanje družine"
             source="Etnološki pregled 11" pubPlace="Beograd" year="1973" page="99-103"/>
     </delo>
-    <delo mojID="24476">
+    <delo mojID="24476" cobiss="27601410">
         <naslov>Matične knjige iz 17. stoletja za župnijo Slovenska Bistrica</naslov>
         <cit did="2612" cid="62" avtor0="Koropec Jože"
             naslov0="Matične knjige iz 17. stoletja za župnijo Slovenska Bistrica"
@@ -17185,14 +17185,14 @@
             naslov0="Matične knjige u povijesnom arhivu u Pazinu" source="Vjesnik istarskog arhiva"
             year="1992" issue="2/3" page="277-309"/>
     </delo>
-    <delo mojID="24479">
+    <delo mojID="24479" cobiss="9950216">
         <naslov>Matjaževo gibanje in slovenska križarska vojska {1945-1950)</naslov>
         <cit did="2073" cid="4" avtor0="Bernard Petek"
             naslov0="Matjaževo gibanje in slovenska križarska vojska {1945-1950)"
             naslov1="Diplomsko delo" pubPlace="Maribor"
             publisher="Univerza v Mariboru, Pedagoška fakulteta" year="2000"/>
     </delo>
-    <delo mojID="24482">
+    <delo mojID="24482" cobiss="399827">
         <naslov>Matrimoni di antico regime</naslov>
         <cit did="277" cid="1" avtor0="Lombardi Daniela" naslov0="Matrimoni di antico regime"
             pubPlace="Bologna" publisher="Il Mulino" year="2001" page="205-210"/>
@@ -17202,7 +17202,7 @@
         <cit did="3309" cid="12" avtor0="De Nicola Alfonso" naslov0="Matrimonio e malattie sessuali"
             pubPlace="Trieste" publisher="Licinio Cappelli" year="1926"/>
     </delo>
-    <delo mojID="24484">
+    <delo mojID="24484" cobiss="120218112">
         <naslov>Matrimonio e onore di ceto: Una causa Udinese di fine settecento</naslov>
         <cit did="2632" cid="11" avtor0="Cargnegltitti L."
             naslov0="Matrimonio e onore di ceto: Una causa Udinese di fine settecento"
@@ -17216,7 +17216,7 @@
             source="Atti del Reale Istituto Veneto di Scienze, Lettere ed Arti" pubPlace="Venezia"
             year="0" volume="35" issue="2" page="823-911"/>
     </delo>
-    <delo mojID="24487">
+    <delo mojID="24487" cobiss="27125037">
         <naslov>Matthias Corvinus. Diplomat. Feldherr und Mäzen</naslov>
         <cit did="2588" cid="31" avtor0="Hoensch J."
             naslov0="Matthias Corvinus. Diplomat. Feldherr und Mäzen" pubPlace="Craz-Wien-Köln"
@@ -17263,12 +17263,12 @@
             source="Forschungen und Ergebnisse, Internationale Tagung uber romische Villen"
             pubPlace="Vszprem" year="1995" page="102-115"/>
     </delo>
-    <delo mojID="24498">
+    <delo mojID="24498" cobiss="22103808">
         <naslov>Mauthausen, spomini iz taborišča</naslov>
         <cit did="3022" cid="329" avtor0="Utović Mate" naslov0="Mauthausen, spomini iz taborišča"
             publisher="Partizanska knjiga" year="1980"/>
     </delo>
-    <delo mojID="24499">
+    <delo mojID="24499" cobiss="12319796">
         <naslov>Mauthausen, v spomin na žrtve odpora in Prežiha</naslov>
         <cit did="3022" cid="330" avtor0="Gerdović Bruno"
             naslov0="Mauthausen, v spomin na žrtve odpora in Prežiha" source="Korf" year="1964"
@@ -17281,7 +17281,7 @@
             source="Slovenci na Hrvaškem: dediščina in sedanjost = Knjižnica Glasnika Slovenskega etnološkega društva"
             pubPlace="Slovensko etnološko društvo" year="2006" issue="39" page="211-217"/>
     </delo>
-    <delo mojID="24501">
+    <delo mojID="24501" cobiss="6160901">
         <naslov>Max Fabiani Architetto</naslov>
         <cit did="2403" cid="26" avtor0="Pozzetto Marco" naslov0="Max Fabiani Architetto"
             pubPlace="Gorizia" year="0"/>
@@ -17342,12 +17342,12 @@
             naslov0="Mačevi 10.-15. slolječa iz Bosne i Hercegovine" pubPlace="Sarajevo" year="2004"
         />
     </delo>
-    <delo mojID="24515">
+    <delo mojID="24515" cobiss="11726087">
         <naslov>Mačevi. bodeži. noževi</naslov>
         <cit did="2587" cid="26" avtor0="Šercer M." naslov0="Mačevi. bodeži. noževi"
             source="Katalog muzejskih zbirki" pubPlace="Zagreb" volume="11"/>
     </delo>
-    <delo mojID="24517">
+    <delo mojID="24517" cobiss="6337544">
         <naslov>Mačkovšek, Janko</naslov>
         <cit did="1442" cid="41" avtor0="Vodušek Starič Jerca" naslov0="Mačkovšek, Janko"
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" publisher="Mladinska knjiga"
@@ -17364,7 +17364,7 @@
         <cit did="153" cid="22" avtor0="Grmič Vekoslav" naslov0="Maša za rodoljube" source="Dnevnik"
             pubPlace="Ljubljana" year="2024"/>
     </delo>
-    <delo mojID="24521">
+    <delo mojID="24521" cobiss="125308416">
         <naslov>Maškarada v gorah: življenje v Alpah nekoč in danes</naslov>
         <cit did="2848" cid="3" avtor0="Dekleva Majda"
             naslov0="Maškarada v gorah: življenje v Alpah nekoč in danes"
