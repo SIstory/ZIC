@@ -18127,7 +18127,7 @@
             naslov0="Medjunarodni odnosi socijalističke Jugoslavije" pubPlace="Beograd"
             publisher="Nolit" year="1976"/>
     </delo>
-    <delo mojID="24702">
+    <delo mojID="24702" cobiss="8251904">
         <naslov>Medklubski sestanek jugoslovanskih Penklubov v Celju in Rogaški Slatini
                         1938</naslov>
         <cit did="3154" cid="10" avtor0="Silvester Martin"
@@ -18140,7 +18140,7 @@
             naslov0="Medknjigami iz stare gornjegrajske knjiznice" source="Zbornik NUK"
             pubPlace="Ljubljana" year="1974" page="17-48"/>
     </delo>
-    <delo mojID="24704">
+    <delo mojID="24704" cobiss="1503443">
         <naslov>Medkulturna jezikovna vzgoja kot Aužbena vrednota in osebnostna
                         rast</naslov>
         <cit did="3076" cid="9" avtor0="Čok L."
@@ -18154,7 +18154,7 @@
             naslov0="Medkulturni dialog v gopodarstvu, Pogovor urednistva"
             source="Glasnik Unesco, marec 2008" year="2008" page="8-11"/>
     </delo>
-    <delo mojID="24708">
+    <delo mojID="24708" cobiss="6986061">
         <naslov>Mednarodna konferenca o manjšinah v Trstu</naslov>
         <cit did="857" cid="14" avtor0="Jeri Janko"
             naslov0="Mednarodna konferenca o manjšinah v Trstu"
@@ -18162,20 +18162,20 @@
             publisher="Cankarjeva založba, Primorski tisk, Založništvo Tržaškega tiska"
             page="491-504"/>
     </delo>
-    <delo mojID="24709">
+    <delo mojID="24709" cobiss="3689058">
         <naslov>Mednarodna listina o geografskem izobraževanju</naslov>
         <cit did="2001" cid="29" avtor0="Resnik Planine T."
             naslov0="Mednarodna listina o geografskem izobraževanju" source="Geografija v šoli"
             pubPlace="Ljubljana" year="1993" volume="3" page="147-153"/>
     </delo>
-    <delo mojID="24710">
+    <delo mojID="24710" cobiss="2057844">
         <naslov>Mednarodna uveljavitev jugoslovanskega osvobodilnega gibanja</naslov>
         <cit did="2800" cid="21" avtor0="Godeša Bojan"
             naslov0="Mednarodna uveljavitev jugoslovanskega osvobodilnega gibanja"
             source="Slovenska novejša zgodovina : od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1848–1992"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="24711">
+    <delo mojID="24711" cobiss="13171549">
         <naslov>Mednarodne evropske migracije in jugoslovanska migracijska politika</naslov>
         <cit did="2559" cid="6" avtor0="Klinar Peter"
             naslov0="Mednarodne evropske migracije in jugoslovanska migracijska politika"
@@ -18188,7 +18188,7 @@
             source="Evropa v precepu med svobodo in omejitvami migracij" pubPlace="Ljubljana"
             publisher="FDV" year="2002" page="18-44"/>
     </delo>
-    <delo mojID="24717">
+    <delo mojID="24717" cobiss="231115776">
         <naslov>Mednarodne razsežnosti pravnega varstva manjšin v Sloveniji</naslov>
         <cit did="2934" cid="7" avtor0="Klopčič Vera"
             naslov0="Mednarodne razsežnosti pravnega varstva manjšin v Sloveniji"
@@ -18201,7 +18201,7 @@
             source="http://www.stat.si/novica_prikazi.aspx?id=1342" pubPlace="Ljubljana"
             publisher="SURS"/>
     </delo>
-    <delo mojID="24719">
+    <delo mojID="24719" cobiss="51962368">
         <naslov>Mednarodni dokumenti o prenosu arhivov in nasledstvo arhivov SFRJ</naslov>
         <cit did="2843" cid="38" avtor0="Čarni Marija Oblak"
             naslov0="Mednarodni dokumenti o prenosu arhivov in nasledstvo arhivov SFRJ"
@@ -18220,7 +18220,7 @@
         <cit did="106" cid="342" avtor0="Janez Pavel II." naslov0="Mednarodno leto žensk"
             source="Cerkveni dokumenti" pubPlace="Ljubljana" year="1996" volume="62" page="29"/>
     </delo>
-    <delo mojID="24728">
+    <delo mojID="24728" cobiss="110031616">
         <naslov>Mednarodno pravno varstvo kulturne dediščine</naslov>
         <cit did="2843" cid="43" avtor0="Petrič Magdalena"
             naslov0="Mednarodno pravno varstvo kulturne dediščine" pubPlace="Ljubljana" year="2000"
@@ -18238,13 +18238,13 @@
         <cit did="1988" cid="11" avtor0="Gnirs A." naslov0="Medolino, römische Luxusvilla"
             source="Jahrbuch für Altertumskunde" pubPlace="Wien" year="1908" volume="2" page="157"/>
     </delo>
-    <delo mojID="24738">
+    <delo mojID="24738" cobiss="39028224">
         <naslov>Medosebno komuniciranje in kontaktna kultura</naslov>
         <cit did="2625" cid="118" avtor0="Trček Jože"
             naslov0="Medosebno komuniciranje in kontaktna kultura" pubPlace="Ljubljana"
             publisher="Didakta" year="1994"/>
     </delo>
-    <delo mojID="24741">
+    <delo mojID="24741" cobiss="30157410">
         <naslov>Medpredmetno povezovanje pri pouku zgodovine</naslov>
         <cit did="2467" cid="2" avtor0="Gros Novak A."
             naslov0="Medpredmetno povezovanje pri pouku zgodovine" naslov1="diplomsko delo"
@@ -18320,13 +18320,13 @@
         <cit did="2414" cid="3" avtor0="Babinger Franz" naslov0="Mehmed der Eroberer und seine Zeil"
             pubPlace="München" publisher="F. Bruckmann" year="1953"/>
     </delo>
-    <delo mojID="24758">
+    <delo mojID="24758" cobiss="17414662">
         <naslov>Mehmed Spaho (1883-1939): politička biografija</naslov>
         <cit did="3133" cid="142" avtor0="Kamberović Husnija"
             naslov0="Mehmed Spaho (1883-1939): politička biografija" pubPlace="Sarajevo" year="2009"
         />
     </delo>
-    <delo mojID="24759">
+    <delo mojID="24759" cobiss="3341825">
         <naslov>Mehovo</naslov>
         <cit did="2623" cid="195" avtor0="Reisp Branko" naslov0="Mehovo"
             source="51. zvezek Zbirke vodnikov Kulturni in naravni spomeniki Slovenije"
@@ -18344,7 +18344,7 @@
             naslov0="Mehrsprachigkeit in Schule und Unterricht" naslov1="diplomsko delo"
             pubPlace="Dunaj" year="1999"/>
     </delo>
-    <delo mojID="24763">
+    <delo mojID="24763" cobiss="6353977">
         <naslov>Mein Leben</naslov>
         <cit did="3141" cid="15" avtor0="Mahler Werfel Alma" naslov0="Mein Leben"
             pubPlace="Frankfurt am Main" publisher="Fischer Taschenbuch Verlag" year="1960"/>
@@ -18395,7 +18395,7 @@
         <cit did="1912" cid="47" avtor0="Hirt Franz Josef" naslov0="Meistenwerke des Klavierbaus"
             pubPlace="Olten" year="1955"/>
     </delo>
-    <delo mojID="24774">
+    <delo mojID="24774" cobiss="42343522">
         <naslov>Meister Michael: Baumeister der Herzoge von Österreich</naslov>
         <cit did="1588" cid="51" avtor0="Hassmann Elizabeth"
             naslov0="Meister Michael: Baumeister der Herzoge von Österreich"
@@ -18407,7 +18407,7 @@
             naslov0="Meisterwerke der Kapitolinischen Museen" pubPlace="Roma"
             publisher="Fratelli Palombi Editore" year="1996"/>
     </delo>
-    <delo mojID="24778">
+    <delo mojID="24778" cobiss="4770353">
         <naslov>Meja med Slovenijo in Hrvaško v Istri na kopnem in na morju</naslov>
         <cit did="1624" cid="112" avtor0="Velkaverh Gregor"
             naslov0="Meja med Slovenijo in Hrvaško v Istri na kopnem in na morju"
@@ -18425,7 +18425,7 @@
             naslov0="Mejaši, poizvedniki, glavarji" pubPlace="Ljubljana" publisher="Maks Blejc"
             year="1944"/>
     </delo>
-    <delo mojID="24781">
+    <delo mojID="24781" cobiss="218978560">
         <naslov>Meje in konfini: Rakitovec, vas kulturnih, družbenih in naravnih
                         prepletanj</naslov>
         <cit did="2625" cid="103" avtor0="Rožac  Darovec Vida"
@@ -18439,19 +18439,19 @@
         <cit did="634" cid="34" avtor0="Dežman Jože"
             naslov0="Meje zgodovine 1941-1945 v občini Šentvid" naslov1="rokopis, v tisku"/>
     </delo>
-    <delo mojID="24786">
+    <delo mojID="24786" cobiss="3785627">
         <naslov>Mejniki 20. stoletja</naslov>
         <cit did="2556" cid="20" avtor0="Viler Darko" naslov0="Mejniki 20. stoletja"
             source="Idrijski razgledi" year="2004" volume="49" issue="2" page="100-114"/>
     </delo>
-    <delo mojID="24789">
+    <delo mojID="24789" cobiss="453517">
         <naslov>Mejnost v zgornjekolpski dolini: upravljanje z identitetami skozi
                         sorodstveno mrežo</naslov>
         <cit did="1513" cid="95" avtor0="Kneževič Hočevar Duška"
             naslov0="Mejnost v zgornjekolpski dolini: upravljanje z identitetami skozi sorodstveno mrežo"
             naslov1="Doktorska disertacija" pubPlace="Ljubljana" publisher="ISH" year="1998"/>
     </delo>
-    <delo mojID="24791">
+    <delo mojID="24791" cobiss="6681910">
         <naslov>Mekinjska božična zibelka</naslov>
         <cit did="2590" cid="29" avtor0="Kuret Niko" naslov0="Mekinjska božična zibelka"
             source="Zbornik za umetnostno zgodovino" year="1959" volume="5 - 6" page="531-541"/>
@@ -18462,7 +18462,7 @@
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1993" volume="7"/>
     </delo>
-    <delo mojID="24793">
+    <delo mojID="24793" cobiss="244283">
         <naslov>Meksikajnarji</naslov>
         <cit did="2063" cid="14" avtor0="Ovsenar Tita" naslov0="Meksikajnarji" source="Kronika"
             year="1993" volume="42" issue="2" page="14-17"/>
@@ -18536,7 +18536,7 @@
         <cit did="169" cid="32" avtor0="Gestrin Ferdo" naslov0="Melik Vasilij, Slovenska zgodovina"
             source="Od konca 18. stoletja do 1918" pubPlace="Ljubljana" year="1966"/>
     </delo>
-    <delo mojID="24805">
+    <delo mojID="24805" cobiss="14525952">
         <naslov>Melodrama: žanr sreče in obupa</naslov>
         <cit did="1603" cid="10" avtor0="Štrajn Darko" naslov0="Melodrama: žanr sreče in obupa"
             source="Imago, revija Ekran" pubPlace="Ljubljana" year="1989"/>
@@ -18584,7 +18584,7 @@
         <cit did="2894" cid="33" avtor0="Bebler Aleš" naslov0="Memoari" pubPlace="Beograd"
             year="1982"/>
     </delo>
-    <delo mojID="24814">
+    <delo mojID="24814" cobiss="2807561">
         <naslov>Memoari</naslov>
         <cit did="663" cid="47" avtor0="Marmont Auguste Frederic Louis Viesse de" naslov0="Memoari"
             pubPlace="Split" publisher="Logos" year="1984" page="177, 204"/>
@@ -18595,7 +18595,7 @@
             source="7 celin in 40 let. Izbrani memoari" pubPlace="Zagreb" publisher="Delo-Globus"
             year="1980"/>
     </delo>
-    <delo mojID="24816">
+    <delo mojID="24816" cobiss="5629696">
         <naslov>Memoari 1925-1950</naslov>
         <cit did="3034" cid="16" avtor0="Kennan George F." naslov0="Memoari 1925-1950"
             pubPlace="Rijeka" publisher="Otokar Keršovani" year="1969" page="273"/>
@@ -18611,7 +18611,7 @@
             naslov0="Memoari sekretara Kominterne I." pubPlace="Beograd" publisher="Rad" year="1982"
         />
     </delo>
-    <delo mojID="24821">
+    <delo mojID="24821" cobiss="3070223">
         <naslov>Memoir of a Revolutionary</naslov>
         <cit did="3210" cid="56" avtor0="Đilas Milovan" naslov0="Memoir of a Revolutionary"
             pubPlace="New York" publisher="Harcourt Brace Jovanovich Publishers" year="1973"/>
@@ -18694,14 +18694,14 @@
             source="Studia Academica Slovaca" pubPlace="Bratislava"
             publisher="Univerzita Komenskeho" year="2011" volume="40" page="101-114"/>
     </delo>
-    <delo mojID="24837">
+    <delo mojID="24837" cobiss="1992529">
         <naslov>Memorandum o ekonomski politiki</naslov>
         <cit did="1283" cid="5" avtor0="Repe Božo, Mencinger Jože"
             naslov0="Memorandum o ekonomski politiki"
             source="Slovenska kronika XX. stoletja, knjiga 2 : 1941-1995" pubPlace="Ljubljana"
             publisher="Nova revija" year="1995" page="455"/>
     </delo>
-    <delo mojID="24838">
+    <delo mojID="24838" cobiss="4431852">
         <naslov>Memorandum of the Committee of the Yugoslavs from Italy about the Yugoslavs,
                         that is Slovenes and Croats, under Italy, and their Aspirations and
                         Claims</naslov>
@@ -18723,7 +18723,7 @@
             source="www.ena.lu/europe/1945-1949-precurseurs/memorandum-secret-jean-monnet-georges-bidault-1947.htm"
             year="1950"/>
     </delo>
-    <delo mojID="24841">
+    <delo mojID="24841" cobiss="56083713">
         <naslov>Memoria Austriae</naslov>
         <cit did="2822" cid="98" avtor0="Brix Emil" avtor1="Bruckmüller Ernst"
             naslov0="Memoria Austriae" pubPlace="Wien" publisher="Verlag für Geschichte und Politik"
@@ -18777,12 +18777,12 @@
         <cit did="424" cid="2" avtor0="Garzarolli E. de" naslov0="Memorie" pubPlace="Trieste"
             publisher="Zasebni arhiv" year="1951"/>
     </delo>
-    <delo mojID="24850">
+    <delo mojID="24850" cobiss="1533812">
         <naslov>Memorie 1939-1941</naslov>
         <cit did="71" cid="139" avtor0="Massola Umberto" naslov0="Memorie 1939-1941" pubPlace="Rim"
             year="1972"/>
     </delo>
-    <delo mojID="24851">
+    <delo mojID="24851" cobiss="86004">
         <naslov>Memorie autobiografiche</naslov>
         <cit did="386" cid="21" avtor0="De Franceschi Carlo" naslov0="Memorie autobiografiche"
             pubPlace="Trieste" year="1926"/>
@@ -18850,7 +18850,7 @@
             naslov0="Memory and Identity at the Borders of the Balkans" naslov1="doctoral thesis"
             pubPlace="Baltimore-Maryland" publisher="John Hopkins University" year="1998"/>
     </delo>
-    <delo mojID="24868">
+    <delo mojID="24868" cobiss="867725">
         <naslov>Memory and the postcolony: African anthropology and the critique of
                         power</naslov>
         <cit did="1513" cid="183" avtor0="Werner Richard"
@@ -18871,7 +18871,7 @@
             source="&#34;Victors and Victims : the Male Wartime Generation in East-Central Europe 1918&#34;"
             year="2005"/>
     </delo>
-    <delo mojID="24871">
+    <delo mojID="24871" cobiss="992141">
         <naslov>Memory perceived. Recalling the Holocaust.</naslov>
         <cit did="2904" cid="78" avtor0="Kraft Robert"
             naslov0="Memory perceived. Recalling the Holocaust." pubPlace="Westport, Conn."
@@ -18917,7 +18917,7 @@
             source="Clio: Rivista trimestrale di studi storici" pubPlace="Roma" publisher="Carucci"
             year="1997"/>
     </delo>
-    <delo mojID="24879">
+    <delo mojID="24879" cobiss="9179213">
         <naslov>Mengele. The complete story</naslov>
         <cit did="2904" cid="107" avtor0="Posner Gerald L." avtor1="Ware John"
             naslov0="Mengele. The complete story" pubPlace="New York"
@@ -18933,7 +18933,7 @@
         <cit did="2604" cid="126" avtor0="Stražar Stane" naslov0="Mengeš in Trzin skozi čas"
             pubPlace="Mengeš, Trzin" year="1994"/>
     </delo>
-    <delo mojID="24885">
+    <delo mojID="24885" cobiss="266868">
         <naslov>Menjava dinarjev za okupatorske valute</naslov>
         <cit did="1509" cid="67" avtor0="Lazarevič Žarko"
             naslov0="Menjava dinarjev za okupatorske valute"
@@ -18951,7 +18951,7 @@
         <cit did="3424" cid="62" avtor0="Debevec Fran" naslov0="Mens sana in corpore sano"
             source="Zdravje: priloga Prerodu" year="1925" volume="1" issue="6" page="89-90"/>
     </delo>
-    <delo mojID="24889">
+    <delo mojID="24889" cobiss="22904925">
         <naslov>Mensch und Raum</naslov>
         <cit did="1742" cid="5" avtor0="Bollnow Otto Friedrich" naslov0="Mensch und Raum"
             pubPlace="Stuttgart" year="1963"/>
@@ -18973,12 +18973,12 @@
         <cit did="3022" cid="175" avtor0="Stridsberg Jirku Gusti" naslov0="Menschen, Mächte und ich"
             pubPlace="Hamburg" year="1968"/>
     </delo>
-    <delo mojID="24893">
+    <delo mojID="24893" cobiss="5443936">
         <naslov>Menschenbilder und Menschenbild</naslov>
         <cit did="2266" cid="20" avtor0="Huth Christoph" naslov0="Menschenbilder und Menschenbild"
             source="Anthropomorphe Bildwerke der frühen Eisenzeit" pubPlace="Berlin" year="2003"/>
     </delo>
-    <delo mojID="24894">
+    <delo mojID="24894" cobiss="702605">
         <naslov>Mentalitete : Dvoumna zgodovina</naslov>
         <cit did="740" cid="26" avtor0="Le Goff J." naslov0="Mentalitete : Dvoumna zgodovina"
             source="Monitor ISH" pubPlace="Ljubljana" year="2001" volume="3" issue="1-2"
@@ -19030,7 +19030,7 @@
             naslov0="Meritve onesnaženosti zraka v Kopru od 18. januarja do 26. junija 2005"
             pubPlace="Ljubljana" publisher="Ministrstvo za okolje in prostor" year="2005"/>
     </delo>
-    <delo mojID="24905">
+    <delo mojID="24905" cobiss="34124">
         <naslov>Meroslovje na Slovenskem I</naslov>
         <cit did="57" cid="8" avtor0="Sever Martin" naslov0="Meroslovje na Slovenskem I"
             pubPlace="Ljubljana" year="1992" page="40-43"/>
@@ -19061,7 +19061,7 @@
         <cit did="2579" cid="13" avtor0="Melik Vasilij"
             naslov0="Mesta na Slovenskem v prvi tretjini 19. stoletja" year="1989" page="131-132"/>
     </delo>
-    <delo mojID="24911">
+    <delo mojID="24911" cobiss="42595841">
         <naslov>Mesta pokojnih</naslov>
         <cit did="1902" cid="15" avtor0="Tobias Franc" naslov0="Mesta pokojnih"
             pubPlace="Slovenska Bistrica" year="1998"/>
@@ -19073,12 +19073,12 @@
             naslov0="Mestieri di donne, mestieri di uomini: le corporazioni in età moderna"
             source="Il lavoro delle donne" pubPlace="Bari" year="1996" page="183-205"/>
     </delo>
-    <delo mojID="24914">
+    <delo mojID="24914" cobiss="50552832">
         <naslov>Mestna občina Celje, 1. del.</naslov>
         <cit did="77" cid="4" avtor0="Zdovc Hedvika" naslov0="Mestna občina Celje, 1. del."
             source="Inventarji" pubPlace="Celje" year="1994" volume="4" page="10-11"/>
     </delo>
-    <delo mojID="24915">
+    <delo mojID="24915" cobiss="6224182">
         <naslov>Mestna občina Kranj v zapisnikih občinskega odbora in občinskega sveta od
                         leta 1855 do leta 1865</naslov>
         <cit did="422" cid="28" avtor0="Stariha Gorazd"
@@ -19094,35 +19094,35 @@
             source="Kranjski zbornik 2000" pubPlace="Kranj" publisher="Mestna občina Kranj"
             year="2000" page="35-47"/>
     </delo>
-    <delo mojID="24917">
+    <delo mojID="24917" cobiss="31257344">
         <naslov>Mestna občina Maribor</naslov>
         <cit did="2604" cid="63" avtor0="Leskovec Antoša" naslov0="Mestna občina Maribor"
             source="Pokrajinski arhiv" pubPlace="Maribor" year="1991"/>
     </delo>
-    <delo mojID="24918">
+    <delo mojID="24918" cobiss="8497453">
         <naslov>Mestna občina Piran v diplomatskih pogajanjih glede v Istri</naslov>
         <cit did="3477" cid="24" avtor0="Mihelić Darja"
             naslov0="Mestna občina Piran v diplomatskih pogajanjih glede v Istri"
             source="Slovenske brazde, 3. IX. 1998" year="1998" volume="8" issue="35" page="5"/>
     </delo>
-    <delo mojID="24919">
+    <delo mojID="24919" cobiss="9444104">
         <naslov>Mestna občina Ptuj v desetletju 1908-1918</naslov>
         <cit did="1775" cid="13" avtor0="Šuligoj Ljubica"
             naslov0="Mestna občina Ptuj v desetletju 1908-1918" source="Koropčev zbornik, ČZN"
             year="1999" issue="1-2" page="214"/>
     </delo>
-    <delo mojID="24921">
+    <delo mojID="24921" cobiss="241761536">
         <naslov>Mestna zgodovina na Madžarskem po letu 1945</naslov>
         <cit did="869" cid="2" avtor0="Bacskai Vera"
             naslov0="Mestna zgodovina na Madžarskem po letu 1945" source="Kronika" year="1982"
             volume="30" issue="1" page="46"/>
     </delo>
-    <delo mojID="24924">
+    <delo mojID="24924" cobiss="1749557">
         <naslov>Mestne šole Celje (1777-1964)</naslov>
         <cit did="76" cid="16" avtor0="Zajc Cizelj Ivanka" naslov0="Mestne šole Celje (1777-1964)"
             source="Inventarji" pubPlace="Celje" publisher="ZAC" year="1993" volume="5"/>
     </delo>
-    <delo mojID="24925">
+    <delo mojID="24925" cobiss="3834368">
         <naslov>Mestni ljudski odbor Celje 1945 - 1954</naslov>
         <cit did="93" cid="6" avtor0="Mikola Milko" naslov0="Mestni ljudski odbor Celje 1945 - 1954"
             pubPlace="Celje" year="1987" page="12-13"/>
@@ -19150,46 +19150,46 @@
         <cit did="2403" cid="9" avtor0="Petkovšek Janez" naslov0="Mesto hoče v Mladiki šolo"
             source="Delo" year="2016"/>
     </delo>
-    <delo mojID="24938">
+    <delo mojID="24938" cobiss="28068354">
         <naslov>Mesto Maribor v luči matičnih knjig 17. stoletja</naslov>
         <cit did="1288" cid="1" avtor0="Radovanovič Sašo"
             naslov0="Mesto Maribor v luči matičnih knjig 17. stoletja" source="Kronika" year="1991"
             volume="39" page="32-39"/>
     </delo>
-    <delo mojID="24939">
+    <delo mojID="24939" cobiss="725581">
         <naslov>Mesto Martina Bavčerja v zgodovinopisju njegove dobe</naslov>
         <cit did="1423" cid="24" avtor0="Mihelič Darja"
             naslov0="Mesto Martina Bavčerja v zgodovinopisju njegove dobe"
             source="Koledar Goriške Mohorjeve družbe za leto 1993" pubPlace="Gorica"
             publisher="Goriška Mohorjeva družba" year="1993" page="86-94"/>
     </delo>
-    <delo mojID="24940">
+    <delo mojID="24940" cobiss="237394176">
         <naslov>Mesto ob reki: zgodbe mladih let iz knežjega mesta Celja</naslov>
         <cit did="1888" cid="2" avtor0="Mikeln Miloš"
             naslov0="Mesto ob reki: zgodbe mladih let iz knežjega mesta Celja" pubPlace="Celje"
             publisher="Mohorjeva družba" year="2008"/>
     </delo>
-    <delo mojID="24946">
+    <delo mojID="24946" cobiss="219576320">
         <naslov>Mesto v senci gradu</naslov>
         <cit did="76" cid="17" avtor0="Žižek Aleksander," naslov0="Mesto v senci gradu"
             pubPlace="Celje" publisher="Zgodovinski arhiv" year="2005"/>
     </delo>
-    <delo mojID="24947">
+    <delo mojID="24947" cobiss="22655488">
         <naslov>Mesto v zalivu : roman</naslov>
         <cit did="167" cid="58" avtor0="Pahor Boris" naslov0="Mesto v zalivu : roman"
             pubPlace="Trst" publisher="Založništvo tržaškega tiska" year="1989"/>
     </delo>
-    <delo mojID="24948">
+    <delo mojID="24948" cobiss="2230273">
         <naslov>Mesto v zgodovini</naslov>
         <cit did="1762" cid="113" avtor0="Mumford L." naslov0="Mesto v zgodovini"
             pubPlace="Ljubljana" year="1969"/>
     </delo>
-    <delo mojID="24949">
+    <delo mojID="24949" cobiss="215806720">
         <naslov>Mesto v zgodovini Evrope</naslov>
         <cit did="1930" cid="3" avtor0="Benevolo L." naslov0="Mesto v zgodovini Evrope"
             pubPlace="Ljubljana" publisher="*cf" year="2004"/>
     </delo>
-    <delo mojID="24952">
+    <delo mojID="24952" cobiss="216581376">
         <naslov>Mesto žensk</naslov>
         <cit did="106" cid="336" avtor0="Alajbegović - Pečovnik Z." naslov0="Mesto žensk"
             source="Delta" year="1999" volume="1-2" page="161-163"/>
@@ -19200,7 +19200,7 @@
             naslov0="Mesur llwyddiant Ysgol Gyfun ddwyieithog (Cwm Rhymni)" pubPlace="Caerdydd"
             publisher="Traethawd M.A heb ei gyhoeddi. Prifysgol Caerdydd" year="1993"/>
     </delo>
-    <delo mojID="24955">
+    <delo mojID="24955" cobiss="77871360">
         <naslov>Metafizika čutnosti</naslov>
         <cit did="106" cid="196" avtor0="Toth, C" naslov0="Metafizika čutnosti" pubPlace="Ljubljana"
             publisher="Znanstveno in publicistično središče" year="1998"/>
@@ -19225,12 +19225,12 @@
         <cit did="697" cid="4" avtor0="Casonato M." naslov0="Metafore" pubPlace="Roma"
             publisher="NIS" year="1994"/>
     </delo>
-    <delo mojID="24960">
+    <delo mojID="24960" cobiss="13027682">
         <naslov>Metafory w naszym zyciu</naslov>
         <cit did="682" cid="9" avtor0="Lakoff G., Johnson M." naslov0="Metafory w naszym zyciu"
             source="PIW" pubPlace="Warszawa" publisher="Biblioteka Mysli Współczesnej" year="1988"/>
     </delo>
-    <delo mojID="24961">
+    <delo mojID="24961" cobiss="618740">
         <naslov>Metahistory : The historical imagination in Nineteenth Century
                         Europe</naslov>
         <cit did="272" cid="203" avtor0="White Hayden"
@@ -19249,13 +19249,13 @@
             naslov0="Metamorfosi entiche. IcambiamentidipopolazioneaTrieste, Fiume, Gorizia e in Istria 1914- 1975"
             source="Doktorska naloga, Univerza v Celovcu" year="2008"/>
     </delo>
-    <delo mojID="24965">
+    <delo mojID="24965" cobiss="53338">
         <naslov>Metaphorical Theology : Models of God in Religious Language</naslov>
         <cit did="106" cid="70" avtor0="McFague S."
             naslov0="Metaphorical Theology : Models of God in Religious Language"
             pubPlace="Philadelphia" year="1982" page="8"/>
     </delo>
-    <delo mojID="24967">
+    <delo mojID="24967" cobiss="4399822">
         <naslov>Metaphors We Live By</naslov>
         <cit did="3012" cid="16" avtor0="Lakoff G., Johnson M." naslov0="Metaphors We Live By"
             pubPlace="Chicago" publisher="University of Chicago" year="1980"/>
@@ -19272,7 +19272,7 @@
             pubPlace="Udine" publisher="Istituto per l'Enciclopedia del Friuli Venezia Giulia"
             year="1984" page="201-218"/>
     </delo>
-    <delo mojID="24971">
+    <delo mojID="24971" cobiss="57257">
         <naslov>Meteorologia e climatologia applicate all'agricoltura e all'igiene</naslov>
         <cit did="2363" cid="27" avtor0="Passerini N."
             naslov0="Meteorologia e climatologia applicate all'agricoltura e all'igiene"
@@ -19292,18 +19292,18 @@
             naslov0="Method and Ideology in Intellectual History"
             source="Modern European Intellectual History" page="283"/>
     </delo>
-    <delo mojID="24974">
+    <delo mojID="24974" cobiss="21333597">
         <naslov>Method and Measurement in Sociology</naslov>
         <cit did="2005" cid="8" avtor0="Cicourel A." naslov0="Method and Measurement in Sociology"
             pubPlace="Nevv York" publisher="The Free Press" year="1964"/>
     </delo>
-    <delo mojID="24975">
+    <delo mojID="24975" cobiss="1024057921">
         <naslov>Method in Social Science</naslov>
         <cit did="421" cid="23" avtor0="Sayer A." naslov0="Method in Social Science"
             source="A realist approach" pubPlace="London - New York" publisher="Routledge"
             year="1992"/>
     </delo>
-    <delo mojID="24977">
+    <delo mojID="24977" cobiss="12652598">
         <naslov>Methodenarbeit im Geschichtsunterricht</naslov>
         <cit did="1721" cid="1" avtor0="Bauer Volker"
             naslov0="Methodenarbeit im Geschichtsunterricht" pubPlace="Berli" year="1998"/>
@@ -19354,7 +19354,7 @@
             source="Commentarii academiae scientarum Petropolitanae" year="0" volume="11"
             page="194-230"/>
     </delo>
-    <delo mojID="24984">
+    <delo mojID="24984" cobiss="55704064">
         <naslov>Metlika: Arheološka najdišča Dolenjske</naslov>
         <cit did="2584" cid="46" avtor0="Križ B." naslov0="Metlika: Arheološka najdišča Dolenjske"
             source="Arheo" volume="20" page="45-48"/>
@@ -19375,7 +19375,7 @@
         <cit did="2584" cid="8" avtor0="Breščak D." naslov0="Metlika: Mestni trg"
             source="Varstvo spomenikov 34" pubPlace="Ljubljana" volume="3" page="255-256"/>
     </delo>
-    <delo mojID="24990">
+    <delo mojID="24990" cobiss="15990528">
         <naslov>Metliška mestna godba</naslov>
         <cit did="2579" cid="14" avtor0="Dular Jože" naslov0="Metliška mestna godba"
             pubPlace="Metlika" year="1980" page="7"/>
@@ -19386,19 +19386,19 @@
             source="Petdeset let Belokranjskega muzeja" pubPlace="Metlika"
             publisher="Belokranjski muzej" year="2001" page="54-67"/>
     </delo>
-    <delo mojID="24995">
+    <delo mojID="24995" cobiss="28008704">
         <naslov>Metod z uredniškim odborom: Zgodovina Cerkve na Slovenskem</naslov>
         <cit did="2536" cid="3" avtor0="Benedik Metod"
             naslov0="Metod z uredniškim odborom: Zgodovina Cerkve na Slovenskem" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1991"/>
     </delo>
-    <delo mojID="24996">
+    <delo mojID="24996" cobiss="16034146">
         <naslov>Metoda dela s slikovnim gradivom pri pouku zgodovine</naslov>
         <cit did="2479" cid="13" avtor0="Trškan Danijela"
             naslov0="Metoda dela s slikovnim gradivom pri pouku zgodovine" source="Zgodovina v šoli"
             year="2001" volume="10" issue="1" page="3-6"/>
     </delo>
-    <delo mojID="24997">
+    <delo mojID="24997" cobiss="126826496">
         <naslov>Metoda dela z besedili pri pouku zgodovine</naslov>
         <cit did="2464" cid="10" avtor0="Trškan Danijela"
             naslov0="Metoda dela z besedili pri pouku zgodovine" source="Zgodovina v šoli"
@@ -19417,17 +19417,17 @@
             pubPlace="Ljubljana" publisher="Društvo socialnih delavcev Slovenije" year="1958"
             page="57-76"/>
     </delo>
-    <delo mojID="25002">
+    <delo mojID="25002" cobiss="48097536">
         <naslov>Metodika sokolske vzgoje</naslov>
         <cit did="2133" cid="2" avtor0="Ambrožič Miroslav" naslov0="Metodika sokolske vzgoje"
             pubPlace="Ljubljana" year="1931" page="9"/>
     </delo>
-    <delo mojID="25003">
+    <delo mojID="25003" cobiss="291592">
         <naslov>Metodika telesne vzgoje 2</naslov>
         <cit did="708" cid="42" avtor0="Rajtmajer Dolfe" naslov0="Metodika telesne vzgoje 2"
             pubPlace="Maribor" publisher="Univerza v Mariboru, Pedagoška fakulteta" year="1990"/>
     </delo>
-    <delo mojID="25004">
+    <delo mojID="25004" cobiss="512177535">
         <naslov>Metodična struktura sodobnih srednješolskih učbenikov za zgodovino</naslov>
         <cit did="2273" cid="4" avtor0="Trškan Danijela"
             naslov0="Metodična struktura sodobnih srednješolskih učbenikov za zgodovino"
@@ -19442,7 +19442,7 @@
             naslov0="Metodo per la cura del morbo epizootico regnante e per la preservazione dallo stesso del cittadino D.G. Larrey officiale di sanità in capo dell'Armata d'Italia traduzione dal francese del cittadino Gio. Battista Zambelli a sollievo, ed intelligenza de' su"
             pubPlace="Udine" publisher="Marco Gallici" year="0"/>
     </delo>
-    <delo mojID="25008">
+    <delo mojID="25008" cobiss="138725">
         <naslov>Metodologija raziskovanja v socialnem delu I.</naslov>
         <cit did="106" cid="71" avtor0="Mesec B."
             naslov0="Metodologija raziskovanja v socialnem delu I." pubPlace="Ljubljana"
@@ -19463,13 +19463,13 @@
             pubPlace="Koper"
             publisher="Univerza na Primorskem, Znanstveno-raziskovalno središče Koper" year="2006"/>
     </delo>
-    <delo mojID="25013">
+    <delo mojID="25013" cobiss="12442881">
         <naslov>Metodološke značilnosti reforme osnovne šole</naslov>
         <cit did="1838" cid="6" avtor0="Kožuh B."
             naslov0="Metodološke značilnosti reforme osnovne šole" pubPlace="Ljubljana" year="1981"
         />
     </delo>
-    <delo mojID="25014">
+    <delo mojID="25014" cobiss="1158355">
         <naslov>Metodološki in teoretični problemi ustne zgodovine</naslov>
         <cit did="1612" cid="12" avtor0="Rožac Darovec Vida"
             naslov0="Metodološki in teoretični problemi ustne zgodovine" source="Acta Histriae"
@@ -19552,7 +19552,7 @@
         <cit did="3241" cid="340" avtor0="Ford Henry" naslov0="Mezde, delovni čas in mezdni motiv"
             source="TT" year="1928" issue="10"/>
     </delo>
-    <delo mojID="25030">
+    <delo mojID="25030" cobiss="1977716">
         <naslov>Mezdna in stavkovna gibanja</naslov>
         <cit did="1783" cid="91" avtor0="Kresal France" naslov0="Mezdna in stavkovna gibanja"
             source="Slovenska novejša zgodovina: od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije"
@@ -19571,13 +19571,13 @@
             naslov0="Mezolitsko najdišče Pod Crmukljo pri Sembijah (Die mesolitisehe Fundort Pod Crmukljo bei Sembije)"
             source="Arheološki vestnik 43" pubPlace="Ljubljana" volume="43" page="23-36"/>
     </delo>
-    <delo mojID="25033">
+    <delo mojID="25033" cobiss="3635552">
         <naslov>Meč iz Ljubljanice s kabalističnim napisom AGLA</naslov>
         <cit did="2587" cid="12" avtor0="Nabergoj T."
             naslov0="Meč iz Ljubljanice s kabalističnim napisom AGLA" source="Argo" volume="45"
             issue="1-2" page="44-52"/>
     </delo>
-    <delo mojID="25034">
+    <delo mojID="25034" cobiss="6574432">
         <naslov>Meči, bodala, noži</naslov>
         <cit did="2587" cid="28" avtor0="Švanjcer J. J." naslov0="Meči, bodala, noži"
             pubPlace="Logatec" year="2007"/>
@@ -19595,19 +19595,19 @@
             naslov0="Međunarodni odnosi i problemi oko zapadnih granica i političkog statusa Istre od 1945. do 1947. godine"
             source="Pazinski memorijal" pubPlace="Pazin" year="1995" page="305-318"/>
     </delo>
-    <delo mojID="25038">
+    <delo mojID="25038" cobiss="1369352">
         <naslov>Međunarodni odnosi Jugoslavije u toku drugog svjetskog rata</naslov>
         <cit did="71" cid="175" avtor0="Plenča Dušan"
             naslov0="Međunarodni odnosi Jugoslavije u toku drugog svjetskog rata" pubPlace="Beograd"
             year="1962" page="316-317"/>
     </delo>
-    <delo mojID="25039">
+    <delo mojID="25039" cobiss="8436793">
         <naslov>Međunarodni odnosi socijalističke Jugoslavije</naslov>
         <cit did="826" cid="80" avtor0="Mates Leo"
             naslov0="Međunarodni odnosi socijalističke Jugoslavije" pubPlace="Beograd"
             publisher="Nolit" year="1976"/>
     </delo>
-    <delo mojID="25041">
+    <delo mojID="25041" cobiss="12589063">
         <naslov>Međunarodno, medupokrajinsko (interlokalno) i međuvjersko bračno pravo
                         Kraljevine Jugoslavije</naslov>
         <cit did="2096" cid="6" avtor0="Eisner B."
@@ -19632,7 +19632,7 @@
             naslov1="Dubrovačka dokumenta XIV i XV  veka o pograničnoj poroti" source="Miscellanea"
             pubPlace="Beograd" year="1978" volume="17" issue="6" page="7-180"/>
     </delo>
-    <delo mojID="25047">
+    <delo mojID="25047" cobiss="317557">
         <naslov>Meščani in cerkvene ustanove v Ljubljani do konca 16. stoletja</naslov>
         <cit did="262" cid="33" avtor0="Žnidaršič Golec L."
             naslov0="Meščani in cerkvene ustanove v Ljubljani do konca 16. stoletja"
@@ -19643,7 +19643,7 @@
         <cit did="3241" cid="140" avtor0="Štih Peter" naslov0="Meščani in mesta"
             source="Slovenska zgodovina do razsvetljenstva" year="1995" page="146"/>
     </delo>
-    <delo mojID="25049">
+    <delo mojID="25049" cobiss="367414">
         <naslov>Meščani Kranja v obdobju med svetovnima vojnama</naslov>
         <cit did="1545" cid="2" avtor0="Dolžan Tatjana"
             naslov0="Meščani Kranja v obdobju med svetovnima vojnama"
@@ -19655,7 +19655,7 @@
             naslov0="Meščanska skrinja v Sloveniji, razstavni katalog" pubPlace="Ljubljana"
             publisher="Narodni muzej" year="1984"/>
     </delo>
-    <delo mojID="25057">
+    <delo mojID="25057" cobiss="17283682">
         <naslov>Meščanske vile v Ljubljani</naslov>
         <cit did="1807" cid="14" avtor0="Accetto Mateja" naslov0="Meščanske vile v Ljubljani"
             naslov1="diplomska naloga" pubPlace="Ljubljana" year="1997"/>
@@ -19666,7 +19666,7 @@
             naslov0="Meščanski šoli v Slovenj Gradcu (1920-1941)" source="Šolska kronika"
             year="2006" volume="15" page="106-130"/>
     </delo>
-    <delo mojID="25060">
+    <delo mojID="25060" cobiss="60765440">
         <naslov>Meščanstvo na Slovenskem in proces nacionalne diferenciacije. 27. zborovanje
                         slovenskih zgodovinarjev</naslov>
         <cit did="2428" cid="4" avtor0="Cvirn Janez"
@@ -19679,7 +19679,7 @@
             source="Krajevni leksikon Slovenije IV" pubPlace="Ljubljana" publisher="DZS" year="1980"
             page="476-479"/>
     </delo>
-    <delo mojID="25063">
+    <delo mojID="25063" cobiss="11369524">
         <naslov>Mežica in rudnik okrog leta 1900</naslov>
         <cit did="124" cid="12" avtor0="Vončina Ciril" naslov0="Mežica in rudnik okrog leta 1900"
             source="Koroški fužinar" year="1952" issue="10-12" page="36"/>
