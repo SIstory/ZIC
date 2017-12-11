@@ -24500,7 +24500,7 @@
             naslov0="Művelődés a XVIII. Századi Magyarországon. (Education in Eighteenth Century Hungary.)"
             pubPlace="Budapest" publisher="Akadémiai P." year="1980"/>
     </delo>
-    <delo mojID="26127">
+    <delo mojID="26127" cobiss="59569153">
         <naslov>Na Arehu odkrili posmrtne ostanke 189 pobitih</naslov>
         <cit did="3530" cid="10" avtor0="Ambrož Nina"
             naslov0="Na Arehu odkrili posmrtne ostanke 189 pobitih" source="Večer, 9. 11. 2007"
@@ -24521,18 +24521,18 @@
         <cit did="1897" cid="23" avtor0="Brozović Tomislav" naslov0="Na cesti Dravograd–Maribor"
             source="Forum" year="0" volume="37" issue="4-6" page="706"/>
     </delo>
-    <delo mojID="26133">
+    <delo mojID="26133" cobiss="17872640">
         <naslov>Na doberdobskem Krasu od leta 1850 do prve svetovne vojne</naslov>
         <cit did="1317" cid="300" avtor0="Waltritsch Marko"
             naslov0="Na doberdobskem Krasu od leta 1850 do prve svetovne vojne"
             source="Doberdob : včeraj in danes" pubPlace="Doberdob" year="1988"/>
     </delo>
-    <delo mojID="26134">
+    <delo mojID="26134" cobiss="112762624">
         <naslov>Na dolgo pot</naslov>
         <cit did="964" cid="13" avtor0="Puš Ludvik" naslov0="Na dolgo pot" pubPlace="Buenos Aires"
             year="1996"/>
     </delo>
-    <delo mojID="26135">
+    <delo mojID="26135" cobiss="3602694">
         <naslov>Na Drini ćuprija</naslov>
         <cit did="1481" cid="1" avtor0="Andrić Ivo" naslov0="Na Drini ćuprija" pubPlace="Sarajevo"
             year="1949"/>
@@ -24543,19 +24543,19 @@
             naslov0="Na drugem shodu slovenskih duhovnikov za bodočo sinodo : 9.6. 1959"
             source="Sermones a. 1959" year="1959" page="159"/>
     </delo>
-    <delo mojID="26138">
+    <delo mojID="26138" cobiss="42932992">
         <naslov>Na fronti sestre Žive</naslov>
         <cit did="1307" cid="10" avtor0="Kraigher Alojz" naslov0="Na fronti sestre Žive"
             pubPlace="Ljubljana" publisher="Tiskovna zadruga" year="1929"/>
     </delo>
-    <delo mojID="26139">
+    <delo mojID="26139" cobiss="12973618">
         <naslov>Na Goriškem ob koncu prve svetovne vojne</naslov>
         <cit did="2436" cid="2" avtor0="Marušič Branko"
             naslov0="Na Goriškem ob koncu prve svetovne vojne"
             source="Na obrobju: ali je Primorska klonila?" pubPlace="Nova Gorica - Trst" year="1996"
             page="14-21"/>
     </delo>
-    <delo mojID="26140">
+    <delo mojID="26140" cobiss="32091904">
         <naslov>Na gredicah moje dežele. Drobni razgledi iz življenja slovenskih
                         župnij</naslov>
         <cit did="2623" cid="272" avtor0="Zadravec Jože"
@@ -24585,7 +24585,7 @@
             naslov0="Na jedné fronte: Vztahy československé a polské armády..." pubPlace="Praha"
             year="2005"/>
     </delo>
-    <delo mojID="26146">
+    <delo mojID="26146" cobiss="6262349">
         <naslov>Na jeklenih krilih skozi vojne vihre : dogodivščine pilota Jožeta
                         Križaja</naslov>
         <cit did="2894" cid="48" avtor0="Škerk Walter"
@@ -24643,32 +24643,32 @@
         <cit did="71" cid="243" avtor0="Krek Miha" naslov0="Na naslov &#34;Srbobrana&#34;!"
             source="Amerikanski Slovenec" year="0"/>
     </delo>
-    <delo mojID="26163">
+    <delo mojID="26163" cobiss="27877889">
         <naslov>Na naši koži</naslov>
         <cit did="303" cid="42" avtor0="Dolhar Rafko" naslov0="Na naši koži" pubPlace="Trst"
             publisher="Založništvo tržaškega tiska" year="1990"/>
     </delo>
-    <delo mojID="26164">
+    <delo mojID="26164" cobiss="4440629">
         <naslov>Na neki vzpetini nad Celjem v umirajoči hiši Alme Karlin: zanemarjena
                         zapuščina</naslov>
         <cit did="2296" cid="5" avtor0="Podkrižnik Mimi"
             naslov0="Na neki vzpetini nad Celjem v umirajoči hiši Alme Karlin: zanemarjena zapuščina"
             source="Delo" year="1998" volume="40" issue="115" page="59"/>
     </delo>
-    <delo mojID="26166">
+    <delo mojID="26166" cobiss="24067629">
         <naslov>Na obisku pri klavžarjih</naslov>
         <cit did="423" cid="33" avtor0="Kralj Fišer S., Zagmajster M."
             naslov0="Na obisku pri klavžarjih" source="Proteus" pubPlace="Ljubljana" year="2005"
             volume="67" issue="9/10" page="401-408"/>
     </delo>
-    <delo mojID="26167">
+    <delo mojID="26167" cobiss="243490816">
         <naslov>Na obrobju ali v osredju? Slovenska obmejna območja pred izzivi evropskega
                         povezovanja</naslov>
         <cit did="2658" cid="16" avtor0="Bufon Milan"
             naslov0="Na obrobju ali v osredju? Slovenska obmejna območja pred izzivi evropskega povezovanja"
             source="Annales" pubPlace="Koper" year="2008"/>
     </delo>
-    <delo mojID="26168">
+    <delo mojID="26168" cobiss="217491968">
         <naslov>Na oni strani meje</naslov>
         <cit did="374" cid="3" avtor0="Bajc Gorazd" naslov0="Na oni strani meje"
             source="Slovenska manjšina v Italiji in njen pravni položaj : zgodovinski in pravni pregled 1866 - 2004"
@@ -24680,7 +24680,7 @@
             source="Posebno sodišče: drugi tržaški proces / Tribunale speciale: il secondo processo di Trieste"
             pubPlace="Opčine" year="2001" page="82-169"/>
     </delo>
-    <delo mojID="26173">
+    <delo mojID="26173" cobiss="256308736">
         <naslov>Na pomoč, Gasilstvo na Kočevskem</naslov>
         <cit did="3486" cid="39" avtor0="Jerbič Perko Vesna"
             naslov0="Na pomoč, Gasilstvo na Kočevskem" pubPlace="Kočevje"
@@ -24742,13 +24742,13 @@
         <cit did="3022" cid="38" avtor0="Grün Herbert" naslov0="Na Prežihovem vrtu" source="Tovariš"
             year="1947" issue="17" page="404"/>
     </delo>
-    <delo mojID="26190">
+    <delo mojID="26190" cobiss="7968301">
         <naslov>Na Primorskem ob razpadu Avstro-Ogrske</naslov>
         <cit did="1662" cid="165" avtor0="Marušič Branko"
             naslov0="Na Primorskem ob razpadu Avstro-Ogrske" source="Kronika" pubPlace="Ljubljana"
             year="1990" issue="1"/>
     </delo>
-    <delo mojID="26191">
+    <delo mojID="26191" cobiss="366708">
         <naslov>Na putu preporoda</naslov>
         <cit did="2214" cid="27" avtor0="Vilder Većeslav" naslov0="Na putu preporoda"
             pubPlace="London" year="1959" page="9-13"/>
@@ -24765,7 +24765,7 @@
             naslov1="Prožimanje pojavnog i transcendentnog u dubrovačkim oporukama kasnog srednjeg vijeka"
             source="Otivm 2 : br. 3-4" year="1994" page="4"/>
     </delo>
-    <delo mojID="26194">
+    <delo mojID="26194" cobiss="5790765">
         <naslov>Na razmeđu : Osmansko-dubrovačka granica (1667.-1806.)</naslov>
         <cit did="156" cid="6" avtor0="Milović-Perić V."
             naslov0="Na razmeđu : Osmansko-dubrovačka granica (1667.-1806.)" pubPlace="Dubrovnik"
@@ -24788,7 +24788,7 @@
         <cit did="454" cid="43" avtor0="Resman Ivan Nepomuk" naslov0="Na slavo Vodniku in Prešernu"
             pubPlace="Novice" year="0"/>
     </delo>
-    <delo mojID="26203">
+    <delo mojID="26203" cobiss="28596481">
         <naslov>Na slovenskem poldnevniku</naslov>
         <cit did="3081" cid="17" avtor0="Rebula Alojz" naslov0="Na slovenskem poldnevniku"
             pubPlace="Maribor" publisher="Obzorja" year="1991"/>
@@ -24799,7 +24799,7 @@
             naslov0="Na Slovenskem smo še vedno mi gospodar" source="Delo SP, 27. 10. 1990"
             year="1990"/>
     </delo>
-    <delo mojID="26205">
+    <delo mojID="26205" cobiss="279901">
         <naslov>Na smrt spravljeni Slovenci</naslov>
         <cit did="2113" cid="17" avtor0="Tomc G." naslov0="Na smrt spravljeni Slovenci"
             source="Kaj se je zgodilo s slovensko zgodovino? - 1. Razgledi" pubPlace="Ljubljana"
@@ -24810,7 +24810,7 @@
         <cit did="3365" cid="314" avtor0="Ulaga Dragon" naslov0="Na smučarskem tečaju"
             source="Mladost" year="1927" volume="20" issue="2" page="31-33"/>
     </delo>
-    <delo mojID="26209">
+    <delo mojID="26209" cobiss="4885600">
         <naslov>Na stičišču treh svetov. Arheološki podatki o Goriški v zgodnjem srednjem
                         veku</naslov>
         <cit did="2639" cid="150" avtor0="Knific Timotej"
@@ -24822,7 +24822,7 @@
         <cit did="2506" cid="12" avtor0="Pretnar Igor" naslov0="Na svoji zemlji"
             source="ljudska pravica" year="2002"/>
     </delo>
-    <delo mojID="26214">
+    <delo mojID="26214" cobiss="18064128">
         <naslov>Na tej in na oni strani oceana</naslov>
         <cit did="2624" cid="25" avtor0="Kurinčič Franc" naslov0="Na tej in na oni strani oceana"
             pubPlace="Ljubljana" publisher="Založba Borec" year="1981"/>
@@ -24839,7 +24839,7 @@
         <cit did="49" cid="31" avtor0="Ludvik Zorzut" naslov0="Na Vedrem hribu"
             source="Mohorjev koledar za leto 1974" pubPlace="Celje" year="1973" page="82-87"/>
     </delo>
-    <delo mojID="26217">
+    <delo mojID="26217" cobiss="791561">
         <naslov>Na velikoj prekretnici</naslov>
         <cit did="1979" cid="11" avtor0="Strčić Petar" naslov0="Na velikoj prekretnici"
             pubPlace="Pula" publisher="Čakavski sabor" year="1989"/>
@@ -24862,7 +24862,7 @@
             source="Venezia, una repubblica ai confini. Benetke, republika ob mejah. Venice, a republic at the borders. Mariano del Friuli: Edizioni della Laguna, 2004, str. 127-130"
             year="2004" page="127-130"/>
     </delo>
-    <delo mojID="26221">
+    <delo mojID="26221" cobiss="155191296">
         <naslov>Na zadatku</naslov>
         <cit did="2872" cid="99" avtor0="Mugoša Dušan" naslov0="Na zadatku" pubPlace="Beograd"
             publisher="Četvrti jul" year="1973"/>
@@ -24892,7 +24892,7 @@
         <cit did="15" cid="32" avtor0="Cvetko Vladimir" naslov0="Na začetku nove poti"
             source="Sodobna pedagogika" year="1957" volume="8" issue="5/7" page="129-143"/>
     </delo>
-    <delo mojID="26230">
+    <delo mojID="26230" cobiss="545669">
         <naslov>Nabavne in prodajne zadruge v Mariborskem okrožju 1945-1946</naslov>
         <cit did="2017" cid="78" avtor0="Tovšak Slavica"
             naslov0="Nabavne in prodajne zadruge v Mariborskem okrožju 1945-1946"
@@ -24958,7 +24958,7 @@
             naslov0="Nach-Bilder des Holocaust in zeitgenössischer Kunst und Architektur"
             pubPlace="Hamburg" publisher="Hamburger Edition" year="2002"/>
     </delo>
-    <delo mojID="26241">
+    <delo mojID="26241" cobiss="98246656">
         <naslov>Nachkriegsfluchtlinge in Kärnten und der Steiermark</naslov>
         <cit did="2073" cid="8" avtor0="Gabriela Stieber"
             naslov0="Nachkriegsfluchtlinge in Kärnten und der Steiermark" pubPlace="Graz"
@@ -25009,24 +25009,24 @@
             publisher="Centar za društveno-političko obrazovanje Radničkog univeriteta &#34;Đ. Salaj&#34;"
             year="1969"/>
     </delo>
-    <delo mojID="26251">
+    <delo mojID="26251" cobiss="26183169">
         <naslov>Nacija: zamišljena zajednica</naslov>
         <cit did="2710" cid="1" avtor0="Anderson Benedict" naslov0="Nacija: zamišljena zajednica"
             pubPlace="Zagreb" publisher="Školska knjiga" year="1990"/>
     </delo>
-    <delo mojID="26252">
+    <delo mojID="26252" cobiss="11860737">
         <naslov>Nacije i države: Ispitivanje porijekla nacija i politike
                         nacionalizma</naslov>
         <cit did="2665" cid="20" avtor0="Seton Watson Hugh"
             naslov0="Nacije i države: Ispitivanje porijekla nacija i politike nacionalizma"
             pubPlace="Zagreb" publisher="Globus" year="1980"/>
     </delo>
-    <delo mojID="26256">
+    <delo mojID="26256" cobiss="5871161">
         <naslov>Nacije, Jugoslavija revolucija</naslov>
         <cit did="1687" cid="3" avtor0="Pleterski Janko" naslov0="Nacije, Jugoslavija revolucija"
             source="Komunist" pubPlace="Beograd" year="1985" page="66-72"/>
     </delo>
-    <delo mojID="26257">
+    <delo mojID="26257" cobiss="64986722">
         <naslov>Nacijonalna država proti historični</naslov>
         <cit did="991" cid="14" avtor0="Loboda Anton (Melik Anton)"
             naslov0="Nacijonalna država proti historični" source="Ljubljanski zvon" year="1918"
@@ -25037,7 +25037,7 @@
         <cit did="354" cid="11" avtor0="Podgornik Fran" naslov0="Nacijonalne kurije"
             source="Slovanski svet" year="0" page="273-276"/>
     </delo>
-    <delo mojID="26259">
+    <delo mojID="26259" cobiss="38509">
         <naslov>Nacionalen identitet</naslov>
         <cit did="2841" cid="21" avtor0="Smith Anthony D." naslov0="Nacionalen identitet"
             pubPlace="Belgrad" publisher="Bibl. 20 vek, BIGZ" year="1998"/>
@@ -25054,7 +25054,7 @@
         <cit did="2823" cid="156" avtor0="Taylor Charles" naslov0="Nacionalism in moderna"
             source="Nova revija" year="1996" volume="15" issue="167" page="112-127"/>
     </delo>
-    <delo mojID="26264">
+    <delo mojID="26264" cobiss="47586560">
         <naslov>Nacionalizacija industrijskih in rudarski podjetij v Sloveniji v letu
                         1946</naslov>
         <cit did="844" cid="134" avtor0="Prinčič Jože"
@@ -25062,14 +25062,14 @@
             source="Prispevki za novejšo zgodovino" year="1991" volume="31" issue="2" page="167-179"
         />
     </delo>
-    <delo mojID="26267">
+    <delo mojID="26267" cobiss="47636480">
         <naslov>Nacionalizacija najemnih zgradb in gradbenih zemljišč na ozemlju LR
                         Slovenije : (1958-1962)</naslov>
         <cit did="486" cid="1" avtor0="Prinčič Jože"
             naslov0="Nacionalizacija najemnih zgradb in gradbenih zemljišč na ozemlju LR Slovenije : (1958-1962)"
             source="Prispevki za novejšo zgodovino" year="1993" volume="33" issue="1/2"/>
     </delo>
-    <delo mojID="26269">
+    <delo mojID="26269" cobiss="311861">
         <naslov>Nacionalizacija zasebnih gospodarskih podjetij na Celjskem</naslov>
         <cit did="95" cid="6" avtor0="Mikola Milko"
             naslov0="Nacionalizacija zasebnih gospodarskih podjetij na Celjskem"
@@ -25080,7 +25080,7 @@
         <cit did="228" cid="21" avtor0="Veber France" naslov0="Nacionalizen in krščanstvo"
             naslov1="Kulturna pisma Slovencem" pubPlace="Ljubljana" year="1938"/>
     </delo>
-    <delo mojID="26280">
+    <delo mojID="26280" cobiss="30396770">
         <naslov>Nacionalizirana zgodovina</naslov>
         <cit did="425" cid="16" avtor0="Štih Peter" naslov0="Nacionalizirana zgodovina"
             source="Nova revija" year="2005" volume="24" issue="280/281" page="1-20"/>
@@ -25093,13 +25093,13 @@
             source="Pazin u drugoj polovini 19. i početkom 20. stoljeća, zbornik" pubPlace="Pazin"
             publisher="Knjižnica Acta" year="1999" page="75-106"/>
     </delo>
-    <delo mojID="26282">
+    <delo mojID="26282" cobiss="61596672">
         <naslov>Nacionalna država kot sociološki problem</naslov>
         <cit did="407" cid="10" avtor0="Rizman Rudi"
             naslov0="Nacionalna država kot sociološki problem" source="Družbene razprave"
             pubPlace="Ljubljana" year="1990" issue="9" page="82-91"/>
     </delo>
-    <delo mojID="26285">
+    <delo mojID="26285" cobiss="16575586">
         <naslov>Nacionalna država v času globalizacije</naslov>
         <cit did="2833" cid="22" avtor0="Rizman Rudi"
             naslov0="Nacionalna država v času globalizacije"
@@ -25141,7 +25141,7 @@
         <cit did="2555" cid="3" avtor0="Kodrič Matjaž" naslov0="Nacionalna zabloda SK Primorje"
             source="Šport" year="2002" volume="50" issue="3" page="31-36"/>
     </delo>
-    <delo mojID="26297">
+    <delo mojID="26297" cobiss="4890189">
         <naslov>Nacionalna zbirka žrtev druge svetovne vojne: pogovor z dr. Jasno
                         Fischer...</naslov>
         <cit did="1858" cid="2" avtor0="Fischer Jasna"
@@ -25155,25 +25155,25 @@
             naslov0="Nacionalne ideje studentske omladine u Hrvatskoj uoči svjetskog rata"
             source="Historijski zbornik" year="1968" issue="21/22" page="127-128"/>
     </delo>
-    <delo mojID="26301">
+    <delo mojID="26301" cobiss="1929588">
         <naslov>Nacionalne in gospodarske prvine slovenskega zadružništva</naslov>
         <cit did="2618" cid="176" avtor0="Lazarevič Žarko"
             naslov0="Nacionalne in gospodarske prvine slovenskega zadružništva"
             source="Stiplovškov zbornik" pubPlace="Ljubljana" year="2005" page="159-168"/>
     </delo>
-    <delo mojID="26302">
+    <delo mojID="26302" cobiss="9643341">
         <naslov>Nacionalne manjine u Hrvatskoj</naslov>
         <cit did="2803" cid="55" avtor0="Tatalović Siniša" naslov0="Nacionalne manjine u Hrvatskoj"
             pubPlace="Split" publisher="Stina" year="2005"/>
     </delo>
-    <delo mojID="26303">
+    <delo mojID="26303" cobiss="106963">
         <naslov>Nacionalne manjšine in njihova funkcija v mednarodnih integrativnih
                         procesih: iluzija ali realnost?</naslov>
         <cit did="400" cid="1" avtor0="Bufon Milan"
             naslov0="Nacionalne manjšine in njihova funkcija v mednarodnih integrativnih procesih: iluzija ali realnost?"
             pubPlace="Trst" publisher="Slovenski raziskovalni institut" year="1994" page="87-95"/>
     </delo>
-    <delo mojID="26304">
+    <delo mojID="26304" cobiss="90996">
         <naslov>Nacionalne revolucije balkanskih naroda 1804-1914</naslov>
         <cit did="2872" cid="50" avtor0="Đorđević Dimitrije"
             naslov0="Nacionalne revolucije balkanskih naroda 1804-1914" pubPlace="Beograd"
@@ -25208,7 +25208,7 @@
             source="Študije o etnonacionalizmui, zbornik" pubPlace="Ljubljana"
             publisher="Knjižna zbirka Krt" year="1991" page="193"/>
     </delo>
-    <delo mojID="26310">
+    <delo mojID="26310" cobiss="7594498">
         <naslov>Nacionalni odnosi u Bosni i Hercegovini 1941-1945. u analizama jugoslavenske
                         istoriografije</naslov>
         <cit did="1896" cid="18" avtor0="Redžić  Enver"
@@ -25232,7 +25232,7 @@
             naslov0="Nacionalni programi Matije Majarja - Ziljskega" source="Slovenci 1848 - 1918"
             pubPlace="Ljubljana" year="2002"/>
     </delo>
-    <delo mojID="26315">
+    <delo mojID="26315" cobiss="19365213">
         <naslov>Nacionalni programi u slovenskoj političkoj misli (1848-1945)</naslov>
         <cit did="2025" cid="23" avtor0="Prunk Janko"
             naslov0="Nacionalni programi u slovenskoj političkoj misli (1848-1945)"
