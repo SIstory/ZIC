@@ -33124,7 +33124,7 @@
         <cit did="1660" cid="75" avtor0="Tardy Vladimír" naslov0="Německá psychologie za nacizmu"
             source="Věda a živo" year="1947" volume="13" issue="4" page="170-176"/>
     </delo>
-    <delo mojID="28200">
+    <delo mojID="28200" cobiss="15103488">
         <naslov>O akcentu i vokalskom kvalitetu u Brižinskim spomenicima</naslov>
         <cit did="3256" cid="21" avtor0="Gvozdanović Jadranka"
             naslov0="O akcentu i vokalskom kvalitetu u Brižinskim spomenicima"
@@ -33138,7 +33138,7 @@
             naslov0="O antigo imperialismo portuguez e as leis modernas do governo colonial. Memoria apresentada ao Congresso Colonial Nacional"
             pubPlace="Lisboa" publisher="Imprensa Nacional" year="1901"/>
     </delo>
-    <delo mojID="28205">
+    <delo mojID="28205" cobiss="14863458">
         <naslov>O arhitekturi i kiparskim ukrasima osorske katedrale</naslov>
         <cit did="328" cid="89" avtor0="Štefanac Samo"
             naslov0="O arhitekturi i kiparskim ukrasima osorske katedrale"
@@ -33150,18 +33150,18 @@
         <cit did="15" cid="78" avtor0="Strobl Majda" naslov0="O avtonomiji univerz" source="Pravnik"
             year="1957" volume="12" issue="5/8" page="358-365"/>
     </delo>
-    <delo mojID="28207">
+    <delo mojID="28207" cobiss="1846900">
         <naslov>O avtorju in njegovem delu</naslov>
         <cit did="2304" cid="24" avtor0="Fischer Jasna" avtor1="Vodopivec Peter"
             naslov0="O avtorju in njegovem delu" source="Začetki industrije na Slovenskem"
             publisher="Založba Obzorja Maribor" year="1984" page="6"/>
     </delo>
-    <delo mojID="28208">
+    <delo mojID="28208" cobiss="44684288">
         <naslov>O azijskom ratu</naslov>
         <cit did="1482" cid="7" avtor0="Cipiko K." naslov0="O azijskom ratu" pubPlace="Split"
             publisher="Čakavski sabor" year="1977"/>
     </delo>
-    <delo mojID="28209">
+    <delo mojID="28209" cobiss="1279751">
         <naslov>O Banatu i o Banaćanima</naslov>
         <cit did="2896" cid="4" avtor0="Crnjanski Miloš" naslov0="O Banatu i o Banaćanima"
             pubPlace="Novi Sad" year="1989" page="50"/>
@@ -33171,7 +33171,7 @@
         <cit did="2902" cid="23" avtor0="Zorič Blagoje" naslov0="O Beli krajini nismo govorili"
             source="Delo" year="1993" issue="20. februar" page="2"/>
     </delo>
-    <delo mojID="28212">
+    <delo mojID="28212" cobiss="13450504">
         <naslov>O besedju in slovensko-nemških jezikovnih stikih v panonskih
                         govorih</naslov>
         <cit did="2076" cid="7" avtor0="Koletnik Mihaela"
@@ -33184,18 +33184,18 @@
         <cit did="1480" cid="30" avtor0="Pavlica J." naslov0="O bistvu kapitalizma"
             source="Katoliski obzornik" pubPlace="Ljubljana" year="0" page="89-111"/>
     </delo>
-    <delo mojID="28214">
+    <delo mojID="28214" cobiss="1536603">
         <naslov>O bistvu resnice</naslov>
         <cit did="3104" cid="3" avtor0="Heidegger Martin" naslov0="O bistvu resnice"
             source="Izbrane razprave" pubPlace="Ljubljana" publisher="CZ" year="1967" page="147-178"
         />
     </delo>
-    <delo mojID="28215">
+    <delo mojID="28215" cobiss="7656749">
         <naslov>O bivajočem bistvu</naslov>
         <cit did="1004" cid="1" avtor0="Akvinski Tomaž" naslov0="O bivajočem bistvu"
             source="Problemi" year="1996"/>
     </delo>
-    <delo mojID="28216">
+    <delo mojID="28216" cobiss="268755">
         <naslov>O bivanjski kulturi srednjeveške Izole: poskus ubikacije nekaterih izolskih
                         žlatrin</naslov>
         <cit did="1762" cid="107" avtor0="Mihelič Darja"
@@ -33213,20 +33213,20 @@
             naslov0="O burji. Vloga mojih škornjev v angolski revoluciji" pubPlace="Ljubljana"
             publisher="MK" year="1985"/>
     </delo>
-    <delo mojID="28221">
+    <delo mojID="28221" cobiss="9666209">
         <naslov>O cestnem omrežju na slovenskem Štajerskem v 17. stoletju</naslov>
         <cit did="2640" cid="23" avtor0="Curk Jože"
             naslov0="O cestnem omrežju na slovenskem Štajerskem v 17. stoletju" source="Kronika"
             year="1986" volume="34" page="7-15"/>
     </delo>
-    <delo mojID="28222">
+    <delo mojID="28222" cobiss="70612">
         <naslov>O današnjem položaju “nemške manjšine” v Sloveniji</naslov>
         <cit did="2854" cid="10" avtor0="Klemenčič Vladimir" avtor1="Zupančič Jernej"
             naslov0="O današnjem položaju “nemške manjšine” v Sloveniji"
             source="Kaernten Dokumentation" pubPlace="Klagenfurt" year="1997" issue="14, 15"
             page="165–183"/>
     </delo>
-    <delo mojID="28226">
+    <delo mojID="28226" cobiss="73882880">
         <naslov>O delovanju slovenskega pravosodja v obdobju od leta 1945 do 1963</naslov>
         <cit did="634" cid="10" avtor0="Ferjančič Roman"
             naslov0="O delovanju slovenskega pravosodja v obdobju od leta 1945 do 1963"
@@ -33255,30 +33255,30 @@
         <cit did="555" cid="24" avtor0="Žebot Ciril" naslov0="O diktaturi v Avstriji" source="Čas"
             year="1937" page="148"/>
     </delo>
-    <delo mojID="28235">
+    <delo mojID="28235" cobiss="20232541">
         <naslov>O »divji« psihoanalizi</naslov>
         <cit did="1747" cid="9" avtor0="Freud Sigmund" naslov0="O »divji« psihoanalizi"
             source="Problemi" pubPlace="Ljubljana" volume="2000" issue="4-5" page="5-12"/>
     </delo>
-    <delo mojID="28236">
+    <delo mojID="28236" cobiss="17798401">
         <naslov>O djelovanju domaće sredine u umjetnosti hrvatskih krajeva</naslov>
         <cit did="1996" cid="19" avtor0="Karaman Lj."
             naslov0="O djelovanju domaće sredine u umjetnosti hrvatskih krajeva" pubPlace="Zagreb"
             publisher="Drustvo historičara umjetnosti N.R.H." year="1963"/>
     </delo>
-    <delo mojID="28237">
+    <delo mojID="28237" cobiss="27055149">
         <naslov>O domnevnem in dejanskem vplivu nemščine na podobo slovenskih zemljepisnih
                         imen: Landol, Runtole, Tacen, Gameljne</naslov>
         <cit did="2217" cid="24" avtor0="Torkar Silvo"
             naslov0="O domnevnem in dejanskem vplivu nemščine na podobo slovenskih zemljepisnih imen: Landol, Runtole, Tacen, Gameljne"
             source="Wiener Slavistisches Jahrbuch" year="2006" volume="52" page="171"/>
     </delo>
-    <delo mojID="28239">
+    <delo mojID="28239" cobiss="6240813">
         <naslov>O dozdevkih v razmerju med spoloma</naslov>
         <cit did="106" cid="262" avtor0="Miller J. A." naslov0="O dozdevkih v razmerju med spoloma"
             source="Problemi" year="1997" issue="7-8" page="5-19"/>
     </delo>
-    <delo mojID="28242">
+    <delo mojID="28242" cobiss="240174848">
         <naslov>O dravskih splavarjih</naslov>
         <cit did="974" cid="1" avtor0="Baš Angelos" naslov0="O dravskih splavarjih"
             source="Slovenski etnograf" year="1972" volume="25-26" issue="143-156"/>
@@ -33304,7 +33304,7 @@
         <cit did="47" cid="25" avtor0="Čermelj Lavo" naslov0="O društvu Prosveta iz Trsta"
             source="Koledar Goriške matice za leto 1926" year="1925" volume="1" page="73-74"/>
     </delo>
-    <delo mojID="28247">
+    <delo mojID="28247" cobiss="236427008">
         <naslov>O družabni igri kranjskega plemiča in njegovega učitelja iz 17. stoletja in
                         o geografiji, brez katere so velika dejanja nema in zgodovina</naslov>
         <cit did="2638" cid="164" avtor0="Sekolec Jernej"
@@ -33331,12 +33331,12 @@
         <cit did="312" cid="40" avtor0="Lučić J." naslov0="O dubrovačkim patricijatu u XIV stolječu"
             source="Historijski zbornik" year="1964" volume="17" page="395-399"/>
     </delo>
-    <delo mojID="28254">
+    <delo mojID="28254" cobiss="12742407">
         <naslov>O dubrovačkoj diplomaciji</naslov>
         <cit did="2521" cid="15" avtor0="Križman Bogdan" naslov0="O dubrovačkoj diplomaciji"
             pubPlace="Zagreb" publisher="Školska knjiga" year="1951"/>
     </delo>
-    <delo mojID="28255">
+    <delo mojID="28255" cobiss="100571648">
         <naslov>O Duhu, Heidegger in vprašanje</naslov>
         <cit did="1931" cid="9" avtor0="Jacques D." naslov0="O Duhu, Heidegger in vprašanje"
             pubPlace="Ljubljana" publisher="Analecta" year="1999"/>
@@ -33347,7 +33347,7 @@
             source="Življenje in delo dr. Dušana Kermavnerja" pubPlace="Ljubljana" publisher="SAZU"
             year="2003" page="4"/>
     </delo>
-    <delo mojID="28259">
+    <delo mojID="28259" cobiss="765185">
         <naslov>O ekonomiji lokalnega gospodarstva</naslov>
         <cit did="2017" cid="34" avtor0="Kidrič Kidrič" naslov0="O ekonomiji lokalnega gospodarstva"
             pubPlace="Ljubljana" year="1948"/>
@@ -33381,19 +33381,19 @@
             source="Zbornik radova posvečenih akademiku Alojzu Bencu" pubPlace="Sarajevo"
             year="1991" page="89-96"/>
     </delo>
-    <delo mojID="28264">
+    <delo mojID="28264" cobiss="20533037">
         <naslov>O etničnosti za splošno in posebno rabo: Pregled antropoloških
                         konceptualizacij etničnosti</naslov>
         <cit did="2853" cid="182" avtor0="Repič Jaka"
             naslov0="O etničnosti za splošno in posebno rabo:  Pregled antropoloških konceptualizacij etničnosti"
             source="Traditiones" year="2002" volume="31" issue="1" page="211-225"/>
     </delo>
-    <delo mojID="28265">
+    <delo mojID="28265" cobiss="12610305">
         <naslov>O etnogenezi Crnogoraca</naslov>
         <cit did="2665" cid="12" avtor0="Kulišić Špiro" naslov0="O etnogenezi Crnogoraca"
             pubPlace="Titograd" publisher="Pobjeda" year="1980"/>
     </delo>
-    <delo mojID="28268">
+    <delo mojID="28268" cobiss="8023298">
         <naslov>O etnosu u prošlosti i sadašnjosti</naslov>
         <cit did="2708" cid="16" avtor0="Heršak Emil" naslov0="O etnosu u prošlosti i sadašnjosti"
             source="Migracijske teme" year="1989" volume="5" issue="2/3" page="99-112"/>
@@ -33409,7 +33409,7 @@
             source="Notranjski listi 3." pubPlace="Cerknica" publisher="Kulturna skupnost Cerknica"
             year="1986" page="136-158"/>
     </delo>
-    <delo mojID="28275">
+    <delo mojID="28275" cobiss="28170594">
         <naslov>O gomili halštatskega veljaka iz Pivole pod Postelo</naslov>
         <cit did="1947" cid="16" avtor0="Strmčnik Gulič M., Teržan B."
             naslov0="O gomili halštatskega veljaka iz Pivole pod Postelo"
@@ -33423,14 +33423,14 @@
             naslov0="O goriških grofih v Bavčarjevi Zgodovini Norika in Furlanije ter o konceptu in predlogah tega dela"
             source="Goriški letnik" year="1998" volume="25-26" page="221-234"/>
     </delo>
-    <delo mojID="28277">
+    <delo mojID="28277" cobiss="566483">
         <naslov>O gospodarskem pomenu meje za prebivalstvo Vzhodnih Alp s posebnim ozirom na
                         zgornje Posočje : (16.-18. stoletje)</naslov>
         <cit did="378" cid="17" avtor0="Panjek Aleksander"
             naslov0="O gospodarskem pomenu meje za prebivalstvo&#xA;Vzhodnih Alp s posebnim ozirom na zgornje Posočje : (16.-18. stoletje)"
             source="Zbornik za domoznanstvo" pubPlace="Bovec" publisher="Golobar" page="215"/>
     </delo>
-    <delo mojID="28278">
+    <delo mojID="28278" cobiss="241773312">
         <naslov>O gospodarski strukturi ljubljanskega prebivalstva v začetku XVIII.
                         stoletja</naslov>
         <cit did="2198" cid="19" avtor0="Valenčič Vlado"
@@ -33448,13 +33448,13 @@
             source="Trije pogovori o govorniku, posvečeni bratu Kvintu" pubPlace="Ljubljana"
             year="2002"/>
     </delo>
-    <delo mojID="28283">
+    <delo mojID="28283" cobiss="35565825">
         <naslov>O graditvi socialističnega gospodarstva FLRJ</naslov>
         <cit did="2017" cid="33" avtor0="Kidrič Boris"
             naslov0="O graditvi socialističnega gospodarstva FLRJ" pubPlace="Ljubljana" year="1948"
         />
     </delo>
-    <delo mojID="28284">
+    <delo mojID="28284" cobiss="9377581">
         <naslov>O grafičnih virih za freske v Hrastovljah</naslov>
         <cit did="712" cid="13" avtor0="Höfler J."
             naslov0="O grafičnih virih za freske v Hrastovljah"
@@ -33466,12 +33466,12 @@
             naslov0="O grških napisih v katakombah sv. Priscile v Rimu"
             source="Voditelj v bogoslovnih vedah" year="1903" volume="6" page="285-298"/>
     </delo>
-    <delo mojID="28286">
+    <delo mojID="28286" cobiss="110061056">
         <naslov>O Hacquetovem značaju</naslov>
         <cit did="2780" cid="1" avtor0="Borisov Peter" naslov0="O Hacquetovem značaju"
             source="Zgodovinski časopis" year="1999" volume="53" issue="4" page="455-482"/>
     </delo>
-    <delo mojID="28287">
+    <delo mojID="28287" cobiss="21468461">
         <naslov>"O Hacquetovih upodobitvah in opisih drugega"</naslov>
         <cit did="2018" cid="82" avtor0="Fikfak J."
             naslov0="&#34;O Hacquetovih upodobitvah in opisih drugega&#34;" source="V Hacquetia"
@@ -33544,13 +33544,13 @@
             source="Godišnjak 32, Centar za balkanoloska ispitivanja 30" year="2002" page="419-438"
         />
     </delo>
-    <delo mojID="28303">
+    <delo mojID="28303" cobiss="59762176">
         <naslov>O izdajstvu, narodnem izdajstvu in kolaboraciji</naslov>
         <cit did="487" cid="4" avtor0="Vodopivec Peter"
             naslov0="O izdajstvu, narodnem izdajstvu in kolaboraciji" source="Delo" year="0"
             volume="38" issue="92"/>
     </delo>
-    <delo mojID="28304">
+    <delo mojID="28304" cobiss="215650304">
         <naslov>O izkoriščanju golosekov in gorskih travnikov na posestvih železarne v
                         Mislinji v letih 1799 do 1809</naslov>
         <cit did="2241" cid="4" avtor0="Krivograd Alojz"
@@ -33598,7 +33598,7 @@
             naslov0="O jednoj hristološkoj raspravi u Sirmiju IV veka (On one christological dispute in fourth-century Sirmium)"
             source="Starinar" year="1998" issue="49" page="203-214"/>
     </delo>
-    <delo mojID="28318">
+    <delo mojID="28318" cobiss="492787">
         <naslov>O jezuitski gledališču v Ljubljani</naslov>
         <cit did="57" cid="21" avtor0="Škerlj Stanko" naslov0="O jezuitski gledališču v Ljubljani"
             naslov1="Dokumenti slovenskega gledališkega muzeja" pubPlace="Ljubljana" year="1967"
@@ -33632,12 +33632,12 @@
             naslov0="O karakteru grčkog matenjala na Glasincu i putevima njegovog prodiranja"
             source="Starinar" year="1960" volume="11" page="21-45"/>
     </delo>
-    <delo mojID="28325">
+    <delo mojID="28325" cobiss="35824641">
         <naslov>O kmečki duši</naslov>
         <cit did="2256" cid="7" avtor0="Puš Ludovik" naslov0="O kmečki duši" pubPlace="Ljubljana"
             year="1941"/>
     </delo>
-    <delo mojID="28327">
+    <delo mojID="28327" cobiss="109868288">
         <naslov>O knjigah in knjižničarstvu, razvojne študije in analize</naslov>
         <cit did="2206" cid="18" avtor0="Berčič Branko"
             naslov0="O knjigah in knjižničarstvu, razvojne študije in analize" pubPlace="Ljubljana"
@@ -33680,7 +33680,7 @@
             naslov0="O kriterijima stratifikacije i regionalne diferenciacije jugoslavenskog romanstva u svjetlu toponomastike"
             source="Onomastica jugoslavica" pubPlace="Zagreb" year="1976" volume="6" page="35-55"/>
     </delo>
-    <delo mojID="28344">
+    <delo mojID="28344" cobiss="240645">
         <naslov>O kulturi mesta : spisi 1895-1960</naslov>
         <cit did="2403" cid="17" avtor0="Fabiani Maks" naslov0="O kulturi mesta : spisi 1895-1960"
             pubPlace="Trst" publisher="Založništvo Tržaškega tiska" year="1988"/>
@@ -33692,7 +33692,7 @@
             source="Slovenska trideseta leta : simpozij 1995" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1997" page="144-149"/>
     </delo>
-    <delo mojID="28350">
+    <delo mojID="28350" cobiss="43951873">
         <naslov>O lekarnah na Celjskem od Mozirja do Podčetrtka</naslov>
         <cit did="1430" cid="3" avtor0="Predin Štefan"
             naslov0="O lekarnah na Celjskem od Mozirja do Podčetrtka" pubPlace="Celje"
@@ -33738,12 +33738,12 @@
             naslov0="O Ljudevitu Šturu i slozi, Niekoliko riečih sa strane g. A. Tkalčeviću"
             source="Danica" year="0" page="47"/>
     </delo>
-    <delo mojID="28360">
+    <delo mojID="28360" cobiss="213022720">
         <naslov>O ljudima. Eseji, zapisi, sećanja</naslov>
         <cit did="2262" cid="5" avtor0="Tošić D." naslov0="O ljudima. Eseji, zapisi, sećanja"
             pubPlace="Beograd" year="2001" page="91"/>
     </delo>
-    <delo mojID="28361">
+    <delo mojID="28361" cobiss="23103488">
         <naslov>O ljudskem štetju v Trstu l. 1910</naslov>
         <cit did="426" cid="7" avtor0="Čermelj L." naslov0="O ljudskem štetju v Trstu l. 1910"
             source="In mermoriam dr. Josipa Wilfana" pubPlace="Zagreb"
@@ -33768,7 +33768,7 @@
             naslov0="O malo poznanih in pozabljenih dogodkih naše preteklosti"
             source="Goriška srečanja" year="1968" volume="3" issue="12" page="52-53"/>
     </delo>
-    <delo mojID="28367">
+    <delo mojID="28367" cobiss="24500226">
         <naslov>O mednacionalnih odnosih v Sloveniji</naslov>
         <cit did="680" cid="16" avtor0="Klinar Peter" naslov0="O mednacionalnih odnosih v Sloveniji"
             source="Teorija in praksa" pubPlace="Ljubljana" year="1991" volume="28" issue="3/4"
@@ -33787,7 +33787,7 @@
             naslov0="O metodološkim obrascima Vjakoslava Klaića" source="Historijski zbornik"
             year="1988"/>
     </delo>
-    <delo mojID="28372">
+    <delo mojID="28372" cobiss="5474101">
         <naslov>O meščanski morali in pravilih obnašanja v družinskem krogu</naslov>
         <cit did="226" cid="112" avtor0="Kramberger Taja"
             naslov0="O meščanski morali in pravilih obnašanja v družinskem krogu"
@@ -33838,7 +33838,7 @@
         <cit did="2764" cid="54" avtor0="Kodrć Snježana" naslov0="O naciji, povjesti i jeziku"
             source="Književna republika" year="2008" volume="6" issue="1-2" page="186-208"/>
     </delo>
-    <delo mojID="28384">
+    <delo mojID="28384" cobiss="311133">
         <naslov>O nacionalni identiteti in etnonacionalizmih</naslov>
         <cit did="2853" cid="112" avtor0="Klinar Peter"
             naslov0="O nacionalni identiteti in etnonacionalizmih" source="Teorija in praksa"
@@ -33850,7 +33850,7 @@
             naslov0="O nacionalnoj ideologiji Anteja Starčevića in Evgena Kvaternika"
             source="Časopis za suvremenu povijest" pubPlace="Zagreb" year="1972" page="25-46"/>
     </delo>
-    <delo mojID="28386">
+    <delo mojID="28386" cobiss="473393">
         <naslov>O nagrajevanju dela in uslug v srednjeveškem Piranu</naslov>
         <cit did="1762" cid="98" avtor0="Mihelič Darja"
             naslov0="O nagrajevanju dela in uslug v srednjeveškem Piranu"
@@ -33862,7 +33862,7 @@
         <cit did="2623" cid="119" avtor0="Kos Franc" naslov0="O najstarejših Turjačanih"
             source="Carniola" year="1912" volume="3" page="93-94"/>
     </delo>
-    <delo mojID="28389">
+    <delo mojID="28389" cobiss="1107151198">
         <naslov>O največji smučarski skakalnici sveta</naslov>
         <cit did="3365" cid="336" avtor0="Šoukal Ciril"
             naslov0="O največji smučarski skakalnici sveta" source="Obisk" year="1940" volume="1"
@@ -33894,7 +33894,7 @@
             naslov0="O napadih na Francoze v Črnem grabnu in o zgodovinskem ozadju romana  Rokovnjači"
             pubPlace="Lukovica - Ljubljana" year="2004" page="86-94"/>
     </delo>
-    <delo mojID="28396">
+    <delo mojID="28396" cobiss="1755252">
         <naslov>O narodnem in političnem organiziranju</naslov>
         <cit did="2314" cid="20" avtor0="Vodopivec Peter"
             naslov0="O narodnem in političnem organiziranju"
@@ -33915,21 +33915,21 @@
             source="Kres, Leposloven in znanstven list, I. Letnik" pubPlace="Celovec" page="609-616"
         />
     </delo>
-    <delo mojID="28400">
+    <delo mojID="28400" cobiss="27906402">
         <naslov>O nastanku in namenu avstrijsko-slovenske komisije zgodovinarjev
                         (2001-2004)</naslov>
         <cit did="2900" cid="10" avtor0="Nećak Dušan" avtor1="Repe Božo"
             naslov0="O nastanku in namenu avstrijsko-slovenske komisije zgodovinarjev (2001-2004)"
             source="Zgodovinski časopis" year="2004" volume="58" issue="3/4" page="415-165"/>
     </delo>
-    <delo mojID="28401">
+    <delo mojID="28401" cobiss="18954240">
         <naslov>O nastanku in razvoju mednarodne organizacije Rdečega križa: rdeči križ pri
                         nas</naslov>
         <cit did="1509" cid="121" avtor0="Žnidaršič Ivica"
             naslov0="O nastanku in razvoju mednarodne organizacije Rdečega križa: rdeči križ pri nas"
             pubPlace="Ljubljana" year="1976" page="73-74"/>
     </delo>
-    <delo mojID="28403">
+    <delo mojID="28403" cobiss="4644361">
         <naslov>O nastanku, organizaciji, državnopravnim pitanjima i sukcesiji Države SHS
                         nastale u jesen 1918</naslov>
         <cit did="2096" cid="18" avtor0="Sirotković H."
@@ -33937,12 +33937,12 @@
             source="Časopis za suvremenu povijest" pubPlace="Zagreb" year="1992" volume="24"
             issue="3" page="61-74"/>
     </delo>
-    <delo mojID="28404">
+    <delo mojID="28404" cobiss="14239789">
         <naslov>O nastanku Prežihovih Solzic</naslov>
         <cit did="3022" cid="355" avtor0="Koruza Jože" naslov0="O nastanku Prežihovih Solzic"
             naslov1="pogovor s Kristino Brenkovo" source="JiS" year="1968" issue="5" page="15-156"/>
     </delo>
-    <delo mojID="28405">
+    <delo mojID="28405" cobiss="19418210">
         <naslov>O načelih za pisavo tujih geografskih imen</naslov>
         <cit did="2161" cid="13" avtor0="Medved Jakob"
             naslov0="O načelih za pisavo tujih geografskih imen" source="Geografski obzornik"
@@ -33955,7 +33955,7 @@
             source="Slovenski visokošolci v boju za narodno osvoboditev in socializem : ob 40-letnici Tita na čelu KPJ in ustanovnega kongresa KPS na Čebinah"
             pubPlace="Ljubljana" publisher="Univerzitetna konferenca ZKS" year="1977" page="34-38"/>
     </delo>
-    <delo mojID="28407">
+    <delo mojID="28407" cobiss="1101286750">
         <naslov>O našem glasbenem življenju</naslov>
         <cit did="370" cid="47" avtor0="Lipovšek Marijan" naslov0="O našem glasbenem življenju"
             source="Slovenska glasbena revija" year="0" volume="I" issue="1" page="2"/>
@@ -33971,7 +33971,7 @@
             source="Koledar osvobodilne fronte slovenskega naroda 1946" pubPlace="Ljubljana"
             year="1946" page="180"/>
     </delo>
-    <delo mojID="28411">
+    <delo mojID="28411" cobiss="6988854">
         <naslov>O našem starem žebljarstvu</naslov>
         <cit did="2614" cid="83" avtor0="Žontar Josip" naslov0="O našem starem žebljarstvu"
             source="Loški razgledi" year="1955" volume="2" page="85-86"/>
@@ -33992,7 +33992,7 @@
         <cit did="3292" cid="174" avtor0="Irinej Vladika Bački" naslov0="O našim verskim prilikama"
             source="Nova Evropa" year="1923" issue="1"/>
     </delo>
-    <delo mojID="28416">
+    <delo mojID="28416" cobiss="13761581">
         <naslov>O nekaterih govorih in zapisu</naslov>
         <cit did="393" cid="5" avtor0="Škofic Jožica" naslov0="O nekaterih govorih in zapisu"
             source="Repečnekova Vučca. Glasovi" pubPlace="Ljubljana" publisher="Kmečki glas"
@@ -34004,7 +34004,7 @@
             naslov0="O nekaterih krivih prijemih v političnem zgodovinopisju" source="ZČ"
             year="1963" page="237"/>
     </delo>
-    <delo mojID="28419">
+    <delo mojID="28419" cobiss="21186565">
         <naslov>O nekaterih nerešenih problemih ptujske topografije. Kronika 47 (1999). str.
                         1-10.</naslov>
         <cit did="2639" cid="34" avtor0="Curk Jože"
@@ -34023,7 +34023,7 @@
             naslov0="O nekaterih pravnih problemih v zvezi s sabotinsko cesto"
             source="Primorska srečanja" year="1985" issue="54-55" page="240-246"/>
     </delo>
-    <delo mojID="28423">
+    <delo mojID="28423" cobiss="42968832">
         <naslov>O nekaterih slovenskih dvojnicah tipa rakitje : rokitje</naslov>
         <cit did="730" cid="4" avtor0="Furlan Metka"
             naslov0="O nekaterih slovenskih dvojnicah tipa rakitje : rokitje"
@@ -34124,13 +34124,13 @@
             source="Hrvati u Sloveniji" pubPlace="Zagreb"
             publisher="Institut za migracije i narodnosti" year="1997" page="403-411"/>
     </delo>
-    <delo mojID="28444">
+    <delo mojID="28444" cobiss="44902242">
         <naslov>O (ne)moči splošne izobrazbe v slovenski srednji šoli</naslov>
         <cit did="3190" cid="3" avtor0="Berzelak S."
             naslov0="O (ne)moči splošne izobrazbe v slovenski srednji šoli"
             source="Sodobna pedagogika" year="2010" volume="4" page="98-105"/>
     </delo>
-    <delo mojID="28445">
+    <delo mojID="28445" cobiss="127828224">
         <naslov>O Nemčiji</naslov>
         <cit did="2018" cid="310" avtor0="Stael M. de" naslov0="O Nemčiji" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="2003"/>
@@ -34160,14 +34160,14 @@
             naslov0="O nevarnostih kemičnih poizkusov : izvestje c. kr. Državne višje realke v Idriji za šolsko leto 1910/11"
             pubPlace="Idrija" publisher="Ravnateljstvo šole" year="1911" page="5-17"/>
     </delo>
-    <delo mojID="28450">
+    <delo mojID="28450" cobiss="14881280">
         <naslov>O "(ne)znanstveni fantastiki" v Zgodovinskem časopisu</naslov>
         <cit did="425" cid="105" avtor0="Grafenauer Bogo"
             naslov0="O &#34;(ne)znanstveni fantastiki&#34; v Zgodovinskem časopisu"
             naslov1="Odprto pismo prvega glavnega in odgovornega urednika Zgodovinskega časopisa sedanjemu uredniku"
             source="Zgodovinski časopis" year="1988" volume="42" page="123"/>
     </delo>
-    <delo mojID="28452">
+    <delo mojID="28452" cobiss="11608635">
         <naslov>O Novem mestu ob koncu XVIII. stoletja</naslov>
         <cit did="2589" cid="18" avtor0="Jarc J." naslov0="O Novem mestu ob koncu XVIII. stoletja"
             source="Kronika slovenskih mest" year="1938" page="144-151"/>
@@ -34195,7 +34195,7 @@
         <cit did="15" cid="48" avtor0="Rozman Vlado" naslov0="O ocenjevanju in nagrajevanju"
             source="Prosvetni delavec" year="1960" volume="10" issue="12" page="3"/>
     </delo>
-    <delo mojID="28459">
+    <delo mojID="28459" cobiss="241447168">
         <naslov>O odmevu karbonarskih vstaj v Italiji in zaprtih Italijanih na ljubljanskem
                         gradu (1820-1825)</naslov>
         <cit did="2779" cid="10" avtor0="Vodopivec Peter"
@@ -34215,7 +34215,7 @@
             source="Zbornik znanstvenih razprav juridične fakultete" pubPlace="Ljubljana"
             publisher="Pravna fakulteta" page="189-207"/>
     </delo>
-    <delo mojID="28462">
+    <delo mojID="28462" cobiss="7069009">
         <naslov>O odpravi nevoljništva na Kranjskem</naslov>
         <cit did="3459" cid="174" avtor0="Polec J." naslov0="O odpravi nevoljništva na Kranjskem"
             source="Zbornik znanstvenih razprav juridične fakultete" pubPlace="Ljubljana"
@@ -34240,18 +34240,18 @@
             naslov0="O organizaciji in delokrogu trgovskih in obrtniških zbornic" source="NGV"
             year="1920" issue="20-21"/>
     </delo>
-    <delo mojID="28467">
+    <delo mojID="28467" cobiss="2688628">
         <naslov>O Orwellovem »premišljevanju« o Španiji (Spremna beseda)</naslov>
         <cit did="2894" cid="6" avtor0="Vodopivec Peter"
             naslov0="O Orwellovem »premišljevanju« o Španiji (Spremna beseda)" pubPlace="Ljubljana"
             year="2009" page="337-428"/>
     </delo>
-    <delo mojID="28469">
+    <delo mojID="28469" cobiss="9790978">
         <naslov>O osebnostnem profilu Slovencev</naslov>
         <cit did="2625" cid="74" avtor0="Musek Janek" naslov0="O osebnostnem profilu Slovencev"
             source="Anthropos" year="1989" volume="1-2" page="270-286"/>
     </delo>
-    <delo mojID="28470">
+    <delo mojID="28470" cobiss="12144897">
         <naslov>O osvobodilni vojni</naslov>
         <cit did="2287" cid="55" avtor0="Kveder Dušan Tomaž" naslov0="O osvobodilni vojni"
             pubPlace="Ljubljana" publisher="DZS" year="1975"/>
@@ -34281,7 +34281,7 @@
             pubPlace="Zagreb" publisher="Zavod za hrvatsku povijest FF Sveučilišta u Zagrebu"
             year="1999" page="445-458"/>
     </delo>
-    <delo mojID="28477">
+    <delo mojID="28477" cobiss="19876957">
         <naslov>O pisanju slovarskega gesla "spol"</naslov>
         <cit did="106" cid="239" avtor0="Haraway D."
             naslov0="O pisanju slovarskega gesla &#34;spol&#34;" source="Delta" year="1999"
@@ -34336,14 +34336,14 @@
             naslov0="O pojmovima &#34;Epir&#34; i &#34;Ilirija&#34; u poznorepublikansko doba"
             source="Godišnjak" year="1976" volume="13" page="197-211"/>
     </delo>
-    <delo mojID="28489">
+    <delo mojID="28489" cobiss="18121261">
         <naslov>O poklicni in starostni strukturi padlih avstroogrskih vojakov v prvi
                         svetovni vojni</naslov>
         <cit did="2430" cid="5" avtor0="Svoljšak Petra"
             naslov0="O poklicni in starostni strukturi padlih avstroogrskih vojakov v prvi svetovni vojni"
             source="Melikov zbornik" pubPlace="Ljubljana" year="2001" page="835-850"/>
     </delo>
-    <delo mojID="28490">
+    <delo mojID="28490" cobiss="20860770">
         <naslov>O poklicni sestavi prebivalstva v mestih Jugoslavije</naslov>
         <cit did="854" cid="43" avtor0="Melik Anton"
             naslov0="O poklicni sestavi prebivalstva v mestih Jugoslavije"
@@ -34355,12 +34355,12 @@
             naslov0="O pokolju hrvatskih zarobljenika kod Ljubljane i Kočevskog roga"
             source="Bleiburg 1945.–1995" page="126"/>
     </delo>
-    <delo mojID="28493">
+    <delo mojID="28493" cobiss="7688493">
         <naslov>O pokrajinskem imenu Pivka</naslov>
         <cit did="2392" cid="11" avtor0="Kranjc Andrej" naslov0="O pokrajinskem imenu Pivka"
             source="Geografski vestnik" year="1987" volume="59" page="141-142"/>
     </delo>
-    <delo mojID="28494">
+    <delo mojID="28494" cobiss="1964660">
         <naslov>O polemičnih soočenjih Dušana Kermavnerja in Frana Zwittra</naslov>
         <cit did="1511" cid="400" avtor0="Vodopivec Peter"
             naslov0="O polemičnih soočenjih Dušana Kermavnerja in Frana Zwittra"
@@ -34440,7 +34440,7 @@
             pubPlace="Beograd" publisher="Srpska akademija znanosti i umjetnosti" year="1989"
             page="129-134"/>
     </delo>
-    <delo mojID="28509">
+    <delo mojID="28509" cobiss="8148996">
         <naslov>O popravilu bovške ceste na prelomu iz 14. v 15. stoletje</naslov>
         <cit did="2583" cid="184" avtor0="Šumrada Janez"
             naslov0="O popravilu bovške ceste na prelomu iz 14. v 15. stoletje" source="ZČ"
@@ -34457,7 +34457,7 @@
         <cit did="1660" cid="71" avtor0="Mašek Josef" naslov0="O poruchách výživy za války"
             source="Časopis Lékařů Českých" year="1946" volume="84" issue="22" page="713-717"/>
     </delo>
-    <delo mojID="28513">
+    <delo mojID="28513" cobiss="1739379">
         <naslov>O posegu Ivana Cankarja v slovensko politiko leta 1918</naslov>
         <cit did="1662" cid="155" avtor0="Kermavner Dušan"
             naslov0="O posegu Ivana Cankarja v slovensko politiko leta 1918" pubPlace="Ljubljana"
@@ -34475,7 +34475,7 @@
         <cit did="3241" cid="110" avtor0="Podgoršek Anton"
             naslov0="O potrebah, dobrinah in funkcijah trgovine" source="TT" year="1926" issue="6"/>
     </delo>
-    <delo mojID="28520">
+    <delo mojID="28520" cobiss="6766937">
         <naslov>O pouku matematike na začetku šolanja v novi osnovni šoli</naslov>
         <cit did="707" cid="4" avtor0="Cotič M., Hodnik T."
             naslov0="O pouku matematike na začetku šolanja v novi osnovni šoli"
@@ -34487,7 +34487,7 @@
             naslov0="O pouku slovenskega jezika. Jezikoslovna dela III." pubPlace="Nova Gorica"
             year="1995"/>
     </delo>
-    <delo mojID="28522">
+    <delo mojID="28522" cobiss="12433197">
         <naslov>O poveljevalnem jeziku NOB Slovenije</naslov>
         <cit did="827" cid="3" avtor0="Avšič Jaka" naslov0="O poveljevalnem jeziku NOB Slovenije"
             source="Jezik in slovstvo" year="1969" volume="14" issue="4" page="97-103"/>
@@ -34519,7 +34519,7 @@
             naslov0="O pravni naravi statutov novih občin in okrajev" source="Pravnik" year="1956"
             issue="3-4" page="67"/>
     </delo>
-    <delo mojID="28532">
+    <delo mojID="28532" cobiss="12176904">
         <naslov>O prebivalstvu Maribora med sredinama 18. in 19- stoletja</naslov>
         <cit did="3459" cid="40" avtor0="Curk J."
             naslov0="O prebivalstvu Maribora med sredinama 18. in 19- stoletja"
@@ -34541,7 +34541,7 @@
         <cit did="2131" cid="30" avtor0="Slavič Matija" naslov0="O prekmurski statistiki"
             source="Naše Prekmurje" page="134-135"/>
     </delo>
-    <delo mojID="28536">
+    <delo mojID="28536" cobiss="1404021">
         <naslov>O prenovi stalne razstave Slovenci v XX. stoletju</naslov>
         <cit did="569" cid="54" avtor0="Dežman Jože"
             naslov0="O prenovi stalne razstave Slovenci v XX. stoletju" source="Dnevnik" year="0"/>
@@ -34551,7 +34551,7 @@
         <cit did="172" cid="17" avtor0="Kopač J." naslov0="&#34;O preteklih dneh&#34;"
             source="Pod lipo" year="1925" issue="1-8" page="54"/>
     </delo>
-    <delo mojID="28539">
+    <delo mojID="28539" cobiss="567838">
         <naslov>O preteklosti drugače</naslov>
         <cit did="1607" cid="13" avtor0="Klopčič France" naslov0="O preteklosti drugače"
             pubPlace="Ljubljana" year="1984"/>
@@ -34568,7 +34568,7 @@
             source="Srednjeveška kulturna, družbena in politična zgodovina Slovence"
             pubPlace="Ljubljana" year="1985" page="133-142"/>
     </delo>
-    <delo mojID="28544">
+    <delo mojID="28544" cobiss="24073773">
         <naslov>O prevzetih besedah, tujkah in izposojenkah</naslov>
         <cit did="2076" cid="18" avtor0="Snoj Marko"
             naslov0="O prevzetih besedah, tujkah in izposojenkah" source="Slovenski jezik"
@@ -34585,14 +34585,14 @@
         <cit did="452" cid="25" avtor0="Jevnikar Ivo" naslov0="O primorskih padalcih"
             source="Mladika" year="1995" issue="1,9,10"/>
     </delo>
-    <delo mojID="28551">
+    <delo mojID="28551" cobiss="444557">
         <naslov>O problematiki predmeta humanističnih in/ali družbenih ved, zlasti kulturne
                         antropologije in sociologije kulture</naslov>
         <cit did="2018" cid="274" avtor0="Rotar D. B."
             naslov0="O problematiki predmeta humanističnih in/ali družbenih ved, zlasti kulturne antropologije in sociologije kulture"
             source="Problemi - Razprave" year="1972" issue="116-117" page="80-112"/>
     </delo>
-    <delo mojID="28552">
+    <delo mojID="28552" cobiss="243814912">
         <naslov>O problemu funkcijskih zvrsti slovenskega ljudskega jezika</naslov>
         <cit did="729" cid="2" avtor0="Hafner S."
             naslov0="O problemu funkcijskih zvrsti slovenskega ljudskega jezika"
@@ -34604,7 +34604,7 @@
             naslov0="O problemu japodske obale u svjetlu arheoloskih izvora" source="Obavijesti"
             year="2000" volume="32" issue="2" page="17-18"/>
     </delo>
-    <delo mojID="28554">
+    <delo mojID="28554" cobiss="5447501">
         <naslov>O problemu »razseljenih oseb« (D. Ps.) in jugoslovanskih »Volksdeutscherjev«
                         v Avstriji ter o britanski ideji njihove zamenjave s koroškimi Slovenci
                         (1945-1947)</naslov>
@@ -34612,14 +34612,14 @@
             naslov0="O problemu »razseljenih oseb« (D. Ps.) in jugoslovanskih »Volksdeutscherjev« v Avstriji ter o britanski ideji njihove zamenjave s koroškimi Slovenci (1945-1947)"
             source="Zgodovinski časopis" year="1996" volume="50" issue="4" page="561-571"/>
     </delo>
-    <delo mojID="28557">
+    <delo mojID="28557" cobiss="28189698">
         <naslov>O prometu v Slavi Vojvodine Kranjske</naslov>
         <cit did="2218" cid="40" avtor0="Sitar Sandi" naslov0="O prometu v Slavi Vojvodine Kranjske"
             source="Valvasorjev zbornik, Ob 300 letnici izida Slave Vojvodine Kranjske - referati s simpozija v Ljubljani 1989"
             pubPlace="Ljubljana" publisher="Slovenska akademija znanosti in umetnosti" year="1990"
             page="143-156"/>
     </delo>
-    <delo mojID="28560">
+    <delo mojID="28560" cobiss="3756086">
         <naslov>O prvi stavki in o razmerah na Jesenicah pred začetkom političnih
                         bojev</naslov>
         <cit did="1683" cid="20" avtor0="Kermavner Dušan"
@@ -34653,7 +34653,7 @@
             naslov0="O racionalizaciji in intenzifikaciji visokošolskega študija" source="Tribuna"
             year="0" volume="16" issue="18"/>
     </delo>
-    <delo mojID="28572">
+    <delo mojID="28572" cobiss="5723353">
         <naslov>O racionalnem in emocionalnem polu dojemanja: razmerje čustvenega in
                         razumskega</naslov>
         <cit did="3127" cid="16" avtor0="Toth Cvetka"
@@ -34679,7 +34679,7 @@
             naslov0="O razmerju med razredno in nacionalno dejavnostjo v politiki KPJ ali ZKJ"
             source="Izročilo Čebin" pubPlace="Ljubljana" publisher="Komunist" year="1987"/>
     </delo>
-    <delo mojID="28578">
+    <delo mojID="28578" cobiss="564614">
         <naslov>O razstavi Slovenski priseljenci v Argentini v argentinskem Nacionalnem
                         muzeju priseljevanja</naslov>
         <cit did="2853" cid="93" avtor0="Hribar Daša"
@@ -34700,7 +34700,7 @@
             source="Slovenci 1848–1918. Razprave in članki" pubPlace="Ljubljana" year="2002"
             page="217"/>
     </delo>
-    <delo mojID="28585">
+    <delo mojID="28585" cobiss="358263">
         <naslov>O razvoju vprežnih vozov</naslov>
         <cit did="2634" cid="45" avtor0="Sitar Sandi" naslov0="O razvoju vprežnih vozov"
             source="Zbornik za zgodovino naravoslovja in tehnike. Zvezek 13-14."
@@ -34724,12 +34724,12 @@
             source="Glas gospodarstva / Http://www.gzs.si/gg/nov/maj-2001 oretzini.htm;" year="2001"
         />
     </delo>
-    <delo mojID="28589">
+    <delo mojID="28589" cobiss="106560512">
         <naslov>O revoluciji in o smrti</naslov>
         <cit did="860" cid="166" avtor0="Petan Žarko" naslov0="O revoluciji in o smrti"
             pubPlace="Ljubljana" year="2000" page="78-79"/>
     </delo>
-    <delo mojID="28592">
+    <delo mojID="28592" cobiss="109327616">
         <naslov>O rokopisu</naslov>
         <cit did="1310" cid="13" avtor0="Slodnjak Breda" naslov0="O rokopisu"
             source="Dnevnik 1914-1920" pubPlace="Ljubljana" publisher="Slovenska matica" year="2000"
@@ -34747,12 +34747,12 @@
             naslov0="O rušenju mita oko &#34;jugoslavenske&#34; politike Josipa Juraja Strossmayerja"
             source="Časopis za suvremenu povijest, III" year="1971" issue="2-3" page="254-266"/>
     </delo>
-    <delo mojID="28595">
+    <delo mojID="28595" cobiss="95615488">
         <naslov>O saradnji društava</naslov>
         <cit did="176" cid="8" avtor0="Štebi Alojzija" naslov0="O saradnji društava"
             pubPlace="Beograde" year="1929"/>
     </delo>
-    <delo mojID="28596">
+    <delo mojID="28596" cobiss="63220480">
         <naslov>O sejmih v Podsredi</naslov>
         <cit did="1540" cid="9" avtor0="Počivavšek Marija" naslov0="O sejmih v Podsredi"
             source="ČZN" year="1996" issue="1" page="61"/>
@@ -34787,19 +34787,19 @@
         <cit did="15" cid="35" avtor0="Kopriva Alfonz" naslov0="O skupinskem delu v razredu"
             source="Sodobna pedagogika" year="1957" volume="8" issue="5/7" page="153-163"/>
     </delo>
-    <delo mojID="28611">
+    <delo mojID="28611" cobiss="626548">
         <naslov>O Slovencih v Jasenovcu. Spomini Slovencev na Jasenovac, Staro Gradiško in
                         Lepoglavo</naslov>
         <cit did="2550" cid="12" avtor0="Guštin Damijan"
             naslov0="O Slovencih v Jasenovcu. Spomini Slovencev na Jasenovac, Staro Gradiško in Lepoglavo"
             pubPlace="Šentjur" year="1998"/>
     </delo>
-    <delo mojID="28614">
+    <delo mojID="28614" cobiss="96780032">
         <naslov>O Slovencima, sa uvodom Ivana Meštroviča</naslov>
         <cit did="1511" cid="426" avtor0="Županič Niko"
             naslov0="O Slovencima, sa uvodom Ivana Meštroviča" pubPlace="New York" year="1916"/>
     </delo>
-    <delo mojID="28615">
+    <delo mojID="28615" cobiss="21199360"> 
         <naslov>O slovenske narodnem vprašanju</naslov>
         <cit did="169" cid="206" avtor0="Zwitter Fran" naslov0="O slovenske narodnem vprašanju"
             pubPlace="Ljubljana" year="1990"/>
@@ -34816,7 +34816,7 @@
             source="Likovni odsevi" pubPlace="Ljubljana" publisher="ZKOS" year="1986" issue="4/5"
             page="36-38"/>
     </delo>
-    <delo mojID="28620">
+    <delo mojID="28620" cobiss="17180205">
         <naslov>O slovenskem terskem narečju</naslov>
         <cit did="1928" cid="13" avtor0="Merku P." naslov0="O slovenskem terskem narečju"
             source="Slavistična revija" pubPlace="Ljubljana" year="1979" volume="27" issue="2"
@@ -34828,7 +34828,7 @@
             naslov0="O slovenskem trgovstvu na Štajerskem in Koroškem" source="Domovina, 2.11.1907"
             year="1907" issue="128"/>
     </delo>
-    <delo mojID="28622">
+    <delo mojID="28622" cobiss="34561280">
         <naslov>O slovenskem zgodovinopisju 1945-1990 ali kako je na zgodovinopisje vplivalo
                         staranje oblasti</naslov>
         <cit did="2113" cid="15" avtor0="Simoniti Vasko"
@@ -34853,7 +34853,7 @@
         <cit did="2613" cid="20" avtor0="Trdan F." naslov0="O slovenskih bogomilih" source="Čas"
             year="1914" volume="8" page="187-193"/>
     </delo>
-    <delo mojID="28629">
+    <delo mojID="28629" cobiss="1934964">
         <naslov>O slovesnkih "bratih" v prostozidarski loži Maksimiljan Vrhovec v
                         Zagrebu</naslov>
         <cit did="3133" cid="26" avtor0="Vodopivec Peter"
@@ -34884,19 +34884,19 @@
             source="Ob 10-letnici : 1928-1938" pubPlace="Ljubljana" publisher="Smučarski klub"
             year="1938" page="63-65"/>
     </delo>
-    <delo mojID="28636">
+    <delo mojID="28636" cobiss="9153378">
         <naslov>O socialnih in gospodarskih nazorih Ferda Kočevarja</naslov>
         <cit did="120" cid="12" avtor0="Vodopivec Peter"
             naslov0="O socialnih in gospodarskih nazorih Ferda Kočevarja"
             source="Čarnijev zbornik (1931-1996)" pubPlace="Ljubljana" year="1998" page="257"/>
     </delo>
-    <delo mojID="28638">
+    <delo mojID="28638" cobiss="230726400">
         <naslov>O socialnih in gospodarskih nazorih na Slovenskem v 19. stoletju</naslov>
         <cit did="2305" cid="13" avtor0="Vodpivec Peter"
             naslov0="O socialnih in gospodarskih nazorih na Slovenskem v 19. stoletju"
             pubPlace="Ljubljana" publisher="Inštitut za novejšo zgodovino" page="51-55, 135-136"/>
     </delo>
-    <delo mojID="28643">
+    <delo mojID="28643" cobiss="53340928">
         <naslov>O sovraštvu in spravi</naslov>
         <cit did="1872" cid="35" avtor0="Urbančič Ivan" naslov0="O sovraštvu in spravi"
             source="Nova revija" year="1995" issue="159-160"/>
@@ -34912,7 +34912,7 @@
             naslov0="O Srbima u Hrvatskoj: selektivna bibliografija 1984.–1999. godine"
             pubPlace="Zagreb" publisher="SKD »Prosvjeta«" year="2001"/>
     </delo>
-    <delo mojID="28647">
+    <delo mojID="28647" cobiss="20854840">
         <naslov>O srednjeveških zasnovah Ptuja in Maribora</naslov>
         <cit did="2639" cid="35" avtor0="Curk Jože"
             naslov0="O srednjeveških zasnovah Ptuja in Maribora" source="ČZN" year="1975"
@@ -34926,7 +34926,7 @@
             source="Prispevki za zgodovino delavskega gibanja" year="1981" volume="21" issue="1-2"
             page="101-112"/>
     </delo>
-    <delo mojID="28649">
+    <delo mojID="28649" cobiss="9408301">
         <naslov>»O stališčih slovenskih socialistov v ZDA do vojne in jugoslovanskega
                         vprašanja med prvo svetovno vojno«</naslov>
         <cit did="2837" cid="28" avtor0="Drnovšek Marjan"
@@ -34940,12 +34940,12 @@
             naslov0="O Stanku Vrazu kot slovenskemu književniku" source="Slovenska djela"
             pubPlace="Zagreb" year="1958" page="76"/>
     </delo>
-    <delo mojID="28651">
+    <delo mojID="28651" cobiss="17480285">
         <naslov>O stanovanjski segregaciji</naslov>
         <cit did="680" cid="19" avtor0="Mandič Srna" naslov0="O stanovanjski segregaciji"
             source="Družboslovne razprave" pubPlace="Ljubljana" year="1984" page="133-146"/>
     </delo>
-    <delo mojID="28653">
+    <delo mojID="28653" cobiss="20131634">
         <naslov>O starejši zgodovini cerkvene uprave v Št. Vidu: Šembijski dušni
                         pastirji</naslov>
         <cit did="1422" cid="33" avtor0="Rosa Jurij"
@@ -34959,7 +34959,7 @@
             naslov0="O starinskih najdbah v Razborju nad Loko" source="ČZN" year="1909" volume="6"
             page="164"/>
     </delo>
-    <delo mojID="28656">
+    <delo mojID="28656" cobiss="18984749">
         <naslov>O stavbni zgodovini kapiteljske cerkve v Novem mestu</naslov>
         <cit did="1298" cid="109" avtor0="Peskar Robert"
             naslov0="O stavbni zgodovini kapiteljske cerkve v Novem mestu"
@@ -34979,7 +34979,7 @@
             naslov0="O stikih demokratskega protikomunističnega tabora z zahodnimi zavezniki"
             source="Vestnik" year="1993" page="22-24"/>
     </delo>
-    <delo mojID="28664">
+    <delo mojID="28664" cobiss="20388909">
         <naslov>O stražiškem govoru</naslov>
         <cit did="393" cid="10" avtor0="Škofic Jožica" naslov0="O stražiškem govoru"
             source="Stražišče pa Strašan" pubPlace="Kranj" publisher="Gorenjski muzej" year="2002"
@@ -34992,7 +34992,7 @@
             source="Kaj : časopis za književnost, umjetnost i kulturu" year="1995" volume="28"
             issue="4-5" page="109-121"/>
     </delo>
-    <delo mojID="28667">
+    <delo mojID="28667" cobiss="512241195">
         <naslov>O svilenih tapetah in krokodilu : Hribarjevo stanovanje v Gradišču</naslov>
         <cit did="2398" cid="20" avtor0="Ravnikar Sabina"
             naslov0="O svilenih tapetah in krokodilu : Hribarjevo stanovanje v Gradišču"
@@ -35004,14 +35004,14 @@
         <cit did="531" cid="33" avtor0="Korošec Anton" naslov0="o svoji nalogi"
             naslov1="intervju z dr. Antonom Korošcem" source="Slovenec" year="0" page="1"/>
     </delo>
-    <delo mojID="28670">
+    <delo mojID="28670" cobiss="2044276">
         <naslov>O talijanskoj upravi u Istri i Dalmaciji 1918. - 1943: nasilno
                         potalijančivanje prezimena, imena i mjesta</naslov>
         <cit did="2873" cid="286" avtor0="Mezuličć H., Jelić R."
             naslov0="O talijanskoj upravi u Istri i Dalmaciji 1918. - 1943: nasilno potalijančivanje prezimena, imena i mjesta"
             pubPlace="Zagreb" year="2005"/>
     </delo>
-    <delo mojID="28672">
+    <delo mojID="28672" cobiss="710356">
         <naslov>O teritorialni zasnovanosti manjšinske zaščite in o protipogodbenih
                         stališčih in praksi Avstrije</naslov>
         <cit did="3071" cid="80" avtor0="Pleterski Janko"
@@ -35026,7 +35026,7 @@
             source="Zbornik Filozofskog fakulteta Beograd" year="1963" volume="7" issue="1"
             page="71-86"/>
     </delo>
-    <delo mojID="28674">
+    <delo mojID="28674" cobiss="235481600">
         <naslov>O tesnobi</naslov>
         <cit did="2701" cid="70" avtor0="Salecl Renata" naslov0="O tesnobi" pubPlace="Ljubljana"
             publisher="Založba Sophia" year="2007"/>
@@ -35036,7 +35036,7 @@
         <cit did="3424" cid="74" avtor0="Turner Pavel" naslov0="O ti zakajeni svet!"
             source="Ljubljanski zvon" year="1886" volume="6" issue="6" page="339-343"/>
     </delo>
-    <delo mojID="28676">
+    <delo mojID="28676" cobiss="48395520">
         <naslov>O TIGR-u in tigrovcih po drugi svetovni vojni</naslov>
         <cit did="1511" cid="203" avtor0="Marušič Branko"
             naslov0="O TIGR-u in tigrovcih po drugi svetovni vojni" source="Primorska srečanja"
@@ -35080,13 +35080,13 @@
         <cit did="3022" cid="182" avtor0="Tito Josip Broz" naslov0="O trockizmu" source="ZD"
             issue="4" page="242, 247"/>
     </delo>
-    <delo mojID="28687">
+    <delo mojID="28687" cobiss="7221508">
         <naslov>O Tumovem avstromarksizmu v letu 1918</naslov>
         <cit did="503" cid="1" avtor0="Rozman Franc" naslov0="O Tumovem avstromarksizmu v letu 1918"
             source="Prispevki za zgodovino delavskega gibanja" year="1978" volume="18/19"
             issue="1/2"/>
     </delo>
-    <delo mojID="28690">
+    <delo mojID="28690" cobiss="1906036">
         <naslov>O ukrepih za spreminjanje družbenoekonomskih odnosov leta 1942 v
                         Sloveniji</naslov>
         <cit did="2299" cid="105" avtor0="Čepič Zdenko"
@@ -35104,7 +35104,7 @@
         <cit did="1565" cid="16" avtor0="Stegenšek Avguštin" naslov0="O umetniški obliki monštranc"
             source="Voditelj v bogoslovnih vedah" year="1906" volume="9" page="78"/>
     </delo>
-    <delo mojID="28694">
+    <delo mojID="28694" cobiss="28831489">
         <naslov>O umetnosti i umetnicima</naslov>
         <cit did="2018" cid="311" avtor0="Marie Henri Beyle" naslov0="O umetnosti i umetnicima"
             pubPlace="Beograd" publisher="Kultura" year="1957"/>
@@ -35116,13 +35116,13 @@
             source="Vjesnik kraljevsko Hrvatsko-slavonsko-dalmatinskog arhiva VIII"
             pubPlace="Zagreb" year="1906"/>
     </delo>
-    <delo mojID="28698">
+    <delo mojID="28698" cobiss="21190445">
         <naslov>O usodi "velikega žanra"</naslov>
         <cit did="2342" cid="9" avtor0="Juvan M." naslov0="O usodi &#34;velikega žanra&#34;"
             source="Kako pisati literarno zgodovino danes?" pubPlace="Ljubljana"
             publisher="Založba ZRC SAZU" year="2003" page="17-49"/>
     </delo>
-    <delo mojID="28701">
+    <delo mojID="28701" cobiss="108075">
         <naslov>O ustavu</naslov>
         <cit did="2756" cid="7" avtor0="Jovičić Miodrag" naslov0="O ustavu" pubPlace="Beograd"
             publisher="Institut za uporedno pravo: Savremena administracija" year="1977"/>
@@ -35132,7 +35132,7 @@
         <cit did="316" cid="3" avtor0="Gučetić N.V." naslov0="O ustroju država" pubPlace="Zagreb"
             year="2000" page="395"/>
     </delo>
-    <delo mojID="28704">
+    <delo mojID="28704" cobiss="2202673">
         <naslov>O uvozu vina na Kranjsko in o njegovem ponarejanju v prvi polovici 19.
                         stoletja</naslov>
         <cit did="1887" cid="3" avtor0="Holz Eva"
@@ -35140,7 +35140,7 @@
             source="Dežela refoška: vinogradništvo in vinarstvo slovenske Istre" pubPlace="Koper"
             publisher="Zgodovinsko društvo za južno Primorsko" year="1995"/>
     </delo>
-    <delo mojID="28705">
+    <delo mojID="28705" cobiss="239621376">
         <naslov>O valjanju domačega sukna</naslov>
         <cit did="2614" cid="60" avtor0="Kotnik F." naslov0="O valjanju domačega sukna"
             source="Slovenski entnograf" year="1949" volume="2" page="10-26"/>
@@ -35174,20 +35174,20 @@
         <cit did="2403" cid="7" avtor0="Mušič Braco" naslov0="O vojaških objektih v Ljubljani"
             source="Dnevnik" year="2025" page="13"/>
     </delo>
-    <delo mojID="28717">
+    <delo mojID="28717" cobiss="88662272">
         <naslov>O vojni proti Italiji</naslov>
         <cit did="1315" cid="4" avtor0="Borojević Svetozar, Adriaticus"
             naslov0="O vojni proti Italiji" pubPlace="Ljubljana" publisher="Delniška tiskarna d.d."
             year="1923"/>
     </delo>
-    <delo mojID="28722">
+    <delo mojID="28722" cobiss="988028">
         <naslov>O vplivu filma in televizije na znanje tujih jezikov</naslov>
         <cit did="2494" cid="3" avtor0="Bosnič T."
             naslov0="O vplivu filma in televizije na znanje tujih jezikov"
             source="Vzgoja in izobraževanje" pubPlace="Ljubljana"
             publisher="Zavod Republike Slovenije" year="2038" issue="6"/>
     </delo>
-    <delo mojID="28723">
+    <delo mojID="28723" cobiss="6765901">
         <naslov>O vprašanjih sodelovanja narodne manjšine z matico</naslov>
         <cit did="2899" cid="37" avtor0="Mejak Renata"
             naslov0="O vprašanjih sodelovanja narodne manjšine z matico" source="RiG"
@@ -35227,7 +35227,7 @@
         <cit did="2623" cid="17" avtor0="Beran Petr" naslov0="O zaimku Hartenberk v Hrebenech"
             pubPlace="Sokolov" year="1992"/>
     </delo>
-    <delo mojID="28734">
+    <delo mojID="28734" cobiss="19197746">
         <naslov>O zametkih galerijskega delovanja na Goriškem</naslov>
         <cit did="50" cid="18" avtor0="Marušič Branko"
             naslov0="O zametkih galerijskega delovanja na Goriškem"
@@ -35240,13 +35240,13 @@
             naslov0="O zavisnom seljastvu kod Ardijejaca i Dardanaca (Sur les populations assujetties chez les Ardieens et les Dardaniens)"
             source="Godišnjak 30" year="1992" page="97-104"/>
     </delo>
-    <delo mojID="28738">
+    <delo mojID="28738" cobiss="3510841">
         <naslov>O začetkih in razvoju Rdečega križa pri nas</naslov>
         <cit did="3161" cid="117" avtor0="Žnidaršič Ivica"
             naslov0="O začetkih in razvoju Rdečega križa pri nas" pubPlace="Ljubljana"
             publisher="Rdeči križ Slovenije" year="1984"/>
     </delo>
-    <delo mojID="28741">
+    <delo mojID="28741" cobiss="6197814">
         <naslov>O zdravniku Florijanu Sentimerju</naslov>
         <cit did="2610" cid="109" avtor0="Uršič Milena" naslov0="O zdravniku Florijanu Sentimerju"
             source="Kronika" year="1955" volume="3" issue="2" page="114-116"/>
@@ -35257,7 +35257,7 @@
             naslov0="O zdravstvenim prilikama u Istri početkom 19. stoljeća" source="VHARP"
             pubPlace="Rijeka - Pazin" year="1981" page="175-223"/>
     </delo>
-    <delo mojID="28744">
+    <delo mojID="28744" cobiss="23085357">
         <naslov>O zgodovini osnovne šole Kotlje v luči šolske kronike</naslov>
         <cit did="2246" cid="10" avtor0="Lasbaher Franček"
             naslov0="O zgodovini osnovne šole Kotlje v luči šolske kronike" source="Šolska kronika"
@@ -35282,7 +35282,7 @@
             source="Zbornik razprav Teološke fakultete v Ljubljani" pubPlace="Ljubljana" year="1962"
         />
     </delo>
-    <delo mojID="28751">
+    <delo mojID="28751" cobiss="119513856">
         <naslov>O zločinih in kaznih. Dva govora o splošnih načelih kriminalnega prava in
                         njegovi literarni zgodovini</naslov>
         <cit did="104" cid="15" avtor0="Beccaria Cesare"
@@ -35317,18 +35317,18 @@
             naslov0="O šentpeterskej zaupnici g. dr Zarniku" source="Slovenski narod" year="0"
             issue="133"/>
     </delo>
-    <delo mojID="28758">
+    <delo mojID="28758" cobiss="35483137">
         <naslov>O šolskih odborih</naslov>
         <cit did="15" cid="91" avtor0="Winkler Venceslav" naslov0="O šolskih odborih"
             source="Gospodarski vestnik" pubPlace="Ljubljana" year="1958" page="36-38"/>
     </delo>
-    <delo mojID="28764">
+    <delo mojID="28764" cobiss="7827298">
         <naslov>O ženskah, ki so znale "regerat"</naslov>
         <cit did="378" cid="20" avtor0="Verginella Marta"
             naslov0="O ženskah, ki so znale &#34;regerat&#34;" pubPlace="Ljubljana"
             publisher="Delta" year="1997" volume="3" issue="1-2" page="47"/>
     </delo>
-    <delo mojID="28765">
+    <delo mojID="28765" cobiss="671885">
         <naslov>O ženskah, zgodovinski tišini in glasu</naslov>
         <cit did="226" cid="20" avtor0="Bahovec D. Eva"
             naslov0="O ženskah, zgodovinski tišini in glasu"
@@ -35362,7 +35362,7 @@
         <cit did="230" cid="17" avtor0="Radić Stjepan" naslov0="O Židovima" source="Politički spisi"
             pubPlace="Zagreb" year="1971" page="579-580"/>
     </delo>
-    <delo mojID="28771">
+    <delo mojID="28771" cobiss="6293853">
         <naslov>O življenjskem stilu na Slovenskem</naslov>
         <cit did="852" cid="14" avtor0="Klinar Peter" naslov0="O življenjskem stilu na Slovenskem"
             source="Teorija in praksa" year="1979" volume="16" issue="1"/>
@@ -35377,7 +35377,7 @@
         <cit did="72" cid="15" avtor0="Colicchia A." naslov0="Oasi, epifania del deserto"
             source="Airone" year="1995" volume="12" page="75-89"/>
     </delo>
-    <delo mojID="28776">
+    <delo mojID="28776" cobiss="17808384">
         <naslov>Ob 100-letnici celjskega Pokrajinskega muzeja</naslov>
         <cit did="1943" cid="3" avtor0="Kolšek V."
             naslov0="Ob 100-letnici celjskega Pokrajinskega muzeja" source="Argo"
@@ -35478,7 +35478,7 @@
             naslov0="Ob 40 - letnici teritorialne obrambe občine Ormož" pubPlace="Ormož" year="2008"
         />
     </delo>
-    <delo mojID="28800">
+    <delo mojID="28800" cobiss="11096882">
         <naslov>Ob 50-letnici majniške deklaracije</naslov>
         <cit did="531" cid="62" avtor0="Klinec Rudolf" naslov0="Ob 50-letnici majniške deklaracije"
             source="Koledar Goriške Mohorjeve družbe" pubPlace="Gorica" year="1967" page="115"/>
@@ -35525,7 +35525,7 @@
             source="Zbornik Svobodna Slovenija 1961" pubPlace="Buenos Aires"
             publisher="Slovenska kulturna akcija" year="1960" page="66-71"/>
     </delo>
-    <delo mojID="28816">
+    <delo mojID="28816" cobiss="21737517">
         <naslov>Ob Foucaultovem pojmovanju biooblasti in biopolitike</naslov>
         <cit did="141" cid="1" avtor0="Klepec Peter"
             naslov0="Ob Foucaultovem pojmovanju biooblasti in biopolitike"
@@ -35536,7 +35536,7 @@
         <cit did="2712" cid="98" avtor0="Matevž Krivic" naslov0="Ob koncu »pogajalske« okrogle mize"
             source="Delo, 28.10. 1989" year="1989"/>
     </delo>
-    <delo mojID="28819">
+    <delo mojID="28819" cobiss="1104906846">
         <naslov>Ob Langusovi sliki Julije Primčeve</naslov>
         <cit did="3473" cid="3" avtor0="Žigon Avgust" naslov0="Ob Langusovi sliki Julije Primčeve"
             source="Dom in svet" year="1921" volume="34" issue="1-3"/>
@@ -35552,7 +35552,7 @@
         <cit did="71" cid="142" avtor0="Melaher Jože" naslov0="Ob narodnem prazniku"
             publisher="Zbornik Svobodne Slovenije" year="1971"/>
     </delo>
-    <delo mojID="28824">
+    <delo mojID="28824" cobiss="1100522334">
         <naslov>Ob njegovi gomili</naslov>
         <cit did="2635" cid="66" avtor0="Saleški Finžgar Fran" naslov0="Ob njegovi gomili"
             source="Dom in svet" year="1901" page="44-46"/>
@@ -35568,7 +35568,7 @@
             source="Problemi naše socialistične graditve, IV. knjiga" pubPlace="Ljubljana"
             publisher="CZ" year="1955" page="292"/>
     </delo>
-    <delo mojID="28828">
+    <delo mojID="28828" cobiss="16745984">
         <naslov>Ob novih odkritjih srednjeveških fresk v mestni župnijski cerkvi sv. Jurija
                         v Ptuju</naslov>
         <cit did="2639" cid="121" avtor0="Höfler Janez"
@@ -35585,7 +35585,7 @@
         <cit did="440" cid="20" avtor0="Pavlovič Peter" naslov0="Ob obletnici rapalskega dogovora"
             publisher="ARS" year="2012"/>
     </delo>
-    <delo mojID="28834">
+    <delo mojID="28834" cobiss="1109964894">
         <naslov>Ob otvoritvi "Trgovskega doma" v ljubljani</naslov>
         <cit did="3241" cid="330" avtor0="Windischer Fran"
             naslov0="Ob otvoritvi &#34;Trgovskega doma&#34; v ljubljani" source="TT" year="1930"
@@ -35610,7 +35610,7 @@
             source="Leposlovje - eseji - kritika : 2" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1969" page="371"/>
     </delo>
-    <delo mojID="28839">
+    <delo mojID="28839" cobiss="4421965">
         <naslov>Ob petdesetletnici Slovenskega Primorca</naslov>
         <cit did="1432" cid="13" avtor0="Perat Mariza"
             naslov0="Ob petdesetletnici Slovenskega Primorca" source="Koledar 1996"
@@ -35621,7 +35621,7 @@
         <cit did="1915" cid="13" avtor0="Dular J." naslov0="Ob petišestdesetletnici Mitje Brodarja"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1986" volume="37" page="13-16"/>
     </delo>
-    <delo mojID="28842">
+    <delo mojID="28842" cobiss="46829824">
         <naslov>Ob pisanju o slovenskem zgodovinopisju</naslov>
         <cit did="823" cid="8" avtor0="Grafenauer Bogo"
             naslov0="Ob pisanju o slovenskem zgodovinopisju" source="Zgodovinski časopis"
@@ -35639,7 +35639,7 @@
         <cit did="210" cid="11" avtor0="Grilc Matevž" naslov0="Ob pragu novega leta"
             source="Naš tednik" pubPlace="Celovec" year="2011" volume="33" issue="1" page="1"/>
     </delo>
-    <delo mojID="28846">
+    <delo mojID="28846" cobiss="1110098526">
         <naslov>Ob prazniku petindvajsetletnice Trgovskega društva 'Merkur' v
                         Ljubljani</naslov>
         <cit did="3241" cid="327" avtor0="Andrejka Rudolf"
@@ -35694,7 +35694,7 @@
             naslov0="Ob restavraciji Mrakovih fresk v Spodnji Idriji" source="Idrijski razgledi"
             year="1965" volume="10" issue="4"/>
     </delo>
-    <delo mojID="28857">
+    <delo mojID="28857" cobiss="119785216">
         <naslov>Ob rob raziskavam s področja poročne tematike (Beneška republika, 17.-18.
                         stol.)</naslov>
         <cit did="2632" cid="84" avtor0="Povolo C."
@@ -35756,44 +35756,44 @@
         <cit did="3022" cid="5" avtor0="Štih Bojan" naslov0="Ob srbskem prevodu Boj na proždrljivcu"
             pubPlace="Beograd" publisher="Novo pokoljenje" year="1953"/>
     </delo>
-    <delo mojID="28872">
+    <delo mojID="28872" cobiss="240754176">
         <naslov>Ob stoletnici "Goriškega oglednika"</naslov>
         <cit did="1317" cid="316" avtor0="Marušič Branko"
             naslov0="Ob stoletnici &#34;Goriškega oglednika&#34;" source="Kronika" year="1963"
             volume="11" page="101-106"/>
     </delo>
-    <delo mojID="28874">
+    <delo mojID="28874" cobiss="41553665">
         <naslov>Ob stoletnici Mihe Vošnjaka, prvega slovenskega zadrugarja, 18. september
                         1837</naslov>
         <cit did="3271" cid="10" avtor0="Vošnjak dr. Bogumil"
             naslov0="Ob stoletnici Mihe Vošnjaka, prvega slovenskega zadrugarja, 18. september 1837"
             pubPlace="Beograd" publisher="Zadružna štamparija" year="1937"/>
     </delo>
-    <delo mojID="28876">
+    <delo mojID="28876" cobiss="10929205">
         <naslov>Ob stoletnici slovenske učiteljske organizacije</naslov>
         <cit did="1321" cid="12" avtor0="Hojan Tatjana"
             naslov0="Ob stoletnici slovenske učiteljske organizacije" naslov1="razstavni katalog"
             pubPlace="Ljubljana" publisher="Slovenski šolski muzej" year="1989" page="6"/>
     </delo>
-    <delo mojID="28878">
+    <delo mojID="28878" cobiss="10929205">
         <naslov>Ob stoletnici ustanovitve slovenske učiteljske organizacije</naslov>
         <cit did="2055" cid="2" avtor0="Hojan Tatjana"
             naslov0="Ob stoletnici ustanovitve slovenske učiteljske organizacije"
             source="Razstavni katalog" pubPlace="Ljubljana" publisher="Slovenski šolski muzej"
             year="1989" volume="46"/>
     </delo>
-    <delo mojID="28879">
+    <delo mojID="28879" cobiss="1109877598">
         <naslov>Ob stoletnici zastopstva ljubljanskih trgovcih</naslov>
         <cit did="3241" cid="237" avtor0="Andrejka Rudolf"
             naslov0="Ob stoletnici zastopstva ljubljanskih trgovcih" source="TT" year="1934"
             issue="10"/>
     </delo>
-    <delo mojID="28882">
+    <delo mojID="28882" cobiss="83450113">
         <naslov>Ob tisočletnici Razvanja</naslov>
         <cit did="1000" cid="3" avtor0="Curk Jože" naslov0="Ob tisočletnici Razvanja"
             source="Časopis za zgodovino in narodopisje" year="1986" volume="67" page="10-18"/>
     </delo>
-    <delo mojID="28884">
+    <delo mojID="28884" cobiss="1069012">
         <naslov>Ob tridesetletnici Tomaževe smrti</naslov>
         <cit did="1510" cid="189" avtor0="Pirjevec-Ahac Dušan"
             naslov0="Ob tridesetletnici Tomaževe smrti" source="Vestnik koroških partizanov"
@@ -35812,7 +35812,7 @@
             naslov0="Ob tridestletnici univerze v Ljubljani" source="Popotnik" issue="5-7"
             page="129"/>
     </delo>
-    <delo mojID="28889">
+    <delo mojID="28889" cobiss="233581056">
         <naslov>Ob ustanovitvi ASK</naslov>
         <cit did="2744" cid="57" avtor0="Žvokelj Pater Nikolaj" naslov0="Ob ustanovitvi ASK"
             source="Misli" year="1990" volume="39" issue="8" page="169"/>
@@ -35823,7 +35823,7 @@
             naslov0="Ob ustanovitvi prve pedagoške akademije" source="Sodobna pedagogika"
             year="1961" volume="12" issue="7/8" page="176-177"/>
     </delo>
-    <delo mojID="28892">
+    <delo mojID="28892" cobiss="6984781">
         <naslov>Ob ustanovitvi samoupravne dežele Furlanije-Julijske krajine</naslov>
         <cit did="857" cid="5" avtor0="Jeri Janko"
             naslov0="Ob ustanovitvi samoupravne dežele Furlanije-Julijske krajine"
@@ -35848,7 +35848,7 @@
         <cit did="385" cid="52" avtor0="Resman Janez N." naslov0="Ob zažiganju strunjanskega križa"
             source="Družina" pubPlace="Ljubljana" year="0" volume="16" page="21"/>
     </delo>
-    <delo mojID="28899">
+    <delo mojID="28899" cobiss="1327181">
         <naslov>Ob zlatem jubileju obnovitve slovenskega šolstva na Tržaškem</naslov>
         <cit did="1432" cid="1" avtor0="Artač Ivan"
             naslov0="Ob zlatem jubileju obnovitve slovenskega šolstva na Tržaškem" pubPlace="Gorica"
@@ -35882,7 +35882,7 @@
             naslov0="Ob štiridesetletnici prvega ženskega lista" source="Ženski svet" year="1937"
             page="294"/>
     </delo>
-    <delo mojID="28908">
+    <delo mojID="28908" cobiss="20969826">
         <naslov>Ob štiristoletnici Hrenove latinske pesniške zbirke</naslov>
         <cit did="1735" cid="28" avtor0="Gantar Kajetan"
             naslov0="Ob štiristoletnici Hrenove latinske pesniške zbirke"
@@ -35902,7 +35902,7 @@
             source="New York Times, Money and Policy: http://www.nytimes.com/2010/03/24/health/policy/24health.html, 7.8.2011"
             pubPlace="New York" year="2011"/>
     </delo>
-    <delo mojID="28911">
+    <delo mojID="28911" cobiss="4465709">
         <naslov>Obarsia tracica a Romanilor si Albanezilor</naslov>
         <cit did="1748" cid="867" avtor0="Russu I. I."
             naslov0="Obarsia tracica a Romanilor si Albanezilor" pubPlace="Cluj-Napoca" year="1995"
@@ -35922,13 +35922,13 @@
             naslov0="Obdelovanje vinograda in pridelava vina. Znanstveni sestanek Vino in vinska trta v arheologiji"
             pubPlace="Koper" year="1999" page="36"/>
     </delo>
-    <delo mojID="28916">
+    <delo mojID="28916" cobiss="124386048">
         <naslov>Obdobje adolescence in razvoj identitete: izbrane teme</naslov>
         <cit did="2673" cid="35" avtor0="Poljšak Škraban Olga"
             naslov0="Obdobje adolescence in razvoj identitete: izbrane teme" pubPlace="Ljubljana"
             publisher="Pedagoška fakulteta" year="2004"/>
     </delo>
-    <delo mojID="28919">
+    <delo mojID="28919" cobiss="9267533">
         <naslov>Obdobje med 1945 in 1955</naslov>
         <cit did="1705" cid="3" avtor0="Jesih Boris" naslov0="Obdobje med 1945 in 1955"
             source="Slovensko-avstrijski odnosi v 20. stoletu / Slowenisch-österreichische Beziehungen im 20. Jahrhunder"
@@ -35951,7 +35951,7 @@
         <cit did="245" cid="3" avtor0="Hobsbawm Eric" naslov0="Obdoje revolucije"
             pubPlace="Ljubljana" year="1968" page="327"/>
     </delo>
-    <delo mojID="28927">
+    <delo mojID="28927" cobiss="52215552">
         <naslov>Obdravsko Selniško v srednjem veku</naslov>
         <cit did="2776" cid="13" avtor0="Koropec Jože" naslov0="Obdravsko Selniško v srednjem veku"
             source="Selnica ob Dravi: Zbornik ob 900-letnici kraja" pubPlace="Selnica ob Dravi"
@@ -35976,7 +35976,7 @@
             source="Erlaterungen zum Historischen Atlas der österreichischen Alpenländer"
             pubPlace="Wien" year="1929" volume="1" issue="4" page="489-531"/>
     </delo>
-    <delo mojID="28932">
+    <delo mojID="28932" cobiss="1978976">
         <naslov>Oberitalische Grabaltäre: ein Beitrag zur Sepulkralkunst der römischen
                         Kaiserzeit</naslov>
         <cit did="1976" cid="37" avtor0="Dexheimer D."
@@ -35995,7 +35995,7 @@
             naslov0="Oberkrains Deutschtum im Spiegel der karolingischen Bodenfunde"
             source="Carinthia" year="1941" page="360-391"/>
     </delo>
-    <delo mojID="28935">
+    <delo mojID="28935" cobiss="325237">
         <naslov>Ober(n)burg (Gornji Grad)</naslov>
         <cit did="3194" cid="3" avtor0="Dolinar France Martin" naslov0="Ober(n)burg (Gornji Grad)"
             source="Germania Benedictina. Die benediktinischen Mönchs- und Nonnenklöster in Österreich und Südtirol, Band III./3"
@@ -36019,7 +36019,7 @@
             naslov0="Obespravljeni - osiromašeni zemljovlasnici Bosne prema zvaničnim dokumentima države"
             pubPlace="Sarajevo" year="1998" page="148"/>
     </delo>
-    <delo mojID="28941">
+    <delo mojID="28941" cobiss="88586">
         <naslov>Obećana zemlja</naslov>
         <cit did="3106" cid="19" avtor0="Črnja Zvone" naslov0="Obećana zemlja" pubPlace="Opatija"
             publisher="Otokar Keršovani" year="1988" page="141"/>
@@ -36031,7 +36031,7 @@
             naslov0="Obid za antropološko definiranje na Pajonite (An attempt for an anthro-pologic definition of the Paeonians)"
             source="Macedoniae Acta archaeologica" year="1990" volume="12"/>
     </delo>
-    <delo mojID="28943">
+    <delo mojID="28943" cobiss="116743680">
         <naslov>Obisk cesarja Leopolda I. v Gorici</naslov>
         <cit did="1423" cid="28" avtor0="Porcedda Donatella"
             naslov0="Obisk cesarja Leopolda I. v Gorici" pubPlace="Goriški letnik" year="1998"
@@ -36060,7 +36060,7 @@
             naslov0="Obiskali smo KS Želimlje : pozabljene in odrezane Želimlje napovedujejo"
             source="Naša komuna" year="1977" issue="6" page="6"/>
     </delo>
-    <delo mojID="28950">
+    <delo mojID="28950" cobiss="2360584">
         <naslov>Obiski pri Ivanu Cankarju</naslov>
         <cit did="1519" cid="1" avtor0="Omahen Janko" naslov0="Obiski pri Ivanu Cankarju"
             pubPlace="Maribor" year="1969" page="108"/>
@@ -36090,18 +36090,18 @@
         <cit did="2843" cid="155" avtor0="Miloševič Miloš" naslov0="Objavljivanje arhivske grade"
             source="Arhivist" year="1982" volume="32" issue="1-2" page="225-275"/>
     </delo>
-    <delo mojID="28959">
+    <delo mojID="28959" cobiss="212055">
         <naslov>»Objekt zgodovine znanosti«</naslov>
         <cit did="2018" cid="48" avtor0="Canguilhem G." naslov0="»Objekt zgodovine znanosti«"
             source="Problemi - Razprave" year="1981" volume="19" issue="209-211" page="143-162"/>
     </delo>
-    <delo mojID="28961">
+    <delo mojID="28961" cobiss="1952628">
         <naslov>Oblast in katoliško šolstvo na slovenskem po letu 1945</naslov>
         <cit did="97" cid="5" avtor0="Gabrič Aleš"
             naslov0="Oblast in katoliško šolstvo na slovenskem po&#xA;letu 1945"
             source="Sto let Zavoda sv. Stanislava" pubPlace="Ljubljana" year="2005" page="219-220"/>
     </delo>
-    <delo mojID="28970">
+    <delo mojID="28970" cobiss="27514114">
         <naslov>Oblačilni materiali mestnega prebivalstva na Slovenskem v 17. in 18.
                         stoletju</naslov>
         <cit did="2288" cid="14" avtor0="Baš Angelos"
@@ -36129,7 +36129,7 @@
         <cit did="1646" cid="11" avtor0="Jonca Karol" naslov0="Oblezenie" source="Odra"
             volume="1995" issue="5" page="8-12"/>
     </delo>
-    <delo mojID="28976">
+    <delo mojID="28976" cobiss="1051859">
         <naslov>Oblika in kronologija zgodnjesrednjeveške lončenine na Novi tabli pri Murski
                         Soboti</naslov>
         <cit did="3053" cid="6" avtor0="Guštin Mitja" avtor1="Tiefengraber Georg"
@@ -36137,20 +36137,20 @@
             source="Zgodnji Slovani" pubPlace="Ljubljana" publisher="Narodni muzej" year="2002"
             page="46-62"/>
     </delo>
-    <delo mojID="28977">
+    <delo mojID="28977" cobiss="794679">
         <naslov>Oblike antičnih grobov na Dolenjskem</naslov>
         <cit did="2787" cid="12" avtor0="Breščak Danilo"
             naslov0="Oblike antičnih grobov na Dolenjskem" source="Dolenjski zbornik" year="1985"
             page="1-160"/>
     </delo>
-    <delo mojID="28978">
+    <delo mojID="28978" cobiss="1051859">
         <naslov>Oblike in kronologija zgodnjesrednjeveške lončenine na Novi tabli</naslov>
         <cit did="2534" cid="20" avtor0="Tiefengraber Georg" avtor1="Guštin Mitja"
             naslov0="Oblike in kronologija zgodnjesrednjeveške lončenine na Novi tabli"
             source="Zgodnji Slovani. Zgodnjesrednjeveška lončenina na obrobju Vzhodnih Alp"
             pubPlace="Ljubljana" publisher="Narodni muzej Slovenije" year="2002" page="65-66"/>
     </delo>
-    <delo mojID="28981">
+    <delo mojID="28981" cobiss="2068340">
         <naslov>Oblike kolaboracije med drugo svetovno vojno s posebnim pogledom na
                         dogajanje v večnacionalni Jugoslaviji</naslov>
         <cit did="1457" cid="4" avtor0="Mlakar Boris"
@@ -36165,7 +36165,7 @@
             source="RiG" pubPlace="Ljubljana" publisher="INV" year="2004" issue="45" page="226-255"
         />
     </delo>
-    <delo mojID="28984">
+    <delo mojID="28984" cobiss="35331584">
         <naslov>Oblike zavarovalstva v severni Istri v obdobju Beneške republike</naslov>
         <cit did="3539" cid="65" avtor0="Darovec Darko"
             naslov0="Oblike zavarovalstva v severni Istri v obdobju Beneške republike"
@@ -36181,7 +36181,7 @@
             publisher="Univerza na Primorskem, Znanstveno raziskovalno središče Koper" year="2005"
             page="37"/>
     </delo>
-    <delo mojID="28987">
+    <delo mojID="28987" cobiss="33674082">
         <naslov>Oblikovanje dežele Kranjske v kontekstu širših raziskovalnih tendenc in
                         slovenskega zgodovinopisja</naslov>
         <cit did="2604" cid="134" avtor0="Štih Peter"
@@ -36197,7 +36197,7 @@
             source="Hrvati u Sloveniji" pubPlace="Zagreb"
             publisher="Institut za migracije i narodnosti" year="1997" page="287-294"/>
     </delo>
-    <delo mojID="28992">
+    <delo mojID="28992" cobiss="38567266">
         <naslov>Oblikovanje je javni govor</naslov>
         <cit did="2011" cid="29" avtor0="Vodeb Oliver" naslov0="Oblikovanje je javni govor"
             source="Časopis za kritiko znanosti" pubPlace="Ljubljana" year="2005" issue="222"
@@ -36224,13 +36224,13 @@
             publisher="Pedagoški inštitut, Razvojno-raziskovalni center pedagoških iniciativ Korak za korakom"
             year="1997"/>
     </delo>
-    <delo mojID="29002">
+    <delo mojID="29002" cobiss="7515981">
         <naslov>Oblikovanje političnega prostora in političnih elit na Slovenskem</naslov>
         <cit did="2012" cid="38" avtor0="Tomšič M."
             naslov0="Oblikovanje političnega prostora in političnih elit na Slovenskem"
             source="Nova revija" year="2000" volume="19" issue="219-220" page="260-277"/>
     </delo>
-    <delo mojID="29004">
+    <delo mojID="29004" cobiss="10149896">
         <naslov>Oblikovanje publicističnega jezika v slovenskem panonskem jezikovnem
                         prostoru</naslov>
         <cit did="1731" cid="5" avtor0="Jesenšek Marko"
@@ -36238,25 +36238,25 @@
             source="Slovensko jezikoslovje danes in jutri" pubPlace="Celje" year="2000"
             page="167-175"/>
     </delo>
-    <delo mojID="29008">
+    <delo mojID="29008" cobiss="2715437">
         <naslov>Oblikovanje slovenskega gospodarstva v okviru Jugoslavije 1918-1941</naslov>
         <cit did="2028" cid="18" avtor0="Kresal France"
             naslov0="Oblikovanje slovenskega gospodarstva v okviru Jugoslavije 1918-1941"
             source="Slovenci in država" pubPlace="Ljubljana" year="1995" page="211"/>
     </delo>
-    <delo mojID="29010">
+    <delo mojID="29010" cobiss="78596864">
         <naslov>Oblikovanje znanstvenega duha</naslov>
         <cit did="2018" cid="11" avtor0="Bachelard G." naslov0="Oblikovanje znanstvenega duha"
             source="Prispevek k psihoanalizi objektivnega spoznanja" pubPlace="Ljubljana"
             publisher="Studia humanitatis" year="1998"/>
     </delo>
-    <delo mojID="29012">
+    <delo mojID="29012" cobiss="7437828">
         <naslov>Oblikovanje župnij v prafari Laško</naslov>
         <cit did="2631" cid="253" avtor0="Ožinger A." naslov0="Oblikovanje župnij v prafari Laško"
             source="Časopis za zgodovino in narodopisje" year="1976" volume="47, n. v. 12"
             page="281-291"/>
     </delo>
-    <delo mojID="29013">
+    <delo mojID="29013" cobiss="1821635">
         <naslov>Oblikovni značaj Novega mesta</naslov>
         <cit did="1298" cid="30" avtor0="Pirkovič-Kocbek Jelka"
             naslov0="Oblikovni značaj Novega mesta"
@@ -36284,7 +36284,7 @@
             source="1. letna konferenca Znanstvene sekcije Zveze ekonomistov Slovenije"
             pubPlace="Ljubljana" year="1997" page="71-87"/>
     </delo>
-    <delo mojID="29025">
+    <delo mojID="29025" cobiss="35261184">
         <naslov>Obnova cerkve Žalostne Matere božje v Idriji</naslov>
         <cit did="2221" cid="14" avtor0="Medvešček Stanko"
             naslov0="Obnova cerkve Žalostne Matere božje v Idriji" source="Idrijski razgledi"
@@ -36304,19 +36304,19 @@
             pubPlace="Ljubljana" publisher="Mladinska knjiga : Inštitut za novejšo zgodovino"
             year="2005" page="276-278"/>
     </delo>
-    <delo mojID="29035">
+    <delo mojID="29035" cobiss="50364928">
         <naslov>Obnova v Prekmurju</naslov>
         <cit did="2565" cid="4" avtor0="Fujs Metka" naslov0="Obnova v Prekmurju"
             source="Zbornik soboškega muzeja" year="1991" volume="2" page="33-42"/>
     </delo>
-    <delo mojID="29036">
+    <delo mojID="29036" cobiss="220567296">
         <naslov>Obnova čitalnice Narodne in univerzitetne knjižnice v Ljubljani</naslov>
         <cit did="1509" cid="162" avtor0="Pivec-Stelè Melitta"
             naslov0="Obnova čitalnice Narodne in univerzitetne knjižnice v Ljubljani"
             source="Zgodovinski časopis: Kosov zbornik" pubPlace="Ljubljana" year="1952"
             page="798-800"/>
     </delo>
-    <delo mojID="29037">
+    <delo mojID="29037" cobiss="1991796">
         <naslov>Obnova šolstva</naslov>
         <cit did="1435" cid="5" avtor0="Gabrič Aleš" naslov0="Obnova šolstva"
             source="Slovenska novejša zgodovina" pubPlace="Ljubljana"
@@ -36342,13 +36342,13 @@
             naslov0="Obnovitev literarnega društva mariborskih bogoslovcev" source="Lipica" year="0"
             volume="21" issue="1" page="2-7"/>
     </delo>
-    <delo mojID="29042">
+    <delo mojID="29042" cobiss="5482801">
         <naslov>Obnovitev slovenske šole v Trstu in vpliv projugoslovanskega tabora</naslov>
         <cit did="2558" cid="4" avtor0="Bajc Gorazd"
             naslov0="Obnovitev slovenske šole v Trstu in vpliv projugoslovanskega tabora"
             source="Primorski dnevnik" year="0" page="10-13"/>
     </delo>
-    <delo mojID="29043">
+    <delo mojID="29043" cobiss="104123904">
         <naslov>Obnoviti ali podreti : zgodovinski razvoj, analiza in model etnološkega
                         konservatorstva na Slovenskem</naslov>
         <cit did="1794" cid="13" avtor0="Hazler Vito"
@@ -36372,7 +36372,7 @@
             source="Slovenska novejša zgodovina : od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije : 1848–1992, 1. del."
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="29049">
+    <delo mojID="29049" cobiss="2735456">
         <naslov>Oboroženi stan srednjeveške družbe na Slovenskem na osnovi materialnih
                         virov</naslov>
         <cit did="2587" cid="11" avtor0="Nabergoj T."
@@ -36385,7 +36385,7 @@
         <cit did="427" cid="1" avtor0="Aquirre Beltrán G." naslov0="Obra polémica" source="México"
             publisher="Instituto Nacional de Historia" year="1976"/>
     </delo>
-    <delo mojID="29052">
+    <delo mojID="29052" cobiss="240850432">
         <naslov>Obramba na Soči 1915-1917 (ob petdesetletnici )</naslov>
         <cit did="3161" cid="66" avtor0="Musič Jurij"
             naslov0="Obramba na Soči 1915-1917 (ob petdesetletnici )" source="Kronika" year="1966"
@@ -36407,7 +36407,7 @@
         <cit did="302" cid="18" avtor0="Ortega y Gasset José" naslov0="Obras Completas (OC), I-XII"
             pubPlace="Madrid" publisher="Alianza Editorial - Revista de Occidente" year="1993"/>
     </delo>
-    <delo mojID="29060">
+    <delo mojID="29060" cobiss="15116">
         <naslov>Obrasci Kulture</naslov>
         <cit did="2968" cid="6" avtor0="Benedict Ruth" naslov0="Obrasci Kulture" pubPlace="Beograd"
             publisher="Prosveta" year="1976"/>
@@ -36419,7 +36419,7 @@
             publisher="Inštitut za zgodovino delavskega gibanja" year="1966" volume="VI" issue="1-2"
             page="265-267"/>
     </delo>
-    <delo mojID="29067">
+    <delo mojID="29067" cobiss="8476770">
         <naslov>Obravnavanje marksizma v delih slovenskih teologov. Prispevek k razrednemu
                         boju v »slovenski kulturi«</naslov>
         <cit did="3253" cid="37" avtor0="Mastnak Tomaž"
@@ -36440,7 +36440,7 @@
             source="Prispevki za zgodovino delavskega gibanja: zbornik razprav in obravnav znanstvenega posvetovanja o Osvobodilni fronti slovenskega naroda ob njeni 25-letnici v Ljubljani od 28. do 30. aprila 1966"
             pubPlace="Ljubljana" year="1966" volume="VI" issue="1-2" page="259–263"/>
     </delo>
-    <delo mojID="29070">
+    <delo mojID="29070" cobiss="41746944">
         <naslov>Obraz Dušana Kermaunerja</naslov>
         <cit did="1685" cid="1" avtor0="Kreft Ivan" naslov0="Obraz Dušana Kermaunerja"
             source="Sodobnost" year="1980" volume="28" issue="3" page="295"/>
