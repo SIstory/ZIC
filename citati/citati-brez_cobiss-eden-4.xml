@@ -12,7 +12,7 @@
         <cit did="3416" cid="4" avtor0="Verhovc J." naslov0="P. Gabrijel Gruber"
             source="Slovenec (24. 3. 1905)" year="1905" volume="69" page="1-2"/>
     </delo>
-    <delo mojID="30486">
+    <delo mojID="30486" cobiss="229188608">
         <naslov>P. Klavdiju v spomin</naslov>
         <cit did="2744" cid="43" avtor0="Valentin Pater Bazilij" naslov0="P. Klavdiju v spomin"
             source="Misli" year="1979" volume="28" issue="10/11" page="316"/>
@@ -36,12 +36,12 @@
         <cit did="3241" cid="308" avtor0="Šilec Peter" naslov0="Pa zaključimo s Cassonovimi načeli!"
             source="TT" year="1931" issue="12"/>
     </delo>
-    <delo mojID="30491">
+    <delo mojID="30491" cobiss="7338806">
         <naslov>Pa začnimo pri Krpanu</naslov>
         <cit did="2625" cid="41" avtor0="Hladnik Miran" naslov0="Pa začnimo pri Krpanu"
             source="Sodobnost" year="2002" volume="66" page="227-237"/>
     </delo>
-    <delo mojID="30492">
+    <delo mojID="30492" cobiss="31649792">
         <naslov>Pa Zila še vesčes šemi</naslov>
         <cit did="442" cid="114" avtor0="Bartoloth Maria" naslov0="Pa Zila še vesčes šemi"
             source="Die Gail rauscht noch állweil" pubPlace="Celovec" year="1992"/>
@@ -51,7 +51,7 @@
         <cit did="1738" cid="42" avtor0="Vrhovnik Ivan" naslov0="Paberki iz protireformacijske dobe"
             source="Glasnik Muzejskega društva za Slovenijo" year="1933" page="36-43"/>
     </delo>
-    <delo mojID="30498">
+    <delo mojID="30498" cobiss="21221218">
         <naslov>Paberki o rojstvih in porokah v župniji Preloka</naslov>
         <cit did="3196" cid="1" avtor0="Balkovec Bojan"
             naslov0="Paberki o rojstvih in porokah v župniji Preloka" source="Kronika" year="2003"
@@ -74,7 +74,7 @@
             naslov0="Packaging the Presidency: a history and Criticism of Presidential Campaign Advertising"
             pubPlace="New York - Oxford" year="1984" page="24"/>
     </delo>
-    <delo mojID="30504">
+    <delo mojID="30504" cobiss="426497">
         <naslov>Padajoče zvezde</naslov>
         <cit did="1307" cid="7" avtor0="Gradnik Alojz" naslov0="Padajoče zvezde" source="Omladina"
             pubPlace="Ljubljana" publisher="DZS" year="1916"/>
@@ -96,7 +96,7 @@
         <cit did="2828" cid="23" avtor0="Šetinc Mile" naslov0="Padli angel" source="Dnevnik"
             year="2002" volume="51" issue="157" page="5"/>
     </delo>
-    <delo mojID="30512">
+    <delo mojID="30512" cobiss="6100013">
         <naslov>Padre Martino Bauzer (Martin Bavčer) e la storiografia della
                         Contoriforma</naslov>
         <cit did="1423" cid="19" avtor0="Marušič Branko"
@@ -142,18 +142,18 @@
             source="Quaderni fiorentini per la storia del pensiero giuridico moderno" year="2007"
             volume="36" issue="1" page="1-39"/>
     </delo>
-    <delo mojID="30520">
+    <delo mojID="30520" cobiss="8175922">
         <naslov>Pagine della Grande Guerra: scrittori in grigioverde</naslov>
         <cit did="1428" cid="44" avtor0="Todero Fabio"
             naslov0="Pagine della Grande Guerra: scrittori in grigioverde" pubPlace="Milano"
             publisher="Mursia" year="1999"/>
     </delo>
-    <delo mojID="30522">
+    <delo mojID="30522" cobiss="660017">
         <naslov>Pagine di Storia Umaghese</naslov>
         <cit did="1988" cid="10" avtor0="Fumis E." naslov0="Pagine di Storia Umaghese"
             pubPlace="Trieste" publisher="Tipografia Fratelli Mosettig" year="1920"/>
     </delo>
-    <delo mojID="30523">
+    <delo mojID="30523" cobiss="17830957">
         <naslov>Paglovčev prevod Tobijeve knjige</naslov>
         <cit did="1735" cid="54" avtor0="Peklaj M." naslov0="Paglovčev prevod Tobijeve knjige"
             source="Paglovčev zbornik. Referati s simpozija o Francu Mihaelu Paglovcu (1679-1759)"
@@ -179,7 +179,7 @@
             naslov0="Pajonskite pleminja i pajonskoto kralstvo vo II i I milenium pred n.e. (The Paeonian tribes and the Paeonian kingdom in the second and the first millenium B.C.)"
             source="Macedoniae Acta archaeologica" year="1990" volume="12" page="9-130"/>
     </delo>
-    <delo mojID="30527">
+    <delo mojID="30527" cobiss="522868">
         <naslov>Pakao je počeo u Bleiburgu</naslov>
         <cit did="1897" cid="30" avtor0="Lasić Vjekoslav Lujo" naslov0="Pakao je počeo u Bleiburgu"
             pubPlace="Dubrovnik-Sarajevo" year="1996" page="35"/>
@@ -237,19 +237,19 @@
             source="Prvi Jugoslovanski speleološki kongres" pubPlace="Ljubljana"
             publisher="Slovenska akademija znanosti in umetnosti" year="1955" page="79-87"/>
     </delo>
-    <delo mojID="30537">
+    <delo mojID="30537" cobiss="14660653">
         <naslov>Paleolitik Slovenije</naslov>
         <cit did="1915" cid="28" avtor0="Osole F." naslov0="Paleolitik Slovenije"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1965" volume="15-16" page="9-20"
         />
     </delo>
-    <delo mojID="30538">
+    <delo mojID="30538" cobiss="18299949">
         <naslov>Paleolitik v "Zgodovini Slovencev"</naslov>
         <cit did="1915" cid="3" avtor0="Brodar M."
             naslov0="Paleolitik v &#34;Zgodovini Slovencev&#34;" source="Arheološki vestnik"
             pubPlace="Ljubljana" year="1979" volume="30" page="528-543"/>
     </delo>
-    <delo mojID="30539">
+    <delo mojID="30539" cobiss="15101229">
         <naslov>Paleolitske i mezolitske regije i kulture u Sloveniji</naslov>
         <cit did="1915" cid="7" avtor0="Brodar M., Osole F."
             naslov0="Paleolitske i mezolitske regije i kulture u Sloveniji"
@@ -297,7 +297,7 @@
             naslov0="Paläographie des römisehen Altertums und des abendländischen Mittelalters"
             pubPlace="Berlin" year="1979"/>
     </delo>
-    <delo mojID="30548">
+    <delo mojID="30548" cobiss="39920429">
         <naslov>Palčava šiša</naslov>
         <cit did="3072" cid="327" avtor0="Smole Marko" naslov0="Palčava šiša"
             naslov1="Etnološka zbirka rodbine Čop"
@@ -350,7 +350,7 @@
             naslov0="Panait Istrati, glasnik Balkana" source="Mladina" year="1926" volume="III"
             issue="9-10" page="217-224"/>
     </delo>
-    <delo mojID="30557">
+    <delo mojID="30557" cobiss="9328717">
         <naslov>Pandora’s box: Federalism in Central and Eastern Europe – The applicability
                         of the federal model(s) in the “post-communist Europe”.</naslov>
         <cit did="2852" cid="12" avtor0="Žagar Mitja"
@@ -372,7 +372,7 @@
         <cit did="2387" cid="5" avtor0="Žerdin Ali H." naslov0="Pankrti poznega socializma"
             source="Temna stran meseca" pubPlace="Ljubljana" year="1998" page="376"/>
     </delo>
-    <delo mojID="30560">
+    <delo mojID="30560" cobiss="308320">
         <naslov>Pannonia and Upper Moesia</naslov>
         <cit did="1748" cid="687" avtor0="Mocsy A." naslov0="Pannonia and Upper Moesia"
             pubPlace="London - Boston" year="1974"/>
@@ -422,19 +422,19 @@
             naslov0="Panonska evroregija. 10. hrvaško-slovenske etnološke paralele: Kultura, identitete, ideologije, meje - ena meja, dve etnologiji"
             pubPlace="Varaždin" year="2008"/>
     </delo>
-    <delo mojID="30568">
+    <delo mojID="30568" cobiss="6798344">
         <naslov>Panonska narečja. Enciklopedija Slovenije. 8. zvezek. Nos-Pli.</naslov>
         <cit did="3465" cid="132" avtor0="Zorko Zinka"
             naslov0="Panonska narečja. Enciklopedija Slovenije. 8. zvezek. Nos-Pli."
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1994" page="232-233"/>
     </delo>
-    <delo mojID="30570">
+    <delo mojID="30570" cobiss="12452104">
         <naslov>Panonsko besedje v Bleiweisovih Novicah (1843-1850)</naslov>
         <cit did="369" cid="13" avtor0="Novak Natalija"
             naslov0="Panonsko besedje v Bleiweisovih Novicah (1843-1850)" pubPlace="Maribor"
             year="2003"/>
     </delo>
-    <delo mojID="30572">
+    <delo mojID="30572" cobiss="1671987">
         <naslov>Panonskost Murske Sobote med letoma 1919 in 1941</naslov>
         <cit did="2565" cid="2" avtor0="Brumen Borut"
             naslov0="Panonskost Murske Sobote med letoma 1919 in 1941"
@@ -453,7 +453,7 @@
             naslov0="Panorama di storia linguistica giuliano-carnica. II periodo preromano"
             source="Studi Goriziani" pubPlace="Gorizia" year="1961" volume="29" page="73-97"/>
     </delo>
-    <delo mojID="30575">
+    <delo mojID="30575" cobiss="15353133">
         <naslov>Panorama hrvatske književnost ob južnovzhodni slovenski meji</naslov>
         <cit did="3154" cid="4" avtor0="Štampar Emil"
             naslov0="Panorama hrvatske književnost ob južnovzhodni slovenski meji"
@@ -465,7 +465,7 @@
             naslov0="Panorama nove slovenske proze" pubPlace="Zagreb" publisher="Sveučilište"
             year="1976" page="73-136"/>
     </delo>
-    <delo mojID="30578">
+    <delo mojID="30578" cobiss="37368065">
         <naslov>Panslavism and national identity</naslov>
         <cit did="29" cid="47" avtor0="Milojković Djurić Jelena"
             naslov0="Panslavism and national identity" pubPlace="New York" year="1994" page="8"/>
@@ -500,7 +500,7 @@
             naslov0="Papeški svet za družbeno obveščanje" source="Etika oglaševanja"
             pubPlace="Ljubljana" publisher="Družina" year="1997" volume="72"/>
     </delo>
-    <delo mojID="30584">
+    <delo mojID="30584" cobiss="495733">
         <naslov>Papeži in Slovenci</naslov>
         <cit did="1788" cid="1" avtor0="Dolinar France M." naslov0="Papeži in Slovenci"
             source="Sinovom in hčeram slovenskega naroda" pubPlace="Ljubljana" year="1995"
@@ -622,7 +622,7 @@
             naslov0="Paradoxa hydrostatica novis experimentis (maximum partem physicis acfaci-libus) evicta ... Nuper ex Anglico sermone in Latinum versa"
             pubPlace="Roterodami" publisher="Arnold Leers" year="0"/>
     </delo>
-    <delo mojID="30606">
+    <delo mojID="30606" cobiss="56135937">
         <naslov>Paralele. Slovensko-madžarska literarna srečanja</naslov>
         <cit did="2324" cid="19" avtor0="Lukacs I."
             naslov0="Paralele. Slovensko-madžarska literarna srečanja" source="Zbirka Zora"
@@ -661,7 +661,7 @@
         <cit did="704" cid="7" avtor0="Florin A." naslov0="Parier ensemble en maternelle"
             pubPlace="Paris" publisher="Ellipses" year="1995"/>
     </delo>
-    <delo mojID="30618">
+    <delo mojID="30618" cobiss="875140">
         <naslov>Paris (Buildings and monuments: an illustrated guide with over 850
                         illustrations and neighborhood maps)</naslov>
         <cit did="2156" cid="36" avtor0="Poisson Michel"
@@ -678,22 +678,22 @@
         <cit did="272" cid="307" avtor0="Chombart de Lauwe"
             naslov0="Paris et L'agglomération parisienne" pubPlace="Pariz" page="106"/>
     </delo>
-    <delo mojID="30621">
+    <delo mojID="30621" cobiss="5208846">
         <naslov>Paris: Hauptstadt Europas 1789-1914</naslov>
         <cit did="2838" cid="246" avtor0="Willms J." naslov0="Paris: Hauptstadt Europas 1789-1914"
             pubPlace="München" year="1988"/>
     </delo>
-    <delo mojID="30622">
+    <delo mojID="30622" cobiss="3429126">
         <naslov>Pariska konferencija</naslov>
         <cit did="1324" cid="100" avtor0="Dedijer V." naslov0="Pariska konferencija"
             pubPlace="Beograd" year="1948"/>
     </delo>
-    <delo mojID="30627">
+    <delo mojID="30627" cobiss="6849844">
         <naslov>Park Ravne</naslov>
         <cit did="2243" cid="2" avtor0="Erženičnik Stanislava" naslov0="Park Ravne"
             source="Zaključni izpit" pubPlace="Ravne na Koroškem" year="1963"/>
     </delo>
-    <delo mojID="30629">
+    <delo mojID="30629" cobiss="3713361">
         <naslov>Parlament in ustavno sodišče</naslov>
         <cit did="2820" cid="17" avtor0="Kristan Ivan" naslov0="Parlament in ustavno sodišče"
             source="Razvoj slovenskega parlamentarizma" pubPlace="Ljubljana" year="2000"/>
@@ -742,12 +742,12 @@
             naslov0="Parler comme un livre. L'oralite et le savoir (XVIle-XXe siecle)"
             pubPlace="Paris" publisher="Mondolfo" year="2003"/>
     </delo>
-    <delo mojID="30646">
+    <delo mojID="30646" cobiss="13520685">
         <naslov>Parlerjanske maske v okolici Ptuja</naslov>
         <cit did="1588" cid="9" avtor0="Cevc Emilijan" naslov0="Parlerjanske maske v okolici Ptuja"
             source="Ptujski zbornik 1893-1953" pubPlace="Ptuj" year="1953" page="50"/>
     </delo>
-    <delo mojID="30647">
+    <delo mojID="30647" cobiss="28550749">
         <naslov>Parliamentary Democracy. Democratization, Destabilization, Reconsolidation
                         1789–1999</naslov>
         <cit did="2820" cid="1" avtor0="Beyme Klaus von"
@@ -768,11 +768,11 @@
             naslov0="Parléřův kostel Všech svatých na pržském hradě" source="Umění" year="1969"
             page="574"/>
     </delo>
-    <delo mojID="30650">
+    <delo mojID="30650" cobiss="6129928">
         <naslov>Parmenid</naslov>
         <cit did="1004" cid="19" avtor0="Platon" naslov0="Parmenid" source="Razpol" year="1996"/>
     </delo>
-    <delo mojID="30652">
+    <delo mojID="30652" cobiss="9324566">
         <naslov>Parniki. Prve ladje so imele pogon na kolesa</naslov>
         <cit did="1999" cid="29" avtor0="Orbanič J."
             naslov0="Parniki. Prve ladje so imele pogon na kolesa" source="Transport"
@@ -785,7 +785,7 @@
             naslov0="Paro dall'eta arcaica all'eta ellenistica (Universita degli Studi di Macerata)"
             pubPlace="Roma" year="1987"/>
     </delo>
-    <delo mojID="30654">
+    <delo mojID="30654" cobiss="8436">
         <naslov>Parobrodarstvo Dalmacije 1878-1918</naslov>
         <cit did="2636" cid="41" avtor0="Fijo O." naslov0="Parobrodarstvo Dalmacije 1878-1918"
             pubPlace="Zadar" year="1962"/>
@@ -835,7 +835,7 @@
             source="British journal of industrial relations" year="1995" volume="33" issue="3"
             page="379-415"/>
     </delo>
-    <delo mojID="30663">
+    <delo mojID="30663" cobiss="27450717">
         <naslov>Participation in America: Political Democracy and Social Equality</naslov>
         <cit did="2683" cid="27" avtor0="Verba Sydney" avtor1="Nie Norman H."
             naslov0="Participation in America: Political Democracy and Social Equality"
@@ -867,13 +867,13 @@
             naslov0="Partijska konferenca na Sveti gori aprila 1942" source="Borec" year="1972"
             issue="3"/>
     </delo>
-    <delo mojID="30672">
+    <delo mojID="30672" cobiss="110809856">
         <naslov>"Partijska zgodovina ne počiva"</naslov>
         <cit did="860" cid="160" avtor0="Žajdela Ivo"
             naslov0="&#34;Partijska zgodovina ne počiva&#34;" source="Nova revija"
             pubPlace="Ljubljana" year="2000" issue="221-222" page="59"/>
     </delo>
-    <delo mojID="30675">
+    <delo mojID="30675" cobiss="1001940">
         <naslov>Partisanen in Kärnten</naslov>
         <cit did="964" cid="24" avtor0="Wadl Wilhelm" avtor1="Ogris Alfred"
             naslov0="Partisanen in Kärnten" naslov1="Kämpfer gegen den Fachismus, Kämpfer für"
@@ -898,11 +898,11 @@
             naslov0="Partizanska obaveštajna služba 1941-1942" pubPlace="Zagreb"
             publisher="Centar za informaciju i publicitet" year="1988"/>
     </delo>
-    <delo mojID="30683">
+    <delo mojID="30683" cobiss="5411073">
         <naslov>Partizanska saniteta</naslov>
         <cit did="1192" cid="15" avtor0="Mikuž Metod" naslov0="Partizanska saniteta" page="35-323"/>
     </delo>
-    <delo mojID="30684">
+    <delo mojID="30684" cobiss="3663926">
         <naslov>Partizanska saniteta na Gorenjskem</naslov>
         <cit did="1545" cid="30" avtor0="Benedik Franc" naslov0="Partizanska saniteta na Gorenjskem"
             source="Kranjski zbornik" year="1970" page="46-47"/>
@@ -921,7 +921,7 @@
             source="Prispevki za novejšo zgodovino" pubPlace="Ljubljana" year="1960" volume="2"
             issue="2" page="229-263"/>
     </delo>
-    <delo mojID="30690">
+    <delo mojID="30690" cobiss="19636480">
         <naslov>Partizanske delavnice na Slovenskem</naslov>
         <cit did="1178" cid="5" avtor0="Podnar Franc" naslov0="Partizanske delavnice na Slovenskem"
             pubPlace="Ljubljana" publisher="Muzej ljudske revolucije Slovenije" year="1980"/>
@@ -932,30 +932,30 @@
             naslov0="Partizanske enote in borbe v Selški dolini 1941-1943" source="Loški Razgledi"
             year="1975" page="225"/>
     </delo>
-    <delo mojID="30692">
+    <delo mojID="30692" cobiss="47879168">
         <naslov>Partizanske enote na slovenskem Štajerskem 1941-1945</naslov>
         <cit did="2287" cid="92" avtor0="Ževart Milan"
             naslov0="Partizanske enote na slovenskem Štajerskem 1941-1945"
             source="Časopis za zgodovino in narodopisje" year="1993" issue="2" page="254-273"/>
     </delo>
-    <delo mojID="30693">
+    <delo mojID="30693" cobiss="3663670">
         <naslov>Partizanske tehnike in tiskarne na Gorenjskem</naslov>
         <cit did="1545" cid="31" avtor0="Benedetič Ana"
             naslov0="Partizanske tehnike in tiskarne na Gorenjskem" source="Kranjski zbornik"
             year="1970" page="32-42"/>
     </delo>
-    <delo mojID="30694">
+    <delo mojID="30694" cobiss="36378368">
         <naslov>Partizanske tehnike na Koroškem</naslov>
         <cit did="466" cid="6" avtor0="Žolnir Bogdan" naslov0="Partizanske tehnike na Koroškem"
             source="Vestnik koroških partizanov 1-2" pubPlace="Ljubljana" year="1990"/>
     </delo>
-    <delo mojID="30695">
+    <delo mojID="30695" cobiss="111477">
         <naslov>Partizanske tehnike na Notranjskem 1941 - 1945</naslov>
         <cit did="2633" cid="26" avtor0="Tršar Lojze"
             naslov0="Partizanske tehnike na Notranjskem 1941 - 1945" source="Notranjski listi III."
             pubPlace="Cerknica" year="1986" page="384-408"/>
     </delo>
-    <delo mojID="30697">
+    <delo mojID="30697" cobiss="2199857">
         <naslov>Partizanske tiskarne na Slovenskem : Osrednje tiskarne</naslov>
         <cit did="2067" cid="6" avtor0="Krall Jože"
             naslov0="Partizanske tiskarne na Slovenskem : Osrednje tiskarne" pubPlace="Ljubljana"
@@ -979,7 +979,7 @@
             naslov0="Partizansko ljetovanje, Hrvatska i Srbi 1945-1950" pubPlace="Zagreb"
             year="2003"/>
     </delo>
-    <delo mojID="30706">
+    <delo mojID="30706" cobiss="2702196">
         <naslov>Partizansko sodstvo v Sloveniji med drugo svetovno vojno – kaznovalna
                         politika in vprašanje smrtnih kazni</naslov>
         <cit did="2804" cid="13" avtor0="Tominšek Čehulić Tadeja"
@@ -1006,12 +1006,12 @@
             source="Yugoslavia in the 1980s" pubPlace="Boulder" publisher="Westview Press"
             year="1985" page="29-55"/>
     </delo>
-    <delo mojID="30711">
+    <delo mojID="30711" cobiss="4449890">
         <naslov>Parzival</naslov>
         <cit did="2631" cid="256" avtor0="Eschenbach Wolfram von" naslov0="Parzival"
             pubPlace="Frankfurt" year="1996"/>
     </delo>
-    <delo mojID="30712">
+    <delo mojID="30712" cobiss="581773">
         <naslov>Pascalian meditations</naslov>
         <cit did="417" cid="13" avtor0="Bourdieu P." naslov0="Pascalian meditations"
             pubPlace="Oxford" publisher="Polity Press" year="2000"/>
@@ -1030,7 +1030,7 @@
             pubPlace="Venezia" publisher="Istituto veneto di Scienze, Lettere ed Arti" year="2001"
             page="363-381"/>
     </delo>
-    <delo mojID="30717">
+    <delo mojID="30717" cobiss="32402433">
         <naslov>Passato e presente degli Sloveni in Italia</naslov>
         <cit did="2763" cid="58" avtor0="Kos Milko" avtor1="Čermelj Lavo et al"
             naslov0="Passato e presente degli Sloveni in Italia" source="Gli Sloveni in Italia"
@@ -1069,13 +1069,13 @@
             source="Recovered Memories and False Memories" pubPlace="Oxford"
             publisher="Oxford University Press" year="1997" page="150–191"/>
     </delo>
-    <delo mojID="30723">
+    <delo mojID="30723" cobiss="68917760">
         <naslov>Pasti globalizacije: napad na demokracijo in blaginjo</naslov>
         <cit did="3071" cid="43" avtor0="Martin Hans Peter" avtor1="Schumann Harald"
             naslov0="Pasti globalizacije: napad na demokracijo in blaginjo" pubPlace="Ljubljana"
             publisher="Co Libri" year="1997"/>
     </delo>
-    <delo mojID="30725">
+    <delo mojID="30725" cobiss="2187294">
         <naslov>Pastir Ciril : Izvirna povest izpod Dobrača</naslov>
         <cit did="442" cid="105" avtor0="Sirienc Kristo"
             naslov0="Pastir Ciril : Izvirna povest izpod Dobrača" pubPlace="Celovec" year="1956"/>
@@ -1087,12 +1087,12 @@
             naslov0="Pastir, nemški vojak in češki sin: Kranj – Hüttenberg – Jalo – Olomuc 1942–1948"
             pubPlace="Kranj" year="2003" page="11"/>
     </delo>
-    <delo mojID="30727">
+    <delo mojID="30727" cobiss="28557569">
         <naslov>Pastirski listi</naslov>
         <cit did="1877" cid="2" avtor0="Slomšek Anton Martin" naslov0="Pastirski listi"
             pubPlace="Celovec" year="0"/>
     </delo>
-    <delo mojID="30728">
+    <delo mojID="30728" cobiss="25414657">
         <naslov>Pastoralna dejavnost Ivanocyjevega kroga</naslov>
         <cit did="3052" cid="9" avtor0="Smej Jožef"
             naslov0="Pastoralna dejavnost Ivanocyjevega kroga" pubPlace="Maribor" year="1975"
@@ -1106,7 +1106,7 @@
             source="Hrvati u Sloveniji" pubPlace="Zagreb"
             publisher="Institut za migracije i narodnosti" year="1997" page="387-401"/>
     </delo>
-    <delo mojID="30733">
+    <delo mojID="30733" cobiss="54195968">
         <naslov>Pater Kazimir Zakrajšek, O. F. M.</naslov>
         <cit did="436" cid="28" avtor0="Friš Darko" naslov0="Pater Kazimir Zakrajšek, O. F. M."
             naslov1="&#34;Apostol slovenskega izseljenstva in ameriški Krek&#34;"
@@ -1173,7 +1173,7 @@
             naslov1="The Social Foundations of the Venetian Renaissance State" pubPlace="Baltimore"
             year="1987" page="8"/>
     </delo>
-    <delo mojID="30748">
+    <delo mojID="30748" cobiss="277854720">
         <naslov>Patrioten</naslov>
         <cit did="442" cid="79" avtor0="Perkonig Friedrich Josef" naslov0="Patrioten" source="Roman"
             pubPlace="Klagenfurt" year="1969"/>
@@ -1297,7 +1297,7 @@
             source="III. Das serbische Schriftum" pubPlace="Prag" publisher="Književnik" year="0"
             page="128-132"/>
     </delo>
-    <delo mojID="30768">
+    <delo mojID="30768" cobiss="298018">
         <naslov>Paul Samassa : a Biographic Contribution to the Prehistory of Extreme
                         Nationalism in Germany and Austria</naslov>
         <cit did="109" cid="33" avtor0="Schödl Günther"
@@ -1343,7 +1343,7 @@
             naslov0="Pavel Marek a kolektiv, Politicke strany: Vyvoj politickych stran a hnuti v českych zemich a Československu 1861-2004"
             page="772"/>
     </delo>
-    <delo mojID="30776">
+    <delo mojID="30776" cobiss="65800192">
         <naslov>Pavel Santonino v Sloveniji (1486 in 1487): stvarnost in mentaliteta v
                         potopisu iz pozne gotike</naslov>
         <cit did="2211" cid="53" avtor0="Hundsbichler Helmuth"
@@ -1355,12 +1355,12 @@
         <cit did="2023" cid="7" avtor0="Grdina Igor" naslov0="Pavel Weiner v navskrižjih časa"
             source="Kranjski zbornik" pubPlace="Kranj" year="2005" page="364"/>
     </delo>
-    <delo mojID="30779">
+    <delo mojID="30779" cobiss="16194817">
         <naslov>Pavelić u bjekstvu</naslov>
         <cit did="1464" cid="72" avtor0="Krizman Bogdan" naslov0="Pavelić u bjekstvu"
             pubPlace="Zagreb" year="1986" page="13-14"/>
     </delo>
-    <delo mojID="30781">
+    <delo mojID="30781" cobiss="24062976">
         <naslov>Pavlihova frača</naslov>
         <cit did="842" cid="3" avtor0="Novak Bogdan" naslov0="Pavlihova frača" pubPlace="Ljubljana"
             publisher="Magnolija" year="1991" page="164-166"/>
@@ -1408,7 +1408,7 @@
         <cit did="629" cid="214" avtor0="Holl Karl" naslov0="Pazifismus in Deutschland"
             pubPlace="Frankfurt am Main" publisher="H. Holzberg" year="1988"/>
     </delo>
-    <delo mojID="30789">
+    <delo mojID="30789" cobiss="9188097">
         <naslov>Pazljivejša branja</naslov>
         <cit did="3022" cid="112" avtor0="Kramberger Marjan" naslov0="Pazljivejša branja"
             pubPlace="Ljubljana" year="1975" page="78-80"/>
