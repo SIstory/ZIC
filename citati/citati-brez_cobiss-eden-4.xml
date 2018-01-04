@@ -1424,7 +1424,7 @@
             source="I partiti politici nell'Italia repubblicana" pubPlace="Roma"
             publisher="Rubberttino, Soveria Mannelli" year="2006"/>
     </delo>
-    <delo mojID="30794">
+    <delo mojID="30794" cobiss="1594461">
         <naslov>Peace and World Structure</naslov>
         <cit did="2746" cid="26" avtor0="Galtung Johan" naslov0="Peace and World Structure"
             pubPlace="Copenhagen" publisher="Ejlers" year="1980"/>
@@ -1435,7 +1435,7 @@
             naslov0="Peace Ever? A Gender Perspective in Conflict Resolution" pubPlace="Saarbrücken"
             publisher="VDM Verlag Dr. Muller Aktiengesellschaft &amp; Co. Kg" year="2009"/>
     </delo>
-    <delo mojID="30797">
+    <delo mojID="30797" cobiss="18539101">
         <naslov>Peace, Research, Education, Action</naslov>
         <cit did="2746" cid="25" avtor0="Galtung Johan" naslov0="Peace, Research, Education, Action"
             pubPlace="Copenhagen" publisher="Ejlers" year="1975"/>
@@ -1455,13 +1455,13 @@
         <cit did="51" cid="210" avtor0="Nitti" naslov0="Peaceless Europe" pubPlace="e.vir"
             year="1922"/>
     </delo>
-    <delo mojID="30802">
+    <delo mojID="30802" cobiss="32674397">
         <naslov>Peacemakers</naslov>
         <cit did="303" cid="113" avtor0="Macmillan Margaret" naslov0="Peacemakers"
             naslov1="Six months that changed the World" pubPlace="London-New York"
             publisher="Random House" year="2002"/>
     </delo>
-    <delo mojID="30803">
+    <delo mojID="30803" cobiss="32674397">
         <naslov>Peacemakers: six months that changed the World</naslov>
         <cit did="1662" cid="67" avtor0="Macmillan Margaret"
             naslov0="Peacemakers: six months that changed the World" pubPlace="London" year="2002"/>
@@ -1474,7 +1474,7 @@
             source="Comparative Studies in Society and History" year="1992" volume="34" page="3-27"
         />
     </delo>
-    <delo mojID="30806">
+    <delo mojID="30806" cobiss="1164404">
         <naslov>Peasants, Politics and Economic Change in Yugoslavia</naslov>
         <cit did="860" cid="132" avtor0="Tomasevich Jozo"
             naslov0="Peasants, Politics and Economic Change in Yugoslavia" pubPlace="Stanford"
@@ -1491,7 +1491,7 @@
         <cit did="2016" cid="151" avtor0="Župančič Anton" naslov0="Pedagogika" pubPlace="Ljubljana"
             year="1904"/>
     </delo>
-    <delo mojID="30809">
+    <delo mojID="30809" cobiss="7343880">
         <naslov>Pedagogika kot učni predmet filozofskih študij na Slovenskem v prvi polovici
                         19. stoletja</naslov>
         <cit did="2041" cid="18" avtor0="Schmidt Vlado"
@@ -1506,7 +1506,7 @@
             naslov0="Pedagoška analiza stališč in utemeljitev v načrtu za &#34;unapredjenje sistema obrazovanja na II. stupnju&#34;"
             source="Sodobna pedagogika" year="1966" issue="3/4" page="59-68"/>
     </delo>
-    <delo mojID="30814">
+    <delo mojID="30814" cobiss="214145024">
         <naslov>Pedagoški govor v vrtcu in prvem razredu devetletne osnovne šole</naslov>
         <cit did="704" cid="15" avtor0="Skubic Darija"
             naslov0="Pedagoški govor v vrtcu in prvem razredu devetletne osnovne šole"
@@ -1518,7 +1518,7 @@
             naslov0="Pedagoški teden v Mariboru (od 11. do 16. maja 1925)"
             source="Pedagoški zbornik" year="1925"/>
     </delo>
-    <delo mojID="30821">
+    <delo mojID="30821" cobiss="7190788">
         <naslov>Pedogeografija</naslov>
         <cit did="732" cid="12" avtor0="Lovrenčak F." naslov0="Pedogeografija" pubPlace="Ljubljana"
             publisher="FF" year="1994"/>
@@ -1530,20 +1530,20 @@
             naslov0="Pegavica: (Typhus exanthemaluus) opozorilo zdravnikom, sestavil po Jochmann-u in lastnih izkušnjah dr. Mirko Černič"
             pubPlace="Ljubljana" publisher="Zdravstveni oddelek deželne vlade" year="1919"/>
     </delo>
-    <delo mojID="30825">
+    <delo mojID="30825" cobiss="18710535">
         <naslov>Peinture et Société : Naissance et destruction d'un espace plastique, de la
                         Renaissance au cubisme</naslov>
         <cit did="272" cid="301" avtor0="Francastel P."
             naslov0="Peinture et Société : Naissance et destruction d'un espace plastique, de la Renaissance au cubisme"
             pubPlace="Lyon" year="1951"/>
     </delo>
-    <delo mojID="30826">
+    <delo mojID="30826" cobiss="813011">
         <naslov>Pejca v Lascu: zakaj in čemu?</naslov>
         <cit did="1916" cid="14" avtor0="Flego S." naslov0="Pejca v Lascu: zakaj in čemu?"
             source="Annales. Series historia et sociologia" pubPlace="Koper" year="2004" volume="14"
             issue="2" page="431-432"/>
     </delo>
-    <delo mojID="30828">
+    <delo mojID="30828" cobiss="13495605">
         <naslov>Peklenski stroj v Monakovskem vozu</naslov>
         <cit did="1626" cid="220" avtor0="Kregar Tone" naslov0="Peklenski stroj v Monakovskem vozu"
             source="Zgodovina za vse" year="2006" issue="2" page="68-80"/>
@@ -1607,19 +1607,19 @@
         <cit did="51" cid="150" avtor0="Dent-Dutton"
             naslov0="Penn's Fruits of Solitude and Other Writings" pubPlace="London" year="1916"/>
     </delo>
-    <delo mojID="30839">
+    <delo mojID="30839" cobiss="21299245">
         <naslov>Penser avec, penser contre. Itineraire d'un historien</naslov>
         <cit did="2018" cid="242" avtor0="Noiriel G."
             naslov0="Penser avec, penser contre. Itineraire d'un historien" pubPlace="Pariz"
             publisher="Belin" year="2003"/>
     </delo>
-    <delo mojID="30841">
+    <delo mojID="30841" cobiss="7042354">
         <naslov>Pensiero e poesia di Carlo Michelstaedter</naslov>
         <cit did="1427" cid="6" avtor0="Campailla Sergio"
             naslov0="Pensiero e poesia di Carlo Michelstaedter" pubPlace="Bologna"
             publisher="Patron" year="1973"/>
     </delo>
-    <delo mojID="30842">
+    <delo mojID="30842" cobiss="4769114">
         <naslov>Pentateuch with Targum Onkelos, Haphtaroth and Rashi's Commentary</naslov>
         <cit did="51" cid="13" avtor0="Rosenbaum M., Silbermann A.M."
             naslov0="Pentateuch with Targum Onkelos, Haphtaroth and Rashi's Commentary" year="1972"
@@ -1658,7 +1658,7 @@
             source="The Chinese diaspora" pubPlace="Singapore"
             publisher="Eastern Universities Press" year="2003" volume="1" page="38-63"/>
     </delo>
-    <delo mojID="30848">
+    <delo mojID="30848" cobiss="512245120">
         <naslov>People of the Mediterranean</naslov>
         <cit did="226" cid="50" avtor0="Davis J." naslov0="People of the Mediterranean"
             pubPlace="London" publisher="Routledge" year="1977"/>
@@ -1807,7 +1807,7 @@
             naslov0="&#34;Per una confmazione equa e giusta&#34;. Andrea Tron e la politica dei confini della Repubblica di Venezia nel '700"
             pubPlace="Milano" publisher="Franco Angeli" year="2007"/>
     </delo>
-    <delo mojID="30872">
+    <delo mojID="30872" cobiss="36563">
         <naslov>Per una geografia delle aree di confine: il caso della regione
                         transconfinaria Italo-Slovena nel goriziano</naslov>
         <cit did="2763" cid="97" avtor0="Bufon Milan"
@@ -1857,7 +1857,7 @@
             source="Societa, stato e giustizia. Vol. I, II." pubPlace="Roma" publisher="Jouvance"
             year="1980"/>
     </delo>
-    <delo mojID="30880">
+    <delo mojID="30880" cobiss="7510093">
         <naslov>Per una storia religiosa della città di Gorizia</naslov>
         <cit did="1317" cid="135" avtor0="Tavano Luigi"
             naslov0="Per una storia religiosa della città di Gorizia" source="Studi Goriziani"
@@ -1906,7 +1906,7 @@
             naslov0="Percepcija klasicno grsko-rimskih Sozotskih kategorij v delih slovenskega pisatelja Alojza Rebule"
             source="Jezik in slovstvo" year="2006" volume="51" issue="6" page="67-79"/>
     </delo>
-    <delo mojID="30887">
+    <delo mojID="30887" cobiss="9667405">
         <naslov>Percepcija kulturne in jezikovne raznolikosti v dveh obmejnih mestih –
                         primer Nova Gorica (SI) – Gorica (IT): predstavitev izbranih rezultatov
                         raziskave</naslov>
@@ -1915,7 +1915,7 @@
             naslov1="študija primera" source="RiG" pubPlace="Ljubljana" publisher="INV" year="2005"
             issue="45" page="76-99"/>
     </delo>
-    <delo mojID="30888">
+    <delo mojID="30888" cobiss="219668736">
         <naslov>Percepcije slovenske integracijske politike: zaključno poročilo</naslov>
         <cit did="2763" cid="26" avtor0="Bešter Romana" avtor1="Hafner Fink Mitja et al"
             naslov0="Percepcije slovenske integracijske politike: zaključno poročilo"
@@ -1969,7 +1969,7 @@
             source="Genere e mascolinità: Uno sguardo storico" pubPlace="Roma" publisher="Bulzoni"
             year="2000" page="133-152"/>
     </delo>
-    <delo mojID="30898">
+    <delo mojID="30898" cobiss="99283">
         <naslov>Percorsi genealogici: Storie di donne in una famiglia dell'aristocrazia
                         vicentina</naslov>
         <cit did="1501" cid="10" avtor0="Povolo Claudio"
@@ -2025,7 +2025,7 @@
             naslov0="Periodici giuridici italiani (1850-1900): Repertorio" pubPlace="Milano"
             publisher="Giuffre" year="1994"/>
     </delo>
-    <delo mojID="30913">
+    <delo mojID="30913" cobiss="1200218">
         <naslov>Periodični tisk slovenskih cerkvenih skupnosti v severni in južni Ameriki
                         ter Avstraliji s poudarkom na listu Ave Maria</naslov>
         <cit did="2718" cid="23" avtor0="Kolar Bogdan"
@@ -2078,7 +2078,7 @@
             naslov0="Perpetual Police? Kosovo and the Elision of Police and Military Violence"
             source="European Journal of Social Theory" year="2001" volume="4" page="73-80"/>
     </delo>
-    <delo mojID="30926">
+    <delo mojID="30926" cobiss="8869986">
         <naslov>Perseo e la fine della monarchia macedone (Annali delle Facolta di Lettere,
                         Filosofia e di Magistero dell'Universita di Cagliari 20)</naslov>
         <cit did="1748" cid="656" avtor0="Meloni P."
@@ -2131,7 +2131,7 @@
         <cit did="1920" cid="57" avtor0="Preto P." naslov0="Persona per hora secreta"
             pubPlace="Milano" publisher="Net" year="2006"/>
     </delo>
-    <delo mojID="30934">
+    <delo mojID="30934" cobiss="9039921">
         <naslov>Persona per hora secreta: Accusa e delazione nella Repubblica di
                         Venezia</naslov>
         <cit did="1472" cid="48" avtor0="Preto P."
@@ -2154,7 +2154,7 @@
             naslov0="Personal communities - anothi fall for public (man)?. Paper presented at the International conference Extended and extending familie Centre for research on families and relationships"
             publisher="Unversity of Edinburgh" year="2007" volume="27-29"/>
     </delo>
-    <delo mojID="30937">
+    <delo mojID="30937" cobiss="15506733">
         <naslov>Personal Patronage under the Early Empire</naslov>
         <cit did="1748" cid="869" avtor0="Saller R. P."
             naslov0="Personal Patronage under the Early Empire" pubPlace="Cambridge" year="1982"/>
@@ -2207,14 +2207,14 @@
             source="Persuasion: Reception and responsibility" pubPlace="Belmont"
             publisher="Woodsworth" year="1989" page="28-52"/>
     </delo>
-    <delo mojID="30946">
+    <delo mojID="30946" cobiss="1141133">
         <naslov>Perspektive medijev etničnih skupin/manjšin z območja bivše Jugoslavije v
                         Sloveniji</naslov>
         <cit did="2706" cid="25" avtor0="Medica Karmen"
             naslov0="Perspektive medijev etničnih skupin/manjšin z območja bivše Jugoslavije v Sloveniji"
             source="Monitor ISH" year="2004" issue="1" page="93-122"/>
     </delo>
-    <delo mojID="30949">
+    <delo mojID="30949" cobiss="18691677">
         <naslov>Perspektive socialnega dela v delovnem okolju</naslov>
         <cit did="166" cid="17" avtor0="Rapoša Tajnšek Pavla"
             naslov0="Perspektive socialnega dela v delovnem okolju" source="Socialno delo"
@@ -2259,17 +2259,17 @@
             source="Begegnungen Nova revija - Slowenien" pubPlace="Ljubljana" year="1995" page="261"
         />
     </delo>
-    <delo mojID="30956">
+    <delo mojID="30956" cobiss="51267584">
         <naslov>Perverzne proslave</naslov>
         <cit did="1549" cid="4" avtor0="Pučnik Jože" naslov0="Perverzne proslave"
             source="Nova revija" year="1995" issue="156-157"/>
     </delo>
-    <delo mojID="30957">
+    <delo mojID="30957" cobiss="1212789">
         <naslov>Pes z imenom Dežman</naslov>
         <cit did="1607" cid="20" avtor0="Matič Dragan" naslov0="Pes z imenom Dežman"
             source="Slovenska kronika XIX. stoletja" pubPlace="Ljubljana" year="2003"/>
     </delo>
-    <delo mojID="30958">
+    <delo mojID="30958" cobiss="231386880">
         <naslov>Pesem in jeklo : izbor besedil in bibliografija Mitje Šipka</naslov>
         <cit did="2243" cid="16" avtor0="Šipek Mitja"
             naslov0="Pesem in jeklo : izbor besedil in bibliografija Mitje Šipka"
@@ -2307,7 +2307,7 @@
             source="Trubarjev zbornik. Slovenska matica" pubPlace="Ljubljana" year="1908"
             page="126-244"/>
     </delo>
-    <delo mojID="30968">
+    <delo mojID="30968" cobiss="100746240">
         <naslov>Pesnik Alojz Gradnik (1882-1967)</naslov>
         <cit did="1307" cid="55" avtor0="Zadravec Franc" naslov0="Pesnik Alojz Gradnik (1882-1967)"
             pubPlace="Ljubljana" publisher="FF" year="1999"/>
@@ -2345,18 +2345,18 @@
         <cit did="2330" cid="22" avtor0="Kunz M. L." naslov0="Pestello, Venezia e il suo mondo"
             pubPlace="Firenze" publisher="Olschki" year="1988"/>
     </delo>
-    <delo mojID="30979">
+    <delo mojID="30979" cobiss="2169353">
         <naslov>Pet diplomatskih misija, Rim-Sofija-Tirana</naslov>
         <cit did="2872" cid="92" avtor0="Milatović Arso"
             naslov0="Pet diplomatskih misija, Rim-Sofija-Tirana" pubPlace="Ljubljana in Zagreb"
             publisher="Cankarjeva založba" year="1985"/>
     </delo>
-    <delo mojID="30980">
+    <delo mojID="30980" cobiss="421429">
         <naslov>Pet let dela Muzeja revolucije v Celju</naslov>
         <cit did="96" cid="8" avtor0="Terčak Stane" naslov0="Pet let dela Muzeja revolucije v Celju"
             source="Celjski zbornik" year="1969" page="427-432"/>
     </delo>
-    <delo mojID="30981">
+    <delo mojID="30981" cobiss="12202141">
         <naslov>Pet let delovanja upravne enote Jesenice</naslov>
         <cit did="430" cid="65" avtor0="Pretnar Vitomir"
             naslov0="Pet let delovanja upravne enote Jesenice" source="Jeseniški zbornik"
@@ -2368,7 +2368,7 @@
             naslov0="Pet posegov dr. L. K. Moserja I. 1899 v jamah pod gradom na Socerbu"
             year="2008"/>
     </delo>
-    <delo mojID="30986">
+    <delo mojID="30986" cobiss="30528512">
         <naslov>Pet velikih</naslov>
         <cit did="106" cid="199" avtor0="Trstenjak Anton" naslov0="Pet velikih" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1992"/>
@@ -2381,7 +2381,7 @@
             source="Slovenske Večernice za pouk in kratek čas, 43. zvezek" pubPlace="Celovec"
             year="1889"/>
     </delo>
-    <delo mojID="30989">
+    <delo mojID="30989" cobiss="4708658">
         <naslov>Peta prekomorska brigada Ivana Turšiča -Iztoka</naslov>
         <cit did="1193" cid="4" avtor0="Šmit Jože, Bordon Rado" avtor1="Klun Albert"
             naslov0="Peta prekomorska brigada Ivana Turšiča -Iztoka" pubPlace="Nova Gorica"
@@ -2426,13 +2426,13 @@
             naslov0="Petdeset let domžalske godbe 1884-1934" source="Domžalec" year="1934" issue="1"
         />
     </delo>
-    <delo mojID="30999">
+    <delo mojID="30999" cobiss="339838">
         <naslov>Petdeset let mestne hranilnice ljubljanske v Ljubljani</naslov>
         <cit did="2277" cid="2" avtor0="Zupan France"
             naslov0="Petdeset let mestne hranilnice ljubljanske v Ljubljani" pubPlace="Ljubljana"
             year="1939"/>
     </delo>
-    <delo mojID="31000">
+    <delo mojID="31000" cobiss="58603009">
         <naslov>Petdeset let Ribiške družine Pesnica Lenart (1957-2007)</naslov>
         <cit did="1632" cid="3" avtor0="Toš Marjan"
             naslov0="Petdeset let Ribiške družine Pesnica Lenart (1957-2007)" pubPlace="Lenart"
@@ -2448,31 +2448,31 @@
         <cit did="3287" cid="64" avtor0="Žerdin Ali H." naslov0="Petdeset razlogov za padec LDS"
             source="Mladina" pubPlace="Ljubljana" year="2004" issue="41"/>
     </delo>
-    <delo mojID="31003">
+    <delo mojID="31003" cobiss="20230105">
         <naslov>Petdesetletnica radioterapije kot samostojne panoge medicine</naslov>
         <cit did="3127" cid="29" avtor0="Jereb Berta"
             naslov0="Petdesetletnica radioterapije kot samostojne panoge medicine" source="Isis,"
             year="2005" volume="7" page="46-47"/>
     </delo>
-    <delo mojID="31004">
+    <delo mojID="31004" cobiss="1715059">
         <naslov>Petdesetletnica slovenske glasbene sole v Ptuju 1919-1969</naslov>
         <cit did="1912" cid="42" avtor0="Hasl Drago"
             naslov0="Petdesetletnica slovenske glasbene sole v Ptuju 1919-1969" pubPlace="Ptuj"
             year="1969"/>
     </delo>
-    <delo mojID="31006">
+    <delo mojID="31006" cobiss="16114945">
         <naslov>Peter Amalietti: Zgodbe o jazzu</naslov>
         <cit did="1707" cid="1" avtor0="Amalietti Peter" naslov0="Peter Amalietti: Zgodbe o jazzu"
             pubPlace="Ljubljana" year="1986" page="5-9"/>
     </delo>
-    <delo mojID="31007">
+    <delo mojID="31007" cobiss="1824116">
         <naslov>Peter Becker, Verderbnis und Entartung. Eine Geschichte der Kriminologie des
                         19. Jahrhunderts als Diskurs und Praxis</naslov>
         <cit did="2310" cid="18" avtor0="Becker Peter"
             naslov0="Peter Becker, Verderbnis und Entartung. Eine Geschichte der Kriminologie des 19. Jahrhunderts als Diskurs und Praxis"
             pubPlace="Göttingen" year="2002" page="82"/>
     </delo>
-    <delo mojID="31008">
+    <delo mojID="31008" cobiss="14621282">
         <naslov>Peter Bezlaj (Petrus de Lubiana)</naslov>
         <cit did="3538" cid="36" avtor0="Štefanac Samo" naslov0="Peter Bezlaj (Petrus de Lubiana)"
             source="Gotika v Sloveniji" pubPlace="Ljubljana" publisher="Narodna galerija"
@@ -2488,7 +2488,7 @@
         <cit did="102" cid="35" avtor0="Radbruch Gustav" naslov0="Peter Günther - Narr und Held"
             source="Elegantiar Juris Criminalis" page="139"/>
     </delo>
-    <delo mojID="31013">
+    <delo mojID="31013" cobiss="288542">
         <naslov>Peter Klepec in njegova dežela</naslov>
         <cit did="2625" cid="95" avtor0="Primc Jože" naslov0="Peter Klepec in njegova dežela"
             pubPlace="Kočevje" publisher="Koordinacijski odbor za razvoj Zgornje Kolpske doline"
@@ -2505,7 +2505,7 @@
         <cit did="1588" cid="33" avtor0="Neuwirth Joseph" naslov0="Peter Parler von Gmünd"
             pubPlace="Prag" year="0" page="78-81"/>
     </delo>
-    <delo mojID="31020">
+    <delo mojID="31020" cobiss="239229952">
         <naslov>Peter Pavel pl. Radics (1836-1912), kranjski polihistor, ter njegovo
                         raziskovanje nemškega gledališča v Ljubljani</naslov>
         <cit did="2050" cid="13" avtor0="Žigon Tanja"
@@ -2524,7 +2524,7 @@
         <cit did="1761" cid="150" avtor0="Neugart I." naslov0="Peter von Retz" source="VerLex"
             volume="7" page="451-452"/>
     </delo>
-    <delo mojID="31024">
+    <delo mojID="31024" cobiss="21054509">
         <naslov>Peter Wilkinson and the Carinthian Slovenes</naslov>
         <cit did="1648" cid="24" avtor0="Knight Robert"
             naslov0="Peter Wilkinson and the Carinthian Slovenes" source="Zbornik Janka Pleterskega"
@@ -2548,13 +2548,13 @@
             naslov0="Petindvajseta obletnica ustanovitve Slovenika" source="Slovenik" year="1988"
             volume="5" page="20"/>
     </delo>
-    <delo mojID="31032">
+    <delo mojID="31032" cobiss="1107814238">
         <naslov>Petindvajsetletnica smučanja v Sloveniji</naslov>
         <cit did="3365" cid="216" avtor0="Kunaver Pavel"
             naslov0="Petindvajsetletnica smučanja v Sloveniji" source="Planinski vestnik"
             year="1936" volume="36" issue="1" page="2-6"/>
     </delo>
-    <delo mojID="31033">
+    <delo mojID="31033" cobiss="29158145">
         <naslov>Petindvajsetletnica Zaveze avstrijskih jugoslovanskih učiteljskih
                         društev</naslov>
         <cit did="2191" cid="1" avtor0="Jelenc Luka"
@@ -2580,7 +2580,7 @@
             source="Univerzitetna knjižnica Maribor 1903-1978: Jubilejni zbornik" pubPlace="Maribor"
             year="1978" page="15-16"/>
     </delo>
-    <delo mojID="31037">
+    <delo mojID="31037" cobiss="39423233">
         <naslov>Petite histoire de la Slovénie</naslov>
         <cit did="3505" cid="31" avtor0="Bernard Antonija" naslov0="Petite histoire de la Slovénie"
             pubPlace="Paris" publisher="Institut d’études slaves" year="1996"/>
@@ -2598,7 +2598,7 @@
             naslov0="Peto izvestje društva za krščansko umetnost v Ljubljani 1907-1912"
             source="Voditelj v bogoslovnih vedah" pubPlace="Ljubljana" year="1913"/>
     </delo>
-    <delo mojID="31041">
+    <delo mojID="31041" cobiss="49577984">
         <naslov>Petovionska vladajoča aristokracija</naslov>
         <cit did="2532" cid="44" avtor0="Sašel Kos Marjeta"
             naslov0="Petovionska vladajoča aristokracija"
@@ -2621,7 +2621,7 @@
         <cit did="272" cid="54" avtor0="Cosenza Mario Emilio"
             naslov0="Petrarch's Letters to Classical Authors" pubPlace="Chicago" year="1910"/>
     </delo>
-    <delo mojID="31046">
+    <delo mojID="31046" cobiss="18945080">
         <naslov>Pettau, die älteste steirische Stadt</naslov>
         <cit did="2059" cid="14" avtor0="Pertassek Rudolf"
             naslov0="Pettau, die älteste steirische Stadt" pubPlace="Graz - Wien"
@@ -2650,7 +2650,7 @@
             naslov0="Pettauer Studien. Untersuchungen zur älteren Flurwrfassung, III. Abteilung"
             pubPlace="Wien" year="1905"/>
     </delo>
-    <delo mojID="31053">
+    <delo mojID="31053" cobiss="20640775">
         <naslov>Peuples et nations des Balkans</naslov>
         <cit did="1911" cid="3" avtor0="Ancel Jacques" naslov0="Peuples et nations des Balkans"
             pubPlace="Paris" publisher="Armand Colin" year="1926"/>
@@ -2667,13 +2667,13 @@
             naslov0="Peut-on refaire l’unité morale de la France?" pubPlace="Paris"
             publisher="Armand Colin" year="1901"/>
     </delo>
-    <delo mojID="31057">
+    <delo mojID="31057" cobiss="17095680">
         <naslov>Pevsko izročilo Primorske</naslov>
         <cit did="2646" cid="13" avtor0="Jelerčič Ivo" naslov0="Pevsko izročilo Primorske"
             naslov1="Slovenska zborovska pesem na Primorskem do druge svetovne vojne"
             pubPlace="Trst" publisher="Založništvo tržaškega tiska" year="1980"/>
     </delo>
-    <delo mojID="31061">
+    <delo mojID="31061" cobiss="5785440">
         <naslov>Pečine</naslov>
         <cit did="250" cid="12" avtor0="Svoljšak Drago, Knific Timotej" naslov0="Pečine"
             source="Varstvo spomenikov" year="1979" page="25-27"/>
@@ -2690,7 +2690,7 @@
             naslov0="Pečnice z gradu Salek. Drobci nekega vsakdana"
             source="Archaeologia Historica Slovenka" year="1997" volume="2" page="39-57"/>
     </delo>
-    <delo mojID="31065">
+    <delo mojID="31065" cobiss="21772386">
         <naslov>Pečnice z ljubljanskega gradu. Ljubljanski grad, pečnice.</naslov>
         <cit did="2237" cid="12" avtor0="Kramberger Taja"
             naslov0="Pečnice z ljubljanskega gradu. Ljubljanski grad, pečnice."
