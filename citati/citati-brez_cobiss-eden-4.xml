@@ -2710,7 +2710,7 @@
             naslov1="Band I., Band II:" pubPlace="Klagenfurt" publisher="Universität Klagenfurt"
             year="2003"/>
     </delo>
-    <delo mojID="31069">
+    <delo mojID="31069" cobiss="8126208">
         <naslov>Pfeifer, Jože. Zgodovina idrijskega zdravstva</naslov>
         <cit did="2610" cid="67" avtor0="Pfeifer Jože"
             naslov0="Pfeifer, Jože. Zgodovina idrijskega zdravstva" pubPlace="Idrija"
@@ -2723,7 +2723,7 @@
             naslov0="Pfenig freisinškega škofa Otona II. iz kovnice Gutenwert in problematika loškega grba"
             source="Loški razgledi" pubPlace="Škofja loka" year="1979" volume="26" page="33-36"/>
     </delo>
-    <delo mojID="31071">
+    <delo mojID="31071" cobiss="26830125">
         <naslov>Pferdegraber und Pferdebestattungen in der hallstattzeitlichen
                         Dolenjsko-Gruppe</naslov>
         <cit did="2266" cid="6" avtor0="Dular Janez"
@@ -2802,12 +2802,12 @@
             source="Grčki utjecaj na istočnoj obali Jadrana / Greek Influence Along the East Adriatic Coast (Proceedings of the Intern. Conference held in Split from Sept. 24th to 26th 1998)"
             pubPlace="Split" year="2002" page="221-240"/>
     </delo>
-    <delo mojID="31083">
+    <delo mojID="31083" cobiss="55074">
         <naslov>Pharos - od polisa do municipija</naslov>
         <cit did="1748" cid="1136" avtor0="Zaninović M." naslov0="Pharos - od polisa do municipija"
             source="Arheološki radovi i rasprave" year="1988" volume="11" page="35-48"/>
     </delo>
-    <delo mojID="31084">
+    <delo mojID="31084" cobiss="2180442">
         <naslov>Phenomenologie de la perception</naslov>
         <cit did="1934" cid="18" avtor0="Merleau Ponty M." naslov0="Phenomenologie de la perception"
             pubPlace="Paris" publisher="Librairie Gallimard" year="1945"/>
@@ -2863,14 +2863,14 @@
             source="Philosophy of the Enlightenment" publisher="Princeton University Press"
             year="1972"/>
     </delo>
-    <delo mojID="31095">
+    <delo mojID="31095" cobiss="45718626">
         <naslov>Philosophie der Dichtung, Weltstellung und Gegenständlichkeit des poetischen
                         Gedankens</naslov>
         <cit did="1931" cid="24" avtor0="Wolandt G."
             naslov0="Philosophie der Dichtung, Weltstellung und Gegenständlichkeit des poetischen Gedankens"
             pubPlace="Berlin" publisher="De Gruyter" year="1965"/>
     </delo>
-    <delo mojID="31097">
+    <delo mojID="31097" cobiss="16895325">
         <naslov>Philosophische Anthropologie</naslov>
         <cit did="1931" cid="17" avtor0="Plessner H." naslov0="Philosophische  Anthropologie"
             pubPlace="Frankfurt" publisher="S. Fischer Verlag" year="1970"/>
@@ -2921,7 +2921,7 @@
         <cit did="387" cid="6" avtor0="Barletti C. B." naslov0="Physica apecymena" pubPlace="Pavia"
             year="0"/>
     </delo>
-    <delo mojID="31106">
+    <delo mojID="31106" cobiss="86564096">
         <naslov>Physica curiosa</naslov>
         <cit did="1593" cid="64" avtor0="Schott Gaspar" naslov0="Physica curiosa"
             pubPlace="Herbipoli" publisher="Endter" year="0"/>
@@ -2956,7 +2956,7 @@
         <cit did="387" cid="34" avtor0="Rücker A. W." naslov0="Physical Work of von Helmholtz"
             pubPlace="London" year="0"/>
     </delo>
-    <delo mojID="31113">
+    <delo mojID="31113" cobiss="32765697">
         <naslov>Physik im Lehrbuch 1700-1850</naslov>
         <cit did="453" cid="53" avtor0="Lind Gunter" naslov0="Physik im Lehrbuch 1700-1850"
             pubPlace="Berlin" year="1992"/>
@@ -2996,7 +2996,7 @@
             naslov0="Piani strategici italiani alla vigilia deirintervento nel primo conflitto mondiale"
             source="Studi storico - militari" pubPlace="Roma" year="1984" page="273-351"/>
     </delo>
-    <delo mojID="31120">
+    <delo mojID="31120" cobiss="228327424">
         <naslov>Pianist : Varšavski spomini : 1939-1945</naslov>
         <cit did="1814" cid="16" avtor0="Szpilman Wladyslaw"
             naslov0="Pianist : Varšavski spomini : 1939-1945" pubPlace="Celovec" year="2006"/>
@@ -3015,7 +3015,7 @@
             naslov0="Pianofortebau, Elementar und umfassend dargestellt von einem Klavierbauer"
             pubPlace="Frankfurt am Main" year="1991"/>
     </delo>
-    <delo mojID="31123">
+    <delo mojID="31123" cobiss="10080049">
         <naslov>"Piazza Vecchia" v Piranu</naslov>
         <cit did="1950" cid="50" avtor0="Stokin M." naslov0="&#34;Piazza Vecchia&#34; v Piranu"
             source="Srednjeveška in novoveška keramika iz Pirana in Svetega Ivana" pubPlace="Koper"
@@ -3081,7 +3081,7 @@
             naslov0="Pierre Joseph Proudhon and the Myth of Universal Suffrage"
             source="Canadian Journal of History" year="1975" volume="10" issue="3" page="299"/>
     </delo>
-    <delo mojID="31134">
+    <delo mojID="31134" cobiss="8834137">
         <naslov>Pierre Simon Laplace 1749-1827</naslov>
         <cit did="902" cid="16" avtor0="Gillispie Charles Coulston"
             naslov0="Pierre Simon Laplace 1749-1827" pubPlace="New Yersey"
@@ -3137,7 +3137,7 @@
         <cit did="1997" cid="51" avtor0="Vižintin B." naslov0="Pietro Nobile" pubPlace="Rijeka"
             publisher="Moderna galerija Rijeka" year="1966"/>
     </delo>
-    <delo mojID="31147">
+    <delo mojID="31147" cobiss="4720433">
         <naslov>Pietro Nobile architetto (1776-1854)</naslov>
         <cit did="1997" cid="40" avtor0="Pavan G." naslov0="Pietro Nobile architetto (1776-1854)"
             pubPlace="Trieste" publisher="Istituto Giuliano di storia, cultura e documentazione"
@@ -3161,7 +3161,7 @@
         <cit did="2237" cid="6" avtor0="Djura Jelenko Saša" naslov0="Pigl. Varstvo spomenikov"
             pubPlace="Ljubljana" year="1998" volume="37" page="41-43"/>
     </delo>
-    <delo mojID="31153">
+    <delo mojID="31153" cobiss="1467264">
         <naslov>Pihalni orkester Logatec 85 let</naslov>
         <cit did="2633" cid="1" avtor0="Černe Vinko" naslov0="Pihalni orkester Logatec 85 let"
             pubPlace="Logatec" year="1998"/>
@@ -3176,7 +3176,7 @@
         <cit did="2920" cid="43" avtor0="Carter Carol Joe" naslov0="Pike in Colorado"
             pubPlace="Fort Collins, CO" publisher="Old Army Press" year="1978"/>
     </delo>
-    <delo mojID="31159">
+    <delo mojID="31159" cobiss="242823936">
         <naslov>Pike, špekulanti in Trumanova jajca</naslov>
         <cit did="2818" cid="4" avtor0="Himmelreich Bojan"
             naslov0="Pike, špekulanti in Trumanova jajca" pubPlace="Celje" year="2008"
@@ -3212,7 +3212,7 @@
             naslov0="Pioneer steelmaker in the west: The Colorado fuel and iron company 1872-1903"
             pubPlace="Pueblo, CO" publisher="Bessemer Historical Society" year="2009"/>
     </delo>
-    <delo mojID="31169">
+    <delo mojID="31169" cobiss="33995565">
         <naslov>Pioneer women: Voices from the Kansas frontier</naslov>
         <cit did="2975" cid="23" avtor0="Stratton Joanna L."
             naslov0="Pioneer women: Voices from the Kansas frontier" pubPlace="New York"
@@ -3225,12 +3225,12 @@
             publisher="Jugoslovanska delavska tiskovna družba" year="1940" volume="26" page="42-43"
         />
     </delo>
-    <delo mojID="31171">
+    <delo mojID="31171" cobiss="18443565">
         <naslov>Piracy in the Graeco-Roman World</naslov>
         <cit did="1748" cid="247" avtor0="De Souza P." naslov0="Piracy in the Graeco-Roman World"
             pubPlace="Cambridge" year="1999"/>
     </delo>
-    <delo mojID="31172">
+    <delo mojID="31172" cobiss="69830144">
         <naslov>Piran</naslov>
         <cit did="1950" cid="49" avtor0="Stokin M." naslov0="Piran" source="Arheološki pregled"
             year="1988" volume="29" page="181-183"/>
@@ -3246,7 +3246,7 @@
             naslov0="Piran po popisu prebivalstva leta 1910" naslov1="doktorska disertacija"
             pubPlace="Koper" publisher="Fakulteta za humanistične študije" year="2010"/>
     </delo>
-    <delo mojID="31176">
+    <delo mojID="31176" cobiss="5505325">
         <naslov>Piran Tartinijevega časa</naslov>
         <cit did="387" cid="24" avtor0="Mihelič Darja" naslov0="Piran Tartinijevega časa"
             source="Guisseppe Tartini in njegov čas. Zbirnik referatov z mednarodnega kolokvija"
@@ -3265,12 +3265,12 @@
             naslov0="Pirano. La sua chiesa. La sua storia. Villa Opicina, Tip. Villaggio del Fanciullo"
             year="1972"/>
     </delo>
-    <delo mojID="31179">
+    <delo mojID="31179" cobiss="1105713">
         <naslov>Pirano, Monografia storica</naslov>
         <cit did="1997" cid="26" avtor0="Kandler P." naslov0="Pirano, Monografia storica"
             pubPlace="Parenzo" year="0"/>
     </delo>
-    <delo mojID="31185">
+    <delo mojID="31185" cobiss="241105152">
         <naslov>Piranske ladjedelnice in ladjedelci v poznem srednjem veku</naslov>
         <cit did="2614" cid="98" avtor0="Gestrin Ferdo"
             naslov0="Piranske ladjedelnice in ladjedelci v poznem srednjem veku" source="Kronika"
@@ -3281,14 +3281,14 @@
         <cit did="2614" cid="16" avtor0="Kumar Ž." naslov0="Piranske solane, Zemlja i ljudi"
             pubPlace="Beograd" year="1963"/>
     </delo>
-    <delo mojID="31188">
+    <delo mojID="31188" cobiss="5335857">
         <naslov>Piranski zaliv: K tradiciji ribolova in ribolovnih pravic.</naslov>
         <cit did="1624" cid="79" avtor0="Mihelič Darja"
             naslov0="Piranski zaliv: K tradiciji ribolova in ribolovnih pravic."
             source="Annales: anali za istrske in mediteranske študije" pubPlace="Koper" year="1998"
             volume="14" issue="6" page="7-18"/>
     </delo>
-    <delo mojID="31191">
+    <delo mojID="31191" cobiss="20343085">
         <naslov>Piransko olje in koprska škofija: (začetek 13. stoletja)</naslov>
         <cit did="2796" cid="9" avtor0="Mihelič Darja"
             naslov0="Piransko olje in koprska škofija: (začetek 13. stoletja)"
@@ -3299,7 +3299,7 @@
         <cit did="3096" cid="2" avtor0="Spazzali Roberto"
             naslov0="Pirjevec : le foibe solo propaganda" source="Il Piccolo" year="13"/>
     </delo>
-    <delo mojID="31193">
+    <delo mojID="31193" cobiss="5057122">
         <naslov>Pirjevčeva zapuščina. Dušan Pirjevec</naslov>
         <cit did="2970" cid="13" avtor0="Novak Boris A."
             naslov0="Pirjevčeva zapuščina. Dušan Pirjevec" pubPlace="Ljubljana"
@@ -3311,7 +3311,7 @@
             naslov0="Pirjevčeve predvojne polemike in publicistika" source="Nova revija" year="1987"
             issue="58-60" page="394-411"/>
     </delo>
-    <delo mojID="31195">
+    <delo mojID="31195" cobiss="202100">
         <naslov>Pirkmajer Otmar</naslov>
         <cit did="247" cid="62" avtor0="Perovšek Jurij" naslov0="Pirkmajer Otmar"
             source="Enciklopedija Slovenije : 8. knjiga" pubPlace="Ljubljana" year="1994" page="353"
@@ -3341,20 +3341,20 @@
             source="Ljubljana" pubPlace="Ljubljana"
             publisher="Univerza v Ljubljani, Filozofska fakulteta" year="1996"/>
     </delo>
-    <delo mojID="31201">
+    <delo mojID="31201" cobiss="1629238">
         <naslov>Pisani mojster na Bregu ob Kokri</naslov>
         <cit did="1996" cid="7" avtor0="Fučić B." naslov0="Pisani mojster na Bregu ob Kokri"
             source="Kranjski zbornik" pubPlace="Kranj" publisher="Mestna občina Kranj" year="1975"
             page="197-198"/>
     </delo>
-    <delo mojID="31206">
+    <delo mojID="31206" cobiss="770920">
         <naslov>Pisatelj Fran Jaklič in zadružno gibanje</naslov>
         <cit did="2768" cid="21" avtor0="Sluga Tadej"
             naslov0="Pisatelj Fran Jaklič in zadružno gibanje"
             source="Zadružništvo včeraj, danes, jutri. Zbornik posvetovanja ob 130-letnici rojstva Frana Jakliča, ustanovitelja prve rajfajznovke na Kranjskem"
             pubPlace="Dobrepolje" year="1999" page="29-38"/>
     </delo>
-    <delo mojID="31207">
+    <delo mojID="31207" cobiss="87611136">
         <naslov>Pisateljsko podporno društvo v Ljubljani : ob svoji petindvajsetletnici
                         1885- 1910</naslov>
         <cit did="2134" cid="9" avtor0="Terstenjak Anton"
@@ -3366,18 +3366,18 @@
         <cit did="2161" cid="22" avtor0="Melik Anton" naslov0="pisava krajevnih imen"
             pubPlace="Ljubljana" publisher="Geografsko društvo v Ljubljani" year="1928" page="129"/>
     </delo>
-    <delo mojID="31209">
+    <delo mojID="31209" cobiss="42733824">
         <naslov>Pisava spomin človeštva</naslov>
         <cit did="142" cid="97" avtor0="Jean Georges" naslov0="Pisava spomin človeštva"
             source="Mejniki" pubPlace="Ljubljana" publisher="DZS" year="1994" page="15-23"/>
     </delo>
-    <delo mojID="31210">
+    <delo mojID="31210" cobiss="13480200">
         <naslov>Pisava zemljepisnih imen v prvem prekmurskem časopisu....</naslov>
         <cit did="2161" cid="6" avtor0="Jesenšek Marko"
             naslov0="Pisava zemljepisnih imen v prvem prekmurskem časopisu...." pubPlace="Pišece"
             publisher="Slavistično društvo Slovenije" year="2003" page="50-59"/>
     </delo>
-    <delo mojID="31211">
+    <delo mojID="31211" cobiss="13513479">
         <naslov>Pisci svedoci epohe</naslov>
         <cit did="3022" cid="257" avtor0="Vinaver Vuk" naslov0="Pisci svedoci epohe"
             pubPlace="Beograd" year="1978"/>
@@ -3387,7 +3387,7 @@
         <cit did="419" cid="31" avtor0="Kühn Ch." naslov0="Piscina" source="Der neue Pauly / Or-Poi"
             pubPlace="Stuttgart" publisher="J. B. Metzler" year="2000" page="1041-1042"/>
     </delo>
-    <delo mojID="31213">
+    <delo mojID="31213" cobiss="1096915">
         <naslov>Piscinae</naslov>
         <cit did="419" cid="22" avtor0="Higginbotham J." naslov0="Piscinae"
             source="Artificial Fischponds in Roman Italy" pubPlace="Chapel Hill"
@@ -3433,7 +3433,7 @@
             naslov0="Pisma i memurandumi Frana Supila 1914-1917" pubPlace="Beograd" year="1967"
             page="71"/>
     </delo>
-    <delo mojID="31226">
+    <delo mojID="31226" cobiss="402945">
         <naslov>Pisma in spisi</naslov>
         <cit did="1635" cid="7" avtor0="Čop Matija" naslov0="Pisma in spisi" pubPlace="Ljubljana"
             publisher="MK" year="1983"/>
@@ -3443,7 +3443,7 @@
         <cit did="1900" cid="7" avtor0="Govekar Fran" naslov0="Pisma Ivana Cankarja meni"
             source="Ljubljanski zvon" year="1934" page="520-521"/>
     </delo>
-    <delo mojID="31229">
+    <delo mojID="31229" cobiss="43084898">
         <naslov>Pisma Izidorja Cankarja ob stoletnici rojstva</naslov>
         <cit did="3164" cid="21" avtor0="Velikonja Jože"
             naslov0="Pisma Izidorja Cankarja ob stoletnici rojstva" source="Meddobje" year="1986"
@@ -3454,7 +3454,7 @@
         <cit did="142" cid="81" avtor0="Hikmet Nazim" naslov0="Pisma izza rešetk"
             source="Hikmet. Zbirka Lirika" pubPlace="Ljubljana" publisher="MK" year="1974"/>
     </delo>
-    <delo mojID="31233">
+    <delo mojID="31233" cobiss="7737913">
         <naslov>Pisma mračnjakov</naslov>
         <cit did="2711" cid="1" avtor0="Sovre Anton" naslov0="Pisma mračnjakov" pubPlace="Ljubljana"
             year="1954"/>
@@ -3477,7 +3477,7 @@
             naslov0="Pisma poročnika Jezerska iz soškega bojišča" source="Vojnozgodovinski zbornik"
             year="2000" issue="4" page="6-11"/>
     </delo>
-    <delo mojID="31240">
+    <delo mojID="31240" cobiss="7521024">
         <naslov>pisma srbskemu prijatelju</naslov>
         <cit did="2024" cid="42" avtor0="Kermauner Taras" naslov0="pisma srbskemu prijatelju"
             pubPlace="Celovec" year="1989" page="7-293"/>
@@ -3495,13 +3495,13 @@
         <cit did="2434" cid="6" avtor0="Pojić Milan" avtor1="Marjanić Danijela"
             naslov0="Pisma vojskovodje Svetozara Boroevića 1912-1920"/>
     </delo>
-    <delo mojID="31243">
+    <delo mojID="31243" cobiss="31827457">
         <naslov>Pismenost ali Gramatika sa Perve Shole</naslov>
         <cit did="1635" cid="50" avtor0="Vodnik Valentin"
             naslov0="Pismenost ali Gramatika sa Perve Shole" pubPlace="Lublana"
             publisher="Leopold Eger" year="0"/>
     </delo>
-    <delo mojID="31244">
+    <delo mojID="31244" cobiss="20382557">
         <naslov>Pismenost odraslih v Sloveniji</naslov>
         <cit did="3016" cid="14" avtor0="Tuijnman A. C." naslov0="Pismenost odraslih v Sloveniji"
             source="Andragoška Spoznanja" year="2001" volume="7" issue="1" page="68-77"/>
@@ -3519,7 +3519,7 @@
             naslov1="Izvori za istoriju SKJ, knjiga XX, dok. 21"
             source="Dokumenti centralnih organa KPJ. NOR i revolucija (1941-1945)"/>
     </delo>
-    <delo mojID="31248">
+    <delo mojID="31248" cobiss="21561133">
         <naslov>Pismo Apolonije Noč od sv. Jožefa / St. joseph, Minnesota (1855)</naslov>
         <cit did="2063" cid="6" avtor0="Drnovšek Marjan"
             naslov0="Pismo Apolonije Noč od sv. Jožefa / St. joseph, Minnesota (1855)"
@@ -3580,7 +3580,7 @@
             naslov0="Pismo nekemu monsinjorju (Helsinki, 23. novembra 1971)" publisher="Zaliv"
             year="1984" issue="1-4" page="160-161"/>
     </delo>
-    <delo mojID="31263">
+    <delo mojID="31263" cobiss="120268032">
         <naslov>Pismo slepega vojaka</naslov>
         <cit did="3386" cid="1" avtor0="Ciglar Jakob" naslov0="Pismo slepega vojaka"
             source="Vojnozgodovinski zbornik" year="2000" volume="4" issue="4"/>
@@ -3596,7 +3596,7 @@
             source="Mednarodno leto žensk" pubPlace="Ljubljana" publisher="Družina" year="0"
             volume="87" page="803-812"/>
     </delo>
-    <delo mojID="31268">
+    <delo mojID="31268" cobiss="1682274">
         <naslov>Pisni viri za materialno kulturo v obdobju gotike na Slovenskem</naslov>
         <cit did="2583" cid="231" avtor0="Žvanut Maja"
             naslov0="Pisni viri za materialno kulturo v obdobju gotike na Slovenskem"
@@ -3652,18 +3652,18 @@
         <cit did="112" cid="44" avtor0="Fatur Silvo" naslov0="Pivka med obema vojnama"
             source="Ljudje in kraji ob Pivki" pubPlace="Postojna" year="1975" page="208-245"/>
     </delo>
-    <delo mojID="31281">
+    <delo mojID="31281" cobiss="8033073">
         <naslov>Pićan i pićonski idiomi</naslov>
         <cit did="395" cid="18" avtor0="Ružić Sudčev Š." naslov0="Pićan i pićonski idiomi"
             pubPlace="Pula" publisher="C. A. S. H." year="1999"/>
     </delo>
-    <delo mojID="31282">
+    <delo mojID="31282" cobiss="6624057">
         <naslov>Pičevci</naslov>
         <cit did="834" cid="2" avtor0="Javoršek Jože" naslov0="Pičevci"
             naslov1="Jesenski dnevnik leta 1974" pubPlace="Ljubljana" publisher="Partizanska knjiga"
             year="1975" page="11-14"/>
     </delo>
-    <delo mojID="31283">
+    <delo mojID="31283" cobiss="56462080">
         <naslov>Pišejo ženske drugače?</naslov>
         <cit did="226" cid="29" avtor0="Borovnik Silvija" naslov0="Pišejo ženske drugače?"
             pubPlace="Ljubljana" publisher="Mihelač" year="1996" page="21"/>
@@ -3678,7 +3678,7 @@
         <cit did="3210" cid="42" avtor0="Ćosić Dobriča"
             naslov0="Piščevi zapisci (1951-1968 / 1969-1980)" pubPlace="Beograd" year="2001"/>
     </delo>
-    <delo mojID="31287">
+    <delo mojID="31287" cobiss="1480052">
         <naslov>Piščevi zapisi (1981-1991)</naslov>
         <cit did="3226" cid="4" avtor0="Ćosić Dobrica" naslov0="Piščevi zapisi (1981-1991)"
             pubPlace="Beograd" publisher="Filip Višnjič" year="2002"/>
@@ -3768,7 +3768,7 @@
             naslov0="Plaidoyer za istraživanje (nacionalnog) identiteta u hrvatskoj etnologiji"
             source="Etnološka tribina" year="1994" issue="17" page="7-23"/>
     </delo>
-    <delo mojID="31304">
+    <delo mojID="31304" cobiss="34586880">
         <naslov>Plaidoyer za zgodovino žensk</naslov>
         <cit did="226" cid="155" avtor0="Pagon Neda" naslov0="Plaidoyer za zgodovino žensk"
             source="Zgodovinski časopis" year="1992" volume="46" issue="4" page="539-545"/>
@@ -3797,7 +3797,7 @@
             naslov0="Planica and the Record Ski Jumps" source="The British Ski Year Book"
             year="1935" volume="16" page="80-86"/>
     </delo>
-    <delo mojID="31313">
+    <delo mojID="31313" cobiss="23916033">
         <naslov>Planine v Julijskih Alpah</naslov>
         <cit did="86" cid="57" avtor0="Melik Anton" naslov0="Planine v Julijskih Alpah"
             pubPlace="Ljubljana" publisher="SAZU" year="1950"/>
@@ -3808,13 +3808,13 @@
             naslov0="Planinski portret : Stane Pišlar - Stric" source="Planinski vestnik"
             year="2006" volume="111" issue="10" page="54-55"/>
     </delo>
-    <delo mojID="31317">
+    <delo mojID="31317" cobiss="127304">
         <naslov>Planinsko naselje v porečju zgornje Soče</naslov>
         <cit did="1633" cid="9" avtor0="Križnar Naško"
             naslov0="Planinsko naselje v porečju zgornje Soče" source="Goriški letnik" year="1974"
             issue="1" page="68-97"/>
     </delo>
-    <delo mojID="31318">
+    <delo mojID="31318" cobiss="5627150">
         <naslov>Planirana izgradnja na području Dubrovačke Republike</naslov>
         <cit did="2100" cid="43" avtor0="Planić Lončarić M."
             naslov0="Planirana izgradnja na području Dubrovačke Republike" pubPlace="Zagreb"
@@ -3853,13 +3853,13 @@
             naslov0="Plastischer Kirchenschmuck und Islam: zur Deutung des Obszönen"
             source="Liebesfreuden im Mittelalter" year="1994" page="97-120"/>
     </delo>
-    <delo mojID="31326">
+    <delo mojID="31326" cobiss="6985526">
         <naslov>Platnarstvo in sitarstvo v loškem gospostvu v 18. stoletju</naslov>
         <cit did="2614" cid="68" avtor0="Žontar Josip"
             naslov0="Platnarstvo in sitarstvo v loškem gospostvu v 18. stoletju"
             source="Loški razgledi" year="1956" volume="3" page="89-102"/>
     </delo>
-    <delo mojID="31327">
+    <delo mojID="31327" cobiss="278150">
         <naslov>Platnarstvo na Loškem od sredine 18. stoletja do danes</naslov>
         <cit did="2614" cid="70" avtor0="Sterle M."
             naslov0="Platnarstvo na Loškem od sredine 18. stoletja do danes" source="Loški razgledi"
@@ -3877,7 +3877,7 @@
         <cit did="428" cid="28" avtor0="Shelley C." naslov0="Plato on the psychology of humor"
             source="Humor" pubPlace="MaryLand" year="2003" volume="16" page="351-367"/>
     </delo>
-    <delo mojID="31330">
+    <delo mojID="31330" cobiss="3932190">
         <naslov>Platon in pesniki</naslov>
         <cit did="2971" cid="1" avtor0="Gadamer Hans Georg" naslov0="Platon in pesniki"
             source="Nova revija" year="2000" volume="19" page="133-152"/>
@@ -3900,7 +3900,7 @@
             source="Časopis za zgodovino in narodopisje" year="1936" volume="31" issue="3-4"
             page="129-132"/>
     </delo>
-    <delo mojID="31337">
+    <delo mojID="31337" cobiss="1863222">
         <naslov>Plaz je pometel spomenik, zverižil konstrukcije in pokopal več
                         ljudi</naslov>
         <cit did="2415" cid="3" avtor0="Vlasta Felc"
@@ -3925,7 +3925,7 @@
             source="Koroški zbornik" pubPlace="Ljubljana" publisher="državna založba Slovenije"
             year="1964" page="421-491"/>
     </delo>
-    <delo mojID="31344">
+    <delo mojID="31344" cobiss="47181">
         <naslov>Plebiscites Since the World War: With a Collection of Official
                         Documents</naslov>
         <cit did="2662" cid="64" avtor0="Wambaugh Sarah"
@@ -3933,7 +3933,7 @@
             naslov1="Vol. II: Documents" pubPlace="Washington"
             publisher="Carnegie Endowment for International Peace" year="1933"/>
     </delo>
-    <delo mojID="31348">
+    <delo mojID="31348" cobiss="1961588">
         <naslov>Plemika med Dušanom Kermavnerjem in Lojzetom Udetom v letih
                         1939-1941...</naslov>
         <cit did="3133" cid="45" avtor0="Godeša Bojan"
@@ -3958,7 +3958,7 @@
             source="Slovenska žena" pubPlace="Ljubljana"
             publisher="Jougoslave Express Reclame Company" year="1926" page="51"/>
     </delo>
-    <delo mojID="31354">
+    <delo mojID="31354" cobiss="109645056">
         <naslov>Plemstvo</naslov>
         <cit did="469" cid="7" avtor0="Perovšek Jurij" naslov0="Plemstvo" pubPlace="Koper"
             publisher="Hyperion" year="2000"/>
@@ -3969,38 +3969,38 @@
             naslov0="Plesni redovi iz ilirskog vremena: iz kulturne povijesti Zagreba"
             source="Jutarnji list" year="2028"/>
     </delo>
-    <delo mojID="31357">
+    <delo mojID="31357" cobiss="5904736">
         <naslov>Pletarske šole v Sloveniji</naslov>
         <cit did="2119" cid="7" avtor0="Lozar Štamcar Maja" naslov0="Pletarske šole v Sloveniji"
             source="Kronika" year="2006" volume="54" page="435-450"/>
     </delo>
-    <delo mojID="31362">
+    <delo mojID="31362" cobiss="27314018">
         <naslov>Pleteršnikova zbirka zemljepisnih imen pri Slovenski matici</naslov>
         <cit did="2161" cid="15" avtor0="Šivic Dular Alenka"
             naslov0="Pleteršnikova zbirka zemljepisnih imen pri Slovenski matici" pubPlace="Pišece"
             year="2003" page="25"/>
     </delo>
-    <delo mojID="31363">
+    <delo mojID="31363" cobiss="9479941">
         <naslov>Plečnik in njegova šola</naslov>
         <cit did="2156" cid="11" avtor0="Grabrijan Dušan" naslov0="Plečnik in njegova šola"
             pubPlace="Maribor" publisher="Obzorja" year="1968"/>
     </delo>
-    <delo mojID="31364">
+    <delo mojID="31364" cobiss="29789952">
         <naslov>Plečnik Jože</naslov>
         <cit did="1904" cid="6" avtor0="Krečič Peter" naslov0="Plečnik Jože" pubPlace="Ljubljana"
             year="1992"/>
     </delo>
-    <delo mojID="31366">
+    <delo mojID="31366" cobiss="513209727">
         <naslov>Plečnikov "fašizem"</naslov>
         <cit did="2156" cid="38" avtor0="Prelovšek Damjan" naslov0="Plečnikov &#34;fašizem&#34;"
             source="Ampak" year="2005" volume="6" issue="2" page="45-47"/>
     </delo>
-    <delo mojID="31368">
+    <delo mojID="31368" cobiss="60548352">
         <naslov>Plečnikova šola v Ljubljani</naslov>
         <cit did="1807" cid="12" avtor0="Pozzetto Marko" naslov0="Plečnikova šola v Ljubljani"
             pubPlace="Ljubljana" year="1996"/>
     </delo>
-    <delo mojID="31369">
+    <delo mojID="31369" cobiss="3683592">
         <naslov>Plečnikovi knjigi Architectura perennis, Napori</naslov>
         <cit did="3538" cid="19" avtor0="Prelovšek Damjan"
             naslov0="Plečnikovi knjigi Architectura perennis, Napori" pubPlace="Ljubljana"
@@ -4029,7 +4029,7 @@
         <cit did="354" cid="8" avtor0="Podgornik Fran" naslov0="Plodi ustavne dobe"
             source="Slovanski svet" year="0" page="353-356"/>
     </delo>
-    <delo mojID="31376">
+    <delo mojID="31376" cobiss="13912881">
         <naslov>Plotone d'esecuzione : I processi della prima guerra mondiale</naslov>
         <cit did="1300" cid="116" avtor0="Forcella  Enzo"
             naslov0="Plotone d'esecuzione : I processi della prima guerra mondiale" pubPlace="Bari"
@@ -4061,7 +4061,7 @@
             naslov0="Pluralism and the Religions: The Theological and Political Dimension"
             pubPlace="London" publisher="Cassel" year="1998" page="40"/>
     </delo>
-    <delo mojID="31382">
+    <delo mojID="31382" cobiss="6590029">
         <naslov>Pluralism: cultural maintenance and evolution</naslov>
         <cit did="2972" cid="3" avtor0="Bullivat Brian M."
             naslov0="Pluralism: cultural maintenance and evolution" pubPlace="Clevedon"
@@ -4102,7 +4102,7 @@
             naslov0="&#34;Pluralizem v OF kot zgodovinsko vprašanje&#34;" source="Naši razgledi"
             year="0"/>
     </delo>
-    <delo mojID="31388">
+    <delo mojID="31388" cobiss="125361920">
         <naslov>Pluralni monolit: Laibach in NSK</naslov>
         <cit did="2387" cid="6" avtor0="Monroe A." naslov0="Pluralni monolit: Laibach in NSK"
             pubPlace="Ljubljana" year="2003" page="196"/>
@@ -4127,7 +4127,7 @@
             naslov0="Plus 9a change.... Ancient Historians and Their Sources"
             source="Classical Antiquity" year="2003" volume="22" issue="2" page="167-197"/>
     </delo>
-    <delo mojID="31393">
+    <delo mojID="31393" cobiss="29279277">
         <naslov>Plutarch and History: Eighteen Studies</naslov>
         <cit did="1748" cid="776" avtor0="Pelling C."
             naslov0="Plutarch and History: Eighteen Studies" pubPlace="London" year="2002"/>
