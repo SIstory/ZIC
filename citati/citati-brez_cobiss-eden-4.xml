@@ -4173,7 +4173,7 @@
         <cit did="2618" cid="248" avtor0="Vrčon Branko" naslov0="Po anšlusu" source="Misel in delo"
             year="1938" issue="4-5" page="131-136"/>
     </delo>
-    <delo mojID="31401">
+    <delo mojID="31401" cobiss="8230196">
         <naslov>Po cesti in železnici čez mostove. Po poteh Koroške kulturne dediščine
                         Občine Prevalje in Mestne občine Pliberk: Auf den Wegen des Kärntner
                         Kulturerbes in der Gemeinde Prevalje und der Stadtgemeinde Bleiburg</naslov>
@@ -4214,18 +4214,18 @@
             naslov0="Po optiranju v Gornjem Poadižju in Kanalski dolini" source="Misel in delo"
             year="1940" volume="6" page="21-23"/>
     </delo>
-    <delo mojID="31410">
+    <delo mojID="31410" cobiss="20039175">
         <naslov>Po partizanski Beli krajini</naslov>
         <cit did="292" cid="7" avtor0="Čerin Ančka" naslov0="Po partizanski Beli krajini"
             naslov1="Zbor pionirjev Jugoslavije, Črnomelj, 12. junij 1982" pubPlace="Ljubljana"
             publisher="Zveza prijateljev mladine Slovenije" year="1982"/>
     </delo>
-    <delo mojID="31414">
+    <delo mojID="31414" cobiss="25264385">
         <naslov>Po poteh Sardincev</naslov>
         <cit did="145" cid="2" avtor0="Klun Albert, Vilhar Srečko" naslov0="Po poteh Sardincev"
             pubPlace="Koper" year="1973" page="7"/>
     </delo>
-    <delo mojID="31416">
+    <delo mojID="31416" cobiss="5948672">
         <naslov>Po poteh slovensko-hrvaškega kmečkega upora 1573</naslov>
         <cit did="2604" cid="128" avtor0="Škaler Stanko"
             naslov0="Po poteh slovensko-hrvaškega kmečkega upora 1573" pubPlace="Maribor"
@@ -4246,7 +4246,7 @@
             naslov1="po predavanjih prof. Sama Pahorja na Tečaju preživetja za Slovence v Italiji"
             pubPlace="Opčine, Trst" publisher="Krožek Premik" year="2000"/>
     </delo>
-    <delo mojID="31421">
+    <delo mojID="31421" cobiss="37862400">
         <naslov>Po propadu Beneške republike, Dopo la caduta della repubblica di
                         Venezia</naslov>
         <cit did="2636" cid="132" avtor0="Terčon Nadja"
@@ -4254,24 +4254,24 @@
             source="Piransko pristanišče od starega mandrača do današnje podobe. II porto di Pirano dall'antico mandracchio allaspettoodierno"
             pubPlace="Piran" year="1993" page="28-43"/>
     </delo>
-    <delo mojID="31423">
+    <delo mojID="31423" cobiss="3371244">
         <naslov>Po sledeh fate morgane</naslov>
         <cit did="2135" cid="1" avtor0="Evelina Umek" naslov0="Po sledeh fate morgane"
             pubPlace="Trst" year="2008"/>
     </delo>
-    <delo mojID="31425">
+    <delo mojID="31425" cobiss="4899168">
         <naslov>Po sledeh linearnega zapisa</naslov>
         <cit did="259" cid="6" avtor0="First B." naslov0="Po sledeh linearnega zapisa"
             naslov1="Grafični viri za slikarstvo Mojstra HGG"
             source="Mojster HGG slikar plastične monumentalnosti" pubPlace="Ljubljana" year="2004"
             page="43"/>
     </delo>
-    <delo mojID="31426">
+    <delo mojID="31426" cobiss="219098624">
         <naslov>Po sledeh mogočnega tura</naslov>
         <cit did="2838" cid="181" avtor0="Preinfalk M." naslov0="Po sledeh mogočnega tura"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="31427">
+    <delo mojID="31427" cobiss="512098071">
         <naslov>Po sledeh nekdanjih poti</naslov>
         <cit did="1953" cid="10" avtor0="Kofol K." naslov0="Po sledeh nekdanjih poti"
             source="Zbornik Šentviške planote" pubPlace="Ponikve" year="1998" page="75-88"/>
@@ -4292,19 +4292,19 @@
             naslov0="Po sledeh črne roke: dokumentamo-reportažni zapis" pubPlace="Ljubljana"
             publisher="Borec" year="1982"/>
     </delo>
-    <delo mojID="31435">
+    <delo mojID="31435" cobiss="222024704">
         <naslov>Po sledeh čudežnega jelena</naslov>
         <cit did="2485" cid="4" avtor0="Bohnec Magdalena" naslov0="Po sledeh čudežnega jelena"
             source="Učbenik z dodatnimi vsebinami za poučevanje madžarske zgodovine..."
             pubPlace="Ljubljana" publisher="Modrijan" year="2005" page="53"/>
     </delo>
-    <delo mojID="31436">
+    <delo mojID="31436" cobiss="29789538">
         <naslov>Po sledovih jezikovnih travm v sodobni slovenski književnosti</naslov>
         <cit did="2839" cid="48" avtor0="Paternu Boris"
             naslov0="Po sledovih jezikovnih travm v sodobni slovenski književnosti"
             source="Jezik in slovstvo" year="2005" issue="2" page="63-77"/>
     </delo>
-    <delo mojID="31437">
+    <delo mojID="31437" cobiss="231398912">
         <naslov>“Po sledovih korenin”: transnacionalne migracije med Argentino in
                         Evropo</naslov>
         <cit did="2698" cid="9" avtor0="Repič Jaka"
@@ -4318,12 +4318,12 @@
             naslov0="Po sledovih Primoža Trubarja v pregnanstvu" source="Tovariš" year="1951"
             volume="7" issue="25" page="398-400"/>
     </delo>
-    <delo mojID="31440">
+    <delo mojID="31440" cobiss="3822647">
         <naslov>Po sledovih rimske volkulje</naslov>
         <cit did="1511" cid="311" avtor0="Pirkovič Ivo - Boris Samov"
             naslov0="Po sledovih rimske volkulje" pubPlace="Ljubljana" year="0"/>
     </delo>
-    <delo mojID="31443">
+    <delo mojID="31443" cobiss="4169742">
         <naslov>Po starih koroških cerkvah</naslov>
         <cit did="2900" cid="99" avtor0="Zadnikar Marjan" naslov0="Po starih koroških cerkvah"
             pubPlace="Celovec" year="1984" page="186-189"/>
@@ -4333,7 +4333,7 @@
         <cit did="3497" cid="18" avtor0="Mal Josip" naslov0="Po stezah zgodovinarja"
             source="Stoti koledar Mohorjeve družbe" year="1953" page="71-75"/>
     </delo>
-    <delo mojID="31445">
+    <delo mojID="31445" cobiss="32918529">
         <naslov>Po stopách tragédie</naslov>
         <cit did="1654" cid="8" avtor0="Kamenec Ivan" naslov0="Po stopách tragédie"
             pubPlace="Bratislava" year="1991"/>
@@ -4352,7 +4352,7 @@
             naslov0="Po zmagi - zatiranje in zapori: Spomini na angleško zasedbeno oblast 1945-1955"
             pubPlace="Celovec/Klagenfurt" year="2003"/>
     </delo>
-    <delo mojID="31448">
+    <delo mojID="31448" cobiss="235544064">
         <naslov>Po zvezdnih poteh: Savinjska in Šaleška dolina v visokem srednjem
                         veku</naslov>
         <cit did="2776" cid="31" avtor0="Ravnikar Tone"
@@ -4383,13 +4383,13 @@
             naslov0="Poboj družine Lichtenbergov. Zasuta usta : začetek komunistične revolucije v Sloveniji leta 1941 in 1942"
             pubPlace="Ljubljana" publisher="samozaložba" year="1996"/>
     </delo>
-    <delo mojID="31456">
+    <delo mojID="31456" cobiss="20704045">
         <naslov>Pobočni procesi in drobirski tok v Logu pod Mangartom</naslov>
         <cit did="2056" cid="73" avtor0="Zorn Matija, Komac Blaž"
             naslov0="Pobočni procesi in drobirski tok v Logu pod Mangartom"
             source="Geografski vestnik" year="2002" volume="74" issue="1" page="9-23"/>
     </delo>
-    <delo mojID="31457">
+    <delo mojID="31457" cobiss="190580">
         <naslov>Pobratim</naslov>
         <cit did="638" cid="7" avtor0="Mlakar Boris" naslov0="Pobratim"
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" publisher="MK" year="1987"/>
@@ -4442,7 +4442,7 @@
             source="Zemlja pod vašimi nogami. Arheologija na avtocestah Slovenije. Zbirka: Dnevi evropske kulturne dediščine"
             pubPlace="Ljubljana" year="2003" page="37, 135, 211-212, 274-275"/>
     </delo>
-    <delo mojID="31469">
+    <delo mojID="31469" cobiss="119690752">
         <naslov>Pod košatim očesom</naslov>
         <cit did="2290" cid="8" avtor0="Karlin Alma M." naslov0="Pod košatim očesom"
             pubPlace="Celje" publisher="Mohorjeva družba" year="2002"/>
@@ -4453,24 +4453,24 @@
             naslov0="Pod Matajurjem : spomini in zapisi iz Beneške Slovenije" pubPlace="Ljubljana"
             year="1969" page="357-360"/>
     </delo>
-    <delo mojID="31471">
+    <delo mojID="31471" cobiss="9350449">
         <naslov>Pod Možakljo in Karavankami so se uprli</naslov>
         <cit did="1510" cid="181" avtor0="Konobelj-Slovenko Franc"
             naslov0="Pod Možakljo in Karavankami so se uprli" pubPlace="Jesenice" year="1954"
             page="16-19"/>
     </delo>
-    <delo mojID="31472">
+    <delo mojID="31472" cobiss="28219650">
         <naslov>Pod nemško okupacijo</naslov>
         <cit did="97" cid="8" avtor0="Ferenc Tone" naslov0="Pod nemško okupacijo"
             source="Zbornik župnije sv. Janeza Krstnika v&#xA;Ljutomeru" pubPlace="Ljutomer"
             year="1990" page="74-75"/>
     </delo>
-    <delo mojID="31473">
+    <delo mojID="31473" cobiss="67134464">
         <naslov>Pod Pečkami, kjer sem odraščal</naslov>
         <cit did="2037" cid="7" avtor0="Košir Stanko" naslov0="Pod Pečkami, kjer sem odraščal"
             pubPlace="Gozd Martuljek" publisher="samozaložba" year="1997"/>
     </delo>
-    <delo mojID="31474">
+    <delo mojID="31474" cobiss="5791277">
         <naslov>Pod plaštem pravde: Kaznenopravni sustav Dubrovačke Republike u XVIII.
                         stoljeću</naslov>
         <cit did="2103" cid="16" avtor0="Lonza N."
@@ -4478,7 +4478,7 @@
             pubPlace="Dubrovnik" publisher="Zavod za povijesne znanosti HAZU u Dubrovniku"
             year="1997"/>
     </delo>
-    <delo mojID="31475">
+    <delo mojID="31475" cobiss="2324204">
         <naslov>Pod rdečim svinčnikom: pisma Zorka Jelinčiča iz ječe</naslov>
         <cit did="1914" cid="123" avtor0="Rovšček Žarko"
             naslov0="Pod rdečim svinčnikom: pisma Zorka Jelinčiča iz ječe" pubPlace="Gorica - Trst"
@@ -4515,7 +4515,7 @@
             source="Demogeografski učinki imigracije v Sloveniji po drugi svetovni vojni"
             pubPlace="Ljubljana" publisher="Univerza v Ljubljani" year="2004"/>
     </delo>
-    <delo mojID="31482">
+    <delo mojID="31482" cobiss="595061">
         <naslov>Podatki o dr. Vitu Kraigherju so bili državna tajnost</naslov>
         <cit did="1510" cid="128" avtor0="Dornik Šubelj Ljuba"
             naslov0="Podatki o dr. Vitu Kraigherju so bili državna tajnost" source="Arhivi"
@@ -4540,13 +4540,13 @@
         <cit did="2828" cid="21" avtor0="Okorn Jože" naslov0="Podcenjena afera" source="Dnevnik"
             year="2002" volume="51" issue="157" page="2"/>
     </delo>
-    <delo mojID="31488">
+    <delo mojID="31488" cobiss="10810632">
         <naslov>Podeljevanje umetniškega statusa realnim predmetom : svet umetnosti</naslov>
         <cit did="385" cid="12" avtor0="Danto Arthur C."
             naslov0="Podeljevanje umetniškega statusa realnim predmetom : svet umetnosti"
             source="Analiza" pubPlace="Ljubljana" year="2000" page="15-25"/>
     </delo>
-    <delo mojID="31490">
+    <delo mojID="31490" cobiss="4833855">
         <naslov>Podganja nadloga</naslov>
         <cit did="3161" cid="105" avtor0="Velnar Tomaž" naslov0="Podganja nadloga"
             source="Na fronti" year="2003" issue="2" page="39"/>
@@ -4560,7 +4560,7 @@
             pubPlace="Ljubljana" publisher="Zavod za varstvo kulturne dediščine Slovenije"
             year="2003" page="216-218"/>
     </delo>
-    <delo mojID="31492">
+    <delo mojID="31492" cobiss="7387650">
         <naslov>Podgorička skupština 1918</naslov>
         <cit did="2886" cid="2" avtor0="Dimitrije Dimo Vujović" naslov0="Podgorička skupština 1918"
             pubPlace="Zagreb" year="1989"/>
@@ -4586,33 +4586,33 @@
         <cit did="1867" cid="3" avtor0="Šturm Lovro" naslov0="Podjetje in delo" year="1998"
             volume="24" issue="6-7" page="1089-1097"/>
     </delo>
-    <delo mojID="31502">
+    <delo mojID="31502" cobiss="596596">
         <naslov>Podjetništvo in drobnogospodarski sektor</naslov>
         <cit did="616" cid="9" avtor0="Lazarević Žarko"
             naslov0="Podjetništvo in drobnogospodarski sektor"
             source="Pogled v zgodovino slovenskega podjetništva" pubPlace="Vrhnika"
             publisher="Razum" year="1998"/>
     </delo>
-    <delo mojID="31503">
+    <delo mojID="31503" cobiss="12215270">
         <naslov>Podjetništvo in gospodarska rast</naslov>
         <cit did="3076" cid="27" avtor0="Vahčič A." naslov0="Podjetništvo in gospodarska rast"
             source="Finance, 17. 12. 2001" year="2001"/>
     </delo>
-    <delo mojID="31504">
+    <delo mojID="31504" cobiss="595060">
         <naslov>Podjetništvo in gospodarski dosežki na Slovenskem do konca prve svetovne
                         vojne</naslov>
         <cit did="616" cid="1" avtor0="Fischer Jasna"
             naslov0="Podjetništvo in gospodarski dosežki na Slovenskem do konca prve svetovne vojne"
             pubPlace="Vrhnika" publisher="Razum" year="1998"/>
     </delo>
-    <delo mojID="31505">
+    <delo mojID="31505" cobiss="47640832">
         <naslov>Podjetništvo in revolucija (Stališča o zasebni gospodarski podjetnosti v
                         politiki narodnoosvobodilnega gibanja)</naslov>
         <cit did="2017" cid="7" avtor0="Čepič Zdenko"
             naslov0="Podjetništvo in revolucija (Stališča o zasebni gospodarski podjetnosti v politiki narodnoosvobodilnega gibanja)"
             source="Prispevki za novejšo zgodovino" year="1994" issue="1" page="81-95"/>
     </delo>
-    <delo mojID="31511">
+    <delo mojID="31511" cobiss="11954184">
         <naslov>Podjunski govor Strojne na Koroškem</naslov>
         <cit did="392" cid="13" avtor0="Zorko Zinka" naslov0="Podjunski govor Strojne na Koroškem"
             source="Med dialektologijo in zgodovino slovenskega jezika" pubPlace="Maribor"
@@ -4624,7 +4624,7 @@
             naslov0="Podkuvanie na Slovensku v 11.-13. I storoči" source="Slovenska archeologia"
             year="1981" volume="29" issue="2" page="425-443"/>
     </delo>
-    <delo mojID="31515">
+    <delo mojID="31515" cobiss="8153092">
         <naslov>Podložniško prebivalstvo komornega gospostva Pazin v tridesetih letih 16.
                         stoletja</naslov>
         <cit did="2583" cid="185" avtor0="Šumrada Janez"
@@ -4637,7 +4637,7 @@
             naslov0="Podložniško vprašanje v stoletju pred marčno revolucijo" source="Nova obzorja"
             year="1951" volume="4" page="362-373"/>
     </delo>
-    <delo mojID="31518">
+    <delo mojID="31518" cobiss="20231218">
         <naslov>Podnanos: Št. Vid ali Šentvid in po domače Šembid: identifikacijski elementi
                         kraja</naslov>
         <cit did="1422" cid="26" avtor0="Miklavčič-Brezigar Inga"
@@ -4653,20 +4653,20 @@
             naslov0="PodnikánÃ­ českÃ½ch bank v cizině : 1898-1918 :&#xA;rozpÃ­navost českého bankovnÃ­ho kapitálu ve střednÃ­, jihovÃ½chodnÃ­ a vÃ½chodnÃ­&#xA;Evropě v obdobÃ­ rakousko-uherského imperialismu"
             pubPlace="Brno" publisher="Masarykova univerzita" year="1993"/>
     </delo>
-    <delo mojID="31521">
+    <delo mojID="31521" cobiss="123872768">
         <naslov>Podoba Afrike v slovenskih medijih</naslov>
         <cit did="2656" cid="18" avtor0="Jeffs Nikolai" naslov0="Podoba Afrike v slovenskih medijih"
             source="Medijska preža, http:// mediawatch.mirovni-institut.si/bilten/seznam/09/mediawatch/"
             year="2000" issue="9"/>
     </delo>
-    <delo mojID="31522">
+    <delo mojID="31522" cobiss="24916482">
         <naslov>Podoba antične poselitve med vzhodnim Pohorjem in Dravo</naslov>
         <cit did="1947" cid="12" avtor0="Strmčnik Gulič M."
             naslov0="Podoba antične poselitve med vzhodnim Pohorjem in Dravo"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1990" volume="41" page="135-146"
         />
     </delo>
-    <delo mojID="31523">
+    <delo mojID="31523" cobiss="965588">
         <naslov>Podoba Avstrije v Sloveniji</naslov>
         <cit did="233" cid="12" avtor0="Pammer M." naslov0="Podoba Avstrije v Sloveniji"
             source="Avstrija-Slovenija : Preteklost in sedanjost" pubPlace="Ljubljana-Celovec"
@@ -4678,7 +4678,7 @@
             naslov0="Podoba celjsakih grofov v narativnih virih" source="Historia"
             pubPlace="Ljubljana" year="2005" volume="11"/>
     </delo>
-    <delo mojID="31528">
+    <delo mojID="31528" cobiss="18230317">
         <naslov>Podoba Cerkve in njenih ustanov v osnovnošolskih učbenikih zgodovine na
                         Slovenskem po letu 1945</naslov>
         <cit did="1829" cid="9" avtor0="Krivec Damjana"
@@ -4693,62 +4693,62 @@
             naslov1="Doktorska disertacija na Oddelku za zgodovino Filozofske fakultete"
             pubPlace="Ljubljana" year="2002"/>
     </delo>
-    <delo mojID="31535">
+    <delo mojID="31535" cobiss="17141293">
         <naslov>Podoba moža na blejski zaponki</naslov>
         <cit did="2237" cid="22" avtor0="Ravnikar Sabina" naslov0="Podoba moža na blejski zaponki"
             source="Arheološki vestnik" year="2000" volume="51" page="225-232"/>
     </delo>
-    <delo mojID="31536">
+    <delo mojID="31536" cobiss="5372209">
         <naslov>Podoba narečij ob slovensko-hrvaški meji</naslov>
         <cit did="2428" cid="23" avtor0="Lisac Josip"
             naslov0="Podoba narečij ob slovensko-hrvaški meji"
             source="Annales: Series historia et sociologia" year="1998" volume="8" issue="12"
             page="53-58"/>
     </delo>
-    <delo mojID="31537">
+    <delo mojID="31537" cobiss="513039231">
         <naslov>Podoba novomeške kapiteljske cerkve skozi čas</naslov>
         <cit did="1298" cid="18" avtor0="Mušič Marjan"
             naslov0="Podoba novomeške kapiteljske cerkve skozi čas"
             source="Novo mesto 1365-1965, Prispevki za zgodovino mesta" pubPlace="Novo mesto"
             publisher="Dolenjska založba" year="1969" page="163-179"/>
     </delo>
-    <delo mojID="31538">
+    <delo mojID="31538" cobiss="29736034">
         <naslov>Podoba Teritorialne obrambe Slovenije v časniku Delo med leti 1968 in
                         1989</naslov>
         <cit did="2384" cid="20" avtor0="Novak Roman"
             naslov0="Podoba Teritorialne obrambe Slovenije v časniku Delo med leti 1968 in 1989"
             source="Diplomsko delo, FDV" year="2005" page="102-103"/>
     </delo>
-    <delo mojID="31542">
+    <delo mojID="31542" cobiss="10492258">
         <naslov>Podoba ženske skozi meščansko časopisje med drugo svetovno vojno: diplomska
                         naloga</naslov>
         <cit did="1456" cid="2" avtor0="Dobaja Dunja"
             naslov0="Podoba ženske skozi meščansko časopisje med drugo svetovno vojno: diplomska naloga"
             pubPlace="Ljubljana" year="1999" page="30"/>
     </delo>
-    <delo mojID="31543">
+    <delo mojID="31543" cobiss="9830957">
         <naslov>Podoba ženske v belokranjskem ljudskem pesništvu</naslov>
         <cit did="3155" cid="28" avtor0="Terseglav Marko"
             naslov0="Podoba ženske v belokranjskem ljudskem pesništvu" source="Traditiones"
             volume="27" page="47-59"/>
     </delo>
-    <delo mojID="31544">
+    <delo mojID="31544" cobiss="228432640">
         <naslov>Podoba ženske v letu 1918 skozi prizmo političnih člankov</naslov>
         <cit did="226" cid="178" avtor0="Selišnik I."
             naslov0="Podoba ženske v letu 1918 skozi prizmo političnih člankov"
             source="Zgodovinski časopis" year="2005"/>
     </delo>
-    <delo mojID="31551">
+    <delo mojID="31551" cobiss="4224798">
         <naslov>Podobe elektronske demokracije</naslov>
         <cit did="403" cid="5" avtor0="Oblak T." naslov0="Podobe elektronske demokracije"
             source="Teorija in praksa" pubPlace="Ljubljana" year="2002" volume="39" page="155-169"/>
     </delo>
-    <delo mojID="31552">
+    <delo mojID="31552" cobiss="636190">
         <naslov>Podobe iz mojega žviljenja</naslov>
         <cit did="226" cid="202" avtor0="Vašte Ilka" naslov0="Podobe iz mojega žviljenja"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="1964" page="109"/>
     </delo>
-    <delo mojID="31553">
+    <delo mojID="31553" cobiss="241801216">
         <naslov>Podobe iz nekdanje živinoreje med Trstom in Slavnikom</naslov>
         <cit did="751" cid="65" avtor0="Vilfan Sergij"
             naslov0="Podobe iz nekdanje živinoreje med Trstom in Slavnikom" source="Kronika"
@@ -4769,23 +4769,23 @@
         <cit did="1809" cid="12" avtor0="Kranjc Silvo"
             naslov0="Podobe iz zgodovine slovenskega kmeta" source="Orač" year="0" issue="6-12"/>
     </delo>
-    <delo mojID="31558">
+    <delo mojID="31558" cobiss="29240832">
         <naslov>Podobe ljubljanskih meščanov</naslov>
         <cit did="2229" cid="22" avtor0="Zalar Franc" naslov0="Podobe ljubljanskih meščanov"
             pubPlace="Ljubljana" publisher="Mestni muzej" year="1992"/>
     </delo>
-    <delo mojID="31561">
+    <delo mojID="31561" cobiss="22242817">
         <naslov>Podobe prednikov : zapiski Janeza Trdine iz obdobja 1879-1879</naslov>
         <cit did="1426" cid="17" avtor0="Trdina Janez"
             naslov0="Podobe prednikov : zapiski Janeza Trdine iz obdobja 1879-1879"
             pubPlace="Ljubljana" publisher="Knjižnica revolucionarne teorije" year="1987"/>
     </delo>
-    <delo mojID="31562">
+    <delo mojID="31562" cobiss="120168448">
         <naslov>Podobe slovenstva</naslov>
         <cit did="599" cid="16" avtor0="Zgonik Nadja" naslov0="Podobe slovenstva"
             pubPlace="Ljubljana" publisher="Nova revija" year="2002" page="128"/>
     </delo>
-    <delo mojID="31563">
+    <delo mojID="31563" cobiss="5644552">
         <naslov>Podobe starodavnega Ptuja z utrinki glasbenega življenja</naslov>
         <cit did="1912" cid="68" avtor0="Koter Darja"
             naslov0="Podobe starodavnega Ptuja z utrinki glasbenega življenja"
@@ -4804,7 +4804,7 @@
             naslov0="Podobnosti oblasti : odbor za reforme bo najbrž kar Kraigherjeva komisija"
             source="http://www.mladina.si/tednik/200541/clanek/slo--mnenje-joze_mencinger/"/>
     </delo>
-    <delo mojID="31567">
+    <delo mojID="31567" cobiss="20682029">
         <naslov>Podori na Dobraču</naslov>
         <cit did="2056" cid="83" avtor0="Zorn Matija" naslov0="Podori na Dobraču"
             source="Geografski vestnik" year="2002" volume="74" issue="2" page="9-20"/>
@@ -4818,7 +4818,7 @@
             publisher="Zavod za varstvo kulturne dediščine Slovenije, Območna služba Ljubljana"
             year="2007"/>
     </delo>
-    <delo mojID="31569">
+    <delo mojID="31569" cobiss="513487659">
         <naslov>Podpeč pri Gabrovki</naslov>
         <cit did="3461" cid="30" avtor0="Erbežnik Modest" avtor1="Vesel Kopač Irena"
             naslov0="Podpeč pri Gabrovki" source="Varstvo spomenikov" year="2007" volume="43"
@@ -4838,7 +4838,7 @@
             publisher="Zavod za varstvo kulturne dediščine Slovenije, Območna enota Ljubljana"
             year="2003"/>
     </delo>
-    <delo mojID="31574">
+    <delo mojID="31574" cobiss="21691648">
         <naslov>Podpis: Tito. »Bila sva Titova šifranta«. Pripoved Branke in Pavleta
                         Saviča</naslov>
         <cit did="3210" cid="200" avtor0="Stefanovič Momčilo"
@@ -4864,13 +4864,13 @@
             naslov0="Podravje, vključeno v organizirano planinstvo pred 80 leti"
             source="Planinski vestnik" year="1980" volume="80" issue="10" page="475-479"/>
     </delo>
-    <delo mojID="31579">
+    <delo mojID="31579" cobiss="222863360">
         <naslov>Podrejenost žensk</naslov>
         <cit did="3155" cid="18" avtor0="Mili John S." naslov0="Podrejenost žensk"
             source="Podrejenost žensk: Zgodnja eseja o zakonu in ločitvi" pubPlace="Ljubljana"
             publisher="Studia humanitatis" year="2005" page="5-95"/>
     </delo>
-    <delo mojID="31581">
+    <delo mojID="31581" cobiss="35750498">
         <naslov>Podrečje pri Viru - prazgodovinska naselbina</naslov>
         <cit did="1375" cid="18" avtor0="Horvat Milena"
             naslov0="Podrečje pri Viru - prazgodovinska naselbina"
@@ -4899,7 +4899,7 @@
             naslov0="Podružnica slovenskega planinskega društva SPD Kranjska Gora"
             source="Delovanje od ustanovitve do leta 1914" page="149-166"/>
     </delo>
-    <delo mojID="31588">
+    <delo mojID="31588" cobiss="6458376">
         <naslov>Podružnice Družbe sv. Cirila In Metoda v sodnih okrajih Logatec in Lož do
                         propada Avstro-Ogrske</naslov>
         <cit did="2633" cid="29" avtor0="Vovko Andrej"
@@ -4914,7 +4914,7 @@
             source="Po poteh Koroške kulturne dediščine občine Prevalje in mestne občine Pliberk...."
             pubPlace="Prevalje - Pliberk" publisher="Občina" year="2006" page="41-43"/>
     </delo>
-    <delo mojID="31594">
+    <delo mojID="31594" cobiss="3405427">
         <naslov>Podstawy prawne granicy Odra-Nisa na tle umow Jałtanskiej i
                         Poczdamskiej</naslov>
         <cit did="1647" cid="12" avtor0="Klafkowski A."
@@ -4926,7 +4926,7 @@
         <cit did="3413" cid="28" avtor0="Slomšek Anton" naslov0="Poduk za berače"
             source="Drobtinice" year="1862"/>
     </delo>
-    <delo mojID="31599">
+    <delo mojID="31599" cobiss="8035168">
         <naslov>Podvodna arheologija v Sloveniji in njena problematika</naslov>
         <cit did="419" cid="32" avtor0="Logar N."
             naslov0="Podvodna arheologija v Sloveniji in njena problematika"
@@ -4950,12 +4950,12 @@
             naslov0="Poesie, filastrocche e bambini del mondo" source="Scuola Materna"
             pubPlace="Brescia" publisher="La Scuola" year="1995" volume="82" issue="16"/>
     </delo>
-    <delo mojID="31608">
+    <delo mojID="31608" cobiss="115919616">
         <naslov>Poetika prostora</naslov>
         <cit did="1930" cid="2" avtor0="Bachelard G." naslov0="Poetika prostora"
             pubPlace="Ljubljana" publisher="Študentska založba" year="2001"/>
     </delo>
-    <delo mojID="31609">
+    <delo mojID="31609" cobiss="223782912">
         <naslov>Poetika zgodnjebizantinske literature</naslov>
         <cit did="3081" cid="1" avtor0="Averincev S. S."
             naslov0="Poetika zgodnjebizantinske literature" pubPlace="Ljubljane"
@@ -4977,7 +4977,7 @@
         <cit did="2069" cid="21" avtor0="Kujundžić Z." naslov0="Poetovijske nekropole."
             source="Katal. monogr." year="1982" volume="20"/>
     </delo>
-    <delo mojID="31616">
+    <delo mojID="31616" cobiss="235924224">
         <naslov>Poezija</naslov>
         <cit did="1877" cid="8" avtor0="Slomšek Anton Martin" naslov0="Poezija" pubPlace="Celje"
             year="2007"/>
@@ -4988,7 +4988,7 @@
             naslov0="Poezija baroka (XVII i XVIII vijek)" pubPlace="Titograd" publisher="Pobjeda"
             year="1976"/>
     </delo>
-    <delo mojID="31618">
+    <delo mojID="31618" cobiss="431617">
         <naslov>Poezija doktorja Franceta Prešerna</naslov>
         <cit did="425" cid="94" avtor0="Slodnjak Anton" naslov0="Poezija doktorja Franceta Prešerna"
             naslov1="uvod in razlage" pubPlace="Ljubljana" year="1946" page="235"/>
@@ -5015,7 +5015,7 @@
         <cit did="231" cid="8" avtor0="Prešern France" naslov0="Poezije in pesmi"
             pubPlace="Ljubljana" year="1964" page="116"/>
     </delo>
-    <delo mojID="31625">
+    <delo mojID="31625" cobiss="3629874">
         <naslov>Poezije IV</naslov>
         <cit did="442" cid="60" avtor0="Gregorčič Simon" naslov0="Poezije IV" pubPlace="Gorica"
             year="1908" page="129"/>
@@ -5026,12 +5026,12 @@
             naslov0="Pogajanja za okroglo mizo menda kmalu tudi v Sloveniji"
             source="Delo, 12. 9. 1989" year="1989"/>
     </delo>
-    <delo mojID="31627">
+    <delo mojID="31627" cobiss="11492909">
         <naslov>Pogani in kristjani</naslov>
         <cit did="2639" cid="243" avtor0="Pleterski Andrej" naslov0="Pogani in kristjani"
             source="Zakladi tisočletij" page="386-389"/>
     </delo>
-    <delo mojID="31628">
+    <delo mojID="31628" cobiss="32295936">
         <naslov>Pogačnikov grb - navaden zmazek</naslov>
         <cit did="439" cid="26" avtor0="Ovsec Damjan J." naslov0="Pogačnikov grb - navaden zmazek"
             source="Delo, Sobotna priloga" year="0" volume="34" issue="158" page="28"/>
@@ -5042,13 +5042,13 @@
             naslov1="Božična čuja tli" source="Mohorjev koledar za leto 1966" pubPlace="Celje"
             year="1965" page="122-125"/>
     </delo>
-    <delo mojID="31632">
+    <delo mojID="31632" cobiss="200869888">
         <naslov>Poglavica sunca</naslov>
         <cit did="2968" cid="133" avtor0="Talayesva Don" naslov0="Poglavica sunca"
             naslov1="Autobiografija hopijskog Indijanca" pubPlace="Zagreb" publisher="Naprijed"
             year="1964"/>
     </delo>
-    <delo mojID="31635">
+    <delo mojID="31635" cobiss="1690469">
         <naslov>Poglavitne značilnosti trpinčenih otrok in pojavne oblike trpinčenja v
                         občini Ljubljana Moste-Polje (1983-1984)</naslov>
         <cit did="164" cid="7" avtor0="Žohar Jasmina"
@@ -5063,7 +5063,7 @@
             naslov0="Poglavje celjskih grofov v balkanski prostor v času prodiranja Turkov v Evropo"
             source="Slovenica-balcanica : Zgodovinske študije" pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="31642">
+    <delo mojID="31642" cobiss="2547766">
         <naslov>Poglavje iz slovenskega narodnoosvobodilnega pesništva</naslov>
         <cit did="3079" cid="22" avtor0="Paternu Boris"
             naslov0="Poglavje iz slovenskega narodnoosvobodilnega pesništva"
@@ -5103,31 +5103,31 @@
         <cit did="2474" cid="43" avtor0="Sindik D." naslov0="Pogled na prošlost Jevreja Jugoslavije"
             pubPlace="Beograd" publisher="Jevrejski istorijski muzej" year="2009"/>
     </delo>
-    <delo mojID="31651">
+    <delo mojID="31651" cobiss="27601665">
         <naslov>Pogled na prvo četrtstoletje Družbe sv. Cirila in Metoda v
                         Ljubljani</naslov>
         <cit did="987" cid="13" avtor0="Vrhovnik Ivan"
             naslov0="Pogled na prvo četrtstoletje Družbe sv. Cirila in Metoda v Ljubljani"
             pubPlace="Ljubljana" year="1910"/>
     </delo>
-    <delo mojID="31652">
+    <delo mojID="31652" cobiss="73250304">
         <naslov>Pogled nazaj - korak naprej</naslov>
         <cit did="3199" cid="48" avtor0="Šiftar V." naslov0="Pogled nazaj - korak naprej"
             source="Vzgoja in izobraževanje romskih otrok v predšolskem in osnovnošolskem obdobju"
             pubPlace="Ljubljana" publisher="Zavod Republike Slovenije za šolstvo" year="1990"
             page="59-71"/>
     </delo>
-    <delo mojID="31653">
+    <delo mojID="31653" cobiss="8020793">
         <naslov>Pogled u djelo Ferde Šišića</naslov>
         <cit did="458" cid="14" avtor0="Macan T." naslov0="Pogled u djelo Ferde Šišića"
             source="Pregled povijesti hrvatskog naroda" pubPlace="Zagreb" year="1975"/>
     </delo>
-    <delo mojID="31656">
+    <delo mojID="31656" cobiss="1109879646">
         <naslov>Pogled v preteklost ob stoletnici</naslov>
         <cit did="3241" cid="328" avtor0="Šmuc Lojze" naslov0="Pogled v preteklost ob stoletnici"
             source="TT" year="1934" issue="10"/>
     </delo>
-    <delo mojID="31658">
+    <delo mojID="31658" cobiss="78343936">
         <naslov>Pogled v zgodovino slovenskega podjetništva</naslov>
         <cit did="2304" cid="64" avtor0="Fischer Jasna et al."
             naslov0="Pogled v zgodovino slovenskega podjetništva" pubPlace="Vrhnika" year="1998"/>
@@ -5139,13 +5139,13 @@
             source="Oblikovanje enotnega slovenskega knjižnega jezika v 19. stoletju"
             pubPlace="Ljubljana" year="1996" page="157"/>
     </delo>
-    <delo mojID="31663">
+    <delo mojID="31663" cobiss="3065690">
         <naslov>Pogledi Marka Kremžarja na človeka in družbo</naslov>
         <cit did="2142" cid="24" avtor0="Rihar Lenart"
             naslov0="Pogledi Marka Kremžarja na človeka in družbo" naslov1="diplomsko delo"
             publisher="Univerza v Ljubljani: Teološka fakulteta" year="2002" page="18"/>
     </delo>
-    <delo mojID="31664">
+    <delo mojID="31664" cobiss="25701933">
         <naslov>Pogledi na "domovino" in "tujino" skozi optiko izseljenstva: mitsko in
                         stereotipsko v slovenskem zgodovinopisju</naslov>
         <cit did="1442" cid="8" avtor0="Drnovšek Marjan"
@@ -5154,19 +5154,19 @@
             pubPlace="Ljubljana" publisher="Zveza zgodovinskih drustev Slovenije" year="2006"
             page="327-336"/>
     </delo>
-    <delo mojID="31667">
+    <delo mojID="31667" cobiss="8305153">
         <naslov>Pogledi na geografijo</naslov>
         <cit did="2232" cid="3" avtor0="Ilešič Svetozar" naslov0="Pogledi na geografijo"
             pubPlace="Ljubljana" publisher="Partizanska knjiga" year="1979"/>
     </delo>
-    <delo mojID="31668">
+    <delo mojID="31668" cobiss="8535853">
         <naslov>Pogledi na Pavlove raziskave tematike Orfeja</naslov>
         <cit did="279" cid="25" avtor0="Nartnik Vlado"
             naslov0="Pogledi na Pavlove raziskave tematike Orfeja"
             source="Slovensko-madžarski jezikovni in književni stiki od Košiča do danes"
             pubPlace="Budimpešta" publisher="Kossics AlapÃ­tvány" year="1998" page="205-210"/>
     </delo>
-    <delo mojID="31670">
+    <delo mojID="31670" cobiss="6047488">
         <naslov>Pogledi na slovensko umetnost</naslov>
         <cit did="1933" cid="69" avtor0="Šumi N." naslov0="Pogledi na slovensko umetnost"
             pubPlace="Ljubljana" publisher="Partizanska knjiga" year="1975"/>
@@ -5177,7 +5177,7 @@
             naslov0="Pogledi na stanje u Jugoslaviji i njezinu budučnost" pubPlace="Pariz"
             publisher="samozaložba" year="1932"/>
     </delo>
-    <delo mojID="31672">
+    <delo mojID="31672" cobiss="4713818">
         <naslov>Pogledi na Trubarja in reformacijo ob njegovi štiristoletnici, Sto let
                         pozneje</naslov>
         <cit did="2660" cid="43" avtor0="Rifel Tadej"
@@ -5213,7 +5213,7 @@
             naslov0="Pogovor 3. izdajanju Šišićevog Pregleda povijesti hrvatskoga naroda"
             pubPlace="Zagreb" year="1962"/>
     </delo>
-    <delo mojID="31685">
+    <delo mojID="31685" cobiss="216154624">
         <naslov>Pogovor o govornikih - Agrikola - Germanija</naslov>
         <cit did="272" cid="230" avtor0="Tacit"
             naslov0="Pogovor o govornikih - Agrikola - Germanija" pubPlace="Ljubljana" year="2004"/>
@@ -5225,7 +5225,7 @@
             source="Delo : Sobotna priloga (24. 10. 2009)" pubPlace="Ljubljana" year="2009"
             volume="51" issue="247" page="4-7"/>
     </delo>
-    <delo mojID="31687">
+    <delo mojID="31687" cobiss="79712512">
         <naslov>Pogovor s koroškimi Slovenci: o etnični identiteti, slovenščini, dvojezični
                         vzgoji in samopodobi</naslov>
         <cit did="407" cid="15" avtor0="Zavratnik Zimic Simona"
@@ -5271,7 +5271,7 @@
         <cit did="3501" cid="3" avtor0="Loparnik Borut" naslov0="Pogovor z Janezom Matičičem"
             source="Nova revija" year="1985" volume="43-44" page="1473"/>
     </delo>
-    <delo mojID="31697">
+    <delo mojID="31697" cobiss="11374157">
         <naslov>Pogovori in pogajanja avstrijskih ter nemških nacionalsocialistov s
                         koroškimi Slovenci in dr. Julijem Felaherjem v letih 1933/34</naslov>
         <cit did="2564" cid="3" avtor0="Grafenauer Danijel"
@@ -5283,7 +5283,7 @@
         <cit did="861" cid="1" avtor0="Guoyu" naslov0="Pogovori o državi Lu" naslov1="Peti zvezek"
             pubPlace="Nanchang" year="1998" page="206-207"/>
     </delo>
-    <delo mojID="31699">
+    <delo mojID="31699" cobiss="11374157">
         <naslov>Pogovori s Hitlerjem</naslov>
         <cit did="230" cid="19" avtor0="Rauschning Hermann" naslov0="Pogovori s Hitlerjem"
             pubPlace="Trst" year="1987" page="193"/>
@@ -5299,7 +5299,7 @@
         <cit did="2884" cid="4" avtor0="Đilas Milovan" naslov0="Pogovori s Stalinom"
             source="Povojna Evropa 1945-2006" page="158"/>
     </delo>
-    <delo mojID="31704">
+    <delo mojID="31704" cobiss="11743234">
         <naslov>Pogranične zajednice i jugoistočna granica Liburnije u kasno predrimsko i u
                         rimsko doba</naslov>
         <cit did="1748" cid="218" avtor0="Čače S."
@@ -5326,13 +5326,13 @@
         <cit did="2639" cid="200" avtor0="Machaček Jiřy" naslov0="Pohansko bei Breclav"
             source="Europas Mitte 1." page="330-332"/>
     </delo>
-    <delo mojID="31709">
+    <delo mojID="31709" cobiss="5784928">
         <naslov>Pohištvo 18. stoletja na gradu Strmol</naslov>
         <cit did="2118" cid="9" avtor0="Lozar Štamcar Maja"
             naslov0="Pohištvo 18. stoletja na gradu Strmol" source="Kronika" year="2006" volume="54"
             issue="2" page="275-284"/>
     </delo>
-    <delo mojID="31710">
+    <delo mojID="31710" cobiss="966240">
         <naslov>Pohištvo iz upognjenega lesa</naslov>
         <cit did="2119" cid="8" avtor0="Lozar Štamcar Maja" naslov0="Pohištvo iz upognjenega lesa"
             source="Gradovi minevajo, fabrike nastajajo, katalog razstave" pubPlace="Ljubljana"
@@ -5343,7 +5343,7 @@
         <cit did="3241" cid="246" avtor0="Valenčič Jana" naslov0="Pohištvo poželjenja"
             source="Adria Airways inFlight magazine" year="2011" issue="2" page="78"/>
     </delo>
-    <delo mojID="31716">
+    <delo mojID="31716" cobiss="16813568">
         <naslov>Pohorje - prazgodovinski rudarski revir</naslov>
         <cit did="1947" cid="20" avtor0="Teržan B."
             naslov0="Pohorje - prazgodovinski rudarski revir"
@@ -5416,14 +5416,14 @@
             publisher="Komisija za proučevanje šolstva pri Svetu za prosveto in kulturo LRS"
             year="1955" page="29-39"/>
     </delo>
-    <delo mojID="31743">
+    <delo mojID="31743" cobiss="16041446">
         <naslov>Pojem fleksibilnosti trga dela in stanja na trgu dela v Sloveniji. Delovni
                         zvezki 14.</naslov>
         <cit did="3437" cid="12" avtor0="Kajzer Alenka"
             naslov0="Pojem fleksibilnosti trga dela in stanja na trgu dela v Sloveniji. Delovni zvezki 14."
             pubPlace="Ljubljana" publisher="Urad za makroekonomski razvoj" year="2005"/>
     </delo>
-    <delo mojID="31746">
+    <delo mojID="31746" cobiss="8148561">
         <naslov>Pojem univerzalnega prava v XVII. Stoletju</naslov>
         <cit did="51" cid="319" avtor0="Spektorskij Evgen"
             naslov0="Pojem univerzalnega prava v XVII. Stoletju"
@@ -5437,13 +5437,13 @@
             source="Strukturne spremembe javnosti" pubPlace="Ljubljana" publisher="ISH" year="1989"
             page="301-319"/>
     </delo>
-    <delo mojID="31749">
+    <delo mojID="31749" cobiss="4027482">
         <naslov>Pojmovanje kulture pri Franu Kovačiču</naslov>
         <cit did="1592" cid="12" avtor0="Kovač Edvard"
             naslov0="Pojmovanje kulture pri Franu Kovačiču" source="Bogoslovni vestnik" year="2007"
             volume="67" issue="2" page="253-260"/>
     </delo>
-    <delo mojID="31750">
+    <delo mojID="31750" cobiss="4072017">
         <naslov>Pojmovanje oblasti v izjavah kranjskih deželnih stanov v dobi
                         reformacije</naslov>
         <cit did="2664" cid="49" avtor0="Vilfan Sergij"
@@ -5462,7 +5462,7 @@
         <cit did="3198" cid="3" avtor0="Drčar Murko Mojca"
             naslov0="Poklicali smo delovne moči, prišli pa so ljudje" source="Delo" year="54"/>
     </delo>
-    <delo mojID="31756">
+    <delo mojID="31756" cobiss="7994329">
         <naslov>Poklicne obremenitve zdravnikov</naslov>
         <cit did="3127" cid="36" avtor0="Žunter Nagy Marija, Kocmur Marga"
             naslov0="Poklicne obremenitve zdravnikov" source="Zdravniški vestnik" year="1998"
@@ -5473,12 +5473,12 @@
         <cit did="1327" cid="20" avtor0="Schmidt Vlado" naslov0="Poklicno svetovanje in dekleta"
             source="Ženski svet" year="1940" volume="18" page="211"/>
     </delo>
-    <delo mojID="31758">
+    <delo mojID="31758" cobiss="247670016">
         <naslov>Poklon Kataloniji</naslov>
         <cit did="2894" cid="42" avtor0="Orwell George" naslov0="Poklon Kataloniji"
             pubPlace="Ljubljana" year="2009"/>
     </delo>
-    <delo mojID="31759">
+    <delo mojID="31759" cobiss="5836086">
         <naslov>Pokluka - planinsko in športno središče</naslov>
         <cit did="3365" cid="378" avtor0="Župnek Franjo"
             naslov0="Pokluka - planinsko in športno središče" source="Planinski vestnik" year="1925"
@@ -5497,7 +5497,7 @@
             naslov0="Pokojninski zakon za zasebne nastavljance" source="STV" year="1906" issue="11"
         />
     </delo>
-    <delo mojID="31763">
+    <delo mojID="31763" cobiss="107975680">
         <naslov>Pokojninsko in invalidsko zavarovanje. Kaj moram vedeti</naslov>
         <cit did="3438" cid="7" avtor0="Štrovs Marko"
             naslov0="Pokojninsko in invalidsko zavarovanje. Kaj moram vedeti" pubPlace="Ljubljana"
@@ -5510,25 +5510,25 @@
             naslov0="Pokojninsko zavarovanje trgovskih sotrudnikov je treba kljub vsemu izvesti!"
             source="TT" year="1939" issue="11-12"/>
     </delo>
-    <delo mojID="31765">
+    <delo mojID="31765" cobiss="114054">
         <naslov>Pokol v Chiapasu</naslov>
         <cit did="1486" cid="15" avtor0="Terčelj M. M." naslov0="Pokol v Chiapasu"
             pubPlace="Mladina" year="0" volume="6" page="32-34"/>
     </delo>
-    <delo mojID="31771">
+    <delo mojID="31771" cobiss="264053">
         <naslov>Pokopavanje v cerkvi in samostanskem poslopju sv. Klare v Kopru med letoma
                         1616 in 1782</naslov>
         <cit did="2590" cid="6" avtor0="Bonin Zdenka"
             naslov0="Pokopavanje v cerkvi in samostanskem poslopju sv. Klare v Kopru med letoma 1616 in 1782"
             source="Arhivi" year="2001" volume="24" page="109-119"/>
     </delo>
-    <delo mojID="31772">
+    <delo mojID="31772" cobiss="120624128">
         <naslov>Pokopi v nekdanji mekinjski samostanski cerkvi</naslov>
         <cit did="259" cid="11" avtor0="Hančič D."
             naslov0="Pokopi v nekdanji mekinjski samostanski cerkvi" source="Kamniški zbornik"
             pubPlace="Kamnik" year="2002" volume="16" page="149"/>
     </delo>
-    <delo mojID="31773">
+    <delo mojID="31773" cobiss="9508661">
         <naslov>Pokošena trava</naslov>
         <cit did="976" cid="34" avtor0="Topolovec Haložan Jože" naslov0="Pokošena trava"
             naslov1="književnost Jožeta Topolovca Haložana" pubPlace="Celovec-Ljubljana-Dunaj"
@@ -5540,7 +5540,7 @@
             source="Kamniti križi na nekdanjem območju slovinske župnije; http://slavina.freeservers.com"
             year="2004"/>
     </delo>
-    <delo mojID="31777">
+    <delo mojID="31777" cobiss="1951074">
         <naslov>Pokrajinska ekologija območij alpskega smučanja v Sloveniji, izbrani
                         primeri</naslov>
         <cit did="696" cid="18" avtor0="Robič Mojca"
@@ -5554,7 +5554,7 @@
             source="Slovenska kronika XX. stoletja : knj. 1 : 1900-1941" pubPlace="Ljubljana"
             publisher="Nova revija" year="1995" page="391"/>
     </delo>
-    <delo mojID="31781">
+    <delo mojID="31781" cobiss="27786240">
         <naslov>Pokrajinske značilnosti Tržaškega zaliva in koprskega primorja</naslov>
         <cit did="732" cid="15" avtor0="Radinja D."
             naslov0="Pokrajinske značilnosti Tržaškega zaliva in koprskega primorja"
@@ -5686,24 +5686,24 @@
             source="International Herald Tribune, http://www.iht.com/articles/2007/05/16/business/zloty.php"
             year="2007"/>
     </delo>
-    <delo mojID="31813">
+    <delo mojID="31813" cobiss="19248642">
         <naslov>Polarizacija »polnih karaktera«.</naslov>
         <cit did="1735" cid="32" avtor0="Hausen K." naslov0="Polarizacija »polnih karaktera«."
             source="Radanje moderne porodice: Sociološka hrestomatija" pubPlace="Beograd"
             year="1988" page="212-233"/>
     </delo>
-    <delo mojID="31817">
+    <delo mojID="31817" cobiss="48710400">
         <naslov>Polemika o slovenskih impresionistih v letu 1949</naslov>
         <cit did="781" cid="4" avtor0="Gabrič Aleš"
             naslov0="Polemika o slovenskih impresionistih v letu 1949" source="Nova revija"
             year="1992" volume="11" issue="126/127" page="1217-1226"/>
     </delo>
-    <delo mojID="31818">
+    <delo mojID="31818" cobiss="4313437">
         <naslov>Polemika o stanju in razmerah v JLA</naslov>
         <cit did="825" cid="8" avtor0="Kotnik Stane" naslov0="Polemika o stanju in razmerah v JLA"
             source="Teorija in praksa" year="1970" volume="7" issue="12"/>
     </delo>
-    <delo mojID="31819">
+    <delo mojID="31819" cobiss="4318045">
         <naslov>Polemika o stanju in razmerah v JLA - še enkrat</naslov>
         <cit did="825" cid="9" avtor0="Rugelj Janez"
             naslov0="Polemika o stanju in razmerah v JLA - še enkrat" source="Teorija in praksa"
@@ -5748,7 +5748,7 @@
             naslov0="Police in Community Relations" source="Critical Issues, 2nd edition"
             pubPlace="Dubuque" publisher="Wm. C. Brown Publishers" year="1992"/>
     </delo>
-    <delo mojID="31830">
+    <delo mojID="31830" cobiss="1070964">
         <naslov>Policentrični razvoj slovenskih kulturnih ustanov sredi 20.
                         stoletja</naslov>
         <cit did="814" cid="2" avtor0="Gabrič Aleš"
@@ -5772,7 +5772,7 @@
             source="http://www.anr.gov.ro/docs/programe/Roma%20in/Romain_final_supervised_analysis.pdf"
             year="2010"/>
     </delo>
-    <delo mojID="31834">
+    <delo mojID="31834" cobiss="1108367966">
         <naslov>Policija in Prešernov nagrobnik</naslov>
         <cit did="454" cid="11" avtor0="Mal Josip" naslov0="Policija in Prešernov nagrobnik"
             source="Slovenski poročevalec" year="1951" issue="32"/>
@@ -5823,7 +5823,7 @@
             source="The new demographic regime. Population challenges abd policy responses"
             pubPlace="New York, Geneva" publisher="United Nations" year="2005" page="1-9"/>
     </delo>
-    <delo mojID="31844">
+    <delo mojID="31844" cobiss="16284253">
         <naslov>Policy institutional, and technical issues in the introduction of a new
                         national currency</naslov>
         <cit did="663" cid="8" avtor0="Abrams Richard K., Cortés-Douglas Hernán"
@@ -5854,13 +5854,13 @@
             naslov0="Polimika Francuske i Austrije na Blakanu u vreme Napoleona III"
             pubPlace="Beograd" year="1925"/>
     </delo>
-    <delo mojID="31852">
+    <delo mojID="31852" cobiss="28588032">
         <naslov>Polis Norikon. Poznoantične višinske utrdbe med Celjem in Brežicami</naslov>
         <cit did="2532" cid="11" avtor0="Ciglenečki Slavko"
             naslov0="Polis Norikon. Poznoantične višinske utrdbe med Celjem in Brežicami"
             pubPlace="Podsreda" publisher="Zavod Spominski park Trebče" year="1992"/>
     </delo>
-    <delo mojID="31853">
+    <delo mojID="31853" cobiss="33061677">
         <naslov>Polish Americans 1854-1939</naslov>
         <cit did="2920" cid="40" avtor0="Brožek Andrzej" naslov0="Polish Americans 1854-1939"
             pubPlace="Warszawa" publisher="Interpress" year="1985"/>
@@ -5919,7 +5919,7 @@
             naslov1="diplomska naloga" pubPlace="Milano"
             publisher="Università degli studi di Milano" year="1995"/>
     </delo>
-    <delo mojID="31864">
+    <delo mojID="31864" cobiss="1187795">
         <naslov>Politica, governo e istituzioni nell'Europa moderna</naslov>
         <cit did="1995" cid="31" avtor0="De Benedictis A."
             naslov0="Politica, governo e istituzioni nell'Europa moderna" pubPlace="Bologna"
@@ -5963,14 +5963,14 @@
             naslov0="Political Arrests and Court Cases from August 1940 to September 1941"
             source="Estonia" page="319-360"/>
     </delo>
-    <delo mojID="31873">
+    <delo mojID="31873" cobiss="19318109">
         <naslov>Political Change in Eastern Europe since 1989: Prospects for Liberal
                         Democracy and a Market Economy</naslov>
         <cit did="2850" cid="17" avtor0="Zuzowski Robert"
             naslov0="Political Change in Eastern Europe since 1989: Prospects for Liberal Democracy and a Market Economy"
             pubPlace="London" publisher="Praeger" year="1998"/>
     </delo>
-    <delo mojID="31874">
+    <delo mojID="31874" cobiss="16302685">
         <naslov>Political Community at the International Level: Problems of Definition and
                         Measurement</naslov>
         <cit did="2746" cid="18" avtor0="Deutch Karl"
@@ -5982,13 +5982,13 @@
         <cit did="2911" cid="5" avtor0="Nagel Joane" naslov0="Political competition and ethnicity"
             year="1986" page="93-108"/>
     </delo>
-    <delo mojID="31878">
+    <delo mojID="31878" cobiss="113293">
         <naslov>Political Essays</naslov>
         <cit did="2321" cid="9" avtor0="Hume D." naslov0="Political Essays"
             pubPlace="Cambridge - New York - Melbourne" publisher="Cambridge University Press"
             year="1994"/>
     </delo>
-    <delo mojID="31879">
+    <delo mojID="31879" cobiss="2074210">
         <naslov>Political Geography</naslov>
         <cit did="3476" cid="8" avtor0="Glassner M. I." naslov0="Political Geography"
             pubPlace="New York" publisher="John Wiley and Sons" year="1996"/>
@@ -6004,7 +6004,7 @@
         <cit did="2006" cid="2" avtor0="Berlin I." naslov0="Political Ideas in the Romantic Age"
             pubPlace="Princeton in Oxford" publisher="Princeton University" year="2006"/>
     </delo>
-    <delo mojID="31884">
+    <delo mojID="31884" cobiss="2419025">
         <naslov>Political Liberalism</naslov>
         <cit did="3043" cid="28" avtor0="Rawls J." naslov0="Political Liberalism"
             pubPlace="New York" publisher="Columbia University Press" year="1993"/>
@@ -6046,7 +6046,7 @@
             pubPlace="The Hague, London, New York" publisher="Kluwer Law International" year="2003"
             page="135-152"/>
     </delo>
-    <delo mojID="31893">
+    <delo mojID="31893" cobiss="25159773">
         <naslov>Political Theory and the European Constitution</naslov>
         <cit did="51" cid="309" avtor0="Dobson Lynn, Follesdall Andreas"
             naslov0="Political Theory and the European Constitution" pubPlace="Abingdon, New York"
@@ -6085,7 +6085,7 @@
             naslov0="Politická kultura nemeckých aktivistických stran v Československu 1918-1938"
             pubPlace="Praha" publisher="Karolinum" year="1999" page="45-48"/>
     </delo>
-    <delo mojID="31901">
+    <delo mojID="31901" cobiss="17645405">
         <naslov>Politics</naslov>
         <cit did="2748" cid="9" avtor0="Heywood Andrew" naslov0="Politics"
             pubPlace="Houndsmill, Basingstoke, Hampshire and London" publisher="Macmillan"
@@ -6101,7 +6101,7 @@
         <cit did="272" cid="242" avtor0="Aristotle" naslov0="Politics" pubPlace="London - Cambridge"
             year="1950"/>
     </delo>
-    <delo mojID="31903">
+    <delo mojID="31903" cobiss="874711">
         <naslov>Politics Among Nations: The Struggle for Power and Peace</naslov>
         <cit did="2749" cid="4" avtor0="Morgenthau Hans J."
             naslov0="Politics Among Nations: The Struggle for Power and Peace"
@@ -6113,7 +6113,7 @@
             naslov0="Politics and Nationalism within the Yugoslav People's Army"
             source="Journal of Croatian Studies" pubPlace="New York" year="1979" page="131-181"/>
     </delo>
-    <delo mojID="31905">
+    <delo mojID="31905" cobiss="334280">
         <naslov>Politics and the bureaucracy: Policymaking in the fourth branch of
                         government</naslov>
         <cit did="2928" cid="2" avtor0="Meier Kenneth J."
@@ -6149,7 +6149,7 @@
             naslov0="Politics in Israel. The second generation" pubPlace="Chatham, NJ"
             publisher="Chatham House" year="1985"/>
     </delo>
-    <delo mojID="31911">
+    <delo mojID="31911" cobiss="157805">
         <naslov>Politics in the vernacular</naslov>
         <cit did="3151" cid="23" avtor0="Kymlicka Will" naslov0="Politics in the vernacular"
             pubPlace="Oxford" publisher="Oxford University Press" year="2001"/>
@@ -6188,7 +6188,7 @@
             source="Festschrift für Gerald Stourzh zum 70. Geburtstag" pubPlace="Wien-Köln-Weimar"
             year="1999" page="19-36"/>
     </delo>
-    <delo mojID="31919">
+    <delo mojID="31919" cobiss="6238285">
         <naslov>Politika cijena u Demokratskoj Federativnoj Jugoslaviji 1945</naslov>
         <cit did="2017" cid="43" avtor0="Kržišnik Bukić Vera"
             naslov0="Politika cijena u Demokratskoj Federativnoj Jugoslaviji 1945"
@@ -6207,7 +6207,7 @@
             source="Filozofska revija za učitelje filozofije, dijake in študente" year="1998"
             volume="5" issue="17" page="37-43"/>
     </delo>
-    <delo mojID="31924">
+    <delo mojID="31924" cobiss="14987010">
         <naslov>Politika i neke mjere francuza u zdravstvu Ilirskih provincija s obzirom na
                         Istru</naslov>
         <cit did="3516" cid="9" avtor0="Erceg I."
@@ -6215,25 +6215,25 @@
             source="Rasprave građa za povijest znanosti, knjiga 5" pubPlace="Zagreb" year="1989"
             page="133-182"/>
     </delo>
-    <delo mojID="31926">
+    <delo mojID="31926" cobiss="17237760">
         <naslov>Politika in morala</naslov>
         <cit did="272" cid="274" avtor0="Machiavelli N." naslov0="Politika in morala"
             pubPlace="Ljubljana" year="1990" page="145"/>
     </delo>
-    <delo mojID="31927">
+    <delo mojID="31927" cobiss="60653056">
         <naslov>Politika in politično izrazoslovje ob koncu druge svetovne vojne</naslov>
         <cit did="1862" cid="3" avtor0="Vodušek Starič Jerca"
             naslov0="Politika in politično izrazoslovje ob koncu druge svetovne vojne"
             pubPlace="Celje" year="1994" page="275"/>
     </delo>
-    <delo mojID="31929">
+    <delo mojID="31929" cobiss="818131">
         <naslov>Politika Italije do slovenske manjšine</naslov>
         <cit did="1484" cid="19" avtor0="Pirjevec Jože"
             naslov0="Politika Italije do slovenske manjšine"
             source="Na oni strani meje: Slovenska manjšina v Italiji in njen pravni položaj: zgodovinski in pravni pregled 1866-2004"
             pubPlace="Koper" publisher="Založba Annales" year="2004" page="13-30"/>
     </delo>
-    <delo mojID="31930">
+    <delo mojID="31930" cobiss="221000960">
         <naslov>Politika izbira in vzame samo tisto, kar trenutno želi in potrebuje</naslov>
         <cit did="644" cid="10" avtor0="Pušenjak Dejan"
             naslov0="Politika izbira in vzame samo tisto, kar trenutno želi in potrebuje"
@@ -6295,21 +6295,21 @@
             naslov0="Politika Slovencev v Trstu v Zadnjem desetletju prejšnjega stoletja"
             source="Letopis za leto 1972-1976" pubPlace="Trst" year="1977" page="61-77"/>
     </delo>
-    <delo mojID="31950">
+    <delo mojID="31950" cobiss="23839277">
         <naslov>Politika Socialistične zveze delovnega ljudstva Slovenije do
                         zdomstva</naslov>
         <cit did="2559" cid="2" avtor0="Franjič Lidija"
             naslov0="Politika Socialistične zveze delovnega ljudstva Slovenije do zdomstva"
             source="Dve domovini" year="2005" issue="21"/>
     </delo>
-    <delo mojID="31955">
+    <delo mojID="31955" cobiss="2123636">
         <naslov>Politika življenjske ravni v prvem desetletju socializma v
                         Jugoslaviji</naslov>
         <cit did="2017" cid="8" avtor0="Čepič Zdenko"
             naslov0="Politika življenjske ravni v prvem desetletju socializma v Jugoslaviji"
             source="Prispevki za novejšo zgodovino" year="2006" issue="1" page="397-411"/>
     </delo>
-    <delo mojID="31956">
+    <delo mojID="31956" cobiss="214615040">
         <naslov>Politike promocije manjšinskih jezikov: primer slovenske jezikovne manjšine
                         v Italiji</naslov>
         <cit did="2753" cid="9" avtor0="Brezigar Sara"
@@ -6329,14 +6329,14 @@
             source="Annales de Demograpie Historique" pubPlace="Paris" year="1982" volume="17"
             issue="1" page="77-90"/>
     </delo>
-    <delo mojID="31961">
+    <delo mojID="31961" cobiss="1288148">
         <naslov>Politische Gedenktage und die Kärntner Presse (1918-1945)</naslov>
         <cit did="2856" cid="15" avtor0="Kluger Robert"
             naslov0="Politische Gedenktage und die Kärntner Presse (1918-1945)"
             source="Politische Festtagskultur in Kärnten - Einheit ohne Einigkeit?; Kärnten und die nationale Frage, Bd. 3"
             pubPlace="Klagenfurt, Ljubljana, Wien" year="2005" page="9-71"/>
     </delo>
-    <delo mojID="31962">
+    <delo mojID="31962" cobiss="1428101">
         <naslov>Politische Geographie Kroatiens</naslov>
         <cit did="334" cid="269" avtor0="Schneefuss Walter"
             naslov0="Politische Geographie Kroatiens" source="Süddeutsches Institutt"
@@ -6376,14 +6376,14 @@
             naslov0="Politisch-historische Landesbeschreibung von Südtirol, Insbruck 1937-1939"
             page="405"/>
     </delo>
-    <delo mojID="31969">
+    <delo mojID="31969" cobiss="2547828">
         <naslov>Politizacija jugoslovanske vojske v obdobju demokratizacije in osamosvajanja
                         Slovenije</naslov>
         <cit did="2384" cid="26" avtor0="Čepič Zdenko"
             naslov0="Politizacija jugoslovanske vojske v obdobju demokratizacije in osamosvajanja Slovenije"
             source="Prispevki za novejšo zgodovino" year="2008" issue="2" page="127-129"/>
     </delo>
-    <delo mojID="31973">
+    <delo mojID="31973" cobiss="241780">
         <naslov>PolitiÄ&#x8d;no Å¾ivljenje v coni A Julijske krajine z vidika
                         italijansko-slovenskega sodelovanja : SIAU od osvoboditve do uveljavitve
                         mirovne pogodbe</naslov>
@@ -6398,7 +6398,7 @@
             source="Tokovi istorije" pubPlace="Beograd" publisher="INIS" year="2008" issue="3-4"
             page="46-59"/>
     </delo>
-    <delo mojID="31976">
+    <delo mojID="31976" cobiss="16290397">
         <naslov>Politička i ekonomska osnova narodne vlasti u Jugoslaviji za vreme
                         obnove</naslov>
         <cit did="844" cid="126" avtor0="Petranović Branko"
@@ -6418,7 +6418,7 @@
             source="Simpozijum o Ilirima u antičko doba" pubPlace="Sarajevo" year="1967"
             page="11-31"/>
     </delo>
-    <delo mojID="31980">
+    <delo mojID="31980" cobiss="24138589">
         <naslov>Politička realnost jugoslavenstva</naslov>
         <cit did="2178" cid="4" avtor0="Džaja S." naslov0="Politička realnost jugoslavenstva"
             pubPlace="Srajevo-Zagreb" year="2004" page="8"/>
@@ -6431,7 +6431,7 @@
             pubPlace="Beograd" publisher="Institut za savremenu istoriju" year="1969" page="362-363"
         />
     </delo>
-    <delo mojID="31982">
+    <delo mojID="31982" cobiss="36235521">
         <naslov>Političke i pravne prilike za vreme privremene vlade DFJ</naslov>
         <cit did="2096" cid="12" avtor0="Petranovič B."
             naslov0="Političke i pravne prilike za vreme privremene vlade DFJ" pubPlace="Beograd"
@@ -6487,13 +6487,13 @@
             naslov0="Politički razvitak Bosne i Hercegovine u postdejtonskom periodu (The Post-Dayton Political Development of Bosnia &amp;amp; Herzegovina)"
             pubPlace="Sarajevo" publisher="TKD Šahinpašič" year="2005"/>
     </delo>
-    <delo mojID="31993">
+    <delo mojID="31993" cobiss="45450241">
         <naslov>Politički razvitak Hrvata: rasprave i eseji</naslov>
         <cit did="2803" cid="56" avtor0="Tomašić Dinko"
             naslov0="Politički razvitak Hrvata: rasprave i eseji" pubPlace="Zagreb"
             publisher="Hrvatsko sociološko društvo, Naklada Jesenski i Turk" year="1997"/>
     </delo>
-    <delo mojID="31994">
+    <delo mojID="31994" cobiss="112305152">
         <naslov>Politički spisi</naslov>
         <cit did="1760" cid="185" avtor0="Starčević Ante" naslov0="Politički spisi"
             pubPlace="Zagreb" year="1971"/>
@@ -6506,7 +6506,7 @@
             source="Jadranski zbornik" pubPlace="Rijeka - Pula" year="1963" volume="6" issue="5-70"
         />
     </delo>
-    <delo mojID="31996">
+    <delo mojID="31996" cobiss="1171572">
         <naslov>Politički sukobi u Jugoslaviji 1925-1928</naslov>
         <cit did="291" cid="36" avtor0="Jovanović Nadežda"
             naslov0="Politički sukobi u Jugoslaviji 1925-1928" pubPlace="Beograd" year="1974"
@@ -6530,13 +6530,13 @@
             source="Prinosi za proučavanje života i djela dra Ive Pilara 1" year="2001"
             page="133-170"/>
     </delo>
-    <delo mojID="32001">
+    <delo mojID="32001" cobiss="9125425">
         <naslov>Političko društvo za Hrvate i Slovence u Istri</naslov>
         <cit did="3072" cid="145" avtor0="Klaić Željko"
             naslov0="Političko društvo za Hrvate i Slovence u Istri" source="Istarska Danica"
             year="2001" page="84-89"/>
     </delo>
-    <delo mojID="32002">
+    <delo mojID="32002" cobiss="146188">
         <naslov>Političko nasilje</naslov>
         <cit did="193" cid="2" avtor0="Simeunović Dragan" naslov0="Političko nasilje"
             pubPlace="Beograd" publisher="Radnička štampa" year="1989"/>
@@ -6567,7 +6567,7 @@
             source="Slovenski narod" pubPlace="Ljubljana" year="2013" volume="9" issue="49" page="1"
         />
     </delo>
-    <delo mojID="32008">
+    <delo mojID="32008" cobiss="225265152">
         <naslov>Politična ideologija v učbenikih zgodovine v socializmu in
                         postsocializmu</naslov>
         <cit did="2577" cid="7" avtor0="Verbič Špela"
@@ -6586,25 +6586,25 @@
         <cit did="2142" cid="18" avtor0="Pucelj Ivan" naslov0="Politična linija SLS" source="Jutro"
             year="2011"/>
     </delo>
-    <delo mojID="32017">
+    <delo mojID="32017" cobiss="3392301">
         <naslov>Politična migracija</naslov>
         <cit did="2558" cid="17" avtor0="Švent Rozina et al." naslov0="Politična migracija"
             source="Enciklopedija Slovenije zv. 9." pubPlace="Ljubljana" publisher="MK" year="1995"
             page="77-81"/>
     </delo>
-    <delo mojID="32027">
+    <delo mojID="32027" cobiss="2007924">
         <naslov>Politična sprostitev</naslov>
         <cit did="2287" cid="9" avtor0="Čepič Zdenko" naslov0="Politična sprostitev"
             source="Slovenska novejša zgodovina 2" pubPlace="Ljubljana"
             publisher="Inštitut za novejšo zgodovino, Mladinska knjiga" year="2005"/>
     </delo>
-    <delo mojID="32028">
+    <delo mojID="32028" cobiss="119542272">
         <naslov>Politična stabilnost v novih demokracijah</naslov>
         <cit did="2012" cid="39" avtor0="Tomšič M."
             naslov0="Politična stabilnost v novih demokracijah" pubPlace="Ljubljana" publisher="ZPS"
             year="2002"/>
     </delo>
-    <delo mojID="32029">
+    <delo mojID="32029" cobiss="200564">
         <naslov>Politična stranka</naslov>
         <cit did="2618" cid="183" avtor0="Melik Vasilij et al." naslov0="Politična stranka"
             source="Enciklopedija Slovenije, 9." pubPlace="Ljubljana" year="1995" page="81-87"/>
@@ -6614,49 +6614,49 @@
         <cit did="2968" cid="69" avtor0="Južnič Stane" naslov0="Politična zgodovina"
             pubPlace="Maribor" publisher="Obzorja" year="1989"/>
     </delo>
-    <delo mojID="32040">
+    <delo mojID="32040" cobiss="545670">
         <naslov>Politične konstrukcije azila: Evropska unija in Slovenija</naslov>
         <cit did="2823" cid="163" avtor0="Vrečer Natalija"
             naslov0="Politične konstrukcije azila: Evropska unija in Slovenija"
             source="Obrazi naie Evrope" pubPlace="Ljubljana" publisher="Mirovni inštitut"
             year="2001" page="69-88"/>
     </delo>
-    <delo mojID="32041">
+    <delo mojID="32041" cobiss="42617088">
         <naslov>Politične organizacije v Sloveniji</naslov>
         <cit did="2712" cid="167" avtor0="Šulek Katarina,  Korade Dragica"
             naslov0="Politične organizacije v Sloveniji" source="Večer, 25. 6. 1991" year="1991"/>
     </delo>
-    <delo mojID="32043">
+    <delo mojID="32043" cobiss="4560717">
         <naslov>Politične razmere na Kočevskem v letu 1848</naslov>
         <cit did="844" cid="74" avtor0="Granda Stane"
             naslov0="Politične razmere na Kočevskem v letu 1848" source="Kronika" year="1995"
             volume="43" issue="3" page="23-33"/>
     </delo>
-    <delo mojID="32046">
+    <delo mojID="32046" cobiss="22937698">
         <naslov>Politične razmere na Slovenskem od obnove ustavnega življenja (1860/61) do
                         dualizma (1867)</naslov>
         <cit did="1607" cid="27" avtor0="Stariha Gorazd"
             naslov0="Politične razmere na Slovenskem od obnove ustavnega življenja (1860/61) do dualizma (1867)"
             pubPlace="Ovsiše" year="2003"/>
     </delo>
-    <delo mojID="32047">
+    <delo mojID="32047" cobiss="49844736">
         <naslov>Politične razmere na Slovenskem v Wolfovem času do leta 1848</naslov>
         <cit did="2578" cid="18" avtor0="Melik Vasilij"
             naslov0="Politične razmere na Slovenskem v Wolfovem času do leta 1848"
             source="Wolfov simpozij v Rimu" pubPlace="Celje" year="1994" page="17"/>
     </delo>
-    <delo mojID="32051">
+    <delo mojID="32051" cobiss="8157741">
         <naslov>Politične razmere v Avstriji pred sto leti</naslov>
         <cit did="1783" cid="120" avtor0="Melik Vasilij"
             naslov0="Politične razmere v Avstriji pred sto leti" source="ČZN" year="1998" issue="1"
             page="34"/>
     </delo>
-    <delo mojID="32055">
+    <delo mojID="32055" cobiss="115803392">
         <naslov>Politične stranke</naslov>
         <cit did="2712" cid="12" avtor0="Fink Hafner Danica" naslov0="Politične stranke"
             source="Fakulteta za družbene vede in novinarstvo" pubPlace="Ljubljana" year="2001"/>
     </delo>
-    <delo mojID="32056">
+    <delo mojID="32056" cobiss="15687517">
         <naslov>Politične stranke - dejavnik (ne)stabilnosti demokracije</naslov>
         <cit did="1280" cid="6" avtor0="Kranjc Stane"
             naslov0="Politične stranke - dejavnik (ne)stabilnosti demokracije"
@@ -6665,14 +6665,14 @@
             pubPlace="Ljubljana" publisher="Slovensko politološko društvo" year="1993" page="70, 78"
         />
     </delo>
-    <delo mojID="32062">
+    <delo mojID="32062" cobiss="1562163">
         <naslov>Politični in socialni razvoj Prekmurja med obema vojnama</naslov>
         <cit did="3125" cid="5" avtor0="Cačinovič Rudi"
             naslov0="Politični in socialni razvoj Prekmurja med obema vojnama"
             source="Prekmurski Slovenci v zgodovini: zbornik razprav o posebnih potezah zgodovinskega razvoja Prekmurja"
             pubPlace="Murska Sobota" publisher="Pomurska založba" year="1961" page="117-129"/>
     </delo>
-    <delo mojID="32063">
+    <delo mojID="32063" cobiss="101323520">
         <naslov>Politični katekizem za Slovence</naslov>
         <cit did="629" cid="155" avtor0="Einspieler Andrej"
             naslov0="Politični katekizem za Slovence" source="Slovenec (23. 9. 1865)"
@@ -6683,7 +6683,7 @@
         <cit did="2623" cid="234" avtor0="Stele France" naslov0="Politični okraj Kamnik"
             pubPlace="Ljubljana" year="1934"/>
     </delo>
-    <delo mojID="32070">
+    <delo mojID="32070" cobiss="13872640">
         <naslov>Politični pluralizem: stvarnost in perspektive</naslov>
         <cit did="2888" cid="13" avtor0="Žagar Mitja"
             naslov0="Politični pluralizem: stvarnost in perspektive"
@@ -6691,7 +6691,7 @@
             pubPlace="Ljubljana" publisher="Slovensko politološko društvo" year="1989"
             page="109-126"/>
     </delo>
-    <delo mojID="32071">
+    <delo mojID="32071" cobiss="1007732">
         <naslov>Politični pritiski in izključevanja učiteljev in sodelavcev z Univerze v
                         Ljubljani: poročilo Komisije za rehabilitacijo univerzitetnih učiteljev in
                         sodelavcev</naslov>
@@ -6711,7 +6711,7 @@
             naslov0="Politični sistem civilne družbe, Prispevki za slovenski nacionalni program"
             source="Nova revija" year="1987" issue="57" page="130-143"/>
     </delo>
-    <delo mojID="32080">
+    <delo mojID="32080" cobiss="55571201">
         <naslov>Politični sistem Jugoslavije : idejne in organizacijske osnove političnega
                         sistema SFRJ</naslov>
         <cit did="430" cid="56" avtor0="Kušej Gorazd"
@@ -6731,14 +6731,14 @@
             source="Slovenska novejša zgodovina : od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1848–1992"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="32085">
+    <delo mojID="32085" cobiss="227506176">
         <naslov>Politični subjekti in osamosvojitev Slovenije 1989-1992</naslov>
         <cit did="1523" cid="2" avtor0="Pesek Rosvita"
             naslov0="Politični subjekti in osamosvojitev Slovenije 1989-1992"
             naslov1="doktorska disertacija" pubPlace="Ljubljana" publisher="FF" year="2006"
             page="205"/>
     </delo>
-    <delo mojID="32087">
+    <delo mojID="32087" cobiss="8658509">
         <naslov>Politični umor Radia dva</naslov>
         <cit did="212" cid="102" avtor0="Sommeregger J. Borut" naslov0="Politični umor Radia dva"
             source="Naš tednik" pubPlace="Celovec" year="0" volume="55" issue="4" page="10"/>
@@ -6756,14 +6756,14 @@
             source="France Filipič: Ob razpotjih zgodovine" pubPlace="Maribor" year="1994"
             page="267"/>
     </delo>
-    <delo mojID="32091">
+    <delo mojID="32091" cobiss="5298692">
         <naslov>Politično delo Louisa Adamiča</naslov>
         <cit did="2745" cid="10" avtor0="Klemenčič Matjaž" naslov0="Politično delo Louisa Adamiča"
             source="Teorija in praksa" pubPlace="Ljubljana"
             publisher="Fakulteta za sociologijo, politične vede in novinarstvo Univerze Edvarda Kardelja v Ljubljani"
             year="1981" volume="18" issue="9" page="1054-1069"/>
     </delo>
-    <delo mojID="32094">
+    <delo mojID="32094" cobiss="12125704">
         <naslov>Politično delovanje dr. Miroslava Ploja med leti 1900-1914 v luči časnikov
                         Straža in Slovenski gospodar</naslov>
         <cit did="1630" cid="3" avtor0="Brenčič Miha"
@@ -6771,7 +6771,7 @@
             naslov1="Diplomsko delo" pubPlace="Maribor" publisher="Pedagoška fakulteta Maribor"
             year="2002"/>
     </delo>
-    <delo mojID="32095">
+    <delo mojID="32095" cobiss="58993153">
         <naslov>Politično delovanje karpatskih Nemcev</naslov>
         <cit did="1626" cid="185" avtor0="Ravbar Matjaž"
             naslov0="Politično delovanje karpatskih Nemcev" source="ČZN" year="2007" issue="1"
@@ -6783,7 +6783,7 @@
             naslov0="Politično delovanje Prežihovega Voranca od leta 1920 do leta 1930"
             source="Prežihove svečanosti" pubPlace="Ravne na Koroškem" year="1979" page="95-99"/>
     </delo>
-    <delo mojID="32098">
+    <delo mojID="32098" cobiss="1175924">
         <naslov>Politično delovanje Virgila Ščeka po maju 1945</naslov>
         <cit did="1385" cid="13" avtor0="Troha Nevenka"
             naslov0="Politično delovanje Virgila Ščeka po maju 1945"
@@ -6811,7 +6811,7 @@
             naslov0="Politično prebujeni obrtniki ustanovili svojo stranko"
             source="Dnevnik, 12.11 1989" year="1989"/>
     </delo>
-    <delo mojID="32105">
+    <delo mojID="32105" cobiss="13654317">
         <naslov>Politično uradništvo poknežene grofije Goriške in Gradiščanske v drugi
                         polovici 19. stoletja</naslov>
         <cit did="1315" cid="10" avtor0="Holz Eva"
@@ -6826,7 +6826,7 @@
             source="Zbornik referatov" pubPlace="Maribor" publisher="Pedagoška fakulteta v Mariboru"
             year="1998"/>
     </delo>
-    <delo mojID="32112">
+    <delo mojID="32112" cobiss="40720738">
         <naslov>Političnogeografska analiza Balkana</naslov>
         <cit did="2665" cid="30" avtor0="Zupančič Jernej"
             naslov0="Političnogeografska analiza Balkana" source="Dela" year="2009" issue="32"
@@ -6877,13 +6877,13 @@
             source="Lavori preparatorii del Codice di procedura penale per il Regno d'Italia: Atti della Commissione istituita con decreto 3 ott. 1898 dal Ministro di Grazia e Giustizia e dei Culti"
             pubPlace="Roma" publisher="Tip. della Camera dei deputati" year="0"/>
     </delo>
-    <delo mojID="32123">
+    <delo mojID="32123" cobiss="246397184">
         <naslov>Poliške zgodbe: ustno izročilo iz vasi Police pri Cerknem</naslov>
         <cit did="1742" cid="15" avtor0="Flego Stanko"
             naslov0="Poliške zgodbe: ustno izročilo iz vasi Police pri Cerknem"
             source="Idrijski razgledi" year="2006" volume="51" issue="1"/>
     </delo>
-    <delo mojID="32124">
+    <delo mojID="32124" cobiss="26404141">
         <naslov>Poliški tročan</naslov>
         <cit did="1742" cid="37" avtor0="Pleterski Andrej" naslov0="Poliški tročan"
             source="Studia mythologica Slavica" year="2006" volume="9"/>
@@ -6907,7 +6907,7 @@
             naslov0="Poljedeljsko in vinogradniško izrazje v slovenski Istri" pubPlace="Koper"
             publisher="Annales" year="2002"/>
     </delo>
-    <delo mojID="32128">
+    <delo mojID="32128" cobiss="4567838">
         <naslov>Poljedelska orodja</naslov>
         <cit did="2127" cid="4" avtor0="Grafenauer Bogo" naslov0="Poljedelska orodja"
             source="Gospodarska in družbena zgodovina Slovencev. Agrarna zgodovina, I. zvezek, agrarno gospodarstvo'"
@@ -6921,7 +6921,7 @@
             naslov0="Poljedelstvo in travništvo Dravske banovine"
             source="Kmetijstvo Dravske banovine" pubPlace="Ljubljana" year="1933" page="17-35"/>
     </delo>
-    <delo mojID="32132">
+    <delo mojID="32132" cobiss="239982592">
         <naslov>Poljedelstvo na Slovenskem v luči nekaterih desetinskih predpisov</naslov>
         <cit did="2608" cid="36" avtor0="Vilfan Sergij"
             naslov0="Poljedelstvo na Slovenskem v luči nekaterih desetinskih predpisov"
@@ -6943,7 +6943,7 @@
         <cit did="1748" cid="959" avtor0="Syme R." naslov0="Pollio, Saloninus and Salonae"
             source="The Classical Quarterly" year="1937" volume="31" page="39-48"/>
     </delo>
-    <delo mojID="32136">
+    <delo mojID="32136" cobiss="24911874">
         <naslov>Polmesečaste fibule: O kulturnih povezavah med Egejo in Caput
                         Adriae</naslov>
         <cit did="725" cid="48" avtor0="Teržan B."
@@ -6998,7 +6998,7 @@
             naslov1="Zbornik za umetnostno zgodovino, n.v. V/VI" pubPlace="Ljubljana"
             publisher="Državna založba Slovenije" year="1959" page="346"/>
     </delo>
-    <delo mojID="32147">
+    <delo mojID="32147" cobiss="11347533">
         <naslov>Položaj i prava nacionalnih manjina u Republici Sloveniji</naslov>
         <cit did="2709" cid="27" avtor0="Žagar Mitja"
             naslov0="Položaj i prava nacionalnih manjina u Republici Sloveniji"
@@ -7025,7 +7025,7 @@
             naslov0="Položaj italijanske narodne skupnosti v Republiki Sloveniji"
             source="Http://lgi.osi.hu/publications/ 2000/26/07.PDF" year="2000"/>
     </delo>
-    <delo mojID="32153">
+    <delo mojID="32153" cobiss="6661453">
         <naslov>Položaj judovske skupnosti danes</naslov>
         <cit did="504" cid="14" avtor0="Ravitz Matija" naslov0="Položaj judovske skupnosti danes"
             source="Razgledi" year="0" issue="19" page="13"/>
@@ -7051,7 +7051,7 @@
             source="Demokratija i nacionalne manjine" pubPlace="Beograd, Ounta, Niš"
             publisher="Centar za iztraživanje etniciteta" year="2002" page="13-68"/>
     </delo>
-    <delo mojID="32162">
+    <delo mojID="32162" cobiss="25230637">
         <naslov>Položaj priseljenskih kultur v Sloveniji: identitetni vidiki</naslov>
         <cit did="1554" cid="4" avtor0="Žitnik Janja"
             naslov0="Položaj priseljenskih kultur v Sloveniji: identitetni vidiki" year="2006"
@@ -7082,12 +7082,12 @@
         <cit did="3241" cid="228" avtor0="Mohorič Ivan" naslov0="Položaj trgovstva v Sloveniji"
             source="TT" year="1926" issue="5"/>
     </delo>
-    <delo mojID="32170">
+    <delo mojID="32170" cobiss="15630599">
         <naslov>Položaj žena u Dubrovniku u XIII i XIV veku</naslov>
         <cit did="311" cid="10" avtor0="Dinić Knežević D."
             naslov0="Položaj žena u Dubrovniku u XIII i XIV veku" pubPlace="Beogradu" year="1974"/>
     </delo>
-    <delo mojID="32171">
+    <delo mojID="32171" cobiss="1767477">
         <naslov>Položaj ženske v celjski industriji v tridesetih letih 20. stoletja</naslov>
         <cit did="3241" cid="319" avtor0="Fugger Germadnik Rolanda"
             naslov0="Položaj ženske v celjski industriji v tridesetih letih 20. stoletja"
@@ -7157,7 +7157,7 @@
             naslov0="Poltika sporazuma: Dnevniške beleške 1939-1941: Londonske beleške 1944-1945"
             pubPlace="Novi Sad" year="1998" page="192-199"/>
     </delo>
-    <delo mojID="32185">
+    <delo mojID="32185" cobiss="2018831">
         <naslov>Polyarchy : Participation and Opposition</naslov>
         <cit did="2382" cid="16" avtor0="Dahl Robert A."
             naslov0="Polyarchy : Participation and Opposition" pubPlace="New Haven, London"
@@ -7175,7 +7175,7 @@
             naslov0="Polybius, Demetrius of Pharus, and the Origins of the Second Illyrian War"
             source="Class. Philology" year="1994" volume="89" page="46-59"/>
     </delo>
-    <delo mojID="32188">
+    <delo mojID="32188" cobiss="5217325">
         <naslov>Polydor pl. Montagnana, novomeški prošt</naslov>
         <cit did="1298" cid="32" avtor0="Rajšp Vincenc"
             naslov0="Polydor pl. Montagnana, novomeški prošt"
@@ -7183,39 +7183,39 @@
             pubPlace="Novo mesto" publisher="Tiskarna Novo mesto, Dolenjska založba" year="1997"
             page="76"/>
     </delo>
-    <delo mojID="32189">
+    <delo mojID="32189" cobiss="4890121">
         <naslov>Pomaci</naslov>
         <cit did="2179" cid="12" avtor0="Janša Janez" naslov0="Pomaci" pubPlace="Zagreb" year="1993"
         />
     </delo>
-    <delo mojID="32190">
+    <delo mojID="32190" cobiss="14544358">
         <naslov>Pomanjkanje drobiža sredi 19. stoletja</naslov>
         <cit did="663" cid="56" avtor0="Pančur Andrej"
             naslov0="Pomanjkanje drobiža sredi 19. stoletja" source="Bančni vestnik" year="2004"
             issue="3" page="56-57"/>
     </delo>
-    <delo mojID="32191">
+    <delo mojID="32191" cobiss="11178550">
         <naslov>Pomembnejše gradnje v Kranju v tridesetih letih prejšnjega stoletja</naslov>
         <cit did="422" cid="40" avtor0="Žontar Majda"
             naslov0="Pomembnejše gradnje v Kranju v tridesetih letih prejšnjega stoletja"
             source="Kranjski zbornik 2005" pubPlace="Kranj" publisher="Mestna občina Kranj"
             year="2005" page="87-96"/>
     </delo>
-    <delo mojID="32192">
+    <delo mojID="32192" cobiss="21536301">
         <naslov>Pomembnejši slovenski biografski prispevki o misijonarju in izseljenskem
                         duhovniku Francu Pircu</naslov>
         <cit did="2837" cid="43" avtor0="Vovko Andrej"
             naslov0="Pomembnejši slovenski biografski prispevki o misijonarju in izseljenskem duhovniku Francu Pircu"
             source="Dve domovini" pubPlace="Ljubljana" year="2003" issue="18" page="8-24"/>
     </delo>
-    <delo mojID="32194">
+    <delo mojID="32194" cobiss="79840512">
         <naslov>Pomembni boji slovenske partizanske vojske</naslov>
         <cit did="634" cid="37" avtor0="Guštin Damijan"
             naslov0="Pomembni boji slovenske partizanske vojske"
             source="Slovenska kronika XX. stoletja : 1941-1995" pubPlace="Ljubljana" year="1997"
             page="84-90"/>
     </delo>
-    <delo mojID="32195">
+    <delo mojID="32195" cobiss="3673398">
         <naslov>Pomembni kranjski zdravniki preteklosti</naslov>
         <cit did="2610" cid="128" avtor0="Žontar Jože"
             naslov0="Pomembni kranjski zdravniki preteklosti" source="Kranjski zbornik 1970"
@@ -7252,7 +7252,7 @@
         <cit did="2942" cid="11" avtor0="Jazbec Milan"
             naslov0="Pomen in prihodnost para-diplomacije" pubPlace="Ljubljana" year="2011"/>
     </delo>
-    <delo mojID="32210">
+    <delo mojID="32210" cobiss="483188">
         <naslov>Pomen in vloga študijskega odseka pri Pokrajinskem narodnoosvobodilnem
                         odboru za Slovensko Primorje 1945-1946</naslov>
         <cit did="1511" cid="121" avtor0="Gombač Metka"
@@ -7267,7 +7267,7 @@
             naslov0="Pomen Ipavcev in Šentjurja za slovensko kulturno zgodovino. Spomenica izdana ob 200-letnici Ipavčevega doma v Šentjurju pri Celju, poleti 1960"
             pubPlace="Ljubljana" year="1960"/>
     </delo>
-    <delo mojID="32213">
+    <delo mojID="32213" cobiss="8342272">
         <naslov>Pomen jezuitskega reda v verskem in kulturnem življenju na
                         Slovenskem</naslov>
         <cit did="259" cid="5" avtor0="Dolinar France M."
@@ -7300,7 +7300,7 @@
             source="Prva slovenska  vlada  1918-1921" pubPlace="Ljubljana"
             publisher="Znanstveno in publicistično središče" year="1992"/>
     </delo>
-    <delo mojID="32222">
+    <delo mojID="32222" cobiss="9045602">
         <naslov>Pomen prvih povojnih volitev in z njimi povezanih sprememb za žensko
                         emancipacijo v Sloveniji</naslov>
         <cit did="226" cid="169" avtor0="Repe Božo"
@@ -7308,7 +7308,7 @@
             source="Naše žene volijo" pubPlace="Ljubljana" publisher="Urad za žensko politiko"
             year="1999" page="96"/>
     </delo>
-    <delo mojID="32223">
+    <delo mojID="32223" cobiss="15334701">
         <naslov>Pomen prvih prekmurskih evangeličanskih piscev pri istovetenju ogrskih
                         Slovencev z osrednjeslovenskimi</naslov>
         <cit did="2612" cid="160" avtor0="Vugrinec Jože"
@@ -7332,31 +7332,31 @@
             pubPlace="Ljubljana" publisher="Inštitut za zgodovino delavskega gibanja" year="1966"
             volume="VI" issue="1–2" page="427–433"/>
     </delo>
-    <delo mojID="32228">
+    <delo mojID="32228" cobiss="383356">
         <naslov>Pomen samopojmovanja pri vzgoji in izobraževanju</naslov>
         <cit did="3189" cid="23" avtor0="Slivar B."
             naslov0="Pomen samopojmovanja pri vzgoji in izobraževanju" source="Educa" year="1995"
             volume="5" issue="4" page="211-218"/>
     </delo>
-    <delo mojID="32231">
+    <delo mojID="32231" cobiss="16012589">
         <naslov>Pomen ustoličenja koroških vojvod v slovenski zgodovini in njegova
                         problematika</naslov>
         <cit did="3257" cid="17" avtor0="Grafenauer Bogo"
             naslov0="Pomen ustoličenja koroških vojvod v slovenski zgodovini in njegova problematika"
             source="Kronika" year="1953" volume="1" page="111-119"/>
     </delo>
-    <delo mojID="32232">
+    <delo mojID="32232" cobiss="43252992">
         <naslov>Pomen v likovni umetnosti</naslov>
         <cit did="1930" cid="24" avtor0="Panofsky E." naslov0="Pomen v likovni umetnosti"
             pubPlace="Ljubljana" publisher="Studia Humanitatis" year="1994"/>
     </delo>
-    <delo mojID="32233">
+    <delo mojID="32233" cobiss="9601634">
         <naslov>Pomen volilne pravice za ženske</naslov>
         <cit did="226" cid="14" avtor0="Antić Milica G." naslov0="Pomen volilne pravice za ženske"
             source="Naše žene volijo" pubPlace="Ljubljana" publisher="Urad za žensko politiko"
             year="1999" page="16-19"/>
     </delo>
-    <delo mojID="32235">
+    <delo mojID="32235" cobiss="45452801">
         <naslov>Pomen čeških glasbenikov za razvoj glasbene kulture v Mariboru</naslov>
         <cit did="2196" cid="61" avtor0="Špendal Manica"
             naslov0="Pomen čeških glasbenikov za razvoj glasbene kulture v Mariboru"
@@ -7368,24 +7368,24 @@
             naslov0="Pomen ženskega dela v domačem in narodnem gospodarstvu" source="Ženski svet"
             year="1932" volume="10" page="80-83"/>
     </delo>
-    <delo mojID="32238">
+    <delo mojID="32238" cobiss="12561153">
         <naslov>Pomeni prostora: Ideologije v urbanizmu in arhitekturi</naslov>
         <cit did="1762" cid="133" avtor0="Rotar B."
             naslov0="Pomeni prostora: Ideologije v urbanizmu in arhitekturi" pubPlace="Ljubljana"
             publisher="Delavska enotnost" year="1981"/>
     </delo>
-    <delo mojID="32240">
+    <delo mojID="32240" cobiss="11049232">
         <naslov>Pomirenje Jugoslavije i SSSR-a 1953 - 1955</naslov>
         <cit did="2872" cid="83" avtor0="Luburić Radoica"
             naslov0="Pomirenje Jugoslavije i SSSR-a 1953 - 1955" pubPlace="Podgorica"
             publisher="Istorijski institut Črne Gore in Pobjeda" year="2007"/>
     </delo>
-    <delo mojID="32241">
+    <delo mojID="32241" cobiss="18706733">
         <naslov>Pomjan</naslov>
         <cit did="1950" cid="44" avtor0="Pavlin P." naslov0="Pomjan" source="Varstvo spomenikov"
             pubPlace="Ljubljana" year="1987" volume="29" page="250"/>
     </delo>
-    <delo mojID="32242">
+    <delo mojID="32242" cobiss="20187136">
         <naslov>Pomlad na obali</naslov>
         <cit did="2914" cid="6" avtor0="Pirih Aldo" naslov0="Pomlad na obali" pubPlace="Koper"
             year="1990" page="107"/>
@@ -7395,7 +7395,7 @@
         <cit did="905" cid="2" avtor0="Finžgar Saleški Fran" naslov0="Pomladni glasi"
             pubPlace="Ljubljana" publisher="Katoliška tiskarna" year="0" page="88"/>
     </delo>
-    <delo mojID="32250">
+    <delo mojID="32250" cobiss="5425970">
         <naslov>Pomniki revolucionarnega delavskega gibanja in narodnoosvobodilnega boja v
                         domžalski občini</naslov>
         <cit did="1903" cid="5" avtor0="Avbelj Franc"
@@ -7408,7 +7408,7 @@
             naslov0="Pomorska bitka kod Taurisa (Die Seeschlacht bei Tauris)"
             source="Prilozi po-vijesti otoka Hvara" year="1974" volume="4" page="5-15"/>
     </delo>
-    <delo mojID="32255">
+    <delo mojID="32255" cobiss="5767520">
         <naslov>Pomorski Split druge polovine XIV. st.</naslov>
         <cit did="309" cid="24" avtor0="Rismondo V."
             naslov0="Pomorski Split druge polovine XIV. st." naslov1="Notarske imbrevijature"
@@ -7427,7 +7427,7 @@
             naslov0="Pomorstvo Ardijejaca temelj njihove moći" source="Opuscula archaeologica"
             year="1992" volume="16" page="103-115"/>
     </delo>
-    <delo mojID="32258">
+    <delo mojID="32258" cobiss="4317233">
         <naslov>Pomorstvo in Slovenci, bibliografija razstave, Mestna knjižnica
                         Piran</naslov>
         <cit did="2636" cid="116" avtor0="Petaros Kmetec K."
@@ -7447,17 +7447,17 @@
             source="Pomorski zbornik povodom 20. godišnjice mornarice i pomorstva Jugoslavije 1942-1962, II."
             pubPlace="Zagreb" year="1962" page="1545-1553"/>
     </delo>
-    <delo mojID="32262">
+    <delo mojID="32262" cobiss="101918464">
         <naslov>Pomote in potvare za razne potrebe</naslov>
         <cit did="237" cid="24" avtor0="Kidrič France" naslov0="Pomote in potvare za razne potrebe"
             source="Naši zapiski" year="1909" volume="6-7"/>
     </delo>
-    <delo mojID="32263">
+    <delo mojID="32263" cobiss="183598">
         <naslov>Pomoćne istorijske nauke</naslov>
         <cit did="2627" cid="8" avtor0="Antoljak S." naslov0="Pomoćne istorijske nauke"
             pubPlace="Kraljevo" year="1971"/>
     </delo>
-    <delo mojID="32265">
+    <delo mojID="32265" cobiss="83108">
         <naslov>Pomoč novorojenčku in dojenčku</naslov>
         <cit did="1327" cid="12" avtor0="Dragaš Bogoljub" naslov0="Pomoč novorojenčku in dojenčku"
             naslov1="3. izdaja" pubPlace="Ljubljana" publisher="Jugoslovanska tiskarna" year="1938"
@@ -7477,7 +7477,7 @@
             source="Dopoguerra di confine / Povojni čas ob meji, IRSML - DSGS Université di Trieste"
             pubPlace="Trst" year="2007" page="185192"/>
     </delo>
-    <delo mojID="32270">
+    <delo mojID="32270" cobiss="89843200">
         <naslov>Pomožno šolstvo za slabonadarjeno deco v Jugoslaviji in drugih
                         državah</naslov>
         <cit did="165" cid="1" avtor0="Dimnik Ivan"
@@ -7489,7 +7489,7 @@
         <cit did="1748" cid="611" avtor0="Lica V." naslov0="Pompeius and Oroles" source="Tyche"
             year="1998" volume="13" page="135-151"/>
     </delo>
-    <delo mojID="32272">
+    <delo mojID="32272" cobiss="1787508">
         <naslov>Ponarejanje denarja</naslov>
         <cit did="298" cid="33" avtor0="Pančur Andrej" naslov0="Ponarejanje denarja"
             source="Acta Histriae" year="2004" issue="1" page="12, 20-21"/>
@@ -7513,7 +7513,7 @@
             naslov0="Ponašanje u vezi sa zdravljem djece školske dobi 2005/2006" pubPlace="Zagreb"
             publisher="Hrvatski zavod za javno zdravstvo" year="2008"/>
     </delo>
-    <delo mojID="32279">
+    <delo mojID="32279" cobiss="992979">
         <naslov>Ponižani, razžaljeni in izgnani : tihotapstvo in razbojništvo v beneški
                         Istri v novem veku</naslov>
         <cit did="378" cid="8" avtor0="Darovec Darko"
@@ -7526,17 +7526,17 @@
             naslov0="&#34;Ponosen sem na svoje varnostnike&#34;" source="Posavje v letih 1989-1991"
             year="2001" page="227-231"/>
     </delo>
-    <delo mojID="32281">
+    <delo mojID="32281" cobiss="6514688">
         <naslov>Ponovitev</naslov>
         <cit did="239" cid="10" avtor0="Handke" naslov0="Ponovitev" pubPlace="Ljubljana" year="1988"
         />
     </delo>
-    <delo mojID="32283">
+    <delo mojID="32283" cobiss="6653261">
         <naslov>Ponovno o teorijah kulture</naslov>
         <cit did="2853" cid="105" avtor0="Keesing Roger M." naslov0="Ponovno o teorijah kulture"
             source="Antropološki zvezki" year="1993" volume="3" page="23-32"/>
     </delo>
-    <delo mojID="32284">
+    <delo mojID="32284" cobiss="1287735">
         <naslov>Ponovno svobodni</naslov>
         <cit did="2287" cid="81" avtor0="Vojinović Aleksandar" naslov0="Ponovno svobodni"
             pubPlace="Ljubljana" publisher="Borec" year="1959"/>
@@ -7661,13 +7661,13 @@
             naslov0="Popis pučanstva župe Moščenice iz godine 1801: knjiga Stališ duša"
             pubPlace="Mošćenice" publisher="Katedra Čakavskog sabora" year="2005"/>
     </delo>
-    <delo mojID="32304">
+    <delo mojID="32304" cobiss="23802369">
         <naslov>Popisi i obračuni poreza u Hrvatskoj u XV i XVI stoljeću</naslov>
         <cit did="3465" cid="2" avtor0="Adamček Josip, Kampuš Ivan"
             naslov0="Popisi i obračuni poreza u Hrvatskoj u XV i XVI stoljeću" pubPlace="Zagreb"
             publisher="Sveučilište. Institut za hrvatsku povijest" year="1976"/>
     </delo>
-    <delo mojID="32305">
+    <delo mojID="32305" cobiss="72309">
         <naslov>Popisi prebivalstva: neizmerno velik zaklad Zgodovinskega arhiva
                         Ljubljana</naslov>
         <cit did="2018" cid="314" avtor0="Studen Andrej"
@@ -7693,23 +7693,23 @@
             naslov0="Popoldanski dogodki v Mariboru ob prevratu dne 1. novembra 1918"
             source="Spominski zbornik" page="22-26"/>
     </delo>
-    <delo mojID="32310">
+    <delo mojID="32310" cobiss="5139789">
         <naslov>Popoli e lingue d'Europa</naslov>
         <cit did="2929" cid="9" avtor0="Héraud Guy" naslov0="Popoli e lingue d'Europa"
             pubPlace="Milano" publisher="Ferro" year="1966"/>
     </delo>
-    <delo mojID="32313">
+    <delo mojID="32313" cobiss="39615489">
         <naslov>Popolni zakon</naslov>
         <cit did="2016" cid="139" avtor0="Velde Theodor van de" naslov0="Popolni zakon"
             pubPlace="Ljubljana" year="1936"/>
     </delo>
-    <delo mojID="32314">
+    <delo mojID="32314" cobiss="229462016">
         <naslov>Popolnoma normalni kaos ljubezni</naslov>
         <cit did="3041" cid="6" avtor0="Beck U., Beck Gernsheim E."
             naslov0="Popolnoma normalni kaos ljubezni" pubPlace="Ljubljana" publisher="FDV"
             year="2006"/>
     </delo>
-    <delo mojID="32318">
+    <delo mojID="32318" cobiss="20104237">
         <naslov>Popotovanje cesarja Leopolda II. in neapeljskega dvora skozi Kranjsko v
                         letih 1790 in 1791</naslov>
         <cit did="257" cid="2" avtor0="Holz Eva"
@@ -7722,7 +7722,7 @@
             source="Kratka proza slovenskega realizma" pubPlace="Ljubljana" publisher="DZS"
             year="1994" page="51-81"/>
     </delo>
-    <delo mojID="32321">
+    <delo mojID="32321" cobiss="3062841">
         <naslov>Popotovanje: pesmi</naslov>
         <cit did="3084" cid="16" avtor0="Šav Vlado" naslov0="Popotovanje: pesmi" pubPlace="Koper"
             publisher="samozaložba" year="1991"/>
@@ -7746,7 +7746,7 @@
         <cit did="3022" cid="103" avtor0="Gustinčič Drago" naslov0="Popravek" source="NRazgl"
             year="1958" issue="2" page="33"/>
     </delo>
-    <delo mojID="32325">
+    <delo mojID="32325" cobiss="14323810">
         <naslov>Popredmetenje</naslov>
         <cit did="106" cid="266" avtor0="Nussbaum M." naslov0="Popredmetenje" source="Analiza"
             year="2000" volume="1" issue="4" page="72-100"/>
@@ -7809,7 +7809,7 @@
             source="Populatie si societate. Studii de demografie istorica" pubPlace="Cluj"
             year="1972" page="97-137"/>
     </delo>
-    <delo mojID="32339">
+    <delo mojID="32339" cobiss="21957421">
         <naslov>Population and Economy of the Eastern Part of the Roman Province of
                         Dalmatia</naslov>
         <cit did="1748" cid="1157" avtor0="Zotović R."
@@ -7879,7 +7879,7 @@
             source="Konec druge svetovne vojne v Jugoslaviji, Borec" pubPlace="Ljubljana"
             publisher="Borec" year="1986" volume="38" issue="12" page="748-758"/>
     </delo>
-    <delo mojID="32356">
+    <delo mojID="32356" cobiss="55950592">
         <naslov>Poračun</naslov>
         <cit did="838" cid="3" avtor0="Pediček Franc" naslov0="Poračun"
             naslov1="intervju - Darko Štrajn" source="Vzgoja in izobraževanje" year="1994"
@@ -7891,7 +7891,7 @@
             naslov0="Porca miseria: poveri e assistenza nell'età moderna" pubPlace="Roma - Bari"
             publisher="Laterza" year="1988"/>
     </delo>
-    <delo mojID="32358">
+    <delo mojID="32358" cobiss="2743349">
         <naslov>Poreč grad i spomenici</naslov>
         <cit did="1997" cid="43" avtor0="Prelog M." naslov0="Poreč grad i spomenici"
             pubPlace="Beograd" publisher="Kolarčev narodni univerzitet" year="1957"/>
@@ -7901,7 +7901,7 @@
         <cit did="314" cid="3" avtor0="Ćuk R." naslov0="Porodnica Kasela iz Rudnika"
             source="Zbornik za iatoriju Bosne i Hercegovine" year="1995" volume="1" page="103"/>
     </delo>
-    <delo mojID="32362">
+    <delo mojID="32362" cobiss="513133951">
         <naslov>Poroka in položaj ženske znotraj zakonske zveze v srednjeveških
                         istrskih...</naslov>
         <cit did="2450" cid="24" avtor0="Kovačič Mojca"
@@ -7913,13 +7913,13 @@
         <cit did="2783" cid="1" avtor0="Belingar Eda" naslov0="Poročila 43, Varstvo spomenikov"
             pubPlace="Ljubljana" publisher="Zavod za varstvo kulturne dediščine" year="2007"/>
     </delo>
-    <delo mojID="32366">
+    <delo mojID="32366" cobiss="3673374">
         <naslov>Poročila antičnih geografov o severnem Jadranu</naslov>
         <cit did="1939" cid="78" avtor0="Zlobec B."
             naslov0="Poročila antičnih geografov o severnem Jadranu" source="Zgodovinski časopis"
             pubPlace="Ljubljana" year="1999" volume="53" issue="114" page="11-32"/>
     </delo>
-    <delo mojID="32367">
+    <delo mojID="32367" cobiss="323189">
         <naslov>Poročila ljubljanskih policajev o prestopkih 1901-1914</naslov>
         <cit did="3141" cid="11" avtor0="Kačičnik Alenka"
             naslov0="Poročila ljubljanskih policajev o prestopkih 1901-1914"
@@ -7957,14 +7957,14 @@
         <cit did="841" cid="4" avtor0="Taufer Veno"
             naslov0="Poročilo &#34;Komisije za zaščito mišljenja in pisanja&#34;" year="2043"/>
     </delo>
-    <delo mojID="32378">
+    <delo mojID="32378" cobiss="2495286">
         <naslov>Poročilo o arheološkem odkrivanju freisinškega trga Otok pri
                         Dobravi</naslov>
         <cit did="2614" cid="33" avtor0="Šribar V."
             naslov0="Poročilo o arheološkem odkrivanju freisinškega trga Otok pri Dobravi"
             source="Zgodovinski časopis" year="1972" volume="26" page="37-68"/>
     </delo>
-    <delo mojID="32379">
+    <delo mojID="32379" cobiss="1877670">
         <naslov>Poročilo o arheoloških raziskavah na lokaciji križišče na trasi AC
                         Klanec-Ankaran; Srmin-Socerb</naslov>
         <cit did="2787" cid="42" avtor0="Trenz Alfred"
@@ -7985,13 +7985,13 @@
             naslov0="Poročilo o delovanju odseka za pljučne bolezni Ban. Splošne bolnice v Mariboru v letu 1938"
             source="Zdrav Vestn" year="1939" volume="11" issue="4" page="178-182"/>
     </delo>
-    <delo mojID="32382">
+    <delo mojID="32382" cobiss="719157">
         <naslov>Poročilo o delu celjskega Mestnega arhiva v letu 1961/1962</naslov>
         <cit did="75" cid="1" avtor0="Orožen Janko"
             naslov0="Poročilo o delu celjskega Mestnega arhiva v letu 1961/1962"
             source="Celjski zbornik" pubPlace="Celje" year="1962" page="283"/>
     </delo>
-    <delo mojID="32383">
+    <delo mojID="32383" cobiss="911732">
         <naslov>Poročilo o delu Inštituta za novejšo zgodovino v letu 1998</naslov>
         <cit did="2302" cid="10" avtor0="Fischer Jasna"
             naslov0="Poročilo o delu Inštituta za novejšo zgodovino v letu 1998"
@@ -8047,7 +8047,7 @@
             source="Zavod za varstvo naravne in kulturne dediščine Maribor : Letno poročilo za leto 1995"
             pubPlace="Maribor" year="1996"/>
     </delo>
-    <delo mojID="32397">
+    <delo mojID="32397" cobiss="16307506">
         <naslov>Poročilo o krilnem oltarju v Kojskem iz leta 1916</naslov>
         <cit did="1428" cid="45" avtor0="Vuk Marko"
             naslov0="Poročilo o krilnem oltarju v Kojskem iz leta 1916" source="Goriški letnik"
@@ -8099,13 +8099,13 @@
             source="Zavod za varstvo naravne in kulturne dediščine Maribor" pubPlace="Maribor"
             year="2002" page="130-133"/>
     </delo>
-    <delo mojID="32406">
+    <delo mojID="32406" cobiss="80925185">
         <naslov>Poročilo o raziskavah v Pokrajinskem muzeju Ptuj za 1970-1974</naslov>
         <cit did="2069" cid="4" avtor0="Curk J."
             naslov0="Poročilo o raziskavah v Pokrajinskem muzeju Ptuj za 1970-1974" source="ČZN"
             year="1974" volume="10" page="227-266"/>
     </delo>
-    <delo mojID="32407">
+    <delo mojID="32407" cobiss="14328365">
         <naslov>Poročilo o raziskovanjih na srednjem prečnem nasipu Kaštelirja pri Dvorih
                         nad Izolo</naslov>
         <cit did="1950" cid="11" avtor0="Boltin Tome  E."
@@ -8113,7 +8113,7 @@
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1967" volume="18" page="163-178"
         />
     </delo>
-    <delo mojID="32408">
+    <delo mojID="32408" cobiss="895565">
         <naslov>Poročilo o razmerah na Kočevskem spomladi 1939</naslov>
         <cit did="844" cid="62" avtor0="Ferenc Tone"
             naslov0="Poročilo o razmerah na Kočevskem spomladi 1939" source="Zgodovinski časopis"
@@ -8132,13 +8132,13 @@
             naslov0="Poročilo o sejah Posebne komisije za slovenska vprašanja"
             source="AS 537, šk. 1112" year="1979"/>
     </delo>
-    <delo mojID="32411">
+    <delo mojID="32411" cobiss="56770304">
         <naslov>Poročilo o Sloveniji</naslov>
         <cit did="2752" cid="11" avtor0="Rupel Dimitrij" naslov0="Poročilo o Sloveniji"
             source="Slovenska misel" pubPlace="Ljubljana" publisher="Cankarjeva založba" year="1996"
         />
     </delo>
-    <delo mojID="32413">
+    <delo mojID="32413" cobiss="4390221">
         <naslov>Poročilo o stanju duha na Slovenskem</naslov>
         <cit did="1872" cid="11" avtor0="Hribar Tine" naslov0="Poročilo o stanju duha na Slovenskem"
             source="Nova revija" pubPlace="Ljubljana" year="1995" issue="163-164"/>
@@ -8156,7 +8156,7 @@
             source="Tako gradimo socializem na vasi : Prvi zbor slovenskih zadružnikov"
             pubPlace="Ljubljana" year="1950" page="41"/>
     </delo>
-    <delo mojID="32417">
+    <delo mojID="32417" cobiss="41532929">
         <naslov>Poročilo pripravljalnega odbora i I. slovenskem katoliškem shodu, kateri se
                         je vršil 1892. leta v Ljubljani</naslov>
         <cit did="2768" cid="2"
@@ -8176,7 +8176,7 @@
             source="Letno poročilo &#34;Ljubljanskega Sokola&#34; za leto 1932" year="1932"
             page="34-37"/>
     </delo>
-    <delo mojID="32420">
+    <delo mojID="32420" cobiss="117109">
         <naslov>Poročilo uredniškega odbora glasila Arhivskega društva in arhivov
                         Slovenije</naslov>
         <cit did="2508" cid="13" avtor0="Žumer Vladimir"
@@ -8202,12 +8202,12 @@
             naslov0="Port cities. The search for an identity"
             source="Journal of Urban History, 11 (feb.)" year="1985" page="208-225"/>
     </delo>
-    <delo mojID="32425">
+    <delo mojID="32425" cobiss="5621837">
         <naslov>Porta Orientale</naslov>
         <cit did="386" cid="15" avtor0="Combi Carlo" naslov0="Porta Orientale"
             naslov1="Strenna Istriana per gli anni 1857-1858-1859" pubPlace="Capodistria" year="0"/>
     </delo>
-    <delo mojID="32426">
+    <delo mojID="32426" cobiss="13949229">
         <naslov>Portal cerkve sv. Petra v Dvoru in oglejski misali</naslov>
         <cit did="1206" cid="4" avtor0="Cevc Emiljan"
             naslov0="Portal cerkve sv. Petra v Dvoru in oglejski misali"
@@ -8246,7 +8246,7 @@
         <cit did="672" cid="5" avtor0="Von Fischer O." naslov0="Portoroses Zukunft als Kurort"
             year="1910" volume="2" issue="8" page="208"/>
     </delo>
-    <delo mojID="32435">
+    <delo mojID="32435" cobiss="3048887">
         <naslov>Portoroški ognjemeti</naslov>
         <cit did="1999" cid="33" avtor0="Pucer A." naslov0="Portoroški ognjemeti"
             source="Avditorijevih 25 let" pubPlace="Portorož" publisher="Avditorij" year="1996"
@@ -8274,7 +8274,7 @@
         <cit did="1601" cid="20" avtor0="Marin Louis" naslov0="Portrait of the King"
             pubPlace="Minneapolis" publisher="University of Minnesota Press" year="1988"/>
     </delo>
-    <delo mojID="32442">
+    <delo mojID="32442" cobiss="512703775">
         <naslov>Portraits de la Revolution et de l'Empire</naslov>
         <cit did="3523" cid="14" avtor0="Nodier C."
             naslov0="Portraits de la Revolution et de l'Empire" pubPlace="Paris" year="1988"/>
@@ -8301,12 +8301,12 @@
             naslov0="Portret - Moj stric Matija Ambrožič in njegovi najbližji"
             pubPlace="Nova Sušica" year="2003"/>
     </delo>
-    <delo mojID="32450">
+    <delo mojID="32450" cobiss="7985408">
         <naslov>Portret tedna, Dimitrij Rupel</naslov>
         <cit did="2712" cid="89" avtor0="Horvat Jože" naslov0="Portret tedna,  Dimitrij Rupel"
             source="Delo" year="1989"/>
     </delo>
-    <delo mojID="32451">
+    <delo mojID="32451" cobiss="7985408">
         <naslov>Portret tedna, Janez Janša</naslov>
         <cit did="2712" cid="160" avtor0="Slivnik Danilo" naslov0="Portret tedna, Janez Janša"
             source="Delo SP, 26. 10. 1991" year="1991"/>
@@ -8324,7 +8324,7 @@
             naslov0="Portret Volfa Engelberta grofa Auersperga mlajšega (*1641; 11709) in njegove žene Katarine Elizabete rojene pl. Trilleck: almanach in slikarstvo druge polovice 17. stoletja na Kranjskem"
             pubPlace="Ljubljana" publisher="ZRC SAZU" year="2005" page="159-161"/>
     </delo>
-    <delo mojID="32454">
+    <delo mojID="32454" cobiss="614174">
         <naslov>Portreti</naslov>
         <cit did="239" cid="8" avtor0="Erenburg Ilja Grigorjevič" naslov0="Portreti"
             naslov1="Odlomki iz knjige &#34;Ljudje , leta,&#xA;življenja&#34;" pubPlace="Ljubljana"
@@ -8336,19 +8336,19 @@
             naslov0="Portreti 60 obtožencev: ob 58. obletnici II. tržaškega procesa"
             naslov1="tipkopis" pubPlace="Opčine" year="1999"/>
     </delo>
-    <delo mojID="32456">
+    <delo mojID="32456" cobiss="143761932">
         <naslov>Portreti disidenata</naslov>
         <cit did="2807" cid="8" avtor0="Cvetković Srđan" naslov0="Portreti disidenata"
             pubPlace="Beograd" year="2007"/>
     </delo>
-    <delo mojID="32457">
+    <delo mojID="32457" cobiss="11791922">
         <naslov>Portreti goriških Attemsov v zbirkah Narodne galerije v Ljubljani</naslov>
         <cit did="3126" cid="20" avtor0="Šerbelj Ferdinand"
             naslov0="Portreti goriških Attemsov v zbirkah Narodne galerije v Ljubljani"
             source="Goriški letnik" pubPlace="Nova Gorica" publisher="Goriški muzej" year="2005"
             volume="30-31" page="357-366"/>
     </delo>
-    <delo mojID="32458">
+    <delo mojID="32458" cobiss="614174">
         <naslov>Portreti: Odlomki iz knjige 'Ljudje, leta, življenja'</naslov>
         <cit did="2838" cid="176" avtor0="Ehrenburg I."
             naslov0="Portreti: Odlomki iz knjige 'Ljudje, leta, življenja'" pubPlace="Ljubljana"
@@ -8409,13 +8409,13 @@
             publisher="Istituto Regionale per la Storia del Movimento di Liberazione nel Friuli-Venezia Giulia"
             year="1996"/>
     </delo>
-    <delo mojID="32467">
+    <delo mojID="32467" cobiss="4567089">
         <naslov>Porzus, Dialoghi sopra un processo da rifare</naslov>
         <cit did="1782" cid="187" avtor0="Kerševan Alessandra"
             naslov0="Porzus, Dialoghi sopra un processo da rifare" pubPlace="Udine"
             publisher="Kappa Vu" year="1997"/>
     </delo>
-    <delo mojID="32468">
+    <delo mojID="32468" cobiss="4699981">
         <naslov>Porzus due volti della Resistenza</naslov>
         <cit did="1782" cid="77" avtor0="Cesselli Marco" naslov0="Porzus due volti della Resistenza"
             pubPlace="Milano" publisher="La Pietra" year="1975"/>
@@ -8427,7 +8427,7 @@
             source="Foibe : Revisionismo di Stato e amnesie della Repibblica" pubPlace="Udine"
             publisher="Kappa Vu" year="2008" page="123-141"/>
     </delo>
-    <delo mojID="32471">
+    <delo mojID="32471" cobiss="1724652">
         <naslov>Porzus, Strumentalizzazione e realta storica</naslov>
         <cit did="1782" cid="259" avtor0="Padoan Giovanni"
             naslov0="Porzus, Strumentalizzazione e realta storica" source="Mariano del Friuli"
@@ -8439,13 +8439,13 @@
             naslov0="PorzÃ»s: dialoghi sopra un processo da rifare" pubPlace="Bologna"
             publisher="La Fotocromo Emiliana" year="1995"/>
     </delo>
-    <delo mojID="32476">
+    <delo mojID="32476" cobiss="114327552">
         <naslov>Posavje v letih 1989-1991</naslov>
         <cit did="83" cid="6" avtor0="Teropšič Tomaž, Teropšič Mitja"
             naslov0="Posavje v letih 1989-1991" pubPlace="Brežice" publisher="Posavski muzej"
             year="2001"/>
     </delo>
-    <delo mojID="32477">
+    <delo mojID="32477" cobiss="29079901">
         <naslov>Posavje v vojni za obrambo neodvisnosti Slovenije leta 1991</naslov>
         <cit did="3235" cid="11" avtor0="Baumkirher Nika"
             naslov0="Posavje v vojni za obrambo neodvisnosti Slovenije leta 1991"
@@ -8463,7 +8463,7 @@
             naslov0="Posebno sodišče za zaščito države" source="Enciklopedija Slovenije, knj. 9."
             pubPlace="Ljubljana" publisher="MK" year="1999"/>
     </delo>
-    <delo mojID="32486">
+    <delo mojID="32486" cobiss="18180">
         <naslov>Posebno vinogradništvo</naslov>
         <cit did="300" cid="3" avtor0="Colnarič Jože idr." naslov0="Posebno vinogradništvo"
             pubPlace="Ljubljana" publisher="Biotehniška fakulteta, VTOZD za agronomijo" year="1985"
@@ -8483,18 +8483,18 @@
             naslov0="Posebnost židovske populacije v panonskem prostoru glede izseljenstva in sezonstva, Sezonstvo in izseljenstvo"
             pubPlace="Ljubljana" year="2003"/>
     </delo>
-    <delo mojID="32492">
+    <delo mojID="32492" cobiss="240824832">
         <naslov>Posebnosti starejše agrarne strukture na Dolenjskem</naslov>
         <cit did="844" cid="9" avtor0="Blaznik Pavle"
             naslov0="Posebnosti starejše agrarne strukture na Dolenjskem" source="Kronika"
             year="1966" volume="14" issue="1" page="1-8"/>
     </delo>
-    <delo mojID="32497">
+    <delo mojID="32497" cobiss="229477888">
         <naslov>Posegi v moderno arhitekturo</naslov>
         <cit did="446" cid="20" avtor0="Krečič Jela" naslov0="Posegi v moderno arhitekturo"
             naslov1="Proti zakonu, brez spoštovanja" source="Delo" year="1998" page="13"/>
     </delo>
-    <delo mojID="32498">
+    <delo mojID="32498" cobiss="24611629">
         <naslov>Poselitev na Pivškem in ob zgornjem toku Reke od pozne bronaste dobe do
                         pozne antike</naslov>
         <cit did="112" cid="6" avtor0="Horvat Jana"
@@ -8502,28 +8502,28 @@
             source="Voda in življenje v kamniti pokrajini" pubPlace="Ljubljana" year="2005"
             page="220-248"/>
     </delo>
-    <delo mojID="32499">
+    <delo mojID="32499" cobiss="97610752">
         <naslov>Poselitvena podoba Mengša in okolice : od prazgodovine do srednjega
                         veka</naslov>
         <cit did="1375" cid="1" avtor0="Železnikar Janja"
             naslov0="Poselitvena podoba Mengša in okolice : od prazgodovine do srednjega veka"
             pubPlace="Mengeš" publisher="Muzej" year="1999" page="10-74"/>
     </delo>
-    <delo mojID="32503">
+    <delo mojID="32503" cobiss="74613">
         <naslov>Posest malteške komende sv. Petra v času Glavarjevega upravljanja</naslov>
         <cit did="2631" cid="168" avtor0="Košir Matevž"
             naslov0="Posest malteške komende sv. Petra v času Glavarjevega upravljanja"
             source="Glavarjev zbornik v Rimu, Simpoziji v Rimu" year="1999" volume="16"
             page="281-300"/>
     </delo>
-    <delo mojID="32505">
+    <delo mojID="32505" cobiss="5828104">
         <naslov>Posest vetrinjskega samostana na Kranjskem (od leta 1147 do XVII.
                         stoletja)</naslov>
         <cit did="2423" cid="45" avtor0="Mlinarič Jože"
             naslov0="Posest vetrinjskega samostana na Kranjskem (od leta 1147 do XVII. stoletja)"
             source="ZČ" year="1981" volume="35" page="101-119"/>
     </delo>
-    <delo mojID="32509">
+    <delo mojID="32509" cobiss="954757">
         <naslov>Posesti plemiške družine iz Orta na Savinjskem</naslov>
         <cit did="2776" cid="30" avtor0="Ravnikar Tone"
             naslov0="Posesti plemiške družine iz Orta na Savinjskem"
@@ -8556,7 +8556,7 @@
             source="Partizanski koridor : tematski zbornik" pubPlace="Ljubljana"
             publisher="Partizanska knjiga" year="1988" page="166-183"/>
     </delo>
-    <delo mojID="32523">
+    <delo mojID="32523" cobiss="28769122">
         <naslov>Poskus oblikovanja meril za tvorbo učinkovitega javnega govorjenega
                         političnega besedila</naslov>
         <cit did="1733" cid="8" avtor0="Kranjc Ivič Mira"
@@ -8590,7 +8590,7 @@
             naslov0="Poskus psihopatografije Frana Levstika" pubPlace="Ljubljana" year="1978"
             page="550"/>
     </delo>
-    <delo mojID="32535">
+    <delo mojID="32535" cobiss="7693357">
         <naslov>Poskus rekonstrukcije halštatske družbene strukture v dolenjskem kulturnem
                         krogu</naslov>
         <cit did="2266" cid="31" avtor0="Teržan Biba"
