@@ -12972,7 +12972,7 @@
         <cit did="15" cid="38" avtor0="Schmidt Vlado" naslov0="Pri kom - 12-letni vakuum"
             source="Prosvetni delavec" year="1957" volume="8" issue="20" page="2"/>
     </delo>
-    <delo mojID="33664">
+    <delo mojID="33664" cobiss="60530433">
         <naslov>Pri Muri: razstava o arheološkem najdišču pri Lendavi</naslov>
         <cit did="1954" cid="30" avtor0="Šavel I."
             naslov0="Pri Muri: razstava o arheološkem najdišču pri Lendavi" pubPlace="Murska Sobota"
@@ -12983,7 +12983,7 @@
         <cit did="3365" cid="267" avtor0="Štukelj Leon" naslov0="Pri narodu sportnikov"
             source="Življenje in svet" year="1928" issue="11" page="339-342"/>
     </delo>
-    <delo mojID="33666">
+    <delo mojID="33666" cobiss="10982714">
         <naslov>"Pri nas je ta panoga še docela neznana"</naslov>
         <cit did="1446" cid="4" avtor0="Pavlin Tomaž"
             naslov0="&#34;Pri nas je ta panoga še docela neznana&#34;" source="Zgodovina za vse"
@@ -13001,7 +13001,7 @@
             naslov0="Pri občnem zboru &#34;Društva upokojenega učiteljstva za Slovenijo v Ljubljani"
             source="Učiteljski tovariš (9. 7. 1926)" year="1926" issue="27" page="4"/>
     </delo>
-    <delo mojID="33669">
+    <delo mojID="33669" cobiss="3646261">
         <naslov>»Pri poljubu se ne sme cmokati in sliniti, marveč tenkoglasno vase cikniti,
                         da se malo sliši, pa dosti čuti«</naslov>
         <cit did="1744" cid="8" avtor0="Fugger Germadnik Rolanda"
@@ -13016,7 +13016,7 @@
             source="Intervju v Dnevniknikovem objektivu, 20. november 2010. : http://www.dnevnik.si/objektiv/intervjuji/104240ee (Datum dostopa: 23.11.2010)."
             year="2010"/>
     </delo>
-    <delo mojID="33671">
+    <delo mojID="33671" cobiss="30999138">
         <naslov>Pri Valvasorju doma</naslov>
         <cit did="2599" cid="24" avtor0="Weigl Igor" naslov0="Pri Valvasorju doma"
             source="Zapuščina Janeza Vajkarda Valvasorja v Krškem. Valvasorjev raziskovalni center Krško"
@@ -13048,7 +13048,7 @@
         <cit did="992" cid="2" avtor0="Ambrožič Bernard" naslov0="Pridiga o katoliškem tisku"
             source="Koledar Ave Maria" year="1930" page="105"/>
     </delo>
-    <delo mojID="33678">
+    <delo mojID="33678" cobiss="2554115">
         <naslov>Pridige</naslov>
         <cit did="1267" cid="9" avtor0="Meško K." naslov0="Pridige" naslov1="1. knjiga"
             pubPlace="Ljubljana" year="1944"/>
@@ -13077,7 +13077,7 @@
             naslov0="Priest and Parish in Vienna: 1780 to 1880" pubPlace="Boston"
             publisher="Humanities Press" year="1999"/>
     </delo>
-    <delo mojID="33686">
+    <delo mojID="33686" cobiss="267731">
         <naslov>Prigioneri della pace</naslov>
         <cit did="2433" cid="14" avtor0="Rossi Marino" naslov0="Prigioneri della pace"
             source="Annales: Series historia et sociologia" year="1999" volume="9" issue="2"
@@ -13100,20 +13100,20 @@
             naslov0="Prihod britanskih obveščevalcev na Primorsko" source="Borec" year="1978"
             volume="6-7" page="339"/>
     </delo>
-    <delo mojID="33692">
+    <delo mojID="33692" cobiss="231914752">
         <naslov>Prihod za sramežljivost in javno nravnost grobo škodljivih filmov na
                         Slovensko</naslov>
         <cit did="454" cid="41" avtor0="Polajnar Janez"
             naslov0="Prihod za sramežljivost in javno nravnost grobo škodljivih filmov na Slovensko"
             source="Časopis za kritiko znanosti" year="2005" issue="220" page="11-31"/>
     </delo>
-    <delo mojID="33693">
+    <delo mojID="33693" cobiss="243203584">
         <naslov>Prihod žensk na oder slovenske politike</naslov>
         <cit did="2790" cid="17" avtor0="Selišnik Irena"
             naslov0="Prihod žensk na oder slovenske politike" pubPlace="Ljubljana" year="2008"
             page="79-83"/>
     </delo>
-    <delo mojID="33694">
+    <delo mojID="33694" cobiss="215842560">
         <naslov>Prihodnost družbe heterogenosti in krščanstvo</naslov>
         <cit did="106" cid="222" avtor0="Bahovec Igor"
             naslov0="Prihodnost družbe heterogenosti in krščanstvo" source="Tretji dan" year="2003"
@@ -13128,14 +13128,14 @@
             pubPlace="Ljubljana" publisher="Fakulteta za gradbeništvo in geodezijo" year="2004"
             page="61-69"/>
     </delo>
-    <delo mojID="33696">
+    <delo mojID="33696" cobiss="22276957">
         <naslov>Prihodnost in razvojne dileme sodobnih mest v informatični družbi</naslov>
         <cit did="2008" cid="31" avtor0="Lenarčič B."
             naslov0="Prihodnost in razvojne dileme sodobnih mest v informatični družbi"
             source="Teorija in praksa" pubPlace="Ljubljana" year="2003" volume="40" issue="3"
             page="455-469"/>
     </delo>
-    <delo mojID="33697">
+    <delo mojID="33697" cobiss="4939057">
         <naslov>Prihodnost za Trst ali o rekontekstualizaciji zgodovine</naslov>
         <cit did="420" cid="31" avtor0="Kappus Elke-Nicole"
             naslov0="Prihodnost za Trst ali o rekontekstualizaciji zgodovine"
@@ -13191,14 +13191,14 @@
         <cit did="2902" cid="16" avtor0="Kuljaj Ivo" naslov0="Priključitev k Sloveniji"
             source="Delavska enotnost" year="1990" volume="49" issue="53" page="11"/>
     </delo>
-    <delo mojID="33716">
+    <delo mojID="33716" cobiss="43396353">
         <naslov>Prikrivana resnica: Zgodba o Martinu Davorinu Petroviču in malo zgodovine za
                         nevedne</naslov>
         <cit did="1509" cid="41" avtor0="Prašnički Martin"
             naslov0="Prikrivana resnica: Zgodba o Martinu Davorinu Petroviču in malo zgodovine za nevedne"
             pubPlace="Maribor" year="1999" page="100"/>
     </delo>
-    <delo mojID="33717">
+    <delo mojID="33717" cobiss="2311028">
         <naslov>Prikrivena grobišta Hrvata u Republici Sloveniji</naslov>
         <cit did="1897" cid="37" avtor0="Ferenc Mitja" avtor1="Kužatko Želimir"
             naslov0="Prikrivena grobišta Hrvata u Republici Sloveniji" pubPlace="Zagreb" year="2007"
@@ -13274,7 +13274,7 @@
             source="Zbornik radova medunarodnog znanstvenog skupa &#34;Istarski povijesni biennale: Statuimus et ordinamus, quod ... - Sustavi moči i mali ljudi na jadranskom prostoru&#34;"
             pubPlace="Poreč" year="2005" page="241-253"/>
     </delo>
-    <delo mojID="33730">
+    <delo mojID="33730" cobiss="13253383">
         <naslov>Prilog o horskoj delatnosti Srba u Temišvaru i Banatu (1868-1944)</naslov>
         <cit did="2896" cid="10" avtor0="Ilić Sava"
             naslov0="Prilog o horskoj delatnosti Srba u Temišvaru i Banatu (1868-1944)"
@@ -13325,13 +13325,13 @@
             naslov0="Prilog poznavanju roda Kacica tijekom druge polovice XII. stoljeća"
             pubPlace="Zagreb" publisher="Biobibliographica" year="2004" page="7-37"/>
     </delo>
-    <delo mojID="33742">
+    <delo mojID="33742" cobiss="866771">
         <naslov>Prilog poznavanju ženske nošnje kod Tauriska</naslov>
         <cit did="1748" cid="442" avtor0="Guštin M."
             naslov0="Prilog poznavanju ženske nošnje kod Tauriska" source="Opuscula archaeologica"
             year="2003" volume="27" page="321-330"/>
     </delo>
-    <delo mojID="33743">
+    <delo mojID="33743" cobiss="67929856">
         <naslov>Prilog Programu za Bosno</naslov>
         <cit did="2984" cid="4" avtor0="Kržišnik Bukić Vera" naslov0="Prilog Programu za Bosno"
             pubPlace="Ljubljana" publisher="samozaložba" year="1997"/>
@@ -13481,7 +13481,7 @@
             naslov0="Priloži za istoriju zanata u Kotoru, Istoriski zapisi 12" pubPlace="Cetinje"
             year="1956"/>
     </delo>
-    <delo mojID="33771">
+    <delo mojID="33771" cobiss="27396909">
         <naslov>Priložnostne skladbe v čast cesarju, monarhiji in panslavizmu kot odraz
                         nekaterih staroslovenskih političnih načel in idej po letu 1848</naslov>
         <cit did="2270" cid="1" avtor0="Cigoj Krstulovič Nataša"
@@ -13521,7 +13521,7 @@
             pubPlace="Trst" publisher="Zveza jugoslovanskih učiteljskih&#xA;društev" year="2012"
             volume="3" issue="36" page="284"/>
     </delo>
-    <delo mojID="33783">
+    <delo mojID="33783" cobiss="6393165">
         <naslov>Primerjalna analiza amandmajev k ustavam SR in SAP iz leta 1989 v primerjavi
                         z ustavo SFRJ (1974) in ustavnimi amandmaji (1981, 1988): Primerjava
                         amandmajev k ustavi SFRJ (1988) z amandmaji k ustavam SR in SAP iz leta
@@ -13530,7 +13530,7 @@
             naslov0="Primerjalna analiza amandmajev k ustavam SR in SAP iz leta 1989 v primerjavi z ustavo SFRJ (1974) in ustavnimi amandmaji (1981, 1988): Primerjava amandmajev k ustavi SFRJ (1988) z amandmaji k ustavam SR in SAP iz leta 1989"
             pubPlace="Ljubljana" publisher="oktober-november 1989"/>
     </delo>
-    <delo mojID="33785">
+    <delo mojID="33785" cobiss="11602952">
         <naslov>Primerjalna analiza strukture motoričnega prostora petinpol-, šest- in
                         šestinpolletnih deklic</naslov>
         <cit did="708" cid="53" avtor0="Vehovar Matjaž"
@@ -13547,7 +13547,7 @@
             source="Zbornik 14 strokovnrga posveta" pubPlace="Kranjska gora"
             publisher="Zveza društev športnih pedagogov" year="2001" page="282"/>
     </delo>
-    <delo mojID="33791">
+    <delo mojID="33791" cobiss="1176241">
         <naslov>Primerjava nekaterih motoričnih sposobnosti otrok v osnovnih šolah Slovenije
                         v primerjavi z Osnovno šolo Tolmin v obdobju 1970-1983</naslov>
         <cit did="708" cid="3" avtor0="Fili-Maurič M."
@@ -13560,7 +13560,7 @@
         <cit did="2906" cid="19" avtor0="Polzer Srienz Mirjam"
             naslov0="Primerjava pravnega položaja Romov v Avstriji in Sloveniji" year="1999"/>
     </delo>
-    <delo mojID="33796">
+    <delo mojID="33796" cobiss="868486">
         <naslov>Primerno in lepo skozi bonton</naslov>
         <cit did="1744" cid="44" avtor0="Žagar Janja" naslov0="Primerno in lepo skozi bonton"
             source="Etnolog" pubPlace="Ljubljana" year="2006" volume="16" page="53-73"/>
@@ -13607,7 +13607,7 @@
             naslov0="Primo Levi, razlagalec lagerske asimetrije" source="Potopljeni in rešeni"
             pubPlace="Ljubljana" publisher="Studia Humanitatis" year="2003" page="171-193"/>
     </delo>
-    <delo mojID="33807">
+    <delo mojID="33807" cobiss="225296896">
         <naslov>Primorci in Istrani v Prekmurju (pričevanja)</naslov>
         <cit did="2565" cid="13" avtor0="Kleibencetl Janko"
             naslov0="Primorci in Istrani v Prekmurju (pričevanja)" pubPlace="Koper"
@@ -13624,7 +13624,7 @@
         <cit did="1155" cid="14" avtor0="Škoberne Boža" naslov0="Primorci na Kosovu in v Bosni"
             source="Delo" year="2009" volume="42" issue="235-238"/>
     </delo>
-    <delo mojID="33810">
+    <delo mojID="33810" cobiss="15410226">
         <naslov>Primorci v severni slovenski metropoli</naslov>
         <cit did="3014" cid="19" avtor0="Makuc D." naslov0="Primorci v severni slovenski metropoli"
             source="Jadranski koledar" pubPlace="Trst" year="1988" page="167-173"/>
@@ -13635,12 +13635,12 @@
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" publisher="Mladinska knjiga"
             year="1995" issue="9" page="343"/>
     </delo>
-    <delo mojID="33813">
+    <delo mojID="33813" cobiss="220049664">
         <naslov>Primorska dekleta v Nemčijo gredo</naslov>
         <cit did="1427" cid="17" avtor0="Makuc Dorica" naslov0="Primorska dekleta v Nemčijo gredo"
             pubPlace="Gorica" publisher="Goriška Mohorjeva družba" year="2005"/>
     </delo>
-    <delo mojID="33815">
+    <delo mojID="33815" cobiss="11555131">
         <naslov>Primorska emigracija v .Mariboru</naslov>
         <cit did="3014" cid="7" avtor0="Golouh R." naslov0="Primorska emigracija v .Mariboru"
             source="Kronika slovenskih mest" pubPlace="Ljubljana" year="1935" volume="2" issue="2"
@@ -13670,31 +13670,31 @@
         <cit did="569" cid="27" avtor0="Janša Janez" naslov0="Primorska si zasluži poseben dan"
             naslov1="govor ob 15. septembru" source="Dnevnik" year="0"/>
     </delo>
-    <delo mojID="33826">
+    <delo mojID="33826" cobiss="15576114">
         <naslov>Primorska srečanja</naslov>
         <cit did="3113" cid="31" avtor0="Velušček Nadja" naslov0="Primorska srečanja"
             source="Nova Gorica - Gorica: izzivi in možnosti sobivanja" pubPlace="Nova Gorica"
             year="1997"/>
     </delo>
-    <delo mojID="33827">
+    <delo mojID="33827" cobiss="9604864">
         <naslov>Primorska v narodnoosvobodilnem boju v dobi prvih brigad do kapitulacije
                         Italije marec/april 1943 - september 1943</naslov>
         <cit did="452" cid="20" avtor0="Škerl France"
             naslov0="Primorska v narodnoosvobodilnem boju v dobi prvih brigad do kapitulacije Italije marec/april 1943 - september 1943"
             pubPlace="Ljubljana" year="1975"/>
     </delo>
-    <delo mojID="33828">
+    <delo mojID="33828" cobiss="9566208">
         <naslov>Primorska v narodnoosvobodilnem boju v dobi Soškega odreda</naslov>
         <cit did="452" cid="19" avtor0="Škerl France"
             naslov0="Primorska v narodnoosvobodilnem boju v dobi Soškega odreda"
             pubPlace="Ljubljana" year="1971"/>
     </delo>
-    <delo mojID="33829">
+    <delo mojID="33829" cobiss="13215488">
         <naslov>Primorska v NOB : 1941 - januar 1943</naslov>
         <cit did="452" cid="18" avtor0="Škerl France" naslov0="Primorska v NOB : 1941 - januar 1943"
             pubPlace="Ljubljana" year="1969"/>
     </delo>
-    <delo mojID="33832">
+    <delo mojID="33832" cobiss="34679041">
         <naslov>Primorske pesmi</naslov>
         <cit did="3079" cid="2" avtor0="Gruden I." naslov0="Primorske pesmi" pubPlace="Ljubljana"
             publisher="Zvezna tiskarna" year="1920"/>
@@ -13704,13 +13704,13 @@
         <cit did="1633" cid="18" avtor0="Roš Katja" naslov0="Primorski del TNP demografsko ogrožen"
             source="Delo" year="2026" page="7"/>
     </delo>
-    <delo mojID="33835">
+    <delo mojID="33835" cobiss="3907885">
         <naslov>Primorski duhovnik med Starimi in Novim svetom</naslov>
         <cit did="3164" cid="50" avtor0="Doktorič David"
             naslov0="Primorski duhovnik med Starimi in Novim svetom" pubPlace="Gorica" year="1996"
             page="17-33"/>
     </delo>
-    <delo mojID="33836">
+    <delo mojID="33836" cobiss="1359476">
         <naslov>Primorski duhovniki : kulturni delavci 20. stoletja</naslov>
         <cit did="1431" cid="6" avtor0="Kragelj Jožko"
             naslov0="Primorski duhovniki : kulturni delavci 20. stoletja" publisher="Samozaložba"
@@ -13723,13 +13723,13 @@
             naslov0="Primorski in istrski železničarji 1857-1947. Slovenski železničarji v NOB 1941-1945, 5. knjiga"
             pubPlace="Ljubljana" publisher="Slovenske železnice" year="2001"/>
     </delo>
-    <delo mojID="33838">
+    <delo mojID="33838" cobiss="113171200">
         <naslov>Primorski in istrski železničarji 1957-1947</naslov>
         <cit did="2083" cid="6" avtor0="Kramar J."
             naslov0="Primorski in istrski železničarji 1957-1947" pubPlace="Ljubljana"
             publisher="Slovenske železnice" year="2001"/>
     </delo>
-    <delo mojID="33840">
+    <delo mojID="33840" cobiss="203475">
         <naslov>Primorski krščanski socialci v Julijski krajini med obema vojnama: Josip
                         Agneletto slovenski kulturnik in politik v Istri in Trstu (ur. Darko
                         Darovec)</naslov>
@@ -13767,7 +13767,7 @@
         <cit did="2660" cid="47" avtor0="Ilešič Fran" naslov0="Primož Trubar in njgova doba"
             source="Trubarjev zbornik" pubPlace="Ljubljana" year="1908"/>
     </delo>
-    <delo mojID="33862">
+    <delo mojID="33862" cobiss="204405">
         <naslov>Primož Trubar o katoliški duhovščini</naslov>
         <cit did="2660" cid="60" avtor0="Žnidaršič Golec Lilijana"
             naslov0="Primož Trubar o katoliški duhovščini" year="2001" volume="6-7" page="21-26"/>
@@ -13780,7 +13780,7 @@
             pubPlace="Grosuplje" publisher="Skupnost občanov" year="1972" volume="4" page="169-179"
         />
     </delo>
-    <delo mojID="33865">
+    <delo mojID="33865" cobiss="246680064">
         <naslov>Primož Trubar v Trstu in na Goriškem</naslov>
         <cit did="1793" cid="4" avtor0="Bratuž Lojzka"
             naslov0="Primož Trubar v Trstu in na Goriškem"
@@ -13805,7 +13805,7 @@
             naslov0="Primus Trubers Lehre vom Abendmahl" source="Slovenci v evropski reformaciji"
             pubPlace="Ljubljana" year="1986" page="149-166"/>
     </delo>
-    <delo mojID="33873">
+    <delo mojID="33873" cobiss="216256256">
         <naslov>Prinašati mir in ubijati zmaje v krščanstvu</naslov>
         <cit did="106" cid="261" avtor0="Moltmann J."
             naslov0="Prinašati mir in ubijati zmaje v krščanstvu" source="Tretji dan" year="2004"
@@ -13829,7 +13829,7 @@
             naslov0="Principi di storia civile della Repubblica di Venezia. Vol. I."
             pubPlace="Venezia" year="0" page="849-851"/>
     </delo>
-    <delo mojID="33879">
+    <delo mojID="33879" cobiss="3047241">
         <naslov>Principi motoričnega učenja kot osnova za izbiro primerne strategije
                         poučevanja otrok</naslov>
         <cit did="708" cid="30" avtor0="Pišot Rado"
@@ -13844,18 +13844,18 @@
             source="Cognition and Categorization" pubPlace="Hillsdale" publisher="Lawrence Earlbaum"
             year="1978" page="27-48"/>
     </delo>
-    <delo mojID="33881">
+    <delo mojID="33881" cobiss="3793686">
         <naslov>Principles of Geographical Information Systems</naslov>
         <cit did="732" cid="5" avtor0="Burrough P., McDonnell R."
             naslov0="Principles of Geographical Information Systems" pubPlace="Oxford"
             publisher="Oxford University Press" year="1998"/>
     </delo>
-    <delo mojID="33882">
+    <delo mojID="33882" cobiss="13926152">
         <naslov>Principles of linguistic change</naslov>
         <cit did="3077" cid="20" avtor0="Labov W." naslov0="Principles of linguistic change"
             pubPlace="Malden - Oxford - Carlton" publisher="Blackvvell" year="2005"/>
     </delo>
-    <delo mojID="33883">
+    <delo mojID="33883" cobiss="3288657">
         <naslov>Principles of Public International Law</naslov>
         <cit did="51" cid="274" avtor0="Brownlie Ian"
             naslov0="Principles of  Public International Law" pubPlace="Oxford" year="1998"
@@ -13894,13 +13894,13 @@
             source="Zbornik Historijskog instituta JAZU" pubPlace="Zagreb" year="1974" volume="7"
             page="61-151"/>
     </delo>
-    <delo mojID="33890">
+    <delo mojID="33890" cobiss="5928288">
         <naslov>Print, manuscript and the search for order, 1450-1830</naslov>
         <cit did="1920" cid="45" avtor0="McKitterick D."
             naslov0="Print, manuscript and the search for order, 1450-1830" pubPlace="Cambridge"
             publisher="Cambridge University Press" year="2006"/>
     </delo>
-    <delo mojID="33891">
+    <delo mojID="33891" cobiss="286935">
         <naslov>Printing, writers and readers in Renaissance Italy</naslov>
         <cit did="1920" cid="62" avtor0="Richardson B."
             naslov0="Printing, writers and readers in Renaissance Italy" pubPlace="Cambridge"
@@ -13924,7 +13924,7 @@
         <cit did="3022" cid="314" avtor0="Šentjurc Lidija" naslov0="Pripomba"
             source="Odmev živega človeka in krajine" page="32"/>
     </delo>
-    <delo mojID="33896">
+    <delo mojID="33896" cobiss="751153">
         <naslov>Pripomba k članku Branka Marušiča</naslov>
         <cit did="1914" cid="70" avtor0="Kacin Wohinz Milica"
             naslov0="Pripomba k članku Branka Marušiča" source="Primorska srečanja" year="1993"
@@ -13970,12 +13970,12 @@
         <cit did="2579" cid="38" avtor0="Logar Janez" naslov0="Pripombe v sedmi knjigi"
             source="Janez trdina, Zbrano delo" pubPlace="Ljubljana" year="1955" page="389"/>
     </delo>
-    <delo mojID="33906">
+    <delo mojID="33906" cobiss="100270592">
         <naslov>Pripoved o Ani Frank</naslov>
         <cit did="2479" cid="12" avtor0="Pressler Mirjam" naslov0="Pripoved o Ani Frank"
             pubPlace="Tržič" publisher="Učila" year="1999"/>
     </delo>
-    <delo mojID="33907">
+    <delo mojID="33907" cobiss="26463021">
         <naslov>Pripoved situlske umetnosti z Magdalenske gore pri Šmarju</naslov>
         <cit did="2266" cid="35" avtor0="Teržan Biba"
             naslov0="Pripoved situlske umetnosti z Magdalenske gore pri Šmarju"
@@ -13993,7 +13993,7 @@
         <cit did="279" cid="33" avtor0="Gnilšak Ida" naslov0="Pripovedi s panjev"
             pubPlace="Radovljica" year="1992" page="11"/>
     </delo>
-    <delo mojID="33911">
+    <delo mojID="33911" cobiss="513751935">
         <naslov>Priprave in misli o izdaji spomeniške topografije</naslov>
         <cit did="1578" cid="7" avtor0="Rozman Ksenija"
             naslov0="Priprave in misli o izdaji spomeniške topografije" source="Kronika" year="1960"
@@ -14011,7 +14011,7 @@
             naslov0="Priprave na konec vojne : Slovenija v letu 1945" pubPlace="Ljubljana"
             publisher="Zveza zgodovinskih društev Slovenije" year="1995" page="7-36"/>
     </delo>
-    <delo mojID="33915">
+    <delo mojID="33915" cobiss="266963">
         <naslov>Priprave na leto 1918. Nekateri vidiki italijanske uprave zasedenih
                         slovenskih ozemelj med prvo svetovno vojno</naslov>
         <cit did="2624" cid="58" avtor0="Svoljšak Petra"
@@ -14053,13 +14053,13 @@
         <cit did="2734" cid="29" avtor0="Matija Grah" naslov0="Pripravljeni na kompromis"
             source="Delo" pubPlace="Ljubljana" year="2007" volume="49" issue="10" page="7"/>
     </delo>
-    <delo mojID="33926">
+    <delo mojID="33926" cobiss="7158093">
         <naslov>Prirastek prebivalstva Julijske krajine v zadnjem desetletju</naslov>
         <cit did="800" cid="7" avtor0="Čermelj Lavo"
             naslov0="Prirastek prebivalstva Julijske krajine v zadnjem desetletju" source="Luč"
             year="1933" issue="9" page="83"/>
     </delo>
-    <delo mojID="33927">
+    <delo mojID="33927" cobiss="67626497">
         <naslov>Prireditev Mariborski teden V Mariboru</naslov>
         <cit did="3241" cid="252" avtor0="Lešnik Sabina" avtor1="Gostenčnik Nina"
             naslov0="Prireditev Mariborski teden V Mariboru" pubPlace="Maribor"
@@ -14108,31 +14108,31 @@
             naslov0="Priročni zakonik za pokneženo grofijo Goriško in Gradiško" pubPlace="Gorica"
             year="0"/>
     </delo>
-    <delo mojID="33936">
+    <delo mojID="33936" cobiss="1109861">
         <naslov>Priročnik iz metodike socialnega dela</naslov>
         <cit did="162" cid="5" avtor0="Vodopivec Katja"
             naslov0="Priročnik iz metodike socialnega dela" pubPlace="Ljubljana"
             publisher="Višja šola za socialno delo" year="1959"/>
     </delo>
-    <delo mojID="33938">
+    <delo mojID="33938" cobiss="67336960">
         <naslov>Priročnik za strokovno obdelavo arhivskega gradiva pravosodnih organov od
                         srede 18. stoletja do leta 1991 : Izbor zakonov in predpisov</naslov>
         <cit did="104" cid="14" avtor0="Adamič Marjeta"
             naslov0="Priročnik za strokovno obdelavo arhivskega&#xA;gradiva pravosodnih organov od srede 18. stoletja do leta 1991 : Izbor zakonov in predpisov"
             pubPlace="Ljubljana" publisher="Arhiv Republike Slovenije" year="1997"/>
     </delo>
-    <delo mojID="33939">
+    <delo mojID="33939" cobiss="105248256">
         <naslov>Priročnik za učitelje družboslovja. Zgodovina</naslov>
         <cit did="1374" cid="13" avtor0="Otič Marta"
             naslov0="Priročnik za učitelje družboslovja. Zgodovina" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="2000" page="17, 19"/>
     </delo>
-    <delo mojID="33941">
+    <delo mojID="33941" cobiss="7342855">
         <naslov>Priručnik izvora hrvatske historije</naslov>
         <cit did="458" cid="32" avtor0="Šišić F." naslov0="Priručnik izvora hrvatske historije"
             pubPlace="Zagreb" year="1914"/>
     </delo>
-    <delo mojID="33942">
+    <delo mojID="33942" cobiss="2092342">
         <naslov>Prisank in Kofce</naslov>
         <cit did="423" cid="27" avtor0="Čop D." naslov0="Prisank in Kofce"
             source="Jezik in slovstvo" pubPlace="Ljubljana" year="1996" volume="41" issue="5"
