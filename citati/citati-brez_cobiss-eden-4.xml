@@ -17953,12 +17953,12 @@
         <cit did="864" cid="72" avtor0="Rénan Ernest" naslov0="Qu est-ce qu une nation?"
             pubPlace="Paris" year="0"/>
     </delo>
-    <delo mojID="34899">
+    <delo mojID="34899" cobiss="512492615">
         <naslov>Quaderni del carcere</naslov>
         <cit did="1472" cid="33" avtor0="Gramsci A." naslov0="Quaderni del carcere"
             pubPlace="Torino" publisher="Einaudi" year="1975"/>
     </delo>
-    <delo mojID="34901">
+    <delo mojID="34901" cobiss="290420">
         <naslov>Quadragesimo anno</naslov>
         <cit did="2274" cid="190" avtor0="Vidovič Miklavčič Anka" naslov0="Quadragesimo anno"
             source="Enciklopedija Slovenije, 10." pubPlace="Ljubljana" publisher="MK" year="1996"
@@ -17990,7 +17990,7 @@
         <cit did="1748" cid="1152" avtor0="Zerdik A." naslov0="Quaestiones Appianeae"
             pubPlace="Kiel" year="0"/>
     </delo>
-    <delo mojID="34908">
+    <delo mojID="34908" cobiss="23850541">
         <naslov>Quaglieve oltarne slike v ljubljanski stolni cerkvi</naslov>
         <cit did="2049" cid="16" avtor0="Murovec Barbara"
             naslov0="Quaglieve oltarne slike v ljubljanski stolni cerkvi"
@@ -18015,7 +18015,7 @@
             naslov0="Qualche osservazione sulle anfore greco-italiche dell'Alto Adriatico"
             source="Quaderni Friulani di Archeologia" year="1997" volume="7" page="161-167"/>
     </delo>
-    <delo mojID="34912">
+    <delo mojID="34912" cobiss="75644">
         <naslov>Qualitative data analysis</naslov>
         <cit did="2972" cid="17" avtor0="Miles Matthew B." avtor1="Huberman A. Michael"
             naslov0="Qualitative data analysis" pubPlace="Beverly Hills, CA" publisher="Sage"
@@ -18027,7 +18027,7 @@
             naslov0="Qualitative Inhaltsanalyse. Grundlagen und Techniken" pubPlace="Weinheim"
             publisher="Deutscher Studien Verlag" year="1995"/>
     </delo>
-    <delo mojID="34914">
+    <delo mojID="34914" cobiss="689766">
         <naslov>Qualitative researching</naslov>
         <cit did="3057" cid="13" avtor0="Mason J." naslov0="Qualitative researching"
             pubPlace="London" publisher="Sage Publications" year="1996"/>
@@ -18093,7 +18093,7 @@
             pubPlace="Pordenone" publisher="Grafične editoriali artistične pordenonesi" year="1988"
             page="11-130"/>
     </delo>
-    <delo mojID="34926">
+    <delo mojID="34926" cobiss="10518578">
         <naslov>Quattro senza dio</naslov>
         <cit did="1428" cid="23" avtor0="Lodoloni Armando" naslov0="Quattro senza dio"
             source="Il diario di un ufficiale mazziniano dalle trincee del Carso alle Giudicarie"
@@ -18246,7 +18246,7 @@
         <cit did="3092" cid="9" avtor0="Olivetti Olivieri  Angelo" naslov0="Questioni contemporane"
             pubPlace="Napoli" publisher="Patenopea" year="1913"/>
     </delo>
-    <delo mojID="34958">
+    <delo mojID="34958" cobiss="1545728223">
         <naslov>Questioning Sovereignty. Law, State and Nation in the European
                         Commonwealth</naslov>
         <cit did="2747" cid="30" avtor0="MacCormick Neil"
@@ -18268,7 +18268,7 @@
             naslov0="Questions and answers in attitude surveys : experiments in question form, wording and context"
             pubPlace="New York" publisher="Academic Press" year="1981"/>
     </delo>
-    <delo mojID="34961">
+    <delo mojID="34961" cobiss="3587424">
         <naslov>Questions de numismatique illyrienne</naslov>
         <cit did="1748" cid="184" avtor0="Ceka H." naslov0="Questions de numismatique illyrienne"
             pubPlace="Tirana" year="1972"/>
@@ -18334,7 +18334,7 @@
             naslov0="Quranta giorni di sangue a Trieste" source="Il Piccolo" year="2001"
             issue="(22. 5. 2001)"/>
     </delo>
-    <delo mojID="34974">
+    <delo mojID="34974" cobiss="7236909">
         <naslov>Qyi si parla soltanto italiano. Slovenska kronika XX. stoletja
                         1900-1941</naslov>
         <cit did="2154" cid="6" avtor0="Svoljšak Petra"
