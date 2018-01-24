@@ -15783,7 +15783,7 @@
             source="Kaj seje zgodilo s slovensko zgodovino? - 4. Razgledi" pubPlace="Ljubljana"
             year="1994" volume="8" issue="1015" page="10"/>
     </delo>
-    <delo mojID="34396" cobiss="6073421"> 
+    <delo mojID="34396" cobiss="6073421">
         <naslov>Projekt eines Volksgruppenmandats im Kärntner Landtag: rechtssystematische
                         Untersuchung der Mitwirkungsmodelle von Volksgruppen in Europa und
                         Vorschläge zur legistischen Umsetzung in der österreichischen
@@ -19433,7 +19433,7 @@
             naslov0="Raziskovanje srednjeveške umetnosti na Slovenskem" source="ZČ" year="1994"
             volume="48" page="449-456"/>
     </delo>
-    <delo mojID="35227" cobiss="249898752"> 
+    <delo mojID="35227" cobiss="249898752">
         <naslov>Raziskujem Novi svet</naslov>
         <cit did="2656" cid="49" avtor0="Verdev Helena" naslov0="Raziskujem Novi svet"
             naslov1="Učbenik za geografijo v osmem razredu osnovne šole" pubPlace="Ljubljana"
@@ -26521,7 +26521,7 @@
         <cit did="2521" cid="5" avtor0="Corovič Vladimir" naslov0="Sandalj Hranič u Dubrovniku"
             pubPlace="Beograd" publisher="Bratstvo sv. Save, XVII" year="1923"/>
     </delo>
-    <delo mojID="36845"  cobiss="1309997">
+    <delo mojID="36845" cobiss="1309997">
         <naslov>Sandor Wekerle 1848-1921: die politische Biographie eines ungarischen
                         Staatsmannes der Donaumonarchie</naslov>
         <cit did="1760" cid="54" avtor0="Andreas Geyr Geza"
@@ -31518,7 +31518,7 @@
             naslov0="Slovenci v Združenih državah: obdobje 1848–1891" source="Dve domovini"
             pubPlace="Ljubljana" year="1996" issue="7" page="113-129"/>
     </delo>
-    <delo mojID="37982"  cobiss="1668429">
+    <delo mojID="37982" cobiss="1668429">
         <naslov>Slovenci v šomodski županiji na Ogrskem</naslov>
         <cit did="2131" cid="20" avtor0="Trstenjak Anton"
             naslov0="Slovenci v šomodski županiji na Ogrskem" pubPlace="Ljubljana" year="1905"/>
@@ -31571,7 +31571,7 @@
         <cit did="2894" cid="58" avtor0="Filipič France" naslov0="Slovenci - španski borci"
             pubPlace="Maribor" year="1982"/>
     </delo>
-    <delo mojID="37993">
+    <delo mojID="37993" cobiss="525011">
         <naslov>Slovene and Italian languages in contact in the ethnically mixed area of
                         Slovene Istria</naslov>
         <cit did="1984" cid="10" avtor0="Mikolič V."
@@ -31586,30 +31586,30 @@
             naslov0="Slovene Antropologist: Dilemmas and Controversies of an early professional Career"
             source="Antropološki zvezki" year="1996" volume="4" page="25-34"/>
     </delo>
-    <delo mojID="37995">
+    <delo mojID="37995" cobiss="50113024">
         <naslov>Slovene as a Minority Language: Historical Background and Sociolinguistic
                         Prospects</naslov>
         <cit did="2763" cid="17" avtor0="Nećak Lük Albina" avtor1="Nećak Dušan"
             naslov0="Slovene as a Minority Language: Historical Background and Sociolinguistic Prospects"
             source="Slovene Studies" year="1990" volume="12" issue="2" page="169–181"/>
     </delo>
-    <delo mojID="37997">
+    <delo mojID="37997" cobiss="6099245">
         <naslov>Slovene cities and suburbs in transformation</naslov>
         <cit did="2892" cid="8" avtor0="Ravbar Marjan"
             naslov0="Slovene cities and suburbs in transformation" source="Geografski zbornik"
             pubPlace="Ljubljana" year="1997" issue="37" page="64-109"/>
     </delo>
-    <delo mojID="37998">
+    <delo mojID="37998" cobiss="5949229">
         <naslov>Slovene identity : the Canadian experience</naslov>
         <cit did="2923" cid="10" avtor0="Kocjančič Cvetka"
             naslov0="Slovene identity : the Canadian experience" source="Dve domovini/Two Homelands"
             year="1997" volume="8" page="216"/>
     </delo>
-    <delo mojID="38000">
+    <delo mojID="38000" cobiss="53149440">
         <naslov>Slovene immigrant history</naslov>
         <cit did="2862" cid="1" avtor0="Molek Ivan" naslov0="Slovene immigrant history" page="55"/>
     </delo>
-    <delo mojID="38001">
+    <delo mojID="38001" cobiss="53149440">
         <naslov>Slovene Immigrant History 1900–1950: Autobiographical Sketches by Ivan
                         (John) Molek</naslov>
         <cit did="2745" cid="18" avtor0="Molek Ivan"
@@ -31628,7 +31628,7 @@
             source="Mercator Education, http://www1.fa.knaw.nl/mercator/regionale_dossiers/ regional_dossier_slovene_in_italy.htm"
             year="2004"/>
     </delo>
-    <delo mojID="38004">
+    <delo mojID="38004" cobiss="1684596">
         <naslov>Slovene Intellectuals and the Communist Regime</naslov>
         <cit did="469" cid="1" avtor0="Gabrič Aleš"
             naslov0="Slovene Intellectuals and the Communist Regime" source="Slovene Studies"
@@ -31657,7 +31657,7 @@
         <cit did="1552" cid="16" avtor0="Bučar France" naslov0="Slovenec v Evropskem parlamentu"
             source="Nova revija" year="1988" volume="7" page="249-251"/>
     </delo>
-    <delo mojID="38016">
+    <delo mojID="38016" cobiss="6356488">
         <naslov>Slovene-English language contact in the USA</naslov>
         <cit did="2837" cid="26" avtor0="Šabec Nada"
             naslov0="Slovene-English language contact in the USA"
@@ -31718,19 +31718,19 @@
             naslov1="Navigation through a trubulent Transition" pubPlace="Ljubljana"
             publisher="Fakulteta za družbene vede" year="2000" page="8"/>
     </delo>
-    <delo mojID="38030">
+    <delo mojID="38030" cobiss="1948788">
         <naslov>Slovenia 1945: Memories of Death and Survival after World War II</naslov>
         <cit did="1897" cid="47" avtor0="Corsellis John, Ferrar Marcus"
             naslov0="Slovenia 1945: Memories of Death and Survival after World War II"
             pubPlace="London - New York" year="2005" page="71-72"/>
     </delo>
-    <delo mojID="38032">
+    <delo mojID="38032" cobiss="79759360">
         <naslov>Slovenia and Canada</naslov>
         <cit did="365" cid="7" avtor0="Ferfila Bogomil" avtor1="Phillips Paul"
             naslov0="Slovenia and Canada" naslov1="A Comparative Approach" pubPlace="Ljubljana"
             publisher="Fakulteta za družbene vede" year="1999" page="397"/>
     </delo>
-    <delo mojID="38034">
+    <delo mojID="38034" cobiss="10787629">
         <naslov>Slovenia as a part of a United Europe in the political philosophy of Slovene
                         emigrants from Louis Adamic to Miha Krek</naslov>
         <cit did="2837" cid="100" avtor0="Klemenčič Matjaž"
@@ -31786,7 +31786,7 @@
             naslov0="Slovenian Language in Australija: 25 years of Slovenian language..."
             publisher="Institut of Slovenian Studies" year="2003"/>
     </delo>
-    <delo mojID="38047">
+    <delo mojID="38047" cobiss="216918528">
         <naslov>Slovenian Priests and Priests of Slovenian Descent in the Catholic
                         Communities of California</naslov>
         <cit did="2837" cid="61" avtor0="Kolar Bogdan"
@@ -31801,7 +31801,7 @@
             naslov0="Slovenian reflections on the formation of the Norvvegian national and cultural identitv until World War II."
             pubPlace="Radovljica" year="2008"/>
     </delo>
-    <delo mojID="38049">
+    <delo mojID="38049" cobiss="369524">
         <naslov>Slovenian role in Yugoslav Economy</naslov>
         <cit did="2304" cid="12" avtor0="Hočevar Toussaint"
             naslov0="Slovenian role in Yugoslav Economy" pubPlace="Ohio" year="1964"/>
@@ -31814,12 +31814,12 @@
             source="Europe's New State of Welfare" pubPlace="Bristol" publisher="The Policy Press"
             year="2002"/>
     </delo>
-    <delo mojID="38054">
+    <delo mojID="38054" cobiss="369524">
         <naslov>Slovenia's Role in Yugoslav Economy</naslov>
         <cit did="2017" cid="25" avtor0="Hočevar Toussaint"
             naslov0="Slovenia's Role in Yugoslav Economy" pubPlace="Columbus" year="1964"/>
     </delo>
-    <delo mojID="38055">
+    <delo mojID="38055" cobiss="219960832">
         <naslov>Slovenica - balcanica. Zgodovinske študije</naslov>
         <cit did="2536" cid="57" avtor0="Voje Ignacij"
             naslov0="Slovenica - balcanica. Zgodovinske študije" pubPlace="Ljubljana"
@@ -31830,24 +31830,24 @@
         <cit did="3387" cid="11" avtor0="Golia Modest" naslov0="Slovenica I"
             source="Slavistična revija" year="1958" volume="11" page="130-131"/>
     </delo>
-    <delo mojID="38057">
+    <delo mojID="38057" cobiss="2343404">
         <naslov>Slovenica, peripli letterari italo-sloveni</naslov>
         <cit did="2135" cid="4" avtor0="Košuta Miran"
             naslov0="Slovenica, peripli letterari italo-sloveni" pubPlace="Trst" year="2005"
             page="132"/>
     </delo>
-    <delo mojID="38061">
+    <delo mojID="38061" cobiss="28340481">
         <naslov>Slovenija</naslov>
         <cit did="854" cid="42" avtor0="Melik Anton" naslov0="Slovenija" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1936"/>
     </delo>
-    <delo mojID="38062">
+    <delo mojID="38062" cobiss="224978176">
         <naslov>Slovenija 1945, Smrt in preživetje po drugi svetovni vojni</naslov>
         <cit did="2073" cid="11" avtor0="Corsellis John, Ferrar Marcus"
             naslov0="Slovenija 1945, Smrt in preživetje po drugi svetovni vojni"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2006"/>
     </delo>
-    <delo mojID="38063">
+    <delo mojID="38063" cobiss="50440704">
         <naslov>Slovenija 1945 - čas evforije, shizofrenije in paranoje</naslov>
         <cit did="2570" cid="8" avtor0="Nečak Dušan"
             naslov0="Slovenija 1945 - čas evforije, shizofrenije in paranoje" source="Borec"
@@ -31867,7 +31867,7 @@
             source="Slovenija v jugoslovanski federaciji" pubPlace="FSPN" publisher="Ljubljana"
             year="1987"/>
     </delo>
-    <delo mojID="38067">
+    <delo mojID="38067" cobiss="9522786">
         <naslov>Slovenija in evropski izzivi trajnostnega sonaravnega razvoja</naslov>
         <cit did="417" cid="8" avtor0="Plut Dušan"
             naslov0="Slovenija in evropski izzivi trajnostnega sonaravnega razvoja"
@@ -31881,7 +31881,7 @@
             source="Delo : Sobotna priloga : (6. februar 2010)" pubPlace="Ljubljana"
             publisher="Delo" year="2010" volume="52" page="2"/>
     </delo>
-    <delo mojID="38079">
+    <delo mojID="38079" cobiss="120324352">
         <naslov>Slovenija med Nemčijo in Italijo 1848-1968</naslov>
         <cit did="1662" cid="170" avtor0="Pleterski Janko"
             naslov0="Slovenija med Nemčijo in Italijo 1848-1968" source="Zbornik Milice Kacin"
@@ -31893,7 +31893,7 @@
             naslov0="Slovenija ne bo prva rušila Markoviča" source="Večer, 24. 4. 1991" year="1991"
         />
     </delo>
-    <delo mojID="38085">
+    <delo mojID="38085" cobiss="34022754">
         <naslov>Slovenija, odkod lepote tvoje ...</naslov>
         <cit did="3059" cid="26" avtor0="Ivan J." naslov0="Slovenija, odkod lepote tvoje ..."
             source="Smoletov vrt: komedija v treh dejanjih" pubPlace="Ljubljana"
@@ -31906,7 +31906,7 @@
             source="Knjižnica Annales Majora" pubPlace="Koper" publisher="Založba Annales"
             year="2005"/>
     </delo>
-    <delo mojID="38087">
+    <delo mojID="38087" cobiss="239545088">
         <naslov>Slovenija: pogled na njeno zgodovino</naslov>
         <cit did="2428" cid="10" avtor0="Granda Stane"
             naslov0="Slovenija: pogled na njeno zgodovino" pubPlace="Ljubljana"
@@ -31937,18 +31937,18 @@
         <cit did="3288" cid="121" avtor0="Aleš Franjo" naslov0="Slovenija - Slovencem!"
             source="Mladina" year="1926" volume="III" issue="4-5" page="97-98"/>
     </delo>
-    <delo mojID="38093">
+    <delo mojID="38093" cobiss="18857984">
         <naslov>Slovenija, Srbija, Jugoslavija</naslov>
         <cit did="433" cid="10" avtor0="Adam Frane" naslov0="Slovenija, Srbija, Jugoslavija"
             source="Nova revija" year="1990" issue="95"/>
     </delo>
-    <delo mojID="38095">
+    <delo mojID="38095" cobiss="110451">
         <naslov>Slovenija, ugodno bivališče kraljeve rodbine</naslov>
         <cit did="1802" cid="14" avtor0="Marušič Drago"
             naslov0="Slovenija, ugodno bivališče kraljeve rodbine" source="Dinastija Karađorđevića"
             pubPlace="Zagreb" year="1934" page="60"/>
     </delo>
-    <delo mojID="38096">
+    <delo mojID="38096" cobiss="19074816">
         <naslov>Slovenija : umetnostni vodnik</naslov>
         <cit did="279" cid="21" avtor0="Šumi Nace" naslov0="Slovenija : umetnostni vodnik"
             pubPlace="Ljubljana" year="1990" page="146"/>
@@ -31988,7 +31988,7 @@
         <cit did="3287" cid="78" avtor0="Pečauer Marko" naslov0="Slovenija v letu 2009"
             source="Delo : Sobotna priloga (31. 12. 2009)" pubPlace="Ljubljana" year="2009"/>
     </delo>
-    <delo mojID="38108">
+    <delo mojID="38108" cobiss="105583104">
         <naslov>Slovenija v času in prostoru</naslov>
         <cit did="2015" cid="39" avtor0="Vasle B." naslov0="Slovenija v času in prostoru"
             pubPlace="Ljubljana" year="2000"/>
@@ -32024,13 +32024,13 @@
             pubPlace="Zagreb, Ljubljana" publisher="Nacionalna i sveučilišna knjižnica, NUK"
             year="2006" page="7-16"/>
     </delo>
-    <delo mojID="38117">
+    <delo mojID="38117" cobiss="79819520">
         <naslov>Slovenizacija v kulturi</naslov>
         <cit did="2782" cid="14" avtor0="Dolenc Ervin" naslov0="Slovenizacija v kulturi"
             source="Slovenska novejša zgodovina: od programa Zedinjene Slovenije do mednarodnega priznanja Republike Slovenije 1848–1992"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="38120">
+    <delo mojID="38120" cobiss="20858424">
         <naslov>Slovenjegoriška četa</naslov>
         <cit did="1904" cid="4" avtor0="Rojic Vida" naslov0="Slovenjegoriška četa" pubPlace="Ptuj"
             year="1967" page="73-77"/>
@@ -32041,7 +32041,7 @@
             naslov0="Slovenještajerski trgi in mesta v 19. stoletju" source="ČZN" pubPlace="Maribor"
             year="1979" issue="1-2" page="237"/>
     </delo>
-    <delo mojID="38122">
+    <delo mojID="38122" cobiss="217019136">
         <naslov>Slovenka</naslov>
         <cit did="226" cid="217" avtor0="Vittorelli N." naslov0="Slovenka"
             naslov1="O prvem slovenskem ženskem časopisu" source="Zgodovina za vse"
@@ -32089,7 +32089,7 @@
             naslov0="Slovenska arhitektura v času slovenske moderne. Slovenski impresionisti in njihov čas 1890-1920"
             pubPlace="Ljubljana" publisher="Narodna galerija" year="2008" page="238-249"/>
     </delo>
-    <delo mojID="38136">
+    <delo mojID="38136" cobiss="16861440">
         <naslov>Slovenska cerkev med Bogom in cesarjem</naslov>
         <cit did="2253" cid="17" avtor0="Miklavčič France"
             naslov0="Slovenska cerkev med Bogom in cesarjem" source="Draga" pubPlace="Trst"
@@ -32107,7 +32107,7 @@
             naslov0="Slovenska demokratična zveza je na kongresu predlagala: Uveljavitev suverenosti Slovenije"
             pubPlace="Večer" year="0" page="4"/>
     </delo>
-    <delo mojID="38142">
+    <delo mojID="38142" cobiss="26769665">
         <naslov>Slovenska demokratska zveza v Gorici: 1947-1969</naslov>
         <cit did="1433" cid="10" avtor0="Sfiligoj Avgust"
             naslov0="Slovenska demokratska zveza v Gorici: 1947-1969" pubPlace="Gorica"
@@ -32139,23 +32139,23 @@
             publisher="Filozofska fakulteta: Znanstveni inštitut Filozofske fakultete" year="1996"
             page="11-26"/>
     </delo>
-    <delo mojID="38155">
+    <delo mojID="38155" cobiss="18048557">
         <naslov>Slovenska etnologija in marksizem: V vrtincu stoterih možnosti</naslov>
         <cit did="2853" cid="156" avtor0="Muršič Rajko"
             naslov0="Slovenska etnologija in marksizem: V vrtincu stoterih možnosti"
             source="Glasnik SED" year="2001" volume="41" page="19-26"/>
     </delo>
-    <delo mojID="38156">
+    <delo mojID="38156" cobiss="1087879">
         <naslov>Slovenska filharmonija 1908-1913</naslov>
         <cit did="370" cid="53" avtor0="Kuret Primož" naslov0="Slovenska filharmonija 1908-1913"
             source="Koncertni list Slovenske filharmonije, sezona 1968/69" year="1968" issue="3-6"/>
     </delo>
-    <delo mojID="38157">
+    <delo mojID="38157" cobiss="3731968">
         <naslov>Slovenska filharmonija in njene predhodnice</naslov>
         <cit did="370" cid="11" avtor0="Klemenčič Ivan"
             naslov0="Slovenska filharmonija in njene predhodnice" pubPlace="Ljubljana" year="1988"/>
     </delo>
-    <delo mojID="38158">
+    <delo mojID="38158" cobiss="691077">
         <naslov>Slovenska filmska dediščina -posvečeno 100-letnici slovenskega
                         filma</naslov>
         <cit did="1603" cid="6" avtor0="Rau-Selič Marta"
@@ -32163,20 +32163,20 @@
             source="Tehnični in vsebinski problemi klasičnega in elektronskega arhiviranja"
             issue="4" page="2005"/>
     </delo>
-    <delo mojID="38160">
+    <delo mojID="38160" cobiss="15958784">
         <naslov>Slovenska glasba in slovenska cerkev: 19. stoletje</naslov>
         <cit did="2196" cid="37" avtor0="Loparnik Borut"
             naslov0="Slovenska glasba in slovenska cerkev: 19. stoletje"
             source="Vloga cerkve v slovenskem kulturnem razvoju 19. stoletja: simpozij 1988"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1989" page="153-173"/>
     </delo>
-    <delo mojID="38167">
+    <delo mojID="38167" cobiss="2020212">
         <naslov>Slovenska imena za habsburški denar v 19. stoletju</naslov>
         <cit did="663" cid="32" avtor0="Pančur Andrej"
             naslov0="Slovenska imena za habsburški denar v 19. stoletju" source="Zgodovina za vse"
             year="2005" issue="2" page="64-65"/>
     </delo>
-    <delo mojID="38168">
+    <delo mojID="38168" cobiss="998099">
         <naslov>Slovenska in hrvaška duhovščina v Julijski krajini ob koncu druge svetovne
                         vojne</naslov>
         <cit did="1511" cid="272" avtor0="Pelikan Egon"
@@ -32184,50 +32184,49 @@
             source="Vojna in mir na Primorskem: od kapitulacije Italije leta 1943 do Londonskega memoranduma leta 1954"
             pubPlace="Koper" year="2005" page="113-118"/>
     </delo>
-    <delo mojID="38169">
+    <delo mojID="38169" cobiss="2963457">
         <naslov>Slovenska in jugoslovanska skupnost</naslov>
         <cit did="220" cid="41" avtor0="Ude Lojze" naslov0="Slovenska in jugoslovanska skupnost"
             pubPlace="Maribor" year="1972" page="254-255"/>
     </delo>
-    <delo mojID="38170">
+    <delo mojID="38170" cobiss="11331634">
         <naslov>Slovenska in politična zavest na Primorskem pred letom 1848</naslov>
         <cit did="2578" cid="11" avtor0="Marušič Branko"
             naslov0="Slovenska in politična zavest na Primorskem pred letom 1848"
             source="Goriški letnik" year="1983" volume="10" page="63-64"/>
     </delo>
-    <delo mojID="38173">
+    <delo mojID="38173" cobiss="457683">
         <naslov>Slovenska Istra - laboratorij za preučevanje regionalne identitete</naslov>
         <cit did="731" cid="3" avtor0="Kerma S., Plesec T."
             naslov0="Slovenska Istra - laboratorij za preučevanje regionalne identitete"
             source="Annales" pubPlace="Koper" year="2001" volume="11" issue="2" page="309-318"/>
     </delo>
-    <delo mojID="38174">
+    <delo mojID="38174" cobiss="651219">
         <naslov>Slovenska Istra stičišče jezikov in kultur : na kakšnih stališčih slonita
                         jezikovna in kulturna bodočnost tega prostora</naslov>
         <cit did="415" cid="11" avtor0="Furlan Metka"
             naslov0="Slovenska Istra stičišče jezikov in kultur : na kakšnih stališčih slonita jezikovna in kulturna bodočnost tega prostora"
             source="Annales" year="2003" issue="2" page="389-404"/>
     </delo>
-    <delo mojID="38175">
+    <delo mojID="38175" cobiss="506161">
         <naslov>Slovenska Istra v 19. stoletju s političnega, upravnega in nacionalnega
                         vidika</naslov>
         <cit did="2636" cid="158" avtor0="Žitko Salvatore"
             naslov0="Slovenska Istra v 19. stoletju s političnega, upravnega in nacionalnega vidika"
             source="Acta Histriae I" pubPlace="Koper-Milje" year="1993" page="109-116"/>
     </delo>
-    <delo mojID="38177">
+    <delo mojID="38177" cobiss="112297984">
         <naslov>Slovenska Istra - zaledje</naslov>
         <cit did="2497" cid="3" avtor0="Simič S." naslov0="Slovenska Istra - zaledje"
             pubPlace="Nova Gorica" publisher="IKI" year="2001"/>
     </delo>
-    <delo mojID="38178">
+    <delo mojID="38178" cobiss="64735488">
         <naslov>Slovenska Istra, Čičarija, Brkini in Kras : planinski vodnik</naslov>
         <cit did="2497" cid="2" avtor0="Kocjančič K., Bratož B."
             naslov0="Slovenska Istra, Čičarija, Brkini in Kras : planinski vodnik"
-            pubPlace="Ljubljana" publisher="Planinska založba Planinske zveze Slovenije" page="187"
-        />
+            pubPlace="Ljubljana" publisher="Planinska založba Planinske zveze Slovenije" page="187"/>
     </delo>
-    <delo mojID="38179">
+    <delo mojID="38179" cobiss="4521005">
         <naslov>Slovenska izseljenska društva v zahodnoevropskih državah med obema
                         svetovnima vojnama</naslov>
         <cit did="2671" cid="14" avtor0="Drnovšek Marjan"
@@ -32241,25 +32240,25 @@
             naslov0="Slovenska jezikovna politika nekoč in danes. Spremembe slovenskega jezika skozi čas in prostor. Zora 33"
             pubPlace="Maribor" publisher="Slavistično društvo" year="2005" page="192-207"/>
     </delo>
-    <delo mojID="38183">
+    <delo mojID="38183" cobiss="36531245">
         <naslov>Slovenska Karantanija in srednjeveška nemška država</naslov>
         <cit did="2647" cid="207" avtor0="Mal Josip"
             naslov0="Slovenska Karantanija in srednjeveška nemška država" source="Razprave SAZU"
             pubPlace="Ljubljana" year="1953" volume="1" issue="2" page="103-137"/>
     </delo>
-    <delo mojID="38184">
+    <delo mojID="38184" cobiss="22025728">
         <naslov>Slovenska katoliška obzorja</naslov>
         <cit did="634" cid="14" avtor0="Dolinar France" naslov0="Slovenska katoliška obzorja"
             naslov1="Izbor esejev, razprav, člankov" pubPlace="Buenos Aires" year="1990" page="593"
         />
     </delo>
-    <delo mojID="38186">
+    <delo mojID="38186" cobiss="112001280">
         <naslov>Slovenska klasična gimnazija v Trstu: ob 40-letnici obstoja</naslov>
         <cit did="3081" cid="15" avtor0="Rebula Alojz"
             naslov0="Slovenska klasična gimnazija v Trstu: ob 40-letnici obstoja"
             source="Tretji dan" year="1989" volume="43" issue="8" page="15"/>
     </delo>
-    <delo mojID="38189">
+    <delo mojID="38189" cobiss="8308992">
         <naslov>Slovenska književnost in barok</naslov>
         <cit did="1735" cid="57" avtor0="Pogačnik Jože" naslov0="Slovenska književnost in barok"
             source="Obdobje baroka v slovenskem jeziku, književnosti in kulturi. Mednarodni simpozij v Ljubljani od 1. do 3. julija 1987"
@@ -32271,7 +32270,7 @@
             naslov0="Slovenska književnost - leksikoni CZ" pubPlace="Ljubljana" year="1982"
             page="281"/>
     </delo>
-    <delo mojID="38191">
+    <delo mojID="38191" cobiss="16524801">
         <naslov>Slovenska koledniška dramatika</naslov>
         <cit did="1912" cid="75" avtor0="Kuret Niko" naslov0="Slovenska koledniška dramatika"
             pubPlace="Ljubljana" year="1986"/>
@@ -32281,12 +32280,12 @@
         <cit did="2232" cid="5" avtor0="Melik Anton" naslov0="Slovenska Koroška"
             source="Geografski vestnih" year="1948" volume="20-31" page="5-30"/>
     </delo>
-    <delo mojID="38196">
+    <delo mojID="38196" cobiss="15599105">
         <naslov>Slovenska krajevna imena</naslov>
         <cit did="301" cid="6" avtor0="Jakopin Franc idr." naslov0="Slovenska krajevna imena"
             pubPlace="Ljubljana" publisher="Cankarjeva Založba" year="1985"/>
     </delo>
-    <delo mojID="38197">
+    <delo mojID="38197" cobiss="716365">
         <naslov>Slovenska krajevna imena na avstrijskem Koroškem - Die Slowenischen
                         Ortsnamen in Kärnten</naslov>
         <cit did="2423" cid="73" avtor0="Zdovc Pavel"
@@ -32298,18 +32297,18 @@
         <cit did="262" cid="6" avtor0="Dolinar France M." naslov0="Slovenska krajina pokrajina"
             pubPlace="Ljubljana" year="1989" page="11"/>
     </delo>
-    <delo mojID="38199">
+    <delo mojID="38199" cobiss="7303168">
         <naslov>Slovenska kratka pripovedna proza 1892-1918 : bibliografija</naslov>
         <cit did="1307" cid="44" avtor0="Kocijan Gregor"
             naslov0="Slovenska kratka pripovedna proza 1892-1918 : bibliografija"
             pubPlace="Ljubljana" publisher="Znanstveni inštitut Filozofske fakultete"/>
     </delo>
-    <delo mojID="38202">
+    <delo mojID="38202" cobiss="14363538">
         <naslov>Slovenska krščansko delavska zveza</naslov>
         <cit did="1878" cid="1" avtor0="Gašparič Jure" naslov0="Slovenska krščansko delavska zveza"
             source="Kronika XIX. stoletja, 3. knjiga" pubPlace="Ljubljana" year="2003"/>
     </delo>
-    <delo mojID="38204">
+    <delo mojID="38204" cobiss="256822">
         <naslov>Slovenska krščanskosocialna zveza s posebnim ozirom na slovensko
                         krščanskosocialno zvezo za Štajersko</naslov>
         <cit did="700" cid="20" avtor0="Rajšp Vincenc"
@@ -32334,7 +32333,7 @@
         <cit did="2936" cid="21" avtor0="Borko Božidar" naslov0="Slovenska kultura v Jugoslaviji"
             source="Ob dvajsetletnici Jugoslavije" year="1938" page="195"/>
     </delo>
-    <delo mojID="38211">
+    <delo mojID="38211" cobiss="46535680">
         <naslov>Slovenska kulturna politika 1953-1962</naslov>
         <cit did="676" cid="2" avtor0="Gabrič Aleš" naslov0="Slovenska kulturna politika 1953-1962"
             pubPlace="Ljubljana" year="1995" page="305, 317, 332 idr."/>
@@ -32376,13 +32375,13 @@
             naslov0="Slovenska matica 1864-1964: Geografija" source="Zbornik razprav in člankov"
             pubPlace="Ljubljana" year="1964" page="195-219"/>
     </delo>
-    <delo mojID="38239">
+    <delo mojID="38239" cobiss="33524578">
         <naslov>Slovenska matica in akcija za zbiranje zemljepisnih imen</naslov>
         <cit did="2161" cid="16" avtor0="Šivic Dular Alenka"
             naslov0="Slovenska matica in akcija za zbiranje zemljepisnih imen" pubPlace="Ljubljana"
             publisher="Oddelek za slovanske jezike in književnosti" year="1989" page="85"/>
     </delo>
-    <delo mojID="38241">
+    <delo mojID="38241" cobiss="6672182">
         <naslov>Slovenska mesta in trgi</naslov>
         <cit did="1762" cid="60" avtor0="Gregorič J." naslov0="Slovenska mesta in trgi"
             source="Kronika slovenskih mest" pubPlace="Ljubljana" year="1940" volume="7"/>
@@ -32393,13 +32392,13 @@
             naslov0="Slovenska mesta v grafiki Luigija Kasimirja" source="Kronika slovenskih mest"
             year="1936" page="145-151"/>
     </delo>
-    <delo mojID="38243">
+    <delo mojID="38243" cobiss="9690881">
         <naslov>Slovenska mitologija</naslov>
         <cit did="715" cid="21" avtor0="Leger L." naslov0="Slovenska mitologija"
             source="Biblioteka Horizonti" pubPlace="Beograd" publisher="Založba Grafos" year="1984"
         />
     </delo>
-    <delo mojID="38245">
+    <delo mojID="38245" cobiss="512667519">
         <naslov>Slovenska nacionalna identiteta in kultura: navodila za uporabo</naslov>
         <cit did="2014" cid="7" avtor0="Dolar M."
             naslov0="Slovenska nacionalna identiteta in kultura: navodila za uporabo"
@@ -32412,13 +32411,13 @@
             source="Enciklopedija Slovenije, 12. zvezek" pubPlace="Ljubljana"
             publisher="Založba Mladinska knjiga" year="1998" page="6"/>
     </delo>
-    <delo mojID="38250">
+    <delo mojID="38250" cobiss="1790324">
         <naslov>Slovenska narodna pomoč</naslov>
         <cit did="1509" cid="123" avtor0="Deželak Barič Vida" naslov0="Slovenska narodna pomoč"
             source="Ilegalčki: vojna Ljubljana 1941–1945 : iz zapuščine Ade Krivic"
             pubPlace="Ljubljana" year="2004" page="279"/>
     </delo>
-    <delo mojID="38255">
+    <delo mojID="38255" cobiss="1191757">
         <naslov>Slovenska narodnostna manjšina v Italiji (o multidisciplinarnem proučevanju
                         narodnostnih manjšin)</naslov>
         <cit did="2753" cid="15" avtor0="Komac Miran"
@@ -32431,7 +32430,7 @@
         <cit did="1648" cid="17" avtor0="Baš Franjo" naslov0="Slovenska narodnostna meja na SZ"
             source="Naši obmejni problemi" pubPlace="Ljubljana" year="1936"/>
     </delo>
-    <delo mojID="38259">
+    <delo mojID="38259" cobiss="1235789">
         <naslov>Slovenska nevarnost: privid ali resničnost</naslov>
         <cit did="407" cid="3" avtor0="Fonda P."
             naslov0="Slovenska nevarnost: privid ali resničnost" source="Pretoki" pubPlace="Gorica"
@@ -32444,20 +32443,20 @@
             naslov0="Slovenska novejša zgodovina : od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1848-1992"
             pubPlace="Ljubljana" year="2005" page="1158-1206"/>
     </delo>
-    <delo mojID="38263">
+    <delo mojID="38263" cobiss="219499264">
         <naslov>Slovenska odporniška fotografija 1941-1945</naslov>
         <cit did="1324" cid="124" avtor0="Fabec F., Vončina D."
             naslov0="Slovenska odporniška fotografija 1941-1945" pubPlace="Ljubljana"
             publisher="Modrijan" year="2005"/>
     </delo>
-    <delo mojID="38265">
+    <delo mojID="38265" cobiss="10465536">
         <naslov>Slovenska opera v evropskem okviru - poročilo</naslov>
         <cit did="727" cid="37" avtor0="Stanovnik M."
             naslov0="Slovenska opera v evropskem okviru - poročilo" source="Primerjalna Književnost"
             pubPlace="Ljubljana" publisher="Društvo za primerjalno književnost SR Slovenije"
             year="1982" issue="2"/>
     </delo>
-    <delo mojID="38266">
+    <delo mojID="38266" cobiss="19264354">
         <naslov>Slovenska opera v Ljubljani</naslov>
         <cit did="727" cid="13" avtor0="Grdina I." naslov0="Slovenska opera v Ljubljani"
             source="Narod naš dokaze hrani .... 110 let ljubljanske Opere" pubPlace="Ljubljana"
@@ -32474,7 +32473,7 @@
             naslov0="&#34;Slovenska pesem je odpirala grška srca&#34;" source="Svobodna misel"
             pubPlace="Ljubljana" year="2002"/>
     </delo>
-    <delo mojID="38280">
+    <delo mojID="38280" cobiss="46002274">
         <naslov>Slovenska poezija, prešernovska struktura in politika pesniške
                         forme</naslov>
         <cit did="2970" cid="5" avtor0="Durič Dubravka"
@@ -32499,33 +32498,33 @@
             naslov0="Slovenska politika v Trstu ob koncu devetnajstega stoletja"
             source="Zgodovinski časopis" year="1977" issue="1-2" page="49-62"/>
     </delo>
-    <delo mojID="38298">
+    <delo mojID="38298" cobiss="18803757">
         <naslov>Slovenska politična emigracija v Argentini</naslov>
         <cit did="73" cid="147" avtor0="Žigon Zvone"
             naslov0="Slovenska politična emigracija v Argentini"
             source="Dve domovini/Two Homelands 13" pubPlace="Ljubljana"
             publisher="Inštitut za slovensko izseljenstvo ZRC SAZU" year="2001" page="111-132"/>
     </delo>
-    <delo mojID="38303">
+    <delo mojID="38303" cobiss="28760320">
         <naslov>Slovenska pot do samostojnosti in priznanja</naslov>
         <cit did="2712" cid="61" avtor0="Rupel Dimitrij"
             naslov0="Slovenska pot do samostojnosti in priznanja" pubPlace="Ljubljana"
             publisher="Kres" year="1992"/>
     </delo>
-    <delo mojID="38306">
+    <delo mojID="38306" cobiss="5671981">
         <naslov>Slovenska pošta, telegraf in telefon v kraljevini Jugoslaviji</naslov>
         <cit did="1330" cid="7" avtor0="Bezlaj-Krevel Ljudmila"
             naslov0="Slovenska pošta, telegraf in telefon v kraljevini Jugoslaviji"
             source="Pošta na slovenskih tleh" pubPlace="Maribor" publisher="Pošta Slovenije"
             year="1997" page="214"/>
     </delo>
-    <delo mojID="38309">
+    <delo mojID="38309" cobiss="3754867">
         <naslov>Slovenska prihodnost in odgovornost za resnico</naslov>
         <cit did="1872" cid="14" avtor0="Hribar Tine"
             naslov0="Slovenska prihodnost in odgovornost za resnico" source="Delo"
             pubPlace="Ljubljana" year="0"/>
     </delo>
-    <delo mojID="38318">
+    <delo mojID="38318" cobiss="1414355">
         <naslov>Slovenska radijska postaja v Trstu in Radio Koper: primerjava propagandnih
                         modelov</naslov>
         <cit did="2558" cid="7" avtor0="Bajc Gorazd"
@@ -32533,13 +32532,13 @@
             source="Dopoguerra di confine/Povojni čas ob meji" pubPlace="Trieste" publisher="IRSML"
             year="2007" page="255-262"/>
     </delo>
-    <delo mojID="38319">
+    <delo mojID="38319" cobiss="234607104">
         <naslov>Slovenska recepcija Emila Zolaja (1880-1945)</naslov>
         <cit did="2638" cid="69" avtor0="Smolej Tone"
             naslov0="Slovenska recepcija Emila Zolaja (1880-1945)" pubPlace="Ljubljana"
             publisher="založba ZRC" year="2007"/>
     </delo>
-    <delo mojID="38320">
+    <delo mojID="38320" cobiss="124812288">
         <naslov>Slovenska recepcija francoske naturalistične proze</naslov>
         <cit did="2638" cid="68" avtor0="Smolej Tone"
             naslov0="Slovenska recepcija francoske naturalistične proze"
@@ -32561,7 +32560,7 @@
             pubPlace="Ljubljana" publisher="Mladinska knjiga, Inštitut za novejšo zgodovino"
             year="2005" page="257–260"/>
     </delo>
-    <delo mojID="38323">
+    <delo mojID="38323" cobiss="80233216">
         <naslov>Slovenska rokopisna kulturna dediščina v NUK (1945-1995)</naslov>
         <cit did="2843" cid="59" avtor0="Glavan Mihael"
             naslov0="Slovenska rokopisna kulturna dediščina v NUK (1945-1995)"
@@ -32580,7 +32579,7 @@
             source="Enciklopedija Slovenije, zv. 12" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1998" page="11"/>
     </delo>
-    <delo mojID="38329">
+    <delo mojID="38329" cobiss="28618241">
         <naslov>Slovenska slovnica s kratkim pregledom slovenskega slovstva ter z malim
                         cirliskim in glagoliškim berilom za Slovence</naslov>
         <cit did="1623" cid="8" avtor0="Janežič Anton"
@@ -32597,13 +32596,13 @@
         <cit did="3365" cid="61" avtor0="Badiura Rudolf" naslov0="Slovenska smuška terminologija"
             source="Slovenski narod (6. in 7. 2. 1914)" year="1914"/>
     </delo>
-    <delo mojID="38332">
+    <delo mojID="38332" cobiss="228429056">
         <naslov>Slovenska socialdemokracija v Trstu 1889-1900</naslov>
         <cit did="547" cid="13" avtor0="Gombač Boris M."
             naslov0="Slovenska socialdemokracija v Trstu 1889-1900" source="Zgodovinski časopis"
             year="2006" volume="60" issue="1/2" page="95-121"/>
     </delo>
-    <delo mojID="38333">
+    <delo mojID="38333" cobiss="16970496">
         <naslov>Slovenska sprava</naslov>
         <cit did="1549" cid="3" avtor0="Stanovnik Justin" naslov0="Slovenska sprava"
             pubPlace="Ljubljana" year="1990"/>
@@ -32619,7 +32618,7 @@
             naslov0="Slovenska terminologija za mineralogijo" source="Glasnik slovenski" year="0"
             volume="9" issue="7" page="270-273"/>
     </delo>
-    <delo mojID="38343">
+    <delo mojID="38343" cobiss="27836514">
         <naslov>Slovenska umetnostna zgodovina nekdaj in danes</naslov>
         <cit did="1591" cid="5" avtor0="Höfler Janez"
             naslov0="Slovenska umetnostna zgodovina nekdaj in danes"
@@ -32643,36 +32642,36 @@
             source="Slovenska trideseta leta" pubPlace="Ljubljana" publisher="Slovenska matica"
             year="1997" page="202-209"/>
     </delo>
-    <delo mojID="38347">
+    <delo mojID="38347" cobiss="10498349">
         <naslov>Slovenska učiteljica ob koncu 19. stoletja</naslov>
         <cit did="2135" cid="3" avtor0="Hojan Tatjana"
             naslov0="Slovenska učiteljica ob koncu 19. stoletja" source="Šolska kronika" year="1998"
             issue="7" page="135-139"/>
     </delo>
-    <delo mojID="38348">
+    <delo mojID="38348" cobiss="66326784">
         <naslov>Slovenska učiteljska organizacija in Učiteljska tiskarna</naslov>
         <cit did="2055" cid="3" avtor0="Hojan Tatjana"
             naslov0="Slovenska učiteljska organizacija in Učiteljska tiskarna"
             source="Šolska kronika: zbornik za zgodovino šolstva in vzgoje" year="1996" volume="29"
             issue="5" page="189-200"/>
     </delo>
-    <delo mojID="38349">
+    <delo mojID="38349" cobiss="783361">
         <naslov>Slovenska vas na Dolenjskem</naslov>
         <cit did="3022" cid="223" avtor0="Möderndorfer Vinko" naslov0="Slovenska vas na Dolenjskem"
             pubPlace="Ljubljana" year="1938"/>
     </delo>
-    <delo mojID="38350">
+    <delo mojID="38350" cobiss="3519025">
         <naslov>Slovenska vas ob Vardarju</naslov>
         <cit did="1155" cid="15" avtor0="Škoberne Boža" naslov0="Slovenska vas ob Vardarju"
             source="Delo" year="0" volume="39" issue="68-80"/>
     </delo>
-    <delo mojID="38351">
+    <delo mojID="38351" cobiss="2352986">
         <naslov>Slovenska vernost na poti v moderni čas</naslov>
         <cit did="1829" cid="4" avtor0="Benedik M."
             naslov0="Slovenska vernost na poti v moderni čas" source="Zgodovina katoliške Cerkve"
             pubPlace="Celje" year="1999" page="534-543"/>
     </delo>
-    <delo mojID="38359">
+    <delo mojID="38359" cobiss="1025492">
         <naslov>Slovenska zahodna Ziljska dolina v prevratnih dneh 1918-1919</naslov>
         <cit did="438" cid="26" avtor0="Felaher Julij"
             naslov0="Slovenska zahodna Ziljska dolina v prevratnih dneh 1918-1919" source="Kronika"
@@ -32684,13 +32683,13 @@
             naslov1="Fara Device Marije v Polju" source="Ilustrirani Slovenec" year="1931"
             page="127-130"/>
     </delo>
-    <delo mojID="38363">
+    <delo mojID="38363" cobiss="179505">
         <naslov>Slovenska zemlja - samosvoje mesto Trst in mejna grofija Istra</naslov>
         <cit did="2625" cid="104" avtor0="Rutar Simon"
             naslov0="Slovenska zemlja - samosvoje mesto Trst in mejna grofija Istra"
             pubPlace="Ljubljana" publisher="Matica Slovenska" year="0"/>
     </delo>
-    <delo mojID="38369">
+    <delo mojID="38369" cobiss="120959488">
         <naslov>Slovenska zgodovina v sliki in besedi</naslov>
         <cit did="2781" cid="24" naslov0="Slovenska zgodovina v sliki in besedi"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2003"/>
@@ -32708,24 +32707,24 @@
             naslov0="Slovenska časniška govorica v Trstu in Gorici pred drugo svetovno vojno"
             source="Primorski dnevnik 1945-1995" pubPlace="Trst-Gorica-Čedad" year="1995"/>
     </delo>
-    <delo mojID="38375">
+    <delo mojID="38375" cobiss="35635201">
         <naslov>Slovenska šola in učitelj pred sodobnimi nalogami</naslov>
         <cit did="3377" cid="23" avtor0="Mencelj Martin"
             naslov0="Slovenska šola in učitelj pred sodobnimi nalogami" pubPlace="Maribor"
             year="1937"/>
     </delo>
-    <delo mojID="38376">
+    <delo mojID="38376" cobiss="56080640">
         <naslov>Slovenska šola v Istri</naslov>
         <cit did="1624" cid="70" avtor0="Marušič Milan" naslov0="Slovenska šola v Istri"
             source="Annales: anali za istrske in mediteranske študije" pubPlace="Koper" year="1995"
             volume="5" issue="6" page="179-196"/>
     </delo>
-    <delo mojID="38377">
+    <delo mojID="38377" cobiss="15877888">
         <naslov>Slovenska šola za novo tisočletje</naslov>
         <cit did="3173" cid="7" avtor0="Svetina Janez" naslov0="Slovenska šola za novo tisočletje"
             pubPlace="Radovljica" publisher="Didakta" year="1990"/>
     </delo>
-    <delo mojID="38380">
+    <delo mojID="38380" cobiss="5367582">
         <naslov>Slovenska Štajerska leta 1942</naslov>
         <cit did="2287" cid="94" avtor0="Ževart Milan" naslov0="Slovenska Štajerska leta 1942"
             source="Izbrana dela" pubPlace="Velenje" publisher="Založba Karantanija" year="2005"
@@ -32737,7 +32736,7 @@
             source="Slovenska žena" pubPlace="Ljubljana"
             publisher="Jougoslave Express Reclame Company" year="1926" page="226"/>
     </delo>
-    <delo mojID="38386">
+    <delo mojID="38386" cobiss="166773">
         <naslov>Slovenska ženska društva med obema vojnama (1918-1941)</naslov>
         <cit did="73" cid="110" avtor0="Jeraj Mateja"
             naslov0="Slovenska ženska društva med obema vojnama (1918-1941)" source="Arhivi"
@@ -32749,38 +32748,38 @@
             naslov0="Slovenske Alpe - kulturna pokrajina-naravni park-športna arena?" source="Dela"
             pubPlace="Ljubljana" year="1999" issue="13" page="47-62"/>
     </delo>
-    <delo mojID="38388">
+    <delo mojID="38388" cobiss="240604416">
         <naslov>Slovenske božje poti</naslov>
         <cit did="2423" cid="48" avtor0="Petrič Franci" naslov0="Slovenske božje poti"
             pubPlace="Ljubljana" year="2008"/>
     </delo>
-    <delo mojID="38389">
+    <delo mojID="38389" cobiss="240604416">
         <naslov>Slovenske božje poti: romanje - popotovanje v veri</naslov>
         <cit did="1788" cid="19" avtor0="Petrič Franci"
             naslov0="Slovenske božje poti: romanje - popotovanje v veri" pubPlace="Ljubljana"
             year="2008"/>
     </delo>
-    <delo mojID="38391">
+    <delo mojID="38391" cobiss="292130">
         <naslov>Slovenske (in slovanske) izposojenke v nemškem jeziku Koroške</naslov>
         <cit did="2076" cid="11" avtor0="Pohl Heinz Dieter"
             naslov0="Slovenske (in slovanske) izposojenke v nemškem jeziku Koroške"
             source="Slavistična revija, 37, 1989, str. 1-3, 253-262." year="1989" volume="37"
             issue="1-3" page="253-262"/>
     </delo>
-    <delo mojID="38392">
+    <delo mojID="38392" cobiss="167285">
         <naslov>Slovenske in zvezne turistične konference (1945-1949)</naslov>
         <cit did="2017" cid="18" avtor0="Glažar Natalija"
             naslov0="Slovenske in zvezne turistične konference (1945-1949)" source="Arhivi"
             pubPlace="Ljubljana" year="2000" issue="2" page="75-82"/>
     </delo>
-    <delo mojID="38393">
+    <delo mojID="38393" cobiss="14690816">
         <naslov>Slovenske izkušnje in nekatera vprašanja uporabe investicijskih meril na
                         narodnogospodarski ravni</naslov>
         <cit did="852" cid="4" avtor0="Gmeiner Pavle, Rop Anton" avtor1="Kraigher Tomaž"
             naslov0="Slovenske izkušnje in nekatera vprašanja uporabe investicijskih meril na narodnogospodarski ravni"
             source="Bančni vestnik" year="1986" volume="35" issue="6" page="172-182"/>
     </delo>
-    <delo mojID="38394">
+    <delo mojID="38394" cobiss="176595">
         <naslov>Slovenske kulturne ustanove na Primorskem med kulturnim in političnim
                         poslanstvom</naslov>
         <cit did="733" cid="6" avtor0="Gabrič Aleš"
@@ -32794,12 +32793,12 @@
             source="Slovenska kulturnopolitična in slovstvena zgodovina II" pubPlace="Ljubljana"
             year="1956" page="63-78"/>
     </delo>
-    <delo mojID="38396">
+    <delo mojID="38396" cobiss="6978304">
         <naslov>Slovenske ljudske vraže</naslov>
         <cit did="2625" cid="96" avtor0="Radešček Rado" naslov0="Slovenske ljudske vraže"
             pubPlace="Ljubljana" publisher="Časopisno založniško podjetje Kmečki glas" year="1988"/>
     </delo>
-    <delo mojID="38397">
+    <delo mojID="38397" cobiss="33663074">
         <naslov>Slovenske me več nočejo, Hrvatice me ne priznavajo čisto za svojo</naslov>
         <cit did="3072" cid="289" avtor0="Tucović Vladka" avtor1="Mihurko Poniž Katja"
             naslov0="Slovenske me več nočejo, Hrvatice me ne priznavajo čisto za svojo"
@@ -32808,7 +32807,7 @@
             pubPlace="Ljubljana" publisher="Slovensko etnološko društvo" year="2006" page="161-171"
         />
     </delo>
-    <delo mojID="38399">
+    <delo mojID="38399" cobiss="76612864">
         <naslov>Slovenske migracije v Italijo</naslov>
         <cit did="619" cid="8" avtor0="Gestrin Ferdo" naslov0="Slovenske migracije v Italijo"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1998"/>
@@ -32818,13 +32817,13 @@
         <cit did="450" cid="9" avtor0="Senegačnik Jure" naslov0="Slovenske planine"
             pubPlace="Ljubljana" year="1984"/>
     </delo>
-    <delo mojID="38403">
+    <delo mojID="38403" cobiss="86089">
         <naslov>Slovenske podložniške prisege patrimonialnega sodišča Bled</naslov>
         <cit did="2612" cid="126" avtor0="Ribnikar Peter"
             naslov0="Slovenske podložniške prisege patrimonialnega sodišča Bled"
             pubPlace="Ljubljana" year="1976"/>
     </delo>
-    <delo mojID="38408">
+    <delo mojID="38408" cobiss="74974976">
         <naslov>Slovenske pridige kapucina p. Angelika iz Kranja iz let 1766-1771</naslov>
         <cit did="1735" cid="72" avtor0="Senica Marko"
             naslov0="Slovenske pridige kapucina p. Angelika iz Kranja iz let 1766-1771"
@@ -32836,27 +32835,27 @@
         <cit did="1735" cid="106" avtor0="Demšar Viktorijan"
             naslov0="Slovenske pridige Petra Pavla Glavarja" pubPlace="Celje" year="1991"/>
     </delo>
-    <delo mojID="38410">
+    <delo mojID="38410" cobiss="3185202">
         <naslov>Slovenske pridige, Za prvo objavo pripravila in s spremnimi besedili
                         opremila Lojzka Bratuž</naslov>
         <cit did="2310" cid="14" avtor0="Attems Karel Michael"
             naslov0="Slovenske pridige, Za prvo objavo pripravila in s spremnimi besedili opremila Lojzka Bratuž"
             pubPlace="Trst" year="1993"/>
     </delo>
-    <delo mojID="38411">
+    <delo mojID="38411" cobiss="21210369">
         <naslov>Slovenske pripovedke o kralju Matjažu</naslov>
         <cit did="279" cid="2" avtor0="Grafenauer Ivan"
             naslov0="Slovenske pripovedke o kralju Matjažu" pubPlace="Ljubljana" publisher="SAZU"
             year="1951"/>
     </delo>
-    <delo mojID="38412">
+    <delo mojID="38412" cobiss="29970989">
         <naslov>Slovenske protestantske pesmi in protestantske liturgija</naslov>
         <cit did="2693" cid="29" avtor0="Snoj Jurij"
             naslov0="Slovenske protestantske pesmi in protestantske liturgija"
             source="Obdobja 27, reformacija na Slovenskem..." pubPlace="Ljubljana" year="2008"
             page="43"/>
     </delo>
-    <delo mojID="38413">
+    <delo mojID="38413" cobiss="692870">
         <naslov>Slovenske prvine v kočevski ljudski pesmi</naslov>
         <cit did="1442" cid="28" avtor0="Marolt France"
             naslov0="Slovenske prvine v kočevski ljudski pesmi" source="Kočevski zbornik"
@@ -32869,13 +32868,13 @@
             pubPlace="Ljubljana" publisher="Združenje Slovenska izseljenska matica" year="2001"
             page="117"/>
     </delo>
-    <delo mojID="38415">
+    <delo mojID="38415" cobiss="118977792">
         <naslov>Slovenske spravne motnje : alternativno videnje slovenske sprave</naslov>
         <cit did="1549" cid="10" avtor0="Pribac Bert"
             naslov0="Slovenske spravne motnje : alternativno videnje slovenske sprave"
             pubPlace="Canberra" year="2002"/>
     </delo>
-    <delo mojID="38416">
+    <delo mojID="38416" cobiss="2956803">
         <naslov>Slovenske starosvetnosti</naslov>
         <cit did="2612" cid="76" avtor0="Kotnik Franc" naslov0="Slovenske starosvetnosti"
             pubPlace="Ljubljana" year="1943"/>
@@ -32887,7 +32886,7 @@
             naslov0="Slovenske stranke v volilnoreformni situaciji in narodnostna politika..."
             publisher="Novi svet" year="1952" page="253-262"/>
     </delo>
-    <delo mojID="38421">
+    <delo mojID="38421" cobiss="6457348">
         <naslov>Slovenske župnijske osnovne šole v Ameriki 1895-1941</naslov>
         <cit did="2546" cid="9" avtor0="Friš Darko"
             naslov0="Slovenske župnijske osnovne šole v Ameriki 1895-1941" source="Šolska kronika"
@@ -32916,12 +32915,12 @@
             naslov0="Slovenski akt ob protireformacijski epizodi v Vipavi 1598"
             source="Slavistična revija IX" page="45-64"/>
     </delo>
-    <delo mojID="38426">
+    <delo mojID="38426" cobiss="41396480">
         <naslov>Slovenski alpski svet</naslov>
         <cit did="2161" cid="18" avtor0="Melik Anton" naslov0="Slovenski alpski svet"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1954"/>
     </delo>
-    <delo mojID="38427">
+    <delo mojID="38427" cobiss="19806562">
         <naslov>Slovenski antisemitizem 1861-1895</naslov>
         <cit did="2904" cid="119" avtor0="Štepec Marko" naslov0="Slovenski antisemitizem 1861-1895"
             naslov1="magistrska naloga" pubPlace="Ljubljana" year="1994"/>
@@ -32931,12 +32930,12 @@
         <cit did="94" cid="1" avtor0="Vurnik Ivan" naslov0="Slovenski arhitekt" source="Zbornik"
             pubPlace="Ljubljana" year="1994"/>
     </delo>
-    <delo mojID="38431">
+    <delo mojID="38431" cobiss="13102310">
         <naslov>Slovenski bančniki in leto 1945</naslov>
         <cit did="2304" cid="6" avtor0="Lazarević  Žarko" naslov0="Slovenski bančniki in leto 1945"
             source="Bančni vestnik" year="2002" volume="51" issue="10" page="55-57"/>
     </delo>
-    <delo mojID="38434">
+    <delo mojID="38434" cobiss="229016320">
         <naslov>Slovenski berlinski zid</naslov>
         <cit did="1519" cid="30" avtor0="Balažic Milan" naslov0="Slovenski berlinski zid"
             pubPlace="Ljubljana" year="2006"/>
@@ -32948,7 +32947,7 @@
             naslov0="Slovenski biografski leksikon I. Ljubljana: Zadružna gospodarska banka, 1925-1932"
             pubPlace="Ljubljana" publisher="Zadružna gospodarska banka, 1925-1932" page="93-94"/>
     </delo>
-    <delo mojID="38437">
+    <delo mojID="38437" cobiss="7248129">
         <naslov>Slovenski cerkveni skladatelji</naslov>
         <cit did="1822" cid="8" avtor0="Trobina S." naslov0="Slovenski cerkveni skladatelji"
             pubPlace="Maribor" year="1972" page="90"/>
@@ -32968,20 +32967,20 @@
             naslov0="Slovenski dialektološki leksikalni atlas Koprske pokrajine (SDLA - KP (D)"
             source="Teši di laurea" pubPlace="Trieste" publisher="Universita di Trieste" year="0"/>
     </delo>
-    <delo mojID="38443">
+    <delo mojID="38443" cobiss="64039936">
         <naslov>Slovenski dialektološki leksikalni atlas Tržaške pokrajine (SDLA -
                         TS)</naslov>
         <cit did="730" cid="1" avtor0="Cossutta Rada"
             naslov0="Slovenski dialektološki leksikalni atlas Tržaške pokrajine (SDLA - TS)"
             pubPlace="Trst" publisher="Universita di Trieste" year="1987"/>
     </delo>
-    <delo mojID="38447">
+    <delo mojID="38447" cobiss="71307">
         <naslov>Slovenski dom v Zagrebu: 1929-1999</naslov>
         <cit did="3072" cid="19" avtor0="Jerman Silvin" avtor1="Todorovski Ilinka"
             naslov0="Slovenski dom v Zagrebu: 1929-1999" pubPlace="Zagreb"
             publisher="Kulturno-prosvetno društvo Slovenski dom" year="1999" page="87"/>
     </delo>
-    <delo mojID="38449">
+    <delo mojID="38449" cobiss="22266368">
         <naslov>Slovenski domovi za stare ljudi</naslov>
         <cit did="170" cid="20" avtor0="Vovk Marija" naslov0="Slovenski domovi za stare ljudi"
             pubPlace="Ljubljana" publisher="Urbanistični inštitut SRS" year="1980"/>
@@ -32991,7 +32990,7 @@
         <cit did="2304" cid="14" avtor0="Hočevar Toussaint" naslov0="Slovenski družbeni razvoj"
             pubPlace="New Orleans" year="1977"/>
     </delo>
-    <delo mojID="38452">
+    <delo mojID="38452" cobiss="47238400">
         <naslov>Slovenski državni grb ni avtohton</naslov>
         <cit did="439" cid="27" avtor0="Jurečič Valt" naslov0="Slovenski državni grb ni avtohton"
             source="Slovenec" year="0" volume="76" issue="170" page="24"/>
@@ -33001,7 +33000,7 @@
         <cit did="439" cid="25" avtor0="Pogačnik Marko" naslov0="Slovenski državni simboli"
             source="Državni zbor republike Slovenije" pubPlace="Ljubljana" year="1995" page="46"/>
     </delo>
-    <delo mojID="38455">
+    <delo mojID="38455" cobiss="51043328">
         <naslov>Slovenski državni simboli, Slovenci in prihodnost</naslov>
         <cit did="1526" cid="8" avtor0="Ovsec Damjan"
             naslov0="Slovenski državni simboli, Slovenci in prihodnost" source="Nova revija"
@@ -33014,32 +33013,32 @@
             source="Izvestja Muzejskega društva za Kranjsko IX" year="1899" page="102-109, 125-133"
         />
     </delo>
-    <delo mojID="38460">
+    <delo mojID="38460" cobiss="218930432">
         <naslov>Slovenski faksimile v 19. in prvi polovici 20. stoletja: predmoderni
                         faksimile</naslov>
         <cit did="2057" cid="6" avtor0="Glavan Mihael"
             naslov0="Slovenski faksimile v 19. in prvi polovici 20. stoletja: predmoderni faksimile"
             source="Knjižnica" year="2004" volume="48" issue="4" page="7-36"/>
     </delo>
-    <delo mojID="38463">
+    <delo mojID="38463" cobiss="5176833">
         <naslov>Slovenski film: dokumenti in razmišljanja</naslov>
         <cit did="1603" cid="2" avtor0="Brenk France"
             naslov0="Slovenski film: dokumenti in razmišljanja" pubPlace="Ljubljana"
             publisher="Partizanska knjiga" year="1980"/>
     </delo>
-    <delo mojID="38464">
+    <delo mojID="38464" cobiss="104645120">
         <naslov>Slovenski fizik, znanstvenik in publicist</naslov>
         <cit did="1914" cid="86" avtor0="Lavrenčič Devana" avtor1="Čermelj Lavo"
             naslov0="Slovenski fizik, znanstvenik in publicist"
             source="Prirodoslovno društvo Slovenije" year="1999"/>
     </delo>
-    <delo mojID="38466">
+    <delo mojID="38466" cobiss="38068224">
         <naslov>Slovenski glasbenik Matej Babnik v luči novih odkritij</naslov>
         <cit did="370" cid="25" avtor0="Pokorn Danilo"
             naslov0="Slovenski glasbenik Matej Babnik v luči novih odkritij"
             source="Muzikološke razprave" pubPlace="Ljubljana" year="1993" page="89-103"/>
     </delo>
-    <delo mojID="38467">
+    <delo mojID="38467" cobiss="16315437">
         <naslov>Slovenski glasbeniki v graškem Ferdinandeju</naslov>
         <cit did="1912" cid="76" avtor0="Kuret Primož"
             naslov0="Slovenski glasbeniki v graškem Ferdinandeju" source="Muzikološki zbornik I."
@@ -33050,7 +33049,7 @@
         <cit did="1521" cid="9" avtor0="Poznič Andrej" naslov0="Slovenski gospodarski romantizem"
             source="Delo" year="0" page="17"/>
     </delo>
-    <delo mojID="38470">
+    <delo mojID="38470" cobiss="7483949">
         <naslov>Slovenski govori v Istri in njihova geneza</naslov>
         <cit did="411" cid="13" avtor0="Logar Tine"
             naslov0="Slovenski govori v Istri in njihova geneza" pubPlace="Ljubljana"
@@ -33061,7 +33060,7 @@
         <cit did="2432" cid="11" avtor0="Švanjcer Janez" naslov0="Slovenski hudič Malgaj"
             source="7D" year="0" issue="21"/>
     </delo>
-    <delo mojID="38474">
+    <delo mojID="38474" cobiss="22450733">
         <naslov>Slovenski intelektualci - izseljenci na Hrvaškem: Jernej Francelj
                         (1821-1889)</naslov>
         <cit did="2546" cid="19" avtor0="Gantar Godina Irena"
@@ -33074,19 +33073,19 @@
             naslov0="Slovenski izdelovalci godal v našem stoletju" naslov1="diplomska naloga"
             pubPlace="Ljubljana" publisher="Pedagoska fakulteta Ljubljana" year="1990"/>
     </delo>
-    <delo mojID="38477">
+    <delo mojID="38477" cobiss="822900">
         <naslov>Slovenski izgnanci 1941-1945 - civilne žrtve druge svetovne vojne</naslov>
         <cit did="1813" cid="31" avtor0="Ferenc Tone"
             naslov0="Slovenski izgnanci 1941-1945 - civilne žrtve druge svetovne vojne"
             source="Nekaj o vojni škodi in pravicah" pubPlace="Ljubljana" year="1996" page="5"/>
     </delo>
-    <delo mojID="38480">
+    <delo mojID="38480" cobiss="24460589">
         <naslov>Slovenski izobraženci iz Prage na Hrvaško</naslov>
         <cit did="2546" cid="20" avtor0="Gantar Godina Irena"
             naslov0="Slovenski izobraženci iz Prage na Hrvaško"
             source="Dve domovini - Two homelands" year="2005" volume="22" page="197-218"/>
     </delo>
-    <delo mojID="38482">
+    <delo mojID="38482" cobiss="25864493">
         <naslov>Slovenski izobraženci na Hrvaškem po letu 1868: Ivan Steklasa
                         (1846-1921)</naslov>
         <cit did="2546" cid="22" avtor0="Gantar Godina Irena"
@@ -33099,7 +33098,7 @@
             naslov0="Slovenski izseljenci. Geografski pregled predvojnega stanja"
             source="Geografski vestnik" year="1950" volume="22" page="1-58"/>
     </delo>
-    <delo mojID="38493">
+    <delo mojID="38493" cobiss="9673517">
         <naslov>Slovenski jezik : Cerkev</naslov>
         <cit did="3289" cid="141" avtor0="Weis Peter" naslov0="Slovenski jezik : Cerkev"
             source="Enciklopedija Slovenije : 12" pubPlace="Ljubljana" publisher="Mladinska knjiga"
@@ -33136,17 +33135,17 @@
             publisher="Filozofska fakulteta Univerze v Ljubljani, Oddelek za slovenistiko"
             year="2008"/>
     </delo>
-    <delo mojID="38507">
+    <delo mojID="38507" cobiss="103618304">
         <naslov>Slovenski kdo je kdo</naslov>
         <cit did="1515" cid="4" avtor0="Bajt Drago" naslov0="Slovenski kdo je kdo"
             pubPlace="Ljubljana" year="1999" page="113"/>
     </delo>
-    <delo mojID="38511">
+    <delo mojID="38511" cobiss="214468864">
         <naslov>Slovenski kmet na Cvenu (1848-2003)</naslov>
         <cit did="1712" cid="9" avtor0="Puconja Miran" naslov0="Slovenski kmet na Cvenu (1848-2003)"
             naslov1="doktorska disertacija" year="2004"/>
     </delo>
-    <delo mojID="38514">
+    <delo mojID="38514" cobiss="28537345">
         <naslov>Slovenski knjižni jezik 4</naslov>
         <cit did="2265" cid="6" avtor0="Toporišič Jože" naslov0="Slovenski knjižni jezik 4"
             pubPlace="Maribor" year="1970" page="8-15"/>
@@ -33189,21 +33188,21 @@
         <cit did="279" cid="11" avtor0="Ocvirk Anton" naslov0="Slovenski kulturni problemi"
             source="Ljubljanski zvon" year="1931" page="241-249"/>
     </delo>
-    <delo mojID="38528">
+    <delo mojID="38528" cobiss="36482402">
         <naslov>Slovenski kulturni sindrom v nacionalni in primerjalni literarni
                         zgodovini</naslov>
         <cit did="2970" cid="7" avtor0="Juvan Marko"
             naslov0="Slovenski kulturni sindrom v nacionalni in primerjalni literarni zgodovini"
             source="Slavistična revija" year="2008" volume="56" page="1-17"/>
     </delo>
-    <delo mojID="38534">
+    <delo mojID="38534" cobiss="563846">
         <naslov>Slovenski likovni ustvarjalci v Avstraliji</naslov>
         <cit did="599" cid="13" avtor0="Toplak Kristina"
             naslov0="Slovenski likovni ustvarjalci v Avstraliji"
             naslov1="Vpliv izseljenske izkušnje na likovno umetnost" source="Etnolog" year="2003"
             volume="13" page="469-484"/>
     </delo>
-    <delo mojID="38539">
+    <delo mojID="38539" cobiss="50704128">
         <naslov>Slovenski nacionalni program med graditvijo socializma</naslov>
         <cit did="843" cid="2" avtor0="Klopčič France"
             naslov0="Slovenski nacionalni program med graditvijo socializma"
@@ -33217,7 +33216,7 @@
             naslov0="Slovenski nacionalni programi: narodni programi v slovenski politični misli od 1848 do 1945"
             pubPlace="Ljubljana" year="1986" page="212-218"/>
     </delo>
-    <delo mojID="38541">
+    <delo mojID="38541" cobiss="46152960">
         <naslov>Slovenski nacionalno-politični program v svojem zgodovinskem
                         razvoju</naslov>
         <cit did="2214" cid="4" avtor0="Erjavec Fran"
@@ -33265,7 +33264,7 @@
             pubPlace="Ljubljana" publisher="Slovenska izseljenska matica" year="2001" page="187-191"
         />
     </delo>
-    <delo mojID="38551">
+    <delo mojID="38551" cobiss="803700">
         <naslov>Slovenski narodoosvobodilni svet (1944-1946), organizacija, pristojnosti in
                         arhivsko gradivo</naslov>
         <cit did="500" cid="1" avtor0="Prinčič Jože"
@@ -33291,7 +33290,7 @@
             naslov1="Avtonomistična prizadevanja skupščin ljubljanske in mariborske oblasti za ekonomsko-socialni in prosvetno-kulturni razvoj Slovenije ter za udejanjanje parlamentarizma"
             pubPlace="Ljubljana" year="2000" page="41, 48, 53-54, 134, 241"/>
     </delo>
-    <delo mojID="38559">
+    <delo mojID="38559" cobiss="20201565">
         <naslov>Slovenski parlamentarizem in učinkovitost slovenskega parlamenta</naslov>
         <cit did="2820" cid="12" avtor0="Zajc Drago"
             naslov0="Slovenski parlamentarizem in učinkovitost slovenskega parlamenta"
@@ -33304,12 +33303,12 @@
             naslov0="Slovenski parlamentarizem v demokratični Sloveniji"
             source="Parlamentarna izkušnja Slovencev" pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="38566">
+    <delo mojID="38566" cobiss="43136512">
         <naslov>Slovenski politiki izza pomladi narodov</naslov>
         <cit did="2618" cid="55" avtor0="Kržišnik Zvone"
             naslov0="Slovenski politiki izza pomladi narodov" pubPlace="Ljubljana" year="1994"/>
     </delo>
-    <delo mojID="38571">
+    <delo mojID="38571" cobiss="6224717">
         <naslov>Slovenski poljedelski sezonski delavci v Železni županiji v 20.
                         stoletju</naslov>
         <cit did="2763" cid="5" avtor0="Munda Hirnök Katalin"
@@ -33317,7 +33316,7 @@
             source="Nemzetiség – identitás: a IV. nemzetközi néprajzi nemzetiségkutató konferencia előadásai"
             pubPlace="Békéscsaba = Debrecen" publisher="Ethnica" year="1991" page="216–222"/>
     </delo>
-    <delo mojID="38572">
+    <delo mojID="38572" cobiss="153727">
         <naslov>Slovenski polki in njihovi znaki v prvi svetovni vojni</naslov>
         <cit did="2432" cid="3" avtor0="Švanjcer Janez"
             naslov0="Slovenski polki in njihovi znaki v prvi svetovni vojni"
@@ -33330,12 +33329,12 @@
             naslov0="Slovenski pooblaščenec za srbsko narodno skupščino l. 1848" source="ZMS"
             year="1907" page="28"/>
     </delo>
-    <delo mojID="38574">
+    <delo mojID="38574" cobiss="23511041">
         <naslov>"Slovenski poročevalec 1941"</naslov>
         <cit did="860" cid="176" avtor0="Škerl Franc" naslov0="&#34;Slovenski poročevalec 1941&#34;"
             source="Slovenski poročevalec" pubPlace="Ljubljana" year="1951" page="13-19"/>
     </delo>
-    <delo mojID="38575">
+    <delo mojID="38575" cobiss="13882925">
         <naslov>Slovenski poslanci na Dunaju in v Beogradu</naslov>
         <cit did="1630" cid="13" avtor0="Melik Vasilij"
             naslov0="Slovenski poslanci na Dunaju in v Beogradu" source="Mikužev zbornik"
@@ -33371,7 +33370,7 @@
             source="Ameriška domovina (priloga Slovenija, 5/8)" pubPlace="Cleveland" year="0"
             volume="54" issue="179" page="1"/>
     </delo>
-    <delo mojID="38586">
+    <delo mojID="38586" cobiss="241861120">
         <naslov>Slovenski prostor od Keltov do Slovanov</naslov>
         <cit did="2240" cid="13" avtor0="Šašel Jaroslav"
             naslov0="Slovenski prostor od Keltov do Slovanov" source="Kronika" year="1978"
@@ -33383,7 +33382,7 @@
             naslov0="Slovenski protestatnti v kolonialni Georgiji"
             source="Časopis za zgodovino in narodopisje" year="1968" volume="39" page="145-152"/>
     </delo>
-    <delo mojID="38590">
+    <delo mojID="38590" cobiss="468852">
         <naslov>Slovenski razvojni načrti v drugi Jugoslaviji - od jugoslovanskega k
                         slovenskemu gospodarstvu</naslov>
         <cit did="494" cid="2" avtor0="Prinčič Jože"
@@ -33396,7 +33395,7 @@
             naslov0="Slovenski Romi : »Avtohtoni indijski nomadi?«" source="Emzin (Ljubl.)"
             year="2000" volume="10" issue="3/4" page="79–81"/>
     </delo>
-    <delo mojID="38595">
+    <delo mojID="38595" cobiss="25761378">
         <naslov>Slovenski slavist med balkanskimi "čifuti"</naslov>
         <cit did="2323" cid="15" avtor0="Vinkler J."
             naslov0="Slovenski slavist med balkanskimi &#34;čifuti&#34;"
@@ -33413,7 +33412,7 @@
         <cit did="1234" cid="1" avtor0="Benčina Martin" naslov0="Slovenski sodobni umetniki"
             source="Umetniško zbornik 1" pubPlace="Ljubljana" year="1943" page="239"/>
     </delo>
-    <delo mojID="38599">
+    <delo mojID="38599" cobiss="242045440">
         <naslov>Slovenski spomeniki padlim v prvi svetovni vojni</naslov>
         <cit did="1051" cid="2" avtor0="Čopič Špelca"
             naslov0="Slovenski spomeniki padlim v prvi svetovni vojni" source="Kronika" year="1987"
@@ -33477,14 +33476,14 @@
             naslov0="Slovenski veliki leksikon P-Ž. 1. izdaja, 1. natis, Zvezek 3."
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2005"/>
     </delo>
-    <delo mojID="38619">
+    <delo mojID="38619" cobiss="78654976">
         <naslov>Slovenski volivci v geografskem in ideološkem prostoru</naslov>
         <cit did="1280" cid="9" avtor0="Kropivnik Samo"
             naslov0="Slovenski volivci v geografskem in ideološkem prostoru"
             naslov1="Analiza volitev v letih 1990 in 1992" pubPlace="Ljubljana"
             publisher="Fakulteta za družbene vede" year="1998" page="69, 71-72, ..."/>
     </delo>
-    <delo mojID="38620">
+    <delo mojID="38620" cobiss="1100043614">
         <naslov>Slovenski »zapovedni list« iz leta 1570 in novi vinski davek</naslov>
         <cit did="3465" cid="44" avtor0="Jug Stanko"
             naslov0="Slovenski »zapovedni list« iz leta 1570 in novi vinski davek"
@@ -33498,7 +33497,7 @@
             source="Dachau – spomin in opomin: primeri preganjanja antifašistov iz Koroške; ob 100-letnici rojstva Folteja Hartmana in ob 75-letnici Moškega Pevskega Zbora “Foltej Hartman” Slovenskega Prosvetnega Društva “Edinost” v Pliberku / Dachau – Erinnern und Gedenken:"
             pubPlace="Klagenfurt/Celovec" publisher="Založba Drava" year="2007" page="58-64"/>
     </delo>
-    <delo mojID="38622">
+    <delo mojID="38622" cobiss="7194669">
         <naslov>Slovenski zgodovinarji o Frideriku Ireneju Baragi</naslov>
         <cit did="2837" cid="44" avtor0="Vovko Andrej"
             naslov0="Slovenski zgodovinarji o Frideriku Ireneju Baragi" source="Tretji dan"
@@ -33511,7 +33510,7 @@
             naslov1="Prehodi v manj kot dveh mesecih" source="Porabje" pubPlace="Monošter"
             year="1991" volume="1" issue="16" page="2"/>
     </delo>
-    <delo mojID="38628">
+    <delo mojID="38628" cobiss="1767221">
         <naslov>Slovenski člani jugoslovanske delegacije na pariški mirovni konferenci
                         1919-1920</naslov>
         <cit did="2274" cid="105" avtor0="Himmelreich Bojan"
@@ -33519,31 +33518,31 @@
             source="Celjski zbornik" pubPlace="Celje" publisher="Osrednja knjižnica Celje"
             year="1993" page="163-179"/>
     </delo>
-    <delo mojID="38629">
+    <delo mojID="38629" cobiss="1104581214">
         <naslov>Slovenski človek</naslov>
         <cit did="3288" cid="222" avtor0="Kocbek Edvard" naslov0="Slovenski človek" source="Dejanje"
             year="1938" volume="I" issue="1" page="1-3"/>
     </delo>
-    <delo mojID="38630">
+    <delo mojID="38630" cobiss="30720256">
         <naslov>Slovenski škofje na drugem vatikanskem vesoljnem cerkvenem zboru
                         (1962-1965)</naslov>
         <cit did="1855" cid="1" avtor0="Papež Viktor"
             naslov0="Slovenski škofje na drugem vatikanskem vesoljnem cerkvenem zboru (1962-1965)"
             pubPlace="Ljubljana" year="1992" volume="5" issue="11"/>
     </delo>
-    <delo mojID="38631">
+    <delo mojID="38631" cobiss="901">
         <naslov>Slovenski Štajer - Dežela in ljudstvo, Narodno gospodarstvo</naslov>
         <cit did="3345" cid="4" avtor0="Geršak Ivan"
             naslov0="Slovenski Štajer - Dežela in ljudstvo, Narodno gospodarstvo"
             pubPlace="Ljubljana" year="1868"/>
     </delo>
-    <delo mojID="38632">
+    <delo mojID="38632" cobiss="241206272">
         <naslov>Slovenski študentje na dunajski univerzi v 16 stol.</naslov>
         <cit did="3192" cid="12" avtor0="Janžekovič Janez"
             naslov0="Slovenski študentje na dunajski univerzi v 16 stol." source="Kronika"
             year="1977" volume="25" page="167-177"/>
     </delo>
-    <delo mojID="38634">
+    <delo mojID="38634" cobiss="4595298">
         <naslov>Slovenski ženski roman</naslov>
         <cit did="2638" cid="117" avtor0="Hladnik Miran" naslov0="Slovenski ženski roman"
             source="Slavistična revija" year="1981" volume="29" issue="3" page="259-296"/>
@@ -33560,7 +33559,7 @@
             naslov0="Slovensko a Slováci v diele „Rakúsko-uhorská monarchia slovom a obrazom&#34;"
             source="Slovensky národopis" year="2001" volume="49" issue="1"/>
     </delo>
-    <delo mojID="38637">
+    <delo mojID="38637" cobiss="1839731">
         <naslov>Slovensko bančništvo in posojilništvo na Goriškem</naslov>
         <cit did="714" cid="8" avtor0="Waltritsch Marko"
             naslov0="Slovensko bančništvo in posojilništvo na Goriškem" pubPlace="Trst, Gorica"
@@ -33572,20 +33571,20 @@
             naslov0="Slovensko berilo za drugi gimnazialni razred" pubPlace="Ljubljana" year="0"
             page="I-II"/>
     </delo>
-    <delo mojID="38643">
+    <delo mojID="38643" cobiss="13449992">
         <naslov>Slovensko besedje v panonskem jezikovnem prostoru</naslov>
         <cit did="1007" cid="6" avtor0="Jesenšek Marko"
             naslov0="Slovensko besedje v panonskem jezikovnem prostoru"
             source="Besedoslovne lastnosti slovenskega knjižnega jezika in narečij"
             pubPlace="Maribor" year="2004" page="7-169"/>
     </delo>
-    <delo mojID="38645">
+    <delo mojID="38645" cobiss="91481344">
         <naslov>Slovensko dekle</naslov>
         <cit did="1325" cid="23" avtor0="Kalan Janez, Jeglič Anton Bonaventura"
             naslov0="Slovensko dekle" naslov1="Kažipot našim mladenkam" pubPlace="Maribor"
             year="1929" page="156, 157, 159-160"/>
     </delo>
-    <delo mojID="38653">
+    <delo mojID="38653" cobiss="11122509">
         <naslov>Slovensko družtvo na Reki u Riečkom novom listu od 1909. do 1913.
                         godine</naslov>
         <cit did="2646" cid="28" avtor0="Riman Barbara"
@@ -33597,19 +33596,19 @@
         <cit did="1856" cid="2" avtor0="Bohinec A." naslov0="Slovensko duhovniško društvo"
             source="ES" pubPlace="Ljubljana" year="1998" volume="12" issue="59"/>
     </delo>
-    <delo mojID="38657">
+    <delo mojID="38657" cobiss="1106812510">
         <naslov>Slovensko glasbeno življenje v letu 1925</naslov>
         <cit did="727" cid="44" avtor0="Vurnik S."
             naslov0="Slovensko glasbeno življenje v letu 1925" source="Dom in svet"
             pubPlace="Ljubljana" year="1926" page="61-64"/>
     </delo>
-    <delo mojID="38658">
+    <delo mojID="38658" cobiss="1106943582">
         <naslov>Slovensko glasbeno življenje v letu 1926</naslov>
         <cit did="727" cid="45" avtor0="Vurnik S."
             naslov0="Slovensko glasbeno življenje v letu 1926" source="Dom in svet"
             pubPlace="Ljubljana" year="1927" volume="3" issue="128"/>
     </delo>
-    <delo mojID="38661">
+    <delo mojID="38661" cobiss="29359105">
         <naslov>Slovensko gledališče. Zgodovina gledaliških predstav in dramatične
                         književnosti slovenske</naslov>
         <cit did="2638" cid="79" avtor0="Trstenjak Anton"
@@ -33623,20 +33622,20 @@
             naslov0="Slovensko gospodarsko v prvi Jugoslaviji: korak k industrijski družbi"
             pubPlace="Ljubljana" publisher="Modrijan" year="1997"/>
     </delo>
-    <delo mojID="38665">
+    <delo mojID="38665" cobiss="890228">
         <naslov>Slovensko gospodarstvo od konca druge svetovne vojne do velike reforme :
                         (1945-1970)</naslov>
         <cit did="539" cid="1" avtor0="Prinčič Jože"
             naslov0="Slovensko gospodarstvo od konca druge svetovne vojne do velike reforme : (1945-1970)"
             source="Preteklost sodobnosti" pubPlace="Ljubljana" year="1999"/>
     </delo>
-    <delo mojID="38668">
+    <delo mojID="38668" cobiss="3670558">
         <naslov>Slovensko gospodarstvo v Gorici</naslov>
         <cit did="1317" cid="131" avtor0="Waltritsch Marko"
             naslov0="Slovensko gospodarstvo v Gorici" source="Od Maribora do Trsta"
             pubPlace="Maribor" year="1998" page="77-84"/>
     </delo>
-    <delo mojID="38673">
+    <delo mojID="38673" cobiss="35344640">
         <naslov>Slovensko - hrvatska jezikovna meja v Istri. Gradivo za obdobje od leta 1860
                         do 1956</naslov>
         <cit did="3476" cid="12" avtor0="Ostanek F."
@@ -33652,7 +33651,7 @@
             publisher="Zveza zgodovinskih društev Slovenije" year="2008" issue="3-4" page="393-407"
         />
     </delo>
-    <delo mojID="38678">
+    <delo mojID="38678" cobiss="1104580446">
         <naslov>Slovensko izseljenstvo</naslov>
         <cit did="619" cid="21" avtor0="Kocbek Edvard" naslov0="Slovensko izseljenstvo"
             source="Dejanje" year="2013" page="87-90"/>
@@ -33693,26 +33692,26 @@
         <cit did="96" cid="13" avtor0="Lah Andrijan" naslov0="Slovensko ljudsko gledališče Celje"
             source="Živo gledališče" pubPlace="Ljubljana" year="1975" page="215-261"/>
     </delo>
-    <delo mojID="38698">
+    <delo mojID="38698" cobiss="9312257">
         <naslov>Slovensko ljudstvo in slovenska kultura</naslov>
         <cit did="388" cid="5" avtor0="Cankar Ivan"
             naslov0="Slovensko ljudstvo in slovenska kultura"
             source="Cankar Ivan: Zbrano delo, Bd. 25: Politični članki in satire. Govori in predavanja"
             pubPlace="Ljubljana" year="1976" page="165-173"/>
     </delo>
-    <delo mojID="38700">
+    <delo mojID="38700" cobiss="883829">
         <naslov>Slovensko meščansko šolstvo po letu 1918 - do sprejetja zakona o meščanskih
                         šolah</naslov>
         <cit did="3377" cid="20" avtor0="Maček Jure"
             naslov0="Slovensko meščansko šolstvo po letu 1918 - do sprejetja zakona o meščanskih šolah"
             source="Arhivi" year="2007" volume="30" issue="1-2"/>
     </delo>
-    <delo mojID="38707">
+    <delo mojID="38707" cobiss="4489549">
         <naslov>Slovensko - nemška meja na Kočevskem</naslov>
         <cit did="3485" cid="3" avtor0="Beg Ante" naslov0="Slovensko - nemška meja na Kočevskem"
             pubPlace="Ljubljana" year="1911"/>
     </delo>
-    <delo mojID="38710">
+    <delo mojID="38710" cobiss="469876">
         <naslov>Slovensko osvobodilno gibanje na Goriškem</naslov>
         <cit did="1385" cid="5" avtor0="Mlakar Boris"
             naslov0="Slovensko osvobodilno gibanje na Goriškem"
@@ -33720,17 +33719,17 @@
             pubPlace="Gorica" publisher="Istituto di storia sociale e religiosa" year="1997"
             page="190"/>
     </delo>
-    <delo mojID="38711">
+    <delo mojID="38711" cobiss="76231424">
         <naslov>Slovensko ozemlje in nemška publicistika</naslov>
         <cit did="1511" cid="330" avtor0="Serajnik Lojze (Bogo Grafenauer)"
             naslov0="Slovensko ozemlje in nemška publicistika" pubPlace="Ljubljana" year="1939"/>
     </delo>
-    <delo mojID="38713">
+    <delo mojID="38713" cobiss="439924">
         <naslov>Slovensko pesništvo upora II</naslov>
         <cit did="1511" cid="266" avtor0="Paternu Boris" naslov0="Slovensko pesništvo upora II"
             pubPlace="Novo mesto" year="1995"/>
     </delo>
-    <delo mojID="38714">
+    <delo mojID="38714" cobiss="254633216">
         <naslov>Slovensko planinstvo = Slovene mountaineering</naslov>
         <cit did="3156" cid="4" avtor0="Mikša Peter, Ajlec Kornelija"
             naslov0="Slovensko planinstvo = Slovene mountaineering" pubPlace="Ljubljana"
@@ -33756,7 +33755,7 @@
             source="Carlo M. d’Attems primo arcivescovo di Gorizia 1752-1774. Atti del Convegno"
             pubPlace="Gorizia" year="1990" page="403-410"/>
     </delo>
-    <delo mojID="38727">
+    <delo mojID="38727" cobiss="41395712">
         <naslov>Slovensko Primorje, Slovenija</naslov>
         <cit did="2614" cid="4" avtor0="Melik Anton" naslov0="Slovensko Primorje, Slovenija"
             source="Slovensko Primorje" pubPlace="Ljubljana" year="1960" page="15-71"/>
@@ -33768,18 +33767,18 @@
             source="Študijska knjižnica v Kopru 1951-1961" pubPlace="Koper" year="1961" page="25-87"
         />
     </delo>
-    <delo mojID="38729">
+    <delo mojID="38729" cobiss="68972800">
         <naslov>Slovensko semenišče v izseljenstvu</naslov>
         <cit did="1854" cid="3" avtor0="Škulj E." naslov0="Slovensko semenišče v izseljenstvu"
             pubPlace="Ljubljana" year="1997" page="108-111"/>
     </delo>
-    <delo mojID="38730">
+    <delo mojID="38730" cobiss="6673408">
         <naslov>Slovensko skladenjsko besedotvorje ob primerih zloženk</naslov>
         <cit did="394" cid="15" avtor0="Vidovič-Muha Ada"
             naslov0="Slovensko skladenjsko besedotvorje ob primerih zloženk" pubPlace="Ljubljana"
             publisher="Partizanska knjiga" year="1988"/>
     </delo>
-    <delo mojID="38731">
+    <delo mojID="38731" cobiss="121006848">
         <naslov>Slovensko, slovansko in južnoslovansko vprašanje pri Slovencih na prelomu
                         60-ih in 70-ih let</naslov>
         <cit did="2274" cid="166" avtor0="Prijatelj Ivan"
@@ -33787,14 +33786,14 @@
             source="Razprave Znanstvenega društva za humanistične vede" pubPlace="Ljubljana"
             publisher="Znanstveno društvo" year="1927" volume="5" page="57-138"/>
     </delo>
-    <delo mojID="38732">
+    <delo mojID="38732" cobiss="120020">
         <naslov>Slovensko slovstvo na Koroškem, živ člen vseslovenskega slovstva</naslov>
         <cit did="3300" cid="10" avtor0="Grafenauer Ivan"
             naslov0="Slovensko slovstvo na Koroškem, živ člen vseslovenskega slovstva"
             source="Koroški zbornik" pubPlace="Ljubljana" publisher="DZS" year="1946" page="284-344"
         />
     </delo>
-    <delo mojID="38734">
+    <delo mojID="38734" cobiss="48778240">
         <naslov>Slovensko slovstvo v obdobju razsvetljenstva</naslov>
         <cit did="2130" cid="9" avtor0="Pogačnik Jože"
             naslov0="Slovensko slovstvo v obdobju razsvetljenstva" pubPlace="Ljubljana" year="1995"
@@ -33804,27 +33803,27 @@
         <naslov>Slovensko splošno žensko društvo</naslov>
         <cit did="2411" cid="24" avtor0="Dobova Mila" naslov0="Slovensko splošno žensko društvo"
             source="Slovenka" year="0" page="90-91"/>
-    </delo>
-    <delo mojID="38736">
+    </delo> 
+    <delo mojID="38736" cobiss="98009856">
         <naslov>Slovensko spogledovanje z zgodovino</naslov>
         <cit did="2113" cid="10" avtor0="Peršin P. K." naslov0="Slovensko spogledovanje z zgodovino"
             source="Kaj se je zgodilo s slovensko zgodovino? - 3. Razgledi" pubPlace="Ljubljana"
             year="1994" volume="7" issue="1014" page="10-11"/>
     </delo>
-    <delo mojID="38739">
+    <delo mojID="38739" cobiss="35521536">
         <naslov>Slovensko učiteljsko društvo v Istri pred I. svetovno vojno</naslov>
         <cit did="2546" cid="45" avtor0="Šuštar Branko"
             naslov0="Slovensko učiteljsko društvo v Istri pred I. svetovno vojno"
             source="Primorska srečanja" pubPlace="Nova Gorica" year="1990" page="569-574"/>
     </delo>
-    <delo mojID="38741">
+    <delo mojID="38741" cobiss="2671917">
         <naslov>Slovensko vo včasnoslovanskom obdobi</naslov>
         <cit did="2534" cid="8" avtor0="Fusek Gabriel"
             naslov0="Slovensko vo včasnoslovanskom obdobi"
             source="Archaeologica Slovaca Monographiae. Studia 3." pubPlace="Nitra"
             publisher="Archeologicky ustav Slovenskej Akademie vied" year="1994"/>
     </delo>
-    <delo mojID="38745">
+    <delo mojID="38745" cobiss="93958912">
         <naslov>Slovensko zadružništvo in sodelovanje učiteljstva pri istem</naslov>
         <cit did="1692" cid="2" avtor0="Pušenjak Vladimir"
             naslov0="Slovensko zadružništvo in sodelovanje učiteljstva pri istem"
@@ -33837,12 +33836,12 @@
             source="Acta historico - oeconomica Iugoslaviae, Vol. 5" pubPlace="Zagreb" year="1978"
             page="133-147"/>
     </delo>
-    <delo mojID="38750">
+    <delo mojID="38750" cobiss="51645184">
         <naslov>Slovensko šolstvo v Argentini</naslov>
         <cit did="2853" cid="141" avtor0="Mislej Irene" naslov0="Slovensko šolstvo v Argentini"
             source="Slovenski koledar" year="1991" volume="38" page="187-190"/>
     </delo>
-    <delo mojID="38751">
+    <delo mojID="38751" cobiss="1019092">
         <naslov>Slovensko šolstvo v begunskih taboriščih v Avstriji in Italiji od 1945 do
                         1949</naslov>
         <cit did="2558" cid="1" avtor0="Arnež Janez A."
@@ -33850,7 +33849,7 @@
             source="Begunsko šolstvo v 20. stoletju - noše in pri nas" pubPlace="Ljubljana"
             publisher="Slovenski šolski muzej" year="2002" page="29-46"/>
     </delo>
-    <delo mojID="38752">
+    <delo mojID="38752" cobiss="1019092">
         <naslov>Slovensko šolstvo v begunskih taboriščih v Avstriji in Italiji od 1945 do
                         1949, Begunsko šolstvo v 20. stoletju - naše in pri nas</naslov>
         <cit did="2546" cid="1" avtor0="Arnež Janez"
@@ -33864,13 +33863,13 @@
             publisher="Cankarjeva založba, Primorski tisk, Založništvo Tržaškega tiska" year="1975"
             page="216-243"/>
     </delo>
-    <delo mojID="38761">
+    <delo mojID="38761" cobiss="237893120">
         <naslov>Slovensko-finski glasbenik Leo Funtek</naslov>
         <cit did="370" cid="30" avtor0="Kuret Primož"
             naslov0="Slovensko-finski glasbenik Leo Funtek" naslov1="Ob stoletnici rojstva"
             source="Muzikološki zbornik" year="1985" issue="21" page="61-70"/>
     </delo>
-    <delo mojID="38762">
+    <delo mojID="38762" cobiss="315954">
         <naslov>slovenskogoriška četa</naslov>
         <cit did="1777" cid="23" avtor0="Rojic Vida" naslov0="slovenskogoriška četa" pubPlace="Ptuj"
             year="1967"/>
