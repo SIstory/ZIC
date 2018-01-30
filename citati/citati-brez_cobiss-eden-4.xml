@@ -39671,13 +39671,13 @@
             source="Zeitschrift des Historischen Vereines für Steiermark" year="1995" volume="86"
             page="187-208"/>
     </delo>
-    <delo mojID="40135">
+    <delo mojID="40135" cobiss="13602093">
         <naslov>St. Joseph KSKJ Local Lodge, Bridgeport, Connecticut</naslov>
         <cit did="2837" cid="8" avtor0="Kolar Bogdan"
             naslov0="St. Joseph KSKJ Local Lodge, Bridgeport, Connecticut" source="Dve domovini"
             pubPlace="Ljubljana" year="1999" issue="10" page="61-78"/>
     </delo>
-    <delo mojID="40136">
+    <delo mojID="40136" cobiss="31970402">
         <naslov>St. Martin and his Hagiographer. History and Miracle in Sulpicius
                         Severus</naslov>
         <cit did="173" cid="39" avtor0="Stancliffe Clare"
@@ -39708,7 +39708,7 @@
             naslov0="St. Veit a.d. Glan in Zentralraum Kärntens Österreich" pubPlace="St. Veit"
             year="1978"/>
     </delo>
-    <delo mojID="40141">
+    <delo mojID="40141" cobiss="27083265">
         <naslov>Staat - Kirche - Individuum in der Rechtsgeschichte Österreichs zwischen
                         Reformation und Revolution</naslov>
         <cit did="430" cid="25" avtor0="Gampl Inge"
@@ -39782,7 +39782,7 @@
             publisher="Verlag für Geschichte und Politik Wien, Oldenbourg Verlag München"
             year="1991" page="155-157"/>
     </delo>
-    <delo mojID="40155">
+    <delo mojID="40155" cobiss="4942413">
         <naslov>Staatliche Sozialpolitik in Österreich. Rekonstruktion und Analyse</naslov>
         <cit did="2856" cid="12" avtor0="Talos Emmerich"
             naslov0="Staatliche Sozialpolitik in Österreich. Rekonstruktion und Analyse"
@@ -39947,7 +39947,7 @@
             naslov1="Konfigurationen städtischer Lebenweise zu Beginn des 20. Jahrhunderts"
             pubPlace="Opladen" year="1990"/>
     </delo>
-    <delo mojID="40186">
+    <delo mojID="40186" cobiss="17364781">
         <naslov>Stadtgrundriss und Stadtentwicklung</naslov>
         <cit did="2639" cid="15" avtor0="Blaschke Karlheinz"
             naslov0="Stadtgrundriss und Stadtentwicklung" pubPlace="Köln-Weimar-Wien" year="1997"/>
@@ -39989,12 +39989,12 @@
         <cit did="3241" cid="190" avtor0="Marn Rudolf" naslov0="Stagnacija v trgovini in industriji"
             source="STV" year="1919" issue="3"/>
     </delo>
-    <delo mojID="40196">
+    <delo mojID="40196" cobiss="95989">
         <naslov>Stagni carsici</naslov>
         <cit did="2271" cid="5" avtor0="Dolce Sergio et al." naslov0="Stagni carsici"
             pubPlace="Trst : Edizioni Lint" year="1991"/>
     </delo>
-    <delo mojID="40197">
+    <delo mojID="40197" cobiss="95989">
         <naslov>Stagni carsici : Storia, Flora, fauna</naslov>
         <cit did="86" cid="37" avtor0="Dolce S., Stoch F., Palma M."
             naslov0="Stagni carsici : Storia, Flora, fauna" source="Comune di Trieste"
@@ -40028,12 +40028,12 @@
         <cit did="2909" cid="7" avtor0="Volkoganov Dmitri" naslov0="Stalin: Triumph and Tragedy"
             pubPlace="New York" year="1991" page="348"/>
     </delo>
-    <delo mojID="40206">
+    <delo mojID="40206" cobiss="2216564">
         <naslov>Stalin's wars</naslov>
         <cit did="11" cid="2" avtor0="Roberts Geoffrey" naslov0="Stalin's wars"
             pubPlace="New Haven, London" year="2006" page="168-"/>
     </delo>
-    <delo mojID="40209">
+    <delo mojID="40209" cobiss="16305250">
         <naslov>Stališča evropskih odporniških gibanj o nujnosti političnih in družbenih
                         sprememb v povojni ureditvi</naslov>
         <cit did="1814" cid="7" avtor0="Repe Božo"
@@ -40041,12 +40041,12 @@
             source="Odpor 1941 : zbornik s posveta ob 60. obletnici Osvobodilne fronte slovenskega naroda"
             pubPlace="Ljubljana" year="2001" page="127"/>
     </delo>
-    <delo mojID="40214">
+    <delo mojID="40214" cobiss="17554786">
         <naslov>Stališča, predsodki in stereotipi</naslov>
         <cit did="1311" cid="6" avtor0="Svetina Matija" naslov0="Stališča, predsodki in stereotipi"
             source="Podoba tujega" page="36"/>
     </delo>
-    <delo mojID="40215">
+    <delo mojID="40215" cobiss="212854016">
         <naslov>Stališča Slovencev o pridruževanju Evropski uniji in NATO - Slovensko javno
                         mnenje 2002/1: Svetovna raziskava vrednot</naslov>
         <cit did="2930" cid="19" avtor0="Toš Niko et al"
@@ -40058,7 +40058,7 @@
         <cit did="176" cid="31" avtor0="Klemenčič Ivanka" naslov0="Stališča žene v Jugoslaviji"
             source="Slovenka" year="1919" volume="1" issue="3-4"/>
     </delo>
-    <delo mojID="40221">
+    <delo mojID="40221" cobiss="4294658">
         <naslov>Stališče slovenske socialne demokracije do balkanskih vojn</naslov>
         <cit did="629" cid="2" avtor0="Rozman Franc"
             naslov0="Stališče slovenske socialne demokracije do balkanskih vojn"
@@ -40101,7 +40101,7 @@
             naslov0="Stammtafeln zur Geschichle der europäischen Staaten"
             source="Neue Folge. Band XVl." pubPlace="Berlin" year="1995"/>
     </delo>
-    <delo mojID="40233">
+    <delo mojID="40233" cobiss="5102381">
         <naslov>Stand und Aufgaben der Forschungen zur Urnenfelderzeit in
                         Jugoslawien</naslov>
         <cit did="1748" cid="1020" avtor0="Teržan B."
@@ -40123,7 +40123,7 @@
             naslov0="Standards od self-determination and standards of minority-rughts in the post-communist era: a historical perspective"
             source="Nations and nationalism" year="2003" volume="9" issue="3" page="433–448"/>
     </delo>
-    <delo mojID="40236">
+    <delo mojID="40236" cobiss="514541964">
         <naslov>Stande und Staat in Innerösterreich im 18. Jahrhundert</naslov>
         <cit did="2632" cid="132" avtor0="Wallas A. A."
             naslov0="Stande und Staat in Innerösterreich im 18. Jahrhundert"
@@ -40138,12 +40138,12 @@
             pubPlace="Klagenfurt" publisher="Selbstverlag der Landeshauptstadt" year="1970"
             page="22-36"/>
     </delo>
-    <delo mojID="40240">
+    <delo mojID="40240" cobiss="10526285">
         <naslov>Standpunkte</naslov>
         <cit did="3025" cid="13" avtor0="Mock Alois" naslov0="Standpunkte" pubPlace="Wien"
             year="1982"/>
     </delo>
-    <delo mojID="40241">
+    <delo mojID="40241" cobiss="9141069">
         <naslov>Stane Uršič - osemdesetletnik</naslov>
         <cit did="2900" cid="95" avtor0="Stergar Janez" naslov0="Stane Uršič - osemdesetletnik"
             naslov1="Jubilej častnega predsednika kluba koroških Slovencev v Ljubljani"
@@ -40154,7 +40154,7 @@
         <cit did="1654" cid="21" avtor0="Rutkowski Tadeusz P." naslov0="Stanisław kot 1885-1975"
             pubPlace="Warsaw" year="2000" page="208"/>
     </delo>
-    <delo mojID="40245">
+    <delo mojID="40245" cobiss="48432640">
         <naslov>Stanje obrti v Ormožu leta 1834</naslov>
         <cit did="1288" cid="35" avtor0="Jurkovič Nada" naslov0="Stanje obrti v Ormožu leta 1834"
             source="Ormož skozi stoletja IV" pubPlace="Ormož" year="1993" page="152-157"/>
@@ -40164,7 +40164,7 @@
         <cit did="629" cid="150" avtor0="Majar Matija" naslov0="Stanje Slovencev"
             source="Novice (13. 3. 1861)" year="1861"/>
     </delo>
-    <delo mojID="40249">
+    <delo mojID="40249" cobiss="19766785">
         <naslov>Stanko Bloudek-projektant in graditelj: prispevek k osvetlitvi lika Stanka
                         Bloudka kot oblikovalca telesnokulturnih centrov, objektov in
                         naprav</naslov>
@@ -40172,12 +40172,12 @@
             naslov0="Stanko Bloudek-projektant in graditelj: prispevek k osvetlitvi lika Stanka Bloudka kot oblikovalca telesnokulturnih centrov, objektov in naprav"
             pubPlace="Ljubljana" publisher="VŠTK, Inštitut za kineziologijo" year="1982"/>
     </delo>
-    <delo mojID="40252">
+    <delo mojID="40252" cobiss="230827520">
         <naslov>Stanko Stanič, življenje in delo</naslov>
         <cit did="1431" cid="7" avtor0="Kragelj Jožko" naslov0="Stanko Stanič, življenje in delo"
             pubPlace="Gorica" publisher="Goriška Mohorjeva družba" year="2006"/>
     </delo>
-    <delo mojID="40255">
+    <delo mojID="40255" cobiss="252203776">
         <naslov>Stanko Vraz : studija</naslov>
         <cit did="63" cid="1" avtor0="Vodnik Branko" naslov0="Stanko Vraz : studija"
             pubPlace="Zagreb" year="1909" page="220"/>
@@ -40187,7 +40187,7 @@
         <cit did="64" cid="6" avtor0="Ilešič Fran" naslov0="Stanko Vraz v celjskem okrožju"
             source="Narodni dnevnik" pubPlace="Celje" year="1910" issue="145"/>
     </delo>
-    <delo mojID="40257">
+    <delo mojID="40257" cobiss="227207">
         <naslov>Stanko Vurnik</naslov>
         <cit did="3289" cid="120" avtor0="Kuret Primož" naslov0="Stanko Vurnik"
             source="Enciklopedija Slovenije : 14" pubPlace="Ljubljana" publisher="Mladinska knjiga"
@@ -40205,26 +40205,26 @@
             source="Slovenska novejša zgodovina. Od programa Zedinjena Slovenija do mednarodnega priznanja Republike Slovenije 1948–1992, 2. del"
             pubPlace="Ljubljana" year="2005" page="1091"/>
     </delo>
-    <delo mojID="40264">
+    <delo mojID="40264" cobiss="20516194">
         <naslov>Stanovanjska kultura in stanovalci izbranih ljubljanskih ulic
                         1869-1910</naslov>
         <cit did="538" cid="1" avtor0="Studen Andrej"
             naslov0="Stanovanjska kultura in stanovalci izbranih&#xA;ljubljanskih ulic 1869-1910"
             pubPlace="Ljubljana" publisher="Inštitut za novejšo zgodovino" year="1991"/>
     </delo>
-    <delo mojID="40265">
+    <delo mojID="40265" cobiss="463219">
         <naslov>Stanovanjska kultura na Gori v luči spreminjanja hišnih oblik</naslov>
         <cit did="1438" cid="5" avtor0="Križnar Naško"
             naslov0="Stanovanjska kultura na Gori v luči spreminjanja hišnih oblik"
             source="Goriški letnik" year="1975" page="43-58"/>
     </delo>
-    <delo mojID="40266">
+    <delo mojID="40266" cobiss="16182327">
         <naslov>Stanovanjska oprema gradu Grm v 18. stoletju</naslov>
         <cit did="2118" cid="12" avtor0="Lozar Štamcar Maja"
             naslov0="Stanovanjska oprema gradu Grm v 18. stoletju" source="Rast," year="0"
             volume="16" issue="6" page="593-597"/>
     </delo>
-    <delo mojID="40267">
+    <delo mojID="40267" cobiss="48037377">
         <naslov>Stanovanjska oprema graščine Radvanje</naslov>
         <cit did="2288" cid="171" avtor0="Vrišer S." naslov0="Stanovanjska oprema graščine Radvanje"
             source="ČZN" year="1978" volume="49" issue="2"/>
@@ -40235,26 +40235,26 @@
             source="Enciklopedija Slovenije, zv. 12: Slovenska n - Sz" pubPlace="Ljubljana"
             publisher="MK" year="1998" page="263-264"/>
     </delo>
-    <delo mojID="40269">
+    <delo mojID="40269" cobiss="22266880">
         <naslov>Stanovanjska problematika priseljenih delavcev v Ljubljani</naslov>
         <cit did="2845" cid="35" avtor0="Vovk Marija"
             naslov0="Stanovanjska problematika priseljenih delavcev v Ljubljani"
             pubPlace="Ljubljana" publisher="Urbanistični inštitut SR Slovenije" year="1980"/>
     </delo>
-    <delo mojID="40270">
+    <delo mojID="40270" cobiss="19414877">
         <naslov>Stanovanjska tveganja, ranljive skupine in novi pogledi</naslov>
         <cit did="680" cid="22" avtor0="Mandič Srna"
             naslov0="Stanovanjska   tveganja,   ranljive skupine in novi pogledi"
             source="Pravica do stanovanja" pubPlace="Ljubljana"
             publisher="Visoka šola za socialno delo" year="1999"/>
     </delo>
-    <delo mojID="40272">
+    <delo mojID="40272" cobiss="663413">
         <naslov>Stanovanjska zaščita po prvi svetovni vojni v Sloveniji</naslov>
         <cit did="158" cid="2" avtor0="Kresal France"
             naslov0="Stanovanjska zaščita po prvi svetovni vojni v Sloveniji" source="Arhivi"
             year="2005" volume="XXVIII" issue="2" page="165-173"/>
     </delo>
-    <delo mojID="40275">
+    <delo mojID="40275" cobiss="2949728">
         <naslov>Stanovanjsko udobje v 17. stoletju v Sloveniji</naslov>
         <cit did="2118" cid="13" avtor0="Lozar Štamcar Maja"
             naslov0="Stanovanjsko udobje v 17. stoletju v Sloveniji"
@@ -40279,20 +40279,20 @@
             publisher="Zavod za povijesne znanosti Hrvatske akademije znanosti i umjetnosti"
             year="1998"/>
     </delo>
-    <delo mojID="40283">
+    <delo mojID="40283" cobiss="64248832">
         <naslov>Stanovništvo Kosova od 1918. do 1991. godine sa osvrtom na prethodni
                         istorijski period</naslov>
         <cit did="2715" cid="42" avtor0="Nikolić Goran" avtor1="Vučković Milan"
             naslov0="Stanovništvo Kosova od 1918. do 1991. godine sa osvrtom na prethodni istorijski period"
             pubPlace="München" publisher="Slavica &amp; Carniola Verlag" year="1996"/>
     </delo>
-    <delo mojID="40284">
+    <delo mojID="40284" cobiss="91719168">
         <naslov>Stanovska država brez maske: Vladimir Kostanjevec</naslov>
         <cit did="3216" cid="13" avtor0="Krašovec Stane"
             naslov0="Stanovska država brez maske: Vladimir Kostanjevec" pubPlace="Ljubljana"
             publisher="Tominc Tone" year="1934"/>
     </delo>
-    <delo mojID="40287">
+    <delo mojID="40287" cobiss="46363746">
         <naslov>Stanovski prevzem zdravilišča Rogaška Slatina (1800-1803)</naslov>
         <cit did="1820" cid="2" avtor0="Drofenik Barbara"
             naslov0="Stanovski prevzem zdravilišča Rogaška Slatina (1800-1803)"
@@ -40311,19 +40311,19 @@
             naslov0="Stara grofija - poročilo o delovanju referata za spomeniško varstvo v Celju"
             source="Celjski zbornik" year="1967" page="257-267"/>
     </delo>
-    <delo mojID="40290">
+    <delo mojID="40290" cobiss="27416674">
         <naslov>Stara Grčka: Grci na Crnome moru</naslov>
         <cit did="1748" cid="666" avtor0="Milićević Bradač M."
             naslov0="Stara Grčka: Grci na Crnome moru" pubPlace="Zagreb" year="2004"/>
     </delo>
-    <delo mojID="40291">
+    <delo mojID="40291" cobiss="4420662">
         <naslov>Stara Indija - Susret sa umetnošću od Mohendžo-dara do
                         Vidžajanagara</naslov>
         <cit did="142" cid="189" avtor0="Vučkovački - Savić Vera"
             naslov0="Stara Indija - Susret sa umetnošću od Mohendžo-dara do Vidžajanagara"
             pubPlace="Beograd" publisher="prosveta" year="1978" page="13-38"/>
     </delo>
-    <delo mojID="40292">
+    <delo mojID="40292" cobiss="63142912">
         <naslov>Stara industrijska podjetja na Celjskem</naslov>
         <cit did="1622" cid="10" avtor0="Mikola Milko"
             naslov0="Stara industrijska podjetja na Celjskem" pubPlace="Celje"
@@ -40335,7 +40335,7 @@
             naslov0="Stara ledinska karta v ormoškem gradu"
             source="Časopis za zgodovino in narodopisje" year="1935" volume="30" page="30-44"/>
     </delo>
-    <delo mojID="40295">
+    <delo mojID="40295" cobiss="102474752">
         <naslov>Stara ljubljanska stolnica</naslov>
         <cit did="1298" cid="118" avtor0="Veider Janez" naslov0="Stara ljubljanska stolnica"
             naslov1="Njen stavbni razvoj in oprema" pubPlace="Ljubljana"
@@ -40357,7 +40357,7 @@
         <cit did="751" cid="4" avtor0="Boltin Tome Elica" naslov0="Stara vas pri Dvorih nad Izolo"
             source="Varstvo spomenikov" pubPlace="Ljubljana" year="1968" page="174-175"/>
     </delo>
-    <delo mojID="40299">
+    <delo mojID="40299" cobiss="3611446">
         <naslov>Stara župna cerkev v Žireh</naslov>
         <cit did="1579" cid="6" avtor0="Stele France" naslov0="Stara župna cerkev v Žireh"
             source="Ljubitelj krščanske umetnosti" page="45-59"/>
@@ -40368,7 +40368,7 @@
             source="Enciklopedija Slovenije : Knjiga 12" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1998" page="267-277"/>
     </delo>
-    <delo mojID="40302">
+    <delo mojID="40302" cobiss="19562753">
         <naslov>Stare celjske upodobitve</naslov>
         <cit did="1943" cid="28" avtor0="Stopar I." naslov0="Stare celjske upodobitve"
             pubPlace="Celje" publisher="Kulturna skupnost občine" year="1980"/>
@@ -40378,7 +40378,7 @@
         <cit did="192" cid="2" avtor0="Hitzinger Peter" naslov0="Stare fare na Primorskem"
             source="Zgodnja Danica" year="0" page="182"/>
     </delo>
-    <delo mojID="40305">
+    <delo mojID="40305" cobiss="373249">
         <naslov>Stare kulture</naslov>
         <cit did="142" cid="93" avtor0="Jacobi Bernhard" naslov0="Stare kulture"
             source="Arheološka odkritja zadbjih petdeset let" pubPlace="Maribor" publisher="ZO"
@@ -40394,7 +40394,7 @@
         <cit did="2639" cid="79" avtor0="Galuška Ludek" naslov0="Stare Mesto - Uherske Hradiste"
             source="Europas Milte 1." page="323-326"/>
     </delo>
-    <delo mojID="40310">
+    <delo mojID="40310" cobiss="46125">
         <naslov>Stare žalostne</naslov>
         <cit did="1492" cid="17" avtor0="Glonar J." naslov0="Stare žalostne" pubPlace="Ljubljana"
             year="1939"/>
@@ -40405,14 +40405,14 @@
             source="Zakladi tisočletij : zgodovina Slovenije od neandertalcev do Slovanov"
             pubPlace="Ljubljana" publisher="Modrijan" year="1999" page="22-73"/>
     </delo>
-    <delo mojID="40320">
+    <delo mojID="40320" cobiss="26324225">
         <naslov>Starejše pesnice in pisateljice</naslov>
         <cit did="441" cid="18" avtor0="Erjavec Fran, Flere Pavel"
             naslov0="Starejše pesnice in pisateljice" naslov1="Izbrani spisi za mladino"
             pubPlace="Ljubljana" publisher="Učiteljska tiskarna v Ljubljani" year="1926"
             page="31-33"/>
     </delo>
-    <delo mojID="40324">
+    <delo mojID="40324" cobiss="109360384">
         <naslov>Stari grad Celje med včeraj, danes in jutri</naslov>
         <cit did="2053" cid="10" avtor0="Stopar Ivan"
             naslov0="Stari grad Celje med včeraj, danes in jutri" pubPlace="Celje"
@@ -40425,13 +40425,13 @@
             naslov0="Stari grad nad Celjem. Keramično gradivo iz sektorjev A in B. Celjski grofe. Stara tema — nova spoznanja"
             source="Zbornik mednarodnega simpozija" pubPlace="Celje" year="1998" page="261-307"/>
     </delo>
-    <delo mojID="40331">
+    <delo mojID="40331" cobiss="252644352">
         <naslov>Stari izolski statut od 14. do 18. stoletja</naslov>
         <cit did="2950" cid="4" avtor0="Kos Dušan, Sadek Mitja"
             naslov0="Stari izolski statut od 14. do 18. stoletja" pubPlace="Koper"
             publisher="Annales" year="2010"/>
     </delo>
-    <delo mojID="40333">
+    <delo mojID="40333" cobiss="27019008">
         <naslov>Stari statuti Kopra, Izole in Pirana</naslov>
         <cit did="274" cid="1" avtor0="Darovec Darko" naslov0="Stari statuti Kopra, Izole in Pirana"
             source="Kronika" year="1989" volume="37" issue="1/2" page="158-160"/>
@@ -40446,18 +40446,18 @@
         <cit did="3335" cid="11" avtor0="Pokorn Jože" naslov0="Staro in novo pravo"
             source="Ljudski pravnik" pubPlace="Ljubljana" year="1946" volume="1"/>
     </delo>
-    <delo mojID="40341">
+    <delo mojID="40341" cobiss="1512021">
         <naslov>Staro svinčevo breme ostaja</naslov>
         <cit did="2232" cid="7" avtor0="Sajn Robert, Gosar Mateja, Budkovič Tomaž"
             naslov0="Staro svinčevo breme ostaja" source="Delo" year="2021" page="21"/>
     </delo>
-    <delo mojID="40344">
+    <delo mojID="40344" cobiss="6626617">
         <naslov>Starohrvatske nekropole na području između rijeka Zrmanje i Cetine</naslov>
         <cit did="768" cid="9" avtor0="Jelovina Dušan"
             naslov0="Starohrvatske nekropole na području između&#xA;rijeka Zrmanje i Cetine"
             pubPlace="Split" publisher="Čakavski sabor" year="1976"/>
     </delo>
-    <delo mojID="40345">
+    <delo mojID="40345" cobiss="5863225">
         <naslov>Starokrščanski center v Emoni</naslov>
         <cit did="2532" cid="33" avtor0="Plesničar Gec Ljudmila"
             naslov0="Starokrščanski center v Emoni"
@@ -40483,7 +40483,7 @@
             naslov0="Staroslovanska grobišča v severni Sloveniji" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1947"/>
     </delo>
-    <delo mojID="40353">
+    <delo mojID="40353" cobiss="16581165">
         <naslov>Staroslovanski grobovi pri cerkvi sv. Petra v Ljubljani</naslov>
         <cit did="768" cid="15" avtor0="Korošec Paola"
             naslov0="Staroslovanski grobovi pri cerkvi sv. Petra v Ljubljani"
@@ -40496,13 +40496,13 @@
             naslov0="Staroslovanski grobovi v Predloki in vprašanje kontinu-itete naselja : slovensko morje in zaledje"
             pubPlace="Koper" publisher="Lipa" year="1977" page="83-99"/>
     </delo>
-    <delo mojID="40355">
+    <delo mojID="40355" cobiss="14625325">
         <naslov>Staroslovanski grobovi v Trebnjem</naslov>
         <cit did="768" cid="12" avtor0="Knez T." naslov0="Staroslovanski grobovi v Trebnjem"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1966" volume="17" page="507-513"
         />
     </delo>
-    <delo mojID="40357">
+    <delo mojID="40357" cobiss="3078966">
         <naslov>Staroslovanski Kranj</naslov>
         <cit did="2421" cid="85" avtor0="Valič Andrej" naslov0="Staroslovanski Kranj"
             source="Arheološki vestnik" year="1967" volume="18" page="411-423"/>
@@ -40513,7 +40513,7 @@
             naslov0="Staroslovansko grobisče Diese pri Bodeščah" source="Arheološki vestnik"
             year="1981" volume="32" page="482-523"/>
     </delo>
-    <delo mojID="40359">
+    <delo mojID="40359" cobiss="3733505">
         <naslov>Staroslovansko grobišče na Blejskem gradu</naslov>
         <cit did="768" cid="30" avtor0="Valič Andrej"
             naslov0="Staroslovansko grobišče na Blejskem gradu" source="Situla" pubPlace="Ljubljana"
@@ -40550,13 +40550,13 @@
             naslov1="Osnove medicinske gerontologije" pubPlace="Ljubljana"
             publisher="Cankarjeva založba" year="1987"/>
     </delo>
-    <delo mojID="40367">
+    <delo mojID="40367" cobiss="6433842">
         <naslov>Starosta slovenskih goriških duhovnikov dr. Franc Močnik</naslov>
         <cit did="1433" cid="7" avtor0="Rustja Božo"
             naslov0="Starosta slovenskih goriških duhovnikov dr. Franc Močnik" source="Ognjišče"
             volume="33" issue="11" page="6-10"/>
     </delo>
-    <delo mojID="40369">
+    <delo mojID="40369" cobiss="11562043">
         <naslov>Starostna razdelitev prebivalstva po ljudskem štetju z dne 31. decembra
                         1880</naslov>
         <cit did="854" cid="57" avtor0="Pipp Lojze"
@@ -40591,7 +40591,7 @@
         <cit did="333" cid="46" avtor0="Lesjak M., Stojanov V." naslov0="Starši iščejo otroke"
             source="Delo" year="2057"/>
     </delo>
-    <delo mojID="40379">
+    <delo mojID="40379" cobiss="44442881">
         <naslov>Stat mestna Ptuja 1513</naslov>
         <cit did="2954" cid="14" avtor0="Hernja Masten Marija" avtor1="Kos Dušan"
             naslov0="Stat mestna Ptuja 1513" pubPlace="Ptuj - Ljubljana"
@@ -40663,7 +40663,7 @@
             source="Immigration and the Politics of Citizenship in Europe and North America"
             pubPlace="Lanham" publisher="University Press of America" year="1989" page="81-95"/>
     </delo>
-    <delo mojID="40390">
+    <delo mojID="40390" cobiss="6109005">
         <naslov>State, Nation and Security in Central Europe: Democratic States without
                         Nations</naslov>
         <cit did="2829" cid="13" avtor0="Gärntner Heinz"
@@ -40756,7 +40756,7 @@
             naslov0="Statistik des Königreichs Ungarn" naslov1="I. Theil" pubPlace="Pesth"
             publisher="Verlag der von Trattner-Károlyischen Buchdruckerey"/>
     </delo>
-    <delo mojID="40408">
+    <delo mojID="40408" cobiss="42994432">
         <naslov>Statistika kmetijske pridelave v Sloveniji v obdobju 1869-1939</naslov>
         <cit did="854" cid="38" avtor0="Maček Jože"
             naslov0="Statistika kmetijske pridelave v Sloveniji v obdobju 1869-1939"
@@ -40831,7 +40831,7 @@
             naslov0="Statistični prikaz dvojezičnega šolstva, mreže in strukture šol za pripadnike narodnostne skupnosti na Koroškem"
             source="Geografski obzornik" year="1986" volume="23" issue="2/3" page="58–71"/>
     </delo>
-    <delo mojID="40427">
+    <delo mojID="40427" cobiss="57965312">
         <naslov>Statistični prikaz zemljiških gospostev na Kranjskem</naslov>
         <cit did="2198" cid="22" avtor0="Valenčič Vlado"
             naslov0="Statistični prikaz zemljiških gospostev na Kranjskem"
@@ -40896,7 +40896,7 @@
             naslov0="Stato Società e Giustizia nella Repubblica Veneta (sec. XV-XVIII)"
             pubPlace="Roma" publisher="Jouvence" year="1980"/>
     </delo>
-    <delo mojID="40440">
+    <delo mojID="40440" cobiss="2429750">
         <naslov>Status animarum kot arhivsko gradivo</naslov>
         <cit did="2646" cid="14" avtor0="Kolar Bogdan"
             naslov0="Status animarum kot arhivsko gradivo" source="Drevesa" year="1996" issue="2"
@@ -40932,7 +40932,7 @@
         <cit did="2450" cid="11" avtor0="Zjačić Mirko" naslov0="Statut grada Poreča iz 1963. godine"
             source="Munumenta" pubPlace="Zagreb" year="1979" page="147"/>
     </delo>
-    <delo mojID="40446">
+    <delo mojID="40446" cobiss="250229">
         <naslov>Statut grada Varaždina</naslov>
         <cit did="3465" cid="53" avtor0="Kolanovič Josip, Križman Mate"
             naslov0="Statut grada Varaždina" pubPlace="Varaždin" publisher="Državni arhiv"
@@ -40969,17 +40969,17 @@
         <cit did="255" cid="7" avtor0="Beuc I." naslov0="Statut zadarske komune iz 1305. godine"
             source="Vjesnik Državnog arhiva u Rijeci" year="1954" volume="2" page="616"/>
     </delo>
-    <delo mojID="40457">
+    <delo mojID="40457" cobiss="126189312">
         <naslov>Statuti del Comun d'Isola</naslov>
         <cit did="251" cid="11" avtor0="Degrassi F." naslov0="Statuti del Comun d'Isola"
             pubPlace="Isola" year="2003" page="62-63"/>
     </delo>
-    <delo mojID="40458">
+    <delo mojID="40458" cobiss="1873388">
         <naslov>Statuti di Trieste del 1421</naslov>
         <cit did="2628" cid="25" avtor0="Szombathely M. de" naslov0="Statuti di Trieste del 1421"
             source="Archeografo Triestino" pubPlace="Trieste" year="1935" volume="48"/>
     </delo>
-    <delo mojID="40460">
+    <delo mojID="40460" cobiss="227298560">
         <naslov>Statuti izolskega komuna od 14. do 18. stoletja</naslov>
         <cit did="251" cid="12" avtor0="Kos Dušan"
             naslov0="Statuti izolskega komuna od 14. do 18. stoletja" pubPlace="Koper" year="2006"/>
@@ -41013,36 +41013,36 @@
             source="Barok na Goriškem - II baroeco nel Goriziano" pubPlace="Nova Gorica"
             publisher="Goriški muzej, Grad Kromberk, 2006," year="2006" page="251-270"/>
     </delo>
-    <delo mojID="40466">
+    <delo mojID="40466" cobiss="36802561">
         <naslov>Stavbarstvo</naslov>
         <cit did="1942" cid="3" avtor0="Brezar V." naslov0="Stavbarstvo" pubPlace="Maribor"
             publisher="Fakulteta za gradbeništvo" year="1995"/>
     </delo>
-    <delo mojID="40467">
+    <delo mojID="40467" cobiss="2636801">
         <naslov>Stavbe in gospodarstvo na slovenskem podeželju</naslov>
         <cit did="1438" cid="1" avtor0="Baš Franjo"
             naslov0="Stavbe in gospodarstvo na slovenskem podeželju"
             source="Izbrani etnološki spisi" pubPlace="Ljubljana" publisher="Slovenska matica"
             year="1984"/>
     </delo>
-    <delo mojID="40468">
+    <delo mojID="40468" cobiss="21858560">
         <naslov>stavbe v vzhodni Sloveniji. knj 1: Območje Maribora in Ptuja</naslov>
         <cit did="2647" cid="342" avtor0="Stopar Ivan"
             naslov0="stavbe v vzhodni Sloveniji. knj 1: Območje Maribora in Ptuja"
             pubPlace="Ljubljana" year="1990"/>
     </delo>
-    <delo mojID="40470">
+    <delo mojID="40470" cobiss="26051585">
         <naslov>Stavbinski slogi</naslov>
         <cit did="3299" cid="7" avtor0="Flis Janez" naslov0="Stavbinski slogi" pubPlace="Ljubljana"
             year="1885"/>
     </delo>
-    <delo mojID="40473">
+    <delo mojID="40473" cobiss="17977399">
         <naslov>Stavbna zgodovina kapiteljske cerkve v Novem mestu</naslov>
         <cit did="1298" cid="15" avtor0="Gregorič Jože"
             naslov0="Stavbna zgodovina kapiteljske cerkve v Novem mestu"
             source="Kronika slovenskih mest, IV" pubPlace="Ljubljana" year="1937" page="22-24"/>
     </delo>
-    <delo mojID="40474">
+    <delo mojID="40474" cobiss="50971393">
         <naslov>Stavbni razvoj gradu Mokronog</naslov>
         <cit did="2619" cid="45" avtor0="Sapač Igor" naslov0="Stavbni razvoj gradu Mokronog"
             source="Trg Mokronog skozi stoletja" pubPlace="Mokronog" year="2003"/>
@@ -41053,14 +41053,14 @@
             naslov0="Stavbni razvoj in zgodovina nunskega samostana v Škofji Loki"
             source="Loški zbornik" year="1980" page="152-171"/>
     </delo>
-    <delo mojID="40477">
+    <delo mojID="40477" cobiss="58308352">
         <naslov>Stavke v Jugoslaviji: poročilo o delu za leto 1989: regulacija stavk:
                         empirična raziskava stavk</naslov>
         <cit did="1513" cid="92" avtor0="Kavčič Bogdan et al."
             naslov0="Stavke v Jugoslaviji: poročilo o delu za leto 1989: regulacija stavk: empirična raziskava stavk"
             pubPlace="Ljubljana" publisher="RSS" year="1989"/>
     </delo>
-    <delo mojID="40480">
+    <delo mojID="40480" cobiss="6842628">
         <naslov>Stavkovno gibanje na Štajerskem v devetdesetih letih</naslov>
         <cit did="1783" cid="162" avtor0="Rozman Franc"
             naslov0="Stavkovno gibanje na Štajerskem v devetdesetih letih" source="Kronika"
@@ -41072,7 +41072,7 @@
             naslov0="Stavovi Druge internacionaleprema ratu i kolonijalnom pitanju"
             pubPlace="Beograd" publisher="Institut za izučavanje radničkog pokreta" year="1965"/>
     </delo>
-    <delo mojID="40482">
+    <delo mojID="40482" cobiss="6186829">
         <naslov>Stavovi Slovenaca o Hrvatima i drugim susjednim narodima: prilog razvitku
                         dobrosusjedskih odnosa</naslov>
         <cit did="3072" cid="225" avtor0="Plenković Mario"
