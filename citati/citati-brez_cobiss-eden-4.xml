@@ -41098,13 +41098,13 @@
             naslov0="Steam at Sea: a History of Steam Navigation" pubPlace="New York - Washington"
             year="1970" page="19"/>
     </delo>
-    <delo mojID="40488">
+    <delo mojID="40488" cobiss="1536995807">
         <naslov>Steam: The Untold Story of America's First Great Invention</naslov>
         <cit did="1613" cid="13" avtor0="Sutcliffe Andrea J."
             naslov0="Steam: The Untold Story of America's First Great Invention" pubPlace="New York"
             year="2004" page="9-10"/>
     </delo>
-    <delo mojID="40490">
+    <delo mojID="40490" cobiss="16798976">
         <naslov>Stebri vzajemnosti</naslov>
         <cit did="2142" cid="25" avtor0="Kremžar Marko" naslov0="Stebri vzajemnosti"
             pubPlace="Buenos Aires" year="1988"/>
@@ -41159,7 +41159,7 @@
             source="Beiträge zur Kunde steiermärkischer Geschichtsquellen" year="0" volume="10"
             page="24-132"/>
     </delo>
-    <delo mojID="40501">
+    <delo mojID="40501" cobiss="146900">
         <naslov>Steiermark. Steirisches Randgebirge, Grazer Bergland, Steirisches
                         Riedelland</naslov>
         <cit did="2893" cid="24" avtor0="Paschinger Herbert"
@@ -41178,13 +41178,13 @@
         <cit did="2150" cid="23" avtor0="Sitar Sandi" naslov0="Steinberg, Franc Anton"
             source="Enciklopedija Slovenije" year="1998" volume="12" page="302"/>
     </delo>
-    <delo mojID="40506">
+    <delo mojID="40506" cobiss="7930413">
         <naslov>Steinberg (Stemberg) Franc Anton</naslov>
         <cit did="2150" cid="17" avtor0="Rakovec Ivan" naslov0="Steinberg (Stemberg) Franc Anton"
             source="Slovenski biografski leksikon, 3." pubPlace="Ljubljana" year="1967"
             page="460-461"/>
     </delo>
-    <delo mojID="40507">
+    <delo mojID="40507" cobiss="4392962">
         <naslov>Steinbergova predidrijska leta</naslov>
         <cit did="375" cid="39" avtor0="Korošec Branko" naslov0="Steinbergova predidrijska leta"
             source="Idrijski razgledi" year="1988" volume="XXXIII" issue="1" page="54"/>
@@ -41226,7 +41226,7 @@
             naslov0="Steirisches Leben in der frühen Neuzeit" source="Hexen und Zauberer"
             pubPlace="Graz" year="1987"/>
     </delo>
-    <delo mojID="40518">
+    <delo mojID="40518" cobiss="4603693">
         <naslov>Stembergov poskus ustanovitve škofije v Novem mestu</naslov>
         <cit did="1298" cid="35" avtor0="Lavrič Ana"
             naslov0="Stembergov poskus ustanovitve škofije v Novem mestu"
@@ -41273,18 +41273,18 @@
             naslov0="Sterben, Tod und Totenkult in Unteren Gailtal"
             source="Leben mit dem Tod, 30. oktobra 2004" year="2004"/>
     </delo>
-    <delo mojID="40528">
+    <delo mojID="40528" cobiss="25389">
         <naslov>Sterben und Tod im Mittelalter</naslov>
         <cit did="2631" cid="242" avtor0="Ohler N." naslov0="Sterben und Tod im Mittelalter"
             pubPlace="München" year="1990"/>
     </delo>
-    <delo mojID="40529">
+    <delo mojID="40529" cobiss="18495330">
         <naslov>Stereotipi o moških in ženskih osebnostnih lastnostih</naslov>
         <cit did="106" cid="220" avtor0="Avsec Andreja"
             naslov0="Stereotipi o moških in ženskih osebnostnih lastnostih"
             source="Psihološka obzorja" year="2002" issue="2" page="23-25"/>
     </delo>
-    <delo mojID="40530">
+    <delo mojID="40530" cobiss="2178420">
         <naslov>Stereotipi o slovenskih komunistih v obdobju ilegale</naslov>
         <cit did="1549" cid="17" avtor0="Deželak Barič Vida"
             naslov0="Stereotipi o slovenskih komunistih v obdobju ilegale"
@@ -41311,14 +41311,14 @@
             source="Stereotype Accuracy: Toward Appreciating Croup Differences. American Psychological Association"
             pubPlace="Washington" year="1995" page="157-186"/>
     </delo>
-    <delo mojID="40534">
+    <delo mojID="40534" cobiss="957518">
         <naslov>Stereotype formation as category formation</naslov>
         <cit did="2823" cid="106" avtor0="McGarty Craig"
             naslov0="Stereotype formation as category formation"
             source="Stereotypes as Explanations: The Formation of Meaningful Beliefs about Social Groups"
             pubPlace="Cambridge" publisher="Cambridge University Press" year="2002" page="16-37"/>
     </delo>
-    <delo mojID="40536">
+    <delo mojID="40536" cobiss="20759901">
         <naslov>Stereotyping: The Politics of Representation</naslov>
         <cit did="2823" cid="127" avtor0="Pickering Michael"
             naslov0="Stereotyping: The Politics of Representation" pubPlace="Palgrave"
@@ -41356,7 +41356,7 @@
             source="Predsodki in diskriminacije: Izbrane socialno-psiholoske studije. Znanstveno in publicistično središče"
             pubPlace="Ljubljana" page="198-216"/>
     </delo>
-    <delo mojID="40543">
+    <delo mojID="40543" cobiss="61794561">
         <naslov>Stigma: zapiski o upravljanju poškodovane identitete</naslov>
         <cit did="2673" cid="20" avtor0="Goffman Erving"
             naslov0="Stigma: zapiski o upravljanju poškodovane identitete" pubPlace="Maribor"
@@ -41387,7 +41387,7 @@
         <cit did="42" cid="7" avtor0="Savnik Roman" naslov0="Stiki Simona Rutarja z Ivanom Trinkom"
             source="Bori" year="1955" volume="1" page="346-350"/>
     </delo>
-    <delo mojID="40551">
+    <delo mojID="40551" cobiss="687982">
         <naslov>Stilleben. Realität und Symbolik der Dinge. Die Stilleben der frühen
                         Neuzeit</naslov>
         <cit did="2528" cid="18" avtor0="Schneider Norbert"
@@ -41401,7 +41401,7 @@
             naslov0="Stillstand und Geschichte: Plädoyer für eine Ethnologie der Turbulenzen"
             source="Vom Umschreiben der Geschichte" pubPlace="Berlin" year="1986"/>
     </delo>
-    <delo mojID="40553">
+    <delo mojID="40553" cobiss="18340397">
         <naslov>Stilna orientacija glasbe protestantizma na Slovenskem</naslov>
         <cit did="2693" cid="4" avtor0="Sivec Jože"
             naslov0="Stilna orientacija glasbe protestantizma na Slovenskem"
@@ -41415,7 +41415,7 @@
             naslov0="Stimmen des Schweigens: Erinnerungen an Vergewaltigungen in den Hauptstädten des 'ersten Opfers' (Wien) und des 'letzten Verbündeten' (Budapest) 1945"
             source="Zeitschrift für Geschichtswissenschaft" year="1999" issue="10" page="904"/>
     </delo>
-    <delo mojID="40556">
+    <delo mojID="40556" cobiss="238817024">
         <naslov>Stipan Konzul i Biblijski zavod u Urachu, Rasprave i građa ....</naslov>
         <cit did="2705" cid="13" avtor0="Jembrih Alojz"
             naslov0="Stipan Konzul i Biblijski zavod u Urachu, Rasprave i građa ...."
@@ -41435,12 +41435,12 @@
             source="The Man That Corrupted Hadleyburgh and Other Stories" pubPlace="London"
             year="1925" page="296-336"/>
     </delo>
-    <delo mojID="40565">
+    <delo mojID="40565" cobiss="241381632">
         <naslov>Stiški Bajnof do konca XVI. stoletja</naslov>
         <cit did="874" cid="6" avtor0="Mlinarič Jože" naslov0="Stiški Bajnof do konca XVI. stoletja"
             source="Kronika" year="1979" volume="21" page="8-17"/>
     </delo>
-    <delo mojID="40566">
+    <delo mojID="40566" cobiss="7711031">
         <naslov>Stiški Gradec ali Bajnofški turn</naslov>
         <cit did="1298" cid="9" avtor0="Matijevič Meta" naslov0="Stiški Gradec ali Bajnofški turn"
             source="Rast" pubPlace="Novo mesto" year="0" volume="X" issue="3/4" page="281 ..."/>
@@ -41452,7 +41452,7 @@
             naslov0="Stjepan Dabiša. Poviest hrvatskih t^emalja Bosne i Hercegovine od najstarijih vremena do godine 1463. Knjiga prva"
             pubPlace="Sarajevo" publisher="Napredak" year="1942" page="350-362"/>
     </delo>
-    <delo mojID="40569">
+    <delo mojID="40569" cobiss="9138481">
         <naslov>Stjepan Konzul i njegovo djelo u kroatističkim istraživanjima 20.
                         stoljeća</naslov>
         <cit did="2693" cid="17" avtor0="Jembrih Alojz"
@@ -41491,7 +41491,7 @@
             naslov0="Sto besed za enakost" pubPlace="Ljubljana" publisher="Urad za žensko politiko"
             year="2002"/>
     </delo>
-    <delo mojID="40580">
+    <delo mojID="40580" cobiss="27855917">
         <naslov>Sto je povijest okoliša?</naslov>
         <cit did="2056" cid="54" avtor0="Petrič Hrvoje" naslov0="Sto je povijest okoliša?"
             source="Historični seminar" pubPlace="Ljubljana" publisher="Založba ZRC" year="2008"
@@ -41502,19 +41502,19 @@
         <cit did="3522" cid="5" avtor0="Martinović J." naslov0="Sto kotorskih dragulja"
             pubPlace="Rijeka" year="1995"/>
     </delo>
-    <delo mojID="40582">
+    <delo mojID="40582" cobiss="62128896">
         <naslov>Sto let elektrike v pokrajini med Turjakom in Kolpo 1896-1996</naslov>
         <cit did="844" cid="78" avtor0="Gruden Rudi"
             naslov0="Sto let elektrike v pokrajini med Turjakom in Kolpo 1896-1996"
             pubPlace="Kočevje" year="1996"/>
     </delo>
-    <delo mojID="40584">
+    <delo mojID="40584" cobiss="16628993">
         <naslov>Sto let knjižničarstva v Litiji</naslov>
         <cit did="3483" cid="2" avtor0="Konjar Joža" naslov0="Sto let knjižničarstva v Litiji"
             pubPlace="Litija"
             publisher="Zavod za izobraževanje in kulturo Litija - Matična knjižnica" year="1985"/>
     </delo>
-    <delo mojID="40586">
+    <delo mojID="40586" cobiss="26985216">
         <naslov>Sto let Pevskega zbora Glasbene Matice 1891-1991</naslov>
         <cit did="370" cid="51" avtor0="Budkovič Cvetko"
             naslov0="Sto let Pevskega zbora Glasbene Matice 1891-1991" pubPlace="Ljubljana"
@@ -41526,19 +41526,19 @@
             source="Kroparski  zbornik: ob 100-letnici  Plamena" pubPlace="Kropa - Radovljica"
             year="1995" page="89-96"/>
     </delo>
-    <delo mojID="40589">
+    <delo mojID="40589" cobiss="484468">
         <naslov>Sto let razvoja kolektivnih pogodb na Slovenskem</naslov>
         <cit did="1811" cid="14" avtor0="Kresal France"
             naslov0="Sto let razvoja kolektivnih pogodb na Slovenskem"
             source="Prispevki za novejšo zgodovino" year="1997" volume="37" page="65-78"/>
     </delo>
-    <delo mojID="40591">
+    <delo mojID="40591" cobiss="512040731">
         <naslov>Sto let slovenskega zavarovalstva</naslov>
         <cit did="854" cid="70" avtor0="Škufca Franc" naslov0="Sto let slovenskega zavarovalstva"
             source="7. dnevi slovenskega zavarovalništva" pubPlace="Portorož"
             publisher="Slovensko zavarovalno združenje" year="2000" page="63-82"/>
     </delo>
-    <delo mojID="40592">
+    <delo mojID="40592" cobiss="61421568">
         <naslov>Sto let socialdemokracije</naslov>
         <cit did="1280" cid="3" avtor0="Zver Milan" naslov0="Sto let socialdemokracije"
             pubPlace="Ljubljana" publisher="Veda" year="1996" page="110"/>
@@ -41554,13 +41554,13 @@
             naslov0="Sto let tuberkuloze na Slovenskem" source="Poslanstvo slovenskega zdravnika"
             pubPlace="Ljubljana" publisher="Slovenska matica" year="1965" page="193-224"/>
     </delo>
-    <delo mojID="40595">
+    <delo mojID="40595" cobiss="44179713">
         <naslov>Sto let violinistke Nade Jevdjenijević Brandl</naslov>
         <cit did="1616" cid="20" avtor0="Špendal Manica"
             naslov0="Sto let violinistke Nade Jevdjenijević Brandl" pubPlace="Večer" year="1999"
             page="163"/>
     </delo>
-    <delo mojID="40601">
+    <delo mojID="40601" cobiss="114610432">
         <naslov>Sto slovenskih dramskih umetnikov</naslov>
         <cit did="2713" cid="9" avtor0="Moravec Dušan" avtor1="Predan Vasja"
             naslov0="Sto slovenskih dramskih umetnikov" pubPlace="Ljubljana"
@@ -41575,7 +41575,7 @@
         <naslov>Stoji na rebri grad</naslov>
         <cit did="1273" cid="10" avtor0="Turnšek Metod" naslov0="Stoji na rebri grad"/>
     </delo>
-    <delo mojID="40611">
+    <delo mojID="40611" cobiss="2647668">
         <naslov>Stojimo po vsej verjetnosti pred najstrahotnejšo totalno vojno: doktrine
                         druge svetovne vojne v pogledih slovenske politike 1939-1941</naslov>
         <cit did="2274" cid="158" avtor0="Perovšek Jurij"
@@ -41587,13 +41587,13 @@
         <cit did="248" cid="24" avtor0="Zwitter Franci" naslov0="Stojimo pred usodnimi odločitvami!"
             source="Slovenski vestnik" year="0" volume="29" issue="28" page="1"/>
     </delo>
-    <delo mojID="40617">
+    <delo mojID="40617" cobiss="807735">
         <naslov>Stoletna pratika dvajsetega stoletja 1901-2000</naslov>
         <cit did="1540" cid="18" avtor0="Pečjak Gregorij"
             naslov0="Stoletna pratika dvajsetega stoletja 1901-2000" pubPlace="Ljubljana"
             year="1901"/>
     </delo>
-    <delo mojID="40618">
+    <delo mojID="40618" cobiss="21252658">
         <naslov>Stoletnica plebiscita v Beneški Sloveniji</naslov>
         <cit did="1317" cid="333" avtor0="Marušič Branko"
             naslov0="Stoletnica plebiscita v Beneški Sloveniji" source="Goriška srečanja"
@@ -41604,7 +41604,7 @@
         <cit did="1566" cid="9" avtor0="Kovačič Fran" naslov0="Stoletnica rojstva Ignacija Orožna"
             source="ČZN" year="1919" volume="15" page="157"/>
     </delo>
-    <delo mojID="40620">
+    <delo mojID="40620" cobiss="11698482">
         <naslov>Stoletnica tolminske čitalnice 1862-1962</naslov>
         <cit did="1317" cid="320" avtor0="Marušič Branko"
             naslov0="Stoletnica tolminske čitalnice 1862-1962" source="Jadranski koledar"
@@ -41616,7 +41616,7 @@
             naslov0="Stoletnica čitalnic v Vipavskem križu in Vrtojbi" source="Primorske novice"
             year="1968" issue="25" page="9"/>
     </delo>
-    <delo mojID="40624">
+    <delo mojID="40624" cobiss="512314667">
         <naslov>Stolna cerkev sv. Nikolaja v Ljubljani</naslov>
         <cit did="1590" cid="8" avtor0="Sitar Mateja"
             naslov0="Stolna cerkev sv. Nikolaja v Ljubljani" source="ZVKDS Restavratorski center"
@@ -41628,7 +41628,7 @@
             naslov0="Stolnica sv. Nikolaja v Ljubljani in bazilika sv. Petra v Rimu"
             pubPlace="Ljubljana - Celje" year="2008"/>
     </delo>
-    <delo mojID="40626">
+    <delo mojID="40626" cobiss="5969920">
         <naslov>Stolnica v Kopru : kulturni in naravni spomeniki Slovenije</naslov>
         <cit did="711" cid="23" avtor0="Mikuž J."
             naslov0="Stolnica v Kopru : kulturni in naravni spomeniki Slovenije" pubPlace="Maribor"
@@ -41651,7 +41651,7 @@
         <cit did="2712" cid="118" avtor0="Mihelčič Ivanka" naslov0="Stopimo na tla - čas je"
             source="Dnevnik, 10.5. 1989" year="1989"/>
     </delo>
-    <delo mojID="40630">
+    <delo mojID="40630" cobiss="2947897">
         <naslov>Stopinje v molku</naslov>
         <cit did="3084" cid="15" avtor0="Šav Vlado" naslov0="Stopinje v molku" pubPlace="Koper"
             publisher="samozaložba" year="1990"/>
@@ -41681,12 +41681,12 @@
         <cit did="3023" cid="12" avtor0="De Felice Renzo"
             naslov0="Storia degli ebrei italiani sotto il fascismo" pubPlace="Milano" year="1977"/>
     </delo>
-    <delo mojID="40638">
+    <delo mojID="40638" cobiss="512675911">
         <naslov>Storia degli Italiani</naslov>
         <cit did="430" cid="42" avtor0="Procacci Giuliano" naslov0="Storia degli Italiani"
             pubPlace="Roma" year="1991" page="510"/>
     </delo>
-    <delo mojID="40640">
+    <delo mojID="40640" cobiss="214187776">
         <naslov>Storia degli Sloveni : manuale di storia per le scuole medie con lingua
                         d'insegnamento italiana</naslov>
         <cit did="736" cid="11" avtor0="Križman Guido et al."
@@ -41765,7 +41765,7 @@
         <cit did="86" cid="87" avtor0="Sereni Emilio"
             naslov0="Storia del paesaggio agrario Italiano" pubPlace="Rim, Bari" year="1961"/>
     </delo>
-    <delo mojID="40657">
+    <delo mojID="40657" cobiss="513813840">
         <naslov>Storia del Partito comunista italiano. Vol. 5</naslov>
         <cit did="303" cid="174" avtor0="Spriano Paolo"
             naslov0="Storia del Partito comunista italiano. Vol. 5"
@@ -41804,7 +41804,7 @@
             publisher="Tourism &amp; Museum: col lana del Touriseum, vol. 1. Innsbruck" year="2003"
             page="23-41"/>
     </delo>
-    <delo mojID="40663">
+    <delo mojID="40663" cobiss="7131693">
         <naslov>Storia dell' arte nel Friuli-Venezia Giulia</naslov>
         <cit did="375" cid="138" avtor0="Bergamini Giuseppe, Tavano Sergio"
             naslov0="Storia dell' arte nel Friuli-Venezia Giulia" pubPlace="Videm" year="1991"/>
@@ -41863,7 +41863,7 @@
             naslov0="Storia della medicina e della sanità in Italia" pubPlace="Bari" year="1998"
             page="5-6"/>
     </delo>
-    <delo mojID="40676">
+    <delo mojID="40676" cobiss="1874805">
         <naslov>Storia della popolazione di Venezia alla fine del secolo XVI alla caduta
                         della Repubblica</naslov>
         <cit did="900" cid="2" avtor0="Beltrami Daniele"
@@ -41887,7 +41887,7 @@
         <cit did="3412" cid="5" avtor0="Fueter Eduard" naslov0="Storia della storiografia"
             pubPlace="Milano, Napoli" publisher="Riccardo Ricciardi editore" year="1970"/>
     </delo>
-    <delo mojID="40683">
+    <delo mojID="40683" cobiss="2202092">
         <naslov>Storia della Venezia Giulia 1918 - 1998</naslov>
         <cit did="3506" cid="28" avtor0="Longo Francesca" avtor1="Moder Matteo"
             naslov0="Storia della Venezia Giulia 1918 - 1998" pubPlace="Milano"
@@ -41900,7 +41900,7 @@
             naslov0="Storia dell'amministrazione del Regno d'ltalia durante il dominio francese"
             pubPlace="Lugano" publisher="Veladini" year="0"/>
     </delo>
-    <delo mojID="40686">
+    <delo mojID="40686" cobiss="515132799">
         <naslov>Storia dell'arte e dell'artigianato in Gorizia</naslov>
         <cit did="2222" cid="9" avtor0="Cossar Mario Ranieri"
             naslov0="Storia dell'arte e dell'artigianato in Gorizia" pubPlace="Pordenone"
@@ -41951,7 +41951,7 @@
             naslov0="Storia dell'esodo dei trecentomila" source="Il Piccolo" year="1980"
             issue="(28. 5. 1980)"/>
     </delo>
-    <delo mojID="40696">
+    <delo mojID="40696" cobiss="21633325">
         <naslov>Storia dell'Italia medievale</naslov>
         <cit did="746" cid="13" avtor0="Cammarosano Paolo" naslov0="Storia dell'Italia medievale"
             source="Storia e società" pubPlace="Roma-Bari" publisher="Laterza" year="2001"/>
@@ -41993,7 +41993,7 @@
             naslov0="Storia di una delazione: Cattura e morte di Luigi Frausin" source="Oualestoria"
             pubPlace="Ljubljana" year="1987" volume="14" issue="1" page="3-27"/>
     </delo>
-    <delo mojID="40710">
+    <delo mojID="40710" cobiss="1923633">
         <naslov>Storia di un'Esodo : Istria 1945-1956</naslov>
         <cit did="734" cid="7" avtor0="Colummi C. et al."
             naslov0="Storia di un'Esodo : Istria 1945-1956" pubPlace="Trieste"
@@ -42013,7 +42013,7 @@
             source="Storia d'impresa e modelli di direzione (Atti del seminario Iri-Ifap, Roma 27 Novembre 1986)"
             pubPlace="Roma" publisher="IRI - Direzione Relazioni Esterne" year="1987"/>
     </delo>
-    <delo mojID="40713">
+    <delo mojID="40713" cobiss="8665905">
         <naslov>Storia d'Italia. Le regioni dall'Unita a oggi, Il Friuli-Venezia
                         Giulia</naslov>
         <cit did="2873" cid="264" avtor0="Finzi R., Magris C, Miccoli G."
@@ -42101,7 +42101,7 @@
             source="Storia economica e sociale di Trieste" pubPlace="Trst" publisher="Lint"
             year="2001" issue="1" page="69-239"/>
     </delo>
-    <delo mojID="40737">
+    <delo mojID="40737" cobiss="512098851">
         <naslov>Storia politica della Grande Guerra</naslov>
         <cit did="2624" cid="36" avtor0="Melograni Piero"
             naslov0="Storia politica della Grande Guerra" pubPlace="Milano" year="1998"/>
@@ -42130,14 +42130,14 @@
         <cit did="3378" cid="14" avtor0="Mizzau Marina" naslov0="Storie come vere" pubPlace="Milano"
             publisher="Feltrinelli" year="1998"/>
     </delo>
-    <delo mojID="40747">
+    <delo mojID="40747" cobiss="9648434">
         <naslov>Storie di case, castelli, citta nel Friuli Venezia Giulia : luoghi storici e
                         dinamiche del territorio dal preistoria alla grande guerra</naslov>
         <cit did="86" cid="36" avtor0="Degrassi Donata"
             naslov0="Storie di case, castelli, citta nel Friuli&#xA;Venezia Giulia : luoghi storici e dinamiche del territorio dal preistoria&#xA;alla grande guerra"
             pubPlace="Gorica" year="2002"/>
     </delo>
-    <delo mojID="40749">
+    <delo mojID="40749" cobiss="1420755">
         <naslov>Storie d'ordinaria e straordinaria delinquenza nella Lombardia
                         settecentesca</naslov>
         <cit did="2348" cid="52" avtor0="di Renzo Villata M. G."
@@ -42157,7 +42157,7 @@
         <cit did="1626" cid="97" avtor0="Liptak Lubomir" naslov0="Storočie dlhšie ako sto rokov"
             pubPlace="Bratislava" publisher="Kaligram" year="1999"/>
     </delo>
-    <delo mojID="40755">
+    <delo mojID="40755" cobiss="119715584">
         <naslov>Story of Wine</naslov>
         <cit did="3128" cid="7" avtor0="Johnson Hugh" naslov0="Story of Wine" pubPlace="London"
             publisher="Mitchell Beazley" year="2002"/>
@@ -42233,28 +42233,28 @@
             source="Aquileia e l'arco alpino Orientale" pubPlace="Udine" year="1976" page="153-172"
         />
     </delo>
-    <delo mojID="40768">
+    <delo mojID="40768" cobiss="3624017">
         <naslov>Strafrechtsgeschichte</naslov>
         <cit did="1224" cid="3" avtor0="Radbruch Gustav" naslov0="Strafrechtsgeschichte"
             pubPlace="Heidelberg" year="2001"/>
     </delo>
-    <delo mojID="40769">
+    <delo mojID="40769" cobiss="1645684">
         <naslov>Strah i nada u Srbiji 1941-1944: svakodnevni život pod okupacijom</naslov>
         <cit did="1509" cid="198" avtor0="Nikolič Kosta"
             naslov0="Strah i nada u Srbiji 1941-1944: svakodnevni život pod okupacijom"
             pubPlace="Beograd" year="2002"/>
     </delo>
-    <delo mojID="40771">
+    <delo mojID="40771" cobiss="105736960">
         <naslov>Strah pred naivnostjo</naslov>
         <cit did="385" cid="63" avtor0="Virk T." naslov0="Strah pred naivnostjo"
             pubPlace="Ljubljana" publisher="LUD" year="2000"/>
     </delo>
-    <delo mojID="40772">
+    <delo mojID="40772" cobiss="46163456">
         <naslov>Strah pred svobodo</naslov>
         <cit did="153" cid="18" avtor0="Hribar Spomenka" naslov0="Strah pred svobodo" source="Delo"
             pubPlace="Ljubljana" year="2031"/>
     </delo>
-    <delo mojID="40774">
+    <delo mojID="40774" cobiss="79222272">
         <naslov>Strahovi</naslov>
         <cit did="3155" cid="13" avtor0="Ibsen Henrik" naslov0="Strahovi" pubPlace="Ljubljana"
             publisher="Karantanija" year="1998"/>
@@ -42281,13 +42281,13 @@
             source="Studije iz Hrvatske povijesti XIX. Stoljeća" pubPlace="Zagreb" year="1973"
             page="125"/>
     </delo>
-    <delo mojID="40779">
+    <delo mojID="40779" cobiss="2881361">
         <naslov>Strange multiplicity. Constitutionalism in an age of diversity</naslov>
         <cit did="2747" cid="42" avtor0="Tully James"
             naslov0="Strange multiplicity. Constitutionalism in an age of diversity"
             pubPlace="Cambridge" publisher="Cambridge University Press" year="1995"/>
     </delo>
-    <delo mojID="40780">
+    <delo mojID="40780" cobiss="7202914">
         <naslov>Strange Things: The Malevolent North in Canadian Literature</naslov>
         <cit did="3005" cid="7" avtor0="Atwood M."
             naslov0="Strange Things: The Malevolent North in Canadian Literature" pubPlace="Toronto"
@@ -42306,7 +42306,7 @@
             naslov0="Strangers in the World" pubPlace="Bern - Stuttgart - Vienna" year="1981"
             page="47"/>
     </delo>
-    <delo mojID="40783">
+    <delo mojID="40783" cobiss="438830">
         <naslov>Strani kapital u privredi bivše Jugoslavije</naslov>
         <cit did="3290" cid="145" avtor0="Dimitrijević Sergije"
             naslov0="Strani kapital u privredi bivše Jugoslavije" pubPlace="Beograd"
@@ -42340,14 +42340,14 @@
             naslov0="Stranka in nastanek marksistične ortodoksije" source="Zgodovina marksizma, II."
             pubPlace="Ljubljana" year="1986" page="169"/>
     </delo>
-    <delo mojID="40788">
+    <delo mojID="40788" cobiss="11833096">
         <naslov>Stranka Sivih panterjev od ustanovitve do razpada Demosa</naslov>
         <cit did="1280" cid="4" avtor0="Potočnik Dragan"
             naslov0="Stranka Sivih panterjev od ustanovitve do razpada Demosa"
             source="Časopis za zgodovino in narodopisje" year="2001" volume="72" issue="3/4"
             page="439"/>
     </delo>
-    <delo mojID="40789">
+    <delo mojID="40789" cobiss="8586829">
         <naslov>Stranke in KHD spet skupno proti Slovencem</naslov>
         <cit did="212" cid="66" avtor0="Kulmesch Janko"
             naslov0="Stranke in KHD spet skupno proti Slovencem" source="Naš tednik"
@@ -42369,7 +42369,7 @@
         <cit did="2625" cid="5" avtor0="Bailey F. G." naslov0="Stratagems and Spoils"
             pubPlace="Oxford" year="1970"/>
     </delo>
-    <delo mojID="40793">
+    <delo mojID="40793" cobiss="2596883">
         <naslov>Strategic Human Resources: Frameworks for General Managers</naslov>
         <cit did="2860" cid="4" avtor0="Baron James N." avtor1="Kreps David M."
             naslov0="Strategic Human Resources: Frameworks for General Managers"
@@ -42404,7 +42404,7 @@
             naslov0="Strategies for Self-Government. The Campaigns for a Scottish Parliament"
             pubPlace="Edinbourgh" publisher="Polygon" year="1996"/>
     </delo>
-    <delo mojID="40798">
+    <delo mojID="40798" cobiss="11127373">
         <naslov>Strategies for the Prevention, Management and/or resolution of (Ethnic)
                         Crisis and Conflict: The Case of the Balkans</naslov>
         <cit did="2746" cid="73" avtor0="Žagar Mitja"
@@ -42433,7 +42433,7 @@
             naslov0="Strategies of unsuccessful language learners" source="TESOL Quarterly"
             pubPlace="New York" year="1990" volume="24" page="177-198"/>
     </delo>
-    <delo mojID="40803">
+    <delo mojID="40803" cobiss="60972800">
         <naslov>Strategija in taktika zunanje politike "novih" držav</naslov>
         <cit did="407" cid="17" avtor0="Žagar Mitja"
             naslov0="Strategija in taktika zunanje politike &#34;novih&#34; držav"
@@ -42454,20 +42454,20 @@
         <cit did="946" cid="11" avtor0="Slapnik D."
             naslov0="Strategija vodooskrbe za območje občine Slovenske Konjice" year="1999"/>
     </delo>
-    <delo mojID="40808">
+    <delo mojID="40808" cobiss="9424973">
         <naslov>Strategija za novi čas</naslov>
         <cit did="2653" cid="4" avtor0="Brezigar Barbara" naslov0="Strategija za novi čas"
             source="Ko ni več meja. 3. strokovno-zmamstveni posvet. Monošter, 29. in 30. oktober 2004 (zbornik predavanj)"
             pubPlace="Ljubljana" publisher="Svetovni slovenski kongres = Slovenian World Congress"
             year="2005" page="21-29"/>
     </delo>
-    <delo mojID="40809">
+    <delo mojID="40809" cobiss="104619008">
         <naslov>Strateški razvojni program Skupnosti socialnih zavodov Slovenije</naslov>
         <cit did="168" cid="3" avtor0="Cizelj M. in sod."
             naslov0="Strateški razvojni program Skupnosti socialnih zavodov Slovenije"
             pubPlace="Ljubljana" publisher="Skupnost socialnih zavodov Slovenije" year="1999"/>
     </delo>
-    <delo mojID="40810">
+    <delo mojID="40810" cobiss="23992157">
         <naslov>Stratification: Social division and inequality</naslov>
         <cit did="2687" cid="7" avtor0="Bottero Wendy"
             naslov0="Stratification: Social division and inequality" pubPlace="London, New York"
@@ -42522,19 +42522,19 @@
         <cit did="2853" cid="230" avtor0="Whyte William Foote" naslov0="Street Corner Society"
             pubPlace="Chicago" publisher="University of Chicago Press" year="1943"/>
     </delo>
-    <delo mojID="40820">
+    <delo mojID="40820" cobiss="51277666">
         <naslov>Stregoneria e culti agrari tra Cinquecento e Seicento</naslov>
         <cit did="272" cid="375" avtor0="Ginzburg C., Benandanti I."
             naslov0="Stregoneria e culti agrari tra Cinquecento e Seicento" pubPlace="Torino"
             year="1966"/>
     </delo>
-    <delo mojID="40821">
+    <delo mojID="40821" cobiss="1142557">
         <naslov>Streha, ostresje, kritina, stopnice</naslov>
         <cit did="1942" cid="38" avtor0="Sever A." naslov0="Streha, ostresje, kritina, stopnice"
             source="Tehnologija delovnih procesov" pubPlace="Ljubljana"
             publisher="Tehniska založba Slovenije" year="1986" volume="2"/>
     </delo>
-    <delo mojID="40822">
+    <delo mojID="40822" cobiss="242370560">
         <naslov>Streifzüge durch das Mittelalter des Ostalpenraums. Ausgewählte Abhandlungen
                         (1980-2007)</naslov>
         <cit did="2639" cid="141" avtor0="Kahl Hans Dietrich"
@@ -42571,14 +42571,14 @@
             naslov0="Strikturwandel der Öffentlichkeit" pubPlace="Neuwied" publisher="Luchterhand"
             year="1962"/>
     </delo>
-    <delo mojID="40830">
+    <delo mojID="40830" cobiss="1003388">
         <naslov>Strip kot poskus avtentične naloge in možnosti njegove uporabe pri pouku
                         zgodovine</naslov>
         <cit did="2495" cid="2" avtor0="Popoviča Lozarja"
             naslov0="Strip  kot poskus avtentične naloge in možnosti njegove uporabe pri pouku zgodovine"
             source="Zgodovina v šoli" year="2007" volume="16" issue="3-4" page="18-30"/>
     </delo>
-    <delo mojID="40832">
+    <delo mojID="40832" cobiss="513856895">
         <naslov>Strmolski interierji, pred letom 1945 in po njem</naslov>
         <cit did="2229" cid="1" avtor0="Bučič Vesna"
             naslov0="Strmolski interierji, pred letom 1945 in po njem" source="Kronika" year="2006"
@@ -42594,7 +42594,7 @@
         <cit did="1526" cid="15" avtor0="Taškar Jana" naslov0="Strogo varovani prehod" source="Delo"
             year="0" issue="236" page="1"/>
     </delo>
-    <delo mojID="40837">
+    <delo mojID="40837" cobiss="13155585">
         <naslov>Strojna in Strojanci</naslov>
         <cit did="2242" cid="14" avtor0="Makarovič Marija" naslov0="Strojna in Strojanci"
             pubPlace="Ljubljana" publisher="Založba Mladinske knjige" year="1982"/>
@@ -42606,14 +42606,14 @@
             source="40 let Zavoda za šolstvo" pubPlace="Ljubljana"
             publisher="Zavod Republike Slovenije za šolstvo" year="1996" page="31"/>
     </delo>
-    <delo mojID="40839">
+    <delo mojID="40839" cobiss="46715136">
         <naslov>Strokovna obdelava arhivskega gradiva. Italijanski sistemi
                         1920-1945</naslov>
         <cit did="2843" cid="70" avtor0="Bezek Vanda"
             naslov0="Strokovna obdelava arhivskega gradiva. Italijanski sistemi 1920-1945"
             source="Arhivi" pubPlace="Ljubljana" year="1993" volume="16" issue="1-2" page="59-71"/>
     </delo>
-    <delo mojID="40841">
+    <delo mojID="40841" cobiss="68213">
         <naslov>Strokovni in politični vidiki valorizacije arhivskega gradiva</naslov>
         <cit did="2843" cid="129" avtor0="Žumer Vladimir"
             naslov0="Strokovni in politični vidiki valorizacije arhivskega gradiva" source="Arhivi"
@@ -42675,7 +42675,7 @@
             source="Journal of marriage and the family" year="1997" volume="59" issue="3"
             page="758-772"/>
     </delo>
-    <delo mojID="40852">
+    <delo mojID="40852" cobiss="3003919">
         <naslov>Structural Anthropology, vol. 2</naslov>
         <cit did="599" cid="4" avtor0="Lévi-Strauss Claude"
             naslov0="Structural Anthropology, vol. 2" pubPlace="Harmondsworth"
@@ -42752,7 +42752,7 @@
             naslov0="Struktura delavstva v Sloveniji od 1918 do 1941" source="JIČ" year="1978"
             issue="1-4"/>
     </delo>
-    <delo mojID="40868">
+    <delo mojID="40868" cobiss="13054721">
         <naslov>Struktura fašističnega gospostva: marksistične analize fašizma in problemi
                         teorije ideologije</naslov>
         <cit did="2904" cid="26" avtor0="Dolar Mladen"
@@ -42767,42 +42767,42 @@
             publisher="Fakultet za fizičko vaspitanje, Inštitut za naučna istraživanja" year="1975"
         />
     </delo>
-    <delo mojID="40870">
+    <delo mojID="40870" cobiss="51197440">
         <naslov>Struktura in funkcija Filharmonične družbe v Ljubljani (Ob 200-letnici
                         Filharmonične družbe)</naslov>
         <cit did="1912" cid="80" avtor0="Kuret Primož"
             naslov0="Struktura in funkcija Filharmonične družbe v Ljubljani (Ob 200-letnici Filharmonične družbe)"
             source="Kronika" year="1994" volume="2" issue="42" page="26-30"/>
     </delo>
-    <delo mojID="40872">
+    <delo mojID="40872" cobiss="241102080">
         <naslov>Struktura in razvoj cestnega omrežja od halštatskega do slovanskega
                         obdobja</naslov>
         <cit did="2240" cid="14" avtor0="Truhlar Franc"
             naslov0="Struktura in razvoj cestnega omrežja od halštatskega do slovanskega obdobja"
             source="Kronika" year="1974" volume="22" issue="3" page="156-160"/>
     </delo>
-    <delo mojID="40876">
+    <delo mojID="40876" cobiss="37013293">
         <naslov>Struktura slovenske ljudske kulture</naslov>
         <cit did="2853" cid="161" avtor0="Novak Vilko" naslov0="Struktura slovenske ljudske kulture"
             source="Razprave" year="1958" volume="4" page="3-27"/>
     </delo>
-    <delo mojID="40881">
+    <delo mojID="40881" cobiss="3831567">
         <naslov>Struktura tradicijskog mišljenja</naslov>
         <cit did="3184" cid="2" avtor0="Rihtman - Auguštin Dunja"
             naslov0="Struktura tradicijskog mišljenja" pubPlace="Zagreb" publisher="Školska knjiga"
             year="1984"/>
     </delo>
-    <delo mojID="40882">
+    <delo mojID="40882" cobiss="470601">
         <naslov>Struktura umetničkog teksta</naslov>
         <cit did="2324" cid="18" avtor0="Lotman J. M." naslov0="Struktura umetničkog teksta"
             pubPlace="Beograd" publisher="Nolit" year="1976"/>
     </delo>
-    <delo mojID="40884">
+    <delo mojID="40884" cobiss="79118848">
         <naslov>Struktura znanstvenih revolucij</naslov>
         <cit did="2018" cid="192" avtor0="Kuhn T. S." naslov0="Struktura znanstvenih revolucij"
             pubPlace="Ljubljana" publisher="Krtina" year="1998"/>
     </delo>
-    <delo mojID="40886">
+    <delo mojID="40886" cobiss="11187713">
         <naslov>Strukturalna poetika</naslov>
         <cit did="3248" cid="7" avtor0="Pirjevec Dušan" naslov0="Strukturalna poetika"
             pubPlace="Ljubljana" publisher="DZS" year="1981"/>
@@ -42860,7 +42860,7 @@
             naslov0="Studi sulla societä degli Appennini nell'alto medioevo : contadini, signori e insediamento nel territorio di Valva"
             pubPlace="Bologna" publisher="CLUEB" year="1982"/>
     </delo>
-    <delo mojID="40902">
+    <delo mojID="40902" cobiss="10382381">
         <naslov>Studi sulle guerre Mitridatiche</naslov>
         <cit did="1748" cid="642" avtor0="Mastrocinque A." naslov0="Studi sulle guerre Mitridatiche"
             pubPlace="Stuttgart" year="1999"/>
@@ -42911,7 +42911,7 @@
         <cit did="2171" cid="14" avtor0="Feder A.L." naslov0="Studien zu Hilarius von Poitiers I."
             pubPlace="Wien" year="1910" page="157-165"/>
     </delo>
-    <delo mojID="40912">
+    <delo mojID="40912" cobiss="31299329">
         <naslov>Studien zum Deutschliberalismus in Zisleithanien 1873-1879</naslov>
         <cit did="109" cid="29" avtor0="Kammerhofer Leopold"
             naslov0="Studien zum Deutschliberalismus in Zisleithanien 1873-1879" pubPlace="Dunaj"
@@ -42987,7 +42987,7 @@
             naslov0="Studien zur Geschichte der gotischen Urkundenschrift" source="AD"
             pubPlace="Köln - Wien" year="1982"/>
     </delo>
-    <delo mojID="40925">
+    <delo mojID="40925" cobiss="263557">
         <naslov>Studien zur Geschichtsschreibung Johanns von Viktring</naslov>
         <cit did="3257" cid="1" avtor0="Kamptner Margit"
             naslov0="Studien zur Geschichtsschreibung Johanns von Viktring" pubPlace="Klagenfurt"
@@ -43021,7 +43021,7 @@
             naslov0="Studien über Hysterie" pubPlace="Frankfurt am Main"
             publisher="Fischer Taschenbuch Verlag" year="1985"/>
     </delo>
-    <delo mojID="40935">
+    <delo mojID="40935" cobiss="7683426">
         <naslov>Studienskript Volkskunde</naslov>
         <cit did="287" cid="6" avtor0="Gerndt Helge" naslov0="Studienskript Volkskunde"
             pubPlace="München" publisher="Münchner Vereinigung für Volkskunde" year="1992" page="48"
@@ -43089,7 +43089,7 @@
             naslov0="Studije ia istorijo srbske trgovine XIII. I XIV. veka" source="GSUD" year="0"
             volume="33" page="220-221"/>
     </delo>
-    <delo mojID="40951">
+    <delo mojID="40951" cobiss="12937985">
         <naslov>Studije o slovenski zgodovini in narodnem vprašanju</naslov>
         <cit did="2201" cid="70" avtor0="Pleterski Janko"
             naslov0="Studije o slovenski zgodovini in narodnem vprašanju" pubPlace="Maribor"
@@ -43132,7 +43132,7 @@
         <cit did="3026" cid="25" avtor0="Tägil Sven" naslov0="Studying boundary conflicts"
             pubPlace="Lund" publisher="Esselte Studium" year="1977"/>
     </delo>
-    <delo mojID="40960">
+    <delo mojID="40960" cobiss="19193186">
         <naslov>Studyng History</naslov>
         <cit did="2288" cid="17" avtor0="Black J., Macraild D." naslov0="Studyng History"
             pubPlace="London" year="2000"/>
@@ -43149,7 +43149,7 @@
             naslov0="Sturm über China: Österreich-Ungarns Einsatz im Boxeraufstand 1900"
             pubPlace="Wien" publisher="Verlagsbuchhandlung Stöhr" year="2000"/>
     </delo>
-    <delo mojID="40966">
+    <delo mojID="40966" cobiss="500809">
         <naslov>Stvaranje makedonske države (1893-1945)</naslov>
         <cit did="2323" cid="6" avtor0="Hristov A. T."
             naslov0="Stvaranje makedonske države (1893-1945)" pubPlace="Beograd"
@@ -43177,7 +43177,7 @@
             naslov0="Styriaca, Gedrucktes und Ungedrucktes zur steierm. Geschichte und Culturgeschichte, Neue Folge, 2. Band, des ganzen Werkes 3. Band"
             pubPlace="Graz" year="1905"/>
     </delo>
-    <delo mojID="40973">
+    <delo mojID="40973" cobiss="16404535">
         <naslov>Styriaca. Izbrana dela</naslov>
         <cit did="2418" cid="61" avtor0="Ževart Milan" naslov0="Styriaca. Izbrana dela"
             pubPlace="Velenje" year="2005"/>
@@ -43254,7 +43254,7 @@
             naslov0="Subjects into citizens : societies, civil society and autocracy in tsarist Russia"
             publisher="American Historical Review" year="2002" volume="64" issue="6" page="1094"/>
     </delo>
-    <delo mojID="40991">
+    <delo mojID="40991" cobiss="24027437">
         <naslov>Subjekt po Auschwitzu</naslov>
         <cit did="2701" cid="74" avtor0="Šumič Riha Jelica" naslov0="Subjekt po Auschwitzu"
             naslov1="spremna beseda"
@@ -43267,13 +43267,13 @@
             naslov0="Subjektivna istorija jugoslovenske diplomatije 1943-1991" pubPlace="Beograd"
             publisher="Službeni list SRJ" year="1995"/>
     </delo>
-    <delo mojID="40993">
+    <delo mojID="40993" cobiss="90484">
         <naslov>Sub-National Mobilization and European Integration</naslov>
         <cit did="2747" cid="18" avtor0="Jeffery, Charlie"
             naslov0="Sub-National Mobilization and European Integration" naslov1="vol. 38"
             source="Journal of Common Market Studies" year="2000" issue="1" page="1-24"/>
     </delo>
-    <delo mojID="40994">
+    <delo mojID="40994" cobiss="25074013">
         <naslov>Subsaharska (črna) Afrika v vladajočem znanstvenem in intelektualnem
                         diskurzu</naslov>
         <cit did="2656" cid="14" avtor0="Ilc Blaž"
@@ -43295,7 +43295,7 @@
             naslov0="Suche nach Karantanien. Bilder und Szenen aus einem Land der versäumten Möglichkeiten, drei Jahrzehnte nach dem &#34;Ortstafelsturm"
             source="Der Standard" year="2002" issue="4037" page="23"/>
     </delo>
-    <delo mojID="40998">
+    <delo mojID="40998" cobiss="118008064">
         <naslov>Sudbina Partijske vojske</naslov>
         <cit did="1530" cid="7" avtor0="Hadžić Miroslav" naslov0="Sudbina Partijske vojske"
             pubPlace="Beograd" year="2001" page="131"/>
@@ -43314,7 +43314,7 @@
             naslov0="Suddenly Jewish. Jews raised as Gentiles discover their Jewish roots"
             pubPlace="Hanover" publisher="University Press of New England" year="2000"/>
     </delo>
-    <delo mojID="41002">
+    <delo mojID="41002" cobiss="6150989">
         <naslov>Sudeti 1945</naslov>
         <cit did="942" cid="1" avtor0="Brandes Detlef" naslov0="Sudeti 1945"
             naslov1="prove tecniche di pulizia etnica" source="Limes" pubPlace="Eoma" year="1996"
@@ -43349,7 +43349,7 @@
             naslov0="Sui banchi di scuola, a studiare l'Istria e la sua storia"
             source="Tempi &amp; Cultura" year="1999" volume="III" issue="5"/>
     </delo>
-    <delo mojID="41009">
+    <delo mojID="41009" cobiss="10386994">
         <naslov>Sui campi delle dodici battaglie</naslov>
         <cit did="2221" cid="17" avtor0="Piteo Michele" naslov0="Sui campi delle dodici battaglie"
             pubPlace="Redipuglia" publisher="Pro loco Fogliano : Edizioni della Laguna" year="2003"
@@ -43375,7 +43375,7 @@
             source="Scritti sulla Lombardia: La Lombardia di C. Cattaneo." pubPlace="Milan"
             publisher="Mondadori" year="0" page="5-10"/>
     </delo>
-    <delo mojID="41015">
+    <delo mojID="41015" cobiss="3476748">
         <naslov>Sukob Srba i Hrvata prilikom otkrivanja spomenika Gunduliću 1893. u
                         Dubrovniku</naslov>
         <cit did="174" cid="9" avtor0="Mitrović Jeremija D."
@@ -43397,7 +43397,7 @@
             source="Zbornik radova sa međunarodnog okruglog stola Tito- Staljin, Arhiv Srbije i Crne Gore"
             pubPlace="Beograd" year="2007" page="99-101"/>
     </delo>
-    <delo mojID="41018">
+    <delo mojID="41018" cobiss="13707063">
         <naslov>Sukobi i tolerancija: o društvenoj uvjetovanosti nacionalizma i
                         demokracija</naslov>
         <cit did="2803" cid="48" avtor0="Sekulić Duško et al"
@@ -43405,7 +43405,7 @@
             pubPlace="Zagreb" publisher="Naklada Jesenski i Turk, Hrvatsko sociološko društvo"
             year="2004"/>
     </delo>
-    <delo mojID="41019">
+    <delo mojID="41019" cobiss="7081738">
         <naslov>Sukobi na Kosovu</naslov>
         <cit did="2872" cid="48" avtor0="Đakovič Spasoje" naslov0="Sukobi na Kosovu"
             pubPlace="Beograd" publisher="Narodna knjiga" year="1986"/>
@@ -43622,7 +43622,7 @@
             naslov0="Sulle pie società che nel Ducato di Milano assistevano i condannati a morte. Rendiconti del Regio Istituto lombardo di scienze e lettere"
             pubPlace="Milano" year="0" volume="2" issue="14" page="387-435"/>
     </delo>
-    <delo mojID="41057">
+    <delo mojID="41057" cobiss="1931017">
         <naslov>Sulli nomi dati alla citta di Capodistria</naslov>
         <cit did="1762" cid="72" avtor0="Kandler P."
             naslov0="Sulli nomi dati alla citta di Capodistria" pubPlace="Trst" year="0"/>
@@ -43690,7 +43690,7 @@
             naslov0="Sultanova djeca: predodžbe Turaka u hrvatskoj književnosti ranog novovjekovlja"
             pubPlace="Zadar" publisher="Thema" year="2004"/>
     </delo>
-    <delo mojID="41069">
+    <delo mojID="41069" cobiss="4798211">
         <naslov>Suma protiv pogana</naslov>
         <cit did="1482" cid="1" avtor0="Akvinski Tomaž" naslov0="Suma protiv pogana"
             pubPlace="Zagreb" publisher="Kršćanska sadašnjost" year="1993"/>
@@ -43715,14 +43715,14 @@
         <cit did="1271" cid="5" avtor0="Pavlica Josip" naslov0="Summarium scientiae catecheticae"
             source="Folium periodicum Goritiense" year="0"/>
     </delo>
-    <delo mojID="41074">
+    <delo mojID="41074" cobiss="1435949">
         <naslov>Summus Poeninus: Beiträge zur Geschichte des Grossen St. Bernhard-Passes in
                         römischer Zeit (Historia Einzelschriften 46)</naslov>
         <cit did="1748" cid="1093" avtor0="Walser G."
             naslov0="Summus Poeninus: Beiträge zur Geschichte des Grossen St. Bernhard-Passes in römischer Zeit (Historia Einzelschriften 46)"
             pubPlace="Wiesbaden" year="1984"/>
     </delo>
-    <delo mojID="41075">
+    <delo mojID="41075" cobiss="9481549">
         <naslov>Summások apátistvánfalván az adatközlők visszaemlékezései tükrében</naslov>
         <cit did="2763" cid="4" avtor0="Munda Hirnök Katalin"
             naslov0="Summások apátistvánfalván az adatközlők visszaemlékezései tükrében"
@@ -43734,12 +43734,12 @@
         <cit did="2757" cid="16" avtor0="Jajčinović Milan"
             naslov0="Sumnjivi heroji [Suspected heroes]" source="Danas" year="1988" page="9-11"/>
     </delo>
-    <delo mojID="41077">
+    <delo mojID="41077" cobiss="11310081">
         <naslov>Sumrak staljinizma</naslov>
         <cit did="3210" cid="130" avtor0="Marovič Miodrag" naslov0="Sumrak staljinizma"
             pubPlace="Beograd" publisher="Sloboda" year="1978"/>
     </delo>
-    <delo mojID="41078">
+    <delo mojID="41078" cobiss="1665335">
         <naslov>Sumrak Vizantije (Vreme Jovana VIII Paleologa 1392-1448)</naslov>
         <cit did="310" cid="12" avtor0="Đurić I."
             naslov0="Sumrak Vizantije (Vreme Jovana VIII Paleologa 1392-1448)" pubPlace="Beograd"
@@ -43837,7 +43837,7 @@
             source="Problemes &amp; methodes de la biographie :Aactes du Colloque Sorbonne 3-4 mai 1985"
             pubPlace="Paris" publisher="Centre National des Lettres" year="1985" page="88-92"/>
     </delo>
-    <delo mojID="41097">
+    <delo mojID="41097" cobiss="1237347">
         <naslov>Surfacing</naslov>
         <cit did="3005" cid="6" avtor0="Atwood M." naslov0="Surfacing" pubPlace="Toronto"
             publisher="McClelland &amp; Stewart" year="1972"/>
@@ -43938,13 +43938,13 @@
         <cit did="1897" cid="21" avtor0="Kovačević Branimir" naslov0="Suza za Bleiburg"
             pubPlace="Zagreb" year="2003" page="96-97"/>
     </delo>
-    <delo mojID="41116">
+    <delo mojID="41116" cobiss="1815668">
         <naslov>Sušak 1919-1947 - državnopravni položaj grada</naslov>
         <cit did="2178" cid="12" avtor0="Bartulović Ž."
             naslov0="Sušak 1919-1947 - državnopravni položaj grada" pubPlace="Rijeka" year="2004"
             page="331"/>
     </delo>
-    <delo mojID="41117">
+    <delo mojID="41117" cobiss="4985165">
         <naslov>Suženjstvo - prisilna migracija Slovanov v Italijo</naslov>
         <cit did="2536" cid="20" avtor0="Gestrin Ferdo"
             naslov0="Suženjstvo - prisilna migracija Slovanov v Italijo"
