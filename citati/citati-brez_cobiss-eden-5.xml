@@ -37,33 +37,33 @@
         <cit did="3256" cid="56" avtor0="Trubar Primož" naslov0="Ta Evangeli Svetiga Matevsha"
             pubPlace="Ljubljana" publisher="Državna založba Slovenije" year="1999"/>
     </delo>
-    <delo mojID="41349">
+    <delo mojID="41349" cobiss="128128256">
         <naslov>Ta knjiga je zate. Berilo za 7. razred devetletne osnovne šole</naslov>
         <cit did="2602" cid="7" avtor0="Cirman Majda et al."
             naslov0="Ta knjiga je zate. Berilo za 7. razred devetletne osnovne šole"
             pubPlace="Ljubljana" publisher="DZS" year="2004"/>
     </delo>
-    <delo mojID="41350">
+    <delo mojID="41350" cobiss="7387136">
         <naslov>Ta ocean, strašnó odprt</naslov>
         <cit did="833" cid="12" avtor0="Pahor Boris" naslov0="Ta ocean, strašnó odprt"
             naslov1="Dnevniški zapiski od julija 1974 do februarja 1976" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1989"/>
     </delo>
-    <delo mojID="41351">
+    <delo mojID="41351" cobiss="4561229">
         <naslov>"Ta sklep mora biti vsakemu Kočevarju svetinja..."</naslov>
         <cit did="844" cid="2" avtor0="Balkovec Bojan"
             naslov0="&#34;Ta sklep mora biti vsakemu Kočevarju svetinja...&#34;"
             naslov1="Parlamentarne volitve na Kočevskem med obema vojnama" pubPlace="Ljubljana"
             publisher="Kronika" year="1995" volume="43" issue="3" page="38-48"/>
     </delo>
-    <delo mojID="41354">
+    <delo mojID="41354" cobiss="113149184">
         <naslov>Tabelne slike "štajerske šole" v Kraljevi Sutjeski- naročilo Celjskih
                         grofov</naslov>
         <cit did="253" cid="27" avtor0="Mekanović H.S."
             naslov0="Tabelne slike &#34;štajerske šole&#34; v Kraljevi Sutjeski- naročilo Celjskih grofov"
             source="Tretji dan" year="2001" volume="1" issue="30" page="87-94"/>
     </delo>
-    <delo mojID="41355">
+    <delo mojID="41355" cobiss="53467648">
         <naslov>Tabelska slika pri pouku zgodovine: soodvisnost med zasnovo učne
                         enote-artikulacijo, zasnovo, zgodovinskega učbenika in tabelsko
                         sliko</naslov>
@@ -71,7 +71,7 @@
             naslov0="Tabelska slika pri pouku zgodovine: soodvisnost med zasnovo učne enote-artikulacijo, zasnovo, zgodovinskega učbenika in tabelsko sliko"
             source="Zgodovina v šoli" year="1992" volume="1" issue="2" page="27-35"/>
     </delo>
-    <delo mojID="41356">
+    <delo mojID="41356" cobiss="46304000">
         <naslov>Tabernakeljske omare iz fonda Narodnega muzeja</naslov>
         <cit did="2118" cid="14" avtor0="Lozar Štamcar Maja"
             naslov0="Tabernakeljske omare iz fonda Narodnega muzeja" source="Argo" year="1993"
@@ -93,12 +93,12 @@
             naslov0="Tableau par Corps et par batailles des officers tues et blesses pendant les guerres de l'Empire (1805-1815)"
             pubPlace="Paris" year="1899"/>
     </delo>
-    <delo mojID="41359">
+    <delo mojID="41359" cobiss="8329620">
         <naslov>Tabor bo spet Šilentabor</naslov>
         <cit did="375" cid="111" avtor0="Širca Sergeja" naslov0="Tabor bo spet Šilentabor"
             source="Dnevnik." year="0" page="89"/>
     </delo>
-    <delo mojID="41360">
+    <delo mojID="41360" cobiss="512380971">
         <naslov>Tabor nad Zagorjem - Šilentabor</naslov>
         <cit did="375" cid="112" avtor0="Bratina Patricija"
             naslov0="Tabor nad Zagorjem - Šilentabor" naslov1="konservatorsko poročilo"
@@ -109,7 +109,7 @@
         <cit did="223" cid="10" avtor0="Stergar Janez" naslov0="Taborenje med koroškimi Slovenci"
             source="Vestnik koroških partizanov" year="1973" volume="6" issue="4" page="68-69"/>
     </delo>
-    <delo mojID="41364">
+    <delo mojID="41364" cobiss="9645217">
         <naslov>Tabori v sistemu protiturške obrambe</naslov>
         <cit did="2604" cid="114" avtor0="Slapšak Božidar"
             naslov0="Tabori v sistemu protiturške obrambe" source="Kronika" pubPlace="Ljubljana"
@@ -126,7 +126,7 @@
         <cit did="3093" cid="98" avtor0="Marušič Branko" naslov0="Taborsko gibanje"
             pubPlace="Ljubljana" publisher="Narodni muzej Ljubljana" year="1981"/>
     </delo>
-    <delo mojID="41372">
+    <delo mojID="41372" cobiss="21273650">
         <naslov>Taborsko gibanje na Primorskem</naslov>
         <cit did="1317" cid="321" avtor0="Trojar Štefan" naslov0="Taborsko gibanje na Primorskem"
             source="Goriška srečanja" year="1967" volume="2" issue="7" page="25"/>
@@ -136,7 +136,7 @@
         <cit did="3255" cid="20" avtor0="Uria Varela Javier" naslov0="Tabù y eufemismo en latin"
             pubPlace="Amsterdam" publisher="A. M. Hakkert" year="1997"/>
     </delo>
-    <delo mojID="41377">
+    <delo mojID="41377" cobiss="512121123">
         <naslov>Taccuino di Caporetto</naslov>
         <cit did="1428" cid="12" avtor0="Gadda Carlo Emilio" naslov0="Taccuino di Caporetto"
             source="Diario di guerra e di prigionia" pubPlace="Milano" publisher="Garzanti"
@@ -155,7 +155,7 @@
             source="The American Journal of Philology" pubPlace="Baltimore" year="1999" volume="120"
             page="123-142"/>
     </delo>
-    <delo mojID="41380">
+    <delo mojID="41380" cobiss="46310754">
         <naslov>Tacitus I in II</naslov>
         <cit did="272" cid="179" avtor0="Syme Ronald" naslov0="Tacitus I in II" pubPlace="Oxford"
             year="1958"/>
@@ -167,7 +167,7 @@
             source="http://www.eurofound.europa.eu/eiro/2008/01/articles/se0801029i.htm" year="2009"
         />
     </delo>
-    <delo mojID="41382">
+    <delo mojID="41382" cobiss="32191581">
         <naslov>Tactics and the Experience of Battle in the Age of Napoleon</naslov>
         <cit did="629" cid="23" avtor0="Muir Rory"
             naslov0="Tactics and the Experience of Battle in the Age of Napoleon"
@@ -220,12 +220,12 @@
         <cit did="2222" cid="35" avtor0="Raafat Samir" naslov0="Taher Pasha of Tahra Palace"
             publisher="Cairo Times" year="1999" issue="14" page="12"/>
     </delo>
-    <delo mojID="41392">
+    <delo mojID="41392" cobiss="52311041">
         <naslov>Taiwan a political History</naslov>
         <cit did="142" cid="164" avtor0="Roy Denny" naslov0="Taiwan a political History"
             pubPlace="London" publisher="Cornell University Press" year="2003"/>
     </delo>
-    <delo mojID="41393">
+    <delo mojID="41393" cobiss="73275">
         <naslov>Taiwan a Travel Survival Kit</naslov>
         <cit did="142" cid="175" avtor0="Storey Robert" naslov0="Taiwan a Travel Survival Kit"
             pubPlace="Hawthorn" publisher="Lonely Planet Publications" year="1990" page="10-31"/>
@@ -250,7 +250,7 @@
             source="Studije iz hrvatske povijesti XIX. Stoljeća" pubPlace="Zagreb" year="1973"
             page="201"/>
     </delo>
-    <delo mojID="41399">
+    <delo mojID="41399" cobiss="9310541">
         <naslov>Tajne raziskave na Inštitutu za narodnosti</naslov>
         <cit did="2808" cid="23" avtor0="Kržišnik Bukić Vera"
             naslov0="Tajne raziskave na Inštitutu za narodnosti" source="Večer" year="2004"
@@ -263,7 +263,7 @@
             naslov0="Tajni zivot Srba, Hrvata i Slovenaca [Secret life of Serbs, Croats and Slovenes]"
             year="1989"/>
     </delo>
-    <delo mojID="41402">
+    <delo mojID="41402" cobiss="6164557">
         <naslov>Tajnice in fikusi se menjavajo, manjšine ostajajo</naslov>
         <cit did="2808" cid="27" avtor0="Stergar Janez"
             naslov0="Tajnice in fikusi se menjavajo, manjšine ostajajo" source="Razgledi"
@@ -345,7 +345,7 @@
         <cit did="333" cid="17" avtor0="Bukovec T." naslov0="Talci v tuji vojski"
             source="Nedeljski dnevnik" year="0"/>
     </delo>
-    <delo mojID="41423">
+    <delo mojID="41423" cobiss="5257782">
         <naslov>Talci zgodovine : Slovenci in žrtve druge svetovne vojne</naslov>
         <cit did="860" cid="22" avtor0="Dežman Jože"
             naslov0="Talci zgodovine : Slovenci in žrtve druge svetovne vojne"
@@ -357,7 +357,7 @@
             naslov0="Talianska vojenská misia v začiatkoch ČSR" source="Historia II"
             pubPlace="Budapest" year="2002" issue="19-21"/>
     </delo>
-    <delo mojID="41425">
+    <delo mojID="41425" cobiss="94402816">
         <naslov>Talijani na primorju Kraljevine Jugoslavije</naslov>
         <cit did="2096" cid="16" avtor0="Rubić I."
             naslov0="Talijani na primorju Kraljevine Jugoslavije" pubPlace="Split"
@@ -370,13 +370,13 @@
             naslov0="Talijanska manjina u Istri nakon drugog svjetskog rata : Gospodarstvo Istre"
             pubPlace="Pula" year="1991" volume="1-2" page="73-82"/>
     </delo>
-    <delo mojID="41430">
+    <delo mojID="41430" cobiss="1995017">
         <naslov>Talijanska politika i pitanje Trsta, Ličnosti i problemi</naslov>
         <cit did="1511" cid="133" avtor0="Hribar Alfons"
             naslov0="Talijanska politika i pitanje Trsta, Ličnosti i problemi" pubPlace="Zagreb"
             year="1945"/>
     </delo>
-    <delo mojID="41434">
+    <delo mojID="41434" cobiss="10425169">
         <naslov>Talijansko-hrvatski rječnik</naslov>
         <cit did="693" cid="17" avtor0="Deanovič M., Jernej J."
             naslov0="Talijansko-hrvatski rječnik" pubPlace="Zagreb" publisher="Školska knjiga"
@@ -389,7 +389,7 @@
             source="Africa Action, http://www.africaaction.org/talking-about-tribe.html" year="1997"
         />
     </delo>
-    <delo mojID="41437">
+    <delo mojID="41437" cobiss="76571904">
         <naslov>tam kjer kesude cveto</naslov>
         <cit did="106" cid="330" avtor0="Sreš M." naslov0="tam kjer kesude cveto" pubPlace="Celje"
             publisher="Mohorjeva družba" year="1998" page="160"/>
@@ -428,7 +428,7 @@
         <cit did="142" cid="169" avtor0="Serin Rahmi" naslov0="Tarikatski savjeti i upute"
             pubPlace="Kačuni" publisher="UG hastahana - tekija Mesudija" year="2004"/>
     </delo>
-    <delo mojID="41451">
+    <delo mojID="41451" cobiss="56124672">
         <naslov>Tartini in kombinacijski toni</naslov>
         <cit did="387" cid="30" avtor0="Ravnikar B." naslov0="Tartini in kombinacijski toni"
             source="Muzikološki zbornik" pubPlace="Ljubljana" year="1992" volume="28" page="41-46"/>
@@ -474,7 +474,7 @@
             naslov0="Tassi di interesse e costo del debito nella prospettiva dell'Unione monetaria europea"
             source="La finanza pubblica italiana" year="1996" page="57-79"/>
     </delo>
-    <delo mojID="41458">
+    <delo mojID="41458" cobiss="335982">
         <naslov>Taste and the antique. The lure of classical sculpture. 1500-1900</naslov>
         <cit did="2528" cid="5" avtor0="Haskell Francis, Penny Nicholas"
             naslov0="Taste and the antique. The lure of classical sculpture. 1500-1900"
@@ -485,7 +485,7 @@
         <naslov>Tatjana Dolhar</naslov>
         <cit did="407" cid="18" avtor0="Dolhar T." naslov0="Tatjana Dolhar" year="2003"/>
     </delo>
-    <delo mojID="41460">
+    <delo mojID="41460" cobiss="49004288">
         <naslov>Taufferer Inocenc, šolnik in knjižničar</naslov>
         <cit did="2158" cid="6" avtor0="Kovačič Lojze"
             naslov0="Taufferer Inocenc, šolnik in knjižničar" source="Slovenski jezuiti" year="0"
@@ -523,7 +523,7 @@
             naslov0="Teacher and Student Learning: Strenghtening Their Conection"
             source="Teaching as the Learning" pubPlace="San Francisco" year="1999"/>
     </delo>
-    <delo mojID="41467">
+    <delo mojID="41467" cobiss="1798473">
         <naslov>Teacher development: a model from science education</naslov>
         <cit did="3189" cid="3" avtor0="Bell B., Gilbert J."
             naslov0="Teacher development: a model from science education" pubPlace="London"
@@ -547,7 +547,7 @@
             naslov0="Teacher's guide to classroom research" pubPlace="Milton Keyness"
             publisher="Open University" year="1985"/>
     </delo>
-    <delo mojID="41471">
+    <delo mojID="41471" cobiss="16636002">
         <naslov>Teaching 20th Century European history</naslov>
         <cit did="3172" cid="4" avtor0="Stradling Robert"
             naslov0="Teaching 20th Century European history" pubPlace="Strasbourg"
@@ -562,17 +562,17 @@
             publisher="Centrum voor Educatieve Geografie Vrije Universiteit Amsterdam" year="1996"
             volume="9" issue="13"/>
     </delo>
-    <delo mojID="41475">
+    <delo mojID="41475" cobiss="7609186">
         <naslov>Teaching European Studies</naslov>
         <cit did="2001" cid="41" avtor0="VVilliams M." naslov0="Teaching European Studies"
             pubPlace="London" publisher="Heinemann Educational Books" year="1977"/>
     </delo>
-    <delo mojID="41476">
+    <delo mojID="41476" cobiss="13035106">
         <naslov>Teaching Imagology Today</naslov>
         <cit did="442" cid="11" avtor0="Smolej Tone" naslov0="Teaching Imagology Today"
             source="Arcadia" year="1999" volume="34" issue="2" page="313-322"/>
     </delo>
-    <delo mojID="41477">
+    <delo mojID="41477" cobiss="42021633">
         <naslov>Teaching in the New Europe</naslov>
         <cit did="973" cid="6" avtor0="Slater John" naslov0="Teaching in the New Europe"
             pubPlace="London" year="1995"/>
@@ -593,7 +593,7 @@
         <cit did="945" cid="6" avtor0="Petty G." naslov0="Teaching Today"
             naslov1="A Practical Guide" year="1993" page="45-46"/>
     </delo>
-    <delo mojID="41481">
+    <delo mojID="41481" cobiss="3401826">
         <naslov>Teatrski škandal zaradi "Veselega vinograda"</naslov>
         <cit did="1135" cid="12" avtor0="Kralj Lado"
             naslov0="Teatrski škandal zaradi &#34;Veselega vinograda&#34;"
@@ -632,7 +632,7 @@
             source="Routledge contemporary Human Geography" pubPlace="London" publisher="Routledge"
             year="1997"/>
     </delo>
-    <delo mojID="41486">
+    <delo mojID="41486" cobiss="34786146">
         <naslov>Technologie et usage du bois au Bronze final</naslov>
         <cit did="1942" cid="29" avtor0="Pillonel D."
             naslov0="Technologie et usage du bois au Bronze final"
@@ -654,7 +654,7 @@
             naslov0="Tecnologie, organizzazione produttiva e divisione sessuale del lavoro: il caso dei mulini da seta"
             source="II lavoro delle donne" pubPlace="Bari" year="1996" page="269-296"/>
     </delo>
-    <delo mojID="41489">
+    <delo mojID="41489" cobiss="6432845">
         <naslov>Tecumseh's last stand</naslov>
         <cit did="2968" cid="132" avtor0="Sugden John" naslov0="Tecumseh's last stand"
             pubPlace="Norman, London" publisher="University of Oklahoma Press" year="1985"/>
@@ -670,17 +670,17 @@
             naslov1="To se nam da upati" source="Naš tednik" pubPlace="Celovec" year="0" volume="38"
             issue="48" page="2"/>
     </delo>
-    <delo mojID="41493">
+    <delo mojID="41493" cobiss="475977">
         <naslov>Teh 50 let (spomini)</naslov>
         <cit did="1775" cid="1" avtor0="Ivan Kreft" naslov0="Teh 50 let (spomini)"
             pubPlace="Ljubljana" year="1974"/>
     </delo>
-    <delo mojID="41494">
+    <delo mojID="41494" cobiss="475977">
         <naslov>Teh petdeset let: Spomini</naslov>
         <cit did="1981" cid="14" avtor0="Kreft I." naslov0="Teh petdeset let: Spomini"
             pubPlace="Ljubljana" publisher="Založba Borec" year="1975"/>
     </delo>
-    <delo mojID="41495">
+    <delo mojID="41495" cobiss="26811649">
         <naslov>Teharje</naslov>
         <cit did="1897" cid="49" avtor0="Leljak Roman" naslov0="Teharje" pubPlace="Maribor"
             year="1990" page="92"/>
@@ -690,12 +690,12 @@
         <cit did="860" cid="62" avtor0="Korošec Ivan" naslov0="Teharje : krvave rane"
             pubPlace="Ljubljana" year="1994"/>
     </delo>
-    <delo mojID="41498">
+    <delo mojID="41498" cobiss="54667776">
         <naslov>Teharska nedelja</naslov>
         <cit did="446" cid="5" avtor0="Stanovnik Justin" naslov0="Teharska nedelja" source="Zaveza"
             year="1992" issue="6" page="9-13"/>
     </delo>
-    <delo mojID="41499">
+    <delo mojID="41499" cobiss="15651328">
         <naslov>Teharske žive rane</naslov>
         <cit did="1897" cid="54" avtor0="Leljak Roman" naslov0="Teharske žive rane"
             pubPlace="Ljubljana" year="1990" page="21-25"/>
@@ -705,7 +705,7 @@
         <cit did="1897" cid="57" avtor0="Černej Janez" naslov0="Teharski grobovi" source="Zaveza"
             year="2002" issue="2" page="62"/>
     </delo>
-    <delo mojID="41501">
+    <delo mojID="41501" cobiss="241424896">
         <naslov>Tehnika gradnje benečanske ceste v dolini Rižane</naslov>
         <cit did="2640" cid="14" avtor0="Boltin Tome E."
             naslov0="Tehnika gradnje benečanske ceste v dolini Rižane" source="Kronika" year="1979"
@@ -725,7 +725,7 @@
             source="Poročilo o raziskovanju paleolita, neolita in eneolita v Sloveniji"
             pubPlace="Ljubljana" year="1979" volume="7" page="15-80"/>
     </delo>
-    <delo mojID="41505">
+    <delo mojID="41505" cobiss="1941996">
         <naslov>Tehnike promocije manjšinskih jezikov: primer valižanščine</naslov>
         <cit did="2753" cid="8" avtor0="Brezigar Sara"
             naslov0="Tehnike promocije manjšinskih jezikov: primer valižanščine" pubPlace="Trst"
@@ -781,7 +781,7 @@
             source="Enciklopedija Slovenije : 13. knjiga" pubPlace="Ljubljana"
             publisher="Mladinska knjiga" year="1999" page="206-209"/>
     </delo>
-    <delo mojID="41520">
+    <delo mojID="41520" cobiss="45332992">
         <naslov>Tekstilna proizvodnja in njena industrializacija na Slovenskem od začetka
                         19. stoletja do leta 1918, I. del</naslov>
         <cit did="3481" cid="2" avtor0="Kobe Arzenšek Katarina"
@@ -793,7 +793,7 @@
         <cit did="1461" cid="19" avtor0="Avšič Vera" naslov0="Tekstilni horoskop za šest let"
             source="Gospodarski vestnik" year="0" issue="45"/>
     </delo>
-    <delo mojID="41523">
+    <delo mojID="41523" cobiss="21360994">
         <naslov>Tekstna kritika in kulturna zgodovina: Tekst in glas, XVI.-XVIII.
                         stoletje</naslov>
         <cit did="1920" cid="15" avtor0="Chartier R."
@@ -817,7 +817,7 @@
         <cit did="2743" cid="2" avtor0="Ablonczy Balázs" naslov0="Teleki Pál" publisher="Osiris"
             year="2005" page="226"/>
     </delo>
-    <delo mojID="41530">
+    <delo mojID="41530" cobiss="12110337">
         <naslov>Telesna vzgoja za nižje razrede osnovne šole</naslov>
         <cit did="708" cid="47" avtor0="Sluga S."
             naslov0="Telesna vzgoja za nižje razrede osnovne šole" pubPlace="Ljubljana"
@@ -842,7 +842,7 @@
             source="Journalism and mass communication quarterly" year="1997" volume="74" issue="1"
             page="147-159"/>
     </delo>
-    <delo mojID="41534">
+    <delo mojID="41534" cobiss="5389324">
         <naslov>Televizija Ljubljana, ustvarjalec novih nosilcev informacij</naslov>
         <cit did="2843" cid="64" avtor0="Udovič Katarina, Omladič Staša"
             naslov0="Televizija Ljubljana, ustvarjalec novih nosilcev informacij"
@@ -877,7 +877,7 @@
             source="Dom in svet" year="1906" volume="19" issue="9, 10, 11"
             page="541-544, 603-607, 699-702"/>
     </delo>
-    <delo mojID="41546">
+    <delo mojID="41546" cobiss="631601">
         <naslov>Tema morja v novejši slovenski prozi</naslov>
         <cit did="3080" cid="1" avtor0="Barbarič S." naslov0="Tema morja v novejši slovenski prozi"
             source="Jezik in slovstvo" year="1966" volume="11" issue="3" page="59-67"/>
@@ -896,7 +896,7 @@
             source="Rdeči prapor : glasilo jugoslovanske socialne demokracije (4. 12. 1920) in (7. 12. 1920)"
             pubPlace="Trst" year="1920" volume="XV" issue="54, 55"/>
     </delo>
-    <delo mojID="41549">
+    <delo mojID="41549" cobiss="16425261">
         <naslov>Temelji in razvoj denarnih sistemov v slovenskih deželah do 17.
                         stoletja</naslov>
         <cit did="663" cid="17" avtor0="Vilfan Sergij"
@@ -904,7 +904,7 @@
             source="Zgodovina denarstva in bančništva na Slovenskem" pubPlace="Ljubljana"
             publisher="Zveza zgodovinskih društev Slovenije" year="1987" page="23-32"/>
     </delo>
-    <delo mojID="41552">
+    <delo mojID="41552" cobiss="3568953">
         <naslov>Temelji islamske i kineske kulture i politike</naslov>
         <cit did="142" cid="4" avtor0="Kale Eduard"
             naslov0="Temelji islamske i kineske kulture i politike" pubPlace="Zagreb"
@@ -917,24 +917,24 @@
             source="Ogenj krščanske socialistične mladine" year="1928" volume="1" issue="12"
             page="202-204"/>
     </delo>
-    <delo mojID="41559">
+    <delo mojID="41559" cobiss="44634624">
         <naslov>Temelji socialne psihologije</naslov>
         <cit did="106" cid="81" avtor0="Nastran - Ule  M." naslov0="Temelji socialne psihologije"
             pubPlace="Ljubljana" publisher="Znanstveno in publicistično središče" year="1994"/>
     </delo>
-    <delo mojID="41561">
+    <delo mojID="41561" cobiss="41941505">
         <naslov>Temeljna načela socialne demokracije</naslov>
         <cit did="2766" cid="15" avtor0="Kautsky Karl"
             naslov0="Temeljna načela socialne demokracije" publisher="Založba »Zarje«" year="1912"
             page="57"/>
     </delo>
-    <delo mojID="41562">
+    <delo mojID="41562" cobiss="36196096">
         <naslov>Temeljna vprašanja sociologije: Individuum in družba</naslov>
         <cit did="2625" cid="107" avtor0="Simmel Georg"
             naslov0="Temeljna vprašanja sociologije: Individuum in družba" pubPlace="Ljubljana"
             publisher="ŠKUC. Filozofska fakulteta" year="1993"/>
     </delo>
-    <delo mojID="41568">
+    <delo mojID="41568" cobiss="51414528">
         <naslov>Temeljne značilnosti šolske reforme 1953-1962</naslov>
         <cit did="817" cid="1" avtor0="Gabrič Aleš"
             naslov0="Temeljne značilnosti šolske reforme 1953-1962"
@@ -963,14 +963,14 @@
             source="Razprave in gradivo" pubPlace="Ljubljana" year="1982" volume="15" issue="15"
             page="263-266"/>
     </delo>
-    <delo mojID="41573">
+    <delo mojID="41573" cobiss="36051">
         <naslov>Temeljni problemi geografskega preučevanja etničnih manjšin na primeru
                         Slovencev v Italiji</naslov>
         <cit did="2727" cid="1" avtor0="Bufon Milan"
             naslov0="Temeljni problemi geografskega preučevanja etničnih manjšin na primeru Slovencev v Italiji"
             source="Geografski vestnik" year="1990" issue="62" page="99–111"/>
     </delo>
-    <delo mojID="41577">
+    <delo mojID="41577" cobiss="7356417">
         <naslov>Temeljni vzroki in smeri ustavnih sprememb</naslov>
         <cit did="830" cid="4" avtor0="Kardelj Edvard"
             naslov0="Temeljni vzroki in smeri ustavnih sprememb" pubPlace="Ljubljana"
@@ -993,13 +993,13 @@
         <cit did="3531" cid="8" avtor0="Tratnik  Matija" naslov0="Temna zarja na Primorskem"
             source="Koledar Svobodne Slovenije" pubPlace="Buenos Aires" year="1951"/>
     </delo>
-    <delo mojID="41584">
+    <delo mojID="41584" cobiss="8203085">
         <naslov>Temne strani slovenske pravne preteklosti v luči slovenske ustave</naslov>
         <cit did="1871" cid="7" avtor0="Dovžan Gašper" avtor1="Tekavec Urška"
             naslov0="Temne strani slovenske pravne preteklosti v luči slovenske ustave"
             source="Dignitas" pubPlace="Ljubljana" year="2001" issue="11-12"/>
     </delo>
-    <delo mojID="41585">
+    <delo mojID="41585" cobiss="21836544">
         <naslov>Temni modernizem : slike, teorije, interpretacije</naslov>
         <cit did="73" cid="5" avtor0="Brejc Tomaž"
             naslov0="Temni modernizem : slike, teorije, interpretacije" pubPlace="Ljubljana"
@@ -1011,7 +1011,7 @@
             source="Loški razgledi" pubPlace="Škofja Loka" publisher="Muzejsko društvo Škofja Loka"
             year="1955" issue="2" page="46-62"/>
     </delo>
-    <delo mojID="41587">
+    <delo mojID="41587" cobiss="6718208">
         <naslov>Temni zaliv Franceta Balantiča</naslov>
         <cit did="823" cid="7" avtor0="Pibernik France" naslov0="Temni zaliv Franceta Balantiča"
             pubPlace="Ljubljana" publisher="Cankarjeva založba" year="1989" page="241-242"/>
@@ -1040,7 +1040,7 @@
             naslov0="Temps et histoire. Comment écrire l’histoire de France?" source="Annales HSS"
             year="1995" volume="1" page="1223-1227"/>
     </delo>
-    <delo mojID="41595">
+    <delo mojID="41595" cobiss="1787911">
         <naslov>Temps et récit</naslov>
         <cit did="272" cid="370" avtor0="Ricoeur P." naslov0="Temps et récit" pubPlace="Pariz"
             year="1983"/>
@@ -1051,7 +1051,7 @@
             naslov0="Tempus edax rerum : Il tempo divora ogni cosa" source="Ovidio / Metamorfosi"
             pubPlace="Trieste" year="2001" issue="234"/>
     </delo>
-    <delo mojID="41597">
+    <delo mojID="41597" cobiss="25572194">
         <naslov>Ten Studies in Tacitus</naslov>
         <cit did="272" cid="181" avtor0="Syme Ronald" naslov0="Ten Studies in Tacitus"
             pubPlace="Oxford" year="1970"/>
@@ -1102,18 +1102,18 @@
             source="Časopis za povijest zapadne Hrvatske" year="2008" volume="2/3" issue="2/3"
             page="264-265"/>
     </delo>
-    <delo mojID="41605">
+    <delo mojID="41605" cobiss="2814721">
         <naslov>Teogonija / Dela in dnevi</naslov>
         <cit did="272" cid="222" avtor0="Heziod" naslov0="Teogonija / Dela in dnevi"
             pubPlace="Ljubljana" year="1974"/>
     </delo>
-    <delo mojID="41606">
+    <delo mojID="41606" cobiss="8156675">
         <naslov>Teološka fakulteta ponovno članica Univerze</naslov>
         <cit did="97" cid="16" avtor0="Kolar Bogdan"
             naslov0="Teološka fakulteta ponovno članica Univerze" source="Bogoslovni vestnik"
             pubPlace="Ljubljana" year="2003" volume="63" issue="2" page="293-302"/>
     </delo>
-    <delo mojID="41607">
+    <delo mojID="41607" cobiss="781914">
         <naslov>Teološke osnove Krekovega socializma</naslov>
         <cit did="2618" cid="165" avtor0="Juhant Janez"
             naslov0="Teološke osnove Krekovega socializma" source="Revija 2000" year="1988"
@@ -1125,7 +1125,7 @@
             naslov0="Teološke podobe Trubarjeve 'Ene dolge predguvori'"
             naslov1="doktorska disertacija" pubPlace="Maribor" year="1974"/>
     </delo>
-    <delo mojID="41609">
+    <delo mojID="41609" cobiss="268386560">
         <naslov>Teološki motivi v svetopisemskih prevodih Primoža Trubarja</naslov>
         <cit did="2660" cid="64" avtor0="Bryner Erich"
             naslov0="Teološki motivi v svetopisemskih prevodih Primoža Trubarja"
@@ -1151,7 +1151,7 @@
             naslov0="Teopompo e L'Adriatico: Ricerche sui frammenti del libro XXI delle Filippiche"
             source="Hesperia" year="2000" volume="10" page="11-38"/>
     </delo>
-    <delo mojID="41614">
+    <delo mojID="41614" cobiss="11281920">
         <naslov>Teoretični problemi socialnega skrbstva</naslov>
         <cit did="141" cid="13" avtor0="Kavar Vidmar Andreja"
             naslov0="Teoretični problemi socialnega skrbstva"
@@ -1205,29 +1205,29 @@
             naslov0="Teorii ale migratiei internationale" source="Sociologie Romaneasca" year="2003"
             volume="3-4" page="93-114"/>
     </delo>
-    <delo mojID="41625">
+    <delo mojID="41625" cobiss="15544550">
         <naslov>Teorija i politika regionalnog razvoja Bosne i Hercegovine</naslov>
         <cit did="396" cid="20" avtor0="Osmaković J."
             naslov0="Teorija i politika regionalnog razvoja Bosne i Hercegovine" pubPlace="Sarajevo"
             publisher="Ekonomski fakultet" year="2002"/>
     </delo>
-    <delo mojID="41626">
+    <delo mojID="41626" cobiss="1640478">
         <naslov>Teorija i praksa realnog socializma</naslov>
         <cit did="826" cid="50" avtor0="Golubović Zagorka"
             naslov0="Teorija i praksa realnog socializma" pubPlace="Beograd"
             publisher="Filip Višnjič" year="1987"/>
     </delo>
-    <delo mojID="41630">
+    <delo mojID="41630" cobiss="5669433">
         <naslov>Teorija istorije</naslov>
         <cit did="272" cid="88" avtor0="Heler Agnes" naslov0="Teorija istorije" pubPlace="Beograd"
             year="1984"/>
     </delo>
-    <delo mojID="41631">
+    <delo mojID="41631" cobiss="5474830">
         <naslov>Teorija jezika u kontaktu</naslov>
         <cit did="393" cid="15" avtor0="Filipović Rudolf" naslov0="Teorija jezika u kontaktu"
             pubPlace="Zagreb" publisher="JAZU" year="1986"/>
     </delo>
-    <delo mojID="41632">
+    <delo mojID="41632" cobiss="31876353">
         <naslov>Teorija kaznenog prava po krivičnom zakoniku od godine 1951 : opći
                         dio</naslov>
         <cit did="107" cid="5" avtor0="Frank Stanko"
@@ -1248,7 +1248,7 @@
             source="Koroško vprašanje" pubPlace="Ljubljana" publisher="Državna založba Slovenije"
             year="1976"/>
     </delo>
-    <delo mojID="41637">
+    <delo mojID="41637" cobiss="12666113">
         <naslov>Teorija sistema</naslov>
         <cit did="144" cid="15" avtor0="Luhmann Niklas" naslov0="Teorija sistema" pubPlace="Zagreb"
             publisher="Globus" year="1981"/>
@@ -1263,7 +1263,7 @@
         <cit did="387" cid="32" avtor0="Rayleigh J. W. S." naslov0="Teorija zvuka" pubPlace="Moskva"
             publisher="Gosudarstvenno izdateljstvo tehniko-teoretičeskoi literaturi" year="1955"/>
     </delo>
-    <delo mojID="41640">
+    <delo mojID="41640" cobiss="221129728">
         <naslov>Teorije medosebnega komuniciranja, komunikativna kompetentnost in analiza
                         sebstva</naslov>
         <cit did="2009" cid="25" avtor0="Kuhar M."
@@ -1271,13 +1271,13 @@
             naslov1="Doktorska disertacija" pubPlace="Ljubljana"
             publisher="Fakulteta za družbene vede" year="2005"/>
     </delo>
-    <delo mojID="41641">
+    <delo mojID="41641" cobiss="357261">
         <naslov>Teorije o etnicitetu</naslov>
         <cit did="2853" cid="177" avtor0="Poutignat Philippe, Jocelyne Streiff Fenart"
             naslov0="Teorije o etnicitetu" pubPlace="Beograd" publisher="Biblioteka XX vek."
             year="1997"/>
     </delo>
-    <delo mojID="41642">
+    <delo mojID="41642" cobiss="7079680">
         <naslov>Teorije osebnosti</naslov>
         <cit did="106" cid="78" avtor0="Musek J." naslov0="Teorije osebnosti" pubPlace="Ljubljana"
             publisher="Filozofska fakulteta" year="1988"/>
@@ -1320,12 +1320,12 @@
             source="Enotni v zmagi" pubPlace="Ljubljana" publisher="Muzej za novejšo zgodovino"
             year="2006"/>
     </delo>
-    <delo mojID="41652">
+    <delo mojID="41652" cobiss="31299585">
         <naslov>Teritorialna obramba</naslov>
         <cit did="1767" cid="4" avtor0="Švanjcer Janez J." naslov0="Teritorialna obramba"
             pubPlace="Ljubljana" year="1992" page="20"/>
     </delo>
-    <delo mojID="41653">
+    <delo mojID="41653" cobiss="2567796">
         <naslov>Teritorialna obramba 1968-1987</naslov>
         <cit did="2872" cid="58" avtor0="Guštin Damijan" naslov0="Teritorialna obramba 1968-1987"
             source="Vojaška potreba ali politični projekt?" pubPlace="Ljubljana"
@@ -1343,19 +1343,19 @@
         <cit did="2964" cid="10" avtor0="Kladnik Tomaž" avtor1="Knific Boris"
             naslov0="Teritorialna obramba je bila naša vojska" pubPlace="Ljubljana" year="2006"/>
     </delo>
-    <delo mojID="41660">
+    <delo mojID="41660" cobiss="31299585">
         <naslov>Teritorialna obramba Republike Slovenije</naslov>
         <cit did="83" cid="3" avtor0="Švajncer Janez J."
             naslov0="Teritorialna obramba Republike Slovenije" pubPlace="Ljubljana"
             publisher="Viharnik" year="1992"/>
     </delo>
-    <delo mojID="41661">
+    <delo mojID="41661" cobiss="109230592">
         <naslov>Teritorialna obramba Slovenije v letih njene dozorelosti</naslov>
         <cit did="2384" cid="21" avtor0="Zorc Milovan"
             naslov0="Teritorialna obramba Slovenije v letih njene dozorelosti" source="Vojstvo"
             year="1999" issue="5" page="49-51"/>
     </delo>
-    <delo mojID="41662">
+    <delo mojID="41662" cobiss="109230592">
         <naslov>teritorialna obramba v letih njene dozorelosti</naslov>
         <cit did="2964" cid="26" avtor0="Zorc Milovan"
             naslov0="teritorialna obramba v letih njene dozorelosti" pubPlace="Ljubljana"
@@ -1393,12 +1393,12 @@
             source="Ethnonationalism: the quest for understanding" pubPlace="Princeton"
             publisher="Princeton University Press" year="1994" page="90-117"/>
     </delo>
-    <delo mojID="41675">
+    <delo mojID="41675" cobiss="222185728">
         <naslov>Terorizem in teroristi</naslov>
         <cit did="1486" cid="3" avtor0="Fossati M." naslov0="Terorizem in teroristi"
             pubPlace="Ljubljana" publisher="Sophia" year="2005"/>
     </delo>
-    <delo mojID="41676">
+    <delo mojID="41676" cobiss="22156589">
         <naslov>Terra Cognita: Studien zur romischen Raumerfassung</naslov>
         <cit did="1748" cid="135" avtor0="Brodersen K."
             naslov0="Terra Cognita: Studien zur romischen Raumerfassung"
@@ -1410,7 +1410,7 @@
             source="Beni culturali territoriali nel Medio Friuli" pubPlace="Tolmezzo"
             publisher="Creattiva" year="2002"/>
     </delo>
-    <delo mojID="41679">
+    <delo mojID="41679" cobiss="8801837">
         <naslov>Terra di nessuno</naslov>
         <cit did="1313" cid="10" avtor0="Leed E. J." naslov0="Terra di nessuno" pubPlace="Bologna"
             publisher="Il Mulino" year="1985" page="36"/>
@@ -1446,7 +1446,7 @@
             naslov0="Terra sigillata in sorodne vrste keramike iz Poetovija, Disertaziones IX"
             pubPlace="Beograd, Ljubljana" publisher="Arheološko društvo Jugoslavije" year="1969"/>
     </delo>
-    <delo mojID="41686">
+    <delo mojID="41686" cobiss="1208086">
         <naslov>Terrain Evaluation</naslov>
         <cit did="300" cid="2" avtor0="Mitchell Colin W." naslov0="Terrain Evaluation"
             pubPlace="Essex" publisher="Longman" year="1991"/>
@@ -1457,7 +1457,7 @@
             naslov0="Terrains of blood and nation: Haitian transnational social fields"
             source="Ethnic and Racial Studies" year="1999" issue="22" page="340-361"/>
     </delo>
-    <delo mojID="41688">
+    <delo mojID="41688" cobiss="2102388">
         <naslov>Terrible Fate: Ethnic Cleansing in the Making of Modern Europe</naslov>
         <cit did="2715" cid="38" avtor0="Lieberman Benjamin"
             naslov0="Terrible Fate: Ethnic Cleansing in the Making of Modern Europe"
@@ -1520,7 +1520,7 @@
             source="Cesiomaggiore. Identita e storia di una comunita locale. Belluno, Istituto Storico Bellunese della Resistenza e dell'Eta Contemporanea"
             year="2002" page="129-154"/>
     </delo>
-    <delo mojID="41700">
+    <delo mojID="41700" cobiss="512012160">
         <naslov>Territory: the claiming of space</naslov>
         <cit did="1994" cid="65" avtor0="Storey D." naslov0="Territory: the claiming of space"
             source="Harlow" publisher="Pearson education" year="2001"/>
@@ -1598,7 +1598,7 @@
             source="Antichita Altoadriatiche" pubPlace="Udine" year="1987" volume="30" page="97-118"
         />
     </delo>
-    <delo mojID="41715">
+    <delo mojID="41715" cobiss="32463965">
         <naslov>Testing Language Proficiency</naslov>
         <cit did="1993" cid="14" avtor0="Jones R. L., Spolsky B."
             naslov0="Testing Language Proficiency" source="Arlington" pubPlace="Arlington"
@@ -1654,7 +1654,7 @@
             naslov0="Textilfunde als Spiegel der Gesellschaft: Erwägungen über das Beispiel Haithabu"
             source="Archaeological Textiles" pubPlace="Kopenhagen" year="0" page="187-196"/>
     </delo>
-    <delo mojID="41725">
+    <delo mojID="41725" cobiss="6724704">
         <naslov>Textilni vyroba v ceskych zemich ve 13.- 15. stoleti. Poznani textilni
                         produkce na zaklade archeologickych nalezu</naslov>
         <cit did="2448" cid="6" avtor0="Brezinova Helena"
@@ -1674,7 +1674,7 @@
             naslov0="Težak pogovor za okroglo mizo uradnih in alternative" source="Delo, 23.9. 1989"
             year="1989"/>
     </delo>
-    <delo mojID="41729">
+    <delo mojID="41729" cobiss="112769024">
         <naslov>Težave s spolom: feminizem in subverzija identitete</naslov>
         <cit did="2822" cid="12" avtor0="Butler Judith"
             naslov0="Težave s spolom: feminizem in subverzija identitete" pubPlace="Ljubljana"
