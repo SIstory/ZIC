@@ -3287,7 +3287,7 @@
             naslov0="The Civilization of the Renaissance in ltaly (1860)" pubPlace="London"
             publisher="Penguin" year="1990"/>
     </delo>
-    <delo mojID="42035"><
+    <delo mojID="42035">
         <naslov>The Civilizing Process: Sociogenetic and Psychogenetic
                         Investigations</naslov>
         <cit did="2828" cid="11" avtor0="Elias Norbert"
@@ -4206,12 +4206,12 @@
         <cit did="2839" cid="13" avtor0="Green André" naslov0="The dead mother"
             source="On Private Madness" pubPlace="London" publisher="Hogarth" year="1986"/>
     </delo>
-    <delo mojID="42200">
+    <delo mojID="42200" cobiss="7731277">
         <naslov>The deadly ethnic riot</naslov>
         <cit did="2667" cid="11" avtor0="Horowitz Donald L." naslov0="The deadly ethnic riot"
             pubPlace="Berkeley" publisher="University of California Press" year="2001"/>
     </delo>
-    <delo mojID="42201">
+    <delo mojID="42201" cobiss="26592349">
         <naslov>The Death And Life Of Great American Cities</naslov>
         <cit did="415" cid="15" avtor0="Jacobs J."
             naslov0="The Death And Life Of Great American Cities" source="Vintage Books"
@@ -4265,7 +4265,7 @@
             naslov0="The debate over low fertility in the popular press: A cross-national comparison, 1998–1999"
             source="Population and Research Policy Review" year="2002" issue="21" page="535–574"/>
     </delo>
-    <delo mojID="42210">
+    <delo mojID="42210" cobiss="11631922">
         <naslov>The Deceivers, Allied Military Deception in the Second World War</naslov>
         <cit did="1782" cid="170" avtor0="Holt Thaddeus"
             naslov0="The Deceivers, Allied Military Deception in the Second World War"
@@ -4509,7 +4509,7 @@
             pubPlace="Washington" publisher="United States Institute of Peace Press" year="1997"
             page="51-77"/>
     </delo>
-    <delo mojID="42255">
+    <delo mojID="42255" cobiss="512629644">
         <naslov>The Development of the Roman Auxiliary Forces from Caesar to
                         Vespasian</naslov>
         <cit did="1976" cid="104" avtor0="Saddington D. B."
@@ -4548,7 +4548,7 @@
         <cit did="2933" cid="128" avtor0="Greene Maxine" naslov0="The dialectics of freedom"
             pubPlace="New York" publisher="Teachers College Press" year="1988"/>
     </delo>
-    <delo mojID="42262">
+    <delo mojID="42262" cobiss="23558237">
         <naslov>The Dialogic Imagination: Four Essays</naslov>
         <cit did="2009" cid="4" avtor0="Bahtin M. M."
             naslov0="The Dialogic Imagination: Four Essays" pubPlace="Austin"
@@ -4561,7 +4561,7 @@
             source="American Psychologist" pubPlace="Washington" year="1992" volume="47"
             page="23-33"/>
     </delo>
-    <delo mojID="42264">
+    <delo mojID="42264" cobiss="840265">
         <naslov>The Dialogical Self: Meaning as Movement</naslov>
         <cit did="2009" cid="18" avtor0="Hermans J. M. H.,   Kempen H.  J.   G."
             naslov0="The Dialogical Self:  Meaning  as  Movement" pubPlace="San   Diego"
@@ -4619,7 +4619,7 @@
             source="For Love of Country: Debating the Limits of Patriotism" pubPlace="Boston"
             publisher="Beacon Press" year="1996" page="98-110"/>
     </delo>
-    <delo mojID="42274">
+    <delo mojID="42274" cobiss="8727629">
         <naslov>The Dilemmas of Dissidence in East-Central Europe: citizen intellectuals and
                         philosopher kings</naslov>
         <cit did="2807" cid="4" avtor0="Falk Barbara J."
@@ -4842,7 +4842,7 @@
             pubPlace="Oxford, New York" publisher="Oxford University Press" year="2000"
             page="97-118"/>
     </delo>
-    <delo mojID="42312">
+    <delo mojID="42312" cobiss="55334401">
         <naslov>The Dynasties of China</naslov>
         <cit did="142" cid="60" avtor0="Gascoigne Bamber" naslov0="The Dynasties of China"
             pubPlace="New York" publisher="Carroll and Graf Publishers" year="2004" page="85-114"/>
@@ -4870,24 +4870,24 @@
         <cit did="1748" cid="968" avtor0="Syme R." naslov0="The Early History of Moesia"
             source="Provincial" year="1999" page="193-220"/>
     </delo>
-    <delo mojID="42318">
+    <delo mojID="42318" cobiss="63710976">
         <naslov>The Early Medieval Balkans. A Critical Survey from the Sixth to the Late
                         Twelfth Century</naslov>
         <cit did="2764" cid="21" avtor0="Fine John V. A. Jr."
             naslov0="The Early Medieval Balkans. A Critical Survey from the Sixth to the Late Twelfth Century"
             pubPlace="Ann Arbor-Michigan" year="1991"/>
     </delo>
-    <delo mojID="42319">
+    <delo mojID="42319" cobiss="5893682">
         <naslov>The Early Piano</naslov>
         <cit did="1912" cid="17" avtor0="Colt C.F." avtor1="Miall Antony" naslov0="The Early Piano"
             pubPlace="London" year="1981"/>
     </delo>
-    <delo mojID="42320">
+    <delo mojID="42320" cobiss="38742273">
         <naslov>The Early Pianoforte</naslov>
         <cit did="1912" cid="112" avtor0="Pollens Steward" naslov0="The Early Pianoforte"
             pubPlace="Cambridge" year="1995"/>
     </delo>
-    <delo mojID="42322">
+    <delo mojID="42322" cobiss="4442449">
         <naslov>The early Slavs: culture and society in early medieval Eastern
                         Europe</naslov>
         <cit did="2207" cid="68" avtor0="Barford Paul M."
@@ -4901,7 +4901,7 @@
             source="General History of Africa II : Ancient Civilizations of Africa" pubPlace="Paris"
             publisher="Heinemann/UNESCO/University of California Press" year="1981"/>
     </delo>
-    <delo mojID="42324">
+    <delo mojID="42324" cobiss="6830707">
         <naslov>The East European Revolution</naslov>
         <cit did="1511" cid="331" avtor0="Seton-Watson Hugh" naslov0="The East European Revolution"
             pubPlace="London" year="1950"/>
@@ -4912,7 +4912,7 @@
             naslov0="The Eastern Frontier of Western Europe: Mobility in the Buffer Zone"
             source="New Community" year="1996" volume="22" issue="2" page="259-286"/>
     </delo>
-    <delo mojID="42326">
+    <delo mojID="42326" cobiss="31044701">
         <naslov>The ecology of language</naslov>
         <cit did="3024" cid="13" avtor0="Haugen Einar" naslov0="The ecology of language"
             pubPlace="Stanford" publisher="Stanford University Press" year="1972"/>
@@ -4936,7 +4936,7 @@
             naslov0="The economic basis of ethnic solidarity" pubPlace="Berkeley"
             publisher="University of California Press" year="1980"/>
     </delo>
-    <delo mojID="42332">
+    <delo mojID="42332" cobiss="24315490">
         <naslov>The Economic History of World Population</naslov>
         <cit did="2288" cid="39" avtor0="Cippola C. M."
             naslov0="The Economic History of World Population" pubPlace="New York" year="1979"/>
@@ -5038,7 +5038,7 @@
             source="774. Ipotesi su una transizione" pubPlace="Poggibonsi" year="2008" page="82-117"
         />
     </delo>
-    <delo mojID="42354">
+    <delo mojID="42354" cobiss="8795469">
         <naslov>The effect of equal opportunity initiatives on employee
                         participation</naslov>
         <cit did="2860" cid="6" avtor0="Brezigar Sara"
@@ -5097,7 +5097,7 @@
             pubPlace="London - New York" publisher="Routledge Taylor &amp; Francis Group"
             year="2005"/>
     </delo>
-    <delo mojID="42364">
+    <delo mojID="42364" cobiss="61202176">
         <naslov>The Eighteenth Brumaire of Louis Bonaparte</naslov>
         <cit did="3059" cid="12" avtor0="Marx K."
             naslov0="The Eighteenth Brumaire of Louis Bonaparte" pubPlace="Moscow"
@@ -5115,18 +5115,18 @@
             source="http://www.dlmforum. typepad. om / Prague_Presen tations / DLM_Prague_Szatucse k_ slideshow.pdf, 23. 10. 2009"
         />
     </delo>
-    <delo mojID="42367">
+    <delo mojID="42367" cobiss="25286754">
         <naslov>The elefánthy</naslov>
         <cit did="163" cid="29" avtor0="Fügedi Erik" naslov0="The elefánthy" pubPlace="Budimpešta"
             publisher="Central European University" year="1998"/>
     </delo>
-    <delo mojID="42368">
+    <delo mojID="42368" cobiss="2185306">
         <naslov>The Elementary forms of the Religious Life.</naslov>
         <cit did="2828" cid="10" avtor0="Durkheim Emile"
             naslov0="The Elementary forms of the Religious Life." pubPlace="New York"
             publisher="The Free Press" year="1965"/>
     </delo>
-    <delo mojID="42369">
+    <delo mojID="42369" cobiss="1096132958">
         <naslov>The Elementary Structures of Kinship</naslov>
         <cit did="1473" cid="15" avtor0="Levi-Strauss C."
             naslov0="The Elementary Structures of Kinship" pubPlace="Boston"
@@ -5145,7 +5145,7 @@
             naslov0="The Elite Connection: Problems and Potential of Western Societies"
             pubPlace="Cambridge" publisher="Polity Press" year="1993"/>
     </delo>
-    <delo mojID="42372">
+    <delo mojID="42372" cobiss="35243777">
         <naslov>The Elusive Republic, Political economy in Jeffersonian America</naslov>
         <cit did="3276" cid="14" avtor0="Mccoy R. Drew"
             naslov0="The Elusive Republic, Political economy in Jeffersonian America"
@@ -5182,7 +5182,7 @@
             pubPlace="Dordrecht, Boston, London" publisher="Martinus Nijhoff Publishers" year="1993"
             page="153-166"/>
     </delo>
-    <delo mojID="42378">
+    <delo mojID="42378" cobiss="6100557">
         <naslov>The Emergence of New States, Borders and Minorities</naslov>
         <cit did="2829" cid="12" avtor0="Bučar Bojko"
             naslov0="The Emergence of New States, Borders and Minorities" source="RiG"
@@ -5213,7 +5213,7 @@
             naslov0="The Emperor's Coat in the Firts World War: Uniforms &amp; Equipment of the Austro-Hungarian Army from 1914-1918"
             pubPlace="Vienna" publisher="Verlag Militaria" year="2002"/>
     </delo>
-    <delo mojID="42384">
+    <delo mojID="42384" cobiss="23600429">
         <naslov>The Emperor's Retrospect. Augustus' Res gestae in Epigraphy, Historiography
                         and Commentary</naslov>
         <cit did="1748" cid="851" avtor0="Ridley R."
@@ -5270,7 +5270,7 @@
             naslov1="The Transformation of the USSR in Comparative Perspective"
             pubPlace="Armonk (NY)" publisher="M. E. Sharpe" year="1997"/>
     </delo>
-    <delo mojID="42394">
+    <delo mojID="42394" cobiss="8919117">
         <naslov>The End of European "Zero" Immigration Policy Model: Proactive Economic
                         Migration Policy and Actors' Interests</naslov>
         <cit did="2648" cid="52" avtor0="Medved Felicita"
@@ -5339,7 +5339,7 @@
             source="Migration Policy Institute Policy Brief, http://www.migrationinformation.org/pubs/eu_enlarhement.pdf"
             year="2005" issue="4"/>
     </delo>
-    <delo mojID="42408">
+    <delo mojID="42408" cobiss="54343010">
         <naslov>The Enlightenment: The Science of Freedom</naslov>
         <cit did="2018" cid="94" avtor0="Gay P." naslov0="The Enlightenment: The Science of Freedom"
             pubPlace="New York" publisher="Alfred A. Knopf." year="1969"/>
@@ -5363,7 +5363,7 @@
             source="1994. A History of the Jewish People" pubPlace="Cambridge"
             publisher="Harvard University Press: 307-382" year="1994"/>
     </delo>
-    <delo mojID="42412">
+    <delo mojID="42412" cobiss="126445312">
         <naslov>The Erased: Organized Innocence and the Politics of Exclusion</naslov>
         <cit did="3048" cid="10" avtor0="Dedić J., Jalušič V., Zorn J."
             naslov0="The Erased: Organized Innocence and the Politics of Exclusion"
@@ -5411,7 +5411,7 @@
         <cit did="272" cid="129" avtor0="Margalit Avishai" naslov0="The Ethics of Memory"
             pubPlace="Cambridge - London" year="2004"/>
     </delo>
-    <delo mojID="42422">
+    <delo mojID="42422" cobiss="21942626">
         <naslov>The Ethnic Development and Protection of National Minorities in
                         Slovenia</naslov>
         <cit did="2763" cid="21" avtor0="Zupančič Jernej"
@@ -5424,7 +5424,7 @@
             naslov0="The ethnic geography of ethnicities" source="Ethnicities" pubPlace="London"
             year="2002" volume="2" issue="2" page="209"/>
     </delo>
-    <delo mojID="42424">
+    <delo mojID="42424" cobiss="1500973">
         <naslov>The Ethnic Identity of Hungarians in the Demographically threatened area of
                         Prekmurje</naslov>
         <cit did="2729" cid="26" avtor0="Zupančič Jernej"
@@ -5442,7 +5442,7 @@
         <cit did="2853" cid="220" avtor0="Van Den Berghe, Pierre L." naslov0="The Ethnic Phenomenon"
             pubPlace="New York" publisher="Elsevier" year="1981"/>
     </delo>
-    <delo mojID="42429">
+    <delo mojID="42429" cobiss="35661">
         <naslov>The Ethnic Revival</naslov>
         <cit did="2853" cid="197" avtor0="Smith Anthony D." naslov0="The Ethnic Revival"
             pubPlace="Cambridge" publisher="Cambridge University Press" year="1981"/>
@@ -5480,7 +5480,7 @@
             naslov0="The European charter for regional or minority languages, French identity and national identity"
             source="Language Policy" year="2005" issue="4" page="167-186"/>
     </delo>
-    <delo mojID="42436">
+    <delo mojID="42436" cobiss="21708637">
         <naslov>The European Community : The Contradictions of Integration</naslov>
         <cit did="673" cid="36" avtor0="Williams Allan M."
             naslov0="The European Community : The Contradictions of Integration" pubPlace="Oxford"
@@ -5499,14 +5499,14 @@
             source="8th international colloguy on the European convention on human rights"
             pubPlace="Budapest" year="1995"/>
     </delo>
-    <delo mojID="42439">
+    <delo mojID="42439" cobiss="1098218">
         <naslov>The European convention of human rights and the protection of national
                         minorities</naslov>
         <cit did="3071" cid="31" avtor0="Hillgruber Christian" avtor1="Jestaedt Matthias"
             naslov0="The European convention of human rights and the protection of national minorities"
             pubPlace="Köln" year="1994"/>
     </delo>
-    <delo mojID="42440">
+    <delo mojID="42440" cobiss="999249">
         <naslov>The European convention on human rights</naslov>
         <cit did="3071" cid="36" avtor0="Jacobs Francis G."
             naslov0="The European convention on human rights" pubPlace="Oxford"
@@ -5518,7 +5518,7 @@
             source="Judges or Policy Makers?" pubPlace="London" publisher="The Bruge Group"
             year="1990"/>
     </delo>
-    <delo mojID="42445">
+    <delo mojID="42445" cobiss="20321373">
         <naslov>The European Home: representations of 20th century Europe in history
                         textbooks</naslov>
         <cit did="2577" cid="2" avtor0="Pingel Falk"
@@ -5532,12 +5532,12 @@
             naslov0="The European Miracle, Environments, economies and geopolitics in the history of Europe and Asia"
             publisher="Oxford University Press" year="1987"/>
     </delo>
-    <delo mojID="42447">
+    <delo mojID="42447" cobiss="39461121">
         <naslov>The European Nobility 1400-1800</naslov>
         <cit did="2288" cid="49" avtor0="Dewald J." naslov0="The European Nobility 1400-1800"
             pubPlace="Cambridge" year="1996"/>
     </delo>
-    <delo mojID="42448">
+    <delo mojID="42448" cobiss="353603">
         <naslov>The European Ombudsman: Annual Report 2002. Office for Official Publications
                         of the European Communities</naslov>
         <cit did="2823" cid="157" avtor0="Taylor Charles"
@@ -5568,7 +5568,7 @@
         <cit did="1643" cid="9" avtor0="Campbell C. John"
             naslov0="The European Territorial Settlement" source="Foreign Affairs" year="1947"/>
     </delo>
-    <delo mojID="42453">
+    <delo mojID="42453" cobiss="185294">
         <naslov>The European Union: A Critical Guide</naslov>
         <cit did="404" cid="10" avtor0="McGiffen S. P."
             naslov0="The European Union: A Critical Guide" pubPlace="London" publisher="Pluto Press"
@@ -5581,7 +5581,7 @@
             source="The European Union and its Order. The Legal Theory of European Integration"
             pubPlace="Oxford" publisher="Blackwell" year="2000" page="17-30"/>
     </delo>
-    <delo mojID="42456">
+    <delo mojID="42456" cobiss="6089779">
         <naslov>The European Union: Economics and Policies</naslov>
         <cit did="2648" cid="25" avtor0="El Agraa Ali M."
             naslov0="The European Union: Economics and Policies" pubPlace="Cambridge"
@@ -5599,7 +5599,7 @@
             naslov0="The European Union: Politics and Policies" pubPlace="London"
             publisher="Harper Collins" year="1999"/>
     </delo>
-    <delo mojID="42459">
+    <delo mojID="42459" cobiss="63982080">
         <naslov>The European Union : Readings on the Theory and Practice of European
                         Integration</naslov>
         <cit did="673" cid="24" avtor0="Nelson B. F., Stubb A. C. G."
@@ -5654,7 +5654,7 @@
             naslov0="The Evolution of Human Societies : from Foraging Group to Agrarian State"
             pubPlace="Stanford" year="1987"/>
     </delo>
-    <delo mojID="42467">
+    <delo mojID="42467" cobiss="313730">
         <naslov>The Evolution of Political Society</naslov>
         <cit did="2266" cid="13" avtor0="Fried Morton" naslov0="The Evolution of Political Society"
             pubPlace="New York" year="1967"/>
@@ -5818,7 +5818,7 @@
         <cit did="171" cid="1" avtor0="Luepnitz D. A." naslov0="The Family Interpreted"
             pubPlace="New York" publisher="Basic Books" year="1988"/>
     </delo>
-    <delo mojID="42499">
+    <delo mojID="42499" cobiss="221434880">
         <naslov>The Family, Sex and Marriage in England 1500-1800</naslov>
         <cit did="2016" cid="123" avtor0="Stone Lawrence"
             naslov0="The Family, Sex and Marriage in England 1500-1800" pubPlace="London"
@@ -5839,7 +5839,7 @@
             naslov0="The Fascist Offensive and the Tasks of the Communist International in the Struggle of the Working Class against Fascism : Main Report delivered at the Seventh World Congress of the Communist International : Delivered: August 2, 1935"
             year="1935"/>
     </delo>
-    <delo mojID="42503">
+    <delo mojID="42503" cobiss="3726607">
         <naslov>The Fatal shore: a History of the Transportation of Convicts to Australia
                         1787-1868</naslov>
         <cit did="1599" cid="4" avtor0="Hughes Robert"
@@ -5866,7 +5866,7 @@
             naslov1="Submitted to the Graduate Faculty of Texas Tech University in Partial Fulfillment of the Requirements for the Degree of Master of Arts"
             year="1975"/>
     </delo>
-    <delo mojID="42508">
+    <delo mojID="42508" cobiss="25364573">
         <naslov>The federalist experience in South-Eastern Europe and post-Dayton Bosnia and
                         Herzegovina</naslov>
         <cit did="2669" cid="2" avtor0="Bebler Anton"
@@ -5885,7 +5885,7 @@
             source="NORA - Nordic Journal of Feminist and Gender Research" year="2008" volume="16"
             issue="1" page="3-18"/>
     </delo>
-    <delo mojID="42511">
+    <delo mojID="42511" cobiss="65199458">
         <naslov>The Feminists : Women's Emancipation Movements in Europe, America and
                         Australasia : 1840-1920</naslov>
         <cit did="176" cid="5" avtor0="Evans R."
@@ -6010,7 +6010,7 @@
             naslov0="The First World War: An Agrarian Interpretation" pubPlace="Oxford" year="1991"
         />
     </delo>
-    <delo mojID="42534">
+    <delo mojID="42534" cobiss="512066595">
         <naslov>The First World War : An Illustrated History</naslov>
         <cit did="1300" cid="179" avtor0="Keegan John"
             naslov0="The First World War : An Illustrated History" pubPlace="London" year="2001"/>
@@ -6052,7 +6052,7 @@
             naslov0="The Fluidity of Barbarian Identity: The Ethnogenesis of Alemmani and Suebi, AD 200-500"
             year="1998" issue="7" page="1-27"/>
     </delo>
-    <delo mojID="42542">
+    <delo mojID="42542" cobiss="1265293">
         <naslov>The Forbidden Best-Sellers of Pre-Revolutionary France</naslov>
         <cit did="3505" cid="67" avtor0="Darnton Robert"
             naslov0="The Forbidden Best-Sellers of Pre-Revolutionary France" pubPlace="New York"
@@ -6082,7 +6082,7 @@
         <cit did="2920" cid="49" avtor0="Descloitres Robert" naslov0="The foreign worker"
             pubPlace="Paris" publisher="OECD" year="1967"/>
     </delo>
-    <delo mojID="42547">
+    <delo mojID="42547" cobiss="31410018">
         <naslov>The forgotten correspondence between two friends: Leoš Janáček (1854-1928)
                         and Emerik Beran (1868-1940)</naslov>
         <cit did="2196" cid="90" avtor0="Weiss Jernej"
@@ -6139,7 +6139,7 @@
         <cit did="57" cid="17" avtor0="Popović Marko" naslov0="The fortes of Belgrade"
             pubPlace="Beograd" year="1991" page="69-75"/>
     </delo>
-    <delo mojID="42561">
+    <delo mojID="42561" cobiss="6447112">
         <naslov>The foundation of the Yugoslav Emergency Council in New York</naslov>
         <cit did="2837" cid="97" avtor0="Vovko Andrej"
             naslov0="The foundation of the Yugoslav Emergency Council in New York"
@@ -6151,13 +6151,13 @@
         <cit did="3251" cid="13" avtor0="Jenkins Geraint H."
             naslov0="The Foundations of Modem Wales 1642 - 1780" pubPlace="Oxford" year="1987"/>
     </delo>
-    <delo mojID="42563">
+    <delo mojID="42563" cobiss="1826653">
         <naslov>The foundations of modern political thought</naslov>
         <cit did="226" cid="182" avtor0="Skinner Q."
             naslov0="The foundations of modern political thought" pubPlace="Cambridge"
             publisher="Cambridge University Press" year="1978"/>
     </delo>
-    <delo mojID="42564">
+    <delo mojID="42564" cobiss="42765313">
         <naslov>The Founding Myths of Israel</naslov>
         <cit did="2810" cid="51" avtor0="Sternhell Zeev" naslov0="The Founding Myths of Israel"
             pubPlace="Princeton" publisher="Princeton University Press" year="1998"/>
@@ -6175,7 +6175,7 @@
             naslov1="A History of the Crusade II" source="The Later Crusades (1189-1311)"
             pubPlace="Madison, Milwaukee, London" year="1969" page="235-274"/>
     </delo>
-    <delo mojID="42570">
+    <delo mojID="42570" cobiss="23323437">
         <naslov>The Franziscean land cadastre as a key to understanding the 19th-century
                         cultural landscape in Slovenia</naslov>
         <cit did="2056" cid="51" avtor0="Petek Franci, Urbane Mimi"
@@ -6274,7 +6274,7 @@
             source="www.da.mod.uk/CSRC/documents/ Special/M30-CJD.pdf"
             publisher="Defence Academy of the United Kingdom" year="2003"/>
     </delo>
-    <delo mojID="42586">
+    <delo mojID="42586" cobiss="2504797">
         <naslov>The future of democracy: A defence of the rules of the game</naslov>
         <cit did="2888" cid="1" avtor0="Bobbio Norberto"
             naslov0="The future of democracy: A defence of the rules of the game" pubPlace="Oxford"
@@ -6292,12 +6292,12 @@
             naslov0="The future of Europe in era of federalism"
             source="The Changing Faces of Federalism" year="2005" page="4-10"/>
     </delo>
-    <delo mojID="42590">
+    <delo mojID="42590" cobiss="20464952">
         <naslov>The Future of Money</naslov>
         <cit did="663" cid="4" avtor0="Cohen Benjamin J." naslov0="The Future of Money"
             pubPlace="Princeton" publisher="Princeton University Press" year="2006"/>
     </delo>
-    <delo mojID="42591">
+    <delo mojID="42591" cobiss="36109154">
         <naslov>The Future of Nostalgia</naslov>
         <cit did="1513" cid="22" avtor0="Boym Svetlana" naslov0="The Future of Nostalgia"
             pubPlace="New York" publisher="Basic Books" year="2001"/>
@@ -6312,7 +6312,7 @@
             publisher="North Atlantic Treaty Organization, Defence Research Group 1470/5-95 TECHNICAL PROCEEDINGS AC/243"
             year="1995" page="11"/>
     </delo>
-    <delo mojID="42593">
+    <delo mojID="42593" cobiss="17332573">
         <naslov>The Future of Self-management</naslov>
         <cit did="365" cid="60" avtor0="Vahcic Aleš" naslov0="The Future of Self-management"
             naslov1="Raflections" source="Making a new Nation : The Formation of Slovenia"
@@ -6381,7 +6381,7 @@
             source="IBRU - Boundary and Security Bulletin" year="1995" volume="3" issue="4"
             page="89-67"/>
     </delo>
-    <delo mojID="42607">
+    <delo mojID="42607" cobiss="11072742">
         <naslov>The Geography of Money</naslov>
         <cit did="663" cid="3" avtor0="Cohen Benjamin J." naslov0="The Geography of Money"
             pubPlace="Ithaca, London" publisher="Cornell University Press" year="2000"/>
@@ -6393,7 +6393,7 @@
             naslov0="The Geopolitics of Nordic ldentity - From Composite States to Nation States, 0ystein Sorensen"
             source="The Cultural Construction of Norden" pubPlace="Oslo" year="1997"/>
     </delo>
-    <delo mojID="42609">
+    <delo mojID="42609" cobiss="21054253">
         <naslov>The German and Allied Plans for a Balkan Landing</naslov>
         <cit did="3210" cid="46" avtor0="Deakin F. William"
             naslov0="The German and Allied Plans for a Balkan Landing"
@@ -6421,7 +6421,7 @@
             source="Journal of medieval History" pubPlace="Amsterdam" year="1995" volume="21"
             page="321-341"/>
     </delo>
-    <delo mojID="42613">
+    <delo mojID="42613" cobiss="57361664">
         <naslov>The german illustrated Broadsheet in the Seventeenth Century</naslov>
         <cit did="2691" cid="21" avtor0="Cupe William A."
             naslov0="The german illustrated Broadsheet in the Seventeenth Century"
@@ -6434,7 +6434,7 @@
             naslov0="The German Peasants' War and the Crisis of Feudalism, Reflections on a Neglected Theme"
             source="Journal of Early Modern History" year="2002" volume="6" page="265-295"/>
     </delo>
-    <delo mojID="42615">
+    <delo mojID="42615" cobiss="100704">
         <naslov>The German Policy of Augustus</naslov>
         <cit did="1748" cid="1104" avtor0="Wells C. M." naslov0="The German Policy of Augustus"
             pubPlace="Oxford" year="1972"/>
@@ -6542,13 +6542,13 @@
             naslov0="The global economic crisis and migrant workers: Impact and response"
             pubPlace="Geneva" publisher="International Labour Organization" year="2009"/>
     </delo>
-    <delo mojID="42635">
+    <delo mojID="42635" cobiss="10151225">
         <naslov>The global media: the new missionaries of corporate capitalism</naslov>
         <cit did="2672" cid="13" avtor0="Edward Herman S." avtor1="McChesney Robert W."
             naslov0="The global media: the new missionaries of corporate capitalism"
             pubPlace="London, Washington" publisher="Cassell" year="1997"/>
     </delo>
-    <delo mojID="42636">
+    <delo mojID="42636" cobiss="24342365">
         <naslov>The global migration crisis: challenge to states and to human
                         rights</naslov>
         <cit did="3039" cid="162" avtor0="Weiner Myron"
@@ -6562,7 +6562,7 @@
             naslov0="The Global Panopticon? The Neoliberal State, Economic Life, and Democratic Surveillance"
             source="Alternatives" year="1995" volume="2" page="1-49"/>
     </delo>
-    <delo mojID="42638">
+    <delo mojID="42638" cobiss="1142382">
         <naslov>The Global Village</naslov>
         <cit did="2853" cid="138" avtor0="McLuhan Marschal" naslov0="The Global Village"
             pubPlace="New York in Oxford" publisher="Oxford University Press" year="1992"/>
@@ -6592,7 +6592,7 @@
             naslov0="The glory of ancient Polonnarwa" pubPlace="New Town" publisher="Parakum Books"
             year="1999" page="9-22"/>
     </delo>
-    <delo mojID="42643">
+    <delo mojID="42643" cobiss="4095021">
         <naslov>The God of Modernity: The Development of Nationalism in Western
                         Europe</naslov>
         <cit did="2853" cid="124" avtor0="Llobera Josep"
@@ -6605,13 +6605,13 @@
             naslov0="The &#34;Golden Age&#34; and National Revival" source="Myths and Nationhood"
             pubPlace="London" publisher="Hurst &amp; Company" year="1997"/>
     </delo>
-    <delo mojID="42645">
+    <delo mojID="42645" cobiss="13382194">
         <naslov>The Golden Boat. Selected Poems of Srečko Kosovel</naslov>
         <cit did="3002" cid="15" avtor0="Kosovel Srečko"
             naslov0="The Golden Boat. Selected Poems of Srečko Kosovel" pubPlace="Cambridge"
             publisher="Salt Publishing" year="2008"/>
     </delo>
-    <delo mojID="42646">
+    <delo mojID="42646" cobiss="14430562">
         <naslov>The Golden Bough : a study in magic and religion</naslov>
         <cit did="272" cid="72" avtor0="Frazer James George"
             naslov0="The Golden Bough : a study in magic and religion" pubPlace="London" year="1995"
@@ -6636,7 +6636,7 @@
             pubPlace="Tempe" publisher="Arizona State University Center for Indian Education"
             year="2006" page="1-46"/>
     </delo>
-    <delo mojID="42652">
+    <delo mojID="42652" cobiss="40743681">
         <naslov>The Goths</naslov>
         <cit did="1663" cid="31" avtor0="Heather Peter" naslov0="The Goths" pubPlace="Oxford"
             year="1996"/>
@@ -6685,7 +6685,7 @@
             naslov0="The great cultural traditions: the foundation of civilization: the ancient cities"
             pubPlace="New York-London" year="1941"/>
     </delo>
-    <delo mojID="42661">
+    <delo mojID="42661" cobiss="52991745">
         <naslov>The Great Deception</naslov>
         <cit did="51" cid="26" avtor0="Booker Christopher, North Richard"
             naslov0="The Great Deception" naslov1="The Secret History of the European Union"
@@ -6710,7 +6710,7 @@
             naslov0="The Great European Famine of 1315, 1316, and 1317" source="Speculum"
             year="1930" volume="5" page="343-377"/>
     </delo>
-    <delo mojID="42665">
+    <delo mojID="42665" cobiss="17745506">
         <naslov>The Great Famine. Northern Europe in the early fourteenth Century</naslov>
         <cit did="2631" cid="128" avtor0="Jordan W."
             naslov0="The Great Famine. Northern Europe in the early fourteenth Century"
@@ -6721,7 +6721,7 @@
         <cit did="1762" cid="136" avtor0="Roubaud J." naslov0="The Great Fire of London"
             pubPlace="London" year="1989"/>
     </delo>
-    <delo mojID="42667">
+    <delo mojID="42667" cobiss="11990942">
         <naslov>The great fire of Rome: the fall of the emperor Nero and his city</naslov>
         <cit did="3079" cid="15" avtor0="Dando Collins S."
             naslov0="The great fire of Rome: the fall of the emperor Nero and his city"
@@ -6796,7 +6796,7 @@
         <cit did="272" cid="148" avtor0="Palmer Leonard R." naslov0="The Greek Language"
             pubPlace="London" year="1980"/>
     </delo>
-    <delo mojID="42686">
+    <delo mojID="42686" cobiss="77664">
         <naslov>The Greek Myths</naslov>
         <cit did="725" cid="19" avtor0="Graves R." naslov0="The Greek Myths"
             pubPlace="Harmondsworth" publisher="Penguin Books" year="1960"/>
@@ -6819,14 +6819,14 @@
             source="Greek Colonists and Native Populations: Proceedings of the First Australian Congress of Classical Archaeology"
             pubPlace="Oxford" year="1990" page="291-321"/>
     </delo>
-    <delo mojID="42690">
+    <delo mojID="42690" cobiss="122019840">
         <naslov>The green shirts and the others: a history of fascism in Hungary and
                         Romania</naslov>
         <cit did="1911" cid="75" avtor0="Nagy Talavera Nicholas M."
             naslov0="The green shirts and the others: a history of fascism in Hungary and Romania"
             pubPlace="Iasa-Oxford-Portland" publisher="Center for Romanian Studies" year="2001"/>
     </delo>
-    <delo mojID="42691">
+    <delo mojID="42691" cobiss="1277787">
         <naslov>The Grotowski sourcebook</naslov>
         <cit did="3084" cid="11" avtor0="Schechner R., Wolford L."
             naslov0="The Grotowski sourcebook" pubPlace="London - New York" publisher="Routledge"
@@ -6839,18 +6839,18 @@
             naslov0="The grounded theory perspective: Conceptualisation contrasted with description"
             pubPlace="Mill Valley/CA" publisher="Sociology Press" year="2001"/>
     </delo>
-    <delo mojID="42694">
+    <delo mojID="42694" cobiss="703565">
         <naslov>The group concept and minority protection</naslov>
         <cit did="3071" cid="94" avtor0="Vuciri Ramaga Philip"
             naslov0="The group concept and minority protection" source="Human rights quarterly"
             year="1993" volume="15" page="575-587"/>
     </delo>
-    <delo mojID="42696">
+    <delo mojID="42696" cobiss="6205495">
         <naslov>The Growth of the Medieval City</naslov>
         <cit did="2639" cid="225" avtor0="Nicholas David" naslov0="The Growth of the Medieval City"
             pubPlace="New York" year="1997"/>
     </delo>
-    <delo mojID="42697">
+    <delo mojID="42697" cobiss="6205495">
         <naslov>The Growth of the Medieval City. From Late Antiquity to the Early Fourteenth
                         century</naslov>
         <cit did="2421" cid="46" avtor0="Nicholas David"
