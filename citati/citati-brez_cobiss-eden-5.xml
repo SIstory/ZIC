@@ -14603,7 +14603,7 @@
             source="The Truth on Kosova" pubPlace="Tirana"
             publisher="Encyclopaedia Publishing House" year="1993" page="187-191"/>
     </delo>
-    <delo mojID="44166"><
+    <delo mojID="44166">
         <naslov>The Zollverein</naslov>
         <cit did="51" cid="197" avtor0="Henderson W.O." naslov0="The Zollverein" pubPlace="London"
             year="1968" page="337"/>
@@ -14615,7 +14615,7 @@
             naslov0="Theater des Schreckens : Gerichtspraxis und Strafrituale in der frühen Neuzeit"
             publisher="Beck'sche Reihe" year="1994"/>
     </delo>
-    <delo mojID="44169">
+    <delo mojID="44169" cobiss="139219">
         <naslov>Theater, Politik und Gesellschaft : Aspekte der Geschichte des slowenischen
                         Theaters in Ljubljana / Laibach in den Jahren 1867 bis 1918</naslov>
         <cit did="1416" cid="20" avtor0="Pelikan Egon"
@@ -14674,12 +14674,12 @@
         <cit did="2210" cid="9" avtor0="Errington M. R." naslov0="Theodosius and the Goths"
             source="Chiron" year="1996" volume="26" page="1-27"/>
     </delo>
-    <delo mojID="44184">
+    <delo mojID="44184" cobiss="6408282">
         <naslov>Theodosius der Große und seine Zeit</naslov>
         <cit did="2210" cid="13" avtor0="Lippold A." naslov0="Theodosius der Große und seine Zeit"
             pubPlace="Stuttgart" year="1968"/>
     </delo>
-    <delo mojID="44185">
+    <delo mojID="44185" cobiss="3169837">
         <naslov>Theodosius: The Empire at Bay</naslov>
         <cit did="2210" cid="41" avtor0="Williams S., Friell G."
             naslov0="Theodosius: The Empire at Bay" pubPlace="London" year="1994"/>
@@ -14711,7 +14711,7 @@
         <cit did="272" cid="68" avtor0="Flower Michael A." naslov0="Theopompus of Chios"
             source="History and Rhetoric in the Fourth Century BC" pubPlace="Oxford" year="1994"/>
     </delo>
-    <delo mojID="44193">
+    <delo mojID="44193" cobiss="5853229">
         <naslov>Theopompus the Historian</naslov>
         <cit did="272" cid="169" avtor0="Shrimpton Gordon S." naslov0="Theopompus the Historian"
             pubPlace="Montreal" year="1991"/>
@@ -14778,7 +14778,7 @@
             naslov0="Theoriae phenomenorum electricorum conscripta a P. Josepho H erbert e S.J. Viennae"
             pubPlace="Vindobonae" publisher="Tratner" year="1772"/>
     </delo>
-    <delo mojID="44203">
+    <delo mojID="44203" cobiss="49026049">
         <naslov>Theorie der Fotografìe 1912-1945</naslov>
         <cit did="2328" cid="14" avtor0="Kemp W." naslov0="Theorie der Fotografìe 1912-1945"
             source="Theorie der fotografie. II. 1912-1945" pubPlace="München"
@@ -14820,7 +14820,7 @@
         <cit did="3027" cid="9" avtor0="Jackson S., Scott S." naslov0="Theorizing sexuality"
             source="Milton Keynes" pubPlace="McGravv-Hill" year="2010"/>
     </delo>
-    <delo mojID="44215">
+    <delo mojID="44215" cobiss="8151629">
         <naslov>Theorizing transnational immigration</naslov>
         <cit did="3031" cid="9" avtor0="Kivisto Peter"
             naslov0="Theorizing transnational immigration"
@@ -14860,7 +14860,7 @@
             naslov1="Essays Mathematical and Physical" pubPlace="New Haven" year="0" page="225-249"
         />
     </delo>
-    <delo mojID="44221">
+    <delo mojID="44221" cobiss="1055699">
         <naslov>Theory of the Avantgarde</naslov>
         <cit did="2328" cid="4" avtor0="Bürger P." naslov0="Theory of the Avantgarde"
             pubPlace="Minneapolis" publisher="University of Minnesota Press" year="2004"/>
@@ -14906,7 +14906,7 @@
         <cit did="272" cid="363" avtor0="Benjamin W." naslov0="Theses on the Philosophy of History"
             source="Illuminations" pubPlace="New York" year="1969" page="257"/>
     </delo>
-    <delo mojID="44232">
+    <delo mojID="44232" cobiss="9012578">
         <naslov>They and we. Racial and ethnic relations in the United States</naslov>
         <cit did="2968" cid="118" avtor0="Rose Peter I."
             naslov0="They and we. Racial and ethnic relations in the United States"
@@ -14940,7 +14940,7 @@
             publisher="The Washington State American Revolution Bicentennial Commision" year="1977"
         />
     </delo>
-    <delo mojID="44238">
+    <delo mojID="44238" cobiss="512278400">
         <naslov>Thick Description: toward an Interpretive Theory of Culture</naslov>
         <cit did="738" cid="10" avtor0="Geertz C."
             naslov0="Thick Description: toward an Interpretive Theory of Culture"
@@ -14972,7 +14972,7 @@
             naslov0="Thinking inside the Box: A Closer Look at Democracy and Human Rights"
             source="International Studies Quarterly" year="2005" volume="49" issue="3" page="441"/>
     </delo>
-    <delo mojID="44243">
+    <delo mojID="44243" cobiss="7299426">
         <naslov>Thinking with History : Explorations in the Passage to Modernism</naslov>
         <cit did="380" cid="29" avtor0="Schorske K."
             naslov0="Thinking with History : Explorations in the Passage to Modernism"
@@ -14991,24 +14991,24 @@
             source="Speculum: a Journal of Medieval Studies" pubPlace="Cambridge" year="1960"
             volume="35" page="196-213"/>
     </delo>
-    <delo mojID="44246">
+    <delo mojID="44246" cobiss="6933293">
         <naslov>Thirty years of prehistoric archaeology in Arheološki vestnik</naslov>
         <cit did="1915" cid="14" avtor0="Gabrovec S."
             naslov0="Thirty years of prehistoric archaeology in Arheološki vestnik"
             source="Arheološki vestnik" pubPlace="Ljubljana" year="1979" page="13-20"/>
     </delo>
-    <delo mojID="44247">
+    <delo mojID="44247" cobiss="791174">
         <naslov>This land was theirs</naslov>
         <cit did="2968" cid="107" avtor0="Oswalt Wendell H." naslov0="This land was theirs"
             naslov1="A study of the North American Indian" pubPlace="New York, London, Sydney"
             publisher="John Wiley &amp; Sons, Inc." year="1966"/>
     </delo>
-    <delo mojID="44250">
+    <delo mojID="44250" cobiss="7587424">
         <naslov>Thomas Ender 1793-1875</naslov>
         <cit did="358" cid="9" avtor0="Koschatzky Walter" naslov0="Thomas Ender 1793-1875"
             naslov1="Kammermaler Erzherzog Johanns" pubPlace="Graz" year="1982"/>
     </delo>
-    <delo mojID="44252">
+    <delo mojID="44252" cobiss="320309">
         <naslov>Thomas Fürstbauer: Kronika mesta Celja 1892-1907 (2. del)</naslov>
         <cit did="2053" cid="3" avtor0="Cvirn Janez"
             naslov0="Thomas Fürstbauer: Kronika mesta Celja 1892-1907 (2. del)"
