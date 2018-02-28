@@ -15054,7 +15054,7 @@
             source="Jahrbuch des Kaiserlich deutschen Ar eh. Instituts" year="0" volume="13"
             page="134-174"/>
     </delo>
-    <delo mojID="44265">
+    <delo mojID="44265" cobiss="3049737">
         <naslov>Three Paradoxes of Democracy</naslov>
         <cit did="2012" cid="10" avtor0="Diamond L." naslov0="Three Paradoxes of Democracy"
             source="Journal of Democracy" year="1990" volume="1" issue="3" page="48-60"/>
@@ -15065,13 +15065,13 @@
             naslov0="Three Senate Meetings in the Early Principate" source="Phoenix"
             pubPlace="Toronto" year="1963" volume="17" issue="1" page="25-58"/>
     </delo>
-    <delo mojID="44267">
+    <delo mojID="44267" cobiss="2589229">
         <naslov>Three Studies in Medieval Religious and Social Thought...</naslov>
         <cit did="2691" cid="7" avtor0="Constable Giles"
             naslov0="Three Studies in Medieval Religious and Social Thought..." pubPlace="Cambridge"
             year="1995"/>
     </delo>
-    <delo mojID="44268">
+    <delo mojID="44268" cobiss="1175156">
         <naslov>Three Women in Dark Times: Edith Stein, Hannah Arendt, Simone Weil or Amor
                         fati. Amor mundi</naslov>
         <cit did="3535" cid="4" avtor0="Courtine Denamy Sylvie"
@@ -15129,13 +15129,13 @@
             naslov0="&#34;Théorie&#34; et &#34;traités pratiques&#34; d' architecture au Moyen Age"
             pubPlace="Paris" publisher="Picard" year="1988" page="49-60"/>
     </delo>
-    <delo mojID="44280">
+    <delo mojID="44280" cobiss="8462413">
         <naslov>Théories et réalités en droit international public</naslov>
         <cit did="3071" cid="13" avtor0="Visscher Charles de"
             naslov0="Théories et réalités en droit international public" pubPlace="Paris"
             publisher="Editions A. Pedone" year="1970"/>
     </delo>
-    <delo mojID="44282">
+    <delo mojID="44282" cobiss="2616556">
         <naslov>Tiara</naslov>
         <cit did="390" cid="5" avtor0="MacÃ´r C." naslov0="Tiara" pubPlace="Brazzano"
             publisher="Edizioni Braitan" year="1991"/>
@@ -15174,7 +15174,7 @@
             naslov0="Tiere, Teufel oder Menschen? Zur gesellschaftlichen Einschätzung der »dienenden Klassen* während der frühen Neuzeit. Gesinde im 18. Jahrhundert"
             pubPlace="Hamburg" publisher="Meier Verlag" year="1995"/>
     </delo>
-    <delo mojID="44288">
+    <delo mojID="44288" cobiss="1107316">
         <naslov>TIGR</naslov>
         <cit did="112" cid="41" avtor0="Kacin - Wohinz Milica" naslov0="TIGR"
             source="Enciklopedija Slovenije, 13. zvezek" pubPlace="Ljubljana" year="1999"
@@ -15185,25 +15185,25 @@
         <cit did="1914" cid="174" avtor0="Zidar Alojz" naslov0="TIGR in NOV" source="TV" year="2020"
             volume="15"/>
     </delo>
-    <delo mojID="44292">
+    <delo mojID="44292" cobiss="7525026">
         <naslov>TIGR Renče in okolica</naslov>
         <cit did="1485" cid="18" avtor0="Nemec Nataša" naslov0="TIGR Renče in okolica"
             pubPlace="Renče"
             publisher="Društvo za negovanje rodoljubnih tradicij organizacije TIGR Primorske - Goriški muzej"
             year="1999"/>
     </delo>
-    <delo mojID="44298">
+    <delo mojID="44298" cobiss="13831169">
         <naslov>Tiha asimilacija</naslov>
         <cit did="407" cid="13" avtor0="Susič E., Sedmak D." naslov0="Tiha asimilacija"
             source="Psihološki vidiki nacionalnega odtujevanja" pubPlace="Trst"
             publisher="Založništvo Tžaškega tiska" year="1983"/>
     </delo>
-    <delo mojID="44299">
+    <delo mojID="44299" cobiss="3013047">
         <naslov>Tiha asimilacija istrskih Židov</naslov>
         <cit did="2311" cid="24" avtor0="Gaberc Slavko" naslov0="Tiha asimilacija istrskih Židov"
             source="Primorska srečanja" year="2000" issue="229" page="347-349"/>
     </delo>
-    <delo mojID="44301">
+    <delo mojID="44301" cobiss="35125248">
         <naslov>Tiha sporočila Slovenije</naslov>
         <cit did="439" cid="28" avtor0="Pogačnik Marko" naslov0="Tiha sporočila Slovenije"
             source="Delo, Sobotna priloga" year="1912" volume="34" issue="294" page="29"/>
@@ -15258,13 +15258,13 @@
             naslov0="Time and the global: against the homogenous, empty communities in contemporary social theory"
             source="Development and Change" year="1998" volume="29" page="839-871"/>
     </delo>
-    <delo mojID="44314">
+    <delo mojID="44314" cobiss="6051592">
         <naslov>Time and the Other: How Anthropology Makes its Object</naslov>
         <cit did="2853" cid="62" avtor0="Fabian Johannes"
             naslov0="Time and the Other: How Anthropology Makes its Object" pubPlace="New York"
             publisher="Columbia University Press" year="1983"/>
     </delo>
-    <delo mojID="44315">
+    <delo mojID="44315" cobiss="388749">
         <naslov>Time, Space and Social Construction of Identity</naslov>
         <cit did="2853" cid="25" avtor0="Brumen Borut"
             naslov0="Time, Space and Social Construction of Identity"
@@ -15333,7 +15333,7 @@
             source="Poročilo o raziskovanju paleolita, neolita in eneolita v Sloveniji"
             pubPlace="Ljubljana" year="1978" volume="6" page="7-42"/>
     </delo>
-    <delo mojID="44326">
+    <delo mojID="44326" cobiss="19681325">
         <naslov>Tipologija kmečkih uporov in vstaj pri jugoslovanskih narodih od konca XV.
                         do konca XVIII. stoletja</naslov>
         <cit did="1377" cid="7" avtor0="Grafenauer Bogo"
@@ -15347,7 +15347,7 @@
             naslov0="Tipologija srednjevjekovnih gradova Slovenije..."
             source="Jugoslovenski istorijski časopis" year="1975" page="19-27"/>
     </delo>
-    <delo mojID="44330">
+    <delo mojID="44330" cobiss="4412002">
         <naslov>Tipologije slovarjev</naslov>
         <cit did="2527" cid="7" avtor0="Vrbinc Alenka" naslov0="Tipologije slovarjev"
             source="Vestnik" pubPlace="Ljubljana"
@@ -15370,7 +15370,7 @@
         <cit did="1509" cid="161" avtor0="Čepe Marica" naslov0="Tisk in tiskarne v prvem letu boja"
             source="Junaška Ljubljana 1941 - 1945" pubPlace="Ljubljana" year="1985" page="122-142"/>
     </delo>
-    <delo mojID="44338">
+    <delo mojID="44338" cobiss="75618304">
         <naslov>Tisk slovenskih književnikov v Avstraliji/Slovene literary works in the
                         Australian Press</naslov>
         <cit did="2722" cid="10" avtor0="Šuša Barbara"
@@ -15387,14 +15387,14 @@
             publisher="Strokovno združenje založnikov in knji-gotržcev pri GZS in Cankarjev dom"
             year="2005" page="15-17"/>
     </delo>
-    <delo mojID="44342">
+    <delo mojID="44342" cobiss="8343808">
         <naslov>Tiskarska produkcija v Ljubljani od leta 1678 do leta 1764</naslov>
         <cit did="2057" cid="15" avtor0="Reisp Branko"
             naslov0="Tiskarska produkcija v Ljubljani od leta 1678 do leta 1764"
             source="Obdobje baroka v slovenskem jeziku, književnosti in kulturi"
             pubPlace="Ljubljana" publisher="Filozofska fakulteta" year="1989" page="433-440"/>
     </delo>
-    <delo mojID="44343">
+    <delo mojID="44343" cobiss="17023232">
         <naslov>Tiskarstvo na Dolenjskem</naslov>
         <cit did="2057" cid="22" avtor0="Tončič Ludvik" naslov0="Tiskarstvo na Dolenjskem"
             pubPlace="Novo mesto" publisher="Tiskarna Novo mesto, Dolenjski muzej" year="1989"/>
@@ -15404,7 +15404,7 @@
         <cit did="3022" cid="338" avtor0="Kuhar Lovro" naslov0="Tisoč in en dan" publisher="Obzorje"
             year="1950" page="97-102"/>
     </delo>
-    <delo mojID="44352">
+    <delo mojID="44352" cobiss="19651629">
         <naslov>Tisoč let od prve omembe Gorice in od prve ozemeljske zasnove goriške
                         dežele</naslov>
         <cit did="1427" cid="21" avtor0="Marušič Branko"
@@ -15473,7 +15473,7 @@
             source="O Titu kao mitu, Proslava Dana mladosti u Kumrovcu" pubPlace="Zagreb"
             year="2006" page="165-176"/>
     </delo>
-    <delo mojID="44373">
+    <delo mojID="44373" cobiss="45718784">
         <naslov>Tito - Krleža, predvojna srečanja</naslov>
         <cit did="3022" cid="156" avtor0="Očak Ivan" naslov0="Tito - Krleža, predvojna srečanja"
             source="NRazgl" year="1982" issue="4" page="113-116"/>
@@ -15483,7 +15483,7 @@
         <cit did="3022" cid="196" avtor0="Vilfan Joža" naslov0="Tito o Prežihu" source="PrZ"
             page="109-110"/>
     </delo>
-    <delo mojID="44377">
+    <delo mojID="44377" cobiss="1068148">
         <naslov>Tito : sociološkoistorijska študija</naslov>
         <cit did="826" cid="74" avtor0="Kuljič Todor" naslov0="Tito : sociološkoistorijska študija"
             source="Institut za političke študije" pubPlace="Beograd" year="1998"/>
@@ -15494,7 +15494,7 @@
             naslov0="Tito: the formation of a disloyal bolshevik"
             source="International Review of Social History" year="1989" volume="34" issue="2"/>
     </delo>
-    <delo mojID="44382">
+    <delo mojID="44382" cobiss="68564481">
         <naslov>Tito u Bjelovaru</naslov>
         <cit did="2186" cid="16" avtor0="Koprivica Oštrić Stanislava" naslov0="Tito u Bjelovaru"
             pubPlace="Zagreb" year="1978" page="18-19"/>
@@ -15504,13 +15504,13 @@
         <cit did="3210" cid="111" avtor0="Korbel Josef" naslov0="Titos Communism"
             publisher="The University of Denver Press" year="1951"/>
     </delo>
-    <delo mojID="44386">
+    <delo mojID="44386" cobiss="573556">
         <naslov>Tito’s Yugoslav Partisan Movement</naslov>
         <cit did="71" cid="203" avtor0="Sulzberger Cyrus Leo"
             naslov0="Tito’s Yugoslav Partisan Movement" pubPlace="New York"
             publisher="The United Comittee of South-Slavic Americans" year="1944"/>
     </delo>
-    <delo mojID="44387">
+    <delo mojID="44387" cobiss="5706752">
         <naslov>Tito's Yugoslavia</naslov>
         <cit did="826" cid="140" avtor0="Wilson Duncan" naslov0="Tito's Yugoslavia"
             pubPlace="London - New York - Melbourne" publisher="Cambridge Universitv Press"
@@ -15521,7 +15521,7 @@
         <cit did="3210" cid="115" avtor0="Krleža Miroslav" naslov0="Titov povratak, 1937"
             source="Večernji list, 25. 5. 1972" year="1972"/>
     </delo>
-    <delo mojID="44395">
+    <delo mojID="44395" cobiss="8959760">
         <naslov>Titova vještina vladanja</naslov>
         <cit did="2560" cid="10" avtor0="Terzič, Milan V." naslov0="Titova vještina vladanja"
             pubPlace="Podgorica" publisher="Pobjeda" year="2005"/>
@@ -15563,13 +15563,13 @@
         <cit did="2448" cid="7" avtor0="Brychova Jana"
             naslov0="Tkakovstvi a odev u Slovanü 6. - 13. Stoleti." pubPlace="Praha" year="1981"/>
     </delo>
-    <delo mojID="44402">
+    <delo mojID="44402" cobiss="25620578">
         <naslov>Tkalci u Istri</naslov>
         <cit did="2612" cid="111" avtor0="Orlić Olga" naslov0="Tkalci u Istri"
             source="Tkalci u Istri: popratna edicija uz izložbu" pubPlace="Pazin"
             publisher="Etnografski muzej Istre" year="2004"/>
     </delo>
-    <delo mojID="44403">
+    <delo mojID="44403" cobiss="25842945">
         <naslov>Tkanine u privredi srednjevekovnog Dubrovnika</naslov>
         <cit did="2614" cid="59" avtor0="Dinić-Knežić D."
             naslov0="Tkanine u privredi srednjevekovnog Dubrovnika" source="SANU" pubPlace="Beograd"
@@ -15594,7 +15594,7 @@
             naslov0="Tko smo mi? Izazovi američkom nacionalnom identitetu" pubPlace="Zagreb"
             publisher="Izvori" year="2007"/>
     </delo>
-    <delo mojID="44407">
+    <delo mojID="44407" cobiss="59872256">
         <naslov>Tko su Šokci</naslov>
         <cit did="2708" cid="24" avtor0="Rem Vladimir" naslov0="Tko su Šokci" pubPlace="Vinkovci"
             publisher="Slavonska naklada Privlačica" year="1993"/>
@@ -15606,7 +15606,7 @@
             source="Gotika v Sloveniji. Svet predmetov" pubPlace="Ljubljana"
             publisher="Narodni muzej" year="1995"/>
     </delo>
-    <delo mojID="44409">
+    <delo mojID="44409" cobiss="71918592">
         <naslov>Tlačiarne na Slovensku 1477-1996</naslov>
         <cit did="2057" cid="3" avtor0="Breza Vojtech" naslov0="Tlačiarne na Slovensku 1477-1996"
             pubPlace="Bratislava" publisher="Matica Slovenska" year="1997"/>
@@ -15617,7 +15617,7 @@
             naslov0="To End All Wars: Woodrow Wilson and the Quest for a New World Order"
             pubPlace="Princeton" publisher="Princeton University Press" year="1995"/>
     </delo>
-    <delo mojID="44412">
+    <delo mojID="44412" cobiss="5616132">
         <naslov>To Fellow Americanists: A Letter from Slovenia</naslov>
         <cit did="2763" cid="45" avtor0="Klemenčič Matjaž"
             naslov0="To Fellow Americanists: A Letter from Slovenia"
@@ -15640,7 +15640,7 @@
             source="Ancient Perceptions of Greek Ethnicity" pubPlace="London" year="2001"
             page="29-50"/>
     </delo>
-    <delo mojID="44417">
+    <delo mojID="44417" cobiss="1112692">
         <naslov>To Kill a Nation</naslov>
         <cit did="365" cid="27" avtor0="Parenti Michel" naslov0="To Kill a Nation"
             naslov1="The Attack on Yugoslavia" pubPlace="London" publisher="Verso" year="2000"
@@ -15653,7 +15653,7 @@
             naslov0="To kill or not to kill. Coming to terms with capital punishment New Yorker, January 6, 2003."
             pubPlace="New York" year="2003" page="40-47"/>
     </delo>
-    <delo mojID="44419">
+    <delo mojID="44419" cobiss="6473037">
         <naslov>To live in two worlds</naslov>
         <cit did="2968" cid="2" avtor0="Ashabranner Brent" naslov0="To live in two worlds"
             source="American Indian Youth Today" pubPlace="New York"
@@ -15666,12 +15666,12 @@
             naslov0="To remain an Indian: lessons in democracy from a century of native American education"
             pubPlace="New York" publisher="Teachers College Press" year="2006"/>
     </delo>
-    <delo mojID="44421">
+    <delo mojID="44421" cobiss="41411585">
         <naslov>To rule Jerusalem</naslov>
         <cit did="142" cid="58" avtor0="Friedland Roger, Hecht Richard" naslov0="To rule Jerusalem"
             pubPlace="Cambridge" publisher="Cambridge University Press" year="1996"/>
     </delo>
-    <delo mojID="44422">
+    <delo mojID="44422" cobiss="122692864">
         <naslov>To se ne bi smelo dogajati</naslov>
         <cit did="2986" cid="16" avtor0="Urbančič Ivan" naslov0="To se ne bi smelo dogajati"
             source="Nova revija" year="2002" volume="21" page="102-112"/>
@@ -15731,14 +15731,14 @@
             naslov1="Dalla Resistenza al trattato di pace 1943/1947" pubPlace="Roma"
             publisher="Editori Riuniti" year="1995"/>
     </delo>
-    <delo mojID="44438">
+    <delo mojID="44438" cobiss="88091648">
         <naslov>Toilettenlektüre für Damen und Herren in Rücksicht auf die
                         Gesundheit</naslov>
         <cit did="70" cid="10" avtor0="Weikard Melchior Adam"
             naslov0="Toilettenlektüre für Damen und Herren in Rücksicht auf die Gesundheit"
             pubPlace="Frankfurt am Main" year="0" volume="2" page="361-453"/>
     </delo>
-    <delo mojID="44439">
+    <delo mojID="44439" cobiss="21168385">
         <naslov>Tokovi glasbene kulture na Slovenskem od začetkov do 19. stoletja</naslov>
         <cit did="1912" cid="51" avtor0="Höfler Janez"
             naslov0="Tokovi glasbene kulture na Slovenskem od začetkov do 19. stoletja"
@@ -15754,18 +15754,18 @@
         <cit did="2363" cid="5" avtor0="Puppini C." naslov0="Tolmezzo. II Settecento"
             pubPlace="Udine" publisher="CO.EL." year="2001"/>
     </delo>
-    <delo mojID="44444">
+    <delo mojID="44444" cobiss="82580224">
         <naslov>Tolminska posojilnica in hranilnica 1893-1909</naslov>
         <cit did="1315" cid="13" avtor0="Gaberščik Oskar"
             naslov0="Tolminska posojilnica in hranilnica 1893-1909" pubPlace="Tolmin" year="1909"
             page="19"/>
     </delo>
-    <delo mojID="44445">
+    <delo mojID="44445" cobiss="12514610">
         <naslov>Tolminsko med dvema vojnama</naslov>
         <cit did="1914" cid="118" avtor0="Rejec Albert" naslov0="Tolminsko med dvema vojnama"
             source="Tolminski zbornik" year="1956" page="31-38"/>
     </delo>
-    <delo mojID="44447">
+    <delo mojID="44447" cobiss="24207202">
         <naslov>Toma Arhidakon i njegovo djelo. Rano doba hrvatske povijesti</naslov>
         <cit did="2091" cid="6" avtor0="Matijević Sokol M."
             naslov0="Toma Arhidakon i njegovo djelo. Rano doba hrvatske povijesti"
@@ -15776,7 +15776,7 @@
         <cit did="251" cid="6" avtor0="Bertoša M., Bertoša S." naslov0="Tomaso Luciani"
             source="Istarska enciklopedija" pubPlace="Zagreb" year="2005" page="454-455"/>
     </delo>
-    <delo mojID="44449">
+    <delo mojID="44449" cobiss="1098941790">
         <naslov>Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti</naslov>
         <cit did="1738" cid="22" avtor0="Radics Peter"
             naslov0="Tomaž Chrön, pesnik, mecén umeteljnosti in podpornik vednosti"
@@ -15795,7 +15795,7 @@
             source="Časopis za slovenski jezik, književnost in zgodovino" volume="5" page="143-153"
         />
     </delo>
-    <delo mojID="44453">
+    <delo mojID="44453" cobiss="2864647">
         <naslov>Tomažu Furlanu - U spomen!</naslov>
         <cit did="1602" cid="17" avtor0="Neubauer Robert" naslov0="Tomažu Furlanu - U spomen!"
             year="1961" page="321-323"/>
@@ -15818,7 +15818,7 @@
         <cit did="418" cid="14" avtor0="Grillo Antonino" naslov0="Tomizza e la critica piÃ¹ recente"
             pubPlace="Foggia" publisher="Bastogi" year="2003"/>
     </delo>
-    <delo mojID="44458">
+    <delo mojID="44458" cobiss="1024012874">
         <naslov>Tomos, slovenska blagovna znamka, ki je zrasla na Puhovih temeljih</naslov>
         <cit did="829" cid="1" avtor0="Brovinsky Boris"
             naslov0="Tomos, slovenska blagovna znamka, ki je zrasla na Puhovih temeljih"
@@ -15826,12 +15826,12 @@
             pubPlace="Ptuj" publisher="Zgodovinski arhiv, Znanstvenoraziskovalno središče Bistra"
             year="1998" page="165-172"/>
     </delo>
-    <delo mojID="44459">
+    <delo mojID="44459" cobiss="93356800">
         <naslov>Tomáš G. Masaryk a Jihoslovane</naslov>
         <cit did="2193" cid="17" avtor0="Paulova M." naslov0="Tomáš G.  Masaryk a Jihoslovane"
             pubPlace="Praha" publisher="Češkoslovensko-Jihoslovanska liga" year="1938" page="63"/>
     </delo>
-    <delo mojID="44462">
+    <delo mojID="44462" cobiss="1516404">
         <naslov>Tone Ferenc - 75-letnik</naslov>
         <cit did="576" cid="1" avtor0="Deželak-Barič Vida" naslov0="Tone Ferenc - 75-letnik"
             source="Kronika" year="2003" volume="51" issue="1"/>
@@ -15867,14 +15867,14 @@
             naslov0="Topništvo in njegov razvoj v Sloveniji" pubPlace="Ljubljana" year="1966"
             page="192"/>
     </delo>
-    <delo mojID="44471">
+    <delo mojID="44471" cobiss="3665461">
         <naslov>Topografija celjskega pokopališča Golovec</naslov>
         <cit did="2292" cid="8" avtor0="Počivavšek Marija"
             naslov0="Topografija celjskega pokopališča Golovec"
             source="Muzejska poletna delavnica Celje '95 &amp; '96" pubPlace="Celje"
             publisher="Muzej novejše zgodovine Celje" year="1996"/>
     </delo>
-    <delo mojID="44472">
+    <delo mojID="44472" cobiss="97801">
         <naslov>Topografija kaštelanskog polja</naslov>
         <cit did="2100" cid="37" avtor0="Omašič V." naslov0="Topografija kaštelanskog polja"
             pubPlace="Split" year="1978"/>
@@ -15886,7 +15886,7 @@
             naslov0="Topografija kulturne dediščine nekdanjega nemškega jezikovnega območja na Kočevskem"
             source="Tipkopis"/>
     </delo>
-    <delo mojID="44479">
+    <delo mojID="44479" cobiss="79251713">
         <naslov>Topografija vitanjskega urada v luči urbarja iz 1404</naslov>
         <cit did="2583" cid="70" avtor0="Blaznik Pavle"
             naslov0="Topografija vitanjskega urada v luči urbarja iz 1404" source="ČZN" year="1966"
@@ -15897,7 +15897,7 @@
         <cit did="2118" cid="23" avtor0="Valvasor Janez Vajkard"
             naslov0="Topografija Vojvodine Kranjske" pubPlace="Bogenšperk , Ljubljana" year="0"/>
     </delo>
-    <delo mojID="44481">
+    <delo mojID="44481" cobiss="1099002718">
         <naslov>Topografiški opis Ljubljane in zgodovina ljubljanskega mestnega zastopa v
                         minulih stoletjih</naslov>
         <cit did="1738" cid="38" avtor0="Vrhovec Ivan"
@@ -15911,7 +15911,7 @@
             naslov0="Topografska istraziv anja rimskih cesta na varazdinskom i medjimurskom podrueju (1960-1967)"
             source="SAZU. Razprave VI 1. razreda" pubPlace="Ljubljana" year="1969" page="363-431"/>
     </delo>
-    <delo mojID="44484">
+    <delo mojID="44484" cobiss="51376226">
         <naslov>Topografska pitanja na teritoriju stare cetinske zupanije s ekskursima o
                         ubikaciji Setovije i Tiluriuma</naslov>
         <cit did="1748" cid="435" avtor0="Gunjača S."
@@ -15930,12 +15930,12 @@
             naslov0="Topogtaphie der k.k. Provinzialhauptstadt Laibach in Bezug auf Natur- und Heilkunde, Medicinalordnung und Biostatik"
             pubPlace="Laibach" year="0" page="266"/>
     </delo>
-    <delo mojID="44493">
+    <delo mojID="44493" cobiss="57633024">
         <naslov>Topol samujoč</naslov>
         <cit did="2986" cid="10" avtor0="Murn Josip" naslov0="Topol samujoč" pubPlace="Ljubljana"
             publisher="MK" year="1996"/>
     </delo>
-    <delo mojID="44494">
+    <delo mojID="44494" cobiss="47938048">
         <naslov>Topolove : pripoved o koreninah beneške vasi</naslov>
         <cit did="442" cid="122" avtor0="Gariup Mario, Gariup Renzo, Rucli Renzo"
             naslov0="Topolove : pripoved o koreninah beneške vasi" pubPlace="San Pietro al Natisone"
@@ -15970,7 +15970,7 @@
             naslov0="Toponimija vanjskog i srednjeg niza zadarskih otoka" pubPlace="Split"
             publisher="Književni krug bzd." year="1996"/>
     </delo>
-    <delo mojID="44501">
+    <delo mojID="44501" cobiss="9542498">
         <naslov>Toponimika i geografija</naslov>
         <cit did="2161" cid="2" avtor0="Makarovič Murzaev Eduard" naslov0="Toponimika i geografija"
             source="Nauka" pubPlace="Moskva" issue="1995" page="3"/>
@@ -15981,7 +15981,7 @@
             naslov0="Toponomastica del Comune di Cittanova d'lstria" pubPlace="Porec"
             publisher="AMSI" year="1934" volume="45"/>
     </delo>
-    <delo mojID="44503">
+    <delo mojID="44503" cobiss="17356898">
         <naslov>Toponomastica italiana</naslov>
         <cit did="1929" cid="30" avtor0="Pellegrini G. B." naslov0="Toponomastica italiana"
             pubPlace="Milano" publisher="Hoepli" year="1990"/>
@@ -16012,7 +16012,7 @@
         <cit did="1929" cid="32" avtor0="Skok P." naslov0="Toponomasticki problemi, VII."
             source="Istrijotski časopis Srpske akademije nauka" pubPlace="Beograd" year="1952"/>
     </delo>
-    <delo mojID="44508">
+    <delo mojID="44508" cobiss="513234572">
         <naslov>Toponomastik in Südtirol</naslov>
         <cit did="2653" cid="37" avtor0="Zeller Karl" naslov0="Toponomastik in Südtirol"
             source="Ortsstafelkonflikt in Kärnten - Krise oder Chance" pubPlace="Wien"
@@ -16029,13 +16029,13 @@
             naslov0="Toponymika und Ethnika in Trubers Vorreden und Widmungen" pubPlace="München"
             year="1995" page="322"/>
     </delo>
-    <delo mojID="44511">
+    <delo mojID="44511" cobiss="23474530">
         <naslov>Toponymy: The Lore, Laws and Language of Geographical Names</naslov>
         <cit did="2161" cid="1" avtor0="Kadmon Naftali"
             naslov0="Toponymy: The Lore, Laws and Language of  Geographical Names"
             pubPlace="New York" publisher="Vantage Press" year="2000" page="3"/>
     </delo>
-    <delo mojID="44512">
+    <delo mojID="44512" cobiss="35364353">
         <naslov>Torcida</naslov>
         <cit did="2921" cid="7" avtor0="Lalić Dražen" naslov0="Torcida" pubPlace="Zagreb"
             year="1993"/>
@@ -16078,7 +16078,7 @@
             naslov0="Total History and Microhistory : the French and Italian Paradigms"
             source="A Companion to Western&#xA;Historical Thought" pubPlace="Malden" year="2002"/>
     </delo>
-    <delo mojID="44520">
+    <delo mojID="44520" cobiss="1424339">
         <naslov>Totalitarian structures and social practice: deviance in Yugoslavia between
                         1941 and 1951</naslov>
         <cit did="2418" cid="41" avtor0="Rutar Sabine"
@@ -16090,7 +16090,7 @@
         <cit did="2735" cid="30" avtor0="Freud Sigmund" naslov0="Totem und Tabu"
             pubPlace="Frankfurt am Main" publisher="Fischer Taschenbuch Verlag" year="1980"/>
     </delo>
-    <delo mojID="44523">
+    <delo mojID="44523" cobiss="58811136">
         <naslov>Totemske maske demokracije</naslov>
         <cit did="531" cid="56" avtor0="Šumič Riha Jelica" naslov0="Totemske maske demokracije"
             pubPlace="Ljubljana" year="1996" page="71, 85"/>
@@ -16165,7 +16165,7 @@
         <cit did="3056" cid="19" avtor0="Nash D." naslov0="Tourism as an anthropological subject"
             source="Current Anthropology" year="1981" volume="22" issue="5" page="461-481"/>
     </delo>
-    <delo mojID="44535">
+    <delo mojID="44535" cobiss="921811">
         <naslov>Tourism cycle(s) of Portorož - Portorose</naslov>
         <cit did="1999" cid="55" avtor0="Vrtačnik K."
             naslov0="Tourism cycle(s) of Portorož - Portorose" source="Annales, Ser. Hist. Sociol."
@@ -16192,7 +16192,7 @@
             naslov0="Tourist's intention to visitt a country: The impact of cultural distance"
             source="Tourism Management" year="2006" volume="28" issue="6" page="1497-1506"/>
     </delo>
-    <delo mojID="44539">
+    <delo mojID="44539" cobiss="14882304">
         <naslov>Toussaint Hočevar (25. 6. 1927–21. 4. 1987)</naslov>
         <cit did="2304" cid="10" avtor0="Granda Stane"
             naslov0="Toussaint Hočevar (25. 6. 1927–21. 4. 1987)" source="Zgodovinski časopis"
@@ -16216,7 +16216,7 @@
             naslov0="Tovarna papirja na Količevem med leti 1920 in 1960" source="Kronika"
             year="1967" volume="15" issue="1" page="23-34"/>
     </delo>
-    <delo mojID="44546">
+    <delo mojID="44546" cobiss="35077730">
         <naslov>Tovarna Peko v času Petra Kozine (1903-1930) : magistrsko delo</naslov>
         <cit did="3290" cid="91" avtor0="Porenta Tita"
             naslov0="Tovarna Peko v času Petra Kozine (1903-1930) : magistrsko delo"
@@ -16239,12 +16239,12 @@
         <cit did="1762" cid="24" avtor0="Burke G." naslov0="Tovms in the Making" pubPlace="London"
             publisher="Edward Arnold" year="1971"/>
     </delo>
-    <delo mojID="44551">
+    <delo mojID="44551" cobiss="54002944">
         <naslov>Tovorništvo</naslov>
         <cit did="2640" cid="45" avtor0="Gestrin Ferdo" naslov0="Tovorništvo"
             source="Zgodovina v šoli" volume="4" page="3-9"/>
     </delo>
-    <delo mojID="44552">
+    <delo mojID="44552" cobiss="936008">
         <naslov>Tovorništvo na Kranjskem</naslov>
         <cit did="2625" cid="125" avtor0="Valenčič Vlado" naslov0="Tovorništvo na Kranjskem"
             source="Zgodovinski časopis" pubPlace="Ljubljana" publisher="Zveza zgodovinskih društev"
@@ -16283,7 +16283,7 @@
             naslov0="Toward a Comparative History of Borderlands" source="Journal of World History"
             year="1997" volume="8" issue="2" page="211-242"/>
     </delo>
-    <delo mojID="44558">
+    <delo mojID="44558" cobiss="317009">
         <naslov>Toward a Feminist Theory of the State</naslov>
         <cit did="106" cid="69" avtor0="MacKinnon C. A."
             naslov0="Toward a Feminist Theory of the State" pubPlace="Cambridge"
@@ -16305,7 +16305,7 @@
             naslov0="Toward a New Concept of Citizenship?"
             source="Law and Transation- Transition in Law" year="2003" page="162-164"/>
     </delo>
-    <delo mojID="44561">
+    <delo mojID="44561" cobiss="2048509244">
         <naslov>Toward a New Psychology of Women</naslov>
         <cit did="106" cid="17" avtor0="Baker Miller, J." naslov0="Toward a New Psychology of Women"
             pubPlace="London in New York" publisher="Penguin" year="1976"/>
@@ -16315,7 +16315,7 @@
         <cit did="3071" cid="93" avtor0="Ulmen Gary" naslov0="Toward a new world order" year="1993"
         />
     </delo>
-    <delo mojID="44563">
+    <delo mojID="44563" cobiss="54250752">
         <naslov>Toward a new world order: the future of NATO</naslov>
         <cit did="3071" cid="50" avtor0="Soros George"
             naslov0="Toward a new world order: the future of NATO" pubPlace="New York"
@@ -16341,7 +16341,7 @@
             naslov0="Toward an Anthropological Demography" pubPlace="Chicago, London"
             publisher="University of Chicago Press" year="1997" page="1-35"/>
     </delo>
-    <delo mojID="44567">
+    <delo mojID="44567" cobiss="20853597">
         <naslov>Toward peace in Bosnia: Implementing the Dayton Accords</naslov>
         <cit did="2669" cid="6" avtor0="Cousens Elizabeth M." avtor1="Cater Charles K."
             naslov0="Toward peace in Bosnia: Implementing the Dayton Accords"
@@ -16528,7 +16528,7 @@
             source="Tesi di dottorato in Storia (antica, medievale, moderna e contemporanea). XIX ciclo."
             pubPlace="Padova" publisher="Universila degli Studi di Padova" year="2006"/>
     </delo>
-    <delo mojID="44601">
+    <delo mojID="44601" cobiss="514484620">
         <naslov>Tra Egitto, Macedonia e Sparta: Pirro un monarca in Epiro</naslov>
         <cit did="1748" cid="1155" avtor0="Zodda D."
             naslov0="Tra Egitto, Macedonia e Sparta: Pirro un monarca in Epiro" pubPlace="Roma"
