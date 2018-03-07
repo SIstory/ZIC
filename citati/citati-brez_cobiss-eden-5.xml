@@ -22005,13 +22005,13 @@
             naslov0="Uputstva za ekshumaciju i identifikaciju ljudskog skeleta: Physicians for human rights. GIK »OKO«"
             pubPlace="Sarajevo" year="1997"/>
     </delo>
-    <delo mojID="45843">
+    <delo mojID="45843" cobiss="297349">
         <naslov>Uradna potovanja Mariborčanov leta 1565</naslov>
         <cit did="2640" cid="128" avtor0="Leskovec A."
             naslov0="Uradna potovanja Mariborčanov leta 1565" source="ČZN" year="1972"
             volume="n.v. 8" page="65-67"/>
     </delo>
-    <delo mojID="45845">
+    <delo mojID="45845" cobiss="17015597">
         <naslov>Uradniška čast v 18. stoletju. Razmere v avstrijski Istri v času vlade
                         Marije Terezije</naslov>
         <cit did="2632" cid="49" avtor0="Holz Eva"
@@ -22019,7 +22019,7 @@
             source="Prispevki z mednarodne konfe-rence Cast: identiteta in dvoumnost neformalnega kodeksa. Sredozemlje 12.-20. stol.:  Acta Histriae"
             pubPlace="Koper" year="2011" volume="9" page="207-224"/>
     </delo>
-    <delo mojID="45846">
+    <delo mojID="45846" cobiss="24506157">
         <naslov>Uradništvo v Linhartovi dobi</naslov>
         <cit did="2018" cid="137" avtor0="Holz E." naslov0="Uradništvo v Linhartovi dobi"
             source="Ivo Svetina et al., Anton Tomaž Linhart (jubilejna monografija ob 250-letnici rojstva)"
@@ -22030,12 +22030,12 @@
         <cit did="453" cid="52" avtor0="Kunic (Cunitz) Marija"
             naslov0="Urania propitae, sive Tabulae astronomicae..." year="0"/>
     </delo>
-    <delo mojID="45848">
+    <delo mojID="45848" cobiss="46027008">
         <naslov>Urarske krošnje in krošnjarjenje</naslov>
         <cit did="3241" cid="303" avtor0="Bučić Vesna" naslov0="Urarske krošnje in krošnjarjenje"
             source="Argo" year="1992"/>
     </delo>
-    <delo mojID="45849">
+    <delo mojID="45849" cobiss="310070">
         <naslov>Urarski rod Oblakov iz Prelesja, Suhega dola in Lučin</naslov>
         <cit did="2396" cid="2" avtor0="Bučič Vesna"
             naslov0="Urarski rod Oblakov iz Prelesja, Suhega dola in Lučin" source="Loški razgledi"
@@ -22091,7 +22091,7 @@
             naslov0="Urban Networks in Russia 1750-1800 and Premodern Periodization"
             pubPlace="Princeton" publisher="Princeton UP" year="1976"/>
     </delo>
-    <delo mojID="45861">
+    <delo mojID="45861" cobiss="37709825">
         <naslov>Urban Social geography : an introduction</naslov>
         <cit did="396" cid="11" avtor0="Knox P." naslov0="Urban Social geography : an introduction"
             pubPlace="Harlow" publisher="Longman" year="1995"/>
@@ -22108,7 +22108,7 @@
         <cit did="2222" cid="4" avtor0="Chiozza Marco" naslov0="Urbanistica e utopia"
             publisher="Bore San Roc" year="2001" issue="13" page="71-80"/>
     </delo>
-    <delo mojID="45865">
+    <delo mojID="45865" cobiss="48105728">
         <naslov>Urbanistički razvitak Dubrovnika</naslov>
         <cit did="312" cid="4" avtor0="Beritić L." naslov0="Urbanistički razvitak Dubrovnika"
             pubPlace="Zagreb" year="1958" page="13-18"/>
@@ -22141,7 +22141,7 @@
             naslov0="Urbanizzazione spaziale e minoranze etniche nel Centro Europa. Atti della Conferenza internazionale sulle minoranze"
             naslov1="vol. 1" pubPlace="Trieste" year="1979"/>
     </delo>
-    <delo mojID="45875">
+    <delo mojID="45875" cobiss="241847296">
         <naslov>Urbano-gradbena in komunalna zgodovina Maribora</naslov>
         <cit did="155" cid="1" avtor0="Curk Jože"
             naslov0="Urbano-gradbena in komunalna zgodovina Maribora" source="Kronika" year="1983"
@@ -22152,17 +22152,17 @@
         <cit did="3241" cid="245" avtor0="Bukovec Alja" naslov0="Urbančičeva hiša v Ljubljana"
             source="Adria Airways In-Flight Magazine" year="2010" issue="3"/>
     </delo>
-    <delo mojID="45878">
+    <delo mojID="45878" cobiss="853257">
         <naslov>Urbar Pazinske grofovije</naslov>
         <cit did="2583" cid="92" avtor0="Klen Danilo" naslov0="Urbar Pazinske grofovije"
             source="VHARiP" year="1969" volume="14" page="51-159"/>
     </delo>
-    <delo mojID="45879">
+    <delo mojID="45879" cobiss="853257">
         <naslov>Urbar Pazinske grofovije (1498)</naslov>
         <cit did="3539" cid="147" avtor0="Klen D." naslov0="Urbar Pazinske grofovije (1498)"
             source="VHARP" year="1969" volume="14"/>
     </delo>
-    <delo mojID="45880">
+    <delo mojID="45880" cobiss="1071409">
         <naslov>Urbari i popisi Lupoglava (1560-1571)</naslov>
         <cit did="3539" cid="148" avtor0="Klen D." naslov0="Urbari i popisi Lupoglava (1560-1571)"
             source="VHARP" pubPlace="Rijeka" year="1973" volume="18" page="5-69"/>
@@ -22176,35 +22176,35 @@
             pubPlace="Zagreb" publisher="Hrvatska akademija znanosti i umjetnosti," year="2008"
             volume="26" page="165-194"/>
     </delo>
-    <delo mojID="45884">
+    <delo mojID="45884" cobiss="3918133">
         <naslov>Urbarji</naslov>
         <cit did="76" cid="5" avtor0="Žižek Aleksander" naslov0="Urbarji" source="Mali tiski ZAC 1"
             pubPlace="Celje" year="1996"/>
     </delo>
-    <delo mojID="45886">
+    <delo mojID="45886" cobiss="32225793">
         <naslov>Urbarji gospoščine Hrastovec 1555-1848</naslov>
         <cit did="2612" cid="45" avtor0="Hernja Masten Marija"
             naslov0="Urbarji gospoščine Hrastovec 1555-1848"
             source="Publikacije Zgodovinskega arhiva Ptuj, Inventarji 5, Zvezek 5" pubPlace="Ptuj"
             year="1993"/>
     </delo>
-    <delo mojID="45888">
+    <delo mojID="45888" cobiss="30947073">
         <naslov>Urbarji Salzburške nadškofije, Srednjeveški urbarji za Slovenijo</naslov>
         <cit did="2612" cid="67" avtor0="Kos Milko"
             naslov0="Urbarji Salzburške nadškofije, Srednjeveški urbarji za Slovenijo"
             pubPlace="Ljubljana" year="1939"/>
     </delo>
-    <delo mojID="45889">
+    <delo mojID="45889" cobiss="988506">
         <naslov>Urbarji Slovenskega Primorja</naslov>
         <cit did="2612" cid="69" avtor0="Kos Milko" naslov0="Urbarji Slovenskega Primorja"
             pubPlace="Ljubljana" publisher="SAZU" year="0"/>
     </delo>
-    <delo mojID="45893">
+    <delo mojID="45893" cobiss="72053">
         <naslov>Urbarji za gospostvo</naslov>
         <cit did="1422" cid="42" avtor0="Trpin Drago" naslov0="Urbarji za gospostvo"
             pubPlace="Tolmin" year="1999" page="180-186"/>
     </delo>
-    <delo mojID="45896">
+    <delo mojID="45896" cobiss="3684397">
         <naslov>Ure v času gotike</naslov>
         <cit did="2631" cid="198" avtor0="Lozar Štamcar M." naslov0="Ure v času gotike"
             source="Gotika V Sloveniji. Svet predmetov" pubPlace="Ljubljana" year="1995"
@@ -22239,20 +22239,20 @@
             naslov0="Urejanje in popisovanje arhivskega gradiva. Temeljna vprašanja metodologije in postopka"
             source="Arhivi" pubPlace="Ljubljana" year="1982" volume="5" issue="1-2" page="5-14"/>
     </delo>
-    <delo mojID="45910">
+    <delo mojID="45910" cobiss="46711552">
         <naslov>Urejanje in popisovanje gradiva rednih sodišč v avstrijskem in
                         jugoslovanskem državnem okviru (od 1850 do danes)</naslov>
         <cit did="2843" cid="71" avtor0="Bizjak Žarko"
             naslov0="Urejanje in popisovanje gradiva rednih sodišč v avstrijskem in jugoslovanskem državnem okviru (od 1850 do danes)"
             source="Arhivi" pubPlace="Ljubljana" year="1993" volume="16" issue="1-2" page="5-10"/>
     </delo>
-    <delo mojID="45911">
+    <delo mojID="45911" cobiss="108818432">
         <naslov>Urejanje prostora za tretje tisočletje</naslov>
         <cit did="1930" cid="25" avtor0="Pogačnik A."
             naslov0="Urejanje prostora za tretje tisočletje" pubPlace="Ljubljana"
             publisher="Študentska založba" year="2000"/>
     </delo>
-    <delo mojID="45912">
+    <delo mojID="45912" cobiss="5518336">
         <naslov>Uresničevanje kadrovske funkcije v organizacijah združenega dela</naslov>
         <cit did="166" cid="19" avtor0="Svetlik Ivan, Tajnšek Pavla"
             naslov0="Uresničevanje kadrovske funkcije v organizacijah združenega dela"
@@ -22304,7 +22304,7 @@
             naslov0="Urkundenbuch des herzogthums Steiermark Steirmark (UBSt) III." pubPlace="Graz"
             year="1903"/>
     </delo>
-    <delo mojID="45924">
+    <delo mojID="45924" cobiss="581765">
         <naslov>Urkundenbuch zur Geschichte der Babenberger in Österreich</naslov>
         <cit did="1395" cid="8" avtor0="Dienst Heide, Lackner Christian"
             naslov0="Urkundenbuch zur Geschichte der Babenberger in Österreich"
@@ -22324,12 +22324,12 @@
             naslov0="Urkundenformeln und Landesbewußtsein. Ein Kapitel zur Geschichte des Pittener Gebietes"
             source="ZHVSt" year="1985" volume="76" page="5-75"/>
     </delo>
-    <delo mojID="45927">
+    <delo mojID="45927" cobiss="512977205">
         <naslov>Urkundenforschung, Methoden, Ziele</naslov>
         <cit did="2627" cid="6" avtor0="Santifaler L." naslov0="Urkundenforschung, Methoden, Ziele"
             pubPlace="Weimar" year="1937"/>
     </delo>
-    <delo mojID="45928">
+    <delo mojID="45928" cobiss="512977205">
         <naslov>Urkundenforschung. Methoden, Ziele, Ergebnisse</naslov>
         <cit did="2629" cid="50" avtor0="Santifaller L."
             naslov0="Urkundenforschung. Methoden, Ziele, Ergebnisse" pubPlace="Weimar" year="1937"/>
@@ -22372,7 +22372,7 @@
             source="Archiv für Kunde österreichischer Geschichtspiellen III." year="0" page="77-157"
         />
     </delo>
-    <delo mojID="45936">
+    <delo mojID="45936" cobiss="62001664">
         <naslov>Urok Južnega morja</naslov>
         <cit did="2295" cid="2" avtor0="Karlin Alma" naslov0="Urok Južnega morja" pubPlace="Celje"
             publisher="Založba Mohorjeva družba Celje" year="1996"/>
@@ -22422,7 +22422,7 @@
             naslov0="U.S., citing human rights, halts economic aid to Yugoslavia"
             source="New York Times" year="1991" issue="19 May" page="A10"/>
     </delo>
-    <delo mojID="45947">
+    <delo mojID="45947" cobiss="35306845">
         <naslov>U.S. Diplomacy since 1900</naslov>
         <cit did="3506" cid="52" avtor0="Schulzinger Robert D." naslov0="U.S. Diplomacy since 1900"
             pubPlace="New York" publisher="Oxford University Press" year="1998"/>
@@ -22524,7 +22524,7 @@
         <cit did="3040" cid="17" avtor0="Litosselitti L." naslov0="Using Focus Groups in Research"
             pubPlace="London - Nevv York" publisher="Continuum" year="2003"/>
     </delo>
-    <delo mojID="45964">
+    <delo mojID="45964" cobiss="19398237">
         <naslov>Using Foucault's Methods</naslov>
         <cit did="2649" cid="42" avtor0="Kendall Gavin" avtor1="Wickham Gary M."
             naslov0="Using Foucault's Methods" pubPlace="London" publisher="Sage" year="1999"/>
@@ -22569,7 +22569,7 @@
         <cit did="3035" cid="8" avtor0="Navratil Janez" naslov0="Uskoki na Kranjskem"
             source="Slovenski glasnik" year="1866" page="14"/>
     </delo>
-    <delo mojID="45974">
+    <delo mojID="45974" cobiss="5067777">
         <naslov>Usmerjeno izobraževanje</naslov>
         <cit did="856" cid="2" avtor0="Valentinčič Jože" naslov0="Usmerjeno izobraževanje"
             naslov1="Temeljne značilnosti in novosti" pubPlace="Ljubljana"
@@ -22614,12 +22614,12 @@
             naslov0="Usnje in kože, Črtice o važni panogi meščanskega gospodarskega življenja"
             source="Kronika slovenskih mest" year="1940" volume="7" page="49-51"/>
     </delo>
-    <delo mojID="45984">
+    <delo mojID="45984" cobiss="3470849">
         <naslov>Usnje in krzno</naslov>
         <cit did="2614" cid="57" avtor0="Pečenko R." avtor1="Cvenkel A." naslov0="Usnje in krzno"
             pubPlace="Kočevje" year="1964"/>
     </delo>
-    <delo mojID="45988">
+    <delo mojID="45988" cobiss="29473837">
         <naslov>Usoda gozdov na Slovenskem do 16. stoletja</naslov>
         <cit did="2780" cid="11" avtor0="Mihelič Darja"
             naslov0="Usoda gozdov na Slovenskem do 16. stoletja" source="Ekonomska ekohistorija"
@@ -22637,18 +22637,18 @@
         <cit did="844" cid="93" avtor0="Korošec Branko" naslov0="Usoda kočevske zemlje med vojno"
             source="Obzornik" year="1983" issue="11-12" page="781-785 in 861-867"/>
     </delo>
-    <delo mojID="45991">
+    <delo mojID="45991" cobiss="849485">
         <naslov>Usoda kočevskih Nemcev</naslov>
         <cit did="844" cid="50" avtor0="Ferenc Mitja" naslov0="Usoda kočevskih Nemcev"
             source="Dokumenti slovenstva" pubPlace="Ljubljana" year="1994" page="354-360"/>
     </delo>
-    <delo mojID="45992">
+    <delo mojID="45992" cobiss="2609716">
         <naslov>Usoda literarne zapuščine dr. Franceta Prešerna</naslov>
         <cit did="3505" cid="124" avtor0="Gspan Anton"
             naslov0="Usoda literarne zapuščine dr. Franceta Prešerna" pubPlace="Maribor Obzorja"
             year="1953"/>
     </delo>
-    <delo mojID="45994">
+    <delo mojID="45994" cobiss="12391937">
         <naslov>Usoda nalezljivih bolezni</naslov>
         <cit did="2610" cid="55" avtor0="Likar Miha" naslov0="Usoda nalezljivih bolezni"
             pubPlace="Ljubljana" publisher="DZS" year="1981"/>
@@ -22659,19 +22659,19 @@
             source="Tehnika in gospodarstvo" pubPlace="Ljubljana" publisher="Društvo Napredek"
             year="1938" issue="1-2" page="13-14"/>
     </delo>
-    <delo mojID="45999">
+    <delo mojID="45999" cobiss="4448589">
         <naslov>Usoda šol na nekdanjem nemškem jezikovnem območju na Kočevskem</naslov>
         <cit did="1443" cid="6" avtor0="Ferenc Mitja"
             naslov0="Usoda šol na nekdanjem nemškem jezikovnem območju na Kočevskem"
             source="Šolska kronika" year="1995" page="148-160"/>
     </delo>
-    <delo mojID="46001">
+    <delo mojID="46001" cobiss="39513442">
         <naslov>Usodna odločenost Bistričanov</naslov>
         <cit did="3530" cid="9" avtor0="Ferenc Mitja" naslov0="Usodna odločenost Bistričanov"
             source="Zbornik občine Slovenska Bistrica III." pubPlace="Slovenska Bistrica"
             year="2009"/>
     </delo>
-    <delo mojID="46005">
+    <delo mojID="46005" cobiss="124179200">
         <naslov>Usodni čas</naslov>
         <cit did="752" cid="10" avtor0="Meze Joža" naslov0="Usodni čas" source="Mladika" year="1999"
             volume="43" issue="10" page="231-233"/>
@@ -22705,7 +22705,7 @@
             naslov0="Uspešen odpor proti prisilnemu vprašanju" source="Pričevanja"
             pubPlace="Celovec-Ljubljana-Dunaj" year="1996" page="39-52"/>
     </delo>
-    <delo mojID="46012">
+    <delo mojID="46012" cobiss="4208969">
         <naslov>Uspešna prenova terja enakopravnejši položaj "alternativne" raziskovalne
                         paradigme in učitelja raziskovalca</naslov>
         <cit did="702" cid="18" avtor0="Marentič-Požarnik Barica"
@@ -22731,7 +22731,7 @@
             source="Međunarodni problemi" pubPlace="Beograd" year="1953" volume="4" issue="24"
             page="4-24"/>
     </delo>
-    <delo mojID="46017">
+    <delo mojID="46017" cobiss="3075081">
         <naslov>Uspomene iz Hrvatske</naslov>
         <cit did="3184" cid="3" avtor0="Tkalac Imbro" naslov0="Uspomene iz Hrvatske"
             pubPlace="Zagreb" publisher="Matica Hrvatska" year="1945"/>
@@ -22783,7 +22783,7 @@
             naslov0="Ustanavljanje umetnostnih akademij v Ljubljani na pragu 18. stoletja. Statut Acade-miae trium Artium in Academiae incultorum"
             source="Acta historiae artis Slovenka" year="2001" volume="6" page="67-82"/>
     </delo>
-    <delo mojID="46031">
+    <delo mojID="46031" cobiss="1102315358">
         <naslov>Ustanovitelj Dom in Sveta</naslov>
         <cit did="2635" cid="51" avtor0="Kalan Andrej" naslov0="Ustanovitelj Dom in Sveta"
             source="Dom in svet" year="1917" page="2"/>
@@ -22796,7 +22796,7 @@
             source="Delavske zbornice, kolektivne pogodbe in soupravljanje" pubPlace="Ljubljana"
             year="1991" page="5-6"/>
     </delo>
-    <delo mojID="46033">
+    <delo mojID="46033" cobiss="27109943">
         <naslov>Ustanovitev in prva leta Dolenjskega muzeja</naslov>
         <cit did="891" cid="33" avtor0="Tončič Ludvik"
             naslov0="Ustanovitev in prva leta Dolenjskega muzeja"
@@ -22809,7 +22809,7 @@
             naslov0="Ustanovitev in žaloigra Slovenskega domobranstva" source="Tabor"
             pubPlace="Buenos Aires" year="1970" issue="5-9"/>
     </delo>
-    <delo mojID="46036">
+    <delo mojID="46036" cobiss="484980">
         <naslov>Ustanovitev Inštituta za zgodovino delavskega gibanja</naslov>
         <cit did="2299" cid="5" avtor0="Gabrič Aleš"
             naslov0="Ustanovitev Inštituta za zgodovino delavskega gibanja" source="PNZ" year="1997"
@@ -22820,7 +22820,7 @@
         <cit did="172" cid="1" avtor0="Gombač Boris" naslov0="Ustanovitev JSDS v Trstu"
             source="Jadranski koledar" year="1976" page="205"/>
     </delo>
-    <delo mojID="46038">
+    <delo mojID="46038" cobiss="10879842">
         <naslov>Ustanovitev narodne stranke na Štajerskem</naslov>
         <cit did="1512" cid="14" avtor0="Cvirn Janez"
             naslov0="Ustanovitev narodne stranke na Štajerskem"
@@ -22834,7 +22834,7 @@
             naslov0="Ustanovitev političnega društva Edinost in prvo desetletje njegovega obstoja"
             source="Jadranski koledar" year="1975" page="164-171"/>
     </delo>
-    <delo mojID="46044">
+    <delo mojID="46044" cobiss="492830">
         <naslov>Ustanovitev prve slovenske narodne - ljudske vlade v Ajdovščini</naslov>
         <cit did="1364" cid="8" avtor0="Čepič Zdenko"
             naslov0="Ustanovitev prve slovenske narodne - ljudske vlade v Ajdovščini"
@@ -22874,14 +22874,14 @@
             source="Prispevki za zgodovino delavskega gibanja" pubPlace="Ljubljana" year="1974"
             volume="14" issue="1/2" page="54"/>
     </delo>
-    <delo mojID="46054">
+    <delo mojID="46054" cobiss="6447368">
         <naslov>Ustanovitev 'Yugoslav Emergency Council' v New Yorku: zapisi</naslov>
         <cit did="2837" cid="96" avtor0="Vovko Andrej"
             naslov0="Ustanovitev 'Yugoslav Emergency Council' v New Yorku: zapisi"
             source="Zgodovinski časopis" pubPlace="Ljubljana" year="1987" volume="41" issue="3"
             page="523–527"/>
     </delo>
-    <delo mojID="46055">
+    <delo mojID="46055" cobiss="60794624">
         <naslov>Ustanovitev zavoda sv. Stanislava in prve popolne slovenske
                         gimnazije</naslov>
         <cit did="2866" cid="23" avtor0="Gabrovec Stane"
@@ -22906,7 +22906,7 @@
         <cit did="2645" cid="41" avtor0="Vorländer Hans" naslov0="Ustav kao simbol i instrument"
             source="Politička misao" year="2001" volume="38" issue="4" page="53-60"/>
     </delo>
-    <delo mojID="46065">
+    <delo mojID="46065" cobiss="29115392">
         <naslov>Ustava republike Slovenije</naslov>
         <cit did="211" cid="26" avtor0="Ude Lojze, Grad Franc, Cerar Miro ml."
             naslov0="Ustava republike Slovenije"
@@ -22923,7 +22923,7 @@
         <cit did="1317" cid="153" avtor0="Melik Vasilij" naslov0="Ustavna doba in Slovenci"
             source="Slovenska kronika XIX. Stoletja 1861-1883" pubPlace="Ljubljana" year="2003"/>
     </delo>
-    <delo mojID="46073">
+    <delo mojID="46073" cobiss="840052">
         <naslov>Ustavna reforma leta 1953 in nacionalno vprašanje. V: Slovenija 1848-1998 :
                         iskanje lastne poti</naslov>
         <cit did="465" cid="3" avtor0="Režek Mateja"
@@ -22940,8 +22940,8 @@
         <naslov>Ustavni problem naše države</naslov>
         <cit did="2142" cid="2" avtor0="Jeraj Josip" naslov0="Ustavni problem naše države"
             source="Socialna misel" year="1923" page="129-135"/>
-    </delo>
-    <delo mojID="46079">
+    </delo> 
+    <delo mojID="46079" cobiss="105600768">
         <naslov>Ustavno kazensko procesno pravo: sodni primeri, dokumenti, komentarji in
                         gradiva s področja ustavnega in mednarodnega kazenskega procesnega prava
                         slovenskih, evropskih, severnoameriških in mednarodnih sodišč</naslov>
@@ -22949,13 +22949,13 @@
             naslov0="Ustavno kazensko procesno pravo: sodni primeri, dokumenti, komentarji in gradiva s področja ustavnega in mednarodnega kazenskega procesnega prava slovenskih, evropskih, severnoameriških in mednarodnih sodišč"
             pubPlace="Ljubljana" publisher="Pasadena" year="2000"/>
     </delo>
-    <delo mojID="46080">
+    <delo mojID="46080" cobiss="514859">
         <naslov>Ustavno pravo</naslov>
         <cit did="2851" cid="3" avtor0="Nikolić Pavle" naslov0="Ustavno pravo"
             naslov1="Treće izmenjeno izdanje" pubPlace="Beograd"
             publisher="Novinsko-izdavačka ustanova Službeni list SRJ" year="1994"/>
     </delo>
-    <delo mojID="46081">
+    <delo mojID="46081" cobiss="16788225">
         <naslov>Ustavno pravo i političke institucije</naslov>
         <cit did="291" cid="33" avtor0="Mratović Veljko, Filipović Nikola" avtor1="Sokol Smiljko"
             naslov0="Ustavno pravo i političke institucije" pubPlace="Zagreb" year="1986" page="342"
@@ -22968,7 +22968,7 @@
             source="Ustavnopravni položaj autonomnih pokrajina u SFRJ." pubPlace="Beograd"
             publisher="Izdavačka radna organizacija Rad" year="1982" page="483–518"/>
     </delo>
-    <delo mojID="46087">
+    <delo mojID="46087" cobiss="3467276">
         <naslov>Ustavnopravni položaj pripadnika albanske nacionalnosti u
                         Jugoslaviji</naslov>
         <cit did="2851" cid="18" avtor0="Jovičić Miodrag"
@@ -22977,7 +22977,7 @@
             pubPlace="Beograd" publisher="Srpska akademija nauka i umetnosti" year="1991"
             page="137-155"/>
     </delo>
-    <delo mojID="46088">
+    <delo mojID="46088" cobiss="29181952">
         <naslov>Ustavnopravni vidiki osamosvajanja Slovenije</naslov>
         <cit did="2382" cid="8" avtor0="Ribičič Ciril"
             naslov0="Ustavnopravni vidiki osamosvajanja Slovenije" pubPlace="Ljubljana" year="1992"
@@ -23001,7 +23001,7 @@
         <cit did="1655" cid="6" avtor0="Crljen Danijel" naslov0="Ustaški put Hrvatske"
             source="Hrvatski narod" year="2061" issue="1228" page="7"/>
     </delo>
-    <delo mojID="46099">
+    <delo mojID="46099" cobiss="236568320">
         <naslov>Ustna zgodovina v osnovni šoli</naslov>
         <cit did="2464" cid="7" avtor0="Kukanja Mojca" naslov0="Ustna zgodovina v osnovni šoli"
             source="Zgodovinski časopis" year="2006" volume="60" issue="3-4"/>
@@ -23024,7 +23024,7 @@
             naslov0="Ustoličevanje koroških vojvod - Die Kärntner Herzogseinsetzung"
             source="Carinthia I" year="1954" volume="114"/>
     </delo>
-    <delo mojID="46105">
+    <delo mojID="46105" cobiss="103547648">
         <naslov>Ustoličevanje koroških vojvod: najstarejša upodobitev 1480</naslov>
         <cit did="2448" cid="28" avtor0="Štih Peter"
             naslov0="Ustoličevanje koroških vojvod: najstarejša upodobitev 1480"
@@ -23038,7 +23038,7 @@
             source="Radovi Zavoda za povijesne znanosti HAZU u Zadru" pubPlace="Zadar"
             publisher="Zavod za povijesne znanosti HAZU u Zadru" year="1999" volume="41"/>
     </delo>
-    <delo mojID="46108">
+    <delo mojID="46108" cobiss="1533556">
         <naslov>Ustroj kopnene vojske domobranstva Nezavisne Države Hrvatske,
                         1941.-1945.</naslov>
         <cit did="1464" cid="5" avtor0="Barić Nikica"
@@ -23072,7 +23072,7 @@
             naslov0="Ustvarjalni odnos do svojega življenja in usode - skrivnost kakovostne starosti"
         />
     </delo>
-    <delo mojID="46115">
+    <delo mojID="46115" cobiss="116130816">
         <naslov>Ustvarjalni človek</naslov>
         <cit did="2986" cid="11" avtor0="Neumann Erich" naslov0="Ustvarjalni človek"
             pubPlace="Ljubljana" publisher="Študentska založba" year="2001"/>
@@ -23089,7 +23089,7 @@
         <cit did="279" cid="36" avtor0="Fried István" naslov0="Utak a komparatisztikában"
             source="Utak a komparatisztikában" pubPlace="Szeged" year="1997" page="3"/>
     </delo>
-    <delo mojID="46120">
+    <delo mojID="46120" cobiss="22911232">
         <naslov>Utapljanje v Demosu</naslov>
         <cit did="2712" cid="155" avtor0="Rus Veljko" naslov0="Utapljanje v Demosu"
             source="Delo SP, 8. 9. 1990" year="1990"/>
@@ -23107,7 +23107,7 @@
             pubPlace="Ljubljana" publisher="Slovenska  akademija znanosti in umetnosti" year="2007"
             page="7-8"/>
     </delo>
-    <delo mojID="46123">
+    <delo mojID="46123" cobiss="4201996">
         <naslov>Uticaj helenske kulture kao faktor razvoja na teritorijama Tribala i
                         Dardanaca u vremenu od VI do IV veka pre nove ere sa osvrtom na pojavu i
                         upotrebu novca</naslov>
@@ -23154,19 +23154,19 @@
             source="Utopični socialisti Izbor besedil" pubPlace="Ljubljana" publisher="CZ"
             year="1979"/>
     </delo>
-    <delo mojID="46137">
+    <delo mojID="46137" cobiss="218903296">
         <naslov>Utrdbi pod Rombonom - predstraža soške fronte</naslov>
         <cit did="2015" cid="33" avtor0="Simič M."
             naslov0="Utrdbi pod Rombonom - predstraža soške fronte" pubPlace="Ljubljana"
             publisher="Založba Rombon" year="2005"/>
     </delo>
-    <delo mojID="46138">
+    <delo mojID="46138" cobiss="218903296">
         <naslov>Utrdbi pred Rombonom - predstraža soške fronte</naslov>
         <cit did="1662" cid="116" avtor0="Simič Marko"
             naslov0="Utrdbi pred Rombonom - predstraža soške fronte" pubPlace="Ljubljana"
             year="2005"/>
     </delo>
-    <delo mojID="46142">
+    <delo mojID="46142" cobiss="9323061">
         <naslov>Utrinki iz gospodarske preteklosti Vojnika</naslov>
         <cit did="1540" cid="8" avtor0="Počivavšek Marija"
             naslov0="Utrinki iz gospodarske preteklosti Vojnika"
@@ -23197,12 +23197,12 @@
             naslov0="Utrinki iz spominov" source="Prežihova svečanost" pubPlace="Ravne na Koroškem"
             year="1979" page="119-122"/>
     </delo>
-    <delo mojID="46148">
+    <delo mojID="46148" cobiss="15860018">
         <naslov>Utrinki iz zaledja</naslov>
         <cit did="3161" cid="101" avtor0="Tušar Brane" naslov0="Utrinki iz zaledja"
             source="Na fronti" year="2004" issue="3" page="43"/>
     </delo>
-    <delo mojID="46151">
+    <delo mojID="46151" cobiss="220865792">
         <naslov>Utrinki ugaslih sanj</naslov>
         <cit did="1509" cid="193" avtor0="Gantar Kajetan" naslov0="Utrinki ugaslih sanj"
             pubPlace="Ljubljana" year="2005"/>
@@ -23213,7 +23213,7 @@
             naslov0="Utriusque Siciliae Constitutiones, Capitula, Ritus et Pragmaticae"
             pubPlace="Venezia" year="0"/>
     </delo>
-    <delo mojID="46154">
+    <delo mojID="46154" cobiss="228174592">
         <naslov>Utrjena Ljubljana - žični obroč okrog Ljubljane 1942-1945</naslov>
         <cit did="2015" cid="15" avtor0="Jankovič Potočnik  A."
             naslov0="Utrjena Ljubljana - žični obroč okrog Ljubljane 1942-1945"
@@ -23232,7 +23232,7 @@
             naslov0="Utrjevanje stikov z avstrijskimi protifašisti"
             source="Vestnik koroških partizanov" year="1978" issue="2-4" page="43-44"/>
     </delo>
-    <delo mojID="46159">
+    <delo mojID="46159" cobiss="1856608">
         <naslov>Utvrdena ilirska naselja (I). Delmatske gradine na Duvanjskom polju, Buškom
                         blatu, Livanjskom i Glamočkom polju</naslov>
         <cit did="1748" cid="70" avtor0="Banac A."
