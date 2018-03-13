@@ -24848,7 +24848,7 @@
             naslov0="Vdine illvstrata da molli suoi cittadini. 1645" pubPlace="Bologna"
             publisher="Arnaldo Forni editore" year="1977"/>
     </delo>
-    <delo mojID="46547">
+    <delo mojID="46547" cobiss="10884450">
         <naslov>Vede</naslov>
         <cit did="1626" cid="94" avtor0="Cvirn Janez" naslov0="Vede"
             source="Slovenska kronika XX. stoletja: 1900-1941" pubPlace="Ljubljana" year="1995"
@@ -24865,14 +24865,14 @@
             source="Obzornik za matematiko in fiziko 5/3" pubPlace="Ljubljana"
             publisher="Društvo matematikov, fizikov in astronomov" year="1957" page="97-100"/>
     </delo>
-    <delo mojID="46557">
+    <delo mojID="46557" cobiss="8899149">
         <naslov>Veiled Half-truths: Western Travellers’ Perceptions of Middle Eastern
                         Women</naslov>
         <cit did="2738" cid="30" avtor0="Mabro Judy"
             naslov0="Veiled Half-truths: Western Travellers’ Perceptions of Middle Eastern Women"
             pubPlace="London, New York" publisher="I.B, Tauris" year="1996"/>
     </delo>
-    <delo mojID="46560">
+    <delo mojID="46560" cobiss="24722945">
         <naslov>Veleizdajnik</naslov>
         <cit did="2178" cid="5" avtor0="Tartaglia O." naslov0="Veleizdajnik" pubPlace="Split"
             year="1928" page="75"/>
@@ -24883,7 +24883,7 @@
             source="20 let visokega šolstva združenega v Univerzo v Mariboru" pubPlace="Maribor"
             publisher="Univerza" year="1979" page="99-101"/>
     </delo>
-    <delo mojID="46566">
+    <delo mojID="46566" cobiss="130676">
         <naslov>Velik moment, Politično razmišljanje ob veselem preobratu v deželi
                         Kranjski</naslov>
         <cit did="1878" cid="5" avtor0="Kalan Janez"
@@ -24926,7 +24926,7 @@
             naslov0="Velika gospodarska kriza leta 1873 in Slovenci : o gospodarskih in socialnih nazorih na Slovenskem v 19. stoletju"
             pubPlace="Ljubljana" year="2006" page="263-280"/>
     </delo>
-    <delo mojID="46579">
+    <delo mojID="46579" cobiss="62846976">
         <naslov>Velika industrija v Kranju med obema vojnama</naslov>
         <cit did="422" cid="35" avtor0="Šorn Jože"
             naslov0="Velika industrija v Kranju med obema vojnama"
@@ -24938,27 +24938,27 @@
         <cit did="1602" cid="10" avtor0="Furlan Tomaž" naslov0="Velika iznajdba"
             source="Delo proti tuberkulozi" year="1940" volume="6" issue="4" page="57-60"/>
     </delo>
-    <delo mojID="46581">
+    <delo mojID="46581" cobiss="372012">
         <naslov>Velika knjiga o praznikih</naslov>
         <cit did="1540" cid="16" avtor0="Ovsec Damjan J." naslov0="Velika knjiga o praznikih"
             pubPlace="Ljubljana" year="1992"/>
     </delo>
-    <delo mojID="46585">
+    <delo mojID="46585" cobiss="25870081">
         <naslov>Velika preizkušnja</naslov>
         <cit did="1510" cid="92" avtor0="Zakonjšek Rado" naslov0="Velika preizkušnja"
             pubPlace="Ljubljana" year="1977" page="27"/>
     </delo>
-    <delo mojID="46590">
+    <delo mojID="46590" cobiss="3556614">
         <naslov>Velika Srbija</naslov>
         <cit did="531" cid="48" avtor0="Ćorović Vladimir" naslov0="Velika Srbija" pubPlace="Beograd"
             year="1924" page="88"/>
     </delo>
-    <delo mojID="46591">
+    <delo mojID="46591" cobiss="6957101">
         <naslov>Velika Star vas</naslov>
         <cit did="2586" cid="27" avtor0="Slabe M." naslov0="Velika Star vas" source="Arh. vest."
             pubPlace="Črnomelj" year="1977" volume="28" page="110-113"/>
     </delo>
-    <delo mojID="46592">
+    <delo mojID="46592" cobiss="877598">
         <naslov>Velika zarota, Diplomatska igra okrog nove Jugoslavije</naslov>
         <cit did="1782" cid="251" avtor0="Nesović Slobodan"
             naslov0="Velika zarota, Diplomatska igra okrog nove Jugoslavije" pubPlace="Ljubljana"
@@ -24972,7 +24972,7 @@
             naslov0="Velikaya shakhmatnaya doska. Gospodstwo Ameriki y ego geostrategicheskie imperativy (The Grand Chessboard: American Primacy and Its Geostrategic Imperatives)"
             pubPlace="Moskva" publisher="Mejdunarodnie otnoshenie" year="2003"/>
     </delo>
-    <delo mojID="46594">
+    <delo mojID="46594" cobiss="36477953">
         <naslov>Veliki adresar samoupravnih mest Maribor, Celje, Ptuj in občin bivše
                         Mariborske oblasti</naslov>
         <cit did="3322" cid="3" avtor0="Pčel'nokov Andrej"
@@ -24985,7 +24985,7 @@
             naslov1="Zgodovinski roman" source="Detela Fran: Zbrana dela, II. knjiga"
             pubPlace="Ljubljana" publisher="Mohorjeva družba v Celju" year="1963"/>
     </delo>
-    <delo mojID="46598">
+    <delo mojID="46598" cobiss="3002398">
         <naslov>Veliki italijansko-slovenski slovar. Il grande dizionario
                         italiano-sloveno</naslov>
         <cit did="1984" cid="16" avtor0="Šlenc S."
@@ -25005,7 +25005,7 @@
             naslov0="Veliki oder sveta (El gran teatro del mundo)" source="Dom in svet"
             pubPlace="Ljubljana" year="1942" volume="54" issue="1-2" page="47-59"/>
     </delo>
-    <delo mojID="46603">
+    <delo mojID="46603" cobiss="512094335">
         <naslov>Veliki pok : multimedijska umetnost in alternativna scena v prvi polovici
                         osemdesetih let</naslov>
         <cit did="856" cid="5" avtor0="Španjol Igor"
@@ -25019,32 +25019,32 @@
             source="Istorija srpskog naroda : Doba borbi za očuvanje i obnova države (1371-1537) : Drugi zvezek"
             pubPlace="Beograd" year="1982" page="64-84"/>
     </delo>
-    <delo mojID="46606">
+    <delo mojID="46606" cobiss="207666">
         <naslov>Veliki punt</naslov>
         <cit did="1768" cid="18" avtor0="Remec Alojzij" naslov0="Veliki punt" pubPlace="Celje"
             year="1953" page="11"/>
     </delo>
-    <delo mojID="46608">
+    <delo mojID="46608" cobiss="77087744">
         <naslov>Veliki splošni leksikon</naslov>
         <cit did="2793" cid="53" naslov0="Veliki splošni leksikon" pubPlace="Ljubljana"
             publisher="DZS" year="1998"/>
     </delo>
-    <delo mojID="46609">
+    <delo mojID="46609" cobiss="21335389">
         <naslov>Veliki svetovni biografski leksikon</naslov>
         <cit did="880" cid="1" avtor0="Antič Igor" naslov0="Veliki svetovni biografski leksikon"
             pubPlace="Ljubljana" publisher="Mladinska knjiga" year="2002"/>
     </delo>
-    <delo mojID="46610">
+    <delo mojID="46610" cobiss="6241025">
         <naslov>Veliki testament</naslov>
         <cit did="2149" cid="23" avtor0="Villon Francois" naslov0="Veliki testament"
             pubPlace="Ljubljana" publisher="Državna založba Slovenije" year="1970"/>
     </delo>
-    <delo mojID="46611">
+    <delo mojID="46611" cobiss="240523264">
         <naslov>Veliki tolminski kmečki punt</naslov>
         <cit did="1425" cid="3" avtor0="Grafenauer Bogo" naslov0="Veliki tolminski kmečki punt"
             source="Kronika" year="1954" volume="2" page="81-89"/>
     </delo>
-    <delo mojID="46612">
+    <delo mojID="46612" cobiss="7974145">
         <naslov>Veliki tolminski punt leta 1713</naslov>
         <cit did="1425" cid="4" avtor0="Marušič Branko" naslov0="Veliki tolminski punt leta 1713"
             pubPlace="Trst" publisher="Založništvo tržaškega tiska" year="1973"/>
@@ -25055,7 +25055,7 @@
             source="Dokumenti slovenstva" pubPlace="Ljubljana" publisher="Cankarjeva založba"
             year="1994" page="136-139"/>
     </delo>
-    <delo mojID="46616">
+    <delo mojID="46616" cobiss="68740352">
         <naslov>Veliki zjot, bakreno</naslov>
         <cit did="2584" cid="49" avtor0="Leben F." naslov0="Veliki zjot, bakreno"
             source="Poročilo o razikovanju paleolita. neolita in eneolita v Sloveniji"
@@ -25073,7 +25073,7 @@
             source="Jeruzalem-Kairo (spomini 1942-1945)" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="1986" page="351-370"/>
     </delo>
-    <delo mojID="46619">
+    <delo mojID="46619" cobiss="22531584">
         <naslov>Veliko pismo slovenske duhovne združitve</naslov>
         <cit did="2314" cid="19" avtor0="Žigon Joka"
             naslov0="Veliko pismo slovenske duhovne združitve" pubPlace="Ljubljana"
@@ -25085,7 +25085,7 @@
             naslov0="Veliko zborovanje agrarnih interesentov na Prevaljah"
             naslov1="Zborovala je Jazbina, ki si je pridobila Požganico" source="LdP" year="1945"/>
     </delo>
-    <delo mojID="46621">
+    <delo mojID="46621" cobiss="2126730">
         <naslov>Velikobugarske pretenzije od San Stefana do danas</naslov>
         <cit did="2715" cid="2" avtor0="Apostolski Mihailo"
             naslov0="Velikobugarske pretenzije od San Stefana do danas" pubPlace="Beograd"
@@ -25149,7 +25149,7 @@
             source="Forschungen zur geschichtlichen Landeskunde der Steiermark" pubPlace="Graz"
             year="1978"/>
     </delo>
-    <delo mojID="46635">
+    <delo mojID="46635" cobiss="18671458">
         <naslov>Venancij Fortunat in shizma Treh Poglavij</naslov>
         <cit did="2171" cid="33" avtor0="Bratož Rajko"
             naslov0="Venancij Fortunat in shizma Treh Poglavij" source="ZČ" year="2001" volume="55"
@@ -25215,7 +25215,7 @@
             naslov0="Venetiae : determinazione di un' area regionale fra antichita e alto medioevo"
             pubPlace="Treviso" publisher="Fondazione Benetton studi ricerche - Canova" year="1994"/>
     </delo>
-    <delo mojID="46647">
+    <delo mojID="46647" cobiss="1127123">
         <naslov>Venetian influences in the eastern Adriatic hinterland</naslov>
         <cit did="1944" cid="2" avtor0="Bikić V."
             naslov0="Venetian influences in the eastern Adriatic hinterland"
@@ -25230,7 +25230,7 @@
             publisher="Hellenic ministry of culture, Directorate of byzantine monuments" year="2002"
         />
     </delo>
-    <delo mojID="46649">
+    <delo mojID="46649" cobiss="1112787">
         <naslov>Venetians in Constantinople: Nation, Identity, and Coexistence in the Early
                         Modern Mediterranean</naslov>
         <cit did="2111" cid="15" avtor0="Dursteler E."
@@ -25335,7 +25335,7 @@
             naslov0="Venezia Giulia e fascismo: alcune ipotesi storiografiche" source="Qualestoria"
             year="1988" volume="16" issue="2" page="39-60"/>
     </delo>
-    <delo mojID="46673">
+    <delo mojID="46673" cobiss="4485937">
         <naslov>Venezia Giulia : Lineamenti di una storia etnica e culturale e il contesto
                         storico-politico</naslov>
         <cit did="1317" cid="188" avtor0="Sestan Ernesto"
@@ -25419,13 +25419,13 @@
             naslov0="Venice and Venetia under the Habsburgs. 1815-1835" pubPlace="Oxford"
             publisher="Oxford University Press" year="2002"/>
     </delo>
-    <delo mojID="46689">
+    <delo mojID="46689" cobiss="18300677">
         <naslov>Venice &amp; antiquity: the Venetian sense of the past</naslov>
         <cit did="1930" cid="5" avtor0="Fortini Brown P."
             naslov0="Venice &amp; antiquity: the Venetian sense of the past"
             pubPlace="New Haven-London" publisher="Yale University Press" year="1997"/>
     </delo>
-    <delo mojID="46690">
+    <delo mojID="46690" cobiss="6896654">
         <naslov>Venice, Austria and the Turks in the Seventeenth Century</naslov>
         <cit did="261" cid="16" avtor0="Setton K.M."
             naslov0="Venice, Austria and the Turks in the Seventeenth Century"
@@ -25444,7 +25444,7 @@
             source="Venezia centro di mediazione tra Oriente e Occidente (secoli XV-XVI): aspetti e problemi"
             pubPlace="Firenze" year="1977"/>
     </delo>
-    <delo mojID="46693">
+    <delo mojID="46693" cobiss="8932657">
         <naslov>...Vennero dal cielo, 185 fotografie di Zara distrutta 1943-1944</naslov>
         <cit did="1782" cid="320" avtor0="Talpo Oddone" avtor1="Brcic Sergio"
             naslov0="...Vennero dal cielo, 185 fotografie di Zara distrutta 1943-1944"
@@ -25461,13 +25461,13 @@
             source="Primorski slovenski biografski leksikon, zv. 17" pubPlace="Gorica"
             publisher="Goriška Mohorjeva družba" year="1991" page="180"/>
     </delo>
-    <delo mojID="46697">
+    <delo mojID="46697" cobiss="872201">
         <naslov>Venti secoli di bora sul Carso e sul golfo</naslov>
         <cit did="3078" cid="1" avtor0="Cusin F."
             naslov0="Venti secoli di bora sul Carso e sul golfo" pubPlace="Trieste"
             publisher="Gabbiano" year="1952"/>
     </delo>
-    <delo mojID="46698">
+    <delo mojID="46698" cobiss="2655537">
         <naslov>Ventinove mesi di occupazione italiana nella provincia di Lubiana :
                         Considerazioni e documenti</naslov>
         <cit did="1179" cid="15" avtor0="Piemontese Giuseppe"
@@ -25501,7 +25501,7 @@
             source="Študije o Primožu Trubarju in njegovem času" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="2009" page="67-103"/>
     </delo>
-    <delo mojID="46705">
+    <delo mojID="46705" cobiss="55146240">
         <naslov>Verbal hygiene</naslov>
         <cit did="3255" cid="2" avtor0="Cameron Deborah" naslov0="Verbal hygiene"
             pubPlace="London, New York" publisher="Routledge" year="1995"/>
@@ -25562,7 +25562,7 @@
         <cit did="2010" cid="26" avtor0="Schmitt  C." naslov0="Verfassungslehre" pubPlace="Berlin"
             publisher="Duncker &amp; Humblot" year="1954"/>
     </delo>
-    <delo mojID="46719">
+    <delo mojID="46719" cobiss="1409236">
         <naslov>Verfassungsrecht und Minderheitenschutz</naslov>
         <cit did="2653" cid="1" avtor0="Adamovich Ludwig"
             naslov0="Verfassungsrecht und Minderheitenschutz"
@@ -25571,7 +25571,7 @@
             publisher="Amt der Kärntner Landesregierung Abteilung 1 (Kärnten Dokumentation, l). Landesamtsdirektion Volksgruppenbüro, Dokumentationsstelle für Zeitgeschichte"
             year="2006" page="9-16"/>
     </delo>
-    <delo mojID="46720">
+    <delo mojID="46720" cobiss="4973645">
         <naslov>Verfassungsrechtslage und Rechtswirklichkeit der Volksgruppen und
                         Sprachminderheiten in Österreich 1918-1938</naslov>
         <cit did="2689" cid="21" avtor0="Veiter Theodor"
@@ -25704,7 +25704,7 @@
             naslov0="Verleugnet, verdrängt, verschwiegen. Die seelischen Auswirkungen der Nazizeit und Wege zu ihrer Überwindung"
             pubPlace="München" publisher="Kösel" year="2005"/>
     </delo>
-    <delo mojID="46742">
+    <delo mojID="46742" cobiss="513533836">
         <naslov>Verleumdet? Verfolgt? Vertrieben? Zur Stellung des slowenischen Klerus in
                         Karnten zwischen den Jahren 1914 und 1921</naslov>
         <cit did="2564" cid="20" avtor0="Tropper Peter G."
@@ -25754,7 +25754,7 @@
             avtor1="Nadbath Barbara" naslov0="Vernek" source="Varstvo spomenikov : poročila"
             year="2009" volume="46" page="404-406"/>
     </delo>
-    <delo mojID="46751">
+    <delo mojID="46751" cobiss="1595981">
         <naslov>Verom protiv vere : država i verske zajednice u Srbiji 1945-1953</naslov>
         <cit did="826" cid="97" avtor0="Radić Radmila"
             naslov0="Verom protiv vere : država i verske zajednice u Srbiji 1945-1953"
@@ -25787,7 +25787,7 @@
         <cit did="236" cid="53" avtor0="Wolf-Leitenberga Johanna" naslov0="Veronike von Teschintz"
             pubPlace="Gradec" year="0"/>
     </delo>
-    <delo mojID="46759">
+    <delo mojID="46759" cobiss="44598016">
         <naslov>Verouk v šoli 1945-1952 : odnos oblasti do pouka verouka na ljubljanskih
                         šolah</naslov>
         <cit did="826" cid="131" avtor0="Šuštar Branko"
@@ -25832,30 +25832,30 @@
             naslov0="Versi l'Est da Sforza ad Andreottti" source="Il Piccolo" year="1989"
             issue="(21. 10. 1989)"/>
     </delo>
-    <delo mojID="46767">
+    <delo mojID="46767" cobiss="24933639">
         <naslov>Versions of History</naslov>
         <cit did="863" cid="12" avtor0="Kelley R. Donald" naslov0="Versions of History"
             naslov1="From Antiquity to the Enlightment" pubPlace="New Haven" year="1991" page="199"
         />
     </delo>
-    <delo mojID="46768">
+    <delo mojID="46768" cobiss="24933639">
         <naslov>Versions of history : From Antiquity to the Enlightenment</naslov>
         <cit did="272" cid="268" avtor0="Kelley Donald R."
             naslov0="Versions of history : From Antiquity to the Enlightenment" pubPlace="New Haven"
             publisher="Yale University Press" year="1991" page="199"/>
     </delo>
-    <delo mojID="46769">
+    <delo mojID="46769" cobiss="55647233">
         <naslov>Verska anketa u Beogradu i njeni zaključci</naslov>
         <cit did="2769" cid="21" avtor0="Kušej Rado"
             naslov0="Verska anketa u Beogradu i njeni zaključci" pubPlace="Ljubljana"
             publisher="Samozaložba" year="1922"/>
     </delo>
-    <delo mojID="46771">
+    <delo mojID="46771" cobiss="1993818">
         <naslov>Verska komisija v letih 1944-1966</naslov>
         <cit did="1829" cid="15" avtor0="Krivec Damjana" naslov0="Verska komisija v letih 1944-1966"
             pubPlace="Ljubljana" year="1998" page="54"/>
     </delo>
-    <delo mojID="46772">
+    <delo mojID="46772" cobiss="4204062">
         <naslov>Verska umetnost 20. stoletja</naslov>
         <cit did="1856" cid="9" avtor0="Debevec L." naslov0="Verska umetnost 20. stoletja"
             source="Cerkev na Slovenskem v 20. stoletju" pubPlace="Ljubljana" year="2002" page="436"
@@ -25887,7 +25887,7 @@
             naslov1="Atti e documenti del CLNAI 1943/1946" pubPlace="Milano" publisher="Feltrinelli"
             year="1977"/>
     </delo>
-    <delo mojID="46784">
+    <delo mojID="46784" cobiss="1922164">
         <naslov>Verso l'estate del 17</naslov>
         <cit did="1315" cid="6" avtor0="Unia Gerardo" naslov0="Verso l'estate del 17"
             pubPlace="Cuneo" publisher="Nerosubianco edizioni" year="2003"/>
@@ -25899,18 +25899,18 @@
             naslov0="Verstehen sie Šport? Eine Studie über die Probleme interkultureller Arbeit bei ausgewählten slowenischen Sportorganisationen in Kärnten"
             naslov1="diplomsko delo" pubPlace="Gradec" year="2007"/>
     </delo>
-    <delo mojID="46786">
+    <delo mojID="46786" cobiss="1090676">
         <naslov>Verstovšek Karel</naslov>
         <cit did="1580" cid="3" avtor0="Rozman Franc" naslov0="Verstovšek Karel"
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" year="2000" page="200-201"/>
     </delo>
-    <delo mojID="46787">
+    <delo mojID="46787" cobiss="19149825">
         <naslov>Verstva sveta - enciklopedija verstev o zgodovini človeštva</naslov>
         <cit did="142" cid="11" avtor0="Adams Charles J."
             naslov0="Verstva sveta -  enciklopedija verstev o zgodovini človeštva"
             pubPlace="Ljubljana" publisher="CZ" year="1977"/>
     </delo>
-    <delo mojID="46788">
+    <delo mojID="46788" cobiss="11215873">
         <naslov>Verstva v Jugoslaviji</naslov>
         <cit did="2784" cid="13" avtor0="Perko Franc" naslov0="Verstva v Jugoslaviji"
             pubPlace="Celje" publisher="Mohorjeva družba" year="1978"/>
@@ -25978,7 +25978,7 @@
             naslov0="Verwaltungsgrenzen und Bevdlkerungsentwicklung in der Steiermark 1770-1850"
             pubPlace="Graz" publisher="Historische Landeskommission für Steiermark" year="1978"/>
     </delo>
-    <delo mojID="46802">
+    <delo mojID="46802" cobiss="4839431">
         <naslov>Verwandte, Freunde und Getreue</naslov>
         <cit did="52" cid="13" avtor0="Althoff Gerd" naslov0="Verwandte, Freunde und Getreue"
             source="Zum politischen stellenwert der Gruppenbindungen im früheren Mittelalter"
@@ -26033,7 +26033,7 @@
             source="Der Markt im Mitteleuropa der Zwischenkriegszeit - The Market in Interwar Central Europe"
             pubPlace="Prague" year="1997"/>
     </delo>
-    <delo mojID="46813">
+    <delo mojID="46813" cobiss="40002305">
         <naslov>Ves ta svet je oder</naslov>
         <cit did="96" cid="14" avtor0="Gombač Branko" naslov0="Ves ta svet je oder"
             pubPlace="Slovenska Bistrica" year="1996"/>
@@ -26095,7 +26095,7 @@
         <cit did="1748" cid="1096" avtor0="Watkins T. H." naslov0="Vespasian and Italic Right"
             source="The Classical Journal" year="1988" volume="84" page="117-136"/>
     </delo>
-    <delo mojID="46828">
+    <delo mojID="46828" cobiss="2305632">
         <naslov>Vetri romani di Aquileia</naslov>
         <cit did="383" cid="5" avtor0="Calvi C." naslov0="Vetri romani di Aquileia"
             source="Publicazione dell'Assozione nazionale per Aquileia" pubPlace="Aquileja"
@@ -26112,13 +26112,13 @@
         <cit did="3161" cid="39" avtor0="Kokolj Miroslav"
             naslov0="Vevški papirničaji v boju za svoje pravice" pubPlace="Ljubljana" year="1970"/>
     </delo>
-    <delo mojID="46831">
+    <delo mojID="46831" cobiss="109537792">
         <naslov>Vezave srednjeveških rokopisov: strukturne prvine in njihov razvoj</naslov>
         <cit did="2583" cid="207" avtor0="Vodopivec Jedert"
             naslov0="Vezave srednjeveških rokopisov: strukturne prvine in njihov razvoj"
             pubPlace="Ljubljana" year="2000"/>
     </delo>
-    <delo mojID="46832">
+    <delo mojID="46832" cobiss="17010221">
         <naslov>Vezen znak viteškega Zmajevega reda</naslov>
         <cit did="2604" cid="85" avtor0="Pajagič Bregar Gojka"
             naslov0="Vezen znak viteškega Zmajevega reda" source="Gea" year="2000" volume="10"
@@ -26129,7 +26129,7 @@
         <cit did="212" cid="79" avtor0="Kulmesch Janko" naslov0="Več kot predrzno"
             source="Naš tednik" pubPlace="Celovec" year="0" volume="54" issue="36" page="3"/>
     </delo>
-    <delo mojID="46836">
+    <delo mojID="46836" cobiss="2003715">
         <naslov>Več luči! Iz »Rimskega katolika« zbrani spisi, Katoliško tiskovno
                         društvo</naslov>
         <cit did="1743" cid="6" avtor0="Mahnič Anton"
@@ -26141,14 +26141,14 @@
         <cit did="3022" cid="55" avtor0="Boršnik Marja" naslov0="Več Prežiha" source="NSd"
             year="1955" issue="1" page="63-81"/>
     </delo>
-    <delo mojID="46839">
+    <delo mojID="46839" cobiss="559959">
         <naslov>Več zlih kot lepih : podoba ženske v slovenskih osnovnošolskih
                         berilih</naslov>
         <cit did="106" cid="246" avtor0="Hrženjak M."
             naslov0="Več zlih kot lepih : podoba ženske v slovenskih osnovnošolskih berilih"
             source="Delta" year="1999" volume="5" issue="1-2" page="133-150"/>
     </delo>
-    <delo mojID="46840">
+    <delo mojID="46840" cobiss="37958912">
         <naslov>Večerni spomini: pesmi</naslov>
         <cit did="1768" cid="21" avtor0="Pihler Mirko" naslov0="Večerni spomini: pesmi"
             pubPlace="Ljubljana" year="1994" page="5"/>
@@ -26158,19 +26158,19 @@
         <cit did="212" cid="117" avtor0="Wakounig Jože" naslov0="Večje spremembe pred pragom"
             source="Naš tednik" pubPlace="Celovec" year="0" volume="49" issue="3" page="2"/>
     </delo>
-    <delo mojID="46843">
+    <delo mojID="46843" cobiss="1262221">
         <naslov>Večkulturnost in diskriminacija v evropskem kulturnem okolju in medijskih
                         diskurzih</naslov>
         <cit did="2706" cid="26" avtor0="Medica Karmen"
             naslov0="Večkulturnost in diskriminacija v evropskem kulturnem okolju in medijskih diskurzih"
             source="Monitor ISH" year="2006" issue="1" page="117-131"/>
     </delo>
-    <delo mojID="46848">
+    <delo mojID="46848" cobiss="9075277">
         <naslov>Večno vprašanje: so Romi res tako slabi, kot nekateri trdijo?</naslov>
         <cit did="2906" cid="22" avtor0="Rudaš Darko"
             naslov0="Večno vprašanje: so Romi res tako slabi, kot nekateri trdijo?" year="2003"/>
     </delo>
-    <delo mojID="46849">
+    <delo mojID="46849" cobiss="119080704">
         <naslov>večplastnost pomenov za ohranjanje arhitekturne dediščine</naslov>
         <cit did="1622" cid="8" avtor0="Lah Ljubo"
             naslov0="večplastnost pomenov za ohranjanje arhitekturne dediščine"
@@ -26208,7 +26208,7 @@
             source="Althistorische Studien H. Bengtson" pubPlace="Wiesbaden" year="1983"
             page="131-147"/>
     </delo>
-    <delo mojID="46855">
+    <delo mojID="46855" cobiss="870189">
         <naslov>Via per Alpes Graias: Beiträge zur Geschichte des Kleinen St.
                         Bernhard-Passes in römischer Zeit</naslov>
         <cit did="1748" cid="1094" avtor0="Walser G."
@@ -26276,7 +26276,7 @@
             source="Social experience and Anthropological Knowledge" pubPlace="London - New York"
             publisher="Routledge" year="1994" page="45-63"/>
     </delo>
-    <delo mojID="46868">
+    <delo mojID="46868" cobiss="1564465">
         <naslov>Vicedomini, notarji in kancelarji med poklicem in oblastjo v severni
                         Istri</naslov>
         <cit did="255" cid="16" avtor0="Darovec Darko"
@@ -26341,23 +26341,23 @@
             source="Krško: stoletje na razglednicah" pubPlace="Krško" publisher="Zavod Neviodunum"
             year="2003" page="89-108"/>
     </delo>
-    <delo mojID="46883">
+    <delo mojID="46883" cobiss="38326272">
         <naslov>Videnja</naslov>
         <cit did="2735" cid="13" avtor0="Blažič Viktor" naslov0="Videnja" pubPlace="Ljubljana"
             publisher="Mihelač" year="1994"/>
     </delo>
-    <delo mojID="46885">
+    <delo mojID="46885" cobiss="53585920">
         <naslov>Video pri pouku zgodovine na Gimnaziji Celje - center</naslov>
         <cit did="2458" cid="2" avtor0="Škorjanc J."
             naslov0="Video pri pouku zgodovine  na Gimnaziji Celje - center"
             source="Zgodovina v šoli" year="1993" issue="3" page="16"/>
     </delo>
-    <delo mojID="46886">
+    <delo mojID="46886" cobiss="961626">
         <naslov>Vidiki poslanstva v džaganatu</naslov>
         <cit did="106" cid="345" avtor0="Ocvirk D." naslov0="Vidiki poslanstva v džaganatu"
             source="Bogoslovni vestnik" year="1995" volume="4" page="487"/>
     </delo>
-    <delo mojID="46887">
+    <delo mojID="46887" cobiss="23330397">
         <naslov>Vidnost in moč v javnem mnenju</naslov>
         <cit did="2717" cid="17" avtor0="Splichal Slavko" naslov0="Vidnost in moč v javnem mnenju"
             source="Javnost" year="2004" volume="11" issue="S" page="13-27"/>
@@ -26442,13 +26442,13 @@
             naslov0="Vigenjc, Vodnik po zgodovinskih žebljarskih kovačnicah v Kamni gorici. Kropi in Železnikih, Vodniki Tehniškega muzeja Slovenije 7. Ljubljana 1956; idem. Gorenjsko železarstvo v XIV. in XV. stoletju"
             source="Kronika" year="1959" volume="7"/>
     </delo>
-    <delo mojID="46904">
+    <delo mojID="46904" cobiss="6541920">
         <naslov>Vigilius episcopus Scaravaciensis</naslov>
         <cit did="2171" cid="35" avtor0="Toth E." naslov0="Vigilius episcopus Scaravaciensis"
             source="Acta Archaeologica Academiae scientiarum Hungaricae" year="1974" volume="26"
             page="269-275"/>
     </delo>
-    <delo mojID="46905">
+    <delo mojID="46905" cobiss="245374208">
         <naslov>Vigred se povrne: Druga svetovna vojna na Celjskem</naslov>
         <cit did="2292" cid="5" avtor0="Kragar Tone"
             naslov0="Vigred se povrne: Druga svetovna vojna na Celjskem" pubPlace="Celje"
@@ -26476,14 +26476,14 @@
         <cit did="1720" cid="2" avtor0="Granda Stane" naslov0="Viktor Vrbnjak (1914-2005)"
             source="Večer" year="0"/>
     </delo>
-    <delo mojID="46914">
+    <delo mojID="46914" cobiss="99742976">
         <naslov>Vilfanov zbornik : pravo, zgodovina, narod = Recht, Geschichte,
                         Nation</naslov>
         <cit did="2360" cid="1" avtor0="Kambič Marko"
             naslov0="Vilfanov zbornik : pravo, zgodovina, narod = Recht, Geschichte, Nation"
             pubPlace="Ljubljana" publisher="Založba ZRC" year="1999"/>
     </delo>
-    <delo mojID="46915">
+    <delo mojID="46915" cobiss="219905024">
         <naslov>Vili o demokratizaciji in osamosvojitvi Slovenije. IV. del: Slovenci v
                         zamejstvu in po svetu ter mednarodno priznanje Slovenije</naslov>
         <cit did="2825" cid="21" avtor0="Klemenčič Matjaž et al."
@@ -26501,7 +26501,7 @@
         <cit did="2227" cid="22" avtor0="Safonov Nikolaj" naslov0="Viljem Tegethoff"
             source="Enciklopedija Slovenije 13." pubPlace="Ljubljana" year="1999" page="195"/>
     </delo>
-    <delo mojID="46918">
+    <delo mojID="46918" cobiss="14927714">
         <naslov>Viljemovci</naslov>
         <cit did="2423" cid="65" avtor0="Štih Peter" naslov0="Viljemovci"
             source="Enciklopedija Slovenije" pubPlace="Ljubljana" year="2000" volume="14"
@@ -26518,7 +26518,7 @@
         <cit did="2222" cid="27" avtor0="Lasciac Antonio" naslov0="Villa Dilberoglue"
             source="Der Architekt" year="0" page="13"/>
     </delo>
-    <delo mojID="46921">
+    <delo mojID="46921" cobiss="24312877">
         <naslov>Villa Maritima</naslov>
         <cit did="1946" cid="14" avtor0="Lafon X." naslov0="Villa Maritima" pubPlace="Rom"
             publisher="Ecole francaise de Rome" year="2001"/>
@@ -26558,14 +26558,14 @@
         <cit did="375" cid="175" avtor0="Ulmer Christoph" naslov0="Villen des Friaul"
             pubPlace="München" year="1994"/>
     </delo>
-    <delo mojID="46931">
+    <delo mojID="46931" cobiss="219524608">
         <naslov>Viltez in grad. Vloga gradov v življenju plemstva na Kranjskem, slovenskem
                         Štajerskem in slovenskem Koroškem do začetka 15. Stoletja</naslov>
         <cit did="2588" cid="40" avtor0="Kos Dušan"
             naslov0="Viltez in grad. Vloga gradov v življenju plemstva na Kranjskem, slovenskem Štajerskem in slovenskem Koroškem do začetka 15. Stoletja"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="46932">
+    <delo mojID="46932" cobiss="26677505">
         <naslov>Vimenu ljudstva</naslov>
         <cit did="2567" cid="19" avtor0="Munda Mirko" naslov0="Vimenu ljudstva" pubPlace="Maribor"
             year="1990"/>
@@ -26595,7 +26595,7 @@
             naslov0="Vindicae Astronomiae et ethicae pro Dionysio Exiguo...." pubPlace="Viennae"
             year="0" page="48"/>
     </delo>
-    <delo mojID="46942">
+    <delo mojID="46942" cobiss="19087416">
         <naslov>Viničsrji v boju za nov in pravičen viničarski red</naslov>
         <cit did="976" cid="30" avtor0="Rozman Jože"
             naslov0="Viničsrji v boju za nov in pravičen viničarski red" source="Ptujski zbornik V"
@@ -26612,18 +26612,18 @@
             source="Le regioni dall'Unitä d'ltalia ad oggi: II Friuli Venezia-Giulia"
             pubPlace="Torino" publisher="Einaudi" year="2002" page="891-908"/>
     </delo>
-    <delo mojID="46946">
+    <delo mojID="46946" cobiss="27630081">
         <naslov>Vinograd rimske cesarice</naslov>
         <cit did="407" cid="9" avtor0="Rebula Alojz" naslov0="Vinograd rimske cesarice"
             pubPlace="Maribor" publisher="Obzorja" year="1956"/>
     </delo>
-    <delo mojID="46948">
+    <delo mojID="46948" cobiss="13667848">
         <naslov>Vinogradniško besedje na Kapelskem Vrhu</naslov>
         <cit did="394" cid="14" avtor0="Safran N." naslov0="Vinogradniško besedje na Kapelskem Vrhu"
             naslov1="Diplomsko delo" pubPlace="Maribor" publisher="Pedagoška fakulteta" year="2004"
         />
     </delo>
-    <delo mojID="46952">
+    <delo mojID="46952" cobiss="2198577">
         <naslov>Vinogradništvo in vinarstvo kot poglavitna gospodarska panoga v severni
                         Istri v obdobju Beneške republike</naslov>
         <cit did="3539" cid="69" avtor0="Darovec Darko"
@@ -26639,7 +26639,7 @@
             naslov0="Vinogradništvo in vinska trgovina na srednjeveškem piranskem območju"
             source="Dežela refoška" pubPlace="Koper" year="1995" page="99-120"/>
     </delo>
-    <delo mojID="46955">
+    <delo mojID="46955" cobiss="36321536">
         <naslov>Vinogradništvo na Slovenskem v 19. stoletju</naslov>
         <cit did="1610" cid="2" avtor0="Dular Andrej"
             naslov0="Vinogradništvo na Slovenskem v 19. stoletju" source="Slovenski etnograf"
@@ -26651,7 +26651,7 @@
             naslov0="Vinogradništvo na Tržaškem do 18. stoletja" source="Človek in trta"
             pubPlace="Trieste-Trst" year="1987" page="5-7"/>
     </delo>
-    <delo mojID="46957">
+    <delo mojID="46957" cobiss="2217777">
         <naslov>Vinogradništvo Slovenske Istre v arhivih Slovenskega etnografskega
                         muzeja</naslov>
         <cit did="2636" cid="37" avtor0="Dular A."
@@ -26663,20 +26663,20 @@
         <cit did="2306" cid="5" avtor0="Zupanič Ivo" naslov0="Vinogradništvo v Dravski banovini"
             source="Kmetijstvo dravske banovine" pubPlace="Ljubljana" year="1933" page="59-72"/>
     </delo>
-    <delo mojID="46959">
+    <delo mojID="46959" cobiss="2223153">
         <naslov>Vinogradništvo v vaseh Koprskega zaledja od sredine 19. stoletja do
                         petdesetih let 20. stoletja</naslov>
         <cit did="2636" cid="119" avtor0="Presl Igor"
             naslov0="Vinogradništvo v vaseh Koprskega zaledja od sredine 19. stoletja do petdesetih let 20. stoletja"
             source="Dežela refoška" pubPlace="Koper" year="1995" page="177-196"/>
     </delo>
-    <delo mojID="46962">
+    <delo mojID="46962" cobiss="1320414">
         <naslov>Vinska kraljica kot promocijsko orodje destinacije</naslov>
         <cit did="3382" cid="1" avtor0="Curk Janja"
             naslov0="Vinska kraljica kot promocijsko orodje destinacije" pubPlace="Portorož"
             publisher="Univerza na Primorskem"/>
     </delo>
-    <delo mojID="46963">
+    <delo mojID="46963" cobiss="38879074">
         <naslov>Vinske kleti na Slovenjebistriškem</naslov>
         <cit did="2128" cid="3" avtor0="Hazler Vito" naslov0="Vinske kleti na Slovenjebistriškem"
             source="Zbornik občine Slovenska Bistrica III. Svet med Pohorjem in Bočem"
@@ -26733,7 +26733,7 @@
         <cit did="1912" cid="61" avtor0="Klobčič Rok" naslov0="Violina" pubPlace="Ljubljana"
             year="1996"/>
     </delo>
-    <delo mojID="46976">
+    <delo mojID="46976" cobiss="34851682">
         <naslov>'Vipavska dolina je mrgolel vojaštva': romanski jezikovni elementi v
                         Rebulovem Nokturno za Primorsko</naslov>
         <cit did="1984" cid="13" avtor0="Ožbot M."
@@ -26768,7 +26768,7 @@
             naslov0="VirginitY lost. An intimate portrait of first sexual experiences"
             pubPlace="New York - London" publisher="New York University Press" year="2005"/>
     </delo>
-    <delo mojID="46988">
+    <delo mojID="46988" cobiss="674182">
         <naslov>Viri preživljanja in način potrošnje v vasi Gradec pri Pivki v 20. stoletju
                         : ljudje in kraji ob Pivki, II. knjiga</naslov>
         <cit did="2139" cid="4" avtor0="Makarovič Marija"
@@ -26820,7 +26820,7 @@
         <cit did="2008" cid="19" avtor0="Hine C." naslov0="Virtual   Etnography" pubPlace="London"
             publisher="SAGE" year="2003"/>
     </delo>
-    <delo mojID="46999">
+    <delo mojID="46999" cobiss="70979584">
         <naslov>Virtualna resničnost za kolektivno kognitivno obdelavo: Virtualna
                         resničnost</naslov>
         <cit did="2008" cid="11" avtor0="De Kerckhove D."
@@ -26828,14 +26828,14 @@
             source="Časopis za kritiko znanosti" pubPlace="Ljubljana" year="1992" volume="20"
             issue="150-151" page="25-35"/>
     </delo>
-    <delo mojID="47000">
+    <delo mojID="47000" cobiss="29010221">
         <naslov>"Virtuti es musis". Karlov plemiški kolegij v Ljubljani na Dolničarjevih
                         risanih medaljah</naslov>
         <cit did="2791" cid="21" avtor0="Lavrič Ana"
             naslov0="&#34;Virtuti es musis&#34;. Karlov plemiški kolegij v Ljubljani na Dolničarjevih risanih medaljah"
             source="Acta historiae Slovenica" year="2008" volume="13" page="41-65"/>
     </delo>
-    <delo mojID="47001">
+    <delo mojID="47001" cobiss="29010221">
         <naslov>"Virtuti et musis". Karlov plemiški kolegij v Ljubljani na Dolničarjevih
                         risanih medaljah</naslov>
         <cit did="2049" cid="14" avtor0="Lavrič Ana"
@@ -26863,7 +26863,7 @@
             naslov0="Viseći svećnjak iz Sopoćana, Saopštenja Republičkog zavoda za zaštitu spomenika kulture"
             pubPlace="Beograd" year="2008" volume="40"/>
     </delo>
-    <delo mojID="47005">
+    <delo mojID="47005" cobiss="24614237">
         <naslov>Visible Identities: Race, Gender and the Self</naslov>
         <cit did="3047" cid="2" avtor0="Alcoff L."
             naslov0="Visible Identities: Race, Gender and the Self" pubPlace="Oxford"
@@ -26874,7 +26874,7 @@
         <cit did="292" cid="11" avtor0="Cowans Jon" naslov0="Vision of the Postwar"
             source="History &amp; Memory" year="1998" issue="Fall"/>
     </delo>
-    <delo mojID="47007">
+    <delo mojID="47007" cobiss="34897921">
         <naslov>Visionary Republic, Millennial Themes in American Thought, 1756-
                         1800</naslov>
         <cit did="3276" cid="3" avtor0="Bloch Ruth"
@@ -26890,7 +26890,7 @@
             naslov0="Visioni germaniche dell'area adriatica. Dalla costruzione della Sùdbahn alla fine della seconda guerra mondiale. V: Trinchese, S., Caccamo, F. (ur.): Adriatico contemporaneo. Rotte e percezioni del mare comune tra Ottocento e Novecento"
             pubPlace="Milano" publisher="Franco Angeli" year="2008" page="189-214"/>
     </delo>
-    <delo mojID="47009">
+    <delo mojID="47009" cobiss="17910877">
         <naslov>Visions of culture. An introduction to anthropological theories and
                         theorists</naslov>
         <cit did="3031" cid="14" avtor0="Moore Jerry D."
@@ -26926,7 +26926,7 @@
             source="Mitteilungen des österreichischen Staatarchivs" year="1953" issue="6"
             page="245-261"/>
     </delo>
-    <delo mojID="47014">
+    <delo mojID="47014" cobiss="21828609">
         <naslov>Visoke kulture starega sveta (zbirka: Umetnost v slikah)</naslov>
         <cit did="2156" cid="25" avtor0="Menaše Helena"
             naslov0="Visoke kulture starega sveta (zbirka: Umetnost v slikah)"
@@ -26938,7 +26938,7 @@
         <cit did="15" cid="72" avtor0="Virant Zajšek Milojka" naslov0="Visoke šole v letu 1954"
             source="Prikazi in študije" year="1955" volume="1" issue="4" page="20"/>
     </delo>
-    <delo mojID="47016">
+    <delo mojID="47016" cobiss="114426368">
         <naslov>"Visoki komisar pravi...": sosvet za Ljubljansko pokrajino</naslov>
         <cit did="3133" cid="155" avtor0="Ferenc Tone"
             naslov0="&#34;Visoki komisar pravi...&#34;: sosvet za Ljubljansko pokrajino"
@@ -26949,7 +26949,7 @@
         <cit did="2822" cid="6" avtor0="Arendt Hannah" naslov0="Vita activa oder Vom tätigen Leben"
             pubPlace="München" publisher="Piper" year="1992"/>
     </delo>
-    <delo mojID="47019">
+    <delo mojID="47019" cobiss="7177778">
         <naslov>Vita di popolo in Friuli: patti agrari e consuetudini tradizionali</naslov>
         <cit did="1421" cid="41" avtor0="Perusini Gaetano"
             naslov0="Vita di popolo in Friuli: patti agrari e consuetudini tradizionali"
@@ -26994,7 +26994,7 @@
         <cit did="2973" cid="23" avtor0="Kaufman Michael T."
             naslov0="Vital role for New York as Poles vote" source="New York Times" year="1989"/>
     </delo>
-    <delo mojID="47028">
+    <delo mojID="47028" cobiss="543476">
         <naslov>Vite dei piu celebri architetti, e scultori veneziani che fiorirono nel
                         secolo decimosesto</naslov>
         <cit did="1920" cid="72" avtor0="Temanza T."
@@ -27009,7 +27009,7 @@
         <naslov>Vite dei santi IV</naslov>
         <cit did="173" cid="71" avtor0="Smit Jan W." naslov0="Vite dei santi IV" page="286"/>
     </delo>
-    <delo mojID="47031">
+    <delo mojID="47031" cobiss="21452589">
         <naslov>Vitez in ugrabljenka: nasilnik in njegova žrtev</naslov>
         <cit did="2647" cid="166" avtor0="Kos Dušan"
             naslov0="Vitez in ugrabljenka: nasilnik in njegova žrtev" source="Acta Histriae"
@@ -27055,7 +27055,7 @@
             naslov0="Vivre en prison au 18 siede: Lettres de Pantaleon Gougis, vigneron chartrain (1758-1762)"
             pubPlace="Paris" publisher="Publisud" year="1994"/>
     </delo>
-    <delo mojID="47044">
+    <delo mojID="47044" cobiss="27520866">
         <naslov>Vizantijska civilizacija</naslov>
         <cit did="763" cid="27" avtor0="Runciman S." naslov0="Vizantijska civilizacija"
             pubPlace="Beograd" publisher="Minerva" year="1964"/>
@@ -27066,7 +27066,7 @@
             naslov0="Vizije in meje narodne sprave: čez prepad revolucije" pubPlace="Trst"
             year="1990"/>
     </delo>
-    <delo mojID="47047">
+    <delo mojID="47047" cobiss="513477247">
         <naslov>Vizitacija tržaškega škofa Giovannija Francesca Milerja v župniji Slavina
                         leta 1693</naslov>
         <cit did="2396" cid="12" avtor0="Rossetti Pietro"
@@ -27097,7 +27097,7 @@
             naslov0="Vizualna podoba zgodovine : seminar v okviru podiplomskega študija Kulturna zgodovina"
             pubPlace="Ljubljana" publisher="ZRC SAZU" year="2005"/>
     </delo>
-    <delo mojID="47060">
+    <delo mojID="47060" cobiss="61127424">
         <naslov>Vizualne raziskave v etnologiji</naslov>
         <cit did="2506" cid="6" avtor0="Križnar Naško" naslov0="Vizualne raziskave v etnologiji"
             pubPlace="Ljubljana" publisher="Založba ZRC" year="1996"/>
@@ -27119,7 +27119,7 @@
         <cit did="71" cid="250" avtor0="Duh Tine" naslov0="Višarsko slovenstvo"
             source="(Ehrlichova vizija bodočnosti)"/>
     </delo>
-    <delo mojID="47064">
+    <delo mojID="47064" cobiss="32811821">
         <naslov>Višegradski ugovor temelj Dubrovačke Republike</naslov>
         <cit did="2103" cid="9" avtor0="Janeković Römer Z."
             naslov0="Višegradski ugovor temelj Dubrovačke Republike" pubPlace="Zagreb"
@@ -27142,7 +27142,7 @@
             naslov0="Vjekoslav Klaić u okviru hrvatske historiografije u 19. stoljeću"
             source="Zbornik radova" pubPlace="Zagreb - Slavonski brod" year="1999"/>
     </delo>
-    <delo mojID="47072">
+    <delo mojID="47072" cobiss="17288802">
         <naslov>Vjera u vrtlozima tranzicije</naslov>
         <cit did="2861" cid="41" avtor0="Vrcan Srdjan" naslov0="Vjera u vrtlozima tranzicije"
             source="Glas Dalmacije" pubPlace="Split" year="2001"/>
