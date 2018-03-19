@@ -34004,7 +34004,7 @@
             source="Zalivi: čitanka / Boris Pahor" pubPlace="Ljubljana" publisher="CZ" year="2010"
             page="187-196"/>
     </delo>
-    <delo mojID="48705">
+    <delo mojID="48705" cobiss="21681453">
         <naslov>Založnica pri Kamniku pod Krimom na Ljubljanskem barju - naselbina kulture
                         Somogyvar-Vinkovci</naslov>
         <cit did="1948" cid="35" avtor0="Velušček A., Čufar K."
@@ -34017,7 +34017,7 @@
             naslov0="Založništvo v Mariboru med svetovnima vojnama" source="Kultura v Mariboru"
             pubPlace="Maribor" year="2001" page="88"/>
     </delo>
-    <delo mojID="48708">
+    <delo mojID="48708" cobiss="8072525">
         <naslov>Zamejski Slovenci</naslov>
         <cit did="2900" cid="2" avtor0="Stergar Janez" naslov0="Zamejski Slovenci"
             source="Enciklopedija Slovenije, 15, Wi-Ž" pubPlace="Ljubljana" year="2001" page="60-62"
@@ -34030,13 +34030,13 @@
             naslov0="Zamejski Slovenci na avstrijskem delu Štakerske po podatkih ljudskih štetij 1951 in 1961"
             source="Kronika" year="1967" issue="15" page="54, 55"/>
     </delo>
-    <delo mojID="48710">
+    <delo mojID="48710" cobiss="272756">
         <naslov>Zamenjava denarja</naslov>
         <cit did="1509" cid="84" avtor0="Prinčič Jože" naslov0="Zamenjava denarja"
             source="Slovenska kronika XX. stoletja 1941–1995" pubPlace="Ljubljana" year="1996"
             page="112"/>
     </delo>
-    <delo mojID="48711">
+    <delo mojID="48711" cobiss="59330560">
         <naslov>Zamenjava okupacijskih bankovcev</naslov>
         <cit did="663" cid="107" avtor0="Jelinčič Zmago" naslov0="Zamenjava okupacijskih bankovcev"
             pubPlace="Ljubljana" publisher="Enotnost" year="1996"/>
@@ -34048,7 +34048,7 @@
             source="Arheološki vestnik" pubPlace="Ljubljana" year="2001" volume="52" page="131-138"
         />
     </delo>
-    <delo mojID="48717">
+    <delo mojID="48717" cobiss="229973504">
         <naslov>Zamolčana Istra: kaj nam je bilo Slovencem do sedaj prikrito?</naslov>
         <cit did="1624" cid="65" avtor0="Kunej Franc"
             naslov0="Zamolčana Istra: kaj nam je bilo Slovencem do sedaj prikrito?"
@@ -34059,12 +34059,12 @@
         <cit did="3240" cid="12" avtor0="Rodošek Bojan" naslov0="Zamolčani dan osamosvojitve vojne"
             naslov1="Diplomska naloga" pubPlace="Ljubljana" year="2007"/>
     </delo>
-    <delo mojID="48720">
+    <delo mojID="48720" cobiss="2837594">
         <naslov>Zamolčani in preganjani</naslov>
         <cit did="1834" cid="6" avtor0="Valenčič R." naslov0="Zamolčani in preganjani"
             source="V prelomnih časih" pubPlace="Ljubljana" year="2001" page="139-160"/>
     </delo>
-    <delo mojID="48721">
+    <delo mojID="48721" cobiss="128679680">
         <naslov>Zamolčani - moč preživetja«</naslov>
         <cit did="1872" cid="31" avtor0="Stanovnik Janez" naslov0="Zamolčani - moč preživetja«"
             source="Delo" pubPlace="Ljubljana" year="2031"/>
@@ -34075,14 +34075,14 @@
             source="Istoriski zapisi" pubPlace="Cetinje" publisher="Istorijski institut Črne Gore"
             volume="13" issue="8" page="235-267"/>
     </delo>
-    <delo mojID="48725">
+    <delo mojID="48725" cobiss="21752576">
         <naslov>Zanesljivost in struktura nekaterih motoričnih sposobnosti in morfoloških
                         značilnosti šestinplolletnih učencev in učenk</naslov>
         <cit did="708" cid="50" avtor0="Šturm Jože, Strel Janko"
             naslov0="Zanesljivost in struktura nekaterih motoričnih sposobnosti in morfoloških značilnosti šestinplolletnih učencev in učenk"
             pubPlace="Ljubljana" publisher="Inštitut za kineziologijo" year="1981"/>
     </delo>
-    <delo mojID="48730">
+    <delo mojID="48730" cobiss="15096365">
         <naslov>Zapadna grupa. Izvori za istoriju Tauriska</naslov>
         <cit did="2266" cid="1" avtor0="Dragan Božič"
             naslov0="Zapadna grupa. Izvori za istoriju Tauriska"
@@ -34117,12 +34117,12 @@
             naslov0="Zapaženja o putovanju cara Dioklecijana iz Ravene u Nikomediju 304. godine"
             source="Izabrani spisi" pubPlace="Split" year="1984"/>
     </delo>
-    <delo mojID="48739">
+    <delo mojID="48739" cobiss="99536128">
         <naslov>Zapis iz zapora (1948)</naslov>
         <cit did="3248" cid="9" avtor0="Pirjevec Dušan" naslov0="Zapis iz zapora (1948)"
             source="Nova revija" year="1998" volume="17" issue="193"/>
     </delo>
-    <delo mojID="48740">
+    <delo mojID="48740" cobiss="46871040">
         <naslov>Zapis o bivanjskih razmerah nemških in slovenskih višjih meščanskih slojev v
                         Ljubljani na začetku stoletja</naslov>
         <cit did="550" cid="4" avtor0="Studen Andrej"
@@ -34141,7 +34141,7 @@
         <cit did="2634" cid="2" avtor0="Baraga Franc" naslov0="Zapis spominov Janka Katerna"
             naslov1="tipkopis"/>
     </delo>
-    <delo mojID="48743">
+    <delo mojID="48743" cobiss="58799104">
         <naslov>Zapis v čas: Osnove varovanja knjižničnega in arhivskega gradiva</naslov>
         <cit did="2843" cid="52" avtor0="Čučnik Majcen Nada"
             naslov0="Zapis v čas: Osnove varovanja knjižničnega in arhivskega gradiva"
@@ -34152,13 +34152,13 @@
         <cit did="16" cid="127" avtor0="Vrhunc Marko" naslov0="Zapis za zgodovino" source="Borec"
             year="1986" volume="38" issue="11" page="583-584"/>
     </delo>
-    <delo mojID="48746">
+    <delo mojID="48746" cobiss="2378504">
         <naslov>Zapisi o osvobodilnem gibanju pod Bočem</naslov>
         <cit did="1510" cid="153" avtor0="But-Branko Franc"
             naslov0="Zapisi o osvobodilnem gibanju pod Bočem" pubPlace="Rogaška Slatina" year="1983"
             page="23-25"/>
     </delo>
-    <delo mojID="48747">
+    <delo mojID="48747" cobiss="7426818">
         <naslov>Zapisi o poštnem prometu in prvih poštah na slovenskem Štajerskem</naslov>
         <cit did="2640" cid="73" avtor0="Hozjan A."
             naslov0="Zapisi o poštnem prometu in prvih poštah na slovenskem Štajerskem"
@@ -34169,7 +34169,7 @@
         <cit did="2376" cid="9" avtor0="Gojko Nikoliš" naslov0="Zapisi pod pritiscima"
             pubPlace="Beograd" year="1989" page="277-302"/>
     </delo>
-    <delo mojID="48749">
+    <delo mojID="48749" cobiss="3516366">
         <naslov>Zapisi starog Ruđanina</naslov>
         <cit did="1301" cid="29" avtor0="Mićović Dragoljub" naslov0="Zapisi starog Ruđanina"
             pubPlace="Beograd" year="1997" page="181-189"/>
@@ -34180,7 +34180,7 @@
             naslov0="Zapiski in beležke lemontskega kronista" source="Koledar Ave Maria"
             page="59-60"/>
     </delo>
-    <delo mojID="48753">
+    <delo mojID="48753" cobiss="21943085">
         <naslov>Zapiski k preučevanju zgodovine tržaškega prebivalstva v 18. in 19.
                         stoletju: od demografske entitete k družbeno-kulturnemu tkivu</naslov>
         <cit did="2763" cid="100" avtor0="Kalc Aleksej"
@@ -34230,7 +34230,7 @@
             naslov0="Zapisnik šestega glavnega zborovanja Zap. Slovan. Zveze"
             source="Glas naroda, 28. september 1921" year="1921" issue="227"/>
     </delo>
-    <delo mojID="48768">
+    <delo mojID="48768" cobiss="50210304">
         <naslov>Zapisniki Defense Alliance for Yugoslavs in Italy in Yugoslav Emergency
                         Council v New Yorku</naslov>
         <cit did="2837" cid="98" avtor0="Vovko Andrej"
@@ -34238,7 +34238,7 @@
             source="Viri" pubPlace="Ljubljana" publisher="Arhivsko društvo Slovenije" issue="3"
             page="99-137"/>
     </delo>
-    <delo mojID="48770">
+    <delo mojID="48770" cobiss="7290445">
         <naslov>»Zapisniki ‘United Americans for Slovenia’: angleški izvirniki zapisnikov s
                         sej ‘United Americans for Slovenia’ s slovenskim komentarjem</naslov>
         <cit did="2837" cid="95" avtor0="Klemenčič Matjaž" avtor1="Kristen Samo"
@@ -34250,13 +34250,13 @@
         <cit did="3152" cid="9" avtor0="Kisch Egon E." naslov0="Zapiši lo, Kiš! Rotiti dnevnik"
             pubPlace="Novi sad" publisher="Matica srpska" year="1983"/>
     </delo>
-    <delo mojID="48773">
+    <delo mojID="48773" cobiss="23339874">
         <naslov>Zaplemba premoženja fašistov in kolaboracionistov v okraju Koper</naslov>
         <cit did="734" cid="19" avtor0="Rogoznica D."
             naslov0="Zaplemba premoženja fašistov in kolaboracionistov v okraju Koper"
             naslov1="Magistrsko delo" pubPlace="Ljubljana" publisher="FF" year="2003"/>
     </delo>
-    <delo mojID="48774">
+    <delo mojID="48774" cobiss="3600947">
         <naslov>Zaplembe premoženja v Prekmurju</naslov>
         <cit did="2565" cid="6" avtor0="Fujs Metka" naslov0="Zaplembe premoženja v Prekmurju"
             source="Zbornik soboškega muzeja" year="2001" volume="6" page="63-76"/>
@@ -34271,7 +34271,7 @@
         <cit did="213" cid="118" avtor0="Lukan Ivan" naslov0="Zapleti v zvezi s konferenco"
             source="Delo" pubPlace="Ljubljana" year="0" volume="47" issue="97" page="8"/>
     </delo>
-    <delo mojID="48781">
+    <delo mojID="48781" cobiss="124143360">
         <naslov>Zapleši z menoj</naslov>
         <cit did="142" cid="70" avtor0="Hafis" naslov0="Zapleši z menoj"
             source="108 divje sladkih pesmi sufijskega mojstra" pubPlace="Ljubljana" publisher="CDK"
@@ -34293,7 +34293,7 @@
         <cit did="16" cid="46" avtor0="Kuhar Štefan" naslov0="Zapori in taborišča za Prekmurce"
             source="TV 15" year="1974" volume="12" page="41"/>
     </delo>
-    <delo mojID="48788">
+    <delo mojID="48788" cobiss="1157587">
         <naslov>"Zapustil me je bog, ko sem se ga nehala bati" Mikrozgodovinska analiza
                         izseka družbe starega reda«</naslov>
         <cit did="2018" cid="63" avtor0="Čeč Dragica"
@@ -34311,23 +34311,23 @@
             source="Sette città jugo-slave tra Medioevo e Ottocento. Skoplje, Sarajevo, Belgrado, Zagabria, Cettigne, Lubiana, Zara, Ostra Vetere (Ancona)"
             year="1991" page="199-208"/>
     </delo>
-    <delo mojID="48795">
+    <delo mojID="48795" cobiss="37606912">
         <naslov>Zaratustrovo izročilo</naslov>
         <cit did="1905" cid="10" avtor0="Urbančič Ivan" naslov0="Zaratustrovo izročilo"
             pubPlace="Ljubljana - Celje" year="1993" page="68"/>
     </delo>
-    <delo mojID="48796">
+    <delo mojID="48796" cobiss="6511768">
         <naslov>Zaraščanje Krasa - zmanjševanje biotske raznovrstnosti?</naslov>
         <cit did="111" cid="1" avtor0="Vogrin Nuša"
             naslov0="Zaraščanje Krasa - zmanjševanje biotske raznovrstnosti?" publisher="Proteus"
             year="1995" volume="58" issue="9/10" page="402-405"/>
     </delo>
-    <delo mojID="48797">
+    <delo mojID="48797" cobiss="118944512">
         <naslov>Zares prvi spol</naslov>
         <cit did="106" cid="346" avtor0="Makarovič J." naslov0="Zares prvi spol" source="Ampak"
             year="2001" page="53"/>
     </delo>
-    <delo mojID="48798">
+    <delo mojID="48798" cobiss="22885474">
         <naslov>Zarnikova izvolitev v trebanjskem volilnem okraju</naslov>
         <cit did="3300" cid="4" avtor0="Cvirn Janez"
             naslov0="Zarnikova izvolitev v trebanjskem volilnem okraju"
@@ -34359,29 +34359,29 @@
             naslov0="Zasavski bataljon Alojza Hohkrauta" source="Litijski zbornik NOB, 1. knjiga"
             pubPlace="Ljubljana" publisher="Skupščina občine Litija" year="1969" page="9-22"/>
     </delo>
-    <delo mojID="48806">
+    <delo mojID="48806" cobiss="215383296">
         <naslov>Zasavski premogovniki danes in nikoli več</naslov>
         <cit did="2082" cid="2" avtor0="Ivančič Lebar I."
             naslov0="Zasavski premogovniki danes in nikoli več" pubPlace="Trbovlje"
             publisher="Zasavski muzej" year="2004"/>
     </delo>
-    <delo mojID="48808">
+    <delo mojID="48808" cobiss="1024924024">
         <naslov>Zasebna slovenščina v 17. stoletju</naslov>
         <cit did="1288" cid="55" avtor0="Merkú Pavle" naslov0="Zasebna slovenščina v 17. stoletju"
             source="Slavistična revija" year="1982" volume="30" page="121-150"/>
     </delo>
-    <delo mojID="48809">
+    <delo mojID="48809" cobiss="74529024">
         <naslov>Zasebni arhiv Coronini Cronberg</naslov>
         <cit did="1421" cid="42" avtor0="Pillon Lucia" naslov0="Zasebni arhiv Coronini Cronberg"
             source="Arhivi" year="1997" volume="20" issue="1-2" page="165-170"/>
     </delo>
-    <delo mojID="48811">
+    <delo mojID="48811" cobiss="123847680">
         <naslov>Zasebnost na internetu</naslov>
         <cit did="2008" cid="27" avtor0="Kovačič M." naslov0="Zasebnost na internetu"
             pubPlace="Ljubljana"
             publisher="Mirovni inštitut, Inštitut za sodobne in politične študije" year="2003"/>
     </delo>
-    <delo mojID="48813">
+    <delo mojID="48813" cobiss="79838720">
         <naslov>Zasedba razkosane Slovenije</naslov>
         <cit did="2460" cid="7" avtor0="Godeša Bojan" naslov0="Zasedba razkosane Slovenije"
             source="Slovenska kronika XX. stoletja 1941-1995" pubPlace="Ljubljana" year="1996"
@@ -34399,12 +34399,12 @@
             naslov0="Zasluge Šime Starčevića za hrvatski književni jezik" source="Filologija"
             pubPlace="Zagreb" year="1973" page="157-158"/>
     </delo>
-    <delo mojID="48820">
+    <delo mojID="48820" cobiss="1429858">
         <naslov>Zasnova poselitve v Sloveniji</naslov>
         <cit did="2892" cid="7" avtor0="Ravbar Marjan" naslov0="Zasnova poselitve v Sloveniji"
             pubPlace="Ljubljana" publisher="Inštitut za geografijo" year="1995"/>
     </delo>
-    <delo mojID="48821">
+    <delo mojID="48821" cobiss="34989">
         <naslov>Zasnova rekreacije v prostoru</naslov>
         <cit did="696" cid="8" avtor0="Jeršič Matjaž" naslov0="Zasnova rekreacije v prostoru"
             pubPlace="Ljubljana" publisher="Inštitut za geografijo" year="1998"/>
@@ -34420,7 +34420,7 @@
         <cit did="1747" cid="17" avtor0="Marcuse Herbert" naslov0="Zastarelost psihoanalize"
             source="Psihoanaliza in kultura" pubPlace="Ljubljana" publisher="DZS" year="1981"/>
     </delo>
-    <delo mojID="48824">
+    <delo mojID="48824" cobiss="22718720">
         <naslov>Zastava (grb, himna, denar): legitimacija države</naslov>
         <cit did="1526" cid="5" avtor0="Menart Janez"
             naslov0="Zastava (grb, himna, denar): legitimacija države" source="Delo" year="0"
@@ -34451,13 +34451,13 @@
             source="Radovi Zavoda za povijesne znanosti HAZU u Zadru" year="2000" volume="42"
             page="105-171"/>
     </delo>
-    <delo mojID="48834">
+    <delo mojID="48834" cobiss="2140678">
         <naslov>Zatvaranje kruga - ishod rascepa</naslov>
         <cit did="3210" cid="154" avtor0="Perovič Jeronim"
             naslov0="Zatvaranje kruga - ishod rascepa" pubPlace="Sarajevo" publisher="Svjetlost"
             year="1991"/>
     </delo>
-    <delo mojID="48835">
+    <delo mojID="48835" cobiss="22498311">
         <naslov>Zaupanje</naslov>
         <cit did="2287" cid="73" avtor0="Ribičič Danica" naslov0="Zaupanje" pubPlace="Ljubljana"
             publisher="Založba Borec" year="1985"/>
@@ -34474,13 +34474,13 @@
             naslov0="Zavarovalna dolžnost trgovskih uslužbencev" source="STV" year="1911" issue="2"
         />
     </delo>
-    <delo mojID="48842">
+    <delo mojID="48842" cobiss="1110038366">
         <naslov>Zavarovanje delavcev v Jugoslaviji z narodno-gospodarskega stališča</naslov>
         <cit did="3241" cid="344" avtor0="Podgoršek Anton"
             naslov0="Zavarovanje delavcev v Jugoslaviji z narodno-gospodarskega stališča"
             source="TT" year="1926" issue="6"/>
     </delo>
-    <delo mojID="48843">
+    <delo mojID="48843" cobiss="480980">
         <naslov>Zavest slovenskih mladostnikov o svetu, v katerem živijo in identiteti
                         narodne skupnosti</naslov>
         <cit did="2673" cid="31" avtor0="Merkač Franc"
@@ -34492,14 +34492,14 @@
         <cit did="2390" cid="8" avtor0="Snoj Jože" naslov0="Zavestne ali nezavestni rablji"
             source="Delo" year="0"/>
     </delo>
-    <delo mojID="48847">
+    <delo mojID="48847" cobiss="73714432">
         <naslov>Zavezniki in odporništvo v severovzhodni Italiji</naslov>
         <cit did="1782" cid="342" avtor0="Valdevit Giampaolo"
             naslov0="Zavezniki in odporništvo v severovzhodni Italiji"
             source="Prispevki za novejšo zgodovino" year="1997" volume="37" issue="2" page="371-382"
         />
     </delo>
-    <delo mojID="48848-2">
+    <delo mojID="48848-2" cobiss="23293485">
         <naslov>Zavezništva in delitve</naslov>
         <cit did="459" cid="2" avtor0="Matković Stjepan, Rahten Andrej"
             naslov0="Zavezništva in delitve" source="Ampak" year="2004" volume="12" page="49-50"/>
@@ -34511,7 +34511,7 @@
             pubPlace="Ljubljana" publisher="Republiški sekretariat za notranje zadeve SR Slovenije"
             year="1979" page="140-149"/>
     </delo>
-    <delo mojID="48856">
+    <delo mojID="48856" cobiss="56808193">
         <naslov>Zavist in hvaležnost</naslov>
         <cit did="1747" cid="14" avtor0="Klein Melanie" naslov0="Zavist in hvaležnost"
             source="Izbrani spisi" pubPlace="Ljubljana" publisher="SH" year="1997"/>
@@ -34528,7 +34528,7 @@
             naslov0="Zavod sv. Stanislava 1914-1918. 100 let Zavoda sv. Stanislava"
             pubPlace="Ljubljana" publisher="Družina" year="2005" page="143-160"/>
     </delo>
-    <delo mojID="48860">
+    <delo mojID="48860" cobiss="2646132">
         <naslov>Zavod za slepe otroke in mladino v Kočevju</naslov>
         <cit did="2145" cid="1" avtor0="Šorn Mojca"
             naslov0="Zavod za slepe otroke in mladino v Kočevju"
@@ -34574,12 +34574,12 @@
             source="Objave Sveta za prosveto in kulturo LRS" year="1953" volume="4" issue="6"
             page="2-27"/>
     </delo>
-    <delo mojID="48873">
+    <delo mojID="48873" cobiss="512033644">
         <naslov>Začasni učni načrt za strokovne in nadaljevalne šole</naslov>
         <cit did="2773" cid="23" naslov0="Začasni učni načrt za strokovne in nadaljevalne šole"
             source="Komite za srednje in nižje strokovno šolstvo pri vladi LRS" year="1948"/>
     </delo>
-    <delo mojID="48875">
+    <delo mojID="48875" cobiss="34984034">
         <naslov>Začeci solo pjesme kao umjetničke vrste u Hrvatskoj</naslov>
         <cit did="3154" cid="8" avtor0="Kos Koraljka"
             naslov0="Začeci solo pjesme kao umjetničke vrste u Hrvatskoj"
@@ -34597,14 +34597,14 @@
         <cit did="1510" cid="82" avtor0="Brejc Tomo" naslov0="Začetek" source="Borec" year="1960"
             issue="7-8" page="197-301"/>
     </delo>
-    <delo mojID="48878">
+    <delo mojID="48878" cobiss="16016994">
         <naslov>Začetek delovanja banskega sveta Dravske banovine leta 1931</naslov>
         <cit did="1512" cid="122" avtor0="Stiplovšek Miroslav"
             naslov0="Začetek delovanja banskega sveta Dravske banovine leta 1931"
             source="Melikov zbornik: Slovenci v zgodovini in njihovi srednjeevropski sosedje"
             pubPlace="Ljubljana" publisher="ZRC" year="2001"/>
     </delo>
-    <delo mojID="48880">
+    <delo mojID="48880" cobiss="28566784">
         <naslov>Začetek in konec Demosa</naslov>
         <cit did="1284" cid="3" avtor0="Hribar Tine" naslov0="Začetek in konec Demosa"
             source="Nova revija" year="1991" volume="10" issue="116" page="I"/>
@@ -34615,7 +34615,7 @@
             naslov0="Začetek in konec množične golniške fluorografije 1947-1982"
             source="Golniški vestnik" year="1982" volume="11" page="266-271"/>
     </delo>
-    <delo mojID="48882">
+    <delo mojID="48882" cobiss="1418551">
         <naslov>Začetek in konec obstoja kočevske narodne manjšine in njene kulturne
                         dediščine na Slovenskem</naslov>
         <cit did="2670" cid="10" avtor0="Jaklitsch Katarina"
@@ -34634,7 +34634,7 @@
             naslov0="Začetek NOB v Mežiški dolini jeseni 1942" source="Vestnik koroških partizanov"
             year="1976" issue="4"/>
     </delo>
-    <delo mojID="48889">
+    <delo mojID="48889" cobiss="1024423281">
         <naslov>Začetek velike zgodbe o preobrazbi</naslov>
         <cit did="634" cid="51" avtor0="Rupel Dimitrij" naslov0="Začetek velike zgodbe o preobrazbi"
             source="Delo" year="0" page="5"/>
@@ -34652,26 +34652,26 @@
         <cit did="3287" cid="87" avtor0="Markeš Janez" naslov0="Začetek volilne kampanje"
             source="Delo : Sobotna priloga (5. 11. 2011)" pubPlace="Ljubljana" year="2011"/>
     </delo>
-    <delo mojID="48894">
+    <delo mojID="48894" cobiss="951507">
         <naslov>Začetki bizantinske oblasti v Istri</naslov>
         <cit did="2171" cid="30" avtor0="Novak A." naslov0="Začetki bizantinske oblasti v Istri"
             source="Acta Histriae" year="2005" volume="13" page="165-184"/>
     </delo>
-    <delo mojID="48895">
+    <delo mojID="48895" cobiss="24169985">
         <naslov>Začetki botanične vede pri Slovencih</naslov>
         <cit did="2041" cid="12" avtor0="Petkovšek Viktor"
             naslov0="Začetki botanične vede pri Slovencih"
             source="Zbornik ob 150-letnici botaničnega vrta v Ljubljani" pubPlace="Ljubljana"
             year="1960" page="1-20"/>
     </delo>
-    <delo mojID="48896">
+    <delo mojID="48896" cobiss="3803482">
         <naslov>Začetki cerkvene organiziranosti Slovencev v Kaliforniji</naslov>
         <cit did="2837" cid="9" avtor0="Kolar Bogdan"
             naslov0="Začetki cerkvene organiziranosti Slovencev v Kaliforniji"
             source="Acta ecclesiastica Sloveniae" pubPlace="Ljubljana" year="2004" issue="26"
             page="193-244"/>
     </delo>
-    <delo mojID="48897">
+    <delo mojID="48897" cobiss="18577152">
         <naslov>Začetki delovanja primorskega emigrantskega društva Nanos v predvojnem
                         Mariboru</naslov>
         <cit did="3014" cid="8" avtor0="Grašič M."
@@ -34679,19 +34679,19 @@
             source="Časopis za zgodovino in narodopisje" pubPlace="Maribor" year="1990" volume="26"
             page="23-35"/>
     </delo>
-    <delo mojID="48899">
+    <delo mojID="48899" cobiss="659828">
         <naslov>Začetki delovanja zakonodaje za zaščito delavstva in vloga strokovnih
                         (sindikalnih) organizacij</naslov>
         <cit did="1149" cid="1" avtor0="Kresal France"
             naslov0="Začetki delovanja zakonodaje za zaščito delavstva in vloga strokovnih (sindikalnih) organizacij"
             source="Borec" year="1989" volume="41" issue="2" page="230-246"/>
     </delo>
-    <delo mojID="48900">
+    <delo mojID="48900" cobiss="51165184">
         <naslov>Začetki gradnje Nove Gorice</naslov>
         <cit did="810" cid="5" avtor0="Ukmar Dragica" naslov0="Začetki gradnje Nove Gorice"
             source="Kronika" year="1993" volume="41" issue="2" page="24"/>
     </delo>
-    <delo mojID="48905">
+    <delo mojID="48905" cobiss="70236160">
         <naslov>Začetki kmetijskega šolstva v naših krajih segajo še v davno leto
                         1771</naslov>
         <cit did="2047" cid="1" avtor0="Adamič France"
@@ -34704,13 +34704,13 @@
             naslov0="Začetki krščanskosocialnega delavskega gibanja med Slovenci"
             source="Socialna misel" year="1924" volume="3" issue="3" page="105-108"/>
     </delo>
-    <delo mojID="48908">
+    <delo mojID="48908" cobiss="5497651">
         <naslov>Začetki krščanstva v Pomurju</naslov>
         <cit did="1711" cid="3" avtor0="Kerman Branko" naslov0="Začetki krščanstva v Pomurju"
             source="Škofija Murska Sobota 2006: zgodovinski oris krščanstva v Pomurju"
             pubPlace="Murska Sobota" year="2007" page="13-17"/>
     </delo>
-    <delo mojID="48911">
+    <delo mojID="48911" cobiss="18866477">
         <naslov>Začetki moderne arhitekture na Češkem — Koterov dunajski čas: Semper, Wag-
                         ner, Plečnik</naslov>
         <cit did="2156" cid="39" avtor0="Prelovšek Damjan"
@@ -34718,7 +34718,7 @@
             source="&#34;Hodilpo zemlji sem naši ...&#34; (ur. Alenka Klemene)" pubPlace="Ljubljana"
             publisher="Založba ZRC, ZRC SAZU" year="2001" page="431-445"/>
     </delo>
-    <delo mojID="48912">
+    <delo mojID="48912" cobiss="62408704">
         <naslov>Začetki načrtnega zbiranja arhivskega gradiva v no-tranjeavstrijskih
                         deželah</naslov>
         <cit did="2843" cid="57" avtor0="Zajc Cizelj Ivanka"
@@ -34747,7 +34747,7 @@
         <cit did="237" cid="39" avtor0="Riegler Jakob"
             naslov0="Začetki slovenskega knjižnega jezika" pubPlace="Ljubljana" year="1968"/>
     </delo>
-    <delo mojID="48930">
+    <delo mojID="48930" cobiss="14386738">
         <naslov>Začetki slovenskega meščanstva v industrijski družbi</naslov>
         <cit did="1691" cid="9" avtor0="Bufon Zmago"
             naslov0="Začetki slovenskega meščanstva v industrijski družbi"
@@ -34783,18 +34783,18 @@
             pubPlace="Ljubljana" publisher="Jugoslovansko novinarsko udruženje, slovenska sekcija"
             year="1937"/>
     </delo>
-    <delo mojID="48937">
+    <delo mojID="48937" cobiss="240485120">
         <naslov>Začetki tobačne industrije v Ljubljani</naslov>
         <cit did="854" cid="61" avtor0="Slokar Ivan"
             naslov0="Začetki tobačne industrije v Ljubljani" source="Kronika" year="1961" volume="9"
             issue="1" page="16-19"/>
     </delo>
-    <delo mojID="48941">
+    <delo mojID="48941" cobiss="57900544">
         <naslov>Začetki šolstva v naši dolini</naslov>
         <cit did="2246" cid="6" avtor0="Gornik Franc" naslov0="Začetki šolstva v naši dolini"
             source="Koroški fužinar" year="1991" volume="56" issue="1" page="19-20"/>
     </delo>
-    <delo mojID="48943">
+    <delo mojID="48943" cobiss="6890248">
         <naslov>Začetnik posvetnega pesništva na slovenskem Štajerskem</naslov>
         <cit did="2076" cid="13" avtor0="Volkmer Leopold"
             naslov0="Začetnik posvetnega pesništva na slovenskem Štajerskem"
@@ -34814,7 +34814,7 @@
             source="Slovensko v Československu 1918-1919" pubPlace="Bratislava" year="2004"
             page="57-93"/>
     </delo>
-    <delo mojID="48946">
+    <delo mojID="48946" cobiss="24383021">
         <naslov>Začátky křesťanství v Čechách. Kapitoly z dějin raně středověké duchovní
                         kultury</naslov>
         <cit did="2209" cid="12" avtor0="Sommer Petr"
@@ -34833,13 +34833,13 @@
             naslov0="Zaštita reproduktivnog zdravlja adolescenata" source="Liječnički vjesnik"
             year="1991" volume="113" page="139-159"/>
     </delo>
-    <delo mojID="48949">
+    <delo mojID="48949" cobiss="4668672">
         <naslov>Zaštita revolucije</naslov>
         <cit did="2287" cid="22" avtor0="Đorđević Obren" naslov0="Zaštita revolucije"
             source="Inštitut za političke študije" pubPlace="Beograd"
             publisher="Fakulteta političkih nauka" year="1979"/>
     </delo>
-    <delo mojID="48950">
+    <delo mojID="48950" cobiss="29486">
         <naslov>Zaštita ribljeg svijeta u prošlosti</naslov>
         <cit did="2636" cid="14" avtor0="Basioli J." naslov0="Zaštita ribljeg svijeta u prošlosti"
             source="Pomorski zbornik" pubPlace="Rijeka" year="1980" issue="18" page="445-452"/>
@@ -34882,19 +34882,19 @@
             naslov0="Zaščita resnice v osamosvojitveni vojni na območju PU Koper" source="Veteran"
             year="2008" issue="35"/>
     </delo>
-    <delo mojID="48959">
+    <delo mojID="48959" cobiss="4668672">
         <naslov>Zaščita revolucije</naslov>
         <cit did="623" cid="12" avtor0="Djordjević Obren" naslov0="Zaščita revolucije"
             pubPlace="Beograd" year="1979" page="221"/>
     </delo>
-    <delo mojID="48960">
+    <delo mojID="48960" cobiss="249999872">
         <naslov>Zaščitna brigada TO = Security brigade of the territorial defence
                         forces</naslov>
         <cit did="2384" cid="16" avtor0="Bolfek Boris"
             naslov0="Zaščitna brigada TO = Security brigade of the territorial defence forces"
             source="Vojaška zgodovina" year="2008" issue="2" page="79-95"/>
     </delo>
-    <delo mojID="48961">
+    <delo mojID="48961" cobiss="5628717">
         <naslov>Zaščitna raziskovanja, Uvod</naslov>
         <cit did="1950" cid="51" avtor0="Stokin M., Josipovič D."
             naslov0="Zaščitna raziskovanja, Uvod"
