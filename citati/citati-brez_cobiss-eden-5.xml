@@ -35705,17 +35705,17 @@
             pubPlace="Ljubljana" publisher="Slovensko etnološko društvo" year="2006" issue="39"
             page="223-234"/>
     </delo>
-    <delo mojID="49186">
+    <delo mojID="49186" cobiss="35757824">
         <naslov>Zgodba moderne umetnosti</naslov>
         <cit did="1933" cid="32" avtor0="Lynton N." naslov0="Zgodba moderne umetnosti"
             pubPlace="Ljubljana" publisher="CZ" year="1994"/>
     </delo>
-    <delo mojID="49187">
+    <delo mojID="49187" cobiss="64384768">
         <naslov>Zgodba o dvoličnikih Dimorphocoris</naslov>
         <cit did="111" cid="3" avtor0="Gogala Matija" naslov0="Zgodba o dvoličnikih Dimorphocoris"
             publisher="Proteus" year="1992" volume="55" issue="2" page="59-61"/>
     </delo>
-    <delo mojID="49188">
+    <delo mojID="49188" cobiss="59725056">
         <naslov>Zgodba o gralu. Perceval</naslov>
         <cit did="2631" cid="257" avtor0="Chretien de Troyes" naslov0="Zgodba o gralu. Perceval"
             pubPlace="Ljubljana" year="1996"/>
@@ -35727,12 +35727,12 @@
             publisher="Galerija Kapelica - Moderna galerija Ljubljana - Galerija Miklova hiša"
             year="2005"/>
     </delo>
-    <delo mojID="49191">
+    <delo mojID="49191" cobiss="214099712">
         <naslov>Zgodba o ljubljanskem gradu</naslov>
         <cit did="2015" cid="38" avtor0="Senica Pavletič V." naslov0="Zgodba o ljubljanskem gradu"
             pubPlace="Ljubljana" publisher="Karantanija" year="2005"/>
     </delo>
-    <delo mojID="49192">
+    <delo mojID="49192" cobiss="109752832">
         <naslov>Zgodba o mopedu</naslov>
         <cit did="809" cid="1" avtor0="Brovinsky Boris" naslov0="Zgodba o mopedu"
             naslov1="45 let proizvodnje mopedov v Kopru" pubPlace="Koper" publisher="Tomos"
@@ -35743,26 +35743,26 @@
         <cit did="2745" cid="46" avtor0="Potokar Ludve" naslov0="Zgodba o zibeli"
             source="Svobodna beseda" pubPlace="Chicago" year="1949" volume="1" issue="8" page="4"/>
     </delo>
-    <delo mojID="49196">
+    <delo mojID="49196" cobiss="1705526">
         <naslov>Zgodbe Kranjčanov, kot jih je pisalo življenje v prejšnjem stoletju</naslov>
         <cit did="1744" cid="25" avtor0="Stariha Gorazd"
             naslov0="Zgodbe Kranjčanov, kot jih je pisalo življenje v prejšnjem stoletju"
             pubPlace="Kranj" publisher="Kranjski zbornik, Mestna občina Kranj" year="1995"
             page="106-121"/>
     </delo>
-    <delo mojID="49197">
+    <delo mojID="49197" cobiss="227052544">
         <naslov>Zgodbe moje pokrajine</naslov>
         <cit did="2544" cid="14" avtor0="Šantel Anton" naslov0="Zgodbe moje pokrajine"
             pubPlace="Ljubljana" publisher="Nova revija" year="2006"/>
     </delo>
-    <delo mojID="49198">
+    <delo mojID="49198" cobiss="1094369">
         <naslov>Zgodbe našega zdravstva in javnega skrbstva</naslov>
         <cit did="1875" cid="8" avtor0="Brecelj Anton"
             naslov0="Zgodbe našega zdravstva in javnega skrbstva"
             source="Slovenci v desetletju 1918-1928. Zbornik razprav iz kulturne, gospodarske in politične zgodovine, Leonova družba"
             pubPlace="Ljubljana" year="1928"/>
     </delo>
-    <delo mojID="49199">
+    <delo mojID="49199" cobiss="484914">
         <naslov>Zgodbe Norika in Furlanije</naslov>
         <cit did="2318" cid="3" avtor0="Bavčer M." naslov0="Zgodbe Norika in Furlanije"
             pubPlace="Toronto" year="1975"/>
@@ -35773,26 +35773,26 @@
             naslov0="Zgodbe Svetega pisma, I. del: zgodbe starega zakona" pubPlace="Celovec"
             year="0" page="4"/>
     </delo>
-    <delo mojID="49204">
+    <delo mojID="49204" cobiss="Herodot">
         <naslov>Zgodbe (v prevodu Antona Sovreta; 2. izdaja)</naslov>
         <cit did="2018" cid="130" avtor0="Herodot"
             naslov0="Zgodbe (v prevodu Antona Sovreta; 2. izdaja)" pubPlace="Ljubljana"
             publisher="Slovenska matica" year="2003"/>
     </delo>
-    <delo mojID="49207">
+    <delo mojID="49207" cobiss="222365696">
         <naslov>Zgodnja zgodovina Slovanov v luči njihovega jezika</naslov>
         <cit did="2764" cid="85" avtor0="Popowska-Taborska Hanna"
             naslov0="Zgodnja zgodovina Slovanov v luči njihovega jezika" pubPlace="Ljubljana"
             year="2005"/>
     </delo>
-    <delo mojID="49209">
+    <delo mojID="49209" cobiss="6000158">
         <naslov>Zgodnje literarne reprezentacije nacionalne zgodovine in 'slovenski kulturni
                         sindrom'</naslov>
         <cit did="2970" cid="4" avtor0="Dovič Marijan"
             naslov0="Zgodnje literarne reprezentacije nacionalne zgodovine in 'slovenski kulturni sindrom'"
             source="Primerjalna književnost" volume="30" page="71-90"/>
     </delo>
-    <delo mojID="49214">
+    <delo mojID="49214" cobiss="3988781">
         <naslov>Zgodnjebaročni skladatelj, izdelovalec orgel in organist Isaac Posch v
                         nadvojvodini Koroški in vojvodini Kranjski</naslov>
         <cit did="1912" cid="65" avtor0="Kokole Metoda"
@@ -35820,20 +35820,20 @@
             source="Zgodnjesrednjeveška lončenina na obrobju vzhodnih Alp :  die frühen Slawen. Frühmittelalterliche Keramik am Rand der Ostalpen"
             pubPlace="Ljubljana" year="2002" page="111-112"/>
     </delo>
-    <delo mojID="49226">
+    <delo mojID="49226" cobiss="29342253">
         <naslov>Zgodnjesrednjeveški žgani grobovi v vzhodnih Alpah</naslov>
         <cit did="2534" cid="30" avtor0="Pleterski Andrej"
             naslov0="Zgodnjesrednjeveški žgani grobovi v vzhodnih Alpah"
             source="Frühmittelalterarchäologie in der Steiermark" year="2008" volume="4"
             page="33-39"/>
     </delo>
-    <delo mojID="49227">
+    <delo mojID="49227" cobiss="31780352">
         <naslov>Zgodnji angleški potopisi po Sloveniji</naslov>
         <cit did="1999" cid="46" avtor0="Stanonik J."
             naslov0="Zgodnji angleški potopisi po Sloveniji" source="Zgodovinski časopis"
             pubPlace="Ljubljana" year="1992" volume="46" issue="1" page="112-118"/>
     </delo>
-    <delo mojID="49228">
+    <delo mojID="49228" cobiss="18615389">
         <naslov>Zgodnji feminizem</naslov>
         <cit did="226" cid="15" avtor0="Antić Milica G." naslov0="Zgodnji feminizem"
             source="Zagovor pravic žensk" pubPlace="Ljubljana" publisher="Krt" year="1993"
@@ -35854,18 +35854,18 @@
         <naslov>Zgodovina 1.2.1-1.4.4.</naslov>
         <cit did="51" cid="63" avtor0="Herodot" naslov0="Zgodovina 1.2.1-1.4.4." pubPlace="e.vir"/>
     </delo>
-    <delo mojID="49237">
+    <delo mojID="49237" cobiss="59446784">
         <naslov>Zgodovina 2</naslov>
         <cit did="2493" cid="2" avtor0="Grobelnik Ivan" avtor1="Voje Ignacij" naslov0="Zgodovina 2"
             pubPlace="Ljubljana" publisher="DZS" year="1996" page="163"/>
     </delo>
-    <delo mojID="49238">
+    <delo mojID="49238" cobiss="251735808">
         <naslov>Zgodovina 3. Učbenik za 3. letnik gimnazije</naslov>
         <cit did="3188" cid="2" avtor0="Cvirn Janez, Studen Andrej"
             naslov0="Zgodovina 3. Učbenik za 3. letnik gimnazije" pubPlace="Ljubljana"
             publisher="DZS" year="2010"/>
     </delo>
-    <delo mojID="49242">
+    <delo mojID="49242" cobiss="36427362">
         <naslov>Zgodovina arheologije na Univerzi v Ljubljani</naslov>
         <cit did="1915" cid="25" avtor0="Novaković P."
             naslov0="Zgodovina arheologije na Univerzi v Ljubljani"
@@ -35873,35 +35873,35 @@
             publisher="Oddelek za arheologijo Filozofske fakultete Univerze v Ljubljani"
             page="11-110"/>
     </delo>
-    <delo mojID="49243">
+    <delo mojID="49243" cobiss="6969910">
         <naslov>Zgodovina arheoloških raziskovanj na Gorenjskem</naslov>
         <cit did="422" cid="24" avtor0="Žibert Marjana"
             naslov0="Zgodovina arheoloških raziskovanj na Gorenjskem" source="Kronika"
             pubPlace="Ljubljana" publisher="Zveza zgodovinskih društev Slovenije" year="2001"
             volume="49" issue="1/2" page="78-80"/>
     </delo>
-    <delo mojID="49245">
+    <delo mojID="49245" cobiss="13562342">
         <naslov>Zgodovina Banke za mednarodne poravnave in njena vloga danes</naslov>
         <cit did="1911" cid="122" avtor0="Zabavnik Helena"
             naslov0="Zgodovina Banke za mednarodne poravnave in njena vloga danes"
             pubPlace="Ljubljana" publisher="Ekonomska fakulteta" year="2003"/>
     </delo>
-    <delo mojID="49258">
+    <delo mojID="49258" cobiss="7610624">
         <naslov>Zgodovina Cerkve 1</naslov>
         <cit did="2408" cid="20" avtor0="Danielou J." avtor1="Marou H." naslov0="Zgodovina Cerkve 1"
             naslov1="Od začetkov do Gregorja Velikega" pubPlace="Ljubljana" year="1988" page="351"/>
     </delo>
-    <delo mojID="49259">
+    <delo mojID="49259" cobiss="21644289">
         <naslov>Zgodovina cest na Slovenskem</naslov>
         <cit did="2623" cid="136" avtor0="Likovič Josip" naslov0="Zgodovina cest na Slovenskem"
             pubPlace="Ljubljana" year="1972"/>
     </delo>
-    <delo mojID="49261">
+    <delo mojID="49261" cobiss="64701440">
         <naslov>Zgodovina deželne civilne bolnice v Ljubljani</naslov>
         <cit did="2610" cid="75" avtor0="Radics Peter"
             naslov0="Zgodovina deželne civilne bolnice v Ljubljani" pubPlace="Ljubljana" year="0"/>
     </delo>
-    <delo mojID="49262">
+    <delo mojID="49262" cobiss="29543681">
         <naslov>Zgodovina diplomacije. 1.</naslov>
         <cit did="2521" cid="24" avtor0="Potemkin V. P." naslov0="Zgodovina diplomacije. 1."
             pubPlace="Ljubljana" publisher="DZS" year="1947"/>
@@ -35927,7 +35927,7 @@
             source="Jubilejna Spominska knjiga izdana povodom tridesetletnice Kranjsko-Slovenske-Katoliške Jednote v Združenih državah Amerike s sedežem v Jolietu, Ill"
             pubPlace="Cleveloand, OH" publisher="Ameriška Domovina" year="1924" page="88-93"/>
     </delo>
-    <delo mojID="49268">
+    <delo mojID="49268" cobiss="16926976">
         <naslov>Zgodovina družine Luckmann</naslov>
         <cit did="2398" cid="9" avtor0="Holz Eva" naslov0="Zgodovina družine Luckmann"
             source="Kronika" year="1989" volume="37" issue="3" page="290-301"/>
@@ -35943,24 +35943,24 @@
         <cit did="272" cid="193" avtor0="Vorländer Karl" naslov0="Zgodovina filozofije I"
             pubPlace="Ljubljana" year="1968"/>
     </delo>
-    <delo mojID="49274">
+    <delo mojID="49274" cobiss="6197302">
         <naslov>Zgodovina fužin ob Bistrici v Kamniku</naslov>
         <cit did="2590" cid="39" avtor0="Mohorič Ivan"
             naslov0="Zgodovina fužin ob Bistrici v Kamniku" source="Kronika" year="1955" volume="3"
             page="25-32"/>
     </delo>
-    <delo mojID="49275">
+    <delo mojID="49275" cobiss="3675446">
         <naslov>Zgodovina gimnazije v Kranju do leta 1918</naslov>
         <cit did="422" cid="30" avtor0="Janša Zorn Olga"
             naslov0="Zgodovina gimnazije v Kranju do leta 1918" source="Kranjski zbornik 1970"
             pubPlace="Kranj" publisher="Skupščina občine Kranj" year="1970" page="349-361"/>
     </delo>
-    <delo mojID="49278">
+    <delo mojID="49278" cobiss="4356402">
         <naslov>Zgodovina Goriške Mohorjeve družbe</naslov>
         <cit did="1432" cid="9" avtor0="Klinec Rudolf" naslov0="Zgodovina Goriške Mohorjeve družbe"
             pubPlace="Gorica" publisher="Goriška Mohorjeva Družba" year="1967"/>
     </delo>
-    <delo mojID="49281">
+    <delo mojID="49281" cobiss="3955552">
         <naslov>Zgodovina gradu in trga Žužemberk</naslov>
         <cit did="2623" cid="276" avtor0="Žargi Matija" naslov0="Zgodovina gradu in trga Žužemberk"
             source="Žužemberški grad: Suhokrajinski zbornik" pubPlace="Žužemberk" year="2003"
@@ -35972,22 +35972,22 @@
             naslov0="Zgodovina grške in srednjeveške filozofije" pubPlace="Ljubljana" year="1999"
             page="9-10"/>
     </delo>
-    <delo mojID="49284">
+    <delo mojID="49284" cobiss="206139">
         <naslov>Zgodovina hiš južne Koroške</naslov>
         <cit did="2612" cid="77" avtor0="Kotnik Bertrand" naslov0="Zgodovina hiš južne Koroške"
             pubPlace="Celovec - Ljubljana - Dunaj" publisher="Mohorjeva založba" year="1992"/>
     </delo>
-    <delo mojID="49285">
+    <delo mojID="49285" cobiss="2818164">
         <naslov>Zgodovina holokavsta na Slovenskem</naslov>
         <cit did="2575" cid="25" avtor0="Pančur Andrej" naslov0="Zgodovina holokavsta na Slovenskem"
             source="Zgodovina v šoli" year="2010" volume="19" issue="1-2" page="32-37"/>
     </delo>
-    <delo mojID="49286">
+    <delo mojID="49286" cobiss="1508467">
         <naslov>Zgodovina hotela Slona</naslov>
         <cit did="1509" cid="114" avtor0="Andrejka Rudolf" naslov0="Zgodovina hotela Slona"
             pubPlace="Ljubljana" year="1938"/>
     </delo>
-    <delo mojID="49288">
+    <delo mojID="49288" cobiss="8126208">
         <naslov>Zgodovina idrijskega zdravstva. Zdravstveno in socialno varstvo idrijskih
                         rudarjev v preteklih stoletjih</naslov>
         <cit did="2780" cid="16" avtor0="Pfeifer Jože"
@@ -36001,14 +36001,14 @@
             naslov0="Zgodovina Ijubljanskih sodnikov in županov 1269-1820.1. zvezek, Sodniki 1269-1504"
             source="Gradivo in razprave št. 20." pubPlace="Ljubljana" year="1998"/>
     </delo>
-    <delo mojID="49290">
+    <delo mojID="49290" cobiss="73711360">
         <naslov>"Zgodovina in delo pravnikov"</naslov>
         <cit did="860" cid="180" avtor0="Pleterski Janko"
             naslov0="&#34;Zgodovina in delo pravnikov&#34;"
             source="Prispevki za novejšo zgodovino : Ferenčev zbornik" year="1997" issue="2"
             page="276"/>
     </delo>
-    <delo mojID="49291">
+    <delo mojID="49291" cobiss="18824704">
         <naslov>Zgodovina in nezavedno</naslov>
         <cit did="2014" cid="29" avtor0="Žižek S." naslov0="Zgodovina in nezavedno"
             pubPlace="Ljubljana" publisher="cankarjeva založba" year="1982"/>
@@ -36018,58 +36018,58 @@
         <cit did="272" cid="340" avtor0="Kocka J." naslov0="Zgodovina in pojasnjevanje : Nastavki"
             pubPlace="Göttingen" year="1989" page="140-159"/>
     </delo>
-    <delo mojID="49293">
+    <delo mojID="49293" cobiss="115638272">
         <naslov>Zgodovina in pripoved</naslov>
         <cit did="1746" cid="11" avtor0="Ricoeur P." naslov0="Zgodovina in pripoved"
             pubPlace="Ljubljana" publisher="Društvo Apokalipsa" year="2001"/>
     </delo>
-    <delo mojID="49294">
+    <delo mojID="49294" cobiss="18100013">
         <naslov>Zgodovina in resnica</naslov>
         <cit did="432" cid="8" avtor0="Luthar Oto" naslov0="Zgodovina in resnica"
             naslov1="Usodna privlačnost ali historična konstrukcija" source="Melikov zbornik"
             pubPlace="Ljubljana" year="2001" page="73"/>
     </delo>
-    <delo mojID="49295">
+    <delo mojID="49295" cobiss="4492625">
         <naslov>Zgodovina in sistem rimskega zasebnega prava, Rodbinsko, dedno in
                         civilno-pravdno pravo</naslov>
         <cit did="1762" cid="77" avtor0="Korošec V."
             naslov0="Zgodovina in sistem rimskega zasebnega prava, Rodbinsko, dedno in civilno-pravdno pravo"
             pubPlace="Celje" publisher="Družba sv. Mohorja" year="1941"/>
     </delo>
-    <delo mojID="49296">
+    <delo mojID="49296" cobiss="62103296">
         <naslov>Zgodovina in utopija</naslov>
         <cit did="2386" cid="14" avtor0="Cioran Emil" naslov0="Zgodovina in utopija"
             pubPlace="Ljubljana" page="8"/>
     </delo>
-    <delo mojID="49297">
+    <delo mojID="49297" cobiss="2077185">
         <naslov>Zgodovina industrije, gozdarstva in obrti v Tržiču. Tretja knjiga.</naslov>
         <cit did="2781" cid="12" avtor0="Mohorič Ivan"
             naslov0="Zgodovina industrije, gozdarstva in obrti v Tržiču. Tretja knjiga."
             pubPlace="Tržič" publisher="Turistično društvo Tržič" year="1965"/>
     </delo>
-    <delo mojID="49298">
+    <delo mojID="49298" cobiss="2076673">
         <naslov>Zgodovina industrije in obrti v Tržiču</naslov>
         <cit did="2304" cid="27" avtor0="Mohorič Ivan"
             naslov0="Zgodovina industrije in obrti v Tržiču" pubPlace="Tržič" year="1957"/>
     </delo>
-    <delo mojID="49299">
+    <delo mojID="49299" cobiss="5389057">
         <naslov>Zgodovina italijanske književnosti od začetkov do naših dni</naslov>
         <cit did="1428" cid="27" avtor0="Momigliano Attilio"
             naslov0="Zgodovina italijanske književnosti od začetkov do naših dni"
             pubPlace="Ljubljana" publisher="DZS" year="1967"/>
     </delo>
-    <delo mojID="49300">
+    <delo mojID="49300" cobiss="5936941">
         <naslov>Zgodovina izseljencev ni zgodovina naroda</naslov>
         <cit did="2539" cid="5" avtor0="Drnovšek Marjan"
             naslov0="Zgodovina izseljencev ni zgodovina naroda" source="Dve domovini/Two Homelands"
             year="1997" volume="8"/>
     </delo>
-    <delo mojID="49303">
+    <delo mojID="49303" cobiss="2227201">
         <naslov>Zgodovina Kitajske</naslov>
         <cit did="142" cid="54" avtor0="Eberhard Wolfram" naslov0="Zgodovina Kitajske"
             pubPlace="Ljubljana" publisher="DZS" year="1966" page="183-208"/>
     </delo>
-    <delo mojID="49305">
+    <delo mojID="49305" cobiss="36427618">
         <naslov>Zgodovina knjižnice Oddelka za arheologijo</naslov>
         <cit did="1915" cid="21" avtor0="Lovenjak M."
             naslov0="Zgodovina knjižnice Oddelka za arheologijo"
@@ -36082,19 +36082,19 @@
         <cit did="1850" cid="7" avtor0="Kralj F." naslov0="Zgodovina koprske škofije"
             source="Tvoja in moja Cerkev" pubPlace="Ljubljana" year="1982" page="119-130"/>
     </delo>
-    <delo mojID="49308">
+    <delo mojID="49308" cobiss="98239232">
         <naslov>Zgodovina Kosteh od konca 15. do konca 19. stoletja</naslov>
         <cit did="2288" cid="78" avtor0="Južnič Stanislav"
             naslov0="Zgodovina Kosteh od konca 15. do konca 19. stoletja"
             naslov1="doktorska disertacija" pubPlace="Fara pri Kostelu" year="1998"/>
     </delo>
-    <delo mojID="49310">
+    <delo mojID="49310" cobiss="98239232">
         <naslov>Zgodovina Kostela od konca 15. do konca 19. stoletja</naslov>
         <cit did="288" cid="33" avtor0="Južnič Stanislav"
             naslov0="Zgodovina Kostela od konca 15. do konca 19. stoletja"
             naslov1="doktorska disertacija" pubPlace="Fara pri Kostelu" year="1998" page="220"/>
     </delo>
-    <delo mojID="49311">
+    <delo mojID="49311" cobiss="15300354">
         <naslov>Zgodovina kot ideologija</naslov>
         <cit did="2018" cid="210" avtor0="Luthar Otto" naslov0="Zgodovina kot ideologija"
             source="Filozofski vestnik" year="1990" volume="11" issue="1" page="49-59"/>
@@ -36105,7 +36105,7 @@
             source="Kaj se je zgodilo s slovensko zgodovino? - 7. Razgledi" pubPlace="Ljubljana"
             year="1994" volume="11" issue="1018" page="19-20"/>
     </delo>
-    <delo mojID="49313">
+    <delo mojID="49313" cobiss="1336275">
         <naslov>Zgodovina kot politična manipulacija</naslov>
         <cit did="1766" cid="3" avtor0="Guštin Mitja" naslov0="Zgodovina kot politična manipulacija"
             source="Stiplovškov zbornik" pubPlace="Ljubljana" year="2005" page="27-32"/>
@@ -36116,7 +36116,7 @@
             naslov0="Zgodovina kot zgodovinsko družboslovje" pubPlace="Frankfurt" year="1973"
             page="22"/>
     </delo>
-    <delo mojID="49317">
+    <delo mojID="49317" cobiss="11585595">
         <naslov>Zgodovina kramarskih hišic v Prešernovi ulici</naslov>
         <cit did="3241" cid="238" avtor0="Andrejka Rudolf"
             naslov0="Zgodovina kramarskih hišic v Prešernovi ulici" source="Kronika slovenskih mest"
@@ -36130,12 +36130,12 @@
             naslov0="Zgodovina lista Edinost in njegove tiskarne v zvezi s splošnim razvojem tržaških Slovencev. Edinost 1876-1926. Dopolnjen in preurejen ponatis jubilejne številke"
             pubPlace="Trst" publisher="Edinost" year="0"/>
     </delo>
-    <delo mojID="49329">
+    <delo mojID="49329" cobiss="1139159">
         <naslov>Zgodovina Logatca</naslov>
         <cit did="2633" cid="24" avtor0="Svajncer Zarja" naslov0="Zgodovina Logatca"
             naslov1="diplomska naloga" year="2003"/>
     </delo>
-    <delo mojID="49331">
+    <delo mojID="49331" cobiss="13797633">
         <naslov>Zgodovina marksizma</naslov>
         <cit did="2170" cid="12" avtor0="Vranicki Predrag" naslov0="Zgodovina marksizma"
             pubPlace="Ljubljana" year="1983" page="161"/>
@@ -36153,18 +36153,18 @@
             naslov0="Zgodovina misli o jeziku in književnosti na Slovenskem: protestantizem"
             pubPlace="Ljubljana" publisher="ZRC SAZU" year="2007" page="250-251"/>
     </delo>
-    <delo mojID="49340">
+    <delo mojID="49340" cobiss="126866176">
         <naslov>Zgodovina na maturi</naslov>
         <cit did="3398" cid="9" avtor0="Končan Bojan" naslov0="Zgodovina na maturi"
             source="Zgodovina v šoli" year="2000" volume="9" issue="3-4" page="46"/>
     </delo>
-    <delo mojID="49341">
+    <delo mojID="49341" cobiss="40119296">
         <naslov>Zgodovina nakelske fare. Zgodovina fara ljubljanske škofije 3.</naslov>
         <cit did="2583" cid="94" avtor0="Koblar Anton"
             naslov0="Zgodovina nakelske fare. Zgodovina fara ljubljanske škofije 3."
             pubPlace="Ljubljana" year="0"/>
     </delo>
-    <delo mojID="49342">
+    <delo mojID="49342" cobiss="12574770">
         <naslov>Zgodovina načrtovanj železniških povezav z Zgornjim Posočjem</naslov>
         <cit did="2078" cid="12" avtor0="Rustja K."
             naslov0="Zgodovina načrtovanj železniških povezav z Zgornjim Posočjem"
@@ -36175,13 +36175,13 @@
         <cit did="375" cid="18" avtor0="Poklar Franc" naslov0="Zgodovina naših krajev"
             naslov1="ponatis" source="Kočanski vestnik" year="0"/>
     </delo>
-    <delo mojID="49350">
+    <delo mojID="49350" cobiss="74829824">
         <naslov>Zgodovina novoveške filozofije: predstavniki glavnih smeri</naslov>
         <cit did="2635" cid="42" avtor0="Stres Anton"
             naslov0="Zgodovina novoveške filozofije: predstavniki glavnih smeri"
             pubPlace="Ljubljana" year="1998" page="10"/>
     </delo>
-    <delo mojID="49351">
+    <delo mojID="49351" cobiss="2076673">
         <naslov>Zgodovina obrti in industrije v Tržiču</naslov>
         <cit did="2614" cid="38" avtor0="Mohorič Ivan"
             naslov0="Zgodovina obrti in industrije v Tržiču" pubPlace="Tržič" year="1957"/>
@@ -36197,7 +36197,7 @@
         <cit did="1912" cid="144" avtor0="Škulj Edo" naslov0="Zgodovina orglarstva na Slovenskem"
             source="Knjižica Cerkvenega glasbenika" pubPlace="Ljubljana" year="1992" page="3-21"/>
     </delo>
-    <delo mojID="49361">
+    <delo mojID="49361" cobiss="13487617">
         <naslov>Zgodovina Poljske</naslov>
         <cit did="3280" cid="5" avtor0="Gieysztor Aleksander" naslov0="Zgodovina Poljske"
             pubPlace="Ljubljana" year="1982"/>
@@ -36241,7 +36241,7 @@
         <cit did="1572" cid="57" avtor0="Stegenšek Avguštin" naslov0="Zgodovina slovenskega naroda"
             source="ČZN" year="1917" volume="13" page="100-102"/>
     </delo>
-    <delo mojID="49394">
+    <delo mojID="49394" cobiss="21980928">
         <naslov>Zgodovina slovenskega osvobodilnega boja</naslov>
         <cit did="92" cid="2" avtor0="Mikuž Metod"
             naslov0="Zgodovina slovenskega osvobodilnega boja" pubPlace="Ljubljana" year="1970"
@@ -36254,12 +36254,12 @@
             source="Časopis za zgodovino in narodopisje" pubPlace="Maribor"
             publisher="Zgodovinsko društvo v Mariboru" year="1924" volume="19-20" page="96-99"/>
     </delo>
-    <delo mojID="49407">
+    <delo mojID="49407" cobiss="621313">
         <naslov>Zgodovina slovenskega slovstva VI.</naslov>
         <cit did="1768" cid="5" avtor0="Legiša Lino" naslov0="Zgodovina slovenskega slovstva VI."
             pubPlace="Ljubljana" year="1969" page="113-115"/>
     </delo>
-    <delo mojID="49409">
+    <delo mojID="49409" cobiss="235627008">
         <naslov>Zgodovina smo ljudje : značilnosti slovenske biografike</naslov>
         <cit did="742" cid="46" avtor0="Porenta T."
             naslov0="Zgodovina smo ljudje : značilnosti slovenske biografike"
@@ -36278,26 +36278,26 @@
             naslov0="Zgodovina socialnega zavarovanja v Sloveniji do leta 1945" pubPlace="Ljubljana"
             year="1978" page="42-53"/>
     </delo>
-    <delo mojID="49418">
+    <delo mojID="49418" cobiss="4032000">
         <naslov>Zgodovina solstva in pedagogike na Slovenskem I.</naslov>
         <cit did="1912" cid="125" avtor0="Schmidt Vlado"
             naslov0="Zgodovina solstva in pedagogike na Slovenskem I." pubPlace="Ljubljana"
             year="1988"/>
     </delo>
-    <delo mojID="49420">
+    <delo mojID="49420" cobiss="5338604">
         <naslov>Zgodovina srednjega veka za III. razred realnih in klasičnih gimnazij in
                         realk</naslov>
         <cit did="439" cid="29" avtor0="Popović V."
             naslov0="Zgodovina srednjega veka za III. razred realnih in klasičnih gimnazij in realk"
             pubPlace="Beograd" year="1935" page="100"/>
     </delo>
-    <delo mojID="49421">
+    <delo mojID="49421" cobiss="93213696">
         <naslov>Zgodovina srednjega veka za VI. razred srednjih šol</naslov>
         <cit did="439" cid="30" avtor0="Orožen J."
             naslov0="Zgodovina srednjega veka za VI. razred srednjih šol" pubPlace="Ljubljana"
             year="1940" page="147-150"/>
     </delo>
-    <delo mojID="49422">
+    <delo mojID="49422" cobiss="21414145">
         <naslov>Zgodovina starega vzhoda</naslov>
         <cit did="142" cid="19" avtor0="Avdijev Igorjevič Vsevolod"
             naslov0="Zgodovina starega vzhoda" pubPlace="Ljubljana" publisher="DZS" year="1964"
@@ -36308,12 +36308,12 @@
         <cit did="2604" cid="75" avtor0="Novak France" naslov0="Zgodovina svetokriške župnije"
             source="Ob 750-letnici Sv. Križa. Krajevna skupnost" pubPlace="Podbočje" page="43-71"/>
     </delo>
-    <delo mojID="49426">
+    <delo mojID="49426" cobiss="124662784">
         <naslov>Zgodovina. Tematski leksikoni</naslov>
         <cit did="2781" cid="25" naslov0="Zgodovina. Tematski leksikoni" pubPlace="Tržič"
             publisher="Učila International" year="2003"/>
     </delo>
-    <delo mojID="49430">
+    <delo mojID="49430" cobiss="29723393">
         <naslov>Zgodovina trgovine s kratkim orisom občne zgodovine</naslov>
         <cit did="3241" cid="48" avtor0="Krošl Anton"
             naslov0="Zgodovina trgovine s kratkim orisom občne zgodovine" pubPlace="Celje"
@@ -36332,14 +36332,14 @@
             naslov0="Zgodovina umetnosti v zahodni Evropi. II. Razvoj stila v visokem in poznem srednjem veku: od leta 1000 do leta 1400"
             pubPlace="Ljubljana" year="1931"/>
     </delo>
-    <delo mojID="49435">
+    <delo mojID="49435" cobiss="98009856">
         <naslov>Zgodovina: učiteljica, pravljica, nadloga</naslov>
         <cit did="2113" cid="1" avtor0="Dežman Jože"
             naslov0="Zgodovina: učiteljica, pravljica, nadloga"
             source="Kaj se je zgodilo s slovensko zgodovino? - 3. Razgledi" pubPlace="Ljubljana"
             year="1994" volume="7" issue="104" page="12-13"/>
     </delo>
-    <delo mojID="49437">
+    <delo mojID="49437" cobiss="30344546">
         <naslov>Zgodovina v zgodbah ustne tradicije</naslov>
         <cit did="1635" cid="21" avtor0="Jezernik Božidar"
             naslov0="Zgodovina v zgodbah ustne tradicije" source="Časopis za kritiko znanosti"
@@ -36355,18 +36355,18 @@
         <cit did="439" cid="34" avtor0="Božič Branko, Weber Tomaž" naslov0="Zgodovina za 6. razred"
             pubPlace="Ljubljana" year="1978" page="82"/>
     </delo>
-    <delo mojID="49444">
+    <delo mojID="49444" cobiss="503113">
         <naslov>Zgodovina za 6. razred osnovne šole</naslov>
         <cit did="439" cid="33" avtor0="Metelko A." naslov0="Zgodovina za 6. razred osnovne šole"
             pubPlace="Ljubljana" year="1971" page="149"/>
     </delo>
-    <delo mojID="49445">
+    <delo mojID="49445" cobiss="6780673">
         <naslov>Zgodovina za gimnazije in sorodne srednje šole II</naslov>
         <cit did="439" cid="32" avtor0="Grobelnik Ivan"
             naslov0="Zgodovina za gimnazije in sorodne srednje šole II" pubPlace="Ljubljana"
             year="1971" page="64"/>
     </delo>
-    <delo mojID="49446">
+    <delo mojID="49446" cobiss="41347840">
         <naslov>Zgodovina za II. razred gimnazije</naslov>
         <cit did="439" cid="31" avtor0="Grobelnik Ivan, Koropec Jože, Krasovski Anatol"
             avtor1="Terseglav Franc" naslov0="Zgodovina za II. razred gimnazije"
@@ -36377,7 +36377,7 @@
         <cit did="2174" cid="11" avtor0="Nagata Juzo"
             naslov0="Zgodovina zahodne Azije II: Iran in Turčija" pubPlace="Tokio" year="2002"/>
     </delo>
-    <delo mojID="49453">
+    <delo mojID="49453" cobiss="58754561">
         <naslov>Zgodovina zavarovalništva v Mariboru</naslov>
         <cit did="2304" cid="72" avtor0="Radovanović Sašo, Čarni Srečko"
             naslov0="Zgodovina zavarovalništva v Mariboru" pubPlace="Maribor" year="2007"/>
@@ -36401,7 +36401,7 @@
             source="Znanstvena revija - Humanistika" year="1995" volume="3" issue="2" page="405-414"
         />
     </delo>
-    <delo mojID="49462">
+    <delo mojID="49462" cobiss="23387904">
         <naslov>Zgodovina človeštva</naslov>
         <cit did="142" cid="148" avtor0="Luigi Pareti" naslov0="Zgodovina človeštva"
             source="Razvoj kulture in znanosti (druga knjiga/tretji zvezek)" pubPlace="Ljubljana"
@@ -36419,7 +36419,7 @@
         <cit did="3448" cid="9" avtor0="Gros Jakob" naslov0="Zgodovina črnomaljske šole"
             source="Letno sporočilo očitne glavne šole v Črnomlji" pubPlace="Črnomelj" year="1864"/>
     </delo>
-    <delo mojID="49467">
+    <delo mojID="49467" cobiss="39218177">
         <naslov>Zgodovina šole. 120 let izobraževanja trgovcev v Mariboru</naslov>
         <cit did="3377" cid="31" avtor0="Rojs Vlasta"
             naslov0="Zgodovina šole. 120 let izobraževanja trgovcev v Mariboru" pubPlace="Maribor"
@@ -36435,7 +36435,7 @@
         <cit did="844" cid="177" avtor0="Bojc Etbin" naslov0="Zgodovina šolstva v kočevskem okraju"
             pubPlace="Ljubljana" publisher="Nova pot" year="1969" issue="7-9"/>
     </delo>
-    <delo mojID="49471">
+    <delo mojID="49471" cobiss="1265364">
         <naslov>Zgodovina štajerskih Slovencev v 20. stoletju: Med lojalnostjo in
                         zatiranjem</naslov>
         <cit did="2662" cid="65" avtor0="Weitlaner Susanne" avtor1="Petrowitsch Michael"
@@ -36448,18 +36448,18 @@
             source="Storia delle donne in Occidente : Il medioevo" pubPlace="Roma-BariLaterza"
             year="1990"/>
     </delo>
-    <delo mojID="49475">
+    <delo mojID="49475" cobiss="4868653">
         <naslov>Zgodovina žirovskega čevljarstva</naslov>
         <cit did="2614" cid="58" avtor0="Stanoik M." naslov0="Zgodovina žirovskega čevljarstva"
             source="Loški razgledi" year="1971" volume="18" page="128-146"/>
     </delo>
-    <delo mojID="49477">
+    <delo mojID="49477" cobiss="192883">
         <naslov>Zgodovina župnij in zvonovi v dekaniji Radovlica</naslov>
         <cit did="2444" cid="5" avtor0="Lavtižar Josip"
             naslov0="Zgodovina župnij in zvonovi v dekaniji Radovlica" pubPlace="Ljubljana" year="0"
         />
     </delo>
-    <delo mojID="49483">
+    <delo mojID="49483" cobiss="467533">
         <naslov>Zgodovinar Diego de Castro, avtor številnih del o “tržaškem vprašanju”, se
                         je že pred časom zavzel, da bi Trst vodila osebnost, ki ne bi bila izraz
                         strankarskih kompromisov. Sovraštvo in maščevanje ne prinašata nič dobrega.
@@ -36468,7 +36468,7 @@
             naslov0="Zgodovinar Diego de Castro, avtor številnih del o “tržaškem vprašanju”, se je že pred časom zavzel, da bi Trst vodila osebnost, ki ne bi bila izraz strankarskih kompromisov. Sovraštvo in maščevanje ne prinašata nič dobrega. Slovenci imajo dolžnost, da bra"
             source="Republika" year="1994"/>
     </delo>
-    <delo mojID="49484">
+    <delo mojID="49484" cobiss="27518722">
         <naslov>Zgodovinar in raziskovanje stanovanjske kulture urbanih naselij v
                         preteklosti</naslov>
         <cit did="563" cid="5" avtor0="Studen Andrej"
@@ -36481,18 +36481,18 @@
             naslov0="Zgodovinarji o OF. njenih akterjih, ozadju in značaju" source="Delo"
             year="2026"/>
     </delo>
-    <delo mojID="49490">
+    <delo mojID="49490" cobiss="18168833">
         <naslov>Zgodovine železnic na Slovenskem</naslov>
         <cit did="1304" cid="14" avtor0="Mohorič Ivan" naslov0="Zgodovine železnic na Slovenskem"
             pubPlace="Ljubljana" year="1968" page="294-295"/>
     </delo>
-    <delo mojID="49492">
+    <delo mojID="49492" cobiss="1213044">
         <naslov>Zgodovinopisje</naslov>
         <cit did="2900" cid="12" avtor0="Vodopivec Peter" naslov0="Zgodovinopisje"
             naslov1="kronološki pregled" source="Enciklopedija Slovenije, 15, Wi-Ž"
             pubPlace="Ljubljana" year="2001" page="165-172"/>
     </delo>
-    <delo mojID="49493">
+    <delo mojID="49493" cobiss="67189">
         <naslov>Zgodovinopisje in arhivistika</naslov>
         <cit did="2843" cid="12" avtor0="Žontar Jože" naslov0="Zgodovinopisje in arhivistika"
             source="Arhivi" year="1999" volume="22" issue="1-2"/>
@@ -36511,25 +36511,25 @@
             naslov0="Zgodovinopisje na Slovenskem danes: okrogla miza v Tolminu 2. oktobra 1986"
             source="Zgodovinski časopis" year="1987" volume="41" issue="1" page="147-172"/>
     </delo>
-    <delo mojID="49499">
+    <delo mojID="49499" cobiss="22787938">
         <naslov>Zgodovinopisje o Slovenski ljudski stranki</naslov>
         <cit did="2249" cid="9" avtor0="Lukan Walter"
             naslov0="Zgodovinopisje o Slovenski ljudski stranki" source="Historični seminar 4"
             pubPlace="Ljubljana" year="2003" page="189-190"/>
     </delo>
-    <delo mojID="49500">
+    <delo mojID="49500" cobiss="30371938">
         <naslov>Zgodovinopisje v prvi svetovni vojni</naslov>
         <cit did="1662" cid="163" avtor0="Lukan Walter"
             naslov0="Zgodovinopisje v prvi svetovni vojni" source="Velika vojna in Slovenci"
             pubPlace="Ljubljana" year="2005"/>
     </delo>
-    <delo mojID="49502">
+    <delo mojID="49502" cobiss="700045">
         <naslov>Zgodovinska antropologija</naslov>
         <cit did="2018" cid="337" avtor0="Valensi L., Wachtel N."
             naslov0="Zgodovinska antropologija" source="Monitor LSH" year="2001" volume="3"
             issue="1-2" page="155-172"/>
     </delo>
-    <delo mojID="49505">
+    <delo mojID="49505" cobiss="245971968">
         <naslov>Zgodovinska osnova narodno osvobodilne borbe v Sloveniji</naslov>
         <cit did="860" cid="71" avtor0="Martinc Janez"
             naslov0="Zgodovinska osnova narodno osvobodilne borbe v Sloveniji" source="ZSS"
@@ -36547,7 +36547,7 @@
             naslov0="Zgodovinske osebnosti in zgodovinska resničnost v pripovednih pesmih: Ob nekaterih primerih iz južnoslovanskega izročila"
             source="Makedonski folklor" year="1984" volume="17" issue="33"/>
     </delo>
-    <delo mojID="49518">
+    <delo mojID="49518" cobiss="245971968">
         <naslov>Zgodovinske osnove narodnoosvobodilne borbe v Sloveniji</naslov>
         <cit did="71" cid="135" avtor0="Martinc Janez (Debeljak Tine)"
             naslov0="Zgodovinske osnove narodnoosvobodilne borbe v Sloveniji"
@@ -36571,7 +36571,7 @@
         <cit did="442" cid="56" avtor0="Rutar Simon" naslov0="Zgodovinskega Tolminskega"
             source="Zgodovinski dogodki sodnijskih okrajev" pubPlace="Gorica" year="0"/>
     </delo>
-    <delo mojID="49530">
+    <delo mojID="49530" cobiss="5175838">
         <naslov>Zgodovinski in literarni pomen rokopisa z Brižinskimi spomeniki</naslov>
         <cit did="2764" cid="66" avtor0="Kurdorfer Dieter"
             naslov0="Zgodovinski in literarni pomen rokopisa z Brižinskimi spomeniki"
@@ -36600,7 +36600,7 @@
             source="Lekarnistvo na Primorskem : ob 50 letnici Primorske podružnice Slovenskega farmacevtskega društva"
             pubPlace="Postojna" year="2004" page="59-60"/>
     </delo>
-    <delo mojID="49539">
+    <delo mojID="49539" cobiss="21783341">
         <naslov>Zgodovinski oris razumevanja in pomena pedagoške kazni</naslov>
         <cit did="1447" cid="5" avtor0="Strmčnik France"
             naslov0="Zgodovinski oris razumevanja in pomena pedagoške kazni"
@@ -36621,7 +36621,7 @@
             naslov0="Zgodovinski pregled celjske trgovine z ozirom na manufakturno stroko"
             source="Tkanina Celje 1952-1972"/>
     </delo>
-    <delo mojID="49543">
+    <delo mojID="49543" cobiss="3669811">
         <naslov>Zgodovinski pregled cerkvene uprave v Prekmurju</naslov>
         <cit did="3465" cid="131" avtor0="Zelko Ivan"
             naslov0="Zgodovinski pregled cerkvene uprave v Prekmurju"
@@ -36648,14 +36648,14 @@
             naslov0="Zgodovinski razlogi za ustanovitev TO in njen razvoj na prehodu iz šestdeseta v sedemdeseta leta"
             pubPlace="Ljubljana" year="1999" page="20"/>
     </delo>
-    <delo mojID="49550">
+    <delo mojID="49550" cobiss="109221888">
         <naslov>Zgodovinski razlogi za ustanovitev TO in njen razvoj na prehodu iz
                         šestdesetih v sedemdeseta leta</naslov>
         <cit did="2384" cid="9" avtor0="Polak Bojan"
             naslov0="Zgodovinski razlogi za ustanovitev TO in njen razvoj na prehodu iz šestdesetih v sedemdeseta leta"
             source="Vojstvo" year="1999" issue="5" page="20"/>
     </delo>
-    <delo mojID="49551">
+    <delo mojID="49551" cobiss="388980">
         <naslov>Zgodovinski razvoj narodnostnega stanja v Trstu</naslov>
         <cit did="1511" cid="84" avtor0="Čokelj Bodan"
             naslov0="Zgodovinski razvoj narodnostnega stanja v Trstu" pubPlace="Trst" year="1949"/>
@@ -36673,14 +36673,14 @@
             source="Srednjeveška kulturna, družbena in politična zgodovina Slovencev, Izbrane razprave"
             pubPlace="Ljubljana" year="1985" page="273-282"/>
     </delo>
-    <delo mojID="49556">
+    <delo mojID="49556" cobiss="25270109">
         <naslov>Zgodovinski spomin in slovenski tisk v Italiji: Primer Zaščitnega zakona in
                         Primorskega dnevnika</naslov>
         <cit did="2723" cid="21" avtor0="Štrekelj Jasmina"
             naslov0="Zgodovinski spomin in slovenski tisk v Italiji: Primer Zaščitnega zakona in Primorskega dnevnika"
             naslov1="diplomska naloga" pubPlace="Ljubljana" year="2006"/>
     </delo>
-    <delo mojID="49558">
+    <delo mojID="49558" cobiss="22707245">
         <naslov>Zgodovinski temelji slovenskega vključevanja v evropski integracijski
                         proces</naslov>
         <cit did="1552" cid="3" avtor0="Rahten Andrej"
@@ -36699,27 +36699,27 @@
         <cit did="2144" cid="8" avtor0="Grdina Igor" naslov0="Zgodovinski časopis" year="1999"
             issue="2" page="288"/>
     </delo>
-    <delo mojID="49562">
+    <delo mojID="49562" cobiss="122836">
         <naslov>Zgodovinskih razvoj prebivalstva na Koroškem in njegove socialne
                         osnove</naslov>
         <cit did="219" cid="26" avtor0="Zwitter Fran"
             naslov0="Zgodovinskih razvoj prebivalstva na Koroškem in njegove socialne osnove"
             source="Koroški kulturni dnevi" pubPlace="Maribor" year="1973" page="18"/>
     </delo>
-    <delo mojID="49565">
+    <delo mojID="49565" cobiss="19681069">
         <naslov>Zgodovinsko gledanje na spreminjanje narodnega] značaja nasploh in na
                         vprašanje slovenskega narodnega značaja posebej</naslov>
         <cit did="3505" cid="120" avtor0="Grafenauer Bogo"
             naslov0="Zgodovinsko gledanje na spreminjanje narodnega] značaja nasploh in na vprašanje slovenskega narodnega značaja posebej"
             source="Sodobnost" year="1986"/>
     </delo>
-    <delo mojID="49566">
+    <delo mojID="49566" cobiss="35106658">
         <naslov>Zgodovinsko o Hemi Krški</naslov>
         <cit did="2423" cid="64" avtor0="Štih Peter" naslov0="Zgodovinsko o Hemi Krški"
             source="Posvet o sv. Ema/Emina romarska pot = Hemma Pilgerweg" pubPlace="Posreda"
             year="2007" page="6-23"/>
     </delo>
-    <delo mojID="49568">
+    <delo mojID="49568" cobiss="110036">
         <naslov>Zgodovinsko ozadje ustanovitve Družbe sv. Mohorja v Celovcu</naslov>
         <cit did="442" cid="49" avtor0="Moritsch Andrej"
             naslov0="Zgodovinsko ozadje ustanovitve Družbe sv. Mohorja v Celovcu"
@@ -36732,20 +36732,20 @@
             naslov0="Zgodovinsko poslanstvo Osvobodilne fronte slovenskega naroda" source="Borec"
             year="1981" issue="3/4" page="149"/>
     </delo>
-    <delo mojID="49571">
+    <delo mojID="49571" cobiss="40955392">
         <naslov>Zgornja Baška dolina v prvi polovici 19. stoletja</naslov>
         <cit did="3121" cid="34" avtor0="Granda Stane"
             naslov0="Zgornja Baška dolina v prvi polovici 19. stoletja" source="Kronika" year="1992"
             volume="42" page="52-58"/>
     </delo>
-    <delo mojID="49572">
+    <delo mojID="49572" cobiss="112805888">
         <naslov>Zgornja Gorenjska : 1990-1991</naslov>
         <cit did="1290" cid="7" avtor0="Klinar Rina" naslov0="Zgornja Gorenjska : 1990-1991"
             naslov1="Utrinki (pred)osamosvojitvenih dni : monografija"
             pubPlace="Radovljica, Jesenice"
             publisher="Območno združenje veteranov vojne za Slovenijo" year="2001" page="90-313"/>
     </delo>
-    <delo mojID="49574">
+    <delo mojID="49574" cobiss="107513856">
         <naslov>Zgornjesavska kulinarika</naslov>
         <cit did="2037" cid="13" avtor0="Košir Stanko" naslov0="Zgornjesavska kulinarika"
             pubPlace="Gozd Martuljek" publisher="samozaložba" year="2000"/>
@@ -36756,14 +36756,14 @@
             source="Varstvo spomenikov" pubPlace="Ljubljana" year="1989" volume="31" page="260-261"
         />
     </delo>
-    <delo mojID="49576">
+    <delo mojID="49576" cobiss="6985782">
         <naslov>Zgornji stolp na Kranclju in Stari grad pod Lubnikom ter njuni
                         gradiščani</naslov>
         <cit did="2583" cid="77" avtor0="Blaznik Pavle"
             naslov0="Zgornji stolp na Kranclju in Stari grad pod Lubnikom ter njuni gradiščani"
             source="Loški razgledi" year="1956" volume="3" page="79-87"/>
     </delo>
-    <delo mojID="49577">
+    <delo mojID="49577" cobiss="206189">
         <naslov>Zgrabiti in izgnati : vzorec ksenofobičnega diskurza v Slovenskih
                         novicah</naslov>
         <cit did="2826" cid="15" avtor0="Kuhar Roman"
@@ -36778,7 +36778,7 @@
             naslov0="Zgradba in delovanje mlinov: Mlini v občinah: Gornja Radgona, Radenci in Sv. Jurij ob Ščavnici"
             pubPlace="Gornja Radgona" publisher="Zgodovinsko društvo" year="2000" page="6-17"/>
     </delo>
-    <delo mojID="49580">
+    <delo mojID="49580" cobiss="7552333">
         <naslov>Zgrešeno modrovanje modrecev</naslov>
         <cit did="212" cid="88" avtor0="Malle Janko" naslov0="Zgrešeno modrovanje modrecev"
             source="Slovenski vestnik" pubPlace="Celovec" year="0" volume="55" issue="37" page="2"/>
