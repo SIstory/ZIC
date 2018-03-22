@@ -36824,7 +36824,7 @@
             naslov0="Zhongguo sangzang lisu (Običaji pokopov na Kitajskem)" pubPlace="Zhejiang"
             year="1992" page="283"/>
     </delo>
-    <delo mojID="49588">
+    <delo mojID="49588" cobiss="23704930">
         <naslov>Zidani Gaber v luči nekaterih arheoloških poznoantičnih najdb</naslov>
         <cit did="1298" cid="97" avtor0="Lux Judita"
             naslov0="Zidani Gaber v luči nekaterih arheoloških poznoantičnih najdb"
@@ -36849,12 +36849,12 @@
         <cit did="1996" cid="25" avtor0="Perčić I."
             naslov0="Zidno slikarstvo Istre (katalog izložbe)" pubPlace="Zagreb" year="1963"/>
     </delo>
-    <delo mojID="49596">
+    <delo mojID="49596" cobiss="9328205">
         <naslov>Zidovi u Hrvatskoj</naslov>
         <cit did="2575" cid="31" avtor0="Švob Melita" naslov0="Zidovi u Hrvatskoj" pubPlace="Zagreb"
             publisher="Izvori Zagreb" year="2004" page="17-159"/>
     </delo>
-    <delo mojID="49597">
+    <delo mojID="49597" cobiss="27244898">
         <naslov>Zidovi u Zagrebu</naslov>
         <cit did="2575" cid="9" avtor0="Goldstein Ivo" naslov0="Zidovi u Zagrebu" pubPlace="Zagreb"
             publisher="Novi Liber" year="2004"/>
@@ -36876,7 +36876,7 @@
             naslov0="Zilja, Slovenska ljudska noša v besedi in podobi, Peti zvezek"
             pubPlace="Ljubljana" year="1991"/>
     </delo>
-    <delo mojID="49601">
+    <delo mojID="49601" cobiss="18060032">
         <naslov>Ziljska dolina</naslov>
         <cit did="438" cid="4" avtor0="Zablatnik Pavle" naslov0="Ziljska dolina"
             source="Od Dolan do Šmohora" pubPlace="Celje" year="1981" page="118-129"/>
@@ -36888,7 +36888,7 @@
             naslov0="Ziljski furmani: konjereja kot glavni vir dohodkov ziljskih kmetov od poznega srednjega veka do konca 19. stoletja"
             source="Koledar Mohorjeve družbe" pubPlace="Celovec-Dunaj-Ljubljana" year="2008"/>
     </delo>
-    <delo mojID="49603">
+    <delo mojID="49603" cobiss="4538880">
         <naslov>Ziljsko štehvanje in njegov in njegov evropski okvir</naslov>
         <cit did="3380" cid="16" avtor0="Kuret Niko"
             naslov0="Ziljsko štehvanje in njegov  in njegov evropski okvir" pubPlace="Ljubljana"
@@ -36959,7 +36959,7 @@
             pubPlace="Wien" publisher="Verlag für Geschichte und Politik" year="1970" page="436-453"
         />
     </delo>
-    <delo mojID="49623">
+    <delo mojID="49623" cobiss="8215299">
         <naslov>Zitje Konstantina in žitje Metodija</naslov>
         <cit did="2067" cid="8" avtor0="Snoj A. Slavko"
             naslov0="Zitje Konstantina in žitje Metodija" source="Grivčev simpozij v Rimu"
@@ -36990,7 +36990,7 @@
             naslov1="intervju z arheologom Bojanom Djuričem" source="Nedelo" year="2026" volume="IX"
             issue="39" page="24"/>
     </delo>
-    <delo mojID="49630">
+    <delo mojID="49630" cobiss="13141037">
         <naslov>Zlata koklja s piščeti</naslov>
         <cit did="1766" cid="8" avtor0="Kastelic Jože" naslov0="Zlata koklja s piščeti"
             source="Traditiones" year="1976" volume="5-6" page="177"/>
@@ -37007,12 +37007,12 @@
             naslov0="Zlata veja (raziskave magije in religije)" pubPlace="Ljubljana"
             publisher="Nova revija" year="2001"/>
     </delo>
-    <delo mojID="49634">
+    <delo mojID="49634" cobiss="642431">
         <naslov>Zlatarstvo in pasarstvo v Ptuju</naslov>
         <cit did="2614" cid="94" avtor0="Simoniti M." naslov0="Zlatarstvo in pasarstvo v Ptuju"
             source="Ptujski zbornik" year="1975" volume="4" page="317-337"/>
     </delo>
-    <delo mojID="49635">
+    <delo mojID="49635" cobiss="28671232">
         <naslov>Zlati Bogatin - Tolminske povedke</naslov>
         <cit did="715" cid="7" avtor0="Dolenc J." naslov0="Zlati Bogatin - Tolminske povedke"
             source="Zbirka Glasovi" pubPlace="Ljubljana" publisher="Kmečki glas" year="1992"/>
@@ -37027,7 +37027,7 @@
         <cit did="1432" cid="8" avtor0="Humar Kazimir" naslov0="Zlatomašnik msgr. dr. Franc Močnik"
             pubPlace="Gorica" publisher="Goriška Mohorjeva družba" year="1984" page="119-121"/>
     </delo>
-    <delo mojID="49638">
+    <delo mojID="49638" cobiss="217123584">
         <naslov>Zlatorogovi čudežni vrtovi: Slovenske pripovedi o zmajih, belih gamsih,
                         zlatih pticah in drugih bajnih živalih</naslov>
         <cit did="1742" cid="9" avtor0="Dapit Roberto, Kropej Monika"
@@ -37056,7 +37056,7 @@
         <cit did="167" cid="42" avtor0="Lambl V. D." naslov0="Zlomek dopisu z Terstu"
             source="PoutnÃ­k" pubPlace="Praga" year="0" issue="2" page="318-319"/>
     </delo>
-    <delo mojID="49645">
+    <delo mojID="49645" cobiss="50635264">
         <naslov>Zlomljen pogled</naslov>
         <cit did="634" cid="32" avtor0="Dežman Jože" naslov0="Zlomljen pogled" source="Borec"
             year="1992" issue="1/2"/>
@@ -37088,7 +37088,7 @@
         <cit did="385" cid="59" avtor0="Šuligoj B." naslov0="Zločin in kazen" source="Delo"
             pubPlace="Ljubljana" year="0" volume="82" page="5"/>
     </delo>
-    <delo mojID="49651">
+    <delo mojID="49651" cobiss="211466">
         <naslov>Zločin je bježao na zapad</naslov>
         <cit did="1464" cid="60" avtor0="Vojinović Aleksandar" naslov0="Zločin je bježao na zapad"
             pubPlace="Zagreb" year="1987" page="84-290"/>
@@ -37122,14 +37122,14 @@
             naslov0="&#34;Zmaga katoliškega gibanja/ Slovenska politika od l. 1907 do prevrata&#34;, zgodovina katoliškega gibanja na Slovenskem"
             pubPlace="Ljubljana" year="1928" page="227"/>
     </delo>
-    <delo mojID="49662">
+    <delo mojID="49662" cobiss="3652785">
         <naslov>"Zmaga-svoboda". Sokolsko jugoslaviziranje</naslov>
         <cit did="2879" cid="2" avtor0="Pavlin Tomaž"
             naslov0="&#34;Zmaga-svoboda&#34;. Sokolsko jugoslaviziranje"
             source="Jugoslavija v času : devetdeset let od nastanka prve jugoslovanske države : ninety years since the formation of the first state of Yugoslavia"
             pubPlace="Ljubljana" year="2009" page="213-227"/>
     </delo>
-    <delo mojID="49663">
+    <delo mojID="49663" cobiss="31801344">
         <naslov>Zmajeva hiša</naslov>
         <cit did="1450" cid="6" avtor0="Rošker Jana" naslov0="Zmajeva hiša" pubPlace="Ljubljana"
             year="1992" page="162"/>
@@ -37146,7 +37146,7 @@
             source="Slovensko na začiatku 20. storočia" pubPlace="Bratislava" year="1999"
             page="353-363"/>
     </delo>
-    <delo mojID="49666">
+    <delo mojID="49666" cobiss="12531457">
         <naslov>Zmote dijaka Tjaža</naslov>
         <cit did="2735" cid="54" avtor0="Lipuš Florjan" naslov0="Zmote dijaka Tjaža"
             pubPlace="Borovlje, Celovec, Trst" publisher="Drava; Založnitvo tržaškega tiska"
@@ -37206,7 +37206,7 @@
             naslov0="Znameniti kriminalisti in kriminologi: Aleksander Maklecov 1884-1948"
             source="Kriminalistična služba" year="1958" volume="9" page="293-302"/>
     </delo>
-    <delo mojID="49678">
+    <delo mojID="49678" cobiss="46813953">
         <naslov>Znamenja in javni spomeniki v Ptuju</naslov>
         <cit did="1904" cid="9" avtor0="Vrišer Sergej" naslov0="Znamenja in javni spomeniki v Ptuju"
             source="Ptujski zbornik IV" pubPlace="Maribor" year="1975" page="302"/>
@@ -37221,7 +37221,7 @@
         <cit did="1617" cid="25" avtor0="Prekoršek Ivan" naslov0="Znamenje časa" source="ND"
             year="0" page="1"/>
     </delo>
-    <delo mojID="49682">
+    <delo mojID="49682" cobiss="16842726">
         <naslov>Znamka Slovenije kot turistične destinacije</naslov>
         <cit did="698" cid="3" avtor0="Tomin Vučkovič Mateja"
             naslov0="Znamka Slovenije kot turistične destinacije" source="TUR!ZEM" year="0"/>
@@ -37232,13 +37232,13 @@
             avtor0="Crnica Slavica, Pečauer Marko , Stojanov Veso , Slamberger Vlado"
             naslov0="Znamo živeti demokracijo?" source="Delo, 29.10. 1990" year="1990"/>
     </delo>
-    <delo mojID="49684">
+    <delo mojID="49684" cobiss="1436929">
         <naslov>Znana in neznana Sovjetska zveza</naslov>
         <cit did="142" cid="170" avtor0="Stanič Janez, Borozin Mark"
             naslov0="Znana in neznana Sovjetska zveza" pubPlace="Ljubljana" publisher="MK"
             year="1978" page="106-139"/>
     </delo>
-    <delo mojID="49685">
+    <delo mojID="49685" cobiss="42456576">
         <naslov>Znane in neznane poezije</naslov>
         <cit did="442" cid="89" avtor0="Eller Fran" naslov0="Znane in neznane poezije"
             pubPlace="Celovec" year="1995"/>
@@ -37253,13 +37253,13 @@
         <cit did="3104" cid="7" avtor0="Heidegger Martin" naslov0="Znanost in osmislitev"
             source="Phainomena" pubPlace="Ljubljana" year="1993" volume="13-14" page="12-33"/>
     </delo>
-    <delo mojID="49689">
+    <delo mojID="49689" cobiss="1939828">
         <naslov>Znanost in zločin - Inštitut za jugovzhodno nemštvo v Gradcu</naslov>
         <cit did="2287" cid="72" avtor0="Promitzer Christian"
             naslov0="Znanost in zločin - Inštitut za jugovzhodno nemštvo v Gradcu"
             source="Prispevki za novejšo zgodovino" year="2005" issue="2" page="79-87"/>
     </delo>
-    <delo mojID="49694">
+    <delo mojID="49694" cobiss="688501">
         <naslov>Znanost v Sovjetski zvezi</naslov>
         <cit did="2966" cid="9" avtor0="Kidrič France" naslov0="Znanost v Sovjetski zvezi"
             source="Slovenski zbornik 1945" pubPlace="Ljubljana" publisher="DZS" year="1945"
@@ -37278,26 +37278,26 @@
             naslov1="XIV. Evropski kongres  narodnih skupnosti dežele Koroške" pubPlace="Pliberk"
             year="2003"/>
     </delo>
-    <delo mojID="49700">
+    <delo mojID="49700" cobiss="7814189">
         <naslov>Znanstveno delo Milka Kosa</naslov>
         <cit did="2018" cid="101" avtor0="Grafenauer Bogo" naslov0="Znanstveno delo Milka Kosa"
             source="Zgodovinski časopis" year="1952" volume="6-7" page="9-29"/>
     </delo>
-    <delo mojID="49701">
+    <delo mojID="49701" cobiss="584308">
         <naslov>Znanstveno posvetovanje "Slovenija 1848-1998: Iskanje lastne poti" : Iskanje
                         lastne poti",</naslov>
         <cit did="574" cid="1" avtor0="Režek Mateja"
             naslov0="Znanstveno posvetovanje &#34;Slovenija 1848-1998: Iskanje lastne poti&#34; : Iskanje lastne poti&#34;,"
             source="Prispevki za novejšo zgodovino" year="1998" volume="38" issue="1/2"/>
     </delo>
-    <delo mojID="49702">
+    <delo mojID="49702" cobiss="512668031">
         <naslov>Znanstveno zgodovinopisje kot dejavnik preživetja</naslov>
         <cit did="2018" cid="190" avtor0="Kreft L."
             naslov0="Znanstveno zgodovinopisje kot dejavnik preživetja"
             source="Nacionalna identiteta in kultura" pubPlace="Ljubljana" publisher="ICK"
             year="2003" page="55-71"/>
     </delo>
-    <delo mojID="49703">
+    <delo mojID="49703" cobiss="17358593">
         <naslov>Značaj Grafenauerjevih člankov (spremna beseda)</naslov>
         <cit did="2018" cid="254" avtor0="Prunk J."
             naslov0="Značaj Grafenauerjevih člankov (spremna beseda)"
@@ -37331,27 +37331,27 @@
             source="Kongres pedagoških delavcev na Bledu I, Pedagoški tisk - zvezek 2"
             pubPlace="Ljubljana" publisher="DZS" year="1951" page="45-75"/>
     </delo>
-    <delo mojID="49716">
+    <delo mojID="49716" cobiss="31018594">
         <naslov>Značilnosti političnega govora v totalitarni in demokratični družbi (na
                         primeru slovenskih parlamentarnih govorov)</naslov>
         <cit did="1733" cid="6" avtor0="Kernc Boštjan"
             naslov0="Značilnosti političnega govora v totalitarni in demokratični družbi (na primeru slovenskih parlamentarnih govorov)"
             source="Jezik in slovstvo" year="2005" volume="50" issue="5" page="49-63"/>
     </delo>
-    <delo mojID="49718">
+    <delo mojID="49718" cobiss="4520797">
         <naslov>Značilnosti sodobnih mednarodnih migracij (migracijska politika in posledice
                         migracij)</naslov>
         <cit did="2559" cid="3" avtor0="Klinar Peter"
             naslov0="Značilnosti sodobnih mednarodnih migracij (migracijska politika in posledice migracij)"
             source="Teorija in praksa" year="1975" issue="12"/>
     </delo>
-    <delo mojID="49719">
+    <delo mojID="49719" cobiss="51117">
         <naslov>Značilnosti urbanizacije</naslov>
         <cit did="2892" cid="9" avtor0="Ravbar Marjan" naslov0="Značilnosti urbanizacije"
             source="Geografski atlas Slovenije" pubPlace="Ljubljana" publisher="DZS" year="1998"
             page="310-313"/>
     </delo>
-    <delo mojID="49720">
+    <delo mojID="49720" cobiss="5315665">
         <naslov>Značilnosti ureditve socialnih sodišč glede na pravno naravo socialnega
                         spora</naslov>
         <cit did="128" cid="1" avtor0="Kresal Šoltes Katarina"
@@ -37400,7 +37400,7 @@
             naslov0="Zona d' operazione Litorale Adriatico, La battagliaper Trieste, l'Istra e Fiume"
             pubPlace="Gorizia" publisher="Libreria Editrice Goriziana" year="1996"/>
     </delo>
-    <delo mojID="49736">
+    <delo mojID="49736" cobiss="1154259">
         <naslov>Zone A in the Early 1950s, as We Americans Knew It</naslov>
         <cit did="3452" cid="20" avtor0="Davis J. C."
             naslov0="Zone A in the Early 1950s, as We Americans Knew It"
@@ -37480,13 +37480,13 @@
         <cit did="1933" cid="65" avtor0="Sgarbi V." naslov0="Zoran Mušič: Opere recenti"
             pubPlace="Milano" publisher="Galleria Bergamini" year="1988"/>
     </delo>
-    <delo mojID="49751">
+    <delo mojID="49751" cobiss="512916351">
         <naslov>Zoran Mušič - svetovljanstvo, "vaš" in "naš"</naslov>
         <cit did="1933" cid="31" avtor0="Kržišnik Z."
             naslov0="Zoran Mušič - svetovljanstvo, &#34;vaš&#34; in &#34;naš&#34;" source="Art.si"
             year="2004" volume="5" issue="4" page="26-31"/>
     </delo>
-    <delo mojID="49752">
+    <delo mojID="49752" cobiss="2264430">
         <naslov>Zoran Mušič v Dachauu</naslov>
         <cit did="1933" cid="12" avtor0="Distel B., Haibl M., Miiller C."
             naslov0="Zoran Mušič v Dachauu" pubPlace="Koper" publisher="Obalne galerije Piran"
@@ -37551,7 +37551,7 @@
         <cit did="871" cid="6" avtor0="Koropec Jože" naslov0="Zrinjsko-Frankopanska zarota"
             source="Rače in okolica skozi stoletja I." pubPlace="Rače" year="1993" page="47-62"/>
     </delo>
-    <delo mojID="49766">
+    <delo mojID="49766" cobiss="223223552">
         <naslov>Zrno soli za imperij : Piran 1579-1609 : materialna dediščina in kultura
                         mesta</naslov>
         <cit did="1997" cid="9" avtor0="Brglez A."
@@ -37568,7 +37568,7 @@
         <cit did="2712" cid="119" avtor0="Mihelčič Ivanka" naslov0="ZSMS bo stranka zakona in reda"
             source="Dnevnik, 5.10. 1989" year="1989"/>
     </delo>
-    <delo mojID="49769">
+    <delo mojID="49769" cobiss="28907522">
         <naslov>ZSMS in napadi na JLA - vsestransko neuspelo srečanje</naslov>
         <cit did="847" cid="6" avtor0="Žagar Igor, Tancig Peter"
             naslov0="ZSMS in napadi na JLA - vsestransko neuspelo srečanje"
